@@ -1,0 +1,40 @@
+<link href='/theme.css' rel='stylesheet' />
+<link href='/styles.css' rel='stylesheet' />
+<style>
+  .navbar-dropdown {
+    left: unset;
+    right: 0;
+  }
+</style>
+<header class='header'>
+  <nav class='navbar'>
+    <div class='navbar-brand'>
+      <a class='navbar-item' href='{{{or site.url siteRootPath}}}'>
+        <img
+          src='/logo-icon.png'
+          alt='Logo'
+          style='height: 1.75rem; margin-right: 0.5rem;'
+        />
+        <span>{{site.title}}</span>
+      </a>
+      {{#if env.SITE_SEARCH_PROVIDER}}
+        <div class='navbar-item search hide-for-print'>
+          <div id='search-field' class='field'>
+            <input id='search-input' type='text' placeholder='🔎' />
+          </div>
+        </div>
+      {{/if}}
+      <button
+        class='navbar-burger'
+        aria-controls='topbar-nav'
+        aria-expanded='false'
+        aria-label='Toggle main menu'
+      >
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+    <div id='topbar-nav' class='navbar-menu'></div>
+  </nav>
+</header>

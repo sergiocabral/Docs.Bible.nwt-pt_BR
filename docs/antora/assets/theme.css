@@ -1,0 +1,30 @@
+:root {
+  --bg-color: #f4f8fb; /* azul bem claro */
+  --text-color: #1e2a33; /* azul acinzentado escuro */
+  --navbar-bg: #1a2e40; /* azul escuro */
+  --navbar-text: #e6f1ff; /* quase branco azulado */
+  --dropdown-bg: #dce8ee; /* quase branco azulado */
+  --dropdown-text: #1e2a33; /* azul acinzentado escuro */
+  --dropdown-bg-hover: #c8d2d4; /* fundo do dropdown ao passar o mouse */
+  --dropdown-text-hover: #1a2e40; /* azul escuro ao passar o mouse */
+  --doc-text: #2b3b4c; /* texto principal */
+  --link-color: #1e88e5; /* azul Google */
+  --link-hover: #1565c0; /* azul escuro ao passar o mouse */
+  --code-bg: #e9f1f3; /* azul muito claro */
+  --code-text: #0d47a1; /* azul escuro */
+}
+.dark {
+  --bg-color: #121e28; /* fundo principal escuro azulado */
+  --text-color: #e0ecf6; /* texto claro azulado */
+  --navbar-bg: #0d1b26; /* navbar mais escura */
+  --navbar-text: #a8c4e2; /* texto claro na navbar */
+  --dropdown-bg: #2a3a4a; /* fundo escuro suave */
+  --dropdown-text: #f0f4f8; /* texto bem claro */
+  --dropdown-bg-hover: #38495a; /* hover um pouco mais claro */
+  --dropdown-text-hover: #ffffff; /* branco puro no hover */
+  --doc-text: #c5d9ed; /* texto principal */
+  --link-color: #64b5f6; /* azul suave */
+  --link-hover: #90caf9; /* azul mais claro no hover */
+  --code-bg: #1e2f3d; /* fundo do bloco de código escuro */
+  --code-text: #bbdefb; /* texto do código em azul claro */
+}

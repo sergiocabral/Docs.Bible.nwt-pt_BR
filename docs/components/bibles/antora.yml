@@ -1,0 +1,5 @@
+name: bibles
+title: Traduções da Bíblia
+version: content
+nav:
+  - modules/ROOT/nav.adoc

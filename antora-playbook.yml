@@ -1,0 +1,19 @@
+site:
+  title: Bíblia Sagrada
+  start_page: bibles::index.adoc
+content:
+  edit_url: '{web_url}/edit/{refname}/{path}'
+  sources:
+    - url: .
+      branches: [HEAD]
+      start_paths: ./docs/components/*
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
+  # https://gitlab.com/antora/antora-ui-default/tree/master/src/partials
+  supplemental_files: ./.next/antora
+antora:
+  extensions:
+    - require: '@antora/lunr-extension'
+      index_latest_only: true
+      languages: [pt, en]

@@ -1,0 +1,47 @@
+{
+  "name": "docs.bibles",
+  "version": "3.0.0",
+  "description": "Documentação pessoal: Traduções da Bíblia.",
+  "scripts": {
+    "antora-copy": "shx mkdir -p ./public && shx cp -r ./docs/antora/assets/* ./public && shx mkdir -p ./.next/antora/partials && shx cp -r ./docs/antora/partials/* ./.next/antora/partials",
+    "antora-factory-nav": "node scripts/antora-factory-nav.js ./docs/components",
+    "antora-factory-include": "node scripts/antora-factory-include.js ./docs/components",
+    "antora-factory-menu": "node scripts/antora-factory-menu.js ./.next/antora/partials/header-content.hbs ./docs/components",
+    "antora-factory": "npm run antora-factory-nav && npm run antora-factory-include && npm run antora-factory-menu",
+    "inject-umami": "node scripts/inject-umami.js ./public",
+    "inject-env": "node scripts/inject-env.js ./public",
+    "inject": "npm run inject-umami && npm run inject-env",
+    "antora": "npm run antora-copy && npm run antora-factory && antora --stacktrace ./antora-playbook.yml --to-dir ./public && npm run inject",
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "format": "prettier --write .",
+    "vercel-build": "npm run antora && npm run build"
+  },
+  "author": "sergiocabral.dev",
+  "license": "MIT",
+  "dependencies": {
+    "@antora/lunr-extension": "^1.0.0-alpha.10",
+    "dotenv": "^17.2.0",
+    "next": "15.4.2",
+    "next-auth": "^4.24.11",
+    "react": "19.1.0",
+    "react-dom": "19.1.0"
+  },
+  "devDependencies": {
+    "@antora/cli": "^3.1.10",
+    "@antora/site-generator": "^3.1.10",
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.4.2",
+    "prettier": "^3.6.2",
+    "shx": "^0.4.0",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}

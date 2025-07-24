@@ -1,0 +1,3 @@
+= Título da Tradução Aqui
+
+Este é um arquivo modelo. Coloque o conteúdo da tradução da Bíblia desejada na pasta acima deste arquivo.

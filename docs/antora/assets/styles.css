@@ -1,0 +1,234 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css');
+
+/* ==[ Temas, Light, Dark ] == */
+
+body {
+  background: var(--bg-color);
+  color: var(--text-color);
+}
+
+.navbar {
+  background: var(--navbar-bg);
+  color: var(--navbar-text);
+}
+
+.nav-menu h3.title,
+.doc h1,
+.doc h2,
+.doc h3,
+.doc h4,
+.doc h5,
+.doc h6,
+.toc-menu,
+.toc .toc-menu h3,
+.doc {
+  color: var(--doc-text);
+}
+
+a,
+.toolbar .edit-this-page a {
+  color: var(--link-color);
+}
+a:hover,
+.toolbar .edit-this-page a:hover {
+  color: var(--link-hover);
+}
+
+aside.nav,
+.toolbar,
+.doc .admonitionblock td.content,
+.doc .sidebarblock,
+code {
+  background: var(--code-bg);
+  color: var(--code-text);
+}
+
+.navbar-dropdown {
+  background: var(--dropdown-bg);
+  color: var(--dropdown-text);
+}
+
+.navbar-dropdown a.navbar-item {
+  background: var(--dropdown-bg);
+  color: var(--dropdown-text);
+}
+
+.navbar-dropdown a.navbar-item:hover {
+  background: var(--dropdown-bg-hover);
+  color: var(--dropdown-text-hover);
+}
+
+@media screen and (max-width: 1023.5px) {
+  .navbar-menu {
+    background: var(--dropdown-bg);
+    color: var(--dropdown-text);
+  }
+
+  .navbar-menu .navbar-link {
+    background: var(--dropdown-bg);
+    color: var(--dropdown-text);
+  }
+
+  .navbar-menu .navbar-link:hover {
+    background: var(--dropdown-bg-hover);
+    color: var(--dropdown-text-hover);
+  }
+}
+
+.toolbar[role='navigation'] {
+  background: linear-gradient(
+    to right,
+    color-mix(in srgb, var(--code-bg) 75%, white) 0%,
+    var(--code-bg) 25%,
+    var(--code-bg) 100%
+  );
+}
+
+/* ==[ Marcadores de texto ] == */
+
+mark {
+  background-color: #ffffdd;
+}
+.dark mark {
+  background-color: #e7e7a3;
+}
+
+.blue {
+  background-color: #ddddff;
+}
+.dark .blue {
+  background-color: #343466;
+}
+
+.green {
+  background-color: #ddffdd;
+}
+.dark .green {
+  background-color: #2d442d;
+}
+
+.red {
+  background-color: #ffdddd;
+}
+.dark .red {
+  background-color: #442d2d;
+}
+
+.tag {
+  text-transform: lowercase;
+  font-family: monospace;
+  background-color: #555;
+  padding: 1px 6px 2px 6px;
+  border-radius: 6px;
+  font-weight: bold;
+  color: #fff;
+  font-size: 86%;
+  position: relative;
+  top: -1px;
+}
+.tag:before {
+  content: '#';
+}
+
+/* ==[ Elementos do documento ] == */
+
+.doc audio,
+.doc video {
+  width: 100%;
+}
+
+/* ==[ Bloco de texto ] == */
+
+.doc .exampleblock > .content,
+.doc details.result > .content,
+.doc .sidebarblock {
+  border: 1px solid #c0c0c0;
+  box-shadow: 0 0 10px #c0c0c0;
+  padding: 0.25em;
+}
+
+.doc .sidebarblock .content:not(.closed) {
+  padding: 0 0.75em 0.75em 0.75em;
+}
+.doc .sidebarblock > .content > .title {
+  margin: 0;
+  font-size: 1em;
+}
+.doc .sidebarblock > .content:not(.closed) > .title {
+  padding-top: 0.75em;
+  margin-bottom: 0.5em;
+}
+
+/* ==[ Quadros de aviso ] == */
+
+.doc .admonitionblock {
+  padding: 1em 0;
+  margin-top: 1em;
+}
+
+.doc .admonitionblock td.content {
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+
+.doc .admonitionblock td.icon {
+  background-color: var(--code-bg);
+  font-size: 1rem;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+  line-height: 2.25em;
+  border-radius: 100%;
+}
+
+.doc .admonitionblock td.icon i {
+  font-family: unset;
+  background-color: transparent !important;
+}
+
+.doc .admonitionblock.tip td.icon i::after {
+  content: '💡';
+}
+.doc .admonitionblock.note td.icon i::after {
+  content: '🏷️';
+}
+.doc .admonitionblock.important td.icon i::after {
+  content: '📌';
+}
+.doc .admonitionblock.warning td.icon i::after {
+  content: '⚠️';
+}
+.doc .admonitionblock.caution td.icon i::after {
+  content: '☢️';
+}
+
+/* ==[ Customização: Bíblia ] == */
+
+.bible .doc hr + .paragraph:not([id]):last-child > p {
+  font-size: 80%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.bible .doc .admonitionblock td.icon {
+  background-color: var(--navbar-bg);
+  border-radius: 5px;
+  font-size: 0.5em;
+}
+
+.bible .doc .admonitionblock.tip td.icon {
+  background-color: #5d5d5d;
+}
+.bible .doc .admonitionblock.note td.icon {
+  background-color: #8e8e8e;
+}
+.bible .doc .admonitionblock.important td.icon {
+  background-color: #217ee7;
+}
+
+.bible .doc .admonitionblock.tip td.icon i::after {
+  content: 'Notas de estudo';
+}
+.bible .doc .admonitionblock.note td.icon i::after {
+  content: 'Notas de rodapé';
+}
+.bible .doc .admonitionblock.important td.icon i::after {
+  content: 'Notas pessoais';
+}
