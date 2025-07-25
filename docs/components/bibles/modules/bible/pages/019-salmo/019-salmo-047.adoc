@@ -1,0 +1,73 @@
+include::./index.adoc[]
+
+[[v19-47-0]]
+=== Salmos, 47
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Ao regente. Salmo dos filhos de Corá._
+
+[[v19-47-1]]
+
+^<<v19-47-1,1>>^ Batam palmas, todos os povos.
+Aclamem a Deus triunfantemente com gritos de alegria.
+
+[[v19-47-2]]
+
+^<<v19-47-2,2>>^ Pois Jeová, o Altíssimo, inspira temor;
+Ele é o grande Rei sobre toda a terra.
+
+[[v19-47-3]]
+
+^<<v19-47-3,3>>^ Ele sujeita povos a nós;
+Põe nações sob os nossos pés.
+
+[[v19-47-4]]
+
+^<<v19-47-4,4>>^ Escolhe para nós a nossa herança,
+O orgulho de Jacó, a quem ele ama. (Selá)
+
+[[v19-47-5]]
+
+^<<v19-47-5,5>>^ Deus subiu em meio a gritos de alegria;
+Jeová subiu ao som da buzina.^&#42;1^
+
+[NOTE]
+====
+. Ou: “do chifre de carneiro; da trombeta”.
+====
+
+[[v19-47-6]]
+
+^<<v19-47-6,6>>^ Cantem louvores^&#42;1^ a Deus, cantem louvores.
+Cantem louvores ao nosso Rei, cantem louvores.
+
+[NOTE]
+====
+. Ou: “Façam música”.
+====
+
+[[v19-47-7]]
+
+^<<v19-47-7,7>>^ Pois Deus é Rei de toda a terra;
+Cantem louvores e mostrem entendimento.
+
+[[v19-47-8]]
+
+^<<v19-47-8,8>>^ Deus tornou-se Rei sobre as nações.
+Deus está sentado no seu santo trono.
+
+[[v19-47-9]]
+
+^<<v19-47-9,9>>^ Os líderes dos povos se reuniram
+Com o povo do Deus de Abraão.
+Pois os governantes^&#42;1^ da terra pertencem a Deus.
+Ele está numa posição muito elevada.
+
+[NOTE]
+====
+. Lit.: “escudos”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-046.adoc#v19-46-0[&#60; Capítulo Anterior] | <<v19-47-0,Topo>> | xref:019-salmo/019-salmo-048.adoc#v19-48-0[Próximo Capítulo &#62;]

@@ -1,0 +1,203 @@
+include::./index.adoc[]
+
+[[v30-5-0]]
+=== Amós, 5
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v30-5-1]]
+
+^<<v30-5-1,1>>^ “Ouçam esta palavra que declaro contra vocês em forma de lamentação, ó casa de Israel:
+
+[[v30-5-2]]
+
+^<<v30-5-2,2>>^ ‘Caiu a virgem Israel;
+Ela não pode mais se levantar.
+Foi abandonada na sua própria terra;
+Não há ninguém para levantá-la.’
+
+[[v30-5-3]]
+
+^<<v30-5-3,3>>^ “Pois assim diz o Soberano Senhor Jeová:
+‘A cidade que marcha para a guerra com mil homens ficará com cem;
+E aquela que sai com cem ficará com dez, para a casa de Israel.’
+
+[[v30-5-4]]
+
+^<<v30-5-4,4>>^ “Pois assim diz Jeová à casa de Israel:
+‘Busquem-me e continuem vivendo.
+
+[[v30-5-5]]
+
+^<<v30-5-5,5>>^ Não busquem a Betel,
+Não vão a Gilgal nem se dirijam a Berseba;
+Pois Gilgal irá sem falta para o exílio,
+E Betel será reduzida a nada.^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “se tornará algo sinistro”.
+====
+
+[[v30-5-6]]
+
+^<<v30-5-6,6>>^ Busquem a Jeová e continuem vivendo,
+Para que ele não irrompa sobre a casa de José como um fogo
+E consuma Betel, sem que ninguém possa apagar o fogo.
+
+[[v30-5-7]]
+
+^<<v30-5-7,7>>^ Vocês transformam a justiça em absinto^&#42;1^
+E lançam por terra a retidão.
+
+[NOTE]
+====
+. Ou: “amargura”.
+====
+
+[[v30-5-8]]
+
+^<<v30-5-8,8>>^ Aquele que fez a constelação de Quima^&#42;1^ e a constelação de Quesil,^&#42;2^
+Aquele que transforma as densas trevas em manhã,
+Aquele que faz o dia ficar escuro como a noite,
+Aquele que convoca as águas do mar
+Para derramá-las na superfície da terra
+— Jeová é seu nome.
+
+[NOTE]
+====
+. Possivelmente as estrelas de Plêiades na constelação de Touro.
+. Possivelmente a constelação de Órion.
+====
+
+[[v30-5-9]]
+
+^<<v30-5-9,9>>^ Ele fará com que a destruição venha de repente sobre os homens fortes,
+Trará destruição sobre lugares fortificados.
+
+[[v30-5-10]]
+
+^<<v30-5-10,10>>^ Eles odeiam os que dão repreensão no portão da cidade
+E detestam os que falam a verdade.
+
+[[v30-5-11]]
+
+^<<v30-5-11,11>>^ Visto que vocês exigem que o pobre pague aluguel pela terra^&#42;1^
+E tomam dele o cereal como imposto,
+Não continuarão a morar nas casas de pedras lavradas que construíram
+Nem beberão o vinho dos vinhedos seletos que plantaram.
+
+[NOTE]
+====
+. Ou: “taxa fundiária”.
+====
+
+[[v30-5-12]]
+
+^<<v30-5-12,12>>^ Pois eu sei quantos são os seus atos rebeldes^&#42;1^
+E como são grandes os seus pecados:
+Vocês atormentam o justo,
+Aceitam suborno^&#42;2^
+E negam os direitos do pobre no portão da cidade.
+
+[NOTE]
+====
+. Ou: “crimes”.
+. Ou: “dinheiro para ficar calados”.
+====
+
+[[v30-5-13]]
+
+^<<v30-5-13,13>>^ Portanto, os sábios^&#42;1^ ficarão em silêncio naquele tempo,
+Porque será um tempo de calamidade.
+
+[NOTE]
+====
+. Ou: “perspicazes”.
+====
+
+[[v30-5-14]]
+
+^<<v30-5-14,14>>^ Busquem o bem, e não o mal,
+Para que continuem vivendo.
+Então Jeová, o Deus dos exércitos, estará com vocês,
+Como vocês dizem que ele está.
+
+[[v30-5-15]]
+
+^<<v30-5-15,15>>^ Odeiem o mal e amem o bem,
+Deixem que a justiça prevaleça no portão da cidade.
+Pode ser que Jeová, o Deus dos exércitos,
+Mostre favor aos que restarem de José.’
+
+[[v30-5-16]]
+
+^<<v30-5-16,16>>^ “Portanto, assim diz Jeová, o Deus dos exércitos, Jeová:
+‘Em todas as praças haverá lamento,
+E em todas as ruas as pessoas dirão: “Ai! Ai!”
+Chamarão os lavradores para chorar
+E os lamentadores profissionais para lamentar.’
+
+[[v30-5-17]]
+
+^<<v30-5-17,17>>^ ‘Em todos os vinhedos haverá lamento;
+Pois eu passarei no meio de vocês’, diz Jeová.
+
+[[v30-5-18]]
+
+^<<v30-5-18,18>>^ ‘Ai dos que anseiam pelo dia de Jeová!
+O que o dia de Jeová significará para vocês?
+Será escuridão, e não luz.
+
+[[v30-5-19]]
+
+^<<v30-5-19,19>>^ Será como quando um homem foge de um leão e se depara com um urso;
+E, quando ele entra em casa e apoia a mão na parede, uma cobra o morde.
+
+[[v30-5-20]]
+
+^<<v30-5-20,20>>^ Não será o dia de Jeová escuridão em vez de luz?
+Não terá trevas em vez de claridade?
+
+[[v30-5-21]]
+
+^<<v30-5-21,21>>^ Eu odeio, desprezo as suas festividades
+E não tenho prazer no cheiro das suas assembleias solenes.
+
+[[v30-5-22]]
+
+^<<v30-5-22,22>>^ Mesmo que vocês me façam sacrifícios queimados e ofertas,
+Não terei prazer neles;
+E não olharei com favor para os seus sacrifícios de participação em comum de animais gordos.
+
+[[v30-5-23]]
+
+^<<v30-5-23,23>>^ Afastem de mim a barulheira dos seus cânticos;
+Não quero ouvir as melodias dos seus instrumentos de cordas.
+
+[[v30-5-24]]
+
+^<<v30-5-24,24>>^ Que a justiça flua como as águas,
+E a retidão como um rio que não para de correr.
+
+[[v30-5-25]]
+
+^<<v30-5-25,25>>^ Vocês por acaso me trouxeram sacrifícios e ofertas
+Durante os quarenta anos no deserto, ó casa de Israel?
+
+[[v30-5-26]]
+
+^<<v30-5-26,26>>^ Agora, vocês terão de levar seu rei Sicute e Caivã,^&#42;1^
+As imagens que fizeram para si da estrela do seu deus,
+
+[NOTE]
+====
+. Essas duas deidades podem se referir ao planeta Saturno, que era adorado como um deus.
+====
+
+[[v30-5-27]]
+
+^<<v30-5-27,27>>^ E eu vou mandar vocês para o exílio, para além de Damasco’, diz aquele cujo nome é Jeová, o Deus dos exércitos.”
+
+'''
+
+xref:030-amos/030-amos-004.adoc#v30-4-0[&#60; Capítulo Anterior] | <<v30-5-0,Topo>> | xref:030-amos/030-amos-006.adoc#v30-6-0[Próximo Capítulo &#62;]

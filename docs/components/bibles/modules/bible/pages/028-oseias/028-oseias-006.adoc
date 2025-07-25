@@ -1,0 +1,78 @@
+include::./index.adoc[]
+
+[[v28-6-0]]
+=== Oseias, 6
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v28-6-1]]
+
+^<<v28-6-1,1>>^ “Venham, e voltemos para Jeová;
+Pois, embora ele tenha nos dilacerado, vai nos curar.
+Embora tenha nos golpeado, vai tratar das nossas feridas.
+
+[[v28-6-2]]
+
+^<<v28-6-2,2>>^ Depois de dois dias ele nos fará reviver.
+No terceiro dia nos levantará,
+E viveremos perante ele.
+
+[[v28-6-3]]
+
+^<<v28-6-3,3>>^ Conheceremos a Jeová, buscaremos seriamente conhecê-lo.
+Sua chegada é tão certa como o raiar do dia.
+Ele chegará a nós como um aguaceiro,
+Como uma chuva de primavera que satura a terra.”
+
+[[v28-6-4]]
+
+^<<v28-6-4,4>>^ “O que devo fazer com você, Efraim?
+O que devo fazer com você, Judá?
+Pois o amor leal de vocês é como a neblina da manhã,
+Como o orvalho, que logo desaparece.
+
+[[v28-6-5]]
+
+^<<v28-6-5,5>>^ Por isso eu os golpearei por meio dos profetas;
+Eu os matarei com as palavras da minha boca.
+E os julgamentos contra você brilharão como a luz.
+
+[[v28-6-6]]
+
+^<<v28-6-6,6>>^ Pois tenho prazer no amor leal,^&#42;1^ não em sacrifícios,
+E no conhecimento de Deus, não em ofertas queimadas.
+
+[NOTE]
+====
+. Ou: “na misericórdia”.
+====
+
+[[v28-6-7]]
+
+^<<v28-6-7,7>>^ Mas eles, como meros humanos, violaram o pacto.
+Nestes lugares eles me traíram.
+
+[[v28-6-8]]
+
+^<<v28-6-8,8>>^ Gileade é uma cidade de malfeitores,
+Cheia de pegadas de sangue.
+
+[[v28-6-9]]
+
+^<<v28-6-9,9>>^ A comunidade dos sacerdotes é como um bando de assaltantes que fica de emboscada à espera de alguém.
+Eles assassinam na estrada de Siquém,
+Pois sua conduta é vergonhosa.
+
+[[v28-6-10]]
+
+^<<v28-6-10,10>>^ Vi uma coisa horrível na casa de Israel.
+Ali Efraim se prostitui;
+Israel se tornou impuro.
+
+[[v28-6-11]]
+
+^<<v28-6-11,11>>^ Quanto a você, Judá, uma colheita está determinada para você,
+Quando eu trouxer de volta o meu povo cativo.”
+
+'''
+
+xref:028-oseias/028-oseias-005.adoc#v28-5-0[&#60; Capítulo Anterior] | <<v28-6-0,Topo>> | xref:028-oseias/028-oseias-007.adoc#v28-7-0[Próximo Capítulo &#62;]

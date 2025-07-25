@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v28-14-0]]
+=== Oseias, 14
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v28-14-1]]
+
+^<<v28-14-1,1>>^ “Volte para Jeová, seu Deus, ó Israel,
+Pois você tropeçou por causa do seu erro.
+
+[[v28-14-2]]
+
+^<<v28-14-2,2>>^ Voltem para Jeová com estas palavras,
+Digam-lhe: ‘Perdoa o nosso erro e aceita o que é bom,
+E ofereceremos, como se fossem novilhos, o louvor dos nossos lábios.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “ofereceremos em troca os novilhos dos nossos lábios”.
+====
+
+[[v28-14-3]]
+
+^<<v28-14-3,3>>^ A Assíria não nos salvará.
+Não montaremos em cavalos,
+Nem diremos mais ao trabalho das nossas mãos: “Ó nosso Deus!”
+Pois é em ti que o órfão^&#42;1^ encontra misericórdia.’
+
+[NOTE]
+====
+. Ou: “órfão de pai”.
+====
+
+[[v28-14-4]]
+
+^<<v28-14-4,4>>^ Vou curá-los da sua infidelidade.
+Vou amá-los de livre e espontânea vontade,
+Porque a minha ira se afastou de Israel.
+
+[[v28-14-5]]
+
+^<<v28-14-5,5>>^ Vou me tornar para Israel como o orvalho.
+Ele florescerá como o lírio
+E lançará raízes profundas como as das árvores do Líbano.
+
+[[v28-14-6]]
+
+^<<v28-14-6,6>>^ Seus raminhos se espalharão,
+Seu esplendor será como o da oliveira,
+E sua fragrância será como a do Líbano.
+
+[[v28-14-7]]
+
+^<<v28-14-7,7>>^ Morarão novamente à sombra dele.
+Cultivarão cereais e florescerão como a videira.
+A fama^&#42;1^ dele será como a do vinho do Líbano.
+
+[NOTE]
+====
+. Lit.: “recordação”.
+====
+
+[[v28-14-8]]
+
+^<<v28-14-8,8>>^ Efraim perguntará: ‘O que eu ainda tenho a ver com os ídolos?’
+Eu responderei e cuidarei dele.
+Serei como um junípero frondoso.
+O fruto de vocês virá de mim.”
+
+[[v28-14-9]]
+
+^<<v28-14-9,9>>^ Quem é sábio? Que entenda essas coisas.
+Quem é prudente? Que as compreenda.
+Pois os caminhos de Jeová são retos,
+E os justos andarão neles;
+Mas os transgressores tropeçarão neles.
+
+'''
+
+xref:028-oseias/028-oseias-013.adoc#v28-13-0[&#60; Capítulo Anterior] | <<v28-14-0,Topo>> | xref:029-joel/029-joel-001.adoc#v29-1-0[Próximo Capítulo &#62;]

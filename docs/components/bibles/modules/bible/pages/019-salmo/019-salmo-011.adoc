@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v19-11-0]]
+=== Salmos, 11
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Ao regente. De Davi._
+
+[[v19-11-1]]
+
+^<<v19-11-1,1>>^ Eu me refugiei em Jeová.
+Assim, como vocês podem me dizer:^&#42;1^
+“Fuja^&#42;2^ para o monte como um pássaro!
+
+[NOTE]
+====
+. Ou: “dizer à minha alma”.
+. Lit.: “Fujam”.
+====
+
+[[v19-11-2]]
+
+^<<v19-11-2,2>>^ Veja como os maus armam o arco;
+Eles colocam a flecha na corda
+Para, da escuridão, atirar nos que são retos de coração.
+
+[[v19-11-3]]
+
+^<<v19-11-3,3>>^ Quando os alicerces^&#42;1^ são destruídos,
+O que pode fazer o justo?”
+
+[NOTE]
+====
+. Ou: “os alicerces da justiça”.
+====
+
+[[v19-11-4]]
+
+^<<v19-11-4,4>>^ Jeová está no seu santo templo.
+O trono de Jeová está nos céus.
+Seus olhos observam, seus olhos atentos^&#42;1^ examinam os filhos dos homens.
+
+[NOTE]
+====
+. Ou: “radiantes”.
+====
+
+[[v19-11-5]]
+
+^<<v19-11-5,5>>^ Jeová examina tanto os justos como os maus,
+Ele^&#42;1^ odeia quem ama a violência.
+
+[NOTE]
+====
+. Ou: “Sua alma; Seu próprio ser”.
+====
+
+[[v19-11-6]]
+
+^<<v19-11-6,6>>^ Sobre os maus ele fará chover armadilhas;^&#42;1^
+Fogo, enxofre e um vento abrasador é a parte que lhes caberá.^&#42;2^
+
+[NOTE]
+====
+. Ou, possivelmente: “brasas”.
+. Lit.: “a porção do seu copo”.
+====
+
+[[v19-11-7]]
+
+^<<v19-11-7,7>>^ Pois Jeová é justo; ele ama atos justos.
+Os que são retos verão a face dele.^&#42;1^
+
+[NOTE]
+====
+. Ou: “terão o seu favor”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-010.adoc#v19-10-0[&#60; Capítulo Anterior] | <<v19-11-0,Topo>> | xref:019-salmo/019-salmo-012.adoc#v19-12-0[Próximo Capítulo &#62;]

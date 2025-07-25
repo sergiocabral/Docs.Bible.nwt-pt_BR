@@ -1,0 +1,112 @@
+include::./index.adoc[]
+
+[[v22-7-0]]
+=== O Cântico de Salomão, 7
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v22-7-1]]
+
+^<<v22-7-1,1>>^ “Como são belos os seus pés nas suas sandálias,
+Ó nobre moça!
+Os contornos das suas coxas são como joias,
+Trabalho das mãos de um artesão.
+
+[[v22-7-2]]
+
+^<<v22-7-2,2>>^ Seu umbigo é uma taça redonda
+Em que nunca falta vinho misturado.
+Seu ventre é um monte de trigo,
+Cercado de lírios.
+
+[[v22-7-3]]
+
+^<<v22-7-3,3>>^ Seus seios são como dois filhotes de cervo,
+Crias gêmeas de uma gazela.
+
+[[v22-7-4]]
+
+^<<v22-7-4,4>>^ Seu pescoço é como uma torre de marfim.
+Seus olhos são como as águas de Hesbom,
+Junto ao portão de Bate-Rabim.
+Seu nariz é como a torre do Líbano,
+Voltada para Damasco.
+
+[[v22-7-5]]
+
+^<<v22-7-5,5>>^ Sua cabeça é como o Carmelo,
+E seus cabelos^&#42;1^ são como fios de lã roxa.
+O rei é mantido cativo^&#42;2^ pelos seus cachos esvoaçantes.
+
+[NOTE]
+====
+. Lit.: “E os cachos da sua cabeça”.
+. Ou: “prisioneiro”.
+====
+
+[[v22-7-6]]
+
+^<<v22-7-6,6>>^ Como você é bela e encantadora,
+Ó amada, você está acima de todas as delícias!
+
+[[v22-7-7]]
+
+^<<v22-7-7,7>>^ Seu porte é como o da palmeira,
+E seus seios são como cachos de tâmaras.
+
+[[v22-7-8]]
+
+^<<v22-7-8,8>>^ Eu disse: ‘Subirei na palmeira,
+Para pegar os seus frutos.’
+Sejam os seus seios como cachos de uva;
+Seu hálito, como o perfume das maçãs;
+
+[[v22-7-9]]
+
+^<<v22-7-9,9>>^ E sua boca,^&#42;1^ como o melhor vinho.”
+“Que ele escorra suavemente para o meu amado,
+Deslizando levemente sobre os lábios dos adormecidos.
+
+[NOTE]
+====
+. Lit.: “seu palato”.
+====
+
+[[v22-7-10]]
+
+^<<v22-7-10,10>>^ Eu sou do meu querido,
+E é a mim que ele deseja.
+
+[[v22-7-11]]
+
+^<<v22-7-11,11>>^ Venha, meu querido,
+Vamos ao campo;
+Fiquemos entre os arbustos de hena.
+
+[[v22-7-12]]
+
+^<<v22-7-12,12>>^ Levantemo-nos cedo e vamos aos vinhedos
+Para ver se a videira brotou,^&#42;1^
+Se as flores se abriram,
+Se as romãzeiras estão em flor.
+Ali expressarei o meu amor por você.
+
+[NOTE]
+====
+. Ou: “floresceu”.
+====
+
+[[v22-7-13]]
+
+^<<v22-7-13,13>>^ As mandrágoras exalam a sua fragrância;
+Às nossas portas há todo tipo de frutos seletos.
+Os frescos, bem como os secos,^&#42;1^
+Ó meu querido, eu guardei para você.
+
+[NOTE]
+====
+. Lit.: “velhos”.
+====
+
+'''
+
+xref:022-cantico-de-salomao/022-cantico-de-salomao-006.adoc#v22-6-0[&#60; Capítulo Anterior] | <<v22-7-0,Topo>> | xref:022-cantico-de-salomao/022-cantico-de-salomao-008.adoc#v22-8-0[Próximo Capítulo &#62;]

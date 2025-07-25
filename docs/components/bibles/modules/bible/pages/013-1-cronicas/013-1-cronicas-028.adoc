@@ -1,0 +1,123 @@
+include::./index.adoc[]
+
+[[v13-28-0]]
+=== O Primeiro das Crônicas, 28
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v13-28-1]]
+
+^<<v13-28-1,1>>^ Davi reuniu então em Jerusalém todos os príncipes de Israel: os príncipes das tribos, os comandantes das divisões que serviam o rei, os chefes de mil, os chefes de cem, os encarregados de todos os bens e rebanhos do rei e dos seus filhos, além dos oficiais da corte e de todos os homens fortes e capazes.
+
+[[v13-28-2]]
+
+^<<v13-28-2,2>>^ Então o rei Davi ficou de pé e disse:
+“Ouçam-me, meus irmãos e meu povo. Meu desejo de coração era construir uma casa como lugar de descanso para a Arca do Pacto de Jeová e como apoio para os pés do nosso Deus, e eu fiz preparativos para a construção.
+
+[[v13-28-3]]
+
+^<<v13-28-3,3>>^ Mas o verdadeiro Deus me disse: ‘Você não construirá uma casa para o meu nome, pois você é um homem de guerra e derramou sangue.’
+
+[[v13-28-4]]
+
+^<<v13-28-4,4>>^ No entanto, Jeová, o Deus de Israel, me escolheu dentre toda a casa do meu pai para que eu me tornasse rei de Israel para sempre. Pois ele escolheu Judá como líder, e da casa de Judá escolheu a casa do meu pai, e dos filhos do meu pai fui eu quem ele aprovou, para me fazer rei de todo o Israel.
+
+[[v13-28-5]]
+
+^<<v13-28-5,5>>^ E, de todos os meus filhos — pois Jeová me deu muitos filhos —, ele escolheu Salomão para se sentar no trono do reinado de Jeová sobre Israel.
+
+[[v13-28-6]]
+
+^<<v13-28-6,6>>^ “Ele me disse: ‘Salomão, seu filho, é quem construirá a minha casa e os meus pátios, pois eu o escolhi como meu filho e eu me tornarei seu pai.
+
+[[v13-28-7]]
+
+^<<v13-28-7,7>>^ Estabelecerei firmemente o reinado dele para sempre, se ele continuar determinado a obedecer aos meus mandamentos e às minhas decisões judiciais, assim como está fazendo hoje.’
+
+[[v13-28-8]]
+
+^<<v13-28-8,8>>^ Portanto, eu lhes digo diante de todo o Israel, a congregação de Jeová, e diante do nosso Deus: Procurem conhecer e obedeçam cuidadosamente todos os mandamentos de Jeová, seu Deus, para que permaneçam nesta boa terra e a deem como herança permanente aos seus filhos.
+
+[[v13-28-9]]
+
+^<<v13-28-9,9>>^ “E você, Salomão, meu filho, conheça o Deus do seu pai e sirva-o de coração pleno^&#42;1^ e de alma^&#42;2^ bem disposta,^&#42;3^ pois Jeová examina todos os corações e discerne toda inclinação dos pensamentos. Se você o buscar, ele deixará que você o encontre; mas, se o abandonar, ele rejeitará você para sempre.
+
+[NOTE]
+====
+. Ou: “de coração plenamente devotado”.
+. Veja o Glossário.
+. Ou: “alma agradável”.
+====
+
+[[v13-28-10]]
+
+^<<v13-28-10,10>>^ Tenha bem em mente que Jeová o escolheu para construir uma casa como santuário. Seja corajoso e comece a obra.”
+
+[[v13-28-11]]
+
+^<<v13-28-11,11>>^ Então Davi deu a Salomão, seu filho, o projeto arquitetônico do pórtico e dos diversos compartimentos,^&#42;1^ incluindo os depósitos, os compartimentos superiores, as salas interiores e o compartimento onde ficava a tampa propiciatória.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “do pórtico e suas casas”.
+. Ou: “casa da expiação”.
+====
+
+[[v13-28-12]]
+
+^<<v13-28-12,12>>^ Ele lhe deu o projeto arquitetônico de tudo que tinha recebido por inspiração,^&#42;1^ para os pátios da casa de Jeová, para todos os refeitórios ao redor dela, para os tesouros da casa do verdadeiro Deus e para os tesouros das coisas tornadas sagradas.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “pelo espírito”.
+. Ou: “coisas dedicadas”.
+====
+
+[[v13-28-13]]
+
+^<<v13-28-13,13>>^ Também lhe deu as instruções sobre as turmas dos sacerdotes e dos levitas, sobre todas as tarefas relacionadas ao serviço da casa de Jeová e sobre todos os utensílios usados no serviço da casa de Jeová.
+
+[[v13-28-14]]
+
+^<<v13-28-14,14>>^ Ele especificou o peso do ouro (o ouro para todos os utensílios usados nos diversos serviços), o peso de todos os utensílios de prata, de todos os utensílios usados nos diversos serviços;
+
+[[v13-28-15]]
+
+^<<v13-28-15,15>>^ também o peso dos candelabros de ouro e das suas lâmpadas de ouro, de cada candelabro e das suas lâmpadas; o peso dos candelabros de prata, de cada candelabro e das suas lâmpadas, conforme a sua finalidade;
+
+[[v13-28-16]]
+
+^<<v13-28-16,16>>^ o peso do ouro para as mesas dos pães da proposição,^&#42;1^ para cada mesa; o peso da prata para as mesas de prata;
+
+[NOTE]
+====
+. Ou: “pães arrumados em pilhas”.
+====
+
+[[v13-28-17]]
+
+^<<v13-28-17,17>>^ o peso dos garfos, das tigelas e das jarras de ouro puro; o peso das tigelinhas de ouro, de cada tigelinha; e o peso das tigelinhas de prata, de cada tigelinha.
+
+[[v13-28-18]]
+
+^<<v13-28-18,18>>^ Ele também deu o peso do ouro refinado para o altar do incenso e para a representação do carro, isto é, os querubins de ouro com as asas estendidas cobrindo a Arca do Pacto de Jeová.
+
+[[v13-28-19]]
+
+^<<v13-28-19,19>>^ Davi disse: “A mão de Jeová estava sobre mim, e ele me deu entendimento^&#42;1^ para colocar por escrito todos os detalhes do projeto arquitetônico.”
+
+[NOTE]
+====
+. Ou: “perspicácia”.
+====
+
+[[v13-28-20]]
+
+^<<v13-28-20,20>>^ Então Davi disse a Salomão, seu filho: “Seja corajoso e forte, e comece a obra. Não tenha medo nem fique apavorado, porque Jeová Deus, meu Deus, está com você. Ele não o desamparará nem o abandonará, mas estará com você até que se termine toda a obra relacionada ao serviço da casa de Jeová.
+
+[[v13-28-21]]
+
+^<<v13-28-21,21>>^ Aqui estão as turmas dos sacerdotes e dos levitas para todo o serviço da casa do verdadeiro Deus. Você tem à sua disposição trabalhadores dispostos e habilidosos para realizar todo tipo de serviço, além dos príncipes e de todo o povo, que seguirão todas as suas instruções.”
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-027.adoc#v13-27-0[&#60; Capítulo Anterior] | <<v13-28-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-029.adoc#v13-29-0[Próximo Capítulo &#62;]

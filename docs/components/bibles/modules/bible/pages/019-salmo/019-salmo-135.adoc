@@ -1,0 +1,155 @@
+include::./index.adoc[]
+
+[[v19-135-0]]
+=== Salmos, 135
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v19-135-1]]
+
+^<<v19-135-1,1>>^ Louvem a Jah!^&#42;1^
+Louvem o nome de Jeová;
+Deem louvores, servos de Jeová,
+
+[NOTE]
+====
+. Ou: “Aleluia!” “Jah” é uma forma reduzida do nome Jeová.
+====
+
+[[v19-135-2]]
+
+^<<v19-135-2,2>>^ Vocês que estão servindo^&#42;1^ na casa de Jeová,
+Nos pátios da casa do nosso Deus.
+
+[NOTE]
+====
+. Ou: “de pé”.
+====
+
+[[v19-135-3]]
+
+^<<v19-135-3,3>>^ Louvem a Jah, porque Jeová é bom.
+Cantem louvores^&#42;1^ ao seu nome, porque é agradável.
+
+[NOTE]
+====
+. Ou: “Façam música”.
+====
+
+[[v19-135-4]]
+
+^<<v19-135-4,4>>^ Pois Jah escolheu Jacó para si,
+Israel como sua propriedade especial.^&#42;1^
+
+[NOTE]
+====
+. Ou: “estimada”.
+====
+
+[[v19-135-5]]
+
+^<<v19-135-5,5>>^ Eu bem sei que Jeová é grande;
+Nosso Senhor é maior do que todos os outros deuses.
+
+[[v19-135-6]]
+
+^<<v19-135-6,6>>^ Jeová faz tudo o que deseja fazer
+Nos céus e na terra, nos mares e em todas as profundezas.
+
+[[v19-135-7]]
+
+^<<v19-135-7,7>>^ Ele faz subir nuvens^&#42;1^ desde os confins da terra;
+Faz os relâmpagos^&#42;2^ para a chuva;
+Faz o vento sair dos Seus depósitos.
+
+[NOTE]
+====
+. Ou: “vapores”.
+. Ou, possivelmente: “Faz comportas”.
+====
+
+[[v19-135-8]]
+
+^<<v19-135-8,8>>^ Ele matou os primogênitos do Egito,
+Tanto dos homens como dos animais.
+
+[[v19-135-9]]
+
+^<<v19-135-9,9>>^ Realizou sinais e milagres no seu meio, ó Egito,
+Contra Faraó e todos os seus servos.
+
+[[v19-135-10]]
+
+^<<v19-135-10,10>>^ Ele derrotou muitas nações
+E matou reis poderosos:
+
+[[v19-135-11]]
+
+^<<v19-135-11,11>>^ Siom, rei dos amorreus,
+Ogue, rei de Basã,
+E todos os reinos de Canaã.
+
+[[v19-135-12]]
+
+^<<v19-135-12,12>>^ Ele deu a terra deles como herança,
+Uma herança a Israel, seu povo.
+
+[[v19-135-13]]
+
+^<<v19-135-13,13>>^ Ó Jeová, teu nome permanece para sempre.
+Ó Jeová, tua fama^&#42;1^ dura por todas as gerações.
+
+[NOTE]
+====
+. Ou: “teu nome”. Lit.: “tua recordação”.
+====
+
+[[v19-135-14]]
+
+^<<v19-135-14,14>>^ Pois Jeová defenderá o^&#42;1^ seu povo
+E terá compaixão^&#42;2^ dos seus servos.
+
+[NOTE]
+====
+. Ou: “pleiteará a causa do”.
+. Ou: “terá lástima”.
+====
+
+[[v19-135-15]]
+
+^<<v19-135-15,15>>^ Os ídolos das nações são prata e ouro,
+Trabalho de mãos humanas.
+
+[[v19-135-16]]
+
+^<<v19-135-16,16>>^ Têm boca, mas não podem falar;
+Olhos, mas não podem ver;
+
+[[v19-135-17]]
+
+^<<v19-135-17,17>>^ Têm orelhas, mas não podem ouvir.
+Não há respiração na sua boca.
+
+[[v19-135-18]]
+
+^<<v19-135-18,18>>^ As pessoas que os fazem ficarão iguais a eles,
+E também todos os que neles confiam.
+
+[[v19-135-19]]
+
+^<<v19-135-19,19>>^ Ó casa de Israel, louve a Jeová.
+Ó casa de Arão, louve a Jeová.
+
+[[v19-135-20]]
+
+^<<v19-135-20,20>>^ Ó casa de Levi, louve a Jeová.
+Vocês que temem a Jeová, louvem a Jeová.
+
+[[v19-135-21]]
+
+^<<v19-135-21,21>>^ Que Jeová seja louvado em Sião;
+Ele, que reside em Jerusalém.
+Louvem a Jah!
+
+'''
+
+xref:019-salmo/019-salmo-134.adoc#v19-134-0[&#60; Capítulo Anterior] | <<v19-135-0,Topo>> | xref:019-salmo/019-salmo-136.adoc#v19-136-0[Próximo Capítulo &#62;]

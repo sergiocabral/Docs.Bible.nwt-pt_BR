@@ -1,0 +1,70 @@
+include::./index.adoc[]
+
+[[v24-47-0]]
+=== Jeremias, 47
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v24-47-1]]
+
+^<<v24-47-1,1>>^ Esta é a palavra de Jeová que o profeta Jeremias recebeu a respeito dos filisteus, antes de Faraó atacar Gaza.
+
+[[v24-47-2]]
+
+^<<v24-47-2,2>>^ Assim diz Jeová:
+“Vejam! Águas estão vindo desde o norte.
+Elas formarão uma torrente inundante.
+Inundarão o país e tudo que nele há,
+A cidade e os seus habitantes.
+Os homens clamarão,
+E todos os que moram no país lamentarão.
+
+[[v24-47-3]]
+
+^<<v24-47-3,3>>^ Ao ouvirem o som dos cascos dos seus garanhões,
+O estrondo dos carros de guerra
+E o barulho das suas rodas,
+Os pais nem mesmo voltarão para salvar seus filhos,
+Pois suas mãos estarão enfraquecidas,
+
+[[v24-47-4]]
+
+^<<v24-47-4,4>>^ Porque o dia que destruirá todos os filisteus está chegando,
+E eliminará de Tiro e Sídon todos os aliados que restarem.
+Pois Jeová destruirá os filisteus,
+Aqueles que restaram da ilha de Caftor.^&#42;1^
+
+[NOTE]
+====
+. Isto é, Creta.
+====
+
+[[v24-47-5]]
+
+^<<v24-47-5,5>>^ Gaza ficará calva.^&#42;1^
+Ascalom será silenciada.
+Ó vocês que restaram no vale,^&#42;2^
+Até quando continuarão a fazer cortes em si mesmos?
+
+[NOTE]
+====
+. Isto é, eles rasparão a cabeça em sinal de luto e vergonha.
+. Ou: “na baixada”.
+====
+
+[[v24-47-6]]
+
+^<<v24-47-6,6>>^ Ah! A espada de Jeová!
+Quando você vai parar?
+Volte para a sua bainha. 
+Descanse e fique quieta.
+
+[[v24-47-7]]
+
+^<<v24-47-7,7>>^ Como ela pode parar
+Se Jeová lhe deu uma ordem?
+Contra Ascalom e o litoral,
+É para lá que ele a designou.”
+
+'''
+
+xref:024-jeremias/024-jeremias-046.adoc#v24-46-0[&#60; Capítulo Anterior] | <<v24-47-0,Topo>> | xref:024-jeremias/024-jeremias-048.adoc#v24-48-0[Próximo Capítulo &#62;]

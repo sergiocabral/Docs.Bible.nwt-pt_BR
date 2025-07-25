@@ -1,0 +1,185 @@
+include::./index.adoc[]
+
+[[v12-9-0]]
+=== O Segundo dos Reis, 9
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v12-9-1]]
+
+^<<v12-9-1,1>>^ Eliseu, o profeta, chamou então um dos filhos dos profetas e disse-lhe: “Prenda sua veste na cintura, pegue este frasco de óleo e vá depressa a Ramote-Gileade.
+
+[[v12-9-2]]
+
+^<<v12-9-2,2>>^ Quando chegar lá, procure Jeú, filho de Jeosafá, filho de Ninsi; entre, faça-o levantar-se do meio dos seus irmãos e leve-o à sala mais reservada.
+
+[[v12-9-3]]
+
+^<<v12-9-3,3>>^ Então pegue o frasco de óleo, despeje-o sobre a cabeça dele e diga: ‘Assim diz Jeová: “Estou ungindo você como rei sobre Israel.”’ Depois abra a porta e fuja sem demora.”
+
+[[v12-9-4]]
+
+^<<v12-9-4,4>>^ Assim, o ajudante do profeta foi a Ramote-Gileade.
+
+[[v12-9-5]]
+
+^<<v12-9-5,5>>^ Quando chegou, os chefes do exército estavam sentados ali. Ele disse: “Chefe, tenho uma mensagem para o senhor.” Jeú perguntou: “Para qual de nós?” Ele respondeu: “Para o senhor, chefe.”
+
+[[v12-9-6]]
+
+^<<v12-9-6,6>>^ Portanto Jeú se levantou e entrou na casa; o ajudante despejou o óleo sobre a cabeça dele e lhe disse: “Assim diz Jeová, o Deus de Israel: ‘Estou ungindo você como rei sobre o povo de Jeová, sobre Israel.
+
+[[v12-9-7]]
+
+^<<v12-9-7,7>>^ Mate os da casa de Acabe, seu senhor, e eu vingarei o sangue dos meus servos, os profetas, e de todos os servos de Jeová que morreram às mãos de Jezabel.
+
+[[v12-9-8]]
+
+^<<v12-9-8,8>>^ Todos os da casa de Acabe morrerão; e eliminarei em Israel todos os do sexo masculino^&#42;1^ da casa de Acabe, incluindo o desamparado e o fraco.
+
+[NOTE]
+====
+. Lit.: “todo aquele que urina contra o muro”. Expressão hebraica que indica desprezo e se refere a homens.
+====
+
+[[v12-9-9]]
+
+^<<v12-9-9,9>>^ Vou fazer com a casa de Acabe o mesmo que fiz com a casa de Jeroboão, filho de Nebate, e com a casa de Baasa, filho de Aías.
+
+[[v12-9-10]]
+
+^<<v12-9-10,10>>^ Quanto a Jezabel, os cães a devorarão no terreno em Jezreel, e ninguém a enterrará.’” Então ele abriu a porta e fugiu.
+
+[[v12-9-11]]
+
+^<<v12-9-11,11>>^ Quando Jeú voltou para junto dos servos do seu senhor, eles lhe perguntaram: “Está tudo bem? Por que aquele louco veio falar com você?” Ele lhes respondeu: “Vocês conhecem esses homens e o seu tipo de conversa.”
+
+[[v12-9-12]]
+
+^<<v12-9-12,12>>^ Mas eles disseram: “Você não está falando a verdade! Conte-nos, por favor.” Então ele respondeu: “Foi assim e assim que ele me falou, e também disse: ‘Assim diz Jeová: “Estou ungindo você como rei sobre Israel.”’”
+
+[[v12-9-13]]
+
+^<<v12-9-13,13>>^ Em vista disso, cada um pegou rapidamente seu manto e o estendeu nos degraus diante dele. Eles tocaram a buzina e disseram: “Jeú tornou-se rei!”
+
+[[v12-9-14]]
+
+^<<v12-9-14,14>>^ Então Jeú, filho de Jeosafá, filho de Ninsi, conspirou contra Jeorão.
+Jeorão tinha estado em Ramote-Gileade com todo o Israel para defendê-la de Hazael, rei da Síria.
+
+[[v12-9-15]]
+
+^<<v12-9-15,15>>^ Mais tarde, o rei Jeorão voltou a Jezreel para se recuperar dos ferimentos que os sírios lhe tinham causado quando lutou contra Hazael, rei da Síria.
+Jeú disse então: “Se vocês^&#42;1^ concordarem, não deixem ninguém escapar da cidade para ir contar isso em Jezreel.”
+
+[NOTE]
+====
+. Ou: “suas almas”.
+====
+
+[[v12-9-16]]
+
+^<<v12-9-16,16>>^ Então Jeú subiu no seu carro de guerra e foi a Jezreel, visto que Jeorão estava lá de cama por causa de seus ferimentos. E Acazias, rei de Judá, tinha ido visitar Jeorão.
+
+[[v12-9-17]]
+
+^<<v12-9-17,17>>^ Quando o vigia que estava na torre em Jezreel viu Jeú com seu grande número de homens se aproximando, disse imediatamente: “Estou vendo um grande número de homens.” Jeorão disse: “Chame um cavaleiro e envie-o ao encontro deles para perguntar: ‘Vocês vêm em paz?’”
+
+[[v12-9-18]]
+
+^<<v12-9-18,18>>^ Portanto, um cavaleiro foi ao encontro dele e disse: “Assim diz o rei: ‘Vocês vêm em paz?’” Mas Jeú respondeu: “O que você tem a ver com a paz? Vá para trás de mim!”
+E o vigia informou: “O mensageiro chegou até eles, mas não voltou.”
+
+[[v12-9-19]]
+
+^<<v12-9-19,19>>^ Então o rei enviou um segundo cavaleiro, que, ao chegar a eles, disse: “Assim diz o rei: ‘Vocês vêm em paz?’” Mas Jeú respondeu: “O que você tem a ver com a paz? Vá para trás de mim!”
+
+[[v12-9-20]]
+
+^<<v12-9-20,20>>^ E o vigia informou: “O mensageiro chegou a eles, mas não voltou. Pelo modo de guiar o carro de guerra, deve ser Jeú, neto^&#42;1^ de Ninsi, pois ele guia como um louco.”
+
+[NOTE]
+====
+. Lit.: “filho”.
+====
+
+[[v12-9-21]]
+
+^<<v12-9-21,21>>^ Jeorão disse: “Prepare o meu carro de guerra!” Assim, prepararam o carro de guerra dele, e Jeorão, rei de Israel, e Acazias, rei de Judá, saíram, cada um no seu carro de guerra para encontrar Jeú. Eles o encontraram no terreno de Nabote, o jezreelita.
+
+[[v12-9-22]]
+
+^<<v12-9-22,22>>^ Assim que Jeorão viu Jeú, ele perguntou: “Você vem em paz, Jeú?” Mas ele respondeu: “Como pode haver paz enquanto continuam a prostituição e as muitas feitiçarias de Jezabel, sua mãe?”
+
+[[v12-9-23]]
+
+^<<v12-9-23,23>>^ Imediatamente Jeorão deu meia-volta com o seu carro de guerra para fugir e disse a Acazias: “É uma traição, Acazias!”
+
+[[v12-9-24]]
+
+^<<v12-9-24,24>>^ Jeú pegou o arco e atirou uma flecha, atingindo Jeorão no meio das costas, de modo que a flecha lhe atravessou o coração, e ele caiu no seu carro de guerra.
+
+[[v12-9-25]]
+
+^<<v12-9-25,25>>^ Jeú disse então a Bidcar, seu oficial: “Pegue-o e jogue-o no campo de Nabote, o jezreelita. Lembre-se: eu e você guiávamos carros de guerra^&#42;1^ atrás de Acabe, o pai dele, quando o próprio Jeová proferiu contra ele a seguinte proclamação:
+
+[NOTE]
+====
+. Lit.: “guiávamos parelhas”.
+====
+
+[[v12-9-26]]
+
+^<<v12-9-26,26>>^ ‘“Tão certo como eu vi ontem o sangue de Nabote e o sangue dos filhos dele”, diz Jeová, “eu lhe retribuirei neste mesmo terreno o que você fez”, diz Jeová.’ Portanto, pegue-o e jogue-o no terreno, segundo a palavra de Jeová.”
+
+[[v12-9-27]]
+
+^<<v12-9-27,27>>^ Quando Acazias, rei de Judá, viu o que estava acontecendo, fugiu pelo caminho da casa do jardim. (Mais tarde, Jeú o perseguiu e disse: “Matem-no também!” Assim, feriram-no enquanto estava no carro de guerra, subindo a Gur, que fica junto a Ibleão. Mas ele continuou fugindo para Megido e morreu lá.
+
+[[v12-9-28]]
+
+^<<v12-9-28,28>>^ Seus servos levaram-no então num carro de guerra a Jerusalém e enterraram-no com os seus antepassados na sua sepultura, na Cidade de Davi.
+
+[[v12-9-29]]
+
+^<<v12-9-29,29>>^ Foi no décimo primeiro ano de Jeorão, filho de Acabe, que Acazias tinha se tornado rei sobre Judá.)
+
+[[v12-9-30]]
+
+^<<v12-9-30,30>>^ Quando Jeú chegou a Jezreel, Jezabel ficou sabendo disso. Então ela pintou os olhos de preto,^&#42;1^ enfeitou a cabeça e olhou pela janela.
+
+[NOTE]
+====
+. Ou: “passou sombra nos olhos”.
+====
+
+[[v12-9-31]]
+
+^<<v12-9-31,31>>^ Assim que Jeú entrou pelo portão, ela disse: “Será que Zinri, que matou o seu próprio senhor, se saiu bem?”
+
+[[v12-9-32]]
+
+^<<v12-9-32,32>>^ Ele levantou os olhos para a janela e disse: “Quem está do meu lado? Quem?” Imediatamente dois ou três oficiais da corte olharam para ele, lá embaixo.
+
+[[v12-9-33]]
+
+^<<v12-9-33,33>>^ Ele disse: “Joguem-na para baixo!” Então eles a jogaram; o sangue dela espirrou na parede e nos cavalos, e ele a atropelou.
+
+[[v12-9-34]]
+
+^<<v12-9-34,34>>^ Então ele entrou, comeu e bebeu. Depois disse: “Peguem esta maldita e enterrem-na. Afinal, ela é filha de rei.”
+
+[[v12-9-35]]
+
+^<<v12-9-35,35>>^ Mas, quando foram enterrá-la, não acharam nada, a não ser o crânio, os pés e as mãos.
+
+[[v12-9-36]]
+
+^<<v12-9-36,36>>^ Então voltaram e lhe contaram isso. Ele disse: “Isso cumpre a palavra de Jeová, que ele falou por meio do seu servo Elias, o tisbita: ‘No terreno de Jezreel os cães comerão a carne de Jezabel.
+
+[[v12-9-37]]
+
+^<<v12-9-37,37>>^ E, no terreno de Jezreel, o cadáver de Jezabel se tornará como estrume sobre os campos, para que não se diga: “Esta é Jezabel.”’”
+
+'''
+
+xref:012-2-reis/012-2-reis-008.adoc#v12-8-0[&#60; Capítulo Anterior] | <<v12-9-0,Topo>> | xref:012-2-reis/012-2-reis-010.adoc#v12-10-0[Próximo Capítulo &#62;]

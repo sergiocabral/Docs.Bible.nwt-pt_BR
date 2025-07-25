@@ -1,0 +1,240 @@
+include::./index.adoc[]
+
+[[v16-9-0]]
+=== Neemias, 9
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v16-9-1]]
+
+^<<v16-9-1,1>>^ No dia 24 do mês, os israelitas se reuniram para jejuar, vestidos de pano de saco e cobertos de pó.
+
+[[v16-9-2]]
+
+^<<v16-9-2,2>>^ Então os de descendência israelita se separaram de todos os estrangeiros e ficaram de pé para confessar seus pecados e os erros de seus pais.
+
+[[v16-9-3]]
+
+^<<v16-9-3,3>>^ Eles ficaram de pé onde estavam, leram em voz alta o livro da Lei de Jeová, seu Deus, por três horas;^&#42;1^ e eles passaram outras três horas fazendo confissão e curvando-se diante de Jeová, seu Deus.
+
+[NOTE]
+====
+. Lit.: “uma quarta parte do dia”.
+====
+
+[[v16-9-4]]
+
+^<<v16-9-4,4>>^ Jesua, Bani, Cadmiel, Sebanias, Buni, Serebias, Bani e Quenani ficaram de pé na plataforma elevada dos levitas e clamaram em alta voz a Jeová, seu Deus.
+
+[[v16-9-5]]
+
+^<<v16-9-5,5>>^ E os levitas Jesua, Cadmiel, Bani, Hasabneias, Serebias, Hodias, Sebanias e Petaías disseram: “Levantem-se e louvem a Jeová, seu Deus, por toda a eternidade.^&#42;1^ Ó Deus, que eles louvem o teu glorioso nome, que está acima de toda bênção e louvor.
+
+[NOTE]
+====
+. Ou: “de eternidade a eternidade”.
+====
+
+[[v16-9-6]]
+
+^<<v16-9-6,6>>^ “Só tu és Jeová. Tu fizeste os céus, sim, o céu dos céus e todo o seu exército, a terra e tudo o que nela há, os mares e tudo o que há neles. E preservas vivos a todos eles, e o exército dos céus se curva diante de ti.
+
+[[v16-9-7]]
+
+^<<v16-9-7,7>>^ Tu és Jeová, o verdadeiro Deus, aquele que escolheu a Abrão, tirou-o de Ur dos caldeus e lhe deu o nome de Abraão.
+
+[[v16-9-8]]
+
+^<<v16-9-8,8>>^ Tu viste que o coração dele era fiel a ti, por isso fizeste um pacto com ele para lhe dar a terra dos cananeus, dos hititas, dos amorreus, dos perizeus, dos jebuseus e dos girgaseus, a ele e à sua descendência;^&#42;1^ e cumpriste as tuas promessas porque és justo.
+
+[NOTE]
+====
+. Lit.: “semente”.
+====
+
+[[v16-9-9]]
+
+^<<v16-9-9,9>>^ “Viste a aflição dos nossos antepassados no Egito e ouviste seu clamor junto ao mar Vermelho.
+
+[[v16-9-10]]
+
+^<<v16-9-10,10>>^ Então realizaste sinais e milagres contra Faraó e todos os seus servos, e contra todo o povo da sua terra, pois sabias que eles agiam presunçosamente contra o teu povo. Fizeste para ti um nome que permanece até hoje.
+
+[[v16-9-11]]
+
+^<<v16-9-11,11>>^ Dividiste o mar diante deles, de modo que atravessaram o mar em terra seca, e lançaste seus perseguidores nas profundezas, como uma pedra lançada em águas agitadas.
+
+[[v16-9-12]]
+
+^<<v16-9-12,12>>^ Tu os guiaste de dia com uma coluna de nuvem e de noite com uma coluna de fogo, para iluminar-lhes o caminho em que deviam andar.
+
+[[v16-9-13]]
+
+^<<v16-9-13,13>>^ Desceste sobre o monte Sinai e falaste com eles desde o céu, e lhes deste julgamentos justos, leis verdadeiras,^&#42;1^ e decretos e mandamentos bons.
+
+[NOTE]
+====
+. Ou: “confiáveis”.
+====
+
+[[v16-9-14]]
+
+^<<v16-9-14,14>>^ Tornaste conhecido a eles o teu santo sábado, e lhes deste mandamentos, decretos e uma lei por meio do teu servo Moisés.
+
+[[v16-9-15]]
+
+^<<v16-9-15,15>>^ Tu lhes deste pão do céu quando estavam com fome, fizeste sair água do rochedo quando estavam com sede, e lhes disseste que entrassem e tomassem posse da terra que tinhas jurado^&#42;1^ dar a eles.
+
+[NOTE]
+====
+. Lit.: “levantado a tua mão para”.
+====
+
+[[v16-9-16]]
+
+^<<v16-9-16,16>>^ “No entanto, nossos antepassados agiram presunçosamente. Eles ficaram obstinados^&#42;1^ e não escutaram os teus mandamentos.
+
+[NOTE]
+====
+. Lit.: “endureceram sua cerviz”.
+====
+
+[[v16-9-17]]
+
+^<<v16-9-17,17>>^ Não quiseram escutar e não se lembraram dos atos extraordinários que realizaste entre eles, mas ficaram obstinados^&#42;1^ e designaram um cabeça para retornarem à escravidão no Egito. Tu, porém, és um Deus sempre pronto a perdoar,^&#42;2^ compassivo^&#42;3^ e misericordioso, paciente^&#42;4^ e cheio de amor leal,^&#42;5^ e tu não os abandonaste.
+
+[NOTE]
+====
+. Lit.: “endureceram sua cerviz”.
+. Ou: “um Deus de atos de perdão”.
+. Ou: “benevolente”.
+. Ou: “vagaroso em irar-se”.
+. Ou: “bondade”.
+====
+
+[[v16-9-18]]
+
+^<<v16-9-18,18>>^ Mesmo quando fizeram para si uma estátua de metal^&#42;1^ em forma de bezerro e disseram: ‘Este é o seu Deus, que os tirou do Egito’, e cometeram grandes atos de desrespeito,
+
+[NOTE]
+====
+. Ou: “estátua fundida”.
+====
+
+[[v16-9-19]]
+
+^<<v16-9-19,19>>^ tu, na tua grande misericórdia, não os abandonaste no deserto. A coluna de nuvem, que os guiava de dia no caminho, não se afastou deles, nem a coluna de fogo, que iluminava à noite o caminho em que deviam andar.
+
+[[v16-9-20]]
+
+^<<v16-9-20,20>>^ Tu lhes deste o teu bom espírito para que agissem com entendimento,^&#42;1^ não negaste a eles o teu maná e lhes deste água quando estavam com sede.
+
+[NOTE]
+====
+. Ou: “perspicácia”.
+====
+
+[[v16-9-21]]
+
+^<<v16-9-21,21>>^ Por 40 anos lhes deste alimento no deserto. Não lhes faltava nada. Suas roupas não se gastavam, e seus pés não ficavam inchados.
+
+[[v16-9-22]]
+
+^<<v16-9-22,22>>^ “Tu lhes deste reinos e povos, repartindo as terras entre eles; assim, tomaram posse da terra de Siom, isto é, a terra do rei de Hesbom, e também da terra de Ogue, rei de Basã.
+
+[[v16-9-23]]
+
+^<<v16-9-23,23>>^ E fizeste seus filhos tão numerosos como as estrelas dos céus. Então os levaste à terra que prometeste aos seus antepassados que eles entrariam e tomariam posse dela.
+
+[[v16-9-24]]
+
+^<<v16-9-24,24>>^ De modo que eles entraram e tomaram posse da terra, e subjugaste diante deles os cananeus, os habitantes daquela terra, os quais entregaste nas mãos deles, tanto os seus reis como os povos que moravam na terra, para que fizessem com eles o que bem entendessem.
+
+[[v16-9-25]]
+
+^<<v16-9-25,25>>^ Eles capturaram cidades fortificadas e terras férteis,^&#42;1^ e tomaram posse de casas cheias de todo tipo de coisas boas, de cisternas já escavadas, de vinhedos, de olivais e de árvores frutíferas em abundância. De modo que comeram, ficaram satisfeitos, engordaram e desfrutaram da tua grande bondade.
+
+[NOTE]
+====
+. Ou: “ricas”.
+====
+
+[[v16-9-26]]
+
+^<<v16-9-26,26>>^ “No entanto, eles se tornaram desobedientes, rebelaram-se contra ti e deram as costas à tua Lei.^&#42;1^ Mataram os teus profetas, que os advertiam para que voltassem a ti, e cometeram atos de grande desrespeito.
+
+[NOTE]
+====
+. Lit.: “e lançaram tua Lei atrás das costas deles”.
+====
+
+[[v16-9-27]]
+
+^<<v16-9-27,27>>^ Por causa disso os entregaste nas mãos dos seus inimigos, que lhes causavam aflição. Mas eles clamavam a ti no tempo da aflição, e tu os ouvias desde os céus. E, por causa da tua grande misericórdia, tu lhes davas salvadores para livrá-los das mãos dos seus inimigos.
+
+[[v16-9-28]]
+
+^<<v16-9-28,28>>^ “No entanto, assim que obtinham alívio, voltavam a fazer o que era mau diante de ti. E tu os abandonavas nas mãos dos seus inimigos, que os dominavam.^&#42;1^ Então retornavam e clamavam a ti por ajuda, e tu ouvias desde os céus e os livravas vez após vez por causa da tua grande misericórdia.
+
+[NOTE]
+====
+. Ou: “oprimiam”.
+====
+
+[[v16-9-29]]
+
+^<<v16-9-29,29>>^ Tu os advertiste para que voltassem à tua Lei, mas eles se comportaram presunçosamente e não quiseram escutar os teus mandamentos. Pecaram contra os teus decretos, por meio dos quais o homem viverá se lhes obedecer. Eles teimaram em virar-te as costas, foram obstinados e não quiseram escutar.
+
+[[v16-9-30]]
+
+^<<v16-9-30,30>>^ Foste paciente com eles por muitos anos e continuaste a adverti-los por meio do teu espírito, usando os teus profetas, mas eles não quiseram escutar. Por fim, tu os entregaste nas mãos dos povos das terras ao redor.
+
+[[v16-9-31]]
+
+^<<v16-9-31,31>>^ E, na tua grande misericórdia, tu não os exterminaste nem os abandonaste, pois és um Deus compassivo^&#42;1^ e misericordioso.
+
+[NOTE]
+====
+. Ou: “benevolente”.
+====
+
+[[v16-9-32]]
+
+^<<v16-9-32,32>>^ “E agora, ó nosso Deus, o Deus grande, poderoso e que inspira temor, que guarda o seu pacto e demonstra amor leal, não olhes com indiferença para toda a dificuldade que sobreveio a nós, a nossos reis, a nossos príncipes, a nossos sacerdotes, a nossos profetas, a nossos antepassados e a todo o teu povo, desde os dias dos reis da Assíria até o dia de hoje.
+
+[[v16-9-33]]
+
+^<<v16-9-33,33>>^ Tu foste justo em tudo o que nos aconteceu, pois agiste fielmente; nós é que agimos mal.
+
+[[v16-9-34]]
+
+^<<v16-9-34,34>>^ Quanto a nossos reis, nossos príncipes, nossos sacerdotes e nossos antepassados, não obedeceram à tua Lei, nem prestaram atenção aos teus mandamentos nem às tuas advertências,^&#42;1^ que lhes deste.
+
+[NOTE]
+====
+. Ou: “aos teus lembretes”.
+====
+
+[[v16-9-35]]
+
+^<<v16-9-35,35>>^ Mesmo quando estavam no reino deles, usufruindo a imensa bondade que lhes demonstraste, na terra ampla e fértil^&#42;1^ que lhes entregaste, eles não te serviram nem abandonaram as suas práticas más.
+
+[NOTE]
+====
+. Ou: “rica”.
+====
+
+[[v16-9-36]]
+
+^<<v16-9-36,36>>^ Por isso hoje somos escravos, sim, escravos na terra que deste aos nossos antepassados para que eles comessem dos seus frutos e das suas coisas boas.
+
+[[v16-9-37]]
+
+^<<v16-9-37,37>>^ A grande produção dessa terra vai para os reis que puseste sobre nós por causa dos nossos pecados. Eles governam como bem entendem sobre os nossos corpos e sobre os nossos rebanhos, e nós estamos em grande aflição.
+
+[[v16-9-38]]
+
+^<<v16-9-38,38>>^ “Portanto, em vista de tudo isso, estamos fazendo um pacto solene por escrito, e ele está sendo confirmado com o selo dos nossos príncipes, dos nossos levitas e dos nossos sacerdotes.”
+
+'''
+
+xref:016-neemias/016-neemias-008.adoc#v16-8-0[&#60; Capítulo Anterior] | <<v16-9-0,Topo>> | xref:016-neemias/016-neemias-010.adoc#v16-10-0[Próximo Capítulo &#62;]

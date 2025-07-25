@@ -1,0 +1,92 @@
+include::./index.adoc[]
+
+[[v17-4-0]]
+=== Ester, 4
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v17-4-1]]
+
+^<<v17-4-1,1>>^ Quando Mordecai soube de tudo o que havia acontecido, rasgou a roupa, vestiu-se com pano de saco e cobriu-se de cinzas; então saiu pela cidade clamando amargamente.
+
+[[v17-4-2]]
+
+^<<v17-4-2,2>>^ Ele só foi até o portão do rei, pois ninguém podia entrar pelo portão do rei vestido com pano de saco.
+
+[[v17-4-3]]
+
+^<<v17-4-3,3>>^ Em todas as províncias^&#42;1^ aonde chegava a ordem do rei e o seu decreto, havia grande luto entre os judeus, com jejum, choro e lamentação. Muitos se deitavam em pano de saco e cinzas.
+
+[NOTE]
+====
+. Ou: “todos os distritos jurisdicionais”.
+====
+
+[[v17-4-4]]
+
+^<<v17-4-4,4>>^ Quando as criadas e os eunucos da rainha Ester foram lhe contar sobre a situação, ela ficou muito aflita. Então enviou roupas para que Mordecai tirasse o pano de saco e as vestisse, mas ele não as aceitou.
+
+[[v17-4-5]]
+
+^<<v17-4-5,5>>^ Em vista disso, Ester mandou chamar Hataque, um dos eunucos do rei designados por ele para servi-la, e ordenou-lhe que perguntasse a Mordecai por que ele estava agindo assim e o que estava acontecendo.
+
+[[v17-4-6]]
+
+^<<v17-4-6,6>>^ Portanto, Hataque foi falar com Mordecai na praça da cidade que ficava em frente ao portão do rei.
+
+[[v17-4-7]]
+
+^<<v17-4-7,7>>^ Mordecai lhe contou tudo o que tinha acontecido com ele e disse a quantia exata que Hamã havia prometido pagar ao tesouro do rei para destruir os judeus.
+
+[[v17-4-8]]
+
+^<<v17-4-8,8>>^ Entregou-lhe também uma cópia do decreto proclamado em Susã^&#42;1^ que determinava o extermínio deles. Ele devia mostrá-lo e explicá-lo a Ester, e dizer a ela que comparecesse perante o rei para implorar o favor dele e interceder pessoalmente pelo seu povo.
+
+[NOTE]
+====
+. Ou: “Susa”.
+====
+
+[[v17-4-9]]
+
+^<<v17-4-9,9>>^ Hataque voltou e contou a Ester o que Mordecai tinha dito.
+
+[[v17-4-10]]
+
+^<<v17-4-10,10>>^ Ester mandou Hataque dar a seguinte resposta a Mordecai:
+
+[[v17-4-11]]
+
+^<<v17-4-11,11>>^ “Todos os servos do rei e o povo das províncias do rei sabem que, se algum homem ou mulher se apresentar ao rei no pátio interno sem ter sido convocado, há uma só lei que se aplica: a pessoa deve ser morta. Ela só continuará viva se o rei lhe estender o cetro de ouro. E já faz 30 dias que não sou convocada à presença do rei.”
+
+[[v17-4-12]]
+
+^<<v17-4-12,12>>^ Quando Mordecai foi informado do que Ester disse,
+
+[[v17-4-13]]
+
+^<<v17-4-13,13>>^ ele mandou responder a Ester: “Não pense que, só por estar na casa do rei, você terá mais chance de escapar do que todos os outros judeus.
+
+[[v17-4-14]]
+
+^<<v17-4-14,14>>^ Se você ficar calada agora, o alívio e o livramento para os judeus virão de outra parte, mas você e os da casa do seu pai morrerão. E quem sabe se não foi para uma ocasião como essa que você se tornou rainha?”
+
+[[v17-4-15]]
+
+^<<v17-4-15,15>>^ Então Ester mandou responder a Mordecai:
+
+[[v17-4-16]]
+
+^<<v17-4-16,16>>^ “Vá, reúna todos os judeus que estão em Susã^&#42;1^ e jejuem por mim. Não comam nem bebam nada durante três dias, dia e noite, e eu e as minhas criadas também jejuaremos. Eu me apresentarei ao rei, apesar de isso ser contra a lei. E, se eu tiver de morrer, morrerei.”
+
+[NOTE]
+====
+. Ou: “Susa”.
+====
+
+[[v17-4-17]]
+
+^<<v17-4-17,17>>^ Então Mordecai foi e cumpriu todas as instruções de Ester.
+
+'''
+
+xref:017-ester/017-ester-003.adoc#v17-3-0[&#60; Capítulo Anterior] | <<v17-4-0,Topo>> | xref:017-ester/017-ester-005.adoc#v17-5-0[Próximo Capítulo &#62;]

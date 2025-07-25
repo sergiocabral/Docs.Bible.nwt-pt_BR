@@ -1,0 +1,129 @@
+include::./index.adoc[]
+
+[[v2-7-0]]
+=== Êxodo, 7
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v2-7-1]]
+
+^<<v2-7-1,1>>^ Então Jeová disse a Moisés: “Veja, eu o fiz como Deus^&#42;1^ para Faraó; e Arão, seu irmão, falará por você como profeta.
+
+[NOTE]
+====
+. Lit.: “fiz Deus”.
+====
+
+[[v2-7-2]]
+
+^<<v2-7-2,2>>^ Você dirá tudo o que eu lhe ordenar; seu irmão Arão falará a Faraó, e este deixará os israelitas sair do país.
+
+[[v2-7-3]]
+
+^<<v2-7-3,3>>^ Quanto a mim, deixarei o coração de Faraó ficar endurecido. Multiplicarei os meus sinais e os meus milagres na terra do Egito,
+
+[[v2-7-4]]
+
+^<<v2-7-4,4>>^ mas Faraó não escutará vocês. Então porei minha mão sobre o Egito e tirarei da terra do Egito as multidões que me pertencem,^&#42;1^ meu povo, os israelitas, com grandes julgamentos.
+
+[NOTE]
+====
+. Lit.: “os meus exércitos”.
+====
+
+[[v2-7-5]]
+
+^<<v2-7-5,5>>^ E os egípcios certamente saberão que eu sou Jeová, quando eu estender a mão contra o Egito e tirar os israelitas do meio deles.”
+
+[[v2-7-6]]
+
+^<<v2-7-6,6>>^ Moisés e Arão fizeram o que Jeová lhes havia ordenado; fizeram exatamente assim.
+
+[[v2-7-7]]
+
+^<<v2-7-7,7>>^ Moisés tinha 80 anos de idade e Arão tinha 83 anos de idade quando falaram a Faraó.
+
+[[v2-7-8]]
+
+^<<v2-7-8,8>>^ Jeová disse então a Moisés e a Arão:
+
+[[v2-7-9]]
+
+^<<v2-7-9,9>>^ “Se Faraó lhes disser: ‘Façam um milagre’, diga a Arão: ‘Pegue o seu bastão e jogue-o no chão diante de Faraó.’ O bastão se transformará numa cobra grande.”
+
+[[v2-7-10]]
+
+^<<v2-7-10,10>>^ De modo que Moisés e Arão se apresentaram a Faraó e fizeram exatamente como Jeová havia ordenado. Arão jogou seu bastão no chão diante de Faraó e dos servos dele, e o bastão se transformou numa cobra grande.
+
+[[v2-7-11]]
+
+^<<v2-7-11,11>>^ No entanto, Faraó convocou os sábios e os feiticeiros; e os sacerdotes-magos do Egito fizeram a mesma coisa com a sua magia.^&#42;1^
+
+[NOTE]
+====
+. Ou: “as suas artes mágicas”.
+====
+
+[[v2-7-12]]
+
+^<<v2-7-12,12>>^ Cada um deles jogou seu bastão no chão, e eles se transformaram em cobras grandes; mas o bastão de Arão engoliu os bastões deles.
+
+[[v2-7-13]]
+
+^<<v2-7-13,13>>^ Ainda assim, o coração de Faraó ficou endurecido, e ele não os escutou, assim como Jeová havia falado.
+
+[[v2-7-14]]
+
+^<<v2-7-14,14>>^ Então Jeová disse a Moisés: “O coração de Faraó é insensível. Ele se recusou a deixar o povo ir.
+
+[[v2-7-15]]
+
+^<<v2-7-15,15>>^ Vá a Faraó pela manhã. Quando ele estiver saindo para ir ao rio Nilo, fique à beira da água para se encontrar com ele; e leve junto o bastão que se transformou numa serpente.
+
+[[v2-7-16]]
+
+^<<v2-7-16,16>>^ Diga-lhe: ‘Jeová, o Deus dos hebreus, me enviou ao senhor. Ele disse: “Deixe meu povo ir, para que me sirvam no deserto”, mas o senhor não obedeceu até agora.
+
+[[v2-7-17]]
+
+^<<v2-7-17,17>>^ Assim diz Jeová: “Por meio disto saberá que eu sou Jeová. Vou bater na água do rio Nilo com o bastão que está na minha mão, e ela se transformará em sangue.
+
+[[v2-7-18]]
+
+^<<v2-7-18,18>>^ Os peixes do Nilo morrerão, o Nilo ficará cheirando mal, e os egípcios simplesmente não conseguirão beber a água do Nilo.”’”
+
+[[v2-7-19]]
+
+^<<v2-7-19,19>>^ Então Jeová disse a Moisés: “Diga a Arão: ‘Pegue seu bastão e estenda a mão sobre as águas do Egito, sobre os rios, sobre os canais,^&#42;1^ sobre os pântanos e sobre todos os reservatórios, para que se transformem em sangue.’ Haverá sangue em toda a terra do Egito, até mesmo nos recipientes de madeira e de pedra.”
+
+[NOTE]
+====
+. Isto é, os canais do Nilo.
+====
+
+[[v2-7-20]]
+
+^<<v2-7-20,20>>^ Moisés e Arão fizeram imediatamente como Jeová lhes havia ordenado. Ele ergueu o bastão e golpeou a água do rio Nilo diante de Faraó e dos servos dele, e toda a água do rio se transformou em sangue.
+
+[[v2-7-21]]
+
+^<<v2-7-21,21>>^ Os peixes do rio morreram, e o rio começou a cheirar mal, de modo que os egípcios não podiam beber a água do Nilo. Havia sangue em toda a terra do Egito.
+
+[[v2-7-22]]
+
+^<<v2-7-22,22>>^ Contudo, os sacerdotes-magos do Egito fizeram a mesma coisa com as suas artes secretas, de modo que o coração de Faraó continuou endurecido, e ele não os escutou, assim como Jeová havia falado.
+
+[[v2-7-23]]
+
+^<<v2-7-23,23>>^ Então Faraó voltou para casa e não deu atenção a isso também.
+
+[[v2-7-24]]
+
+^<<v2-7-24,24>>^ Assim, todos os egípcios cavavam ao redor do Nilo em busca de água para beber, porque não podiam beber a água do Nilo.
+
+[[v2-7-25]]
+
+^<<v2-7-25,25>>^ Completaram-se então sete dias depois de Jeová golpear o Nilo.
+
+'''
+
+xref:002-exodo/002-exodo-006.adoc#v2-6-0[&#60; Capítulo Anterior] | <<v2-7-0,Topo>> | xref:002-exodo/002-exodo-008.adoc#v2-8-0[Próximo Capítulo &#62;]

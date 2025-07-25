@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v5-20-0]]
+=== Deuteronômio, 20
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v5-20-1]]
+
+^<<v5-20-1,1>>^ “Se você for à guerra contra os seus inimigos e vir que os cavalos, os carros de guerra e as tropas deles são mais numerosos do que os seus, não tenha medo deles, pois Jeová, seu Deus, que o tirou da terra do Egito, está com você.
+
+[[v5-20-2]]
+
+^<<v5-20-2,2>>^ Quando vocês estiverem para entrar em batalha, o sacerdote deve se aproximar e falar ao povo.
+
+[[v5-20-3]]
+
+^<<v5-20-3,3>>^ Ele deve lhes dizer: ‘Ouça, ó Israel, vocês estão para entrar em batalha contra os seus inimigos. Não desanimem. Não tenham medo, nem fiquem apavorados, nem tremam por causa deles,
+
+[[v5-20-4]]
+
+^<<v5-20-4,4>>^ pois Jeová, seu Deus, está marchando com vocês para lutar por vocês contra os seus inimigos e salvá-los.’
+
+[[v5-20-5]]
+
+^<<v5-20-5,5>>^ “Os oficiais também devem dizer ao povo: ‘Quem construiu uma casa nova e não a inaugurou? Retorne à sua casa. Senão poderá morrer na batalha e outro homem a inaugurará.
+
+[[v5-20-6]]
+
+^<<v5-20-6,6>>^ E quem plantou um vinhedo e ainda não colheu os seus frutos? Retorne à sua casa. Senão poderá morrer na batalha e outro homem colherá os seus frutos.
+
+[[v5-20-7]]
+
+^<<v5-20-7,7>>^ E quem ficou noivo de uma mulher e ainda não se casou com ela? Retorne à sua casa. Senão poderá morrer na batalha e outro homem se casará com ela.’
+
+[[v5-20-8]]
+
+^<<v5-20-8,8>>^ Os oficiais também devem perguntar ao povo: ‘Quem está com medo e desanimado? Retorne à sua casa, para que não deixe seus irmãos desanimados assim como ele.’^&#42;1^
+
+[NOTE]
+====
+. Ou: “não faça o coração dos seus irmãos derreter como o seu próprio coração”.
+====
+
+[[v5-20-9]]
+
+^<<v5-20-9,9>>^ Quando os oficiais acabarem de falar ao povo, devem designar os chefes dos exércitos para liderar o povo.
+
+[[v5-20-10]]
+
+^<<v5-20-10,10>>^ “Se você se aproximar de uma cidade para lutar contra ela, deve lhe anunciar termos de paz.
+
+[[v5-20-11]]
+
+^<<v5-20-11,11>>^ Se ela lhe der uma resposta pacífica e abrir os portões para você, todo o povo encontrado ali se tornará seu para trabalhos forçados, e eles o servirão.
+
+[[v5-20-12]]
+
+^<<v5-20-12,12>>^ No entanto, se ela se recusar a fazer paz e guerrear contra você, você deve sitiá-la,
+
+[[v5-20-13]]
+
+^<<v5-20-13,13>>^ e Jeová, seu Deus, certamente a entregará nas suas mãos. Mate com a espada todo homem nela.
+
+[[v5-20-14]]
+
+^<<v5-20-14,14>>^ Mas as mulheres, as crianças, os rebanhos e tudo o que houver na cidade, todo o despojo dela, você pode saquear. E você comerá do despojo dos seus inimigos, que Jeová, seu Deus, lhe entregou.
+
+[[v5-20-15]]
+
+^<<v5-20-15,15>>^ “Você fará isso com todas as cidades bem distantes de você, que não forem cidades das nações que estão perto de você.
+
+[[v5-20-16]]
+
+^<<v5-20-16,16>>^ Mas não permita que nada que respira continue vivo nas cidades destes povos, as quais Jeová, seu Deus, lhe dá como herança.
+
+[[v5-20-17]]
+
+^<<v5-20-17,17>>^ Você deve entregá-los à destruição^&#42;1^ — os hititas, os amorreus, os cananeus, os perizeus, os heveus e os jebuseus — assim como Jeová, seu Deus, lhe ordenou,
+
+[NOTE]
+====
+. Ou: “devotá-los à destruição”. Veja o Glossário.
+====
+
+[[v5-20-18]]
+
+^<<v5-20-18,18>>^ para que eles não ensinem vocês a imitar todas as coisas detestáveis que eles fazem para os seus deuses, levando-os a pecar contra Jeová, seu Deus.
+
+[[v5-20-19]]
+
+^<<v5-20-19,19>>^ “Se você sitiar uma cidade para tomá-la e estiver lutando contra ela por muito tempo, você não deve destruir suas árvores, erguendo um machado contra elas. Você pode comer delas, mas não deve cortá-las. Pois será que você deveria sitiar uma árvore do campo assim como faria com um homem?
+
+[[v5-20-20]]
+
+^<<v5-20-20,20>>^ Você pode destruir apenas a árvore que você souber que não serve para alimento. Pode cortá-la e construir obras de cerco contra a cidade que guerreia contra você, até que ela caia.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-019.adoc#v5-19-0[&#60; Capítulo Anterior] | <<v5-20-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-021.adoc#v5-21-0[Próximo Capítulo &#62;]

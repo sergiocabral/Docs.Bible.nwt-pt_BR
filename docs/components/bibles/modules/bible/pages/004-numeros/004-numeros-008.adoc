@@ -1,0 +1,138 @@
+include::./index.adoc[]
+
+[[v4-8-0]]
+=== Números, 8
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v4-8-1]]
+
+^<<v4-8-1,1>>^ Jeová disse a Moisés:
+
+[[v4-8-2]]
+
+^<<v4-8-2,2>>^ “Diga a Arão: ‘Quando você acender as lâmpadas, as sete lâmpadas devem iluminar a área na frente do candelabro.’”
+
+[[v4-8-3]]
+
+^<<v4-8-3,3>>^ Então Arão fez isto: acendeu as lâmpadas para iluminar a área na frente do candelabro, assim como Jeová havia ordenado a Moisés.
+
+[[v4-8-4]]
+
+^<<v4-8-4,4>>^ O candelabro era feito de ouro batido a martelo; da haste até as flores, era feito de ouro batido a martelo. O candelabro foi feito segundo o que Jeová havia mostrado a Moisés na visão.
+
+[[v4-8-5]]
+
+^<<v4-8-5,5>>^ Jeová disse mais a Moisés:
+
+[[v4-8-6]]
+
+^<<v4-8-6,6>>^ “Separe os levitas dentre os israelitas e purifique-os.
+
+[[v4-8-7]]
+
+^<<v4-8-7,7>>^ É assim que você deve purificá-los: Faça aspersão da água purificadora de pecado sobre eles, e eles devem raspar o corpo inteiro com uma navalha, lavar suas roupas e se purificar.
+
+[[v4-8-8]]
+
+^<<v4-8-8,8>>^ Então eles pegarão um novilho e a correspondente oferta de cereais de farinha fina misturada com azeite, e você pegará outro novilho como oferta pelo pecado.
+
+[[v4-8-9]]
+
+^<<v4-8-9,9>>^ E você deve apresentar os levitas diante da tenda de reunião e reunir toda a assembleia de Israel.
+
+[[v4-8-10]]
+
+^<<v4-8-10,10>>^ Quando você apresentar os levitas perante Jeová, os israelitas devem pôr as mãos sobre os levitas.
+
+[[v4-8-11]]
+
+^<<v4-8-11,11>>^ E Arão oferecerá^&#42;1^ os levitas perante Jeová como uma oferta movida dos israelitas, e os levitas realizarão o serviço de Jeová.
+
+[NOTE]
+====
+. Lit.: “moverá”, isto é, fará mover para frente e para trás.
+====
+
+[[v4-8-12]]
+
+^<<v4-8-12,12>>^ “Então os levitas porão as mãos sobre a cabeça dos novilhos. Depois, oferecerão um deles como oferta pelo pecado e o outro como oferta queimada a Jeová, a fim de fazer expiação pelos levitas.
+
+[[v4-8-13]]
+
+^<<v4-8-13,13>>^ Você fará os levitas ficar diante de Arão e seus filhos, e os oferecerá^&#42;1^ como oferta movida a Jeová.
+
+[NOTE]
+====
+. Lit.: “moverá”, isto é, fará mover para frente e para trás.
+====
+
+[[v4-8-14]]
+
+^<<v4-8-14,14>>^ Você deve separar os levitas dentre os israelitas, e os levitas se tornarão meus.
+
+[[v4-8-15]]
+
+^<<v4-8-15,15>>^ Depois os levitas entrarão para servir junto à tenda de reunião. É assim que você deve purificá-los e oferecê-los^&#42;1^ como oferta movida.
+
+[NOTE]
+====
+. Lit.: “movê-los”, isto é, para frente e para trás.
+====
+
+[[v4-8-16]]
+
+^<<v4-8-16,16>>^ Pois eles são os que foram dados a mim como dádivas dentre os israelitas. Eu os pegarei para mim em lugar de todos os primogênitos^&#42;1^ dos israelitas.
+
+[NOTE]
+====
+. Ou: “todos os primogênitos que abrem o ventre”.
+====
+
+[[v4-8-17]]
+
+^<<v4-8-17,17>>^ Pois todo primogênito dos israelitas, tanto de homens como de animais, é meu. Eu os santifiquei para mim no dia em que matei todo primogênito na terra do Egito.
+
+[[v4-8-18]]
+
+^<<v4-8-18,18>>^ Pegarei os levitas em lugar de todos os primogênitos dos israelitas.
+
+[[v4-8-19]]
+
+^<<v4-8-19,19>>^ Darei os levitas a Arão e a seus filhos como dádivas dentre os israelitas, para realizarem o serviço em benefício dos israelitas na tenda de reunião e fazerem expiação por eles, para que não ocorra nenhuma praga entre os israelitas se o povo de Israel chegar perto do lugar santo.”
+
+[[v4-8-20]]
+
+^<<v4-8-20,20>>^ Moisés, Arão e toda a assembleia de Israel fizeram isso com os levitas. Os israelitas fizeram com os levitas tudo o que Jeová havia ordenado a Moisés com respeito aos levitas.
+
+[[v4-8-21]]
+
+^<<v4-8-21,21>>^ Portanto, os levitas se purificaram e lavaram suas roupas; depois Arão os ofereceu^&#42;1^ como oferta movida perante Jeová. Arão fez então expiação por eles, para purificá-los.
+
+[NOTE]
+====
+. Lit.: “moveu”, isto é, fez mover para frente e para trás.
+====
+
+[[v4-8-22]]
+
+^<<v4-8-22,22>>^ Depois os levitas entraram para realizar seu serviço na tenda de reunião diante de Arão e seus filhos. Assim como Jeová havia ordenado a Moisés com respeito aos levitas, assim fizeram com eles.
+
+[[v4-8-23]]
+
+^<<v4-8-23,23>>^ Jeová disse então a Moisés:
+
+[[v4-8-24]]
+
+^<<v4-8-24,24>>^ “Isto se aplica aos levitas: de 25 anos de idade para cima, um homem se juntará ao grupo dos que servem na tenda de reunião.
+
+[[v4-8-25]]
+
+^<<v4-8-25,25>>^ Mas, depois dos 50 anos de idade, ele se retirará do grupo de serviço e não fará mais nenhum serviço.
+
+[[v4-8-26]]
+
+^<<v4-8-26,26>>^ Ele pode servir os seus irmãos, que cuidam das responsabilidades na tenda de reunião, mas não deve fazer nenhum serviço ali. É assim que você deve fazer com respeito aos levitas e às responsabilidades deles.”
+
+'''
+
+xref:004-numeros/004-numeros-007.adoc#v4-7-0[&#60; Capítulo Anterior] | <<v4-8-0,Topo>> | xref:004-numeros/004-numeros-009.adoc#v4-9-0[Próximo Capítulo &#62;]

@@ -1,0 +1,298 @@
+include::./index.adoc[]
+
+[[v19-68-0]]
+=== Salmos, 68
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Ao regente. Salmo de Davi. Cântico._
+
+[[v19-68-1]]
+
+^<<v19-68-1,1>>^ Que Deus se levante, e que seus inimigos sejam espalhados,
+Que todos os que o odeiam fujam de diante dele.
+
+[[v19-68-2]]
+
+^<<v19-68-2,2>>^ Que tu os expulses assim como o vento leva a fumaça embora.
+Assim como a cera derrete na presença do fogo,
+Assim sejam eliminados os maus na presença de Deus.
+
+[[v19-68-3]]
+
+^<<v19-68-3,3>>^ Mas que os justos se alegrem;
+Que fiquem radiantes diante de Deus;
+Que exultem com alegria.
+
+[[v19-68-4]]
+
+^<<v19-68-4,4>>^ Cantem a Deus; cantem louvores^&#42;1^ ao seu nome.
+Cantem àquele que cavalga através das planícies desérticas.^&#42;2^
+Jah^&#42;3^ é o seu nome! Alegrem-se diante dele!
+
+[NOTE]
+====
+. Ou: “façam música”.
+. Ou, possivelmente: “nas nuvens”.
+. “Jah” é uma forma reduzida do nome Jeová.
+====
+
+[[v19-68-5]]
+
+^<<v19-68-5,5>>^ Pai dos órfãos^&#42;1^ e protetor^&#42;2^ das viúvas
+É Deus na sua santa morada.
+
+[NOTE]
+====
+. Ou: “órfãos de pai”.
+. Lit.: “juiz”.
+====
+
+[[v19-68-6]]
+
+^<<v19-68-6,6>>^ Deus dá aos que estão sós um lar onde morar;
+Conduz os prisioneiros à liberdade e à prosperidade.
+Mas os obstinados^&#42;1^ têm de viver numa terra seca.
+
+[NOTE]
+====
+. Ou: “rebeldes”.
+====
+
+[[v19-68-7]]
+
+^<<v19-68-7,7>>^ Ó Deus, quando conduziste o^&#42;1^ teu povo,
+Quando marchaste através do deserto, (Selá)
+
+[NOTE]
+====
+. Lit.: “saíste diante do”.
+====
+
+[[v19-68-8]]
+
+^<<v19-68-8,8>>^ A terra tremeu;
+Os céus derramaram chuva^&#42;1^ por causa de Deus;
+O monte Sinai tremeu por causa de Deus, o Deus de Israel.
+
+[NOTE]
+====
+. Lit.: “gotejaram”.
+====
+
+[[v19-68-9]]
+
+^<<v19-68-9,9>>^ Fizeste chover em abundância, ó Deus;
+Revigoraste teu povo exausto.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “tua herança exausta”.
+====
+
+[[v19-68-10]]
+
+^<<v19-68-10,10>>^ Eles moraram no teu acampamento;
+Na tua bondade, fizeste provisões para o pobre, ó Deus.
+
+[[v19-68-11]]
+
+^<<v19-68-11,11>>^ Jeová dá a ordem;
+As mulheres que proclamam as boas novas são um grande exército.
+
+[[v19-68-12]]
+
+^<<v19-68-12,12>>^ Os reis e os seus exércitos fogem, eles fogem!
+Aquela que fica em casa participa do despojo.
+
+[[v19-68-13]]
+
+^<<v19-68-13,13>>^ Embora vocês se tenham deitado entre as fogueiras do acampamento,^&#42;1^
+Haverá as asas de uma pomba, revestidas de prata,
+Com plumas de ouro fino.^&#42;2^
+
+[NOTE]
+====
+. Ou, possivelmente: “entre os currais de ovelhas”.
+. Ou: “ouro amarelo-esverdeado”.
+====
+
+[[v19-68-14]]
+
+^<<v19-68-14,14>>^ Quando o Todo-Poderoso espalhou os reis desta terra,^&#42;1^
+Nevou em Zalmom.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “reis nela”.
+. Ou: “Foi como se tivesse nevado em Zalmom”.
+====
+
+[[v19-68-15]]
+
+^<<v19-68-15,15>>^ A montanha de Basã é uma montanha de Deus;^&#42;1^
+A montanha de Basã é uma montanha de picos.
+
+[NOTE]
+====
+. Ou: “uma montanha majestosa”.
+====
+
+[[v19-68-16]]
+
+^<<v19-68-16,16>>^ Ó montanhas de picos, por que estão olhando com inveja
+Para o monte que Deus escolheu para^&#42;1^ morar?
+Sim, Jeová residirá ali para sempre.
+
+[NOTE]
+====
+. Ou: “em que Deus deseja”.
+====
+
+[[v19-68-17]]
+
+^<<v19-68-17,17>>^ Os carros de guerra de Deus são dezenas de milhares, milhares de milhares.
+Jeová veio do monte Sinai para o lugar santo.
+
+[[v19-68-18]]
+
+^<<v19-68-18,18>>^ Subiste ao alto;
+Levaste contigo cativos;
+Tomaste dádivas em forma de homens,
+Sim, até mesmo homens obstinados, para residires entre eles, ó Jah, Deus.
+
+[[v19-68-19]]
+
+^<<v19-68-19,19>>^ Louvado seja Jeová, que diariamente leva a nossa carga,
+O verdadeiro Deus, que é a nossa salvação. (Selá)
+
+[[v19-68-20]]
+
+^<<v19-68-20,20>>^ O verdadeiro Deus é para nós um Deus que salva;
+Jeová, o Soberano Senhor, livra da morte.
+
+[[v19-68-21]]
+
+^<<v19-68-21,21>>^ Sim, Deus esmagará a cabeça dos seus inimigos,
+O crânio^&#42;1^ de todo aquele que continua^&#42;2^ no erro.
+
+[NOTE]
+====
+. Ou: “crânio cabeludo”.
+. Ou: “anda”.
+====
+
+[[v19-68-22]]
+
+^<<v19-68-22,22>>^ Jeová disse: “Eu os trarei de volta de Basã;
+Eu os trarei de volta das profundezas do mar,
+
+[[v19-68-23]]
+
+^<<v19-68-23,23>>^ A fim de que você encharque os pés no sangue dos inimigos,
+E os seus cães possam lamber o sangue deles.”
+
+[[v19-68-24]]
+
+^<<v19-68-24,24>>^ Eles veem os teus desfiles triunfais, ó Deus,
+Os desfiles do meu Deus, meu Rei, entrando no lugar santo.
+
+[[v19-68-25]]
+
+^<<v19-68-25,25>>^ Os cantores vão na frente; os músicos, tocando instrumentos de cordas, atrás deles;
+No meio estão as jovens tocando pandeiros.
+
+[[v19-68-26]]
+
+^<<v19-68-26,26>>^ Em multidões reunidas,^&#42;1^ louvem a Deus;
+Louvem a Jeová, vocês que são da Fonte de Israel.
+
+[NOTE]
+====
+. Lit.: “Em assembleias”.
+====
+
+[[v19-68-27]]
+
+^<<v19-68-27,27>>^ Ali Benjamim, o mais novo, domina^&#42;1^ sobre eles,
+Também os príncipes de Judá, com sua multidão gritando de alegria,
+Os príncipes de Zebulão, os príncipes de Naftali.
+
+[NOTE]
+====
+. Ou: “governa”.
+====
+
+[[v19-68-28]]
+
+^<<v19-68-28,28>>^ Seu Deus decretou que você será forte.
+Mostra a tua força, ó Deus, tu que tens agido em nosso favor.
+
+[[v19-68-29]]
+
+^<<v19-68-29,29>>^ Por causa do teu templo em Jerusalém,
+Reis trarão presentes a ti.
+
+[[v19-68-30]]
+
+^<<v19-68-30,30>>^ Censura as feras dos juncos,
+A manada^&#42;1^ de touros e os seus bezerros,
+Até que os povos se curvem e tragam^&#42;2^ peças de prata.
+Mas ele espalha os povos que têm prazer na guerra.
+
+[NOTE]
+====
+. Ou: “assembleia”.
+. Ou, possivelmente: “pisem em”.
+====
+
+[[v19-68-31]]
+
+^<<v19-68-31,31>>^ Objetos de bronze serão trazidos^&#42;1^ do Egito;
+Cuche se apressará em oferecer dádivas a Deus.
+
+[NOTE]
+====
+. Ou, possivelmente: “Embaixadores virão”.
+====
+
+[[v19-68-32]]
+
+^<<v19-68-32,32>>^ Ó reinos da terra, cantem a Deus,
+Cantem louvores^&#42;1^ a Jeová, (Selá)
+
+[NOTE]
+====
+. Ou: “Façam música”.
+====
+
+[[v19-68-33]]
+
+^<<v19-68-33,33>>^ Aquele que cavalga sobre o antigo céu dos céus.
+Escutem! Ele troveja com a sua voz, sua voz poderosa.
+
+[[v19-68-34]]
+
+^<<v19-68-34,34>>^ Reconheçam a força de Deus.
+Sua majestade está sobre Israel,
+E sua força está nos céus.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “nas nuvens”.
+====
+
+[[v19-68-35]]
+
+^<<v19-68-35,35>>^ Do seu^&#42;1^ grandioso santuário, Deus inspira temor.
+Ele é o Deus de Israel,
+Que dá força e poder ao povo.
+Louvado seja Deus.
+
+[NOTE]
+====
+. Lit.: “teu”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-067.adoc#v19-67-0[&#60; Capítulo Anterior] | <<v19-68-0,Topo>> | xref:019-salmo/019-salmo-069.adoc#v19-69-0[Próximo Capítulo &#62;]

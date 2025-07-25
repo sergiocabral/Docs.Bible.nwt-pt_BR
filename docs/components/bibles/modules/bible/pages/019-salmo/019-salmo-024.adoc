@@ -1,0 +1,80 @@
+include::./index.adoc[]
+
+[[v19-24-0]]
+=== Salmos, 24
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Salmo de Davi._
+
+[[v19-24-1]]
+
+^<<v19-24-1,1>>^ A Jeová pertence a terra e tudo o que nela há,
+A terra produtiva e os que moram nela.
+
+[[v19-24-2]]
+
+^<<v19-24-2,2>>^ Pois ele a fixou solidamente sobre os mares
+E a estabeleceu firmemente sobre os rios.
+
+[[v19-24-3]]
+
+^<<v19-24-3,3>>^ Quem pode subir ao monte de Jeová,
+E quem pode ficar de pé no seu lugar santo?
+
+[[v19-24-4]]
+
+^<<v19-24-4,4>>^ Aquele que tem mãos inocentes e coração puro,
+Que não jurou por Minha vida^&#42;1^ falsamente,
+Nem fez um juramento para enganar.
+
+[NOTE]
+====
+. Ou: “Minha alma”, refere-se à vida de Jeová, usada como base para um juramento.
+====
+
+[[v19-24-5]]
+
+^<<v19-24-5,5>>^ Ele receberá bênçãos de Jeová,
+E será considerado justo pelo^&#42;1^ Deus da sua salvação.
+
+[NOTE]
+====
+. Ou: “E justiça do”.
+====
+
+[[v19-24-6]]
+
+^<<v19-24-6,6>>^ Essa é a geração dos que buscam a ele,
+Dos que procuram a tua face, ó Deus de Jacó. (Selá)
+
+[[v19-24-7]]
+
+^<<v19-24-7,7>>^ Levantem as suas cabeças, ó portões;
+Abram-se,^&#42;1^ ó entradas antigas,
+Para que entre o Rei glorioso!
+
+[NOTE]
+====
+. Ou: “Levantem-se”.
+====
+
+[[v19-24-8]]
+
+^<<v19-24-8,8>>^ Quem é esse Rei glorioso?
+Jeová, forte e poderoso,
+Jeová, poderoso na batalha.
+
+[[v19-24-9]]
+
+^<<v19-24-9,9>>^ Levantem as suas cabeças, ó portões,
+Abram-se, ó entradas antigas,
+Para que entre o Rei glorioso!
+
+[[v19-24-10]]
+
+^<<v19-24-10,10>>^ Quem é ele, quem é esse Rei glorioso?
+Jeová dos exércitos — ele é o Rei glorioso. (Selá)
+
+'''
+
+xref:019-salmo/019-salmo-023.adoc#v19-23-0[&#60; Capítulo Anterior] | <<v19-24-0,Topo>> | xref:019-salmo/019-salmo-025.adoc#v19-25-0[Próximo Capítulo &#62;]

@@ -1,0 +1,40 @@
+include::../index.adoc[]
+
+[[v13-0-0]]
+== 1 Crônicas
+
+[cols="8*^"]
+|===
+| xref:013-1-cronicas/013-1-cronicas-001.adoc#v13-1-0[1]
+| xref:013-1-cronicas/013-1-cronicas-002.adoc#v13-2-0[2]
+| xref:013-1-cronicas/013-1-cronicas-003.adoc#v13-3-0[3]
+| xref:013-1-cronicas/013-1-cronicas-004.adoc#v13-4-0[4]
+| xref:013-1-cronicas/013-1-cronicas-005.adoc#v13-5-0[5]
+| xref:013-1-cronicas/013-1-cronicas-006.adoc#v13-6-0[6]
+| xref:013-1-cronicas/013-1-cronicas-007.adoc#v13-7-0[7]
+| xref:013-1-cronicas/013-1-cronicas-008.adoc#v13-8-0[8]
+| xref:013-1-cronicas/013-1-cronicas-009.adoc#v13-9-0[9]
+| xref:013-1-cronicas/013-1-cronicas-010.adoc#v13-10-0[10]
+| xref:013-1-cronicas/013-1-cronicas-011.adoc#v13-11-0[11]
+| xref:013-1-cronicas/013-1-cronicas-012.adoc#v13-12-0[12]
+| xref:013-1-cronicas/013-1-cronicas-013.adoc#v13-13-0[13]
+| xref:013-1-cronicas/013-1-cronicas-014.adoc#v13-14-0[14]
+| xref:013-1-cronicas/013-1-cronicas-015.adoc#v13-15-0[15]
+| xref:013-1-cronicas/013-1-cronicas-016.adoc#v13-16-0[16]
+| xref:013-1-cronicas/013-1-cronicas-017.adoc#v13-17-0[17]
+| xref:013-1-cronicas/013-1-cronicas-018.adoc#v13-18-0[18]
+| xref:013-1-cronicas/013-1-cronicas-019.adoc#v13-19-0[19]
+| xref:013-1-cronicas/013-1-cronicas-020.adoc#v13-20-0[20]
+| xref:013-1-cronicas/013-1-cronicas-021.adoc#v13-21-0[21]
+| xref:013-1-cronicas/013-1-cronicas-022.adoc#v13-22-0[22]
+| xref:013-1-cronicas/013-1-cronicas-023.adoc#v13-23-0[23]
+| xref:013-1-cronicas/013-1-cronicas-024.adoc#v13-24-0[24]
+| xref:013-1-cronicas/013-1-cronicas-025.adoc#v13-25-0[25]
+| xref:013-1-cronicas/013-1-cronicas-026.adoc#v13-26-0[26]
+| xref:013-1-cronicas/013-1-cronicas-027.adoc#v13-27-0[27]
+| xref:013-1-cronicas/013-1-cronicas-028.adoc#v13-28-0[28]
+| xref:013-1-cronicas/013-1-cronicas-029.adoc#v13-29-0[29]
+|
+|
+|
+|===

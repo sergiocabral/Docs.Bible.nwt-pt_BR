@@ -1,0 +1,190 @@
+include::./index.adoc[]
+
+[[v15-7-0]]
+=== Esdras, 7
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v15-7-1]]
+
+^<<v15-7-1,1>>^ Depois dessas coisas, no reinado de Artaxerxes, rei da Pérsia, Esdras^&#42;1^ retornou. Ele era filho de Seraías, filho de Azarias, filho de Hilquias,
+
+[NOTE]
+====
+. Que significa “ajuda”.
+====
+
+[[v15-7-2]]
+
+^<<v15-7-2,2>>^ filho de Salum, filho de Zadoque, filho de Aitube,
+
+[[v15-7-3]]
+
+^<<v15-7-3,3>>^ filho de Amarias, filho de Azarias, filho de Meraiote,
+
+[[v15-7-4]]
+
+^<<v15-7-4,4>>^ filho de Zeraías, filho de Uzi, filho de Buqui,
+
+[[v15-7-5]]
+
+^<<v15-7-5,5>>^ filho de Abisua, filho de Fineias, filho de Eleazar, filho de Arão, o principal sacerdote.
+
+[[v15-7-6]]
+
+^<<v15-7-6,6>>^ Esse Esdras veio de Babilônia. Ele era um copista^&#42;1^ que tinha grande conhecimento^&#42;2^ da Lei de Moisés, dada por Jeová, o Deus de Israel. A mão de Jeová, seu Deus, estava sobre ele, de modo que o rei lhe concedeu tudo o que tinha pedido.
+
+[NOTE]
+====
+. Ou: “escriba”.
+. Ou: “Ele era um copista habilidoso”.
+====
+
+[[v15-7-7]]
+
+^<<v15-7-7,7>>^ Alguns israelitas, sacerdotes, levitas, cantores, porteiros e servos do templo^&#42;1^ subiram a Jerusalém no sétimo ano do rei Artaxerxes.
+
+[NOTE]
+====
+. Ou: “netineus”. Lit.: “os que foram dados”.
+====
+
+[[v15-7-8]]
+
+^<<v15-7-8,8>>^ E Esdras chegou a Jerusalém no quinto mês, no sétimo ano do rei.
+
+[[v15-7-9]]
+
+^<<v15-7-9,9>>^ No primeiro dia do primeiro mês, ele partiu de Babilônia, e chegou a Jerusalém no primeiro dia do quinto mês, pois a boa mão de seu Deus estava sobre ele.
+
+[[v15-7-10]]
+
+^<<v15-7-10,10>>^ Esdras havia preparado seu coração para^&#42;1^ consultar a Lei de Jeová e para praticá-la, e para ensinar seus decretos e decisões judiciais em Israel.
+
+[NOTE]
+====
+. Ou: “havia decidido no coração”.
+====
+
+[[v15-7-11]]
+
+^<<v15-7-11,11>>^ Esta é uma cópia da carta que o rei Artaxerxes deu a Esdras, o sacerdote e copista,^&#42;1^ perito no conhecimento^&#42;2^ dos mandamentos de Jeová e dos seus decretos para Israel:
+
+[NOTE]
+====
+. Ou: “escriba”.
+. Ou: “copista das palavras”.
+====
+
+[[v15-7-12]]
+
+^<<v15-7-12,12>>^ ^&#42;1^ “Artaxerxes, rei dos reis, a Esdras, o sacerdote e copista^&#42;2^ da Lei do Deus dos céus: Que a paz perfeita esteja com você.
+
+[NOTE]
+====
+. Esdras 7:12 até 7:26 foi originalmente escrito em aramaico.
+. Ou: “escriba”.
+====
+
+[[v15-7-13]]
+
+^<<v15-7-13,13>>^ Emiti uma ordem autorizando todos no meu reino que forem do povo de Israel, incluindo seus sacerdotes e levitas, a ir com você a Jerusalém, se assim desejarem.
+
+[[v15-7-14]]
+
+^<<v15-7-14,14>>^ Pois você está sendo enviado pelo rei e seus sete conselheiros para investigar se a Lei do seu Deus, que você tem em mãos, está sendo cumprida em Judá e Jerusalém.
+
+[[v15-7-15]]
+
+^<<v15-7-15,15>>^ Você também deve levar a prata e o ouro que o rei e os seus conselheiros deram voluntariamente ao Deus de Israel, que reside em Jerusalém,
+
+[[v15-7-16]]
+
+^<<v15-7-16,16>>^ junto com toda a prata e o ouro que você receber^&#42;1^ em toda a província^&#42;2^ de Babilônia, e também a dádiva que o povo e os sacerdotes derem voluntariamente à casa do seu Deus em Jerusalém.
+
+[NOTE]
+====
+. Lit.: “encontrar”.
+. Ou: “em todo o distrito jurisdicional”.
+====
+
+[[v15-7-17]]
+
+^<<v15-7-17,17>>^ E com esse dinheiro você deverá comprar prontamente touros, carneiros e cordeiros, e as correspondentes ofertas de cereais e de bebida, e deverá apresentá-los no altar da casa do seu Deus em Jerusalém.
+
+[[v15-7-18]]
+
+^<<v15-7-18,18>>^ “E, com o restante da prata e do ouro, você e seus irmãos podem fazer o que acharem melhor, de acordo com a vontade do seu Deus.
+
+[[v15-7-19]]
+
+^<<v15-7-19,19>>^ Você deve entregar perante Deus em Jerusalém todos os utensílios que lhe forem dados para o serviço da casa do seu Deus.
+
+[[v15-7-20]]
+
+^<<v15-7-20,20>>^ E todas as outras coisas necessárias que você tiver de fornecer à casa do seu Deus, você pagará com os recursos do tesouro real.
+
+[[v15-7-21]]
+
+^<<v15-7-21,21>>^ “Eu, rei Artaxerxes, ordeno a todos os tesoureiros da região ao oeste do rio Eufrates^&#42;1^ que atendam prontamente a todos os pedidos de Esdras, o sacerdote e copista^&#42;2^ da Lei do Deus dos céus,
+
+[NOTE]
+====
+. Ou: “região Além do Rio; região do Transeufrates”.
+. Ou: “escriba”.
+====
+
+[[v15-7-22]]
+
+^<<v15-7-22,22>>^ até 100 talentos^&#42;1^ de prata, 100 coros^&#42;2^ de trigo, 100 batos^&#42;3^ de vinho, 100 batos de azeite e sal à vontade.
+
+[NOTE]
+====
+. Um talento equivalia a 34,2 kg. Veja Ap. B14.
+. Um coro equivalia a 220 l. Veja Ap. B14.
+. Um bato equivalia a 22 l. Veja Ap. B14.
+====
+
+[[v15-7-23]]
+
+^<<v15-7-23,23>>^ Que tudo o que o Deus dos céus ordenar a respeito da casa do Deus dos céus seja feito com zelo, para que não haja ira contra os domínios do rei e contra os seus filhos.
+
+[[v15-7-24]]
+
+^<<v15-7-24,24>>^ Saibam também que não é permitido cobrar imposto, tributo nem pedágio de nenhum dos sacerdotes, dos levitas, dos músicos, dos porteiros, dos servos do templo^&#42;1^ ou dos trabalhadores daquela casa de Deus.
+
+[NOTE]
+====
+. Ou: “dos netineus”. Lit.: “dos que foram dados”.
+====
+
+[[v15-7-25]]
+
+^<<v15-7-25,25>>^ “E você, Esdras, segundo a sabedoria que seu Deus lhe deu,^&#42;1^ designe magistrados e juízes para julgar todo o povo que está na região ao oeste do rio Eufrates,^&#42;2^ isto é, todos os que conhecem as leis do seu Deus; e vocês devem ensiná-las a todos os que não as conhecem.
+
+[NOTE]
+====
+. Lit.: “segundo a sabedoria do seu Deus, que está na sua mão”.
+. Ou: “região Além do Rio; região do Transeufrates”.
+====
+
+[[v15-7-26]]
+
+^<<v15-7-26,26>>^ E todo aquele que não obedecer à Lei do seu Deus e à lei do rei deve ser prontamente julgado e punido com a morte, com o banimento, com multa ou com prisão.”
+
+[[v15-7-27]]
+
+^<<v15-7-27,27>>^ Louvado seja Jeová, o Deus dos nossos antepassados, que pôs no coração do rei o desejo de embelezar a casa de Jeová em Jerusalém!
+
+[[v15-7-28]]
+
+^<<v15-7-28,28>>^ No seu amor leal por mim, ele me concedeu o favor do rei, dos seus conselheiros e dos poderosos príncipes do rei. Assim, visto que a mão de Jeová, meu Deus, estava sobre mim, tomei coragem^&#42;1^ e reuni os líderes^&#42;2^ de Israel para que partissem comigo.
+
+[NOTE]
+====
+. Ou: “me fortaleci”.
+. Lit.: “cabeças”.
+====
+
+'''
+
+xref:015-esdras/015-esdras-006.adoc#v15-6-0[&#60; Capítulo Anterior] | <<v15-7-0,Topo>> | xref:015-esdras/015-esdras-008.adoc#v15-8-0[Próximo Capítulo &#62;]

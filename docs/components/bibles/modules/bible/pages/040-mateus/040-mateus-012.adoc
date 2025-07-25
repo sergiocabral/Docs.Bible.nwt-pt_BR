@@ -1,0 +1,247 @@
+include::./index.adoc[]
+
+[[v40-12-0]]
+=== Segundo Mateus, 12
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v40-12-1]]
+
+^<<v40-12-1,1>>^ Naquela ocasião, Jesus passou pelos campos de cereais no sábado. Seus discípulos ficaram com fome e começaram a arrancar espigas e a comer.
+
+[[v40-12-2]]
+
+^<<v40-12-2,2>>^ Vendo isso, os fariseus lhe disseram: “Veja! Seus discípulos estão fazendo o que não é permitido fazer no sábado.”
+
+[[v40-12-3]]
+
+^<<v40-12-3,3>>^ Ele lhes disse: “Vocês não leram o que Davi fez quando ele e seus homens ficaram com fome?
+
+[[v40-12-4]]
+
+^<<v40-12-4,4>>^ Como ele entrou na casa de Deus, e eles comeram os pães da apresentação,^&#42;1^ algo que não era permitido comer, nem a ele nem aos que estavam com ele, mas apenas aos sacerdotes?
+
+[NOTE]
+====
+. Ou: “proposição”.
+====
+
+[[v40-12-5]]
+
+^<<v40-12-5,5>>^ Ou não leram na Lei que, nos sábados, os sacerdotes no templo violam o sábado e permanecem sem culpa?
+
+[[v40-12-6]]
+
+^<<v40-12-6,6>>^ Mas eu lhes digo que algo maior do que o templo está aqui.
+
+[[v40-12-7]]
+
+^<<v40-12-7,7>>^ No entanto, se vocês tivessem entendido o que significa: ‘Quero misericórdia, e não sacrifício’, não teriam condenado os inocentes.
+
+[[v40-12-8]]
+
+^<<v40-12-8,8>>^ Porque o Filho do Homem é Senhor do sábado.”
+
+[[v40-12-9]]
+
+^<<v40-12-9,9>>^ Depois de partir daquele lugar, entrou na sinagoga deles,
+
+[[v40-12-10]]
+
+^<<v40-12-10,10>>^ e havia ali um homem com a mão atrofiada.^&#42;1^ Assim, para que pudessem acusá-lo, perguntaram-lhe: “É permitido curar no sábado?”
+
+[NOTE]
+====
+. Ou: “paralisada”.
+====
+
+[[v40-12-11]]
+
+^<<v40-12-11,11>>^ Ele lhes disse: “Se um de vocês tiver uma ovelha, e essa ovelha cair num buraco no sábado, será que não vai agarrá-la e tirá-la dali?
+
+[[v40-12-12]]
+
+^<<v40-12-12,12>>^ Quanto mais vale um homem do que uma ovelha! Por isso, é permitido fazer algo bom no sábado.”
+
+[[v40-12-13]]
+
+^<<v40-12-13,13>>^ Disse então ao homem: “Estenda a mão.” Ele a estendeu, e ela foi restabelecida e ficou boa como a outra mão.
+
+[[v40-12-14]]
+
+^<<v40-12-14,14>>^ Mas os fariseus saíram e começaram a conspirar contra ele, para o matar.
+
+[[v40-12-15]]
+
+^<<v40-12-15,15>>^ Ao saber disso, Jesus se retirou dali. Também, muitos o seguiram, e ele curou a todos,
+
+[[v40-12-16]]
+
+^<<v40-12-16,16>>^ mas lhes ordenou com firmeza que não dissessem a outros quem ele era,
+
+[[v40-12-17]]
+
+^<<v40-12-17,17>>^ para que se cumprissem as palavras de Isaías, o profeta, que disse:
+
+[[v40-12-18]]
+
+^<<v40-12-18,18>>^ “Vejam o meu servo a quem escolhi, meu amado, a quem aprovo!^&#42;1^ Porei sobre ele o meu espírito, e ele esclarecerá às nações o que é justiça.
+
+[NOTE]
+====
+. Ou: “a quem minha alma aprova”.
+====
+
+[[v40-12-19]]
+
+^<<v40-12-19,19>>^ Não discutirá, nem gritará, e ninguém ouvirá a sua voz nas ruas principais.
+
+[[v40-12-20]]
+
+^<<v40-12-20,20>>^ Não esmagará nenhuma cana machucada, nem apagará um pavio que ainda estiver fumegando, até trazer a justiça com êxito.
+
+[[v40-12-21]]
+
+^<<v40-12-21,21>>^ Realmente, em seu nome as nações esperarão.”
+
+[[v40-12-22]]
+
+^<<v40-12-22,22>>^ Levaram-lhe então um homem possesso de demônio, que era cego e mudo, e ele o curou, de modo que o mudo pôde falar e ver.
+
+[[v40-12-23]]
+
+^<<v40-12-23,23>>^ Ora, todas as multidões ficaram maravilhadas e começaram a dizer: “Será que este não é o Filho de Davi?”
+
+[[v40-12-24]]
+
+^<<v40-12-24,24>>^ Ouvindo isso, os fariseus disseram: “Esse homem não expulsa os demônios senão por meio de Belzebu,^&#42;1^ o governante dos demônios.”
+
+[NOTE]
+====
+. Um nome usado para Satanás.
+====
+
+[[v40-12-25]]
+
+^<<v40-12-25,25>>^ Conhecendo os pensamentos deles, ele lhes disse: “Todo reino dividido contra si mesmo cai em ruína, e toda cidade ou casa dividida contra si mesma não ficará de pé.
+
+[[v40-12-26]]
+
+^<<v40-12-26,26>>^ Do mesmo modo, se Satanás expulsa a Satanás, ele ficou dividido contra si mesmo. Então, como o seu reino ficará de pé?
+
+[[v40-12-27]]
+
+^<<v40-12-27,27>>^ Além disso, se eu expulso os demônios por meio de Belzebu, por meio de quem seus filhos os expulsam? É por isso que eles julgarão vocês.
+
+[[v40-12-28]]
+
+^<<v40-12-28,28>>^ Mas, se é por meio do espírito de Deus que eu expulso os demônios, o Reino de Deus realmente alcançou vocês.
+
+[[v40-12-29]]
+
+^<<v40-12-29,29>>^ Ou como pode alguém invadir a casa de um homem forte e se apoderar de seus bens, a menos que primeiro amarre o homem forte? Só então poderá saquear a casa dele.
+
+[[v40-12-30]]
+
+^<<v40-12-30,30>>^ Quem não está do meu lado está contra mim, e quem comigo não ajunta, espalha.
+
+[[v40-12-31]]
+
+^<<v40-12-31,31>>^ “Por essa razão, eu lhes digo: Todo tipo de pecados e blasfêmias será perdoado aos homens, mas a blasfêmia contra o espírito não será perdoada.
+
+[[v40-12-32]]
+
+^<<v40-12-32,32>>^ Por exemplo, quem falar uma palavra contra o Filho do Homem será perdoado; mas quem falar contra o espírito santo não será perdoado, não, nem neste sistema de coisas,^&#42;1^ nem no que virá.
+
+[NOTE]
+====
+. Ou: “nesta época”. Veja o Glossário.
+====
+
+[[v40-12-33]]
+
+^<<v40-12-33,33>>^ “Se vocês cultivarem uma^&#42;1^ árvore boa, o fruto será bom; se cultivarem uma^&#42;2^ árvore ruim,^&#42;3^ o fruto será ruim.^&#42;4^ Pois é pelo fruto que se conhece a árvore.
+
+[NOTE]
+====
+. Ou: “tornarem a”.
+. Ou: “tornarem a”.
+. Ou: “podre”.
+. Ou: “podre”.
+====
+
+[[v40-12-34]]
+
+^<<v40-12-34,34>>^ Descendência de víboras, como vocês podem falar coisas boas se são maus? Pois a boca fala do que o coração está cheio.
+
+[[v40-12-35]]
+
+^<<v40-12-35,35>>^ O homem bom, do seu bom tesouro, faz sair coisas boas, ao passo que o homem mau, do seu mau tesouro, faz sair coisas más.
+
+[[v40-12-36]]
+
+^<<v40-12-36,36>>^ Eu lhes digo que os homens prestarão contas no Dia do Julgamento por toda declaração sem valor que fizerem;
+
+[[v40-12-37]]
+
+^<<v40-12-37,37>>^ pois pelas suas palavras você será declarado justo e pelas suas palavras será condenado.”
+
+[[v40-12-38]]
+
+^<<v40-12-38,38>>^ Em vista disso, alguns escribas e fariseus disseram: “Instrutor, queremos ver um sinal da sua parte.”
+
+[[v40-12-39]]
+
+^<<v40-12-39,39>>^ Em resposta, ele lhes disse: “Uma geração má e adúltera^&#42;1^ persiste em buscar um sinal, mas nenhum sinal lhe será dado, exceto o sinal de Jonas, o profeta.
+
+[NOTE]
+====
+. Ou: “infiel”.
+====
+
+[[v40-12-40]]
+
+^<<v40-12-40,40>>^ Porque, assim como Jonas esteve três dias e três noites no ventre do enorme peixe, assim o Filho do Homem estará três dias e três noites no coração da terra.
+
+[[v40-12-41]]
+
+^<<v40-12-41,41>>^ Homens de Nínive se levantarão no julgamento com esta geração e a condenarão, porque eles se arrependeram com o que Jonas pregou. Mas agora alguém maior do que Jonas está aqui.
+
+[[v40-12-42]]
+
+^<<v40-12-42,42>>^ A rainha do sul será levantada no julgamento com esta geração e a condenará, porque ela veio dos confins da terra para ouvir a sabedoria de Salomão. Mas agora alguém maior do que Salomão está aqui.
+
+[[v40-12-43]]
+
+^<<v40-12-43,43>>^ “Quando um espírito impuro sai de um homem, ele passa por lugares áridos procurando onde descansar e não acha nada.
+
+[[v40-12-44]]
+
+^<<v40-12-44,44>>^ Então diz: ‘Voltarei para a minha casa, da qual me mudei’; e, ao chegar, acha a casa desocupada, varrida e decorada.
+
+[[v40-12-45]]
+
+^<<v40-12-45,45>>^ Então vai e traz consigo outros sete espíritos, piores do que ele mesmo, e, depois de entrarem, ficam morando ali; e a situação final desse homem se torna pior do que no início. É assim que será também com esta geração má.”
+
+[[v40-12-46]]
+
+^<<v40-12-46,46>>^ Enquanto ainda falava às multidões, sua mãe e seus irmãos ficaram parados do lado de fora, querendo falar com ele.
+
+[[v40-12-47]]
+
+^<<v40-12-47,47>>^ Portanto, alguém lhe disse: “Veja! Sua mãe e seus irmãos estão lá fora, querendo falar com o senhor.”
+
+[[v40-12-48]]
+
+^<<v40-12-48,48>>^ Ele respondeu ao que lhe falou: “Quem é minha mãe e quem são meus irmãos?”
+
+[[v40-12-49]]
+
+^<<v40-12-49,49>>^ E, estendendo a mão para seus discípulos, disse: “Aqui estão a minha mãe e os meus irmãos!
+
+[[v40-12-50]]
+
+^<<v40-12-50,50>>^ Pois quem faz a vontade do meu Pai, que está no céu, esse é meu irmão, minha irmã e minha mãe.”
+
+'''
+
+xref:040-mateus/040-mateus-011.adoc#v40-11-0[&#60; Capítulo Anterior] | <<v40-12-0,Topo>> | xref:040-mateus/040-mateus-013.adoc#v40-13-0[Próximo Capítulo &#62;]

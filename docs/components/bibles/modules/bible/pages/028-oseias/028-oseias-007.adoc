@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v28-7-0]]
+=== Oseias, 7
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v28-7-1]]
+
+^<<v28-7-1,1>>^ “Quando tento curar Israel,
+O erro de Efraim vem à tona
+E também a maldade de Samaria.
+Pois eles agem de modo falso;
+Ladrões entram nas casas, e bandos de assaltantes atacam do lado de fora.
+
+[[v28-7-2]]
+
+^<<v28-7-2,2>>^ Mas eles não reconhecem no coração que eu vou me lembrar de toda a sua maldade.
+Agora estão cercados pelas suas ações;
+Elas estão bem diante da minha face.
+
+[[v28-7-3]]
+
+^<<v28-7-3,3>>^ Eles alegram o rei com a sua maldade;
+E príncipes, com as suas mentiras.
+
+[[v28-7-4]]
+
+^<<v28-7-4,4>>^ Todos eles são adúlteros,
+Ardem como o forno que o padeiro acende;
+Ele para de atiçar o fogo depois de sovar a massa até ela ficar levedada.
+
+[[v28-7-5]]
+
+^<<v28-7-5,5>>^ No dia do nosso rei, os príncipes ficaram doentes;
+Ficaram furiosos por causa do vinho.
+Ele deu a mão a zombadores.
+
+[[v28-7-6]]
+
+^<<v28-7-6,6>>^ Eles se aproximam com os corações ardendo como um forno.^&#42;1^
+O padeiro dorme a noite inteira;
+De manhã, o forno queima como um fogo ardente.
+
+[NOTE]
+====
+. Ou, possivelmente: “Seus corações são como um forno quando eles se aproximam com suas intrigas.”
+====
+
+[[v28-7-7]]
+
+^<<v28-7-7,7>>^ Todos eles estão quentes como um forno,
+E devoram seus governantes.^&#42;1^
+Todos os seus reis caíram;
+Nenhum deles clama a mim.
+
+[NOTE]
+====
+. Lit.: “juízes”.
+====
+
+[[v28-7-8]]
+
+^<<v28-7-8,8>>^ Efraim se mistura com as nações.
+Efraim é como um pão redondo que não foi virado.
+
+[[v28-7-9]]
+
+^<<v28-7-9,9>>^ Estrangeiros consumiram seu poder, mas ele não percebe.
+E seus cabelos grisalhos ficaram brancos, mas ele não se dá conta disso.
+
+[[v28-7-10]]
+
+^<<v28-7-10,10>>^ O orgulho de Israel dá testemunho contra ele,
+Mas eles não voltam para Jeová, seu Deus,
+Nem o procuram apesar de tudo isso.
+
+[[v28-7-11]]
+
+^<<v28-7-11,11>>^ Efraim é como uma pomba ingênua, sem entendimento.^&#42;1^
+Clamam ao Egito, vão à Assíria.
+
+[NOTE]
+====
+. Lit.: “coração”.
+====
+
+[[v28-7-12]]
+
+^<<v28-7-12,12>>^ “Aonde quer que forem, lançarei sobre eles a minha rede.
+Eu os derrubarei como se fossem as aves dos céus.
+Eu os disciplinarei de acordo com os avisos que receberam como assembleia.
+
+[[v28-7-13]]
+
+^<<v28-7-13,13>>^ Ai deles, pois fugiram de mim!
+Que sejam arruinados, pois pecaram contra mim!
+Eu estava pronto para resgatá-los, mas eles falaram mentiras contra mim.
+
+[[v28-7-14]]
+
+^<<v28-7-14,14>>^ Não foi de coração que clamaram a mim por ajuda,
+Embora ficassem se lamentando nas suas camas.
+Faziam cortes em si mesmos pelo seu cereal e pelo seu vinho novo.
+Voltam-se contra mim.
+
+[[v28-7-15]]
+
+^<<v28-7-15,15>>^ Embora eu os tenha disciplinado e tenha fortalecido seus braços,
+Eles tramam o mal contra mim.
+
+[[v28-7-16]]
+
+^<<v28-7-16,16>>^ Eles se voltaram, mas não para algo mais elevado;^&#42;1^
+Não eram dignos de confiança, assim como um arco frouxo.
+Seus príncipes cairão à espada por causa das suas línguas insolentes.
+Por isso serão objeto de zombaria na terra do Egito.”
+
+[NOTE]
+====
+. Isto é, não para uma forma elevada de adoração.
+====
+
+'''
+
+xref:028-oseias/028-oseias-006.adoc#v28-6-0[&#60; Capítulo Anterior] | <<v28-7-0,Topo>> | xref:028-oseias/028-oseias-008.adoc#v28-8-0[Próximo Capítulo &#62;]

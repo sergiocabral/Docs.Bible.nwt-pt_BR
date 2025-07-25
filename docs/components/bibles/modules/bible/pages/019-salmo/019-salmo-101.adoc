@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v19-101-0]]
+=== Salmos, 101
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_De Davi. Salmo._
+
+[[v19-101-1]]
+
+^<<v19-101-1,1>>^ Cantarei sobre amor leal e justiça.
+A ti, ó Jeová, cantarei louvores.^&#42;1^
+
+[NOTE]
+====
+. Ou: “farei música”.
+====
+
+[[v19-101-2]]
+
+^<<v19-101-2,2>>^ Agirei com prudência e de modo irrepreensível.^&#42;1^
+Quando virás me ajudar?
+Dentro da minha casa, andarei com o coração íntegro.
+
+[NOTE]
+====
+. Ou: “em integridade”.
+====
+
+[[v19-101-3]]
+
+^<<v19-101-3,3>>^ Não porei nada sem valor^&#42;1^ diante dos meus olhos.
+Odeio as ações das pessoas que se desviam do que é certo;
+Não terei nada que ver com elas.^&#42;2^
+
+[NOTE]
+====
+. Ou: “imprestável”.
+. Ou: “Suas ações não se apegam a mim”.
+====
+
+[[v19-101-4]]
+
+^<<v19-101-4,4>>^ Longe de mim está o coração tortuoso;
+Não aceitarei^&#42;1^ o que é mau.
+
+[NOTE]
+====
+. Lit.: “Não conhecerei”.
+====
+
+[[v19-101-5]]
+
+^<<v19-101-5,5>>^ Aquele que às escondidas calunia seu próximo,
+Eu silenciarei.^&#42;1^
+Aquele que tem olhos arrogantes e coração orgulhoso,
+Eu não vou tolerar.
+
+[NOTE]
+====
+. Ou: “eliminarei”.
+====
+
+[[v19-101-6]]
+
+^<<v19-101-6,6>>^ Olharei para os fiéis da terra,
+Para que residam comigo.
+Aquele que anda de modo irrepreensível^&#42;1^ servirá a mim.
+
+[NOTE]
+====
+. Ou: “em integridade”.
+====
+
+[[v19-101-7]]
+
+^<<v19-101-7,7>>^ Nenhuma pessoa falsa morará na minha casa,
+E nenhum mentiroso ficará na minha presença.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “diante dos meus olhos”.
+====
+
+[[v19-101-8]]
+
+^<<v19-101-8,8>>^ A cada manhã silenciarei^&#42;1^ todos os maus da terra,
+Eliminarei da cidade de Jeová todos os malfeitores.
+
+[NOTE]
+====
+. Ou: “matarei”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-100.adoc#v19-100-0[&#60; Capítulo Anterior] | <<v19-101-0,Topo>> | xref:019-salmo/019-salmo-102.adoc#v19-102-0[Próximo Capítulo &#62;]

@@ -1,0 +1,181 @@
+include::./index.adoc[]
+
+[[v4-23-0]]
+=== Números, 23
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v4-23-1]]
+
+^<<v4-23-1,1>>^ Então Balaão disse a Balaque: “Construa aqui sete altares e prepare sete novilhos e sete carneiros para mim.”
+
+[[v4-23-2]]
+
+^<<v4-23-2,2>>^ Balaque fez imediatamente como Balaão havia falado. Balaque e Balaão ofereceram em cada altar um novilho e um carneiro.
+
+[[v4-23-3]]
+
+^<<v4-23-3,3>>^ Balaão disse então a Balaque: “Fique aqui junto à sua oferta queimada enquanto eu vou até ali. Talvez Jeová entre em contato comigo. Contarei a você tudo o que ele me revelar.” Assim, ele foi a uma colina sem árvores.
+
+[[v4-23-4]]
+
+^<<v4-23-4,4>>^ Então Deus entrou em contato com Balaão, que lhe disse: “Preparei^&#42;1^ os sete altares e ofereci em cada altar um novilho e um carneiro.”
+
+[NOTE]
+====
+. Ou: “Enfileirei”.
+====
+
+[[v4-23-5]]
+
+^<<v4-23-5,5>>^ Jeová pôs as seguintes palavras na boca de Balaão: “Volte a Balaque, e isto é o que você deve dizer.”
+
+[[v4-23-6]]
+
+^<<v4-23-6,6>>^ De modo que ele voltou e viu Balaque e todos os príncipes de Moabe de pé junto à sua oferta queimada.
+
+[[v4-23-7]]
+
+^<<v4-23-7,7>>^ Proferiu então a seguinte expressão proverbial:
+“Balaque, rei de Moabe, me trouxe desde Arã,
+Desde as montanhas do Oriente:
+‘Venha e amaldiçoe Jacó para mim.
+Sim, venha para condenar Israel.’
+
+[[v4-23-8]]
+
+^<<v4-23-8,8>>^ Como eu poderia amaldiçoar aqueles a quem Deus não amaldiçoou?
+E como eu poderia condenar aqueles a quem Jeová não condenou?
+
+[[v4-23-9]]
+
+^<<v4-23-9,9>>^ Vejo-os do cume das rochas,
+E vejo-os das colinas.
+São um povo que reside ali sozinho;
+Não se incluem entre as nações.
+
+[[v4-23-10]]
+
+^<<v4-23-10,10>>^ Quem pode contar as partículas de pó de Jacó
+Ou mesmo a quarta parte de Israel?
+Que eu^&#42;1^ morra a morte dos justos,
+E que o meu fim seja igual ao deles.”
+
+[NOTE]
+====
+. Ou: “minha alma”.
+====
+
+[[v4-23-11]]
+
+^<<v4-23-11,11>>^ Então Balaque disse a Balaão: “O que você me fez? Eu o trouxe para amaldiçoar os meus inimigos, mas você só os abençoou.”
+
+[[v4-23-12]]
+
+^<<v4-23-12,12>>^ Ele respondeu: “Será que não devo falar tudo o que Jeová põe na minha boca?”
+
+[[v4-23-13]]
+
+^<<v4-23-13,13>>^ Balaque lhe disse: “Por favor, venha comigo a outro lugar de onde poderá vê-los. Você verá apenas uma parte deles, não verá todos eles. Amaldiçoe-os dali para mim.”
+
+[[v4-23-14]]
+
+^<<v4-23-14,14>>^ Assim, Balaque o levou ao campo de Zofim, no alto do Pisga, construiu sete altares e ofereceu em cada altar um novilho e um carneiro.
+
+[[v4-23-15]]
+
+^<<v4-23-15,15>>^ Balaão disse então a Balaque: “Fique aqui junto à sua oferta queimada, enquanto eu entro em contato ali com Ele.”
+
+[[v4-23-16]]
+
+^<<v4-23-16,16>>^ E Jeová entrou em contato com Balaão e pôs a seguinte palavra na sua boca: “Volte a Balaque, e isto é o que você deve dizer.”
+
+[[v4-23-17]]
+
+^<<v4-23-17,17>>^ Assim, foi até ele e o viu esperando junto à sua oferta queimada, e os príncipes de Moabe estavam com ele. Balaque lhe perguntou: “O que foi que Jeová disse?”
+
+[[v4-23-18]]
+
+^<<v4-23-18,18>>^ Em resposta ele proferiu a seguinte expressão proverbial:
+“Prepare-se, Balaque, e escute.
+Ouça-me, ó filho de Zipor.
+
+[[v4-23-19]]
+
+^<<v4-23-19,19>>^ Deus não é um homem para mentir,
+Nem um filho de homem para mudar de ideia.^&#42;1^
+Quando ele diz algo, será que não faz?
+Quando ele fala, será que não cumpre?
+
+[NOTE]
+====
+. Ou: “lamentar”.
+====
+
+[[v4-23-20]]
+
+^<<v4-23-20,20>>^ Veja! Fui trazido para abençoar;
+Ele abençoou, e eu não posso mudar isso.
+
+[[v4-23-21]]
+
+^<<v4-23-21,21>>^ Ele não tolera nenhum poder mágico contra Jacó,
+Nem permite qualquer desgraça contra Israel.
+Jeová, seu Deus, está com eles,
+E é aclamado como rei entre eles.
+
+[[v4-23-22]]
+
+^<<v4-23-22,22>>^ Deus os está trazendo do Egito.
+Ele é como os chifres de um touro selvagem para eles.
+
+[[v4-23-23]]
+
+^<<v4-23-23,23>>^ Pois contra Jacó não há maus presságios,^&#42;1^
+Nem adivinhação contra Israel.
+Agora se pode dizer a respeito de Jacó e Israel:
+‘Vejam o que Deus fez!’
+
+[NOTE]
+====
+. Ou: “sinais”.
+====
+
+[[v4-23-24]]
+
+^<<v4-23-24,24>>^ Este é um povo que se levantará como um leão,
+E como o leão se erguerá.
+Não se deitará antes de comer uma presa
+E de beber o sangue dos que foram mortos.”
+
+[[v4-23-25]]
+
+^<<v4-23-25,25>>^ Então Balaque disse a Balaão: “Se você não pode amaldiçoá-lo, então também não deve abençoá-lo.”
+
+[[v4-23-26]]
+
+^<<v4-23-26,26>>^ Balaão respondeu a Balaque: “Eu não lhe disse que faria tudo o que Jeová dissesse?”
+
+[[v4-23-27]]
+
+^<<v4-23-27,27>>^ Balaque disse a Balaão: “Por favor, venha e deixe-me levá-lo a ainda outro lugar. Talvez seja correto aos olhos do verdadeiro Deus que você o amaldiçoe dali para mim.”
+
+[[v4-23-28]]
+
+^<<v4-23-28,28>>^ Assim, Balaque levou Balaão ao cume de Peor, de onde se avista Jesimom.^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “o deserto”.
+====
+
+[[v4-23-29]]
+
+^<<v4-23-29,29>>^ Balaão disse então a Balaque: “Construa aqui sete altares e prepare sete novilhos e sete carneiros para mim.”
+
+[[v4-23-30]]
+
+^<<v4-23-30,30>>^ De modo que Balaque fez exatamente como Balaão tinha falado e ofereceu em cada altar um novilho e um carneiro.
+
+'''
+
+xref:004-numeros/004-numeros-022.adoc#v4-22-0[&#60; Capítulo Anterior] | <<v4-23-0,Topo>> | xref:004-numeros/004-numeros-024.adoc#v4-24-0[Próximo Capítulo &#62;]

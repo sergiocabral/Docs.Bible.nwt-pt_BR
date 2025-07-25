@@ -1,0 +1,69 @@
+include::./index.adoc[]
+
+[[v19-82-0]]
+=== Salmos, 82
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Salmo de Asafe._
+
+[[v19-82-1]]
+
+^<<v19-82-1,1>>^ Deus toma sua posição na divina assembleia;^&#42;1^
+Entre os deuses^&#42;2^ profere seu julgamento:
+
+[NOTE]
+====
+. Ou: “na assembleia do Divino”.
+. Ou: “seres divinos”.
+====
+
+[[v19-82-2]]
+
+^<<v19-82-2,2>>^ “Até quando vocês continuarão julgando com injustiça
+E favorecendo os maus? (Selá)
+
+[[v19-82-3]]
+
+^<<v19-82-3,3>>^ Defendam^&#42;1^ o humilde e o órfão.^&#42;2^
+Façam justiça ao desamparado e ao necessitado.
+
+[NOTE]
+====
+. Ou: “Julguem”.
+. Ou: “órfão de pai”.
+====
+
+[[v19-82-4]]
+
+^<<v19-82-4,4>>^ Salvem o humilde e o pobre,
+Livrem-nos da mão dos maus.”
+
+[[v19-82-5]]
+
+^<<v19-82-5,5>>^ Eles não sabem nem entendem nada;
+Vagueiam na escuridão;
+Todos os alicerces da terra são abalados.
+
+[[v19-82-6]]
+
+^<<v19-82-6,6>>^ “Eu disse: ‘Vocês são deuses,^&#42;1^
+Todos vocês são filhos do Altíssimo.
+
+[NOTE]
+====
+. Ou: “seres divinos”.
+====
+
+[[v19-82-7]]
+
+^<<v19-82-7,7>>^ Mas vocês morrerão como os homens;
+Cairão como qualquer outro príncipe!’”
+
+[[v19-82-8]]
+
+^<<v19-82-8,8>>^ Levanta-te, ó Deus, e julga a terra,
+Pois todas as nações pertencem a ti.
+
+'''
+
+xref:019-salmo/019-salmo-081.adoc#v19-81-0[&#60; Capítulo Anterior] | <<v19-82-0,Topo>> | xref:019-salmo/019-salmo-083.adoc#v19-83-0[Próximo Capítulo &#62;]

@@ -1,0 +1,24 @@
+include::../index.adoc[]
+
+[[v47-0-0]]
+== 2 Coríntios
+
+[cols="8*^"]
+|===
+| xref:047-2-corintios/047-2-corintios-001.adoc#v47-1-0[1]
+| xref:047-2-corintios/047-2-corintios-002.adoc#v47-2-0[2]
+| xref:047-2-corintios/047-2-corintios-003.adoc#v47-3-0[3]
+| xref:047-2-corintios/047-2-corintios-004.adoc#v47-4-0[4]
+| xref:047-2-corintios/047-2-corintios-005.adoc#v47-5-0[5]
+| xref:047-2-corintios/047-2-corintios-006.adoc#v47-6-0[6]
+| xref:047-2-corintios/047-2-corintios-007.adoc#v47-7-0[7]
+| xref:047-2-corintios/047-2-corintios-008.adoc#v47-8-0[8]
+| xref:047-2-corintios/047-2-corintios-009.adoc#v47-9-0[9]
+| xref:047-2-corintios/047-2-corintios-010.adoc#v47-10-0[10]
+| xref:047-2-corintios/047-2-corintios-011.adoc#v47-11-0[11]
+| xref:047-2-corintios/047-2-corintios-012.adoc#v47-12-0[12]
+| xref:047-2-corintios/047-2-corintios-013.adoc#v47-13-0[13]
+|
+|
+|
+|===

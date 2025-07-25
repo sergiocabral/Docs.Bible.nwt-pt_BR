@@ -1,0 +1,179 @@
+include::./index.adoc[]
+
+[[v1-37-0]]
+=== Gênesis, 37
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v1-37-1]]
+
+^<<v1-37-1,1>>^ Jacó continuou a morar na terra de Canaã, onde seu pai tinha vivido como estrangeiro.
+
+[[v1-37-2]]
+
+^<<v1-37-2,2>>^ Esta é a história de Jacó.
+Quando o jovem José tinha 17 anos de idade, ele estava cuidando das ovelhas com os filhos de Bila e os filhos de Zilpa, esposas de seu pai. E José levou um relato mau sobre eles a seu pai.
+
+[[v1-37-3]]
+
+^<<v1-37-3,3>>^ Ora, Israel amava mais a José do que a todos os seus outros filhos, porque era o filho da sua velhice; e mandou fazer para ele uma túnica especial.^&#42;1^
+
+[NOTE]
+====
+. Ou: “uma bela veste longa”.
+====
+
+[[v1-37-4]]
+
+^<<v1-37-4,4>>^ Quando seus irmãos viram que seu pai o amava mais do que a todos os seus irmãos, começaram a odiá-lo e não conseguiam falar pacificamente com ele.
+
+[[v1-37-5]]
+
+^<<v1-37-5,5>>^ Mais tarde, José teve um sonho e o contou a seus irmãos, e isso foi mais um motivo para o odiarem.
+
+[[v1-37-6]]
+
+^<<v1-37-6,6>>^ Ele lhes disse: “Por favor, escutem o sonho que tive.
+
+[[v1-37-7]]
+
+^<<v1-37-7,7>>^ Estávamos amarrando feixes no meio do campo quando o meu feixe se levantou e ficou em pé, e os seus feixes o rodearam e se curvaram diante do meu feixe.”
+
+[[v1-37-8]]
+
+^<<v1-37-8,8>>^ Seus irmãos lhe disseram: “Você realmente se fará rei sobre nós e nos dominará?” Assim, eles o odiaram ainda mais, por causa dos seus sonhos e do que ele disse.
+
+[[v1-37-9]]
+
+^<<v1-37-9,9>>^ Depois disso José teve mais um sonho e o relatou a seus irmãos: “Tive outro sonho. Desta vez o sol, a lua e 11 estrelas se curvavam diante de mim.”
+
+[[v1-37-10]]
+
+^<<v1-37-10,10>>^ Então ele o contou a seu pai, bem como a seus irmãos, e seu pai o repreendeu, dizendo: “O que significa esse sonho que você teve? Será que eu, e também sua mãe e seus irmãos, realmente viremos e nos curvaremos por terra diante de você?”
+
+[[v1-37-11]]
+
+^<<v1-37-11,11>>^ E seus irmãos ficaram com ciúme dele, mas seu pai guardou na mente a declaração.
+
+[[v1-37-12]]
+
+^<<v1-37-12,12>>^ Seus irmãos foram então levar as ovelhas de seu pai para pastar perto de Siquém.
+
+[[v1-37-13]]
+
+^<<v1-37-13,13>>^ Depois, Israel disse a José: “Não estão seus irmãos cuidando dos rebanhos perto de Siquém? Venha, vou enviá-lo a eles.” Ele lhe disse: “Estou pronto!”
+
+[[v1-37-14]]
+
+^<<v1-37-14,14>>^ Disse-lhe então: “Por favor, vá ver se os seus irmãos estão bem; veja como está o rebanho e traga-me notícias.” Com isso o enviou do vale^&#42;1^ de Hebrom, e ele seguiu para Siquém.
+
+[NOTE]
+====
+. Ou: “da baixada”.
+====
+
+[[v1-37-15]]
+
+^<<v1-37-15,15>>^ Mais tarde, um homem o encontrou vagueando por um campo. O homem lhe perguntou: “O que você está procurando?”
+
+[[v1-37-16]]
+
+^<<v1-37-16,16>>^ Ele respondeu: “Estou procurando meus irmãos. Diga-me, por favor: Onde eles estão cuidando dos rebanhos?”
+
+[[v1-37-17]]
+
+^<<v1-37-17,17>>^ O homem respondeu: “Eles partiram daqui, pois eu os ouvi dizer: ‘Vamos a Dotã.’” De modo que José foi atrás de seus irmãos e os encontrou em Dotã.
+
+[[v1-37-18]]
+
+^<<v1-37-18,18>>^ Eles o viram de certa distância e, antes que ele se aproximasse, começaram a conspirar contra ele para matá-lo.
+
+[[v1-37-19]]
+
+^<<v1-37-19,19>>^ Disseram, então, uns aos outros: “Vejam! Lá vem aquele sonhador.
+
+[[v1-37-20]]
+
+^<<v1-37-20,20>>^ Agora é o momento! Vamos matá-lo e jogá-lo numa das cisternas, e diremos que um animal selvagem o devorou. Vejamos então o que será dos sonhos dele.”
+
+[[v1-37-21]]
+
+^<<v1-37-21,21>>^ Quando Rubem ouviu isso, tentou salvá-lo deles, dizendo: “Não lhe tiremos a vida.”^&#42;1^
+
+[NOTE]
+====
+. Ou: “Não lhe golpeemos a alma.”
+====
+
+[[v1-37-22]]
+
+^<<v1-37-22,22>>^ Rubem lhes disse: “Não derramem sangue. Joguem-no nesta cisterna, aqui no deserto, mas não o machuquem.”^&#42;1^ Seu objetivo era salvá-lo deles, a fim de devolvê-lo a seu pai.
+
+[NOTE]
+====
+. Ou: “não ponham as mãos nele”.
+====
+
+[[v1-37-23]]
+
+^<<v1-37-23,23>>^ Então, assim que José chegou, seus irmãos o despiram da sua túnica, a túnica especial que ele usava,
+
+[[v1-37-24]]
+
+^<<v1-37-24,24>>^ e eles o pegaram e jogaram na cisterna. Naquela época a cisterna estava vazia; não havia água nela.
+
+[[v1-37-25]]
+
+^<<v1-37-25,25>>^ Sentaram-se então para comer. Quando levantaram os olhos, viram uma caravana de ismaelitas vindo de Gileade. Os camelos deles carregavam resina de ládano, bálsamo e casca resinosa de árvore, e eles estavam descendo ao Egito.
+
+[[v1-37-26]]
+
+^<<v1-37-26,26>>^ Judá disse então aos seus irmãos: “Que lucro haveria se matássemos nosso irmão e encobríssemos seu sangue?
+
+[[v1-37-27]]
+
+^<<v1-37-27,27>>^ Vamos vendê-lo aos ismaelitas, mas não lhe façamos mal. Afinal de contas, ele é nosso irmão, nossa carne.” Assim, eles escutaram seu irmão.
+
+[[v1-37-28]]
+
+^<<v1-37-28,28>>^ E, quando os mercadores midianitas estavam passando, os irmãos de José o puxaram para fora da cisterna e o venderam aos ismaelitas por 20 peças de prata. Esses homens levaram José ao Egito.
+
+[[v1-37-29]]
+
+^<<v1-37-29,29>>^ Mais tarde, quando Rubem voltou à cisterna e viu que José não estava na cisterna, ele rasgou as suas roupas.
+
+[[v1-37-30]]
+
+^<<v1-37-30,30>>^ Quando ele voltou aos seus irmãos, exclamou: “O menino desapareceu! E eu — o que é que eu vou fazer?”
+
+[[v1-37-31]]
+
+^<<v1-37-31,31>>^ Então eles pegaram a túnica de José, mataram um bode e mergulharam a túnica no sangue.
+
+[[v1-37-32]]
+
+^<<v1-37-32,32>>^ Depois mandaram a seu pai a túnica especial com este recado: “Encontramos isto. Examine, por favor, e veja se é ou não a túnica de seu filho.”
+
+[[v1-37-33]]
+
+^<<v1-37-33,33>>^ Ele a examinou e exclamou: “É a túnica de meu filho! Um animal selvagem deve tê-lo devorado! José certamente foi dilacerado!”
+
+[[v1-37-34]]
+
+^<<v1-37-34,34>>^ Então Jacó rasgou as suas roupas e pôs um pano de saco em volta da cintura, e guardou luto muitos dias pelo seu filho.
+
+[[v1-37-35]]
+
+^<<v1-37-35,35>>^ Todos os seus filhos e todas as suas filhas tentavam consolá-lo, mas ele se recusava a ser consolado e dizia: “Descerei para a Sepultura^&#42;1^ chorando pelo meu filho!” E ele continuava a chorar por seu filho.
+
+[NOTE]
+====
+. Ou: “o Seol”, isto é, a sepultura comum da humanidade. Veja o Glossário.
+====
+
+[[v1-37-36]]
+
+^<<v1-37-36,36>>^ Nesse meio-tempo, os midianitas venderam José, no Egito, a Potifar, oficial da corte de Faraó e chefe da guarda.
+
+'''
+
+xref:001-genesis/001-genesis-036.adoc#v1-36-0[&#60; Capítulo Anterior] | <<v1-37-0,Topo>> | xref:001-genesis/001-genesis-038.adoc#v1-38-0[Próximo Capítulo &#62;]

@@ -1,0 +1,261 @@
+include::./index.adoc[]
+
+[[v18-9-0]]
+=== Jó, 9
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v18-9-1]]
+
+^<<v18-9-1,1>>^ Jó disse em resposta:
+
+[[v18-9-2]]
+
+^<<v18-9-2,2>>^ “De fato, sei que é assim.
+Mas como o homem mortal pode ter razão numa causa contra Deus?
+
+[[v18-9-3]]
+
+^<<v18-9-3,3>>^ Se alguém quisesse argumentar com Ele,^&#42;1^
+Não conseguiria responder nem sequer uma de mil perguntas que Ele fizesse.
+
+[NOTE]
+====
+. Ou: “levá-Lo ao tribunal”.
+====
+
+[[v18-9-4]]
+
+^<<v18-9-4,4>>^ Ele tem coração sábio e grande poder.
+Quem pode se opor a ele e sair ileso?
+
+[[v18-9-5]]
+
+^<<v18-9-5,5>>^ Ele desloca^&#42;1^ montanhas sem que ninguém saiba;
+Ele as destrói na sua ira.
+
+[NOTE]
+====
+. Ou: “remove”.
+====
+
+[[v18-9-6]]
+
+^<<v18-9-6,6>>^ Faz a terra tremer e sair do seu lugar,
+De modo que as suas colunas estremecem.
+
+[[v18-9-7]]
+
+^<<v18-9-7,7>>^ Ele ordena ao sol que não brilhe,
+E bloqueia a luz das estrelas;
+
+[[v18-9-8]]
+
+^<<v18-9-8,8>>^ Estende sozinho os céus,
+E pisa nas ondas altas do mar.
+
+[[v18-9-9]]
+
+^<<v18-9-9,9>>^ Ele fez as constelações de Ás,^&#42;1^ de Quesil^&#42;2^ e de Quima,^&#42;3^
+E as constelações do sul.^&#42;4^
+
+[NOTE]
+====
+. Possivelmente a constelação do Grande Urso (Ursa Maior).
+. Possivelmente a constelação de Órion.
+. Possivelmente as estrelas de Plêiades na constelação de Touro.
+. Lit.: “as câmaras do sul”.
+====
+
+[[v18-9-10]]
+
+^<<v18-9-10,10>>^ Faz coisas grandiosas e insondáveis,
+Coisas maravilhosas que não podem ser enumeradas.
+
+[[v18-9-11]]
+
+^<<v18-9-11,11>>^ Ele passa por mim, e não consigo vê-lo;
+Passa perto de mim, mas eu não percebo.
+
+[[v18-9-12]]
+
+^<<v18-9-12,12>>^ Quando ele se apodera de algo, quem pode impedi-lo?
+Quem pode dizer a ele: ‘O que estás fazendo?’
+
+[[v18-9-13]]
+
+^<<v18-9-13,13>>^ Deus não refreia a sua ira;
+Até os ajudantes de Raabe^&#42;1^ se curvam diante dele.
+
+[NOTE]
+====
+. Possivelmente um grande monstro marinho.
+====
+
+[[v18-9-14]]
+
+^<<v18-9-14,14>>^ Quanto mais se eu lhe respondesse;
+Teria de escolher cuidadosamente minhas palavras para argumentar com ele!
+
+[[v18-9-15]]
+
+^<<v18-9-15,15>>^ Mesmo que eu tivesse razão, não lhe responderia,
+Eu só poderia implorar misericórdia ao meu juiz.^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “meu adversário em juízo”.
+====
+
+[[v18-9-16]]
+
+^<<v18-9-16,16>>^ Se eu clamar a ele, será que me responderá?
+Não acredito que ele escutará a minha voz,
+
+[[v18-9-17]]
+
+^<<v18-9-17,17>>^ Pois ele me esmaga com uma tempestade
+E multiplica os meus ferimentos sem nenhum motivo.
+
+[[v18-9-18]]
+
+^<<v18-9-18,18>>^ Ele não me deixa tomar fôlego,
+E me enche de coisas amargas.
+
+[[v18-9-19]]
+
+^<<v18-9-19,19>>^ Se for uma questão de poder, Ele é o poderoso.
+Se for uma questão de justiça, ele diz: ‘Quem pode me chamar para prestar contas?’^&#42;1^
+
+[NOTE]
+====
+. Lit.: “me convocar”.
+====
+
+[[v18-9-20]]
+
+^<<v18-9-20,20>>^ Se eu tivesse razão, minha própria boca me condenaria;
+Mesmo que eu mantenha a integridade,^&#42;1^ ele me declarará culpado.^&#42;2^
+
+[NOTE]
+====
+. Ou: “Mesmo que eu seja inocente”.
+. Lit.: “pervertido”.
+====
+
+[[v18-9-21]]
+
+^<<v18-9-21,21>>^ Mesmo que eu mantenha a integridade,^&#42;1^ não sei o que acontecerá comigo;^&#42;2^
+Eu rejeito^&#42;3^ esta minha vida.
+
+[NOTE]
+====
+. Ou: “Mesmo que eu seja inocente”.
+. Ou: “não conheço minha alma”.
+. Ou: “desprezo; recuso”.
+====
+
+[[v18-9-22]]
+
+^<<v18-9-22,22>>^ Não há diferença. É por isso que eu digo:
+‘Ele destrói tanto os inocentes^&#42;1^ como os maus.’
+
+[NOTE]
+====
+. Ou: “íntegros”.
+====
+
+[[v18-9-23]]
+
+^<<v18-9-23,23>>^ Se uma enxurrada causasse a morte repentina,
+Ele zombaria do desespero dos inocentes.
+
+[[v18-9-24]]
+
+^<<v18-9-24,24>>^ A terra foi entregue aos maus;
+Ele fecha os olhos^&#42;1^ dos juízes.
+Se não é ele, então quem é?
+
+[NOTE]
+====
+. Lit.: “as faces”.
+====
+
+[[v18-9-25]]
+
+^<<v18-9-25,25>>^ Agora meus dias são mais velozes do que um corredor;
+Eles fogem sem ver o que é bom.
+
+[[v18-9-26]]
+
+^<<v18-9-26,26>>^ Deslizam como barcos de junco,
+Como águias que mergulham sobre a presa.
+
+[[v18-9-27]]
+
+^<<v18-9-27,27>>^ Se eu dissesse: ‘Vou esquecer a minha queixa,
+Vou mudar o meu semblante e ficar animado’,
+
+[[v18-9-28]]
+
+^<<v18-9-28,28>>^ Eu ainda ficaria com medo por causa de todas as minhas dores,
+E sei que não me considerarias inocente.
+
+[[v18-9-29]]
+
+^<<v18-9-29,29>>^ Eu seria considerado culpado.^&#42;1^
+Então por que lutar em vão?
+
+[NOTE]
+====
+. Lit.: “mau”.
+====
+
+[[v18-9-30]]
+
+^<<v18-9-30,30>>^ Se eu me lavasse na água de neve derretida,
+E purificasse minhas mãos com barrela,^&#42;1^
+
+[NOTE]
+====
+. Ou: “potassa; sabão”.
+====
+
+[[v18-9-31]]
+
+^<<v18-9-31,31>>^ Tu me mergulharias numa poça de lama,
+De modo que até minhas roupas me detestariam.
+
+[[v18-9-32]]
+
+^<<v18-9-32,32>>^ Pois ele não é homem como eu para que eu possa lhe responder,
+Ou para nos confrontarmos em juízo.
+
+[[v18-9-33]]
+
+^<<v18-9-33,33>>^ Não há ninguém para decidir^&#42;1^ entre nós,
+Que possa servir como nosso juiz.^&#42;2^
+
+[NOTE]
+====
+. Ou: “nenhum mediador”.
+. Lit.: “colocar a mão sobre nós dois”.
+====
+
+[[v18-9-34]]
+
+^<<v18-9-34,34>>^ Se ele parasse de bater em mim,^&#42;1^
+E não deixasse que o seu terror me apavorasse,
+
+[NOTE]
+====
+. Lit.: “removesse sua vara de cima de mim”.
+====
+
+[[v18-9-35]]
+
+^<<v18-9-35,35>>^ Eu falaria com ele sem ter medo,
+Pois não é da minha índole falar com medo.
+
+'''
+
+xref:018-jo/018-jo-008.adoc#v18-8-0[&#60; Capítulo Anterior] | <<v18-9-0,Topo>> | xref:018-jo/018-jo-010.adoc#v18-10-0[Próximo Capítulo &#62;]

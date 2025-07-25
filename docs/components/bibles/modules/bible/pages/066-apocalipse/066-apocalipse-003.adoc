@@ -1,0 +1,132 @@
+include::./index.adoc[]
+
+[[v66-3-0]]
+=== Apocalipse, 3
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v66-3-1]]
+
+^<<v66-3-1,1>>^ “Ao anjo da congregação em Sardes escreva: Estas coisas diz aquele que tem os sete espíritos de Deus e as sete estrelas: ‘Conheço as suas ações e sei que você tem a reputação^&#42;1^ de estar vivo, mas está morto.
+
+[NOTE]
+====
+. Ou: “o nome”.
+====
+
+[[v66-3-2]]
+
+^<<v66-3-2,2>>^ Seja vigilante e fortaleça o que resta e que estava prestes a morrer, porque vi que as suas obras não foram plenamente realizadas^&#42;1^ diante do meu Deus.
+
+[NOTE]
+====
+. Ou: “porque não encontrei completas as suas obras”.
+====
+
+[[v66-3-3]]
+
+^<<v66-3-3,3>>^ Portanto, continue a se lembrar do que recebeu e ouviu, prossiga guardando isso e arrependa-se. Certamente, a menos que desperte, virei como ladrão, e você de modo algum saberá a hora da minha vinda.
+
+[[v66-3-4]]
+
+^<<v66-3-4,4>>^ “‘Contudo, você tem alguns^&#42;1^ em Sardes que não contaminaram suas vestes, e eles andarão comigo com vestes brancas, porque são dignos.
+
+[NOTE]
+====
+. Lit.: “alguns nomes”.
+====
+
+[[v66-3-5]]
+
+^<<v66-3-5,5>>^ Aquele que vencer estará vestido assim, com vestes brancas, e eu de modo algum apagarei^&#42;1^ seu nome do livro da vida, mas reconhecerei seu nome diante do meu Pai e diante dos seus anjos.
+
+[NOTE]
+====
+. Ou: “removerei”.
+====
+
+[[v66-3-6]]
+
+^<<v66-3-6,6>>^ Quem tem ouvidos ouça o que o espírito diz às congregações.’
+
+[[v66-3-7]]
+
+^<<v66-3-7,7>>^ “Ao anjo da congregação em Filadélfia escreva: Estas coisas diz aquele que é santo, que é verdadeiro, aquele que tem a chave de Davi e que abre de modo que ninguém feche e fecha de modo que ninguém abra:
+
+[[v66-3-8]]
+
+^<<v66-3-8,8>>^ ‘Conheço as suas ações — veja, coloquei diante de você uma porta aberta, que ninguém pode fechar. E sei que você tem um pouco de poder, que guardou a minha palavra e não se mostrou desleal para com o meu nome.
+
+[[v66-3-9]]
+
+^<<v66-3-9,9>>^ Veja, eu farei os da sinagoga de Satanás — que se dizem judeus, mas não são e estão mentindo — vir e se curvar^&#42;1^ diante dos seus pés e os farei saber que eu amo você.
+
+[NOTE]
+====
+. Ou: “prestar homenagem”.
+====
+
+[[v66-3-10]]
+
+^<<v66-3-10,10>>^ Visto que você guardou a palavra a respeito da minha perseverança,^&#42;1^ eu também o guardarei na hora da provação, que virá sobre toda a terra habitada, para pôr à prova os que moram na terra.
+
+[NOTE]
+====
+. Ou, possivelmente: “seguiu o meu exemplo de perseverança”.
+====
+
+[[v66-3-11]]
+
+^<<v66-3-11,11>>^ Venho depressa. Persista em se apegar ao que você tem, para que ninguém tome a sua coroa.
+
+[[v66-3-12]]
+
+^<<v66-3-12,12>>^ “‘Aquele que vencer, eu o farei coluna no templo do meu Deus, e ele de modo algum sairá dali. E escreverei sobre ele o nome do meu Deus e o nome da cidade do meu Deus, a Nova Jerusalém, que desce do céu da parte do meu Deus, e o meu próprio novo nome.
+
+[[v66-3-13]]
+
+^<<v66-3-13,13>>^ Quem tem ouvidos ouça o que o espírito diz às congregações.’
+
+[[v66-3-14]]
+
+^<<v66-3-14,14>>^ “Ao anjo da congregação em Laodiceia escreva: Estas coisas diz o Amém, a testemunha fiel e verdadeira, o princípio da criação de Deus:
+
+[[v66-3-15]]
+
+^<<v66-3-15,15>>^ ‘Conheço as suas ações e sei que você não é frio nem quente. Eu gostaria que fosse frio ou quente.
+
+[[v66-3-16]]
+
+^<<v66-3-16,16>>^ Assim, visto que você é morno e não é quente nem frio, vou vomitá-lo da minha boca.
+
+[[v66-3-17]]
+
+^<<v66-3-17,17>>^ Visto que você diz: “Sou rico, adquiri riquezas e não preciso de coisa alguma”, mas não sabe que é miserável, coitado, pobre, cego e nu,
+
+[[v66-3-18]]
+
+^<<v66-3-18,18>>^ eu o aconselho a comprar de mim ouro refinado pelo fogo, para que fique rico; vestes brancas, para que fique vestido e para que não se exponha a vergonha da sua nudez; e unguento para passar nos olhos, de modo que possa ver.
+
+[[v66-3-19]]
+
+^<<v66-3-19,19>>^ “‘Todos aqueles a quem amo,^&#42;1^ eu repreendo e disciplino. Portanto, seja zeloso e arrependa-se.
+
+[NOTE]
+====
+. Ou: “pelos quais tenho afeição”.
+====
+
+[[v66-3-20]]
+
+^<<v66-3-20,20>>^ Escutem! Estou em pé à porta e estou batendo. Se alguém ouvir a minha voz e abrir a porta, entrarei na sua casa e tomarei a ceia com ele, e ele comigo.
+
+[[v66-3-21]]
+
+^<<v66-3-21,21>>^ Àquele que vencer, concederei se sentar comigo no meu trono, assim como eu venci e me sentei com o meu Pai no trono dele.
+
+[[v66-3-22]]
+
+^<<v66-3-22,22>>^ Quem tem ouvidos ouça o que o espírito diz às congregações.’”
+
+'''
+
+xref:066-apocalipse/066-apocalipse-002.adoc#v66-2-0[&#60; Capítulo Anterior] | <<v66-3-0,Topo>> | xref:066-apocalipse/066-apocalipse-004.adoc#v66-4-0[Próximo Capítulo &#62;]

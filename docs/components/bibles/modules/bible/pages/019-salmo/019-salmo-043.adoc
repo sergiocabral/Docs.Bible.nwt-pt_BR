@@ -1,0 +1,45 @@
+include::./index.adoc[]
+
+[[v19-43-0]]
+=== Salmos, 43
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v19-43-1]]
+
+^<<v19-43-1,1>>^ Julga-me, ó Deus,
+Defende a minha causa contra uma nação desleal.
+Livra-me dos homens mentirosos e perversos.
+
+[[v19-43-2]]
+
+^<<v19-43-2,2>>^ Pois tu és o meu Deus, a minha fortaleza.
+Por que me rejeitaste?
+Por que eu deveria andar triste sob a opressão do meu inimigo?
+
+[[v19-43-3]]
+
+^<<v19-43-3,3>>^ Envia a tua luz e a tua verdade.
+Que elas me conduzam;
+Que elas me guiem ao teu santo monte e ao teu grandioso tabernáculo.
+
+[[v19-43-4]]
+
+^<<v19-43-4,4>>^ Então irei ao altar de Deus,
+A Deus, minha plena alegria.
+E vou louvar-te com a harpa, ó Deus, meu Deus.
+
+[[v19-43-5]]
+
+^<<v19-43-5,5>>^ Por que eu me desespero?^&#42;1^
+Por que estou tão agitado?
+Esperarei em Deus,
+Porque eu ainda o louvarei como meu Grandioso Salvador e meu Deus.
+
+[NOTE]
+====
+. Ou: “minha alma se desespera”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-042.adoc#v19-42-0[&#60; Capítulo Anterior] | <<v19-43-0,Topo>> | xref:019-salmo/019-salmo-044.adoc#v19-44-0[Próximo Capítulo &#62;]

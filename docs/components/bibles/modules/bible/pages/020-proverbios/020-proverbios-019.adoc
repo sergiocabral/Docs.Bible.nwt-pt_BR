@@ -1,0 +1,209 @@
+include::./index.adoc[]
+
+[[v20-19-0]]
+=== Provérbios, 19
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v20-19-1]]
+
+^<<v20-19-1,1>>^ Melhor ser pobre e andar em integridade
+Do que ser tolo e falar mentiras.
+
+[[v20-19-2]]
+
+^<<v20-19-2,2>>^ Não é bom a pessoa^&#42;1^ não ter conhecimento,
+E quem age precipitadamente^&#42;2^ peca.
+
+[NOTE]
+====
+. Ou: “alma”.
+. Lit.: “se apressa com os seus pés”.
+====
+
+[[v20-19-3]]
+
+^<<v20-19-3,3>>^ É a tolice do homem que distorce o seu caminho,
+E o seu coração fica furioso com Jeová.
+
+[[v20-19-4]]
+
+^<<v20-19-4,4>>^ A riqueza atrai muitos amigos,
+Mas o pobre até pelo amigo será abandonado.
+
+[[v20-19-5]]
+
+^<<v20-19-5,5>>^ A testemunha falsa não ficará impune,
+E quem só fala mentiras não escapará.
+
+[[v20-19-6]]
+
+^<<v20-19-6,6>>^ Muitos buscam o favor de um nobre,^&#42;1^
+E todos são amigos de quem dá presentes.
+
+[NOTE]
+====
+. Ou: “homem generoso”.
+====
+
+[[v20-19-7]]
+
+^<<v20-19-7,7>>^ Se todos os irmãos do pobre o odeiam,
+Quanto mais os seus amigos se afastarão dele!
+Ele vai atrás deles com pedidos, mas ninguém responde.
+
+[[v20-19-8]]
+
+^<<v20-19-8,8>>^ Quem obtém bom senso^&#42;1^ ama a si mesmo.^&#42;2^
+Quem preza o discernimento será bem-sucedido.^&#42;3^
+
+[NOTE]
+====
+. Lit.: “obtém coração”.
+. Ou: “sua alma”.
+. Lit.: “achará o bem”.
+====
+
+[[v20-19-9]]
+
+^<<v20-19-9,9>>^ A testemunha falsa não ficará impune,
+E quem só fala mentiras morrerá.
+
+[[v20-19-10]]
+
+^<<v20-19-10,10>>^ Não é próprio para o tolo viver em luxo,
+E muito menos para um servo governar príncipes!
+
+[[v20-19-11]]
+
+^<<v20-19-11,11>>^ A perspicácia do homem faz com que ele não se ire facilmente,
+E é bonito da sua parte deixar passar a^&#42;1^ ofensa.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “passar por cima da”.
+. Ou: “transgressão”.
+====
+
+[[v20-19-12]]
+
+^<<v20-19-12,12>>^ A fúria do rei é como o rugido de um leão,^&#42;1^
+Mas seu favor é como o orvalho sobre a vegetação.
+
+[NOTE]
+====
+. Ou: “leão novo jubado”.
+====
+
+[[v20-19-13]]
+
+^<<v20-19-13,13>>^ O filho tolo causa dificuldades ao seu pai,
+E a esposa briguenta^&#42;1^ é como uma goteira que não para de pingar.
+
+[NOTE]
+====
+. Ou: “que vive resmungando”.
+====
+
+[[v20-19-14]]
+
+^<<v20-19-14,14>>^ Casa e riquezas são herdadas dos pais,
+Mas a esposa prudente vem de Jeová.
+
+[[v20-19-15]]
+
+^<<v20-19-15,15>>^ A preguiça causa sono profundo,
+E a pessoa^&#42;1^ preguiçosa passará fome.
+
+[NOTE]
+====
+. Ou: “alma”.
+====
+
+[[v20-19-16]]
+
+^<<v20-19-16,16>>^ Quem guarda os mandamentos preserva a sua vida;^&#42;1^
+Quem descuida da própria conduta morrerá.
+
+[NOTE]
+====
+. Ou: “alma”.
+====
+
+[[v20-19-17]]
+
+^<<v20-19-17,17>>^ Quem mostra favor ao pobre empresta a Jeová,
+E Ele o recompensará por isso.
+
+[[v20-19-18]]
+
+^<<v20-19-18,18>>^ Discipline o seu filho enquanto há esperança;
+Não se torne responsável pela^&#42;1^ morte dele.
+
+[NOTE]
+====
+. Ou: “Não deseje a”. Lit.: “Não eleve a sua alma à”.
+====
+
+[[v20-19-19]]
+
+^<<v20-19-19,19>>^ O homem que se irrita facilmente será punido;
+Se você tentar poupá-lo, terá de fazer isso vez após vez.
+
+[[v20-19-20]]
+
+^<<v20-19-20,20>>^ Escute o conselho e aceite a disciplina,
+Para se tornar sábio no futuro.
+
+[[v20-19-21]]
+
+^<<v20-19-21,21>>^ Muitos são os planos no coração do homem,
+Mas é a vontade^&#42;1^ de Jeová que prevalecerá.
+
+[NOTE]
+====
+. Ou: “o propósito; o conselho”.
+====
+
+[[v20-19-22]]
+
+^<<v20-19-22,22>>^ O que se deseja num homem é seu amor leal;
+Melhor ser pobre do que mentiroso.
+
+[[v20-19-23]]
+
+^<<v20-19-23,23>>^ O temor de Jeová conduz à vida;
+Quem o tem descansará tranquilo, livre de perigo.
+
+[[v20-19-24]]
+
+^<<v20-19-24,24>>^ O preguiçoso enfia a mão na tigela,
+Mas nem se esforça em levá-la de volta à boca.
+
+[[v20-19-25]]
+
+^<<v20-19-25,25>>^ Golpeie o zombador para que o inexperiente se torne prudente;
+Repreenda quem tem entendimento, e ele aumentará em conhecimento.
+
+[[v20-19-26]]
+
+^<<v20-19-26,26>>^ Quem maltrata o pai e manda embora a mãe
+É um filho que causa vergonha e desonra.
+
+[[v20-19-27]]
+
+^<<v20-19-27,27>>^ Meu filho, se você deixar de escutar a disciplina,
+Você se desviará das declarações de conhecimento.
+
+[[v20-19-28]]
+
+^<<v20-19-28,28>>^ A testemunha imprestável zomba da justiça,
+E a boca dos perversos devora o que é mau.
+
+[[v20-19-29]]
+
+^<<v20-19-29,29>>^ A condenação está reservada para os zombadores;
+E os golpes, para as costas dos tolos.
+
+'''
+
+xref:020-proverbios/020-proverbios-018.adoc#v20-18-0[&#60; Capítulo Anterior] | <<v20-19-0,Topo>> | xref:020-proverbios/020-proverbios-020.adoc#v20-20-0[Próximo Capítulo &#62;]

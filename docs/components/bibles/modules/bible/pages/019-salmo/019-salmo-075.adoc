@@ -1,0 +1,96 @@
+include::./index.adoc[]
+
+[[v19-75-0]]
+=== Salmos, 75
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Ao regente. Com a melodia de Não Destruas. De Asafe. Cântico._
+
+[[v19-75-1]]
+
+^<<v19-75-1,1>>^ Agradecemos a ti, ó Deus, agradecemos a ti;
+Teu nome está perto,
+E as pessoas declaram os teus atos maravilhosos.
+
+[[v19-75-2]]
+
+^<<v19-75-2,2>>^ Dizes: “Quando determino um tempo,
+Eu julgo com justiça.
+
+[[v19-75-3]]
+
+^<<v19-75-3,3>>^ Quando a terra e todos os seus habitantes estremeceram,^&#42;1^
+Fui eu que mantive firmes as suas colunas.” (Selá)
+
+[NOTE]
+====
+. Lit.: “se dissolveram”.
+====
+
+[[v19-75-4]]
+
+^<<v19-75-4,4>>^ Eu digo aos orgulhosos: “Não se gabem”,
+E aos maus: “Não exaltem o seu poder.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “chifre”.
+====
+
+[[v19-75-5]]
+
+^<<v19-75-5,5>>^ Não exaltem tanto o seu poder^&#42;1^
+Nem falem com arrogância.
+
+[NOTE]
+====
+. Lit.: “chifre”.
+====
+
+[[v19-75-6]]
+
+^<<v19-75-6,6>>^ Pois o enaltecimento não vem
+Do leste, nem do oeste, nem do sul.
+
+[[v19-75-7]]
+
+^<<v19-75-7,7>>^ Pois Deus é Juiz.
+A um ele rebaixa, a outro enaltece.
+
+[[v19-75-8]]
+
+^<<v19-75-8,8>>^ Porque na mão de Jeová há um cálice;
+O vinho está espumando e é forte.^&#42;1^
+Ele certamente o derramará,
+E todos os maus da terra o beberão até a última gota.”^&#42;2^
+
+[NOTE]
+====
+. Ou: “é cheio de mistura”.
+. Ou: “até a borra”.
+====
+
+[[v19-75-9]]
+
+^<<v19-75-9,9>>^ Mas, quanto a mim, proclamarei essas coisas para sempre;
+Cantarei louvores^&#42;1^ ao Deus de Jacó.
+
+[NOTE]
+====
+. Ou: “Farei música”.
+====
+
+[[v19-75-10]]
+
+^<<v19-75-10,10>>^ Pois ele diz: “Acabarei com todo o poder^&#42;1^ dos maus,
+Mas o poder^&#42;2^ dos justos aumentará.”
+
+[NOTE]
+====
+. Lit.: “todos os chifres”.
+. Lit.: “os chifres”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-074.adoc#v19-74-0[&#60; Capítulo Anterior] | <<v19-75-0,Topo>> | xref:019-salmo/019-salmo-076.adoc#v19-76-0[Próximo Capítulo &#62;]

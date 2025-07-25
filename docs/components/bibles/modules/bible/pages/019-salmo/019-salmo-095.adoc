@@ -1,0 +1,83 @@
+include::./index.adoc[]
+
+[[v19-95-0]]
+=== Salmos, 95
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v19-95-1]]
+
+^<<v19-95-1,1>>^ Venham, gritemos de alegria a Jeová!
+Aclamemos triunfantemente a Rocha da nossa salvação.
+
+[[v19-95-2]]
+
+^<<v19-95-2,2>>^ Vamos à sua presença^&#42;1^ com agradecimentos;
+Cantemos e aclamemos triunfantemente a ele.
+
+[NOTE]
+====
+. Lit.: “diante da sua face”.
+====
+
+[[v19-95-3]]
+
+^<<v19-95-3,3>>^ Pois Jeová é um grande Deus,
+Um grande Rei sobre todos os outros deuses.
+
+[[v19-95-4]]
+
+^<<v19-95-4,4>>^ As profundezas da terra estão nas suas mãos;
+A ele pertencem os picos dos montes;
+
+[[v19-95-5]]
+
+^<<v19-95-5,5>>^ O mar, que ele mesmo fez, pertence a ele,
+E suas mãos formaram a terra seca.
+
+[[v19-95-6]]
+
+^<<v19-95-6,6>>^ Venham, adoremos e curvemo-nos;
+Ajoelhemo-nos diante de Jeová, aquele que nos fez.
+
+[[v19-95-7]]
+
+^<<v19-95-7,7>>^ Pois ele é o nosso Deus,
+E nós somos o povo do seu pasto,
+As ovelhas sob seus cuidados.^&#42;1^
+Hoje, se vocês escutarem a voz dele,
+
+[NOTE]
+====
+. Lit.: “da sua mão”.
+====
+
+[[v19-95-8]]
+
+^<<v19-95-8,8>>^ Não endureçam o coração como em Meribá,^&#42;1^
+Como naquele dia em Massá,^&#42;2^ no deserto,
+
+[NOTE]
+====
+. Que significa “discussão”.
+. Que significa “teste; prova”.
+====
+
+[[v19-95-9]]
+
+^<<v19-95-9,9>>^ Quando os seus antepassados me puseram à prova;
+Eles me desafiaram, apesar de terem visto as minhas obras.
+
+[[v19-95-10]]
+
+^<<v19-95-10,10>>^ Por quarenta anos eu senti repugnância daquela geração, e eu disse:
+“Eles são um povo que sempre se perde no seu coração;
+Não chegaram a conhecer os meus caminhos.”
+
+[[v19-95-11]]
+
+^<<v19-95-11,11>>^ Então jurei na minha ira:
+“Não entrarão no meu descanso.”
+
+'''
+
+xref:019-salmo/019-salmo-094.adoc#v19-94-0[&#60; Capítulo Anterior] | <<v19-95-0,Topo>> | xref:019-salmo/019-salmo-096.adoc#v19-96-0[Próximo Capítulo &#62;]

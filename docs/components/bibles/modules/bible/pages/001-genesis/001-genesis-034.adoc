@@ -1,0 +1,165 @@
+include::./index.adoc[]
+
+[[v1-34-0]]
+=== Gênesis, 34
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v1-34-1]]
+
+^<<v1-34-1,1>>^ Diná, a filha que Leia tinha dado a Jacó, costumava sair para visitar^&#42;1^ as moças daquela terra.
+
+[NOTE]
+====
+. Ou: “ver”.
+====
+
+[[v1-34-2]]
+
+^<<v1-34-2,2>>^ Quando Siquém, filho de Hamor, o heveu, um maioral daquela terra, viu Diná, ele a agarrou, se deitou com ela e a violentou.
+
+[[v1-34-3]]
+
+^<<v1-34-3,3>>^ E ele^&#42;1^ se apegou profundamente a Diná, filha de Jacó; ele se apaixonou pela moça e tentava conquistá-la com palavras.^&#42;2^
+
+[NOTE]
+====
+. Ou: “sua alma”.
+. Lit.: “e falava ao coração da moça”.
+====
+
+[[v1-34-4]]
+
+^<<v1-34-4,4>>^ Por fim, Siquém disse a Hamor, seu pai: “Consiga que esta jovem seja minha esposa.”
+
+[[v1-34-5]]
+
+^<<v1-34-5,5>>^ Quando Jacó soube que ele tinha desonrado Diná, sua filha, os seus filhos estavam no campo com o seu rebanho. Então Jacó ficou calado até que retornassem.
+
+[[v1-34-6]]
+
+^<<v1-34-6,6>>^ Mais tarde, Hamor, pai de Siquém, saiu e foi falar com Jacó.
+
+[[v1-34-7]]
+
+^<<v1-34-7,7>>^ Mas os filhos de Jacó souberam do que havia acontecido e voltaram do campo imediatamente. Eles ficaram ofendidos e furiosos porque Siquém havia causado vergonha a Israel ao se deitar com a filha de Jacó, coisa que não se devia fazer.
+
+[[v1-34-8]]
+
+^<<v1-34-8,8>>^ Hamor lhes disse: “Siquém, meu filho, está apaixonado pela^&#42;1^ sua filha. Por favor, deem-na a ele como esposa
+
+[NOTE]
+====
+. Ou: “A alma de Siquém, meu filho, está apegada à”.
+====
+
+[[v1-34-9]]
+
+^<<v1-34-9,9>>^ e vamos aliar nossas famílias por meio de casamento.^&#42;1^ Deem-nos as suas filhas e tomem as nossas filhas para vocês.
+
+[NOTE]
+====
+. Ou: “e realizem conosco casamentos mistos”.
+====
+
+[[v1-34-10]]
+
+^<<v1-34-10,10>>^ Podem morar conosco, e esta terra ficará à sua disposição. Morem nela, façam negócios e estabeleçam-se nela.”
+
+[[v1-34-11]]
+
+^<<v1-34-11,11>>^ Siquém disse então ao pai e aos irmãos de Diná: “Que eu ache favor aos seus olhos, e eu darei a vocês o que for que me pedirem.
+
+[[v1-34-12]]
+
+^<<v1-34-12,12>>^ Podem impor a mim um valor bem alto para o preço de noiva e o presente. Estou disposto a dar o que me pedirem; apenas deem-me a moça como esposa.”
+
+[[v1-34-13]]
+
+^<<v1-34-13,13>>^ E os filhos de Jacó responderam de forma enganosa a Siquém e a Hamor, seu pai, porque ele tinha desonrado Diná, irmã deles.
+
+[[v1-34-14]]
+
+^<<v1-34-14,14>>^ Disseram-lhes: “Não podemos fazer isso de modo algum; não podemos dar a nossa irmã a um homem que não é circuncidado,^&#42;1^ pois isso é uma desonra para nós.
+
+[NOTE]
+====
+. Lit.: “que tem prepúcio”.
+====
+
+[[v1-34-15]]
+
+^<<v1-34-15,15>>^ Só podemos dar-lhes consentimento com uma condição: que vocês se tornem como nós e circuncidem todos os do sexo masculino entre vocês.
+
+[[v1-34-16]]
+
+^<<v1-34-16,16>>^ Então nós lhes daremos as nossas filhas e tomaremos para nós as suas filhas, moraremos com vocês e nos tornaremos um só povo.
+
+[[v1-34-17]]
+
+^<<v1-34-17,17>>^ Mas, se não nos escutarem e não forem circuncidados, tomaremos a nossa filha e iremos embora.”
+
+[[v1-34-18]]
+
+^<<v1-34-18,18>>^ As palavras deles agradaram Hamor e Siquém, filho de Hamor.
+
+[[v1-34-19]]
+
+^<<v1-34-19,19>>^ O jovem não demorou em fazer o que eles pediram, porque gostava da filha de Jacó e era o mais honrado de toda a casa de seu pai.
+
+[[v1-34-20]]
+
+^<<v1-34-20,20>>^ De modo que Hamor e Siquém, seu filho, foram ao portão da cidade e disseram aos homens de sua cidade:
+
+[[v1-34-21]]
+
+^<<v1-34-21,21>>^ “Esses homens querem ficar em paz conosco. Que morem nesta terra e façam negócios nela, pois a terra é grande o suficiente para acomodá-los. Poderemos tomar as filhas deles como esposas e poderemos dar-lhes as nossas filhas.
+
+[[v1-34-22]]
+
+^<<v1-34-22,22>>^ Mas somente com uma condição os homens consentirão em morar aqui para formar um só povo conosco: todos os do sexo masculino entre nós devem ser circuncidados, assim como eles são circuncidados.
+
+[[v1-34-23]]
+
+^<<v1-34-23,23>>^ Assim, não serão nossos todos os seus rebanhos, suas posses e sua riqueza? Então vamos aceitar fazer isso, para que morem conosco.”
+
+[[v1-34-24]]
+
+^<<v1-34-24,24>>^ Todos os que saíam pelo portão da cidade dele escutaram Hamor e Siquém, filho dele, e todos os do sexo masculino foram circuncidados, todos os que saíam pelo portão da cidade.
+
+[[v1-34-25]]
+
+^<<v1-34-25,25>>^ No entanto, no terceiro dia, quando os homens ainda sentiam dores, dois filhos de Jacó, Simeão e Levi, irmãos de Diná, pegaram cada um a sua espada e foram à cidade, que estava desprevenida, e mataram todos os homens.
+
+[[v1-34-26]]
+
+^<<v1-34-26,26>>^ Mataram Hamor e Siquém, seu filho, com a espada; depois tiraram Diná da casa de Siquém e foram embora.
+
+[[v1-34-27]]
+
+^<<v1-34-27,27>>^ Os outros filhos de Jacó chegaram e encontraram os homens mortos, e saquearam a cidade, porque tinham desonrado a sua irmã.
+
+[[v1-34-28]]
+
+^<<v1-34-28,28>>^ Tomaram as ovelhas deles, seus bois, seus jumentos e tudo que havia na cidade e no campo.
+
+[[v1-34-29]]
+
+^<<v1-34-29,29>>^ Levaram também todos os seus bens, capturaram todas as criancinhas e as esposas deles e saquearam tudo o que havia nas casas.
+
+[[v1-34-30]]
+
+^<<v1-34-30,30>>^ Em vista disso, Jacó disse a Simeão e a Levi: “Vocês me trouxeram grandes dificuldades,^&#42;1^ fazendo-me odiado pelos^&#42;2^ habitantes desta terra, pelos cananeus e pelos perizeus. Somos poucos em número; eles certamente se juntarão para me atacar, e eu serei destruído, eu e a minha casa.”
+
+[NOTE]
+====
+. Ou: “trouxeram ostracismo”, isto é, exclusão.
+. Ou: “tornando-me um mau cheiro para os”.
+====
+
+[[v1-34-31]]
+
+^<<v1-34-31,31>>^ Mas eles disseram: “Devia alguém tratar nossa irmã como prostituta?”
+
+'''
+
+xref:001-genesis/001-genesis-033.adoc#v1-33-0[&#60; Capítulo Anterior] | <<v1-34-0,Topo>> | xref:001-genesis/001-genesis-035.adoc#v1-35-0[Próximo Capítulo &#62;]

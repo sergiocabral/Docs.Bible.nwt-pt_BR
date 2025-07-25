@@ -1,0 +1,122 @@
+include::./index.adoc[]
+
+[[v23-46-0]]
+=== Isaías, 46
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v23-46-1]]
+
+^<<v23-46-1,1>>^ Bel se curva, Nebo se dobra por terra.
+Suas imagens são colocadas sobre animais, animais de carga,
+Como bagagem que sobrecarrega animais cansados.
+
+[[v23-46-2]]
+
+^<<v23-46-2,2>>^ Juntos, eles se dobram por terra e se curvam;
+São incapazes de salvar as cargas,^&#42;1^
+E eles mesmos^&#42;2^ vão para o cativeiro.
+
+[NOTE]
+====
+. Isto é, as imagens colocadas sobre os animais.
+. Ou: “suas almas”.
+====
+
+[[v23-46-3]]
+
+^<<v23-46-3,3>>^ “Escute-me, ó casa de Jacó, e todos vocês que restam da casa de Israel,
+Vocês, a quem sustento desde que nasceram e a quem carrego desde o ventre.
+
+[[v23-46-4]]
+
+^<<v23-46-4,4>>^ Até a sua velhice, eu serei o mesmo;
+Até seus cabelos ficarem brancos, continuarei a sustentá-los.
+Assim como tenho feito, eu os carregarei, sustentarei e salvarei.
+
+[[v23-46-5]]
+
+^<<v23-46-5,5>>^ A quem vocês vão me comparar ou me igualar?
+Com quem vão me assemelhar, como se fôssemos parecidos?
+
+[[v23-46-6]]
+
+^<<v23-46-6,6>>^ Há os que despejam o ouro da sua bolsa;
+Pesam a prata na balança.
+Contratam um ourives para transformar isso num deus.
+Depois se prostram e o adoram.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “e se curvam diante dele”.
+====
+
+[[v23-46-7]]
+
+^<<v23-46-7,7>>^ Eles o colocam sobre os ombros,
+Carregam-no e o põem no seu lugar, e ali ele fica.
+Ele não sai do lugar.
+Clamam a ele, mas ele não responde;
+Não pode salvar ninguém da aflição.
+
+[[v23-46-8]]
+
+^<<v23-46-8,8>>^ Lembrem-se disso e tenham coragem.
+Prestem atenção, transgressores.
+
+[[v23-46-9]]
+
+^<<v23-46-9,9>>^ Lembrem-se das coisas anteriores,^&#42;1^ que aconteceram há muito tempo,
+Que eu sou Deus,^&#42;2^ e não há outro.
+Eu sou Deus, e não há ninguém igual a mim.
+
+[NOTE]
+====
+. Lit.: “primeiras coisas”.
+. Ou: “o Divino”.
+====
+
+[[v23-46-10]]
+
+^<<v23-46-10,10>>^ Desde o princípio anuncio o final,
+E desde os tempos antigos as coisas que ainda não foram feitas.
+Digo: ‘O que eu decidi^&#42;1^ ficará de pé
+E farei tudo o que for do meu agrado.’
+
+[NOTE]
+====
+. Ou: “Meu propósito; Meu conselho”.
+====
+
+[[v23-46-11]]
+
+^<<v23-46-11,11>>^ Desde o nascente^&#42;1^ chamo a ave de rapina,
+De uma terra distante, o homem para executar o que eu decidi.^&#42;2^
+Eu falei e realizarei.
+Estabeleci o meu propósito e o cumprirei.
+
+[NOTE]
+====
+. Ou: “leste”.
+. Ou: “o meu propósito; o meu conselho”.
+====
+
+[[v23-46-12]]
+
+^<<v23-46-12,12>>^ Escutem-me, obstinados^&#42;1^ de coração,
+Vocês que estão longe da justiça.
+
+[NOTE]
+====
+. Lit.: “poderosos”.
+====
+
+[[v23-46-13]]
+
+^<<v23-46-13,13>>^ Faço a minha justiça chegar perto;
+Ela não está longe,
+E a minha salvação não vai demorar.
+Darei salvação em Sião, e meu esplendor a Israel.”
+
+'''
+
+xref:023-isaias/023-isaias-045.adoc#v23-45-0[&#60; Capítulo Anterior] | <<v23-46-0,Topo>> | xref:023-isaias/023-isaias-047.adoc#v23-47-0[Próximo Capítulo &#62;]

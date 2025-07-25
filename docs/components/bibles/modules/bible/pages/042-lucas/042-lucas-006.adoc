@@ -1,0 +1,255 @@
+include::./index.adoc[]
+
+[[v42-6-0]]
+=== Segundo Lucas, 6
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v42-6-1]]
+
+^<<v42-6-1,1>>^ Num sábado, ele estava passando por campos de cereais, e seus discípulos arrancavam espigas, esfregavam-nas com as mãos e as comiam.
+
+[[v42-6-2]]
+
+^<<v42-6-2,2>>^ Em vista disso, alguns fariseus disseram: “Por que vocês estão fazendo o que não é permitido no sábado?”
+
+[[v42-6-3]]
+
+^<<v42-6-3,3>>^ Mas Jesus lhes disse em resposta: “Vocês nunca leram o que Davi fez quando ele e seus homens ficaram com fome?
+
+[[v42-6-4]]
+
+^<<v42-6-4,4>>^ Como ele entrou na casa de Deus e recebeu os pães da apresentação,^&#42;1^ e os comeu e deu deles aos seus homens, embora não seja permitido a ninguém comer esses pães, mas apenas aos sacerdotes?”
+
+[NOTE]
+====
+. Ou: “proposição”.
+====
+
+[[v42-6-5]]
+
+^<<v42-6-5,5>>^ E acrescentou: “O Filho do Homem é Senhor do sábado.”
+
+[[v42-6-6]]
+
+^<<v42-6-6,6>>^ Em outro sábado, ele entrou na sinagoga e começou a ensinar. E havia ali um homem com a mão direita atrofiada.^&#42;1^
+
+[NOTE]
+====
+. Ou: “paralisada”.
+====
+
+[[v42-6-7]]
+
+^<<v42-6-7,7>>^ Os escribas e os fariseus observavam Jesus atentamente para ver se ele curaria alguém no sábado, a fim de acharem um motivo para acusá-lo.
+
+[[v42-6-8]]
+
+^<<v42-6-8,8>>^ Mas ele sabia o que eles estavam pensando; assim, disse ao homem com a mão atrofiada:^&#42;1^ “Levante-se e fique em pé no centro.” E ele se levantou e ficou em pé.
+
+[NOTE]
+====
+. Ou: “paralisada”.
+====
+
+[[v42-6-9]]
+
+^<<v42-6-9,9>>^ Jesus lhes disse então: “Eu lhes pergunto: É permitido, no sábado, fazer o bem ou fazer o mal, salvar uma vida^&#42;1^ ou destruí-la?”
+
+[NOTE]
+====
+. Ou: “alma”.
+====
+
+[[v42-6-10]]
+
+^<<v42-6-10,10>>^ Depois de olhar para todos que estavam à sua volta, disse ao homem: “Estenda a mão.” Ele fez isso, e a mão foi restabelecida.
+
+[[v42-6-11]]
+
+^<<v42-6-11,11>>^ Mas eles ficaram furiosos e começaram a conversar sobre o que poderiam fazer a Jesus.
+
+[[v42-6-12]]
+
+^<<v42-6-12,12>>^ Num daqueles dias, ele foi para o monte a fim de orar, e passou a noite inteira orando a Deus.
+
+[[v42-6-13]]
+
+^<<v42-6-13,13>>^ Quando o dia amanheceu, chamou os seus discípulos e escolheu dentre eles 12, a quem deu o nome de apóstolos:
+
+[[v42-6-14]]
+
+^<<v42-6-14,14>>^ Simão, a quem também chamou de Pedro, André, seu irmão, Tiago, João, Filipe, Bartolomeu,
+
+[[v42-6-15]]
+
+^<<v42-6-15,15>>^ Mateus, Tomé, Tiago, filho de Alfeu, Simão, chamado Zeloso,
+
+[[v42-6-16]]
+
+^<<v42-6-16,16>>^ Judas, filho de Tiago, e Judas Iscariotes, que se tornou traidor.
+
+[[v42-6-17]]
+
+^<<v42-6-17,17>>^ Ele desceu com eles e parou num lugar plano; havia ali um grande número de seus discípulos e uma grande multidão de pessoas de toda a Judeia e de Jerusalém, e do litoral de Tiro e Sídon, que tinham vindo para ouvi-lo e para ser curados das suas doenças.
+
+[[v42-6-18]]
+
+^<<v42-6-18,18>>^ Até mesmo os afligidos por espíritos impuros eram curados.
+
+[[v42-6-19]]
+
+^<<v42-6-19,19>>^ E toda a multidão procurava tocá-lo, porque saía poder dele e curava a todos eles.
+
+[[v42-6-20]]
+
+^<<v42-6-20,20>>^ E ele ergueu os olhos para os seus discípulos e disse:
+“Felizes são vocês, pobres, pois o Reino de Deus é de vocês.
+
+[[v42-6-21]]
+
+^<<v42-6-21,21>>^ “Felizes são vocês que agora têm fome, pois serão saciados.
+“Felizes são vocês que agora choram, pois vão rir.
+
+[[v42-6-22]]
+
+^<<v42-6-22,22>>^ “Felizes serão vocês sempre que os homens os odiarem, e sempre que os excluírem, os insultarem e declararem maldito o seu nome,^&#42;1^ por causa do Filho do Homem.
+
+[NOTE]
+====
+. Lit.: “lançarem fora o seu nome como mau”.
+====
+
+[[v42-6-23]]
+
+^<<v42-6-23,23>>^ Alegrem-se quando isso acontecer e pulem de alegria, porque a sua recompensa é grande no céu, pois essas são as mesmas coisas que os antepassados deles faziam aos profetas.
+
+[[v42-6-24]]
+
+^<<v42-6-24,24>>^ “Mas, ai de vocês, ricos, pois já receberam todo o seu conforto.
+
+[[v42-6-25]]
+
+^<<v42-6-25,25>>^ “Ai de vocês que agora estão saciados, pois passarão fome.
+“Ai de vocês que agora riem, pois lamentarão e chorarão.
+
+[[v42-6-26]]
+
+^<<v42-6-26,26>>^ “Ai de vocês, sempre que todos os homens falarem bem de vocês, pois é isso que os antepassados deles fizeram aos falsos profetas.
+
+[[v42-6-27]]
+
+^<<v42-6-27,27>>^ “Mas eu digo a vocês que estão escutando: Continuem a amar os seus inimigos, a fazer o bem aos que odeiam vocês,
+
+[[v42-6-28]]
+
+^<<v42-6-28,28>>^ a abençoar os que os amaldiçoam, a orar pelos que os insultam.
+
+[[v42-6-29]]
+
+^<<v42-6-29,29>>^ Àquele que lhe bater numa face, ofereça também a outra; e a quem lhe tirar a capa, não impeça de levar também a túnica.
+
+[[v42-6-30]]
+
+^<<v42-6-30,30>>^ Dê a todo aquele que lhe pedir e, se alguém lhe tirar o que é seu, não peça isso de volta.
+
+[[v42-6-31]]
+
+^<<v42-6-31,31>>^ “Também, assim como querem que os homens façam a vocês, façam do mesmo modo a eles.
+
+[[v42-6-32]]
+
+^<<v42-6-32,32>>^ “Se amarem aos que os amam, que mérito há nisso para vocês? Pois até mesmo os pecadores amam aos que os amam.
+
+[[v42-6-33]]
+
+^<<v42-6-33,33>>^ E, se fizerem o bem aos que lhes fazem o bem, que mérito há nisso para vocês? Até os pecadores fazem o mesmo.
+
+[[v42-6-34]]
+
+^<<v42-6-34,34>>^ Também, se emprestarem^&#42;1^ àqueles de quem esperam restituição, que mérito há nisso para vocês? Até mesmo pecadores emprestam a pecadores, para receberem de volta o mesmo.
+
+[NOTE]
+====
+. Isto é, sem juros.
+====
+
+[[v42-6-35]]
+
+^<<v42-6-35,35>>^ Ao contrário, continuem a amar os seus inimigos, a fazer o bem e a emprestar sem esperar nada de volta; e a sua recompensa será grande, e vocês serão filhos do Altíssimo, pois ele é bondoso com os ingratos e maus.
+
+[[v42-6-36]]
+
+^<<v42-6-36,36>>^ Sejam sempre misericordiosos, assim como o seu Pai é misericordioso.
+
+[[v42-6-37]]
+
+^<<v42-6-37,37>>^ “Além disso, parem de julgar, e de modo algum serão julgados; e parem de condenar, e de modo algum serão condenados. Continuem a perdoar,^&#42;1^ e serão perdoados.^&#42;2^
+
+[NOTE]
+====
+. Ou: “livrar”.
+. Ou: “livrados”.
+====
+
+[[v42-6-38]]
+
+^<<v42-6-38,38>>^ Pratiquem o dar, e lhes será dado. Derramarão na dobra da sua roupa uma boa medida, comprimida, sacudida e transbordante. Pois, com a medida com que vocês medem, medirão a vocês em troca.”
+
+[[v42-6-39]]
+
+^<<v42-6-39,39>>^ Então lhes contou também uma ilustração: “Será que um cego pode guiar outro cego? Não cairão ambos num buraco?
+
+[[v42-6-40]]
+
+^<<v42-6-40,40>>^ O aluno^&#42;1^ não está acima do seu instrutor, mas todo aquele que for perfeitamente instruído será semelhante ao seu instrutor.
+
+[NOTE]
+====
+. Ou: “discípulo”.
+====
+
+[[v42-6-41]]
+
+^<<v42-6-41,41>>^ Então, por que você olha para o cisco no olho do seu irmão, mas não percebe que há uma trave no seu próprio olho?
+
+[[v42-6-42]]
+
+^<<v42-6-42,42>>^ Como você pode dizer ao seu irmão: ‘Irmão, deixe-me tirar o cisco que está no seu olho’, enquanto você mesmo não vê a trave que está no seu próprio olho? Hipócrita! Tire primeiro a trave do seu próprio olho e depois verá claramente como tirar o cisco que está no olho do seu irmão.
+
+[[v42-6-43]]
+
+^<<v42-6-43,43>>^ “Pois nenhuma árvore boa produz fruto ruim,^&#42;1^ e nenhuma árvore ruim^&#42;2^ produz fruto bom.
+
+[NOTE]
+====
+. Ou: “podre”.
+. Ou: “podre”.
+====
+
+[[v42-6-44]]
+
+^<<v42-6-44,44>>^ Pois toda árvore é conhecida pelo seu próprio fruto. Por exemplo, não se colhem figos de espinheiros, nem uvas de uma planta espinhosa.
+
+[[v42-6-45]]
+
+^<<v42-6-45,45>>^ O homem bom tira o que é bom do bom tesouro do seu coração, mas o homem mau tira o que é mau do seu mau tesouro; pois a sua boca fala do que o coração está cheio.
+
+[[v42-6-46]]
+
+^<<v42-6-46,46>>^ “Então, por que vocês me chamam ‘Senhor! Senhor!’ mas não fazem o que eu digo?
+
+[[v42-6-47]]
+
+^<<v42-6-47,47>>^ Todo aquele que vem a mim, e ouve as minhas palavras, e as pratica, eu mostrarei a vocês a quem ele é semelhante:
+
+[[v42-6-48]]
+
+^<<v42-6-48,48>>^ Ele é como um homem que, ao construir uma casa, cavou bem fundo e lançou o alicerce sobre a rocha. Assim, quando veio uma inundação, o rio bateu com força contra aquela casa, mas não foi bastante forte para abalá-la, por ela ter sido bem construída.
+
+[[v42-6-49]]
+
+^<<v42-6-49,49>>^ Por outro lado, quem ouve e não faz nada é semelhante a um homem que construiu uma casa no solo, sem alicerce. O rio se lançou contra ela e ela desmoronou imediatamente, e foi grande a ruína daquela casa.”
+
+'''
+
+xref:042-lucas/042-lucas-005.adoc#v42-5-0[&#60; Capítulo Anterior] | <<v42-6-0,Topo>> | xref:042-lucas/042-lucas-007.adoc#v42-7-0[Próximo Capítulo &#62;]

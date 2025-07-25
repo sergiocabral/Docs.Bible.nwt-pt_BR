@@ -1,0 +1,344 @@
+include::./index.adoc[]
+
+[[v19-106-0]]
+=== Salmos, 106
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v19-106-1]]
+
+^<<v19-106-1,1>>^ Louvem a Jah!^&#42;1^
+Agradeçam a Jeová, pois ele é bom;
+Seu amor leal dura para sempre.
+
+[NOTE]
+====
+. Ou: “Aleluia!” “Jah” é uma forma reduzida do nome Jeová.
+====
+
+[[v19-106-2]]
+
+^<<v19-106-2,2>>^ Quem pode declarar todas as poderosas realizações de Jeová
+Ou proclamar todos os seus atos louváveis?
+
+[[v19-106-3]]
+
+^<<v19-106-3,3>>^ Felizes são os que agem com justiça,
+Que sempre fazem o que é certo.
+
+[[v19-106-4]]
+
+^<<v19-106-4,4>>^ Lembra-te de mim, ó Jeová, quando mostrares favor^&#42;1^ ao teu povo.
+Cuida de mim com os teus atos de salvação,
+
+[NOTE]
+====
+. Ou: “boa vontade”.
+====
+
+[[v19-106-5]]
+
+^<<v19-106-5,5>>^ Para que eu experimente a bondade que demonstras aos teus escolhidos,
+Para que eu me alegre junto com a tua nação,
+Para que eu te louve com orgulho, junto com a tua herança.
+
+[[v19-106-6]]
+
+^<<v19-106-6,6>>^ Pecamos como os nossos antepassados;
+Erramos, fizemos o que é mau.
+
+[[v19-106-7]]
+
+^<<v19-106-7,7>>^ Nossos antepassados no Egito não deram valor aos^&#42;1^ teus atos maravilhosos.
+Não se lembraram do teu imenso amor leal,
+Mas se rebelaram junto ao mar, o mar Vermelho.
+
+[NOTE]
+====
+. Ou: “não compreenderam o significado dos”.
+====
+
+[[v19-106-8]]
+
+^<<v19-106-8,8>>^ No entanto ele os salvou por causa do Seu nome,
+Para tornar conhecido o seu poder.
+
+[[v19-106-9]]
+
+^<<v19-106-9,9>>^ Ele censurou o mar Vermelho, e este se secou;
+Ele os conduziu pelas profundezas do mar como que por um deserto;^&#42;1^
+
+[NOTE]
+====
+. Ou: “ermo”.
+====
+
+[[v19-106-10]]
+
+^<<v19-106-10,10>>^ Ele os salvou das mãos daquele que os odiava,
+E os resgatou das mãos do inimigo.
+
+[[v19-106-11]]
+
+^<<v19-106-11,11>>^ As águas cobriram os seus adversários;
+Nem sequer um deles sobreviveu.^&#42;1^
+
+[NOTE]
+====
+. Ou: “sobrou”.
+====
+
+[[v19-106-12]]
+
+^<<v19-106-12,12>>^ Então tiveram fé na promessa dele;
+Começaram a cantar louvores a ele.
+
+[[v19-106-13]]
+
+^<<v19-106-13,13>>^ Mas se esqueceram depressa do que ele havia feito;
+Não esperaram para saber a orientação^&#42;1^ dele.
+
+[NOTE]
+====
+. Ou: “o conselho”.
+====
+
+[[v19-106-14]]
+
+^<<v19-106-14,14>>^ Cederam aos seus desejos egoístas no ermo;
+Puseram Deus à prova no deserto.
+
+[[v19-106-15]]
+
+^<<v19-106-15,15>>^ Ele lhes deu o que pediram,
+Mas depois os atingiu com uma doença que os consumiu.^&#42;1^
+
+[NOTE]
+====
+. Ou: “consumiu a sua alma”.
+====
+
+[[v19-106-16]]
+
+^<<v19-106-16,16>>^ No acampamento, ficaram com inveja de Moisés
+E de Arão, o santo de Jeová.
+
+[[v19-106-17]]
+
+^<<v19-106-17,17>>^ Então a terra se abriu e engoliu Datã,
+E cobriu os que estavam reunidos com Abirão.
+
+[[v19-106-18]]
+
+^<<v19-106-18,18>>^ Um fogo ardeu no meio do grupo deles;
+Uma chama devorou os maus.
+
+[[v19-106-19]]
+
+^<<v19-106-19,19>>^ Fizeram um bezerro em Horebe
+E se curvaram diante de uma estátua de metal;^&#42;1^
+
+[NOTE]
+====
+. Ou: “estátua fundida”.
+====
+
+[[v19-106-20]]
+
+^<<v19-106-20,20>>^ Trocaram a minha glória
+Pela representação de um boi que come capim.
+
+[[v19-106-21]]
+
+^<<v19-106-21,21>>^ Esqueceram-se de Deus, seu Salvador,
+Aquele que fez grandes coisas no Egito,
+
+[[v19-106-22]]
+
+^<<v19-106-22,22>>^ Atos maravilhosos na terra de Cã,
+Coisas impressionantes no mar Vermelho.
+
+[[v19-106-23]]
+
+^<<v19-106-23,23>>^ Ele estava prestes a ordenar que fossem aniquilados,
+Mas Moisés, seu escolhido, intercedeu junto a ele^&#42;1^
+Para aplacar a sua ira destruidora.
+
+[NOTE]
+====
+. Lit.: “pôs-se na brecha diante dele”.
+====
+
+[[v19-106-24]]
+
+^<<v19-106-24,24>>^ Depois eles desprezaram a terra desejável;
+Não tiveram fé na sua promessa.
+
+[[v19-106-25]]
+
+^<<v19-106-25,25>>^ Ficaram resmungando nas suas tendas;
+Não escutaram a voz de Jeová.
+
+[[v19-106-26]]
+
+^<<v19-106-26,26>>^ Por isso ele ergueu a mão e jurou
+Que os faria cair no deserto;
+
+[[v19-106-27]]
+
+^<<v19-106-27,27>>^ Ele faria os seus descendentes cair entre as nações
+E os espalharia pelas terras.
+
+[[v19-106-28]]
+
+^<<v19-106-28,28>>^ Então eles começaram a adorar^&#42;1^ Baal de Peor
+E comeram dos sacrifícios oferecidos aos mortos.^&#42;2^
+
+[NOTE]
+====
+. Ou: “se ligaram a”.
+. Isto é, sacrifícios oferecidos a pessoas mortas ou a ídolos sem vida.
+====
+
+[[v19-106-29]]
+
+^<<v19-106-29,29>>^ Eles provocaram a Deus com as suas ações,
+E um flagelo irrompeu entre eles.
+
+[[v19-106-30]]
+
+^<<v19-106-30,30>>^ Mas, quando Fineias se levantou e interveio,
+O flagelo cessou.
+
+[[v19-106-31]]
+
+^<<v19-106-31,31>>^ E isso lhe foi creditado como justiça,
+Por todas as gerações, para sempre.
+
+[[v19-106-32]]
+
+^<<v19-106-32,32>>^ Eles O provocaram junto às águas de Meribá,^&#42;1^
+E, por causa deles, Moisés sofreu;
+
+[NOTE]
+====
+. Que significa “discussão”.
+====
+
+[[v19-106-33]]
+
+^<<v19-106-33,33>>^ Amarguraram-lhe o espírito,
+E ele falou precipitadamente com os seus lábios.
+
+[[v19-106-34]]
+
+^<<v19-106-34,34>>^ Não aniquilaram os povos,
+Como Jeová lhes havia ordenado.
+
+[[v19-106-35]]
+
+^<<v19-106-35,35>>^ Mas eles se misturaram com as nações
+E adotaram^&#42;1^ os costumes delas.
+
+[NOTE]
+====
+. Ou: “aprenderam”.
+====
+
+[[v19-106-36]]
+
+^<<v19-106-36,36>>^ Serviam a seus ídolos,
+E estes se tornaram um laço para eles.
+
+[[v19-106-37]]
+
+^<<v19-106-37,37>>^ Sacrificavam seus filhos
+E suas filhas a demônios.
+
+[[v19-106-38]]
+
+^<<v19-106-38,38>>^ Derramavam sangue inocente,
+O sangue de seus próprios filhos e filhas,
+Que sacrificavam aos ídolos de Canaã;
+E a terra foi profanada com derramamento de sangue.
+
+[[v19-106-39]]
+
+^<<v19-106-39,39>>^ Eles se tornaram impuros por meio dos seus atos;
+Cometeram prostituição espiritual por meio das suas ações.
+
+[[v19-106-40]]
+
+^<<v19-106-40,40>>^ Então a ira de Jeová se acendeu contra o seu povo,
+E ele passou a detestar a sua herança.
+
+[[v19-106-41]]
+
+^<<v19-106-41,41>>^ Entregou-os repetidas vezes às nações,
+Para que aqueles que os odiavam dominassem sobre eles.
+
+[[v19-106-42]]
+
+^<<v19-106-42,42>>^ Seus inimigos os oprimiram,
+E eles foram submetidos ao seu poder.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “à sua mão”.
+====
+
+[[v19-106-43]]
+
+^<<v19-106-43,43>>^ Muitas vezes ele os livrou,
+Mas eles se rebelavam e desobedeciam,
+E eram humilhados por causa do seu erro.
+
+[[v19-106-44]]
+
+^<<v19-106-44,44>>^ Mas ele via a sua aflição
+E ouvia o seu clamor por ajuda.
+
+[[v19-106-45]]
+
+^<<v19-106-45,45>>^ Por causa deles, ele se lembrava do seu pacto;
+E sentia dó,^&#42;1^ movido pelo seu grande^&#42;2^ amor leal.
+
+[NOTE]
+====
+. Ou: “lamentava”.
+. Ou: “abundante”.
+====
+
+[[v19-106-46]]
+
+^<<v19-106-46,46>>^ Fazia com que todos os que os mantinham cativos
+Tivessem pena deles.
+
+[[v19-106-47]]
+
+^<<v19-106-47,47>>^ Salva-nos, ó Jeová, nosso Deus,
+E reúne-nos dentre as nações,
+Para que possamos dar graças ao teu santo nome
+E ter grande alegria em louvar a ti.^&#42;1^
+
+[NOTE]
+====
+. Ou: “ter grande alegria no teu louvor”.
+====
+
+[[v19-106-48]]
+
+^<<v19-106-48,48>>^ Que Jeová, o Deus de Israel, seja louvado
+Por toda a eternidade;^&#42;1^
+E que todo o povo diga: “Amém!”^&#42;2^
+Louvem a Jah!^&#42;3^
+
+[NOTE]
+====
+. Ou: “De eternidade a eternidade”.
+. Ou: “Assim seja!”
+. Ou: “Aleluia!” “Jah” é uma forma reduzida do nome Jeová.
+====
+
+'''
+
+xref:019-salmo/019-salmo-105.adoc#v19-105-0[&#60; Capítulo Anterior] | <<v19-106-0,Topo>> | xref:019-salmo/019-salmo-107.adoc#v19-107-0[Próximo Capítulo &#62;]

@@ -1,0 +1,156 @@
+include::./index.adoc[]
+
+[[v19-77-0]]
+=== Salmos, 77
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Ao regente; em jedutum.^&#42;1^ De Asafe. Salmo._
+
+[[v19-77-1]]
+
+^<<v19-77-1,1>>^ Com a minha voz clamarei a Deus;
+A Deus clamarei, e ele me ouvirá.
+
+[[v19-77-2]]
+
+^<<v19-77-2,2>>^ No dia da minha aflição busco a Jeová.
+À noite, minhas mãos ficam estendidas para ele sem cessar;^&#42;1^
+Eu estou^&#42;2^ inconsolável.
+
+[NOTE]
+====
+. Lit.: “ficar dormentes”.
+. Ou: “Minha alma está”.
+====
+
+[[v19-77-3]]
+
+^<<v19-77-3,3>>^ Quando me lembro de Deus, suspiro;
+Fico perturbado e perco as forças.^&#42;1^ (Selá)
+
+[NOTE]
+====
+. Lit.: “meu espírito desfalece”.
+====
+
+[[v19-77-4]]
+
+^<<v19-77-4,4>>^ Tu manténs abertas as minhas pálpebras;
+Fico agitado e não consigo falar.
+
+[[v19-77-5]]
+
+^<<v19-77-5,5>>^ Meus pensamentos se voltam para os tempos antigos,
+Os anos do passado distante.
+
+[[v19-77-6]]
+
+^<<v19-77-6,6>>^ Durante a noite, lembro-me do meu cântico;^&#42;1^
+Medito em meu coração;
+Faço^&#42;2^ uma busca cuidadosa.
+
+[NOTE]
+====
+. Ou: “da minha música de cordas”.
+. Lit.: “Meu espírito faz”.
+====
+
+[[v19-77-7]]
+
+^<<v19-77-7,7>>^ Será que Jeová nos rejeitará eternamente?
+Será que ele nunca mais nos mostrará favor?
+
+[[v19-77-8]]
+
+^<<v19-77-8,8>>^ Acabou para sempre o seu amor leal?
+Será que a sua promessa ficará sem se cumprir por todas as gerações?
+
+[[v19-77-9]]
+
+^<<v19-77-9,9>>^ Esqueceu-se Deus de mostrar favor,
+Ou será que sua ira fez a sua misericórdia cessar? (Selá)
+
+[[v19-77-10]]
+
+^<<v19-77-10,10>>^ Será que continuarei dizendo: “O que me causa aflição^&#42;1^
+É que o Altíssimo mudou seus tratos^&#42;2^ conosco”?
+
+[NOTE]
+====
+. Ou: “traspassa”.
+. Lit.: “a mão direita”.
+====
+
+[[v19-77-11]]
+
+^<<v19-77-11,11>>^ Eu me lembrarei das obras de Jah;
+Eu me lembrarei dos teus feitos maravilhosos de muito tempo atrás.
+
+[[v19-77-12]]
+
+^<<v19-77-12,12>>^ Meditarei em todos os teus atos
+E refletirei nas tuas ações.
+
+[[v19-77-13]]
+
+^<<v19-77-13,13>>^ Ó Deus, teus caminhos são santos.
+Que deus é tão grande como tu, ó Deus?
+
+[[v19-77-14]]
+
+^<<v19-77-14,14>>^ Tu és o verdadeiro Deus, que faz coisas maravilhosas.
+Revelaste aos povos a tua força.
+
+[[v19-77-15]]
+
+^<<v19-77-15,15>>^ Com o teu poder^&#42;1^ livraste^&#42;2^ o teu povo,
+Os filhos de Jacó e de José. (Selá)
+
+[NOTE]
+====
+. Lit.: “braço”.
+. Lit.: “resgataste”.
+====
+
+[[v19-77-16]]
+
+^<<v19-77-16,16>>^ As águas te viram, ó Deus;
+As águas te viram e ficaram perturbadas.
+E as águas profundas ficaram agitadas.
+
+[[v19-77-17]]
+
+^<<v19-77-17,17>>^ As nuvens despejaram água.
+O céu nublado trovejou,
+E as tuas flechas corriam em todas as direções.
+
+[[v19-77-18]]
+
+^<<v19-77-18,18>>^ O som do teu trovão era como o de rodas de carros de guerra,
+Relâmpagos iluminaram a terra habitada,^&#42;1^
+A terra tremeu e se sacudiu.
+
+[NOTE]
+====
+. Ou: “terra produtiva”.
+====
+
+[[v19-77-19]]
+
+^<<v19-77-19,19>>^ Abriste caminho através do mar,
+E uma passagem através de muitas águas;
+Mas ninguém pôde encontrar as tuas pegadas.
+
+[[v19-77-20]]
+
+^<<v19-77-20,20>>^ Guiaste o teu povo como a um rebanho,
+Sob os cuidados^&#42;1^ de Moisés e de Arão.
+
+[NOTE]
+====
+. Lit.: “Pela mão”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-076.adoc#v19-76-0[&#60; Capítulo Anterior] | <<v19-77-0,Topo>> | xref:019-salmo/019-salmo-078.adoc#v19-78-0[Próximo Capítulo &#62;]

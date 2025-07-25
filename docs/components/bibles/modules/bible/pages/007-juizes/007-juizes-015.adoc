@@ -1,0 +1,129 @@
+include::./index.adoc[]
+
+[[v7-15-0]]
+=== Juízes, 15
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v7-15-1]]
+
+^<<v7-15-1,1>>^ Depois de algum tempo, nos dias da colheita do trigo, Sansão foi visitar sua esposa, levando um cabrito. Ele disse: “Quero ficar no quarto^&#42;1^ com a minha esposa.” Mas o pai dela não o deixou entrar.
+
+[NOTE]
+====
+. Ou: “aposento interno”.
+====
+
+[[v7-15-2]]
+
+^<<v7-15-2,2>>^ O pai dela disse: “Pensei que você a odiava, por isso a dei ao seu padrinho. A irmã mais nova dela é mais bonita. Por que não fica com ela?”
+
+[[v7-15-3]]
+
+^<<v7-15-3,3>>^ No entanto, Sansão disse: “Desta vez os filisteus não podem me culpar por lhes prejudicar.”
+
+[[v7-15-4]]
+
+^<<v7-15-4,4>>^ Então Sansão capturou 300 raposas. Depois pegou tochas, amarrou as raposas de duas em duas pela cauda e colocou uma tocha no meio de cada par de caudas.
+
+[[v7-15-5]]
+
+^<<v7-15-5,5>>^ Então pôs fogo nas tochas e soltou as raposas nos campos de cereais dos filisteus. Ele incendiou tudo, tanto os feixes como os cereais ainda não colhidos, e também os vinhedos e os olivais.
+
+[[v7-15-6]]
+
+^<<v7-15-6,6>>^ Os filisteus perguntaram: “Quem fez isso?” Disseram-lhes: “Foi Sansão, o genro do timnita, porque este tomou a esposa de Sansão e a deu ao padrinho dele.” Em vista disso, os filisteus subiram e queimaram a mulher e o pai dela com fogo.
+
+[[v7-15-7]]
+
+^<<v7-15-7,7>>^ E Sansão lhes disse: “Já que vocês agem assim, não descansarei até me vingar de vocês.”
+
+[[v7-15-8]]
+
+^<<v7-15-8,8>>^ Então ele os golpeou um após o outro^&#42;1^ com uma grande matança. Depois disso, desceu e ficou numa caverna^&#42;2^ do rochedo de Etão.
+
+[NOTE]
+====
+. Lit.: “os golpeou perna sobre coxa”.
+. Ou: “fenda”.
+====
+
+[[v7-15-9]]
+
+^<<v7-15-9,9>>^ Mais tarde, os filisteus subiram e acamparam em Judá, e ficaram percorrendo Leí.
+
+[[v7-15-10]]
+
+^<<v7-15-10,10>>^ Então os homens de Judá perguntaram: “Por que vocês vieram contra nós?” Os filisteus responderam: “Viemos capturar^&#42;1^ Sansão, para fazer com ele o mesmo que ele fez conosco.”
+
+[NOTE]
+====
+. Ou: “amarrar”.
+====
+
+[[v7-15-11]]
+
+^<<v7-15-11,11>>^ Portanto, 3.000 homens de Judá desceram à caverna^&#42;1^ do rochedo de Etão e disseram a Sansão: “Você não sabe que os filisteus estão dominando sobre nós? Então por que você fez isso conosco?” Ele lhes disse: “Eu fiz com eles o mesmo que eles fizeram comigo.”
+
+[NOTE]
+====
+. Ou: “fenda”.
+====
+
+[[v7-15-12]]
+
+^<<v7-15-12,12>>^ Mas eles lhe disseram: “Viemos capturar^&#42;1^ você para entregá-lo aos filisteus.” Então Sansão disse: “Jurem-me que vocês não me atacarão.”
+
+[NOTE]
+====
+. Ou: “amarrar”.
+====
+
+[[v7-15-13]]
+
+^<<v7-15-13,13>>^ Eles lhe disseram: “Nós apenas o amarraremos e o entregaremos a eles, mas não o mataremos.”
+Assim, eles o amarraram com duas cordas novas e o fizeram sair do rochedo.
+
+[[v7-15-14]]
+
+^<<v7-15-14,14>>^ Quando ele chegou a Leí, os filisteus gritaram triunfantemente ao vê-lo. Então o espírito de Jeová lhe deu poder, e as cordas nos seus braços se tornaram como fios de linho chamuscados pelo fogo e caíram das suas mãos.
+
+[[v7-15-15]]
+
+^<<v7-15-15,15>>^ Ele encontrou então uma queixada de jumento ainda fresca, estendeu a mão e a pegou, e com ela matou mil homens.
+
+[[v7-15-16]]
+
+^<<v7-15-16,16>>^ Sansão disse então:
+“Com a queixada de um jumento — um montão, dois montões!
+Com a queixada de um jumento matei mil homens.”
+
+[[v7-15-17]]
+
+^<<v7-15-17,17>>^ Quando acabou de falar, jogou fora a queixada e chamou aquele lugar de Ramate-Leí.^&#42;1^
+
+[NOTE]
+====
+. Que significa “lugar elevado da queixada”.
+====
+
+[[v7-15-18]]
+
+^<<v7-15-18,18>>^ Ficou então com muita sede e clamou a Jeová, dizendo: “Foste tu quem deste esta grande salvação ao teu servo. Mas será que agora morrerei de sede e cairei nas mãos dos incircuncisos?”
+
+[[v7-15-19]]
+
+^<<v7-15-19,19>>^ Portanto, Deus abriu uma cavidade que havia em Leí, e saiu água dela. Quando Sansão bebeu, suas forças voltaram^&#42;1^ e ele se reanimou. Foi por isso que chamou o lugar de En-Hacoré,^&#42;2^ que fica em Leí até hoje.
+
+[NOTE]
+====
+. Lit.: “seu espírito voltou”.
+. Que significa “fonte daquele que invoca”.
+====
+
+[[v7-15-20]]
+
+^<<v7-15-20,20>>^ E Sansão julgou Israel nos dias dos filisteus por 20 anos.
+
+'''
+
+xref:007-juizes/007-juizes-014.adoc#v7-14-0[&#60; Capítulo Anterior] | <<v7-15-0,Topo>> | xref:007-juizes/007-juizes-016.adoc#v7-16-0[Próximo Capítulo &#62;]

@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v2-31-0]]
+=== Êxodo, 31
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v2-31-1]]
+
+^<<v2-31-1,1>>^ Jeová disse mais a Moisés:
+
+[[v2-31-2]]
+
+^<<v2-31-2,2>>^ “Veja, escolhi^&#42;1^ Bezalel, filho de Uri, filho de Hur, da tribo de Judá.
+
+[NOTE]
+====
+. Lit.: “chamei por nome a”.
+====
+
+[[v2-31-3]]
+
+^<<v2-31-3,3>>^ Eu o encherei com o espírito de Deus, dando-lhe sabedoria, entendimento e conhecimento de todo tipo de trabalho de artesão,
+
+[[v2-31-4]]
+
+^<<v2-31-4,4>>^ para elaborar projetos artísticos, para trabalhar com ouro, com prata e com cobre,
+
+[[v2-31-5]]
+
+^<<v2-31-5,5>>^ para lapidar e incrustar pedras e para fazer todo tipo de trabalho com madeira.
+
+[[v2-31-6]]
+
+^<<v2-31-6,6>>^ Além disso, para ajudá-lo, designei Ooliabe, filho de Aisamaque, da tribo de Dã. Também encherei de sabedoria o coração de todos os que são habilidosos,^&#42;1^ para que façam tudo o que ordenei a você:
+
+[NOTE]
+====
+. Lit.: “sábios de coração”.
+====
+
+[[v2-31-7]]
+
+^<<v2-31-7,7>>^ a tenda de reunião, a Arca do Testemunho e a tampa sobre ela, todo o equipamento da tenda,
+
+[[v2-31-8]]
+
+^<<v2-31-8,8>>^ a mesa com os seus utensílios, o candelabro de ouro puro com todos os seus utensílios, o altar do incenso,
+
+[[v2-31-9]]
+
+^<<v2-31-9,9>>^ o altar da oferta queimada com todos os seus utensílios, a bacia com o seu suporte,
+
+[[v2-31-10]]
+
+^<<v2-31-10,10>>^ as vestes finamente tecidas, as vestes sagradas para Arão, o sacerdote, as vestes dos filhos dele, para servirem como sacerdotes,
+
+[[v2-31-11]]
+
+^<<v2-31-11,11>>^ o óleo de unção e o incenso perfumado para o santuário. Eles farão tudo o que eu ordenei a você.”
+
+[[v2-31-12]]
+
+^<<v2-31-12,12>>^ Jeová disse mais a Moisés:
+
+[[v2-31-13]]
+
+^<<v2-31-13,13>>^ “Diga aos israelitas: ‘Vocês devem sem falta guardar os meus sábados, pois isso é um sinal entre mim e vocês por todas as suas gerações, para que saibam que eu, Jeová, os santifico.
+
+[[v2-31-14]]
+
+^<<v2-31-14,14>>^ Guardem o sábado, pois ele é sagrado para vocês. Quem o profanar será morto. Se alguém fizer algum trabalho nesse dia, essa pessoa^&#42;1^ será eliminada do meio do seu povo.^&#42;2^
+
+[NOTE]
+====
+. Ou: “alma”.
+. Isto é, será morta.
+====
+
+[[v2-31-15]]
+
+^<<v2-31-15,15>>^ Pode-se trabalhar por seis dias, mas o sétimo dia é um sábado de completo descanso. Ele é sagrado para Jeová. Quem trabalhar no dia de sábado será morto.
+
+[[v2-31-16]]
+
+^<<v2-31-16,16>>^ Os israelitas guardarão o sábado; celebrarão o sábado por todas as suas gerações. É um pacto permanente.
+
+[[v2-31-17]]
+
+^<<v2-31-17,17>>^ É um sinal duradouro entre mim e o povo de Israel, pois em seis dias Jeová fez os céus e a terra, e no sétimo dia ele descansou e se revigorou.’”
+
+[[v2-31-18]]
+
+^<<v2-31-18,18>>^ E, assim que ele acabou de falar com Moisés no monte Sinai, deu-lhe as duas tábuas do Testemunho, tábuas de pedra, escritas pelo dedo de Deus.
+
+'''
+
+xref:002-exodo/002-exodo-030.adoc#v2-30-0[&#60; Capítulo Anterior] | <<v2-31-0,Topo>> | xref:002-exodo/002-exodo-032.adoc#v2-32-0[Próximo Capítulo &#62;]

@@ -1,0 +1,108 @@
+include::./index.adoc[]
+
+[[v28-11-0]]
+=== Oseias, 11
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v28-11-1]]
+
+^<<v28-11-1,1>>^ “Quando Israel era um menino, eu o amei;
+E do Egito chamei o meu filho.
+
+[[v28-11-2]]
+
+^<<v28-11-2,2>>^ Quanto mais eles eram chamados,^&#42;1^
+Mais se afastavam de quem os chamava.
+Ofereciam sacrifícios às imagens de Baal
+E faziam ofertas às imagens esculpidas.
+
+[NOTE]
+====
+. Isto é, por profetas e outros enviados para instruir Israel.
+====
+
+[[v28-11-3]]
+
+^<<v28-11-3,3>>^ Mas fui eu que ensinei Efraim a andar, que os tomei nos braços;
+E eles não reconheceram que eu os tinha curado.
+
+[[v28-11-4]]
+
+^<<v28-11-4,4>>^ Continuei a conduzi-los com as cordas dos homens,^&#42;1^ com os cordões do amor;
+Eu era para eles como alguém que aliviava seu pescoço de um jugo,^&#42;2^
+E bondosamente dei alimento a cada um.
+
+[NOTE]
+====
+. Ou: “cordas da bondade”, como as usadas pelos pais.
+. Lit.: “como os que levantam um jugo das suas mandíbulas”.
+====
+
+[[v28-11-5]]
+
+^<<v28-11-5,5>>^ Eles não retornarão à terra do Egito, mas a Assíria será o seu rei,
+Porque se negaram a voltar para mim.
+
+[[v28-11-6]]
+
+^<<v28-11-6,6>>^ E uma espada girará contra as suas cidades,
+Destruirá as suas trancas e os devorará, por causa das suas tramas.
+
+[[v28-11-7]]
+
+^<<v28-11-7,7>>^ Meu povo está decidido a ser infiel a mim.
+Embora sejam chamados para o alto,^&#42;1^ ninguém se levanta.
+
+[NOTE]
+====
+. Isto é, para uma forma elevada de adoração.
+====
+
+[[v28-11-8]]
+
+^<<v28-11-8,8>>^ Como posso abandonar você, Efraim?
+Como posso entregar você a outros, Israel?
+Como posso tratar você como Admá?
+Como posso deixá-lo igual a Zeboim?
+Eu voltei atrás;
+Ao mesmo tempo, minhas compaixões despertaram.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “se aqueceram”.
+====
+
+[[v28-11-9]]
+
+^<<v28-11-9,9>>^ Não darei vazão à minha ira ardente.
+Não destruirei novamente a Efraim,
+Pois sou Deus, e não homem.
+Sou o Santo no meio de vocês,
+E não virei contra vocês com fúria.
+
+[[v28-11-10]]
+
+^<<v28-11-10,10>>^ Eles seguirão a Jeová, e ele rugirá como um leão;
+Quando ele rugir, seus filhos virão tremendo do oeste.
+
+[[v28-11-11]]
+
+^<<v28-11-11,11>>^ Virão tremendo como pássaros quando saírem do Egito;
+Como pombas, quando saírem da terra da Assíria.
+E eu os estabelecerei nas suas casas”, diz Jeová.
+
+[[v28-11-12]]
+
+^<<v28-11-12,12>>^ “Efraim me cercou com mentiras;
+E a casa de Israel, com falsidade.
+Mas Judá ainda anda^&#42;1^ com Deus
+E é fiel ao Santíssimo.”
+
+[NOTE]
+====
+. Ou: “peregrina”.
+====
+
+'''
+
+xref:028-oseias/028-oseias-010.adoc#v28-10-0[&#60; Capítulo Anterior] | <<v28-11-0,Topo>> | xref:028-oseias/028-oseias-012.adoc#v28-12-0[Próximo Capítulo &#62;]

@@ -1,3 +1,173 @@
-= Título da Tradução Aqui
+include::./index.adoc[]
 
-Este é um arquivo modelo. Coloque o conteúdo da tradução da Bíblia desejada na pasta acima deste arquivo.
+[[v1-1-0]]
+=== Gênesis, 1
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v1-1-1]]
+
+^<<v1-1-1,1>>^ No princípio Deus criou os céus e a terra.
+
+[[v1-1-2]]
+
+^<<v1-1-2,2>>^ A terra era vazia^&#42;1^ e deserta,^&#42;2^ e havia escuridão sobre as águas profundas;^&#42;3^ e a força ativa^&#42;4^ de Deus movia-se sobre as águas.
+
+[NOTE]
+====
+. Ou: “sem forma”.
+. Ou: “e estava desocupada”.
+. Ou: “águas agitadas”.
+. Ou: “o espírito”.
+====
+
+[[v1-1-3]]
+
+^<<v1-1-3,3>>^ E Deus disse: “Que haja luz.” Então houve luz.
+
+[[v1-1-4]]
+
+^<<v1-1-4,4>>^ Depois disso Deus viu que a luz era boa, e Deus começou a separar a luz da escuridão.
+
+[[v1-1-5]]
+
+^<<v1-1-5,5>>^ Deus chamou a luz de “dia”, mas a escuridão chamou de “noite”. Houve noite e houve manhã, primeiro dia.
+
+[[v1-1-6]]
+
+^<<v1-1-6,6>>^ Então Deus disse: “Que haja uma vastidão^&#42;1^ entre as águas, e haja uma divisão entre águas e águas.”
+
+[NOTE]
+====
+. Ou: “expansão”.
+====
+
+[[v1-1-7]]
+
+^<<v1-1-7,7>>^ Então Deus fez a vastidão e separou as águas abaixo da vastidão e as águas acima da vastidão. E assim se deu.
+
+[[v1-1-8]]
+
+^<<v1-1-8,8>>^ Deus chamou a vastidão de “céu”. Houve noite e houve manhã, segundo dia.
+
+[[v1-1-9]]
+
+^<<v1-1-9,9>>^ Então Deus disse: “Que as águas abaixo dos céus se ajuntem num só lugar, e apareça a terra seca.” E assim se deu.
+
+[[v1-1-10]]
+
+^<<v1-1-10,10>>^ Deus chamou a terra seca de “terra”, mas ao ajuntamento de águas ele chamou de “mares”. E Deus viu que era bom.
+
+[[v1-1-11]]
+
+^<<v1-1-11,11>>^ Então Deus disse: “Que a terra faça brotar relva, plantas que deem semente e árvores frutíferas segundo as suas espécies, que deem frutos com sementes.” E assim se deu.
+
+[[v1-1-12]]
+
+^<<v1-1-12,12>>^ A terra começou a produzir relva, plantas que davam semente e árvores que davam frutos com sementes, segundo as suas espécies. Deus viu então que era bom.
+
+[[v1-1-13]]
+
+^<<v1-1-13,13>>^ Houve noite e houve manhã, terceiro dia.
+
+[[v1-1-14]]
+
+^<<v1-1-14,14>>^ Então Deus disse: “Que haja luzeiros^&#42;1^ na vastidão dos céus para fazerem separação entre o dia e a noite, e eles servirão de sinais para marcar épocas, dias e anos.
+
+[NOTE]
+====
+. Ou: “luzes”.
+====
+
+[[v1-1-15]]
+
+^<<v1-1-15,15>>^ Eles servirão de luzeiros na vastidão dos céus, para iluminar a terra.” E assim se deu.
+
+[[v1-1-16]]
+
+^<<v1-1-16,16>>^ E Deus fez os dois grandes luzeiros, o luzeiro maior para dominar o dia e o luzeiro menor para dominar a noite, e também as estrelas.
+
+[[v1-1-17]]
+
+^<<v1-1-17,17>>^ Assim, Deus os pôs na vastidão dos céus para iluminarem a terra,
+
+[[v1-1-18]]
+
+^<<v1-1-18,18>>^ para dominarem de dia e de noite e para fazerem separação entre a luz e a escuridão. Deus viu então que era bom.
+
+[[v1-1-19]]
+
+^<<v1-1-19,19>>^ Houve noite e houve manhã, quarto dia.
+
+[[v1-1-20]]
+
+^<<v1-1-20,20>>^ Então Deus disse: “Que as águas fervilhem de criaturas^&#42;1^ viventes, e voem criaturas voadoras por cima da terra, pela vastidão dos céus.”
+
+[NOTE]
+====
+. Ou: “almas”.
+====
+
+[[v1-1-21]]
+
+^<<v1-1-21,21>>^ E Deus criou os grandes animais^&#42;1^ marinhos e todas as criaturas^&#42;2^ viventes que se movem e fervilham nas águas, segundo as suas espécies, e todas as criaturas aladas, voadoras, segundo as suas espécies. E Deus viu que era bom.
+
+[NOTE]
+====
+. Ou: “os grandes monstros”.
+. Ou: “almas”.
+====
+
+[[v1-1-22]]
+
+^<<v1-1-22,22>>^ Com isso, Deus os abençoou, dizendo: “Reproduzam-se e tornem-se muitos, encham as águas do mar, e tornem-se muitas as criaturas voadoras na terra.”
+
+[[v1-1-23]]
+
+^<<v1-1-23,23>>^ Houve noite e houve manhã, quinto dia.
+
+[[v1-1-24]]
+
+^<<v1-1-24,24>>^ Então Deus disse: “Que a terra produza criaturas^&#42;1^ viventes segundo as suas espécies: animais domésticos, animais rasteiros^&#42;2^ e animais selvagens da terra, segundo as suas espécies.” E assim se deu.
+
+[NOTE]
+====
+. Ou: “almas”.
+. Ou: “animais moventes”, que aparentemente incluem répteis e formas de vida animal diferentes das outras categorias mencionadas.
+====
+
+[[v1-1-25]]
+
+^<<v1-1-25,25>>^ Deus fez os animais selvagens da terra segundo as suas espécies, os animais domésticos segundo as suas espécies e todos os animais rasteiros segundo as suas espécies. E Deus viu que era bom.
+
+[[v1-1-26]]
+
+^<<v1-1-26,26>>^ Então Deus disse: “Façamos o homem à nossa imagem, segundo a nossa semelhança, e que eles tenham domínio sobre os peixes do mar, sobre as criaturas voadoras dos céus, sobre os animais domésticos, sobre toda a terra e sobre todo animal rasteiro que se move sobre a terra.”
+
+[[v1-1-27]]
+
+^<<v1-1-27,27>>^ E Deus criou o homem à sua imagem, à imagem de Deus o criou; homem e mulher os criou.
+
+[[v1-1-28]]
+
+^<<v1-1-28,28>>^ Além disso, Deus os abençoou e Deus lhes disse: “Tenham filhos e tornem-se muitos; encham e dominem a terra; tenham domínio sobre os peixes do mar, sobre as criaturas voadoras dos céus e sobre toda criatura vivente que se move sobre a terra.”
+
+[[v1-1-29]]
+
+^<<v1-1-29,29>>^ Então Deus disse: “Eu lhes dou toda planta que dá semente, que há sobre toda a terra, e toda árvore que tenha frutos com sementes. Elas servirão de alimento para vocês.
+
+[[v1-1-30]]
+
+^<<v1-1-30,30>>^ E dou toda a vegetação verde como alimento a todo animal selvagem da terra, a toda criatura voadora dos céus e a tudo o que se move sobre a terra e em que há vida.”^&#42;1^ E assim se deu.
+
+[NOTE]
+====
+. Ou: “há vida como alma; há uma alma vivente”.
+====
+
+[[v1-1-31]]
+
+^<<v1-1-31,31>>^ Depois Deus viu tudo o que tinha feito, e tudo era muito bom. Houve noite e houve manhã, sexto dia.
+
+'''
+
+**&#60; Capítulo Anterior** | <<v1-1-0,Topo>> | xref:001-genesis/001-genesis-002.adoc#v1-2-0[Próximo Capítulo &#62;]

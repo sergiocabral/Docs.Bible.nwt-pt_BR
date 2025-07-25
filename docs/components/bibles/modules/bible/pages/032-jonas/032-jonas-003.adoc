@@ -1,0 +1,65 @@
+include::./index.adoc[]
+
+[[v32-3-0]]
+=== Jonas, 3
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v32-3-1]]
+
+^<<v32-3-1,1>>^ Então Jonas recebeu pela segunda vez a palavra de Jeová:
+
+[[v32-3-2]]
+
+^<<v32-3-2,2>>^ “Vá agora a Nínive, a grande cidade, e transmita-lhe a mensagem que eu lhe disser.”
+
+[[v32-3-3]]
+
+^<<v32-3-3,3>>^ Assim, Jonas foi imediatamente a Nínive, em obediência à palavra de Jeová. Nínive era uma cidade muito grande^&#42;1^ — levava-se três dias para percorrê-la.
+
+[NOTE]
+====
+. Lit.: “uma cidade grande para Deus”.
+====
+
+[[v32-3-4]]
+
+^<<v32-3-4,4>>^ Então Jonas entrou na cidade e percorreu a distância de um dia, proclamando: “Em apenas mais 40 dias, Nínive será destruída.”
+
+[[v32-3-5]]
+
+^<<v32-3-5,5>>^ E os homens de Nínive, desde o maior até o menor deles, depositaram fé em Deus; eles proclamaram um jejum e se vestiram com pano de saco.
+
+[[v32-3-6]]
+
+^<<v32-3-6,6>>^ Quando a mensagem chegou ao rei de Nínive, ele se levantou do trono, tirou seu manto real, cobriu-se com pano de saco e sentou-se nas cinzas.
+
+[[v32-3-7]]
+
+^<<v32-3-7,7>>^ Além disso, fez uma proclamação em toda a Nínive:
+“Por decreto do rei e dos seus nobres: Nenhum homem nem animal, bois ou ovelhas, deve comer coisa alguma. Não devem comer, nem beber água.
+
+[[v32-3-8]]
+
+^<<v32-3-8,8>>^ Que sejam cobertos com pano de saco, tanto homem como animal; que clamem a Deus fervorosamente, e que abandonem seus maus caminhos e a violência que praticam.
+
+[[v32-3-9]]
+
+^<<v32-3-9,9>>^ Quem sabe se o verdadeiro Deus não reconsiderará^&#42;1^ o que pretende fazer e abandonará sua ira ardente, para que não morramos?”
+
+[NOTE]
+====
+. Ou: “lamentará”.
+====
+
+[[v32-3-10]]
+
+^<<v32-3-10,10>>^ Quando o verdadeiro Deus viu o que eles fizeram, que tinham recuado dos seus maus caminhos, reconsiderou^&#42;1^ a calamidade que tinha dito que traria sobre eles, e não a trouxe.
+
+[NOTE]
+====
+. Ou: “lamentou”.
+====
+
+'''
+
+xref:032-jonas/032-jonas-002.adoc#v32-2-0[&#60; Capítulo Anterior] | <<v32-3-0,Topo>> | xref:032-jonas/032-jonas-004.adoc#v32-4-0[Próximo Capítulo &#62;]

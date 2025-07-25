@@ -1,0 +1,160 @@
+include::./index.adoc[]
+
+[[v57-1-0]]
+=== Filêmon, 1
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v57-1-1]]
+
+^<<v57-1-1,1>>^ Paulo, prisioneiro por causa de Cristo Jesus, e Timóteo, nosso irmão, a Filêmon, nosso amado colaborador,
+
+[[v57-1-2]]
+
+^<<v57-1-2,2>>^ a Áfia, nossa irmã, a Arquipo, nosso companheiro de batalha, e à congregação que se reúne com você na sua casa:
+
+[[v57-1-3]]
+
+^<<v57-1-3,3>>^ Que vocês tenham bondade imerecida e paz da parte de Deus, nosso Pai, e do Senhor Jesus Cristo.
+
+[[v57-1-4]]
+
+^<<v57-1-4,4>>^ Sempre agradeço a meu Deus quando menciono você nas minhas orações,
+
+[[v57-1-5]]
+
+^<<v57-1-5,5>>^ pois continuo a ouvir falar da sua fé e do amor que você tem pelo^&#42;1^ Senhor Jesus e por^&#42;2^ todos os santos.
+
+[NOTE]
+====
+. Ou: “para com o”.
+. Ou: “para com”.
+====
+
+[[v57-1-6]]
+
+^<<v57-1-6,6>>^ Oro para que a fé que temos em comum^&#42;1^ o leve a reconhecer todas as coisas boas que temos por meio de Cristo.
+
+[NOTE]
+====
+. Ou: “a sua participação na fé”.
+====
+
+[[v57-1-7]]
+
+^<<v57-1-7,7>>^ Pois tive muita alegria e consolo ao ouvir falar do seu amor, visto que você, irmão, reanimou o coração^&#42;1^ dos santos.
+
+[NOTE]
+====
+. Ou: “as ternas afeições”.
+====
+
+[[v57-1-8]]
+
+^<<v57-1-8,8>>^ Por essa razão, embora eu tenha, em Cristo, toda liberdade para mandá-lo fazer o que é correto,
+
+[[v57-1-9]]
+
+^<<v57-1-9,9>>^ prefiro lhe fazer um apelo à base do amor, visto que eu sou Paulo, um homem idoso, e agora também prisioneiro por causa de Cristo Jesus.
+
+[[v57-1-10]]
+
+^<<v57-1-10,10>>^ Eu lhe faço um apelo a favor do meu filho, Onésimo, para quem me tornei pai enquanto na prisão.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “nas correntes”.
+====
+
+[[v57-1-11]]
+
+^<<v57-1-11,11>>^ Antes ele era inútil para você, mas agora é útil para você e para mim.
+
+[[v57-1-12]]
+
+^<<v57-1-12,12>>^ Eu o envio de volta para você, sim, ele, o meu próprio coração.^&#42;1^
+
+[NOTE]
+====
+. Ou: “as minhas ternas afeições”.
+====
+
+[[v57-1-13]]
+
+^<<v57-1-13,13>>^ Eu gostaria de mantê-lo aqui comigo para que ele servisse a mim em seu lugar enquanto estou preso por causa das boas novas.
+
+[[v57-1-14]]
+
+^<<v57-1-14,14>>^ Mas não quero fazer nada sem o seu consentimento, para que a sua boa ação não seja feita por obrigação, mas sim de livre e espontânea vontade.
+
+[[v57-1-15]]
+
+^<<v57-1-15,15>>^ Talvez tenha sido realmente por isso que ele se afastou por um momento,^&#42;1^ para que você o tivesse de volta para sempre,
+
+[NOTE]
+====
+. Lit.: “uma hora”.
+====
+
+[[v57-1-16]]
+
+^<<v57-1-16,16>>^ não mais como escravo, mas como mais do que escravo, como irmão amado; isso especialmente para mim, no entanto mais ainda para você, tanto na relação humana^&#42;1^ como no Senhor.
+
+[NOTE]
+====
+. Lit.: “em carne”.
+====
+
+[[v57-1-17]]
+
+^<<v57-1-17,17>>^ Portanto, se você me considera um amigo,^&#42;1^ receba-o bondosamente como faria comigo.
+
+[NOTE]
+====
+. Lit.: “parceiro”.
+====
+
+[[v57-1-18]]
+
+^<<v57-1-18,18>>^ Além disso, se ele o prejudicou em algo ou lhe deve alguma coisa, ponha isso na minha conta.
+
+[[v57-1-19]]
+
+^<<v57-1-19,19>>^ Eu, Paulo, escrevo isso com a minha própria mão: eu pagarei — e não preciso dizer que você me deve até mesmo a sua vida.
+
+[[v57-1-20]]
+
+^<<v57-1-20,20>>^ Sim, irmão, que eu receba esta ajuda da sua parte, em união com o Senhor; reanime o meu coração^&#42;1^ em união com Cristo.
+
+[NOTE]
+====
+. Ou: “as minhas ternas afeições”.
+====
+
+[[v57-1-21]]
+
+^<<v57-1-21,21>>^ Estou confiante em que você atenderá ao meu pedido; por isso estou escrevendo, pois sei que fará ainda mais do que as coisas que digo.
+
+[[v57-1-22]]
+
+^<<v57-1-22,22>>^ Mas, além disso, apronte também um lugar para eu ficar hospedado, pois tenho esperança de que, por meio das orações de vocês, eu lhes serei restituído.^&#42;1^
+
+[NOTE]
+====
+. Ou: “eu serei libertado para vocês”.
+====
+
+[[v57-1-23]]
+
+^<<v57-1-23,23>>^ Epafras, meu companheiro de prisão em união com Cristo Jesus, manda-lhe saudações,
+
+[[v57-1-24]]
+
+^<<v57-1-24,24>>^ e também Marcos, Aristarco, Demas e Lucas, meus colaboradores.
+
+[[v57-1-25]]
+
+^<<v57-1-25,25>>^ Que a bondade imerecida do Senhor Jesus Cristo esteja com o espírito que vocês mostram.
+
+'''
+
+xref:056-tito/056-tito-003.adoc#v56-3-0[&#60; Capítulo Anterior] | <<v57-1-0,Topo>> | xref:058-hebreus/058-hebreus-001.adoc#v58-1-0[Próximo Capítulo &#62;]

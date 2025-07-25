@@ -1,0 +1,271 @@
+include::./index.adoc[]
+
+[[v4-3-0]]
+=== Números, 3
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v4-3-1]]
+
+^<<v4-3-1,1>>^ Estas eram as linhagens^&#42;1^ de Arão e de Moisés no dia em que Jeová falou com Moisés no monte Sinai.
+
+[NOTE]
+====
+. Lit.: “as gerações”.
+====
+
+[[v4-3-2]]
+
+^<<v4-3-2,2>>^ Estes eram os nomes dos filhos de Arão: Nadabe, o primogênito, Abiú, Eleazar e Itamar.
+
+[[v4-3-3]]
+
+^<<v4-3-3,3>>^ Esses eram os nomes dos filhos de Arão, os sacerdotes ungidos que tinham sido ordenados^&#42;1^ para servir como sacerdotes.
+
+[NOTE]
+====
+. Lit.: “cujas mãos tinham sido enchidas”.
+====
+
+[[v4-3-4]]
+
+^<<v4-3-4,4>>^ No entanto, Nadabe e Abiú morreram diante de Jeová quando ofereceram fogo ilícito perante Jeová no deserto do Sinai, e eles não tiveram filhos. Mas Eleazar e Itamar continuaram a servir como sacerdotes junto com Arão, seu pai.
+
+[[v4-3-5]]
+
+^<<v4-3-5,5>>^ Então Jeová disse a Moisés:
+
+[[v4-3-6]]
+
+^<<v4-3-6,6>>^ “Faça a tribo de Levi se aproximar e ficar diante de Arão, o sacerdote, e eles o servirão.^&#42;1^
+
+[NOTE]
+====
+. Ou: “lhe ministrarão”.
+====
+
+[[v4-3-7]]
+
+^<<v4-3-7,7>>^ Eles cumprirão suas responsabilidades para com ele e para com toda a assembleia diante da tenda de reunião ao realizarem o serviço relacionado com o tabernáculo.
+
+[[v4-3-8]]
+
+^<<v4-3-8,8>>^ Eles cuidarão de todo o equipamento da tenda de reunião e cumprirão suas responsabilidades para com os israelitas, por cuidar dos serviços relacionados com o tabernáculo.
+
+[[v4-3-9]]
+
+^<<v4-3-9,9>>^ Você deve dar os levitas a Arão e a seus filhos. Eles são dados a ele como dádivas dentre os israelitas.
+
+[[v4-3-10]]
+
+^<<v4-3-10,10>>^ Você deve designar Arão e seus filhos, e eles cuidarão dos seus deveres sacerdotais; qualquer pessoa não autorizada^&#42;1^ que se aproximar deve ser morta.”
+
+[NOTE]
+====
+. Lit.: “qualquer estranho”, isto é, um homem que não era da família de Arão.
+====
+
+[[v4-3-11]]
+
+^<<v4-3-11,11>>^ Jeová também disse a Moisés:
+
+[[v4-3-12]]
+
+^<<v4-3-12,12>>^ “Veja, estou pegando os levitas dentre os israelitas em lugar de todos os primogênitos^&#42;1^ dos israelitas, e os levitas se tornarão meus,
+
+[NOTE]
+====
+. Lit.: “de todo primogênito que abre o ventre”.
+====
+
+[[v4-3-13]]
+
+^<<v4-3-13,13>>^ pois todo primogênito é meu. No dia em que matei todo primogênito na terra do Egito, santifiquei para mim todo primogênito em Israel, desde homens até animais. Eles devem se tornar meus. Eu sou Jeová.”
+
+[[v4-3-14]]
+
+^<<v4-3-14,14>>^ Jeová disse mais a Moisés no deserto do Sinai:
+
+[[v4-3-15]]
+
+^<<v4-3-15,15>>^ “Registre os filhos de Levi segundo as suas casas paternas e segundo as suas famílias. Você deve registrar todos os do sexo masculino de um mês de idade para cima.”
+
+[[v4-3-16]]
+
+^<<v4-3-16,16>>^ Então Moisés os registrou segundo a ordem de Jeová, assim como lhe havia sido ordenado.
+
+[[v4-3-17]]
+
+^<<v4-3-17,17>>^ Estes eram os nomes dos filhos de Levi: Gérson, Coate e Merari.
+
+[[v4-3-18]]
+
+^<<v4-3-18,18>>^ Os filhos de Gérson, que deram nome às famílias que descenderam deles, eram Libni e Simei.
+
+[[v4-3-19]]
+
+^<<v4-3-19,19>>^ Os filhos de Coate, que deram nome às famílias que descenderam deles, eram Anrão, Izar, Hebrom e Uziel.
+
+[[v4-3-20]]
+
+^<<v4-3-20,20>>^ E os filhos de Merari, que deram nome às famílias que descenderam deles, eram Mali e Musi.
+Essas eram as famílias dos levitas segundo as suas casas paternas.
+
+[[v4-3-21]]
+
+^<<v4-3-21,21>>^ De Gérson vinham a família dos libnitas e a família dos simeítas. Essas eram as famílias dos gersonitas.
+
+[[v4-3-22]]
+
+^<<v4-3-22,22>>^ O número de todos os do sexo masculino de um mês de idade para cima que foram registrados foi de 7.500.
+
+[[v4-3-23]]
+
+^<<v4-3-23,23>>^ As famílias dos gersonitas acampavam atrás do tabernáculo, ao oeste.
+
+[[v4-3-24]]
+
+^<<v4-3-24,24>>^ O maioral da casa paterna dos gersonitas era Eliasafe, filho de Lael.
+
+[[v4-3-25]]
+
+^<<v4-3-25,25>>^ A responsabilidade dos filhos de Gérson na tenda de reunião era cuidar do tabernáculo e da tenda, da sua cobertura, da cortina^&#42;1^ da entrada da tenda de reunião,
+
+[NOTE]
+====
+. Ou: “do reposteiro”.
+====
+
+[[v4-3-26]]
+
+^<<v4-3-26,26>>^ dos cortinados do pátio, da cortina^&#42;1^ da entrada do pátio que cerca o tabernáculo e o altar, das suas cordas de tenda e de todo o serviço relacionado com essas coisas.
+
+[NOTE]
+====
+. Ou: “do reposteiro”.
+====
+
+[[v4-3-27]]
+
+^<<v4-3-27,27>>^ De Coate vinham a família dos anramitas, a família dos izaritas, a família dos hebronitas e a família dos uzielitas. Essas eram as famílias dos coatitas.
+
+[[v4-3-28]]
+
+^<<v4-3-28,28>>^ O número de todos os do sexo masculino de um mês de idade para cima foi de 8.600; eles eram responsáveis de cuidar do lugar santo.
+
+[[v4-3-29]]
+
+^<<v4-3-29,29>>^ As famílias dos filhos de Coate acampavam ao sul do tabernáculo.
+
+[[v4-3-30]]
+
+^<<v4-3-30,30>>^ O maioral da casa paterna das famílias dos coatitas era Elizafã, filho de Uziel.
+
+[[v4-3-31]]
+
+^<<v4-3-31,31>>^ A responsabilidade deles era cuidar da Arca, da mesa, do candelabro, dos altares, dos utensílios usados para realizar o serviço no lugar santo, da cortina^&#42;1^ e de todo o serviço relacionado com essas coisas.
+
+[NOTE]
+====
+. Ou: “do reposteiro”.
+====
+
+[[v4-3-32]]
+
+^<<v4-3-32,32>>^ O maioral-chefe dos levitas era Eleazar, filho de Arão, o sacerdote. Ele supervisionava os que cuidavam das responsabilidades para com o lugar santo.
+
+[[v4-3-33]]
+
+^<<v4-3-33,33>>^ De Merari vinham a família dos malitas e a família dos musitas. Essas eram as famílias de Merari.
+
+[[v4-3-34]]
+
+^<<v4-3-34,34>>^ O número de todos os do sexo masculino de um mês de idade para cima que foram registrados foi de 6.200.
+
+[[v4-3-35]]
+
+^<<v4-3-35,35>>^ O maioral da casa paterna das famílias de Merari era Zuriel, filho de Abiail. Eles ficavam acampados ao norte do tabernáculo.
+
+[[v4-3-36]]
+
+^<<v4-3-36,36>>^ Os filhos de Merari tinham a responsabilidade de supervisionar as armações do tabernáculo, suas travessas, suas colunas, suas bases com encaixe, todos os seus utensílios e todo o serviço relacionado com essas coisas,
+
+[[v4-3-37]]
+
+^<<v4-3-37,37>>^ também as colunas que cercavam o pátio e suas bases com encaixe, suas estacas e suas cordas de fixação.
+
+[[v4-3-38]]
+
+^<<v4-3-38,38>>^ Os que acampavam na frente do tabernáculo, ao leste, isto é, diante da tenda de reunião, no lado do nascente, eram Moisés, Arão e os filhos dele. Eles eram responsáveis de cuidar do santuário, como sua obrigação em favor dos israelitas. Qualquer pessoa não autorizada^&#42;1^ que se aproximasse era morta.
+
+[NOTE]
+====
+. Lit.: “Qualquer estranho”, isto é, um não levita.
+====
+
+[[v4-3-39]]
+
+^<<v4-3-39,39>>^ Todos os levitas do sexo masculino de um mês de idade para cima que Moisés e Arão registraram segundo as suas famílias, conforme a ordem de Jeová, foram 22.000.
+
+[[v4-3-40]]
+
+^<<v4-3-40,40>>^ Jeová disse então a Moisés: “Registre todos os primogênitos dos israelitas de um mês de idade para cima, conte-os e faça uma lista dos seus nomes.
+
+[[v4-3-41]]
+
+^<<v4-3-41,41>>^ Pegue os levitas para mim em lugar de todos os primogênitos dos israelitas. E pegue os animais domésticos dos levitas em lugar de todos os primogênitos dos animais domésticos dos israelitas. Eu sou Jeová.”
+
+[[v4-3-42]]
+
+^<<v4-3-42,42>>^ Então Moisés registrou todos os primogênitos dos israelitas, assim como Jeová lhe havia ordenado.
+
+[[v4-3-43]]
+
+^<<v4-3-43,43>>^ O número de todos os primogênitos do sexo masculino de um mês de idade para cima que foram registrados por nome foi de 22.273.
+
+[[v4-3-44]]
+
+^<<v4-3-44,44>>^ Jeová também disse a Moisés:
+
+[[v4-3-45]]
+
+^<<v4-3-45,45>>^ “Pegue os levitas em lugar de todos os primogênitos dos israelitas, e pegue os animais domésticos dos levitas em lugar dos animais domésticos deles. E os levitas se tornarão meus. Eu sou Jeová.
+
+[[v4-3-46]]
+
+^<<v4-3-46,46>>^ Como resgate pelos 273 primogênitos dos israelitas que excedem o número dos levitas,
+
+[[v4-3-47]]
+
+^<<v4-3-47,47>>^ você deve recolher 5 siclos^&#42;1^ por pessoa, segundo o siclo-padrão do lugar santo.^&#42;2^ Um siclo são 20 geras.^&#42;3^
+
+[NOTE]
+====
+. Um siclo equivalia a 11,4 g. Veja Ap. B14.
+. Ou: “segundo o siclo sagrado”.
+. Um gera equivalia a 0,57 g. Veja Ap. B14.
+====
+
+[[v4-3-48]]
+
+^<<v4-3-48,48>>^ Você deve dar o dinheiro a Arão e a seus filhos como resgate pelo número dos que excedem os levitas.”
+
+[[v4-3-49]]
+
+^<<v4-3-49,49>>^ Assim, Moisés recolheu o dinheiro do resgate por aqueles que excederam o número dos levitas.
+
+[[v4-3-50]]
+
+^<<v4-3-50,50>>^ Ele recolheu o dinheiro dos primogênitos dos israelitas: 1.365 siclos, segundo o siclo-padrão do lugar santo.
+
+[[v4-3-51]]
+
+^<<v4-3-51,51>>^ Moisés deu então a Arão e a seus filhos o dinheiro do resgate, de acordo com a palavra^&#42;1^ de Jeová, assim como Jeová havia ordenado a Moisés.
+
+[NOTE]
+====
+. Lit.: “boca”.
+====
+
+'''
+
+xref:004-numeros/004-numeros-002.adoc#v4-2-0[&#60; Capítulo Anterior] | <<v4-3-0,Topo>> | xref:004-numeros/004-numeros-004.adoc#v4-4-0[Próximo Capítulo &#62;]

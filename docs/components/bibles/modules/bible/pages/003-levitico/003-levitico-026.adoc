@@ -1,0 +1,262 @@
+include::./index.adoc[]
+
+[[v3-26-0]]
+=== Levítico, 26
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v3-26-1]]
+
+^<<v3-26-1,1>>^ “‘Não façam para vocês deuses que nada valem, nem imagem esculpida, nem coluna sagrada; e não ponham na sua terra nenhuma pedra esculpida para se curvarem diante dela, pois eu sou Jeová, seu Deus.
+
+[[v3-26-2]]
+
+^<<v3-26-2,2>>^ Vocês devem guardar os meus sábados e ter reverência^&#42;1^ pelo meu santuário. Eu sou Jeová.
+
+[NOTE]
+====
+. Ou: “admiração”. Lit.: “temor”.
+====
+
+[[v3-26-3]]
+
+^<<v3-26-3,3>>^ “‘Se continuarem a andar nos meus decretos e a guardar os meus mandamentos, e se os cumprirem,
+
+[[v3-26-4]]
+
+^<<v3-26-4,4>>^ eu lhes darei chuvas no tempo devido; a terra dará a sua produção e as árvores do campo darão os seus frutos.
+
+[[v3-26-5]]
+
+^<<v3-26-5,5>>^ A debulha se estenderá até a colheita das uvas, e a colheita das uvas se estenderá até a semeadura; e vocês comerão o seu pão à vontade e morarão em segurança na sua terra.
+
+[[v3-26-6]]
+
+^<<v3-26-6,6>>^ Vou estabelecer a paz na terra, e vocês se deitarão sem que ninguém os faça ter medo; e livrarei a terra dos animais selvagens, e a espada da guerra não passará pela sua terra.
+
+[[v3-26-7]]
+
+^<<v3-26-7,7>>^ Vocês certamente perseguirão os seus inimigos, e eles cairão diante de vocês pela espada.
+
+[[v3-26-8]]
+
+^<<v3-26-8,8>>^ Cinco de vocês perseguirão cem deles, e cem de vocês perseguirão dez mil, e seus inimigos cairão diante de vocês pela espada.
+
+[[v3-26-9]]
+
+^<<v3-26-9,9>>^ “‘Eu mostrarei favor a^&#42;1^ vocês, os farei numerosos e os multiplicarei, e guardarei o meu pacto com vocês.
+
+[NOTE]
+====
+. Lit.: “me voltarei para”.
+====
+
+[[v3-26-10]]
+
+^<<v3-26-10,10>>^ Enquanto ainda estiverem comendo da colheita do ano anterior, vocês terão de se livrar dela para dar lugar à nova.
+
+[[v3-26-11]]
+
+^<<v3-26-11,11>>^ E porei meu tabernáculo entre vocês, e eu não os rejeitarei.^&#42;1^
+
+[NOTE]
+====
+. Ou: “minha alma não os rejeitará”.
+====
+
+[[v3-26-12]]
+
+^<<v3-26-12,12>>^ Andarei entre vocês e serei o seu Deus, e vocês serão o meu povo.
+
+[[v3-26-13]]
+
+^<<v3-26-13,13>>^ Eu sou Jeová, seu Deus, que os tirou da terra do Egito para que não fossem mais escravos deles. E quebrei o seu jugo e os fiz andar de cabeça erguida.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “andar eretos”.
+====
+
+[[v3-26-14]]
+
+^<<v3-26-14,14>>^ “‘No entanto, se vocês não me escutarem, nem cumprirem todos esses mandamentos,
+
+[[v3-26-15]]
+
+^<<v3-26-15,15>>^ e se rejeitarem os meus decretos, e se vocês^&#42;1^ abominarem as minhas decisões judiciais de modo a não cumprir todos os meus mandamentos, e violarem meu pacto,
+
+[NOTE]
+====
+. Ou: “suas almas”.
+====
+
+[[v3-26-16]]
+
+^<<v3-26-16,16>>^ eu lhes farei o seguinte: como punição, trarei sobre vocês aflição, tuberculose e febre ardente, fazendo os seus olhos falhar e a sua vida^&#42;1^ definhar. Vocês semearão a sua semente simplesmente em vão, pois os seus inimigos a comerão.
+
+[NOTE]
+====
+. Ou: “alma”.
+====
+
+[[v3-26-17]]
+
+^<<v3-26-17,17>>^ Eu me voltarei^&#42;1^ contra vocês, e vocês serão derrotados pelos seus inimigos; os que os odeiam os oprimirão, e vocês fugirão mesmo quando ninguém os estiver perseguindo.
+
+[NOTE]
+====
+. Lit.: “porei minha face”.
+====
+
+[[v3-26-18]]
+
+^<<v3-26-18,18>>^ “‘Se ainda assim vocês não me escutarem, terei de castigá-los sete vezes mais pelos seus pecados.
+
+[[v3-26-19]]
+
+^<<v3-26-19,19>>^ Quebrarei o seu orgulho obstinado e farei com que os seus céus sejam como ferro, e a sua terra como cobre.
+
+[[v3-26-20]]
+
+^<<v3-26-20,20>>^ Vocês gastarão as suas forças em vão, visto que a sua terra não dará produção, e as árvores da terra não produzirão frutos.
+
+[[v3-26-21]]
+
+^<<v3-26-21,21>>^ “‘Mas, se persistirem em andar em oposição a mim e em se recusar a me escutar, terei de golpeá-los sete vezes mais, segundo os seus pecados.
+
+[[v3-26-22]]
+
+^<<v3-26-22,22>>^ Vou enviar contra vocês os animais selvagens, e eles os deixarão sem filhos, acabarão com os seus animais domésticos e reduzirão a população de vocês, e suas estradas ficarão desertas.
+
+[[v3-26-23]]
+
+^<<v3-26-23,23>>^ “‘Se apesar dessas coisas vocês não aceitarem a minha correção e insistirem em andar em oposição a mim,
+
+[[v3-26-24]]
+
+^<<v3-26-24,24>>^ então eu também andarei em oposição a vocês; e eu mesmo os golpearei sete vezes pelos seus pecados.
+
+[[v3-26-25]]
+
+^<<v3-26-25,25>>^ Trarei sobre vocês uma espada que fará vingança por terem violado o pacto. Se vocês se refugiarem nas suas cidades, enviarei doenças entre vocês, e vocês serão entregues nas mãos de um inimigo.
+
+[[v3-26-26]]
+
+^<<v3-26-26,26>>^ Quando eu destruir o seu suprimento^&#42;1^ de pão,^&#42;2^ dez mulheres assarão o pão de vocês num único forno e racionarão o pão por peso; e vocês comerão, mas não ficarão satisfeitos.
+
+[NOTE]
+====
+. Lit.: “bastão”. Possivelmente se refere aos bastões em que se penduravam pães em forma de anel.
+. Ou: “alimento”.
+====
+
+[[v3-26-27]]
+
+^<<v3-26-27,27>>^ “‘Se apesar disso vocês não me escutarem e insistirem em andar em oposição a mim,
+
+[[v3-26-28]]
+
+^<<v3-26-28,28>>^ intensificarei a minha oposição a vocês, e eu mesmo terei de castigá-los sete vezes pelos seus pecados.
+
+[[v3-26-29]]
+
+^<<v3-26-29,29>>^ Então vocês terão de comer a carne dos seus filhos e comerão a carne das suas filhas.
+
+[[v3-26-30]]
+
+^<<v3-26-30,30>>^ Destruirei os seus altos sagrados, derrubarei os seus altares de incenso e empilharei os seus cadáveres sobre os cadáveres dos seus ídolos repugnantes;^&#42;1^ e eu terei^&#42;2^ aversão de vocês e os abandonarei.
+
+[NOTE]
+====
+. O termo hebraico talvez esteja relacionado a uma palavra para “esterco” e é usado como expressão de desprezo.
+. Ou: “minha alma terá”.
+====
+
+[[v3-26-31]]
+
+^<<v3-26-31,31>>^ Entregarei as suas cidades à espada e desolarei os seus santuários, e não sentirei o aroma agradável^&#42;1^ dos seus sacrifícios.
+
+[NOTE]
+====
+. Ou: “apaziguador; calmante”. Lit.: “repousante”.
+====
+
+[[v3-26-32]]
+
+^<<v3-26-32,32>>^ Eu mesmo vou desolar a terra, e os seus inimigos que moram nela olharão espantados.
+
+[[v3-26-33]]
+
+^<<v3-26-33,33>>^ Espalharei vocês entre as nações e vou desembainhar a espada atrás de vocês; a sua terra ficará desolada, e as suas cidades serão devastadas.
+
+[[v3-26-34]]
+
+^<<v3-26-34,34>>^ “‘Naquele tempo a terra saldará os seus sábados, todos os dias em que estiver desolada, enquanto vocês estiverem na terra dos seus inimigos. Então a terra descansará,^&#42;1^ visto que ela deve saldar os seus sábados.
+
+[NOTE]
+====
+. Ou: “guardará o sábado”.
+====
+
+[[v3-26-35]]
+
+^<<v3-26-35,35>>^ Ela descansará todos os dias em que estiver desolada, pois não descansou nos sábados em que vocês moravam nela.
+
+[[v3-26-36]]
+
+^<<v3-26-36,36>>^ “‘Quanto aos que sobreviverem, farei com que o coração deles se encha de desespero nas terras dos seus inimigos; o ruído de uma folha sendo levada pelo vento os fará fugir, e eles fugirão como se foge diante da espada e cairão sem que ninguém os persiga.
+
+[[v3-26-37]]
+
+^<<v3-26-37,37>>^ Eles tropeçarão uns nos outros como os que fogem da espada, mesmo que ninguém os esteja perseguindo. Vocês não poderão resistir aos seus inimigos.
+
+[[v3-26-38]]
+
+^<<v3-26-38,38>>^ Vocês morrerão entre as nações, e a terra dos seus inimigos os consumirá.
+
+[[v3-26-39]]
+
+^<<v3-26-39,39>>^ Aqueles de vocês que restarem serão abandonados para apodrecer nas terras dos seus inimigos, por causa do seu erro. Sim, apodrecerão por causa dos erros dos seus pais.
+
+[[v3-26-40]]
+
+^<<v3-26-40,40>>^ Então eles confessarão seu próprio erro e o erro e a infidelidade dos seus pais, e admitirão que se comportaram de modo infiel por andar em oposição a mim,
+
+[[v3-26-41]]
+
+^<<v3-26-41,41>>^ tornando necessário que eu também andasse em oposição a eles e os levasse à terra dos seus inimigos.
+“‘Então talvez o coração incircunciso^&#42;1^ deles se torne humilde, e eles paguem pelo^&#42;2^ seu erro.
+
+[NOTE]
+====
+. Ou: “obstinado”.
+. Ou: “saldem o”.
+====
+
+[[v3-26-42]]
+
+^<<v3-26-42,42>>^ E eu me lembrarei do meu pacto com Jacó e do meu pacto com Isaque, eu me lembrarei do meu pacto com Abraão e me lembrarei da terra.
+
+[[v3-26-43]]
+
+^<<v3-26-43,43>>^ Enquanto a terra ficou abandonada por eles, ela saldou os seus sábados e ficou desolada, sem eles; e eles pagaram o seu erro, porque eles^&#42;1^ rejeitaram as minhas decisões judiciais e abominaram os meus decretos.
+
+[NOTE]
+====
+. Ou: “suas almas”.
+====
+
+[[v3-26-44]]
+
+^<<v3-26-44,44>>^ Mas, apesar de tudo isso, enquanto estiverem na terra dos seus inimigos, nunca os rejeitarei completamente nem os repelirei a ponto de exterminá-los, porque isso violaria meu pacto com eles, pois eu sou Jeová, o Deus deles.
+
+[[v3-26-45]]
+
+^<<v3-26-45,45>>^ Em benefício deles, vou me lembrar do pacto com os seus antepassados, que tirei da terra do Egito sob os olhares das nações, para ser o Deus deles. Eu sou Jeová.’”
+
+[[v3-26-46]]
+
+^<<v3-26-46,46>>^ Esses são os decretos, as decisões judiciais e as leis que Jeová estabeleceu entre si e os israelitas no monte Sinai, por meio de Moisés.
+
+'''
+
+xref:003-levitico/003-levitico-025.adoc#v3-25-0[&#60; Capítulo Anterior] | <<v3-26-0,Topo>> | xref:003-levitico/003-levitico-027.adoc#v3-27-0[Próximo Capítulo &#62;]

@@ -1,0 +1,150 @@
+include::./index.adoc[]
+
+[[v1-14-0]]
+=== Gênesis, 14
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v1-14-1]]
+
+^<<v1-14-1,1>>^ Naqueles dias, Anrafel era rei de Sinear, Arioque era rei de Elasar, Quedorlaomer era rei de Elão, e Tidal era rei de Goim;
+
+[[v1-14-2]]
+
+^<<v1-14-2,2>>^ esses reis guerrearam contra Bera, rei de Sodoma, contra Birsa, rei de Gomorra, contra Sinabe, rei de Admá, contra Semeber, rei de Zeboim, e contra o rei de Bela, isto é, Zoar.
+
+[[v1-14-3]]
+
+^<<v1-14-3,3>>^ Todos esses juntaram forças no vale^&#42;1^ de Sidim, isto é, o mar Salgado.^&#42;2^
+
+[NOTE]
+====
+. Ou: “na baixada”.
+. Isto é, o mar Morto.
+====
+
+[[v1-14-4]]
+
+^<<v1-14-4,4>>^ Eles tinham servido a Quedorlaomer por 12 anos, mas se rebelaram no décimo terceiro ano.
+
+[[v1-14-5]]
+
+^<<v1-14-5,5>>^ Então, no décimo quarto ano, Quedorlaomer veio com os reis aliados a ele, e eles derrotaram os refains em Asterote-Carnaim, os zuzins em Hã, os emins em Savé-Quiriataim
+
+[[v1-14-6]]
+
+^<<v1-14-6,6>>^ e os horeus na sua montanha de Seir até El-Parã, que fica junto ao deserto.^&#42;1^
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v1-14-7]]
+
+^<<v1-14-7,7>>^ Depois eles voltaram e chegaram a En-Mispate, isto é, Cades, e conquistaram todo o território dos amalequitas e também derrotaram os amorreus que moravam em Hazazom-Tamar.
+
+[[v1-14-8]]
+
+^<<v1-14-8,8>>^ Nesse ponto, o rei de Sodoma pôs-se em marcha, bem como o rei de Gomorra, o rei de Admá, o rei de Zeboim e o rei de Bela, isto é, Zoar, e puseram-se em formação de batalha contra eles no vale^&#42;1^ de Sidim,
+
+[NOTE]
+====
+. Ou: “na baixada”.
+====
+
+[[v1-14-9]]
+
+^<<v1-14-9,9>>^ contra Quedorlaomer, rei de Elão, contra Tidal, rei de Goim, contra Anrafel, rei de Sinear, e contra Arioque, rei de Elasar — quatro reis contra os cinco.
+
+[[v1-14-10]]
+
+^<<v1-14-10,10>>^ O vale^&#42;1^ de Sidim era cheio de poços de betume; os reis de Sodoma e Gomorra tentaram escapar e caíram neles, e os que restaram fugiram para a região montanhosa.
+
+[NOTE]
+====
+. Ou: “A baixada”.
+====
+
+[[v1-14-11]]
+
+^<<v1-14-11,11>>^ Então os vencedores tomaram todos os bens de Sodoma e Gomorra, e todos os seus mantimentos, e seguiram caminho.
+
+[[v1-14-12]]
+
+^<<v1-14-12,12>>^ Levaram também Ló, sobrinho de Abrão que morava em Sodoma, e os seus bens, e seguiram caminho.
+
+[[v1-14-13]]
+
+^<<v1-14-13,13>>^ Depois, um homem que havia escapado foi contar isso a Abrão, o hebreu. Naquela época ele estava morando^&#42;1^ entre as árvores grandes de Manre, o amorreu, irmão de Escol e de Aner. Esses homens eram aliados de Abrão.
+
+[NOTE]
+====
+. Ou: “morando em tendas”.
+====
+
+[[v1-14-14]]
+
+^<<v1-14-14,14>>^ Assim, Abrão ouviu que seu parente^&#42;1^ tinha sido levado cativo. Em vista disso, mobilizou seus homens treinados, 318 servos nascidos na sua casa, e ele perseguiu os inimigos até Dã.
+
+[NOTE]
+====
+. Lit.: “irmão”.
+====
+
+[[v1-14-15]]
+
+^<<v1-14-15,15>>^ Durante a noite, dividiu as forças, e ele e seus servos os atacaram e derrotaram. Ele os perseguiu até Hobá, que fica ao norte de Damasco.
+
+[[v1-14-16]]
+
+^<<v1-14-16,16>>^ Recuperou todos os bens e resgatou também Ló, seu parente, os bens dele, as mulheres e as outras pessoas.
+
+[[v1-14-17]]
+
+^<<v1-14-17,17>>^ Depois de Abrão voltar da vitória sobre Quedorlaomer e os reis que estavam com ele, o rei de Sodoma foi ao encontro de Abrão no vale^&#42;1^ de Savé, isto é, o vale do Rei.
+
+[NOTE]
+====
+. Ou: “na baixada”.
+====
+
+[[v1-14-18]]
+
+^<<v1-14-18,18>>^ E Melquisedeque, rei de Salém, trouxe pão e vinho; ele era sacerdote do Deus Altíssimo.
+
+[[v1-14-19]]
+
+^<<v1-14-19,19>>^ Abençoou-o então e disse:
+“Bendito seja Abrão pelo Deus Altíssimo,
+Aquele que fez o céu e a terra;
+
+[[v1-14-20]]
+
+^<<v1-14-20,20>>^ E louvado seja o Deus Altíssimo,
+Que lhe entregou os seus opressores!”
+E Abrão lhe deu um décimo de tudo.
+
+[[v1-14-21]]
+
+^<<v1-14-21,21>>^ Depois disso, o rei de Sodoma disse a Abrão: “Dê-me as pessoas,^&#42;1^ mas pegue os bens para você.”
+
+[NOTE]
+====
+. Ou: “almas”.
+====
+
+[[v1-14-22]]
+
+^<<v1-14-22,22>>^ Mas Abrão disse ao rei de Sodoma: “Ergo a minha mão em juramento a Jeová, o Deus Altíssimo, aquele que fez o céu e a terra,
+
+[[v1-14-23]]
+
+^<<v1-14-23,23>>^ que eu não pegarei absolutamente nada do que é seu, desde um pedaço de linha até um cordão de sandália, para que o senhor não diga: ‘Eu enriqueci Abrão.’
+
+[[v1-14-24]]
+
+^<<v1-14-24,24>>^ Não pegarei nada além do que os jovens já comeram. Quanto à parte dos homens que foram comigo — Aner, Escol e Manre —, que eles peguem a parte deles.”
+
+'''
+
+xref:001-genesis/001-genesis-013.adoc#v1-13-0[&#60; Capítulo Anterior] | <<v1-14-0,Topo>> | xref:001-genesis/001-genesis-015.adoc#v1-15-0[Próximo Capítulo &#62;]

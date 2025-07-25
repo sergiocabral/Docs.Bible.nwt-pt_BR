@@ -1,0 +1,133 @@
+include::./index.adoc[]
+
+[[v48-2-0]]
+=== Aos Gálatas, 2
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v48-2-1]]
+
+^<<v48-2-1,1>>^ Então, 14 anos depois, subi novamente a Jerusalém, com Barnabé, levando também Tito comigo.
+
+[[v48-2-2]]
+
+^<<v48-2-2,2>>^ Subi por causa de uma revelação, e eu apresentei aos irmãos as boas novas que estou pregando entre as nações. Mas fiz isso em particular, diante dos homens que eram bem-conceituados, para ter certeza de que eu não estava correndo, ou não tivesse corrido, em vão.
+
+[[v48-2-3]]
+
+^<<v48-2-3,3>>^ Contudo, nem mesmo Tito, que estava comigo, foi obrigado a ser circuncidado, embora fosse grego.
+
+[[v48-2-4]]
+
+^<<v48-2-4,4>>^ Mas essa questão surgiu por causa dos falsos irmãos introduzidos sorrateiramente, que se infiltraram para espionar a liberdade que desfrutamos em união com Cristo Jesus, a fim de nos escravizar completamente;
+
+[[v48-2-5]]
+
+^<<v48-2-5,5>>^ não cedemos a eles, não, nem por um momento,^&#42;1^ para que a verdade das boas novas continuasse com vocês.
+
+[NOTE]
+====
+. Lit.: “uma hora”.
+====
+
+[[v48-2-6]]
+
+^<<v48-2-6,6>>^ Mas, quanto aos que pareciam importantes — o que eles eram não faz diferença para mim, pois Deus não julga o homem pela aparência —, esses homens bem-conceituados não me transmitiram nada de novo.
+
+[[v48-2-7]]
+
+^<<v48-2-7,7>>^ Pelo contrário, quando viram que eu tinha sido incumbido das boas novas aos incircuncisos, assim como Pedro tinha sido aos circuncisos
+
+[[v48-2-8]]
+
+^<<v48-2-8,8>>^ — pois aquele que deu a Pedro os poderes necessários para um apostolado aos circuncisos deu também a mim poderes para com os que são das nações —,
+
+[[v48-2-9]]
+
+^<<v48-2-9,9>>^ e quando reconheceram a bondade imerecida que me tinha sido concedida, Tiago, Cefas^&#42;1^ e João, os que pareciam colunas, estenderam a mim e a Barnabé a mão direita em sinal de parceria,^&#42;2^ para que nós fôssemos às nações, mas eles aos circuncisos.
+
+[NOTE]
+====
+. Também chamado de Pedro.
+. Ou: “companheirismo”.
+====
+
+[[v48-2-10]]
+
+^<<v48-2-10,10>>^ Pediram apenas que nos lembrássemos dos pobres, e isso eu também tenho me esforçado muito para fazer.
+
+[[v48-2-11]]
+
+^<<v48-2-11,11>>^ No entanto, quando Cefas^&#42;1^ chegou a Antioquia, eu me opus a ele^&#42;2^ face a face, porque ele estava claramente errado.^&#42;3^
+
+[NOTE]
+====
+. Também chamado de Pedro.
+. Ou: “eu o enfrentei”.
+. Ou: “havia se tornado condenado”.
+====
+
+[[v48-2-12]]
+
+^<<v48-2-12,12>>^ Pois, antes da chegada de certos homens da parte de Tiago, ele comia com pessoas das nações; mas, quando eles chegaram, parou de fazer isso e se separou dessas pessoas, temendo os da classe circuncisa.
+
+[[v48-2-13]]
+
+^<<v48-2-13,13>>^ Os outros judeus também se juntaram a ele nesse fingimento,^&#42;1^ de modo que até mesmo Barnabé se deixou levar pelo fingimento^&#42;2^ deles.
+
+[NOTE]
+====
+. Ou: “nessa hipocrisia”.
+. Ou: “pela hipocrisia”.
+====
+
+[[v48-2-14]]
+
+^<<v48-2-14,14>>^ Mas, quando vi que eles não estavam andando de acordo com a verdade das boas novas, eu disse a Cefas^&#42;1^ na frente de todos eles: “Se você, embora seja judeu, vive como as nações, e não como os judeus, como pode obrigar as pessoas das nações a viver segundo as práticas judaicas?”
+
+[NOTE]
+====
+. Também chamado de Pedro.
+====
+
+[[v48-2-15]]
+
+^<<v48-2-15,15>>^ Nós, os que somos judeus de nascimento, e não pecadores das nações,
+
+[[v48-2-16]]
+
+^<<v48-2-16,16>>^ reconhecemos que o homem é declarado justo, não por obras exigidas por lei, mas apenas por meio da fé em Jesus Cristo. Portanto, depositamos a nossa fé em Cristo Jesus, para sermos declarados justos pela fé em Cristo, e não por obras exigidas por lei, pois ninguém será declarado justo^&#42;1^ por obras exigidas por lei.
+
+[NOTE]
+====
+. Ou: “nenhuma carne será declarada justa”.
+====
+
+[[v48-2-17]]
+
+^<<v48-2-17,17>>^ Mas, se nós também somos achados pecadores ao buscarmos ser declarados justos por meio de Cristo, será que Cristo está então a serviço do pecado? De modo algum!
+
+[[v48-2-18]]
+
+^<<v48-2-18,18>>^ Se eu edifico novamente as mesmas coisas que já derrubei, demonstro ser um transgressor.
+
+[[v48-2-19]]
+
+^<<v48-2-19,19>>^ Pois por meio da Lei eu morri para a Lei, a fim de viver para Deus.
+
+[[v48-2-20]]
+
+^<<v48-2-20,20>>^ Estou agora pregado na estaca com Cristo. Quem vive não sou mais eu, mas é Cristo que vive em união comigo. De fato, a vida que agora vivo na carne, eu vivo pela fé no Filho de Deus, que me amou e se entregou por mim.
+
+[[v48-2-21]]
+
+^<<v48-2-21,21>>^ Eu não rejeito^&#42;1^ a bondade imerecida de Deus; pois, se a justiça^&#42;2^ vem por meio de lei, Cristo realmente morreu em vão.
+
+[NOTE]
+====
+. Ou: “não ponho de lado”.
+. Veja o Glossário.
+====
+
+'''
+
+xref:048-galatas/048-galatas-001.adoc#v48-1-0[&#60; Capítulo Anterior] | <<v48-2-0,Topo>> | xref:048-galatas/048-galatas-003.adoc#v48-3-0[Próximo Capítulo &#62;]

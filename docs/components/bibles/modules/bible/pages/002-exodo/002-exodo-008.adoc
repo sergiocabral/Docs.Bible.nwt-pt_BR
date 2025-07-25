@@ -1,0 +1,153 @@
+include::./index.adoc[]
+
+[[v2-8-0]]
+=== Êxodo, 8
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v2-8-1]]
+
+^<<v2-8-1,1>>^ Jeová disse então a Moisés: “Apresente-se a Faraó e diga-lhe: ‘Assim diz Jeová: “Deixe meu povo ir, para que me sirvam.
+
+[[v2-8-2]]
+
+^<<v2-8-2,2>>^ Se você continuar se recusando a deixá-los ir, atingirei todo o seu território com uma praga de rãs.
+
+[[v2-8-3]]
+
+^<<v2-8-3,3>>^ O rio Nilo ficará infestado de rãs; elas subirão e entrarão na sua casa e no seu quarto, estarão na sua cama, entrarão nas casas dos seus servos e estarão sobre o seu povo, nos seus fornos e nas suas amassadeiras.^&#42;1^
+
+[NOTE]
+====
+. Ou: “tigelas”.
+====
+
+[[v2-8-4]]
+
+^<<v2-8-4,4>>^ As rãs virão sobre você, sobre o seu povo e sobre todos os seus servos.”’”
+
+[[v2-8-5]]
+
+^<<v2-8-5,5>>^ Mais tarde, Jeová disse a Moisés: “Diga a Arão: ‘Estenda a mão com o bastão sobre os rios, sobre os canais do Nilo e sobre os pântanos, e faça vir rãs sobre a terra do Egito.’”
+
+[[v2-8-6]]
+
+^<<v2-8-6,6>>^ Então Arão estendeu a mão sobre as águas do Egito, e as rãs começaram a vir e a cobrir a terra do Egito.
+
+[[v2-8-7]]
+
+^<<v2-8-7,7>>^ No entanto, os sacerdotes-magos fizeram a mesma coisa com as suas artes secretas: eles também fizeram vir rãs sobre a terra do Egito.
+
+[[v2-8-8]]
+
+^<<v2-8-8,8>>^ Então Faraó chamou Moisés e Arão, e disse: “Supliquem a Jeová que ele livre a mim e ao meu povo dessas rãs, visto que quero deixar o povo ir, para que ofereçam sacrifícios a Jeová.”
+
+[[v2-8-9]]
+
+^<<v2-8-9,9>>^ Moisés disse então a Faraó: “Cabe ao senhor a honra de decidir quando devo fazer súplicas para que o senhor, os seus servos, o seu povo e as suas casas fiquem livres das rãs. Elas ficarão somente no rio Nilo.”
+
+[[v2-8-10]]
+
+^<<v2-8-10,10>>^ Então ele disse: “Amanhã.” De modo que Moisés disse: “Será segundo a sua palavra, para que o senhor saiba que não há ninguém como Jeová, nosso Deus.
+
+[[v2-8-11]]
+
+^<<v2-8-11,11>>^ O senhor, as suas casas, os seus servos e o seu povo ficarão livres das rãs. Elas ficarão somente no Nilo.”
+
+[[v2-8-12]]
+
+^<<v2-8-12,12>>^ Assim, Moisés e Arão se retiraram da presença de Faraó, e Moisés suplicou a Jeová por causa das rãs que Ele havia enviado contra Faraó.
+
+[[v2-8-13]]
+
+^<<v2-8-13,13>>^ Então Jeová atendeu ao pedido de Moisés, e as rãs começaram a morrer nas casas, nos pátios e nos campos.
+
+[[v2-8-14]]
+
+^<<v2-8-14,14>>^ Elas foram ajuntadas em montões e mais montões, e a terra começou a cheirar mal.
+
+[[v2-8-15]]
+
+^<<v2-8-15,15>>^ Quando Faraó viu que houve alívio, endureceu o coração e não quis escutá-los, assim como Jeová havia falado.
+
+[[v2-8-16]]
+
+^<<v2-8-16,16>>^ Jeová disse então a Moisés: “Diga a Arão: ‘Estenda seu bastão e bata no pó da terra, e este se transformará em mosquitos em toda a terra do Egito.’”
+
+[[v2-8-17]]
+
+^<<v2-8-17,17>>^ E fizeram isso. Arão estendeu a mão com o seu bastão e bateu no pó da terra, e vieram mosquitos sobre homens e sobre animais. Todo o pó da terra se transformou em mosquitos em toda a terra do Egito.
+
+[[v2-8-18]]
+
+^<<v2-8-18,18>>^ Os sacerdotes-magos tentaram fazer o mesmo e produzir mosquitos com as suas artes secretas, mas não conseguiram. E vieram mosquitos sobre homens e sobre animais.
+
+[[v2-8-19]]
+
+^<<v2-8-19,19>>^ Então os sacerdotes-magos disseram a Faraó: “É o dedo de Deus!” Mas o coração de Faraó continuou endurecido, e ele não os escutou, assim como Jeová havia falado.
+
+[[v2-8-20]]
+
+^<<v2-8-20,20>>^ Então Jeová disse a Moisés: “Levante-se de manhã cedo e apresente-se a Faraó. Quando ele estiver saindo para ir ao rio, diga-lhe: ‘Assim disse Jeová: “Deixe meu povo ir, para que me sirvam.
+
+[[v2-8-21]]
+
+^<<v2-8-21,21>>^ Mas, se você não deixar meu povo ir, enviarei moscões^&#42;1^ contra você, seus servos, seu povo e suas casas; as casas do Egito ficarão cheias de moscões, e eles cobrirão o chão onde eles^&#42;2^ pisam.
+
+[NOTE]
+====
+. Uma espécie de mosca que pica.
+. Isto é, os egípcios.
+====
+
+[[v2-8-22]]
+
+^<<v2-8-22,22>>^ Naquele dia certamente colocarei à parte a terra de Gósen, onde meu povo mora. Não haverá ali nenhum moscão; e assim você saberá que eu, Jeová, estou nesta terra.
+
+[[v2-8-23]]
+
+^<<v2-8-23,23>>^ Farei distinção entre o meu povo e o seu povo. Esse sinal ocorrerá amanhã.”’”
+
+[[v2-8-24]]
+
+^<<v2-8-24,24>>^ E Jeová fez isso. Grandes enxames de moscões começaram a invadir a casa de Faraó e as casas dos seus servos, e toda a terra do Egito. O país foi devastado por moscões.
+
+[[v2-8-25]]
+
+^<<v2-8-25,25>>^ Por fim, Faraó chamou Moisés e Arão, e disse: “Vão, ofereçam sacrifícios ao seu Deus aqui neste país.”
+
+[[v2-8-26]]
+
+^<<v2-8-26,26>>^ Mas Moisés disse: “Não convém fazer assim, pois o que queremos oferecer em sacrifício ao nosso Deus, Jeová, é detestável para os egípcios. Será que não seríamos apedrejados se oferecêssemos bem diante dos olhos dos egípcios um sacrifício que é detestável para eles?
+
+[[v2-8-27]]
+
+^<<v2-8-27,27>>^ Faremos uma viagem de três dias pelo deserto e ali ofereceremos sacrifícios a Jeová, nosso Deus, assim como ele nos disse.”
+
+[[v2-8-28]]
+
+^<<v2-8-28,28>>^ Faraó disse então: “Vou deixá-los ir, para que ofereçam sacrifícios a Jeová, seu Deus, no deserto. Somente não vão tão longe. Façam súplicas por mim.”
+
+[[v2-8-29]]
+
+^<<v2-8-29,29>>^ Então Moisés disse: “Agora vou me retirar da sua presença e farei súplicas a Jeová, e amanhã os moscões deixarão Faraó, seus servos e seu povo. Mas que Faraó não nos engane^&#42;1^ novamente, recusando-se a deixar o povo ir para oferecer sacrifícios a Jeová.”
+
+[NOTE]
+====
+. Ou: “não brinque conosco”.
+====
+
+[[v2-8-30]]
+
+^<<v2-8-30,30>>^ Moisés se retirou então da presença de Faraó e fez súplicas a Jeová.
+
+[[v2-8-31]]
+
+^<<v2-8-31,31>>^ Assim, Jeová fez segundo a palavra de Moisés, e os moscões deixaram Faraó, seus servos e seu povo. Não sobrou nem sequer um moscão.
+
+[[v2-8-32]]
+
+^<<v2-8-32,32>>^ No entanto, Faraó novamente endureceu o coração e não deixou o povo ir.
+
+'''
+
+xref:002-exodo/002-exodo-007.adoc#v2-7-0[&#60; Capítulo Anterior] | <<v2-8-0,Topo>> | xref:002-exodo/002-exodo-009.adoc#v2-9-0[Próximo Capítulo &#62;]

@@ -1,0 +1,195 @@
+include::./index.adoc[]
+
+[[v18-6-0]]
+=== Jó, 6
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v18-6-1]]
+
+^<<v18-6-1,1>>^ Então Jó disse em resposta:
+
+[[v18-6-2]]
+
+^<<v18-6-2,2>>^ “Quem dera que se pudesse pesar toda a minha angústia,
+E que ela fosse colocada na balança junto com a minha calamidade!
+
+[[v18-6-3]]
+
+^<<v18-6-3,3>>^ Pois agora ela é mais pesada do que a areia dos mares.
+É por isso que as minhas palavras foram impensadas.^&#42;1^
+
+[NOTE]
+====
+. Ou: “irrefletidas, precipitadas”.
+====
+
+[[v18-6-4]]
+
+^<<v18-6-4,4>>^ Pois as flechas do Todo-Poderoso me traspassaram,
+E meu espírito bebe o veneno delas;
+Os terrores da parte de Deus se enfileiram contra mim.
+
+[[v18-6-5]]
+
+^<<v18-6-5,5>>^ Será que o jumento selvagem zurra quando ele tem relva,
+Ou o touro muge quando ele tem forragem?
+
+[[v18-6-6]]
+
+^<<v18-6-6,6>>^ Será que o alimento que não tem gosto é comido sem sal?
+Será que a seiva da malva tem sabor?
+
+[[v18-6-7]]
+
+^<<v18-6-7,7>>^ Eu me neguei^&#42;1^ a tocar nessas coisas;
+Elas são como alimento estragado.
+
+[NOTE]
+====
+. Ou: “Minha alma se negou”.
+====
+
+[[v18-6-8]]
+
+^<<v18-6-8,8>>^ Quem dera que o meu pedido fosse atendido,
+E que Deus concedesse o meu desejo!
+
+[[v18-6-9]]
+
+^<<v18-6-9,9>>^ Que Deus estivesse disposto a me esmagar,
+E que estendesse a mão e me eliminasse!
+
+[[v18-6-10]]
+
+^<<v18-6-10,10>>^ Pois até mesmo isso me traria consolo;
+Eu pularia de alegria apesar da incessante dor,
+Pois não rejeitei as declarações Daquele que é santo.
+
+[[v18-6-11]]
+
+^<<v18-6-11,11>>^ Será que tenho forças para continuar esperando?
+E o que o futuro me reserva, para que eu continue a viver?^&#42;1^
+
+[NOTE]
+====
+. Ou: “para que eu deva prolongar minha vida (alma)”.
+====
+
+[[v18-6-12]]
+
+^<<v18-6-12,12>>^ Será que sou forte como uma rocha?
+Será que a minha carne é de cobre?
+
+[[v18-6-13]]
+
+^<<v18-6-13,13>>^ Será que de algum modo posso ajudar a mim mesmo,
+Quando tudo que me apoiava foi tirado de mim?
+
+[[v18-6-14]]
+
+^<<v18-6-14,14>>^ Quem recusar o amor leal ao seu próximo
+Abandonará o temor do Todo-Poderoso.
+
+[[v18-6-15]]
+
+^<<v18-6-15,15>>^ Meus próprios irmãos têm sido tão traiçoeiros como um rio temporário,
+Como a água de rios^&#42;1^ que secam no verão.
+
+[NOTE]
+====
+. Ou: “de torrentes de inverno”.
+====
+
+[[v18-6-16]]
+
+^<<v18-6-16,16>>^ Eles ficam turvos por causa do gelo,
+E neles a neve derretida se esconde.
+
+[[v18-6-17]]
+
+^<<v18-6-17,17>>^ Mas na devida estação ficam sem água e chegam ao fim;
+Quando vem o calor, eles secam.
+
+[[v18-6-18]]
+
+^<<v18-6-18,18>>^ Seu curso é desviado;
+Eles chegam ao deserto e desaparecem.
+
+[[v18-6-19]]
+
+^<<v18-6-19,19>>^ As caravanas de Tema procuram por eles;
+Os viajantes de Sabá os esperam.^&#42;1^
+
+[NOTE]
+====
+. Ou: “A companhia dos viajantes sabeus os espera”.
+====
+
+[[v18-6-20]]
+
+^<<v18-6-20,20>>^ Ficam envergonhados porque sua confiança foi em vão;
+Chegam lá apenas para ficar decepcionados.
+
+[[v18-6-21]]
+
+^<<v18-6-21,21>>^ Pois isso é o que vocês se tornaram para mim;
+Vocês veem o terror da minha calamidade e ficam com medo.
+
+[[v18-6-22]]
+
+^<<v18-6-22,22>>^ Será que eu disse: ‘Deem-me algo’,
+Ou pedi que me dessem um presente da sua riqueza?
+
+[[v18-6-23]]
+
+^<<v18-6-23,23>>^ Será que pedi para ser resgatado das mãos de um inimigo
+Ou para ser salvo^&#42;1^ de opressores?
+
+[NOTE]
+====
+. Lit.: “remido”.
+====
+
+[[v18-6-24]]
+
+^<<v18-6-24,24>>^ Instruam-me, e eu ficarei calado;
+Ajudem-me a entender o meu erro.
+
+[[v18-6-25]]
+
+^<<v18-6-25,25>>^ Ora, palavras sinceras não são dolorosas!
+Mas qual é o benefício da sua repreensão?
+
+[[v18-6-26]]
+
+^<<v18-6-26,26>>^ Será que vocês estão tramando para corrigir as minhas palavras,
+As declarações de um homem desesperado, que são levadas pelo vento?
+
+[[v18-6-27]]
+
+^<<v18-6-27,27>>^ Vocês também lançariam sortes sobre um órfão
+E venderiam^&#42;1^ seu próprio amigo!
+
+[NOTE]
+====
+. Ou: “negociariam”.
+====
+
+[[v18-6-28]]
+
+^<<v18-6-28,28>>^ Então agora voltem-se para mim e olhem,
+Pois eu não mentirei diante de vocês.
+
+[[v18-6-29]]
+
+^<<v18-6-29,29>>^ Reconsiderem, por favor, não me julguem mal.
+Sim, reconsiderem, pois a minha justiça ainda está intacta.
+
+[[v18-6-30]]
+
+^<<v18-6-30,30>>^ Há alguma injustiça na minha língua?
+Será que o meu paladar não discerne que algo está errado?
+
+'''
+
+xref:018-jo/018-jo-005.adoc#v18-5-0[&#60; Capítulo Anterior] | <<v18-6-0,Topo>> | xref:018-jo/018-jo-007.adoc#v18-7-0[Próximo Capítulo &#62;]

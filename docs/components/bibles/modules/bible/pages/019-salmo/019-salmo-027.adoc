@@ -1,0 +1,117 @@
+include::./index.adoc[]
+
+[[v19-27-0]]
+=== Salmos, 27
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_De Davi._
+
+[[v19-27-1]]
+
+^<<v19-27-1,1>>^ Jeová é a minha luz e a minha salvação.
+De quem terei medo?
+Jeová é a fortaleza da minha vida.
+De quem terei pavor?
+
+[[v19-27-2]]
+
+^<<v19-27-2,2>>^ Quando os maus me atacaram para devorar a minha carne,
+Foram os meus adversários e meus inimigos que tropeçaram e caíram.
+
+[[v19-27-3]]
+
+^<<v19-27-3,3>>^ Ainda que um exército se acampe contra mim,
+Meu coração não terá medo.
+Ainda que se declare guerra contra mim,
+Mesmo assim continuarei confiante.
+
+[[v19-27-4]]
+
+^<<v19-27-4,4>>^ Uma coisa peço a Jeová
+— Isso é o que buscarei —
+Morar na casa de Jeová todos os dias da minha vida,
+Para contemplar a bondade^&#42;1^ de Jeová
+E apreciar^&#42;2^ o seu templo.^&#42;3^
+
+[NOTE]
+====
+. Ou: “beleza”.
+. Ou: “olhar de forma contemplativa para”.
+. Ou: “santuário”.
+====
+
+[[v19-27-5]]
+
+^<<v19-27-5,5>>^ Pois no dia da calamidade ele me protegerá no seu abrigo;
+Ele me esconderá no seu lugar secreto, a sua tenda;
+Ele me porá no alto, sobre uma rocha.
+
+[[v19-27-6]]
+
+^<<v19-27-6,6>>^ Agora a minha cabeça se eleva acima dos inimigos que me cercam;
+Na Sua tenda, vou oferecer sacrifícios com gritos de alegria;
+Vou cantar louvores^&#42;1^ a Jeová.
+
+[NOTE]
+====
+. Ou: “fazer música”.
+====
+
+[[v19-27-7]]
+
+^<<v19-27-7,7>>^ Ouve-me, ó Jeová, quando eu clamar;
+Mostra-me favor e responde-me.
+
+[[v19-27-8]]
+
+^<<v19-27-8,8>>^ Falando por ti, meu coração disse:
+“Procurem a minha face.”
+Eu procurarei a tua face, ó Jeová.
+
+[[v19-27-9]]
+
+^<<v19-27-9,9>>^ Não escondas de mim a tua face.
+Não rejeites o teu servo na tua ira.
+Tu és o meu ajudador;
+Não me abandones nem me deixes, ó Deus da minha salvação.
+
+[[v19-27-10]]
+
+^<<v19-27-10,10>>^ Mesmo que o meu pai e a minha mãe me abandonem,
+Jeová me acolherá.
+
+[[v19-27-11]]
+
+^<<v19-27-11,11>>^ Instrui-me no teu caminho, ó Jeová,
+Guia-me na vereda da retidão por causa dos meus inimigos.
+
+[[v19-27-12]]
+
+^<<v19-27-12,12>>^ Não me entregues aos meus adversários,^&#42;1^
+Pois testemunhas falsas se levantaram contra mim,
+E elas me ameaçam com violência.
+
+[NOTE]
+====
+. Ou: “à alma dos meus adversários”.
+====
+
+[[v19-27-13]]
+
+^<<v19-27-13,13>>^ Onde eu estaria se não tivesse fé
+Em que veria a bondade de Jeová na terra dos vivos?^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “Eu certamente tenho fé em que verei a bondade de Jeová na terra dos vivos.”
+====
+
+[[v19-27-14]]
+
+^<<v19-27-14,14>>^ Espere em Jeová;
+Seja corajoso e forte de coração.
+Sim, espere em Jeová.
+
+'''
+
+xref:019-salmo/019-salmo-026.adoc#v19-26-0[&#60; Capítulo Anterior] | <<v19-27-0,Topo>> | xref:019-salmo/019-salmo-028.adoc#v19-28-0[Próximo Capítulo &#62;]

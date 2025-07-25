@@ -1,0 +1,141 @@
+include::./index.adoc[]
+
+[[v19-45-0]]
+=== Salmos, 45
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Ao regente; com a melodia de Os Lírios. Dos filhos de Corá. Masquil.^&#42;1^ Cântico de amor._
+
+[[v19-45-1]]
+
+^<<v19-45-1,1>>^ Meu coração se agita com algo bom.
+Eu digo: “Meu cântico é^&#42;1^ sobre um rei.”
+Seja a minha língua como a pena^&#42;2^ de um hábil copista.^&#42;3^
+
+[NOTE]
+====
+. Lit.: “Minhas obras são”.
+. Lit.: “o estilo”. Veja o Glossário.
+. Ou: “escriba”.
+====
+
+[[v19-45-2]]
+
+^<<v19-45-2,2>>^ Ó rei, o senhor é o mais belo dos filhos dos homens.
+Palavras encantadoras escorrem dos seus lábios.
+Por isso Deus o abençoou para sempre.
+
+[[v19-45-3]]
+
+^<<v19-45-3,3>>^ Prenda a sua espada à cintura, ó poderoso,
+Cinja-se de honra e esplendor.
+
+[[v19-45-4]]
+
+^<<v19-45-4,4>>^ E no seu esplendor avance para a vitória;^&#42;1^
+Cavalgue pela causa da verdade, da humildade e da justiça,
+E a sua mão direita realizará^&#42;2^ atos atemorizantes.
+
+[NOTE]
+====
+. Ou: “o sucesso”.
+. Lit.: “lhe ensinará”.
+====
+
+[[v19-45-5]]
+
+^<<v19-45-5,5>>^ As suas flechas, ó rei, são afiadas, fazem cair povos diante do senhor;
+Perfuram o coração dos inimigos do rei.
+
+[[v19-45-6]]
+
+^<<v19-45-6,6>>^ Deus é o seu trono para todo o sempre;
+O cetro do seu reino é um cetro de retidão.^&#42;1^
+
+[NOTE]
+====
+. Ou: “justiça”.
+====
+
+[[v19-45-7]]
+
+^<<v19-45-7,7>>^ Ó rei, o senhor amou a justiça e odiou a maldade.
+É por isso que Deus, o seu Deus, o ungiu com óleo de alegria mais do que aos seus companheiros.
+
+[[v19-45-8]]
+
+^<<v19-45-8,8>>^ Todas as suas vestes são perfumadas com mirra, aloés e cássia;
+Do grandioso palácio de marfim vem o som dos instrumentos de cordas que o alegram.
+
+[[v19-45-9]]
+
+^<<v19-45-9,9>>^ Filhas de reis estão entre as suas damas honradas.
+A consorte real^&#42;1^ está de pé à sua direita, adornada com ouro de Ofir.
+
+[NOTE]
+====
+. Ou: “A rainha”.
+====
+
+[[v19-45-10]]
+
+^<<v19-45-10,10>>^ Escute, ó filha, preste atenção e incline o seu ouvido;
+Esqueça o seu povo e a casa do seu pai.
+
+[[v19-45-11]]
+
+^<<v19-45-11,11>>^ E o rei se encantará com a sua beleza,
+Pois ele é o seu senhor;
+Por isso curve-se diante dele.
+
+[[v19-45-12]]
+
+^<<v19-45-12,12>>^ A filha de Tiro virá com um presente;
+Os homens mais ricos buscarão o seu favor.^&#42;1^
+
+[NOTE]
+====
+. Ou: “abrandarão a face de você”.
+====
+
+[[v19-45-13]]
+
+^<<v19-45-13,13>>^ Dentro do palácio,^&#42;1^ a filha do rei^&#42;2^ está cheia de esplendor;
+Sua vestimenta é adornada com^&#42;3^ ouro.
+
+[NOTE]
+====
+. Lit.: “Dentro”.
+. Isto é, a noiva. Veja o v. 10.
+. Lit.: “com engastes de”.
+====
+
+[[v19-45-14]]
+
+^<<v19-45-14,14>>^ Ela é levada ao rei em roupas ricamente tecidas.^&#42;1^
+As virgens que a seguem, suas companheiras, são levadas para dentro, à presença dele.^&#42;2^
+
+[NOTE]
+====
+. Ou, possivelmente: “em vestes bordadas”.
+. Lit.: “a você”, referindo-se ao rei.
+====
+
+[[v19-45-15]]
+
+^<<v19-45-15,15>>^ São levadas com alegria e exultação;
+Entram no palácio do rei.
+
+[[v19-45-16]]
+
+^<<v19-45-16,16>>^ Seus filhos, ó rei, ocuparão o lugar dos seus antepassados.
+O senhor os designará como príncipes em toda a terra.
+
+[[v19-45-17]]
+
+^<<v19-45-17,17>>^ Farei que o seu nome seja conhecido por todas as gerações que virão.
+É por isso que os povos o louvarão para todo o sempre.
+
+'''
+
+xref:019-salmo/019-salmo-044.adoc#v19-44-0[&#60; Capítulo Anterior] | <<v19-45-0,Topo>> | xref:019-salmo/019-salmo-046.adoc#v19-46-0[Próximo Capítulo &#62;]

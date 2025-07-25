@@ -1,0 +1,80 @@
+include::./index.adoc[]
+
+[[v32-4-0]]
+=== Jonas, 4
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v32-4-1]]
+
+^<<v32-4-1,1>>^ Mas isso desagradou muito a Jonas, e ele ficou muito irado.
+
+[[v32-4-2]]
+
+^<<v32-4-2,2>>^ Então ele orou a Jeová: “Ó Jeová, não era essa a minha preocupação quando eu estava na minha terra? É por isso que eu tentei fugir para Társis na primeira vez, pois sabia que és um Deus compassivo^&#42;1^ e misericordioso, paciente^&#42;2^ e cheio de amor leal, e que fica muito triste com a calamidade.
+
+[NOTE]
+====
+. Ou: “benevolente”.
+. Ou: “vagaroso em irar-se”.
+====
+
+[[v32-4-3]]
+
+^<<v32-4-3,3>>^ Agora, ó Jeová, por favor, tira a minha vida,^&#42;1^ pois para mim é melhor morrer do que viver.”
+
+[NOTE]
+====
+. Ou: “alma”.
+====
+
+[[v32-4-4]]
+
+^<<v32-4-4,4>>^ Jeová perguntou: “Você acha certo ficar tão irado?”
+
+[[v32-4-5]]
+
+^<<v32-4-5,5>>^ Jonas saiu então da cidade e se sentou ao leste da cidade. Ali ele fez para si um abrigo e se sentou à sua sombra para ver o que aconteceria à cidade.
+
+[[v32-4-6]]
+
+^<<v32-4-6,6>>^ Então Jeová Deus fez com que um cabaceiro^&#42;1^ crescesse sobre Jonas para fazer sombra sobre a sua cabeça e para aliviar a sua aflição. E Jonas ficou muito contente com o cabaceiro.
+
+[NOTE]
+====
+. Ou, possivelmente: “uma mamoneira”.
+====
+
+[[v32-4-7]]
+
+^<<v32-4-7,7>>^ Mas, ao raiar o dia seguinte, o verdadeiro Deus fez com que um verme atacasse o cabaceiro, e este secou.
+
+[[v32-4-8]]
+
+^<<v32-4-8,8>>^ Quando o sol começou a brilhar, Deus também fez soprar um vento leste abrasador, e o sol castigava a cabeça de Jonas, e ele estava quase desmaiando. Ele pedia para morrer^&#42;1^ e dizia: “Para mim é melhor morrer do que viver.”
+
+[NOTE]
+====
+. Ou: “que sua alma morresse”.
+====
+
+[[v32-4-9]]
+
+^<<v32-4-9,9>>^ Deus perguntou a Jonas: “Você acha certo ficar tão irado por causa do cabaceiro?”
+E ele respondeu: “Eu tenho razão para ficar irado, tão irado que quero morrer.”
+
+[[v32-4-10]]
+
+^<<v32-4-10,10>>^ Mas Jeová disse: “Você teve pena do cabaceiro, que você não cultivou nem fez crescer; ele cresceu numa noite e morreu numa noite.
+
+[[v32-4-11]]
+
+^<<v32-4-11,11>>^ Será que eu também não deveria ter pena de Nínive, a grande cidade, em que há mais de 120.000 homens que não sabem nem mesmo a diferença entre o certo e o errado,^&#42;1^ além de seus muitos animais?”
+
+[NOTE]
+====
+. Ou: “não sabem a diferença entre a sua direita e a sua esquerda”.
+====
+
+'''
+
+xref:032-jonas/032-jonas-003.adoc#v32-3-0[&#60; Capítulo Anterior] | <<v32-4-0,Topo>> | xref:033-miqueias/033-miqueias-001.adoc#v33-1-0[Próximo Capítulo &#62;]

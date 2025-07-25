@@ -1,0 +1,240 @@
+include::./index.adoc[]
+
+[[v3-25-0]]
+=== Levítico, 25
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v3-25-1]]
+
+^<<v3-25-1,1>>^ Jeová falou mais a Moisés no monte Sinai:
+
+[[v3-25-2]]
+
+^<<v3-25-2,2>>^ “Diga aos israelitas: ‘Quando por fim entrarem na terra que lhes dou, a terra guardará um sábado para Jeová.
+
+[[v3-25-3]]
+
+^<<v3-25-3,3>>^ Por seis anos você deve semear seu campo, e por seis anos você deve podar seu vinhedo, e você colherá os produtos da terra.
+
+[[v3-25-4]]
+
+^<<v3-25-4,4>>^ Mas o sétimo ano deve ser um sábado de completo descanso para a terra, um sábado para Jeová. Você não deve semear seu campo nem podar seu vinhedo.
+
+[[v3-25-5]]
+
+^<<v3-25-5,5>>^ Você não deve colher o que crescer espontaneamente dos grãos caídos durante a última colheita, nem colher as uvas da sua videira não podada. Deve haver um ano de completo descanso para a terra.
+
+[[v3-25-6]]
+
+^<<v3-25-6,6>>^ Mas vocês poderão comer o alimento que a terra produzir durante o sábado; você, seu escravo, sua escrava, seu trabalhador contratado e os colonos que moram no seu meio poderão comê-lo.
+
+[[v3-25-7]]
+
+^<<v3-25-7,7>>^ Os animais domésticos e os animais selvagens que há na sua terra também poderão comê-lo. Vocês podem comer tudo que a terra produzir.
+
+[[v3-25-8]]
+
+^<<v3-25-8,8>>^ “‘Você contará sete anos sabáticos, sete vezes sete anos, e os dias dos sete anos sabáticos somarão 49 anos.
+
+[[v3-25-9]]
+
+^<<v3-25-9,9>>^ Então vocês farão soar alto a buzina no sétimo mês, no dia dez do mês; no Dia da Expiação, vocês devem fazer com que o som da buzina seja ouvido em toda a sua terra.
+
+[[v3-25-10]]
+
+^<<v3-25-10,10>>^ Santifiquem o quinquagésimo ano e proclamem liberdade em sua terra, a todos os habitantes. Esse ano se tornará um jubileu para vocês, e cada um de vocês retornará à sua propriedade, e cada um de vocês retornará à sua família.
+
+[[v3-25-11]]
+
+^<<v3-25-11,11>>^ O quinquagésimo ano se tornará um jubileu para vocês. Vocês não semearão, nem colherão o que crescer espontaneamente dos grãos caídos na terra, nem colherão as uvas das videiras não podadas.
+
+[[v3-25-12]]
+
+^<<v3-25-12,12>>^ Pois esse ano é um jubileu. Deve ser sagrado para vocês. Vocês só podem comer do que a terra produzir espontaneamente.
+
+[[v3-25-13]]
+
+^<<v3-25-13,13>>^ “‘No ano do jubileu, cada um de vocês deve retornar à sua propriedade.
+
+[[v3-25-14]]
+
+^<<v3-25-14,14>>^ Se vocês venderem algo ao seu próximo, ou se comprarem algo dele, não explorem um ao outro.
+
+[[v3-25-15]]
+
+^<<v3-25-15,15>>^ O que você comprar do seu próximo será avaliado de acordo com o número de anos decorridos desde o jubileu; o que ele vender a você será avaliado de acordo com o número de anos das safras que ainda restarem.
+
+[[v3-25-16]]
+
+^<<v3-25-16,16>>^ Se ainda restarem muitos anos, ele poderá aumentar o preço, e se restarem poucos anos, ele deve reduzir o preço, porque é o número de safras a serem produzidas que ele está vendendo a você.
+
+[[v3-25-17]]
+
+^<<v3-25-17,17>>^ Ninguém entre vocês deve explorar seu próximo; tenha temor do seu Deus, pois eu sou Jeová, o Deus de vocês.
+
+[[v3-25-18]]
+
+^<<v3-25-18,18>>^ Por cumprirem os meus decretos e guardarem as minhas decisões judiciais, vocês morarão em segurança na terra.
+
+[[v3-25-19]]
+
+^<<v3-25-19,19>>^ A terra dará os seus frutos, e vocês comerão à vontade e morarão nela em segurança.
+
+[[v3-25-20]]
+
+^<<v3-25-20,20>>^ “‘Mas, se vocês disserem: “O que comeremos no sétimo ano, se não podemos semear, nem recolher as nossas safras?”,
+
+[[v3-25-21]]
+
+^<<v3-25-21,21>>^ saibam que enviarei a minha bênção para vocês no sexto ano, e a terra dará uma safra suficiente para três anos.
+
+[[v3-25-22]]
+
+^<<v3-25-22,22>>^ Então vocês semearão no oitavo ano e comerão da safra antiga até o nono ano. Vocês comerão da safra antiga até a chegada dessa safra.
+
+[[v3-25-23]]
+
+^<<v3-25-23,23>>^ “‘A terra não deve ser vendida definitivamente, porque a terra é minha. Pois, do meu ponto de vista, vocês são residentes estrangeiros e colonos.
+
+[[v3-25-24]]
+
+^<<v3-25-24,24>>^ Em toda a terra que lhes pertence vocês devem conceder o direito de resgate da terra.
+
+[[v3-25-25]]
+
+^<<v3-25-25,25>>^ “‘Se seu irmão ficar pobre e tiver de vender parte da sua propriedade, um resgatador que seja parente próximo dele deve vir e resgatar o que seu irmão vendeu.
+
+[[v3-25-26]]
+
+^<<v3-25-26,26>>^ Se alguém não tiver resgatador, mas se tornar próspero e obtiver recursos para resgatá-la,
+
+[[v3-25-27]]
+
+^<<v3-25-27,27>>^ ele deve calcular o valor correspondente aos anos que se passaram desde que a vendeu e devolverá a diferença ao homem que a comprou. Então ele poderá retornar à sua propriedade.
+
+[[v3-25-28]]
+
+^<<v3-25-28,28>>^ “‘Mas, se ele não obtiver recursos para realizar o resgate, o que ele vendeu continuará com o comprador até o ano do jubileu e lhe será devolvido no jubileu, e ele retornará à sua propriedade.
+
+[[v3-25-29]]
+
+^<<v3-25-29,29>>^ “‘Se um homem vender uma casa numa cidade com muralhas, seu direito de resgatá-la vigorará até completar um ano desde o tempo da sua venda; seu direito de resgatá-la vigorará por um ano inteiro.
+
+[[v3-25-30]]
+
+^<<v3-25-30,30>>^ Mas, se não for resgatada dentro do prazo de um ano inteiro, a casa que está na cidade com muralhas se tornará propriedade permanente do seu comprador por todas as suas gerações. Não deve ser devolvida no jubileu.
+
+[[v3-25-31]]
+
+^<<v3-25-31,31>>^ No entanto, as casas dos povoados sem muralhas devem ser consideradas como parte dos campos do país. O direito de resgate dessa casa deve continuar a vigorar, e ela deve ser devolvida no jubileu.
+
+[[v3-25-32]]
+
+^<<v3-25-32,32>>^ “‘Quanto às casas dos levitas nas suas cidades, os levitas terão direito permanente de resgatá-las.
+
+[[v3-25-33]]
+
+^<<v3-25-33,33>>^ Se um levita não resgatar a casa que vendeu, essa casa que vendeu na cidade pertencente a eles será devolvida no jubileu, porque as casas das cidades dos levitas são propriedade deles entre os israelitas.
+
+[[v3-25-34]]
+
+^<<v3-25-34,34>>^ Além disso, os campos de pastagem ao redor das suas cidades não podem ser vendidos, pois são propriedade permanente deles.
+
+[[v3-25-35]]
+
+^<<v3-25-35,35>>^ “‘Se seu irmão que mora no seu meio ficar pobre e não conseguir se sustentar, você terá de ajudá-lo como faria com um residente estrangeiro ou com um colono, para que ele continue vivo entre vocês.
+
+[[v3-25-36]]
+
+^<<v3-25-36,36>>^ Não cobre juros nem obtenha lucro^&#42;1^ dele. Tenha temor do seu Deus, e seu irmão ficará vivo entre vocês.
+
+[NOTE]
+====
+. Ou: “nem cobre usura”.
+====
+
+[[v3-25-37]]
+
+^<<v3-25-37,37>>^ Não empreste dinheiro a ele cobrando juros nem lhe dê alimento visando lucro.
+
+[[v3-25-38]]
+
+^<<v3-25-38,38>>^ Eu sou Jeová, seu Deus, que os tirou da terra do Egito para lhes dar a terra de Canaã, para ser seu Deus.
+
+[[v3-25-39]]
+
+^<<v3-25-39,39>>^ “‘Se seu irmão que mora no seu meio ficar pobre e tiver de se vender a você, não o force a trabalhar como escravo.
+
+[[v3-25-40]]
+
+^<<v3-25-40,40>>^ Ele deve ser tratado como um trabalhador contratado, como um colono. Ele deve servi-lo até o ano do jubileu.
+
+[[v3-25-41]]
+
+^<<v3-25-41,41>>^ Então irá embora, ele e seus filhos, e retornará à sua família. Ele deve voltar à propriedade dos seus antepassados.
+
+[[v3-25-42]]
+
+^<<v3-25-42,42>>^ Pois eles são meus escravos, que tirei da terra do Egito. Não devem se vender assim como se vende um escravo.
+
+[[v3-25-43]]
+
+^<<v3-25-43,43>>^ Não o trate com crueldade; tenha temor do seu Deus.
+
+[[v3-25-44]]
+
+^<<v3-25-44,44>>^ Seu escravo e sua escrava devem vir das nações que há em volta de vocês. Delas podem comprar um escravo ou uma escrava.
+
+[[v3-25-45]]
+
+^<<v3-25-45,45>>^ Também podem comprar escravos dentre os filhos dos colonos que moram entre vocês — dentre eles e dentre as famílias que eles formaram na sua terra —, e eles se tornarão sua propriedade.
+
+[[v3-25-46]]
+
+^<<v3-25-46,46>>^ Vocês poderão dá-los aos seus filhos como herança, como propriedade a ser herdada permanentemente. Vocês podem usá-los como trabalhadores, mas não sujeitem seus irmãos israelitas a tratamento cruel.
+
+[[v3-25-47]]
+
+^<<v3-25-47,47>>^ “‘Mas, se um residente estrangeiro ou um colono entre vocês enriquecer, e seu irmão israelita que vive no seu meio ficar pobre e tiver de se vender ao residente estrangeiro ou ao colono, ou a um membro da família do residente estrangeiro,
+
+[[v3-25-48]]
+
+^<<v3-25-48,48>>^ ele continuará a ter o direito de ser resgatado depois de se ter vendido. Um dos seus irmãos pode resgatá-lo,
+
+[[v3-25-49]]
+
+^<<v3-25-49,49>>^ ou seu tio ou o filho do seu tio pode resgatá-lo, ou qualquer parente próximo,^&#42;1^ alguém da sua família, pode resgatá-lo.
+“‘Ou, se ele mesmo tiver enriquecido, ele pode resgatar a si mesmo.
+
+[NOTE]
+====
+. Ou: “parente consanguíneo”.
+====
+
+[[v3-25-50]]
+
+^<<v3-25-50,50>>^ Ele deve calcular com aquele que o comprou o tempo desde o ano em que se vendeu a ele até o ano do jubileu, e o preço de venda corresponderá ao número de anos. O valor dos seus dias de trabalho durante esse tempo será calculado com base no salário de um trabalhador contratado.
+
+[[v3-25-51]]
+
+^<<v3-25-51,51>>^ Se faltarem muitos anos, ele deve pagar o resgate proporcional aos anos que ainda restarem.
+
+[[v3-25-52]]
+
+^<<v3-25-52,52>>^ E, se restarem apenas alguns anos até o ano do jubileu, ele deve fazer um cálculo para si e pagar um resgate proporcional a esses anos restantes.
+
+[[v3-25-53]]
+
+^<<v3-25-53,53>>^ Ele deve servir ao comprador como trabalhador contratado ano após ano, e você não deve permitir que o comprador o trate com crueldade.
+
+[[v3-25-54]]
+
+^<<v3-25-54,54>>^ No entanto, se ele não puder resgatar a si mesmo nesses termos, será libertado no ano do jubileu, ele e seus filhos.
+
+[[v3-25-55]]
+
+^<<v3-25-55,55>>^ “‘Pois os israelitas são meus escravos. Eles são meus escravos, que tirei da terra do Egito. Eu sou Jeová, seu Deus.
+
+'''
+
+xref:003-levitico/003-levitico-024.adoc#v3-24-0[&#60; Capítulo Anterior] | <<v3-25-0,Topo>> | xref:003-levitico/003-levitico-026.adoc#v3-26-0[Próximo Capítulo &#62;]

@@ -1,0 +1,155 @@
+include::./index.adoc[]
+
+[[v18-10-0]]
+=== Jó, 10
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v18-10-1]]
+
+^<<v18-10-1,1>>^ “Eu detesto^&#42;1^ a minha vida!
+Vou desabafar as minhas queixas.
+Vou falar na minha amargura.^&#42;2^
+
+[NOTE]
+====
+. Ou: “Minha alma detesta”.
+. Ou: “com a amargura da minha alma”.
+====
+
+[[v18-10-2]]
+
+^<<v18-10-2,2>>^ Direi a Deus: ‘Não me declares culpado.
+Diz-me por que me condenas.
+
+[[v18-10-3]]
+
+^<<v18-10-3,3>>^ Tens alguma vantagem em oprimir,
+Em desprezar o trabalho das tuas mãos,
+Enquanto favoreces os conselhos dos maus?
+
+[[v18-10-4]]
+
+^<<v18-10-4,4>>^ Por acaso tens olhos humanos,^&#42;1^
+Ou vês assim como o homem mortal vê?
+
+[NOTE]
+====
+. Lit.: “de carne”.
+====
+
+[[v18-10-5]]
+
+^<<v18-10-5,5>>^ Será que os teus dias são como os dias dos mortais,
+Ou será que os teus anos são como os de um homem,
+
+[[v18-10-6]]
+
+^<<v18-10-6,6>>^ Para que tentes encontrar o meu erro
+E continues a procurar o meu pecado?
+
+[[v18-10-7]]
+
+^<<v18-10-7,7>>^ Sabes que não sou culpado
+E que ninguém pode me salvar das tuas mãos.
+
+[[v18-10-8]]
+
+^<<v18-10-8,8>>^ Tuas próprias mãos me modelaram e me fizeram,
+Mas agora queres me destruir completamente.
+
+[[v18-10-9]]
+
+^<<v18-10-9,9>>^ Lembra-te, por favor, de que me fizeste do barro,
+Mas agora tu me fazes voltar ao pó.
+
+[[v18-10-10]]
+
+^<<v18-10-10,10>>^ Não me derramaste como leite
+E me coalhaste como queijo?
+
+[[v18-10-11]]
+
+^<<v18-10-11,11>>^ Tu me vestiste de pele e carne,
+E me teceste com ossos e tendões.
+
+[[v18-10-12]]
+
+^<<v18-10-12,12>>^ Tu me deste vida e me demonstraste amor leal,
+E com teu cuidado guardaste o meu espírito.^&#42;1^
+
+[NOTE]
+====
+. Ou: “o meu fôlego; a minha vida”.
+====
+
+[[v18-10-13]]
+
+^<<v18-10-13,13>>^ Mas secretamente quiseste fazer estas coisas.^&#42;1^
+Sei que estas coisas vêm de ti.
+
+[NOTE]
+====
+. Lit.: “E estas coisas escondeste no teu coração.”
+====
+
+[[v18-10-14]]
+
+^<<v18-10-14,14>>^ Se eu pecasse, tu me observarias,
+E não perdoarias o meu erro.
+
+[[v18-10-15]]
+
+^<<v18-10-15,15>>^ Se sou culpado, ai de mim!
+E mesmo que eu seja inocente, não posso levantar a cabeça,
+Pois estou cheio de desonra e aflição.
+
+[[v18-10-16]]
+
+^<<v18-10-16,16>>^ Se eu levanto a cabeça, tu me caças como um leão
+E novamente mostras teu poder contra mim.
+
+[[v18-10-17]]
+
+^<<v18-10-17,17>>^ Trazes novas testemunhas contra mim
+E ficas mais irado comigo,
+Ao passo que me sobrevém uma dificuldade após outra.
+
+[[v18-10-18]]
+
+^<<v18-10-18,18>>^ Portanto, por que me fizeste sair do ventre?
+Eu deveria ter morrido antes que algum olho me visse.
+
+[[v18-10-19]]
+
+^<<v18-10-19,19>>^ Seria como se eu nunca tivesse existido;
+Eu teria sido levado direto do ventre para a sepultura.’
+
+[[v18-10-20]]
+
+^<<v18-10-20,20>>^ Não são poucos os meus dias? Que ele me deixe em paz,
+Que desvie seus olhos de mim, para que eu tenha um pouco de alívio^&#42;1^
+
+[NOTE]
+====
+. Ou: “me alegre um pouco”.
+====
+
+[[v18-10-21]]
+
+^<<v18-10-21,21>>^ Antes de ir embora, e não voltar mais,
+Para a terra de densas trevas,^&#42;1^
+
+[NOTE]
+====
+. Ou: “da escuridão e da sombra da morte”.
+====
+
+[[v18-10-22]]
+
+^<<v18-10-22,22>>^ Para a terra de completa escuridão,
+Uma terra de sombras tenebrosas e desordem,
+Onde até a luz é como a escuridão.”
+
+'''
+
+xref:018-jo/018-jo-009.adoc#v18-9-0[&#60; Capítulo Anterior] | <<v18-10-0,Topo>> | xref:018-jo/018-jo-011.adoc#v18-11-0[Próximo Capítulo &#62;]

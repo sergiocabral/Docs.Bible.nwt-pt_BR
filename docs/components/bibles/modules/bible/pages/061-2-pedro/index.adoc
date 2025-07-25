@@ -1,0 +1,16 @@
+include::../index.adoc[]
+
+[[v61-0-0]]
+== 2 Pedro
+
+[cols="8*^"]
+|===
+| xref:061-2-pedro/061-2-pedro-001.adoc#v61-1-0[1]
+| xref:061-2-pedro/061-2-pedro-002.adoc#v61-2-0[2]
+| xref:061-2-pedro/061-2-pedro-003.adoc#v61-3-0[3]
+|
+|
+|
+|
+|
+|===

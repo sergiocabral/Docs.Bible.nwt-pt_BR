@@ -1,0 +1,85 @@
+include::./index.adoc[]
+
+[[v56-3-0]]
+=== Tito, 3
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v56-3-1]]
+
+^<<v56-3-1,1>>^ Continue a lembrar-lhes que estejam sujeitos e sejam obedientes a governos e autoridades, que estejam prontos para toda boa obra,
+
+[[v56-3-2]]
+
+^<<v56-3-2,2>>^ que não falem mal de ninguém, que não sejam briguentos, mas que sejam razoáveis, demonstrando toda brandura para com todos os homens.
+
+[[v56-3-3]]
+
+^<<v56-3-3,3>>^ Pois antes nós também éramos insensatos, desobedientes, tínhamos sido desviados, éramos escravos de vários desejos e prazeres, vivíamos em maldade e inveja, éramos detestáveis, odiávamos uns aos outros.
+
+[[v56-3-4]]
+
+^<<v56-3-4,4>>^ No entanto, quando foi manifestada a bondade do nosso Salvador, Deus, e seu amor à humanidade,
+
+[[v56-3-5]]
+
+^<<v56-3-5,5>>^ ele nos salvou (não por causa de obras justas que tivéssemos realizado, mas por causa da sua misericórdia) por meio do banho que nos trouxe à vida e por nos renovar pelo espírito santo.
+
+[[v56-3-6]]
+
+^<<v56-3-6,6>>^ Ele derramou esse espírito ricamente^&#42;1^ sobre nós por meio de Jesus Cristo, nosso Salvador,
+
+[NOTE]
+====
+. Ou: “generosamente”.
+====
+
+[[v56-3-7]]
+
+^<<v56-3-7,7>>^ a fim de que, depois de sermos declarados justos por meio da sua bondade imerecida, nos tornássemos herdeiros segundo uma esperança de vida eterna.
+
+[[v56-3-8]]
+
+^<<v56-3-8,8>>^ Essas palavras são dignas de confiança, e eu desejo que você continue a enfatizar essas coisas, a fim de que aqueles que creram em Deus mantenham a mente concentrada em praticar boas obras. Essas coisas são excelentes e benéficas para os homens.
+
+[[v56-3-9]]
+
+^<<v56-3-9,9>>^ Mas não se envolva de modo algum em controvérsias tolas, genealogias, brigas e discussões sobre a Lei, porque são inúteis e vãs.
+
+[[v56-3-10]]
+
+^<<v56-3-10,10>>^ Quanto ao homem que promove uma seita, rejeite-o depois de aconselhá-lo com firmeza^&#42;1^ uma primeira e uma segunda vez,
+
+[NOTE]
+====
+. Ou: “de avisá-lo”.
+====
+
+[[v56-3-11]]
+
+^<<v56-3-11,11>>^ sabendo que ele se desviou do caminho, está pecando e condena a si mesmo.
+
+[[v56-3-12]]
+
+^<<v56-3-12,12>>^ Quando eu lhe enviar Ártemas ou Tíquico, faça o máximo para me visitar em Nicópolis, pois é ali que decidi passar o inverno.
+
+[[v56-3-13]]
+
+^<<v56-3-13,13>>^ Providencie tudo o que for necessário para a viagem de Zenas, que é perito na Lei, e de Apolo, de modo que não lhes falte nada.
+
+[[v56-3-14]]
+
+^<<v56-3-14,14>>^ E que os nossos também aprendam a se ocupar em boas obras, a fim de ajudar em casos de urgente necessidade, para que não sejam improdutivos.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “infrutíferos”.
+====
+
+[[v56-3-15]]
+
+^<<v56-3-15,15>>^ Todos os que estão comigo lhe mandam saudações. Transmita minhas saudações aos que nos amam na fé.
+Que a bondade imerecida esteja com todos vocês.
+
+'''
+
+xref:056-tito/056-tito-002.adoc#v56-2-0[&#60; Capítulo Anterior] | <<v56-3-0,Topo>> | xref:057-filemon/057-filemon-001.adoc#v57-1-0[Próximo Capítulo &#62;]

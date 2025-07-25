@@ -1,0 +1,176 @@
+include::./index.adoc[]
+
+[[v19-94-0]]
+=== Salmos, 94
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v19-94-1]]
+
+^<<v19-94-1,1>>^ Ó Deus de vinganças, Jeová,
+Ó Deus de vinganças, resplandece!
+
+[[v19-94-2]]
+
+^<<v19-94-2,2>>^ Levanta-te, ó Juiz da terra.
+Retribui aos arrogantes o que eles merecem.
+
+[[v19-94-3]]
+
+^<<v19-94-3,3>>^ Até quando, ó Jeová,
+Até quando os maus continuarão a se alegrar?
+
+[[v19-94-4]]
+
+^<<v19-94-4,4>>^ Eles despejam palavras arrogantes;
+Todos os malfeitores se gabam.
+
+[[v19-94-5]]
+
+^<<v19-94-5,5>>^ Eles esmagam o teu povo, ó Jeová,
+E oprimem a tua herança.
+
+[[v19-94-6]]
+
+^<<v19-94-6,6>>^ Matam a viúva e o residente estrangeiro,
+E assassinam os órfãos.^&#42;1^
+
+[NOTE]
+====
+. Ou: “órfãos de pai”.
+====
+
+[[v19-94-7]]
+
+^<<v19-94-7,7>>^ Dizem: “Jah não vê;
+O Deus de Jacó não sabe o que está acontecendo.”
+
+[[v19-94-8]]
+
+^<<v19-94-8,8>>^ Entendam isso, ó irracionais.
+Vocês, tolos, quando serão capazes de compreender?^&#42;1^
+
+[NOTE]
+====
+. Ou: “quando mostrarão perspicácia”.
+====
+
+[[v19-94-9]]
+
+^<<v19-94-9,9>>^ Será que Aquele que fez^&#42;1^ o ouvido não pode ouvir?
+Aquele que formou o olho não pode ver?
+
+[NOTE]
+====
+. Lit.: “plantou”.
+====
+
+[[v19-94-10]]
+
+^<<v19-94-10,10>>^ Será que Aquele que corrige nações não pode repreender?
+É ele que dá às pessoas conhecimento!
+
+[[v19-94-11]]
+
+^<<v19-94-11,11>>^ Jeová conhece os pensamentos dos homens,
+Sabe que não passam de um sopro.
+
+[[v19-94-12]]
+
+^<<v19-94-12,12>>^ Feliz o homem a quem tu corriges, ó Jah,
+E a quem ensinas a tua lei,
+
+[[v19-94-13]]
+
+^<<v19-94-13,13>>^ Para que ele fique tranquilo nos dias de calamidade,
+Até que se abra uma cova para os maus.
+
+[[v19-94-14]]
+
+^<<v19-94-14,14>>^ Pois Jeová não desamparará o seu povo,
+Não abandonará a sua herança.
+
+[[v19-94-15]]
+
+^<<v19-94-15,15>>^ A decisão judicial voltará a ser justa,
+E todos os que são retos de coração a seguirão.
+
+[[v19-94-16]]
+
+^<<v19-94-16,16>>^ Quem se levantará a meu favor contra os maus?
+Quem tomará posição a meu favor contra os malfeitores?
+
+[[v19-94-17]]
+
+^<<v19-94-17,17>>^ Se Jeová não tivesse sido meu ajudador,
+Em pouco tempo eu^&#42;1^ teria morrido.^&#42;2^
+
+[NOTE]
+====
+. Ou: “minha alma”.
+. Lit.: “residido em silêncio”.
+====
+
+[[v19-94-18]]
+
+^<<v19-94-18,18>>^ Quando eu disse: “Meus pés estão escorregando”,
+O teu amor leal me sustentou, ó Jeová.
+
+[[v19-94-19]]
+
+^<<v19-94-19,19>>^ Quando as ansiedades^&#42;1^ me esmagaram,^&#42;2^
+Tu me consolaste e me acalmaste.^&#42;3^
+
+[NOTE]
+====
+. Ou: “os pensamentos inquietantes”.
+. Ou: “se tornaram muitas dentro de mim”.
+. Ou: “Tuas consolações acalmaram a minha alma”.
+====
+
+[[v19-94-20]]
+
+^<<v19-94-20,20>>^ Será que um trono corrupto pode estar aliado^&#42;1^ a ti,
+Ao passo que, em nome da lei,^&#42;2^ trama a desgraça?
+
+[NOTE]
+====
+. Ou: “governantes (juízes) corruptos podem estar aliados”.
+. Ou: “por decreto”.
+====
+
+[[v19-94-21]]
+
+^<<v19-94-21,21>>^ Eles fazem ataques cruéis contra o justo^&#42;1^
+E condenam o inocente à morte.^&#42;2^
+
+[NOTE]
+====
+. Ou: “a alma do justo”.
+. Lit.: “E declaram culpado (mau) o sangue do inocente”.
+====
+
+[[v19-94-22]]
+
+^<<v19-94-22,22>>^ Mas Jeová será para mim um refúgio seguro,^&#42;1^
+Meu Deus é a minha rocha de refúgio.
+
+[NOTE]
+====
+. Ou: “refúgio num lugar alto”.
+====
+
+[[v19-94-23]]
+
+^<<v19-94-23,23>>^ Fará recair sobre eles as suas próprias maldades.
+Ele os destruirá^&#42;1^ com a própria maldade deles.
+Jeová, nosso Deus, os destruirá.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “silenciará”.
+. Lit.: “silenciará”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-093.adoc#v19-93-0[&#60; Capítulo Anterior] | <<v19-94-0,Topo>> | xref:019-salmo/019-salmo-095.adoc#v19-95-0[Próximo Capítulo &#62;]

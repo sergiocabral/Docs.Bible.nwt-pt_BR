@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v2-24-0]]
+=== Êxodo, 24
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v2-24-1]]
+
+^<<v2-24-1,1>>^ Depois ele disse a Moisés: “Suba ao encontro de Jeová. Leve com você Arão, Nadabe, Abiú e 70 anciãos de Israel, e curvem-se à distância.
+
+[[v2-24-2]]
+
+^<<v2-24-2,2>>^ Moisés deve se aproximar de Jeová sozinho; os outros não devem se aproximar, e o povo não deve subir com ele.”
+
+[[v2-24-3]]
+
+^<<v2-24-3,3>>^ Então Moisés foi ao povo e relatou todas as palavras de Jeová e todas as decisões judiciais, e todo o povo respondeu com uma só voz: “Estamos dispostos a fazer todas as coisas que Jeová falou.”
+
+[[v2-24-4]]
+
+^<<v2-24-4,4>>^ Assim, Moisés escreveu todas as palavras de Jeová. Levantou-se então de manhã cedo, construiu um altar ao sopé do monte e erigiu 12 colunas correspondentes às 12 tribos de Israel.
+
+[[v2-24-5]]
+
+^<<v2-24-5,5>>^ Depois enviou jovens israelitas, e eles fizeram ofertas queimadas e ofereceram novilhos como sacrifícios de participação em comum a Jeová.
+
+[[v2-24-6]]
+
+^<<v2-24-6,6>>^ Moisés pegou metade do sangue e o pôs em tigelas, e aspergiu a outra metade do sangue sobre o altar.
+
+[[v2-24-7]]
+
+^<<v2-24-7,7>>^ Então ele pegou o livro do pacto e o leu em voz alta ao povo. E eles disseram: “Estamos dispostos a fazer tudo o que Jeová falou, e seremos obedientes.”
+
+[[v2-24-8]]
+
+^<<v2-24-8,8>>^ Portanto, Moisés pegou o sangue e o aspergiu sobre o povo, e disse: “Este é o sangue do pacto que Jeová fez com vocês em harmonia com todas essas palavras.”
+
+[[v2-24-9]]
+
+^<<v2-24-9,9>>^ Moisés, Arão, Nadabe, Abiú e 70 anciãos de Israel subiram
+
+[[v2-24-10]]
+
+^<<v2-24-10,10>>^ e viram o Deus de Israel. Sob os pés dele havia o que parecia ser um piso de safira, puro como os próprios céus.
+
+[[v2-24-11]]
+
+^<<v2-24-11,11>>^ Ele não feriu os homens de destaque de Israel; eles tiveram uma visão do verdadeiro Deus, e comeram e beberam.
+
+[[v2-24-12]]
+
+^<<v2-24-12,12>>^ Então Jeová disse a Moisés: “Suba ao meu encontro no monte e fique ali. Eu lhe darei as tábuas de pedra com as leis e os mandamentos que escreverei para a instrução do povo.”
+
+[[v2-24-13]]
+
+^<<v2-24-13,13>>^ Moisés e Josué, seu ajudante, aprontaram-se, e Moisés subiu ao monte do verdadeiro Deus.
+
+[[v2-24-14]]
+
+^<<v2-24-14,14>>^ Mas ele tinha dito aos anciãos: “Esperem aqui por nós até voltarmos a vocês. Arão e Hur ficarão com vocês. Quem tiver uma questão a resolver pode se dirigir a eles.”
+
+[[v2-24-15]]
+
+^<<v2-24-15,15>>^ Então Moisés subiu ao monte enquanto a nuvem cobria o monte.
+
+[[v2-24-16]]
+
+^<<v2-24-16,16>>^ A glória de Jeová permaneceu sobre o monte Sinai, e a nuvem o cobriu por seis dias. No sétimo dia, de dentro da nuvem, ele chamou Moisés.
+
+[[v2-24-17]]
+
+^<<v2-24-17,17>>^ Para os israelitas, que estavam observando, a glória de Jeová parecia um fogo consumidor no cume do monte.
+
+[[v2-24-18]]
+
+^<<v2-24-18,18>>^ Então Moisés entrou na nuvem e subiu ao monte. E Moisés ficou no monte 40 dias e 40 noites.
+
+'''
+
+xref:002-exodo/002-exodo-023.adoc#v2-23-0[&#60; Capítulo Anterior] | <<v2-24-0,Topo>> | xref:002-exodo/002-exodo-025.adoc#v2-25-0[Próximo Capítulo &#62;]

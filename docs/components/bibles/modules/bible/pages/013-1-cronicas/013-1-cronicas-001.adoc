@@ -1,0 +1,277 @@
+include::./index.adoc[]
+
+[[v13-1-0]]
+=== O Primeiro das Crônicas, 1
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v13-1-1]]
+
+^<<v13-1-1,1>>^ Adão,
+Sete,
+Enos,
+
+[[v13-1-2]]
+
+^<<v13-1-2,2>>^ Quenã,
+Maalalel,
+Jarede,
+
+[[v13-1-3]]
+
+^<<v13-1-3,3>>^ Enoque,
+Metusalém,
+Lameque,
+
+[[v13-1-4]]
+
+^<<v13-1-4,4>>^ Noé,
+Sem, Cã e Jafé.
+
+[[v13-1-5]]
+
+^<<v13-1-5,5>>^ Os filhos de Jafé foram Gômer, Magogue, Madai, Javã, Tubal, Meseque e Tiras.
+
+[[v13-1-6]]
+
+^<<v13-1-6,6>>^ Os filhos de Gômer foram Asquenaz, Rifate e Togarma.
+
+[[v13-1-7]]
+
+^<<v13-1-7,7>>^ Os filhos de Javã foram Elisá, Társis, Quitim e Rodanim.
+
+[[v13-1-8]]
+
+^<<v13-1-8,8>>^ Os filhos de Cã foram Cuche, Mizraim, Pute e Canaã.
+
+[[v13-1-9]]
+
+^<<v13-1-9,9>>^ Os filhos de Cuche foram Sebá, Havilá, Sabtá, Raamá e Sabteca.
+Os filhos de Raamá foram Sabá e Dedã.
+
+[[v13-1-10]]
+
+^<<v13-1-10,10>>^ Cuche tornou-se pai de Ninrode. Este foi o primeiro a se tornar poderoso na terra.
+
+[[v13-1-11]]
+
+^<<v13-1-11,11>>^ Mizraim tornou-se pai de Ludim, de Anamim, de Leabim, de Naftuim,
+
+[[v13-1-12]]
+
+^<<v13-1-12,12>>^ de Patrusim, de Casluim (de quem se originaram os filisteus) e de Caftorim.
+
+[[v13-1-13]]
+
+^<<v13-1-13,13>>^ Canaã tornou-se pai de Sídon, seu primogênito, e de Hete,
+
+[[v13-1-14]]
+
+^<<v13-1-14,14>>^ e também dos jebuseus, dos amorreus, dos girgaseus,
+
+[[v13-1-15]]
+
+^<<v13-1-15,15>>^ dos heveus, dos arqueus, dos sineus,
+
+[[v13-1-16]]
+
+^<<v13-1-16,16>>^ dos arvadeus, dos zemareus e dos hamateus.
+
+[[v13-1-17]]
+
+^<<v13-1-17,17>>^ Os filhos de Sem foram Elão, Assur, Arpaxade, Lude e Arã,
+E^&#42;1^ Uz, Hul, Géter e Más.
+
+[NOTE]
+====
+. Os nomes alistados a seguir são dos filhos de Arã. Veja Gênesis 10:23.
+====
+
+[[v13-1-18]]
+
+^<<v13-1-18,18>>^ Arpaxade tornou-se pai de Selá, e Selá tornou-se pai de Éber.
+
+[[v13-1-19]]
+
+^<<v13-1-19,19>>^ Éber tornou-se pai de dois filhos. O nome de um era Pelegue,^&#42;1^ porque no tempo dele a terra^&#42;2^ foi dividida. O nome do seu irmão era Joctã.
+
+[NOTE]
+====
+. Que significa “divisão”.
+. Ou: “a população da terra”.
+====
+
+[[v13-1-20]]
+
+^<<v13-1-20,20>>^ Joctã tornou-se pai de Almodade, de Selefe, de Hazarmavete, de Jerá,
+
+[[v13-1-21]]
+
+^<<v13-1-21,21>>^ de Hadorão, de Uzal, de Dicla,
+
+[[v13-1-22]]
+
+^<<v13-1-22,22>>^ de Obal, de Abimael, de Sabá,
+
+[[v13-1-23]]
+
+^<<v13-1-23,23>>^ de Ofir, de Havilá e de Jobabe; todos esses foram filhos de Joctã.
+
+[[v13-1-24]]
+
+^<<v13-1-24,24>>^ Sem,
+Arpaxade,
+Selá,
+
+[[v13-1-25]]
+
+^<<v13-1-25,25>>^ Éber,
+Pelegue,
+Reú,
+
+[[v13-1-26]]
+
+^<<v13-1-26,26>>^ Serugue,
+Naor,
+Tera,
+
+[[v13-1-27]]
+
+^<<v13-1-27,27>>^ Abrão, isto é, Abraão.
+
+[[v13-1-28]]
+
+^<<v13-1-28,28>>^ Os filhos de Abraão foram Isaque e Ismael.
+
+[[v13-1-29]]
+
+^<<v13-1-29,29>>^ Estes foram os seus descendentes: Nebaiote, o primogênito de Ismael, depois Quedar, Adbeel, Mibsão,
+
+[[v13-1-30]]
+
+^<<v13-1-30,30>>^ Misma, Dumá, Massa, Hadade, Tema,
+
+[[v13-1-31]]
+
+^<<v13-1-31,31>>^ Jetur, Nafis e Quedemá. Esses foram os filhos de Ismael.
+
+[[v13-1-32]]
+
+^<<v13-1-32,32>>^ Os filhos de Quetura, concubina de Abraão, foram Zinrã, Jocsã, Medã, Midiã, Isbaque e Suá.
+Os filhos de Jocsã foram Sabá e Dedã.
+
+[[v13-1-33]]
+
+^<<v13-1-33,33>>^ Os filhos de Midiã foram Efá, Efer, Hanoque, Abida e Elda.
+Todos esses foram os filhos de Quetura.
+
+[[v13-1-34]]
+
+^<<v13-1-34,34>>^ Abraão tornou-se pai de Isaque. Os filhos de Isaque foram Esaú e Israel.
+
+[[v13-1-35]]
+
+^<<v13-1-35,35>>^ Os filhos de Esaú foram Elifaz, Reuel, Jeús, Jalão e Corá.
+
+[[v13-1-36]]
+
+^<<v13-1-36,36>>^ Os filhos de Elifaz foram Temã, Omar, Zefô, Gatã, Quenaz, Timna e Amaleque.
+
+[[v13-1-37]]
+
+^<<v13-1-37,37>>^ Os filhos de Reuel foram Naate, Zerá, Samá e Mizá.
+
+[[v13-1-38]]
+
+^<<v13-1-38,38>>^ Os filhos de Seir foram Lotã, Sobal, Zibeão, Aná, Disom, Ezer e Disã.
+
+[[v13-1-39]]
+
+^<<v13-1-39,39>>^ Os filhos de Lotã foram Hori e Homã. A irmã de Lotã era Timna.
+
+[[v13-1-40]]
+
+^<<v13-1-40,40>>^ Os filhos de Sobal foram Alvã, Manaate, Ebal, Sefô e Onão.
+Os filhos de Zibeão foram Aiá e Aná.
+
+[[v13-1-41]]
+
+^<<v13-1-41,41>>^ O filho^&#42;1^ de Aná foi Disom.
+Os filhos de Disom foram Hendã, Esbã, Itrã e Querã.
+
+[NOTE]
+====
+. Lit.: “Os filhos”.
+====
+
+[[v13-1-42]]
+
+^<<v13-1-42,42>>^ Os filhos de Ezer foram Bilã, Zaavã e Acã.
+Os filhos de Disã foram Uz e Arã.
+
+[[v13-1-43]]
+
+^<<v13-1-43,43>>^ Os reis que reinaram na terra de Edom antes de haver qualquer rei sobre os israelitas^&#42;1^ foram os seguintes: Bela, filho de Beor; o nome da sua cidade era Dinabá.
+
+[NOTE]
+====
+. Lit.: “filhos de Israel”.
+====
+
+[[v13-1-44]]
+
+^<<v13-1-44,44>>^ Quando Bela morreu, Jobabe, filho de Zerá, de Bozra, começou a reinar no seu lugar.
+
+[[v13-1-45]]
+
+^<<v13-1-45,45>>^ Quando Jobabe morreu, Husão, da terra dos temanitas, começou a reinar no seu lugar.
+
+[[v13-1-46]]
+
+^<<v13-1-46,46>>^ Quando Husão morreu, Hadade, filho de Bedade, começou a reinar no seu lugar. Ele derrotou Midiã no território^&#42;1^ de Moabe, e o nome da sua cidade era Avite.
+
+[NOTE]
+====
+. Lit.: “campo”.
+====
+
+[[v13-1-47]]
+
+^<<v13-1-47,47>>^ Quando Hadade morreu, Samlá, de Masreca, começou a reinar no seu lugar.
+
+[[v13-1-48]]
+
+^<<v13-1-48,48>>^ Quando Samlá morreu, Saul, de Reobote, que fica junto ao rio, começou a reinar no seu lugar.
+
+[[v13-1-49]]
+
+^<<v13-1-49,49>>^ Quando Saul morreu, Baal-Hanã, filho de Acbor, começou a reinar no seu lugar.
+
+[[v13-1-50]]
+
+^<<v13-1-50,50>>^ Quando Baal-Hanã morreu, Hadade começou a reinar no seu lugar. O nome da sua cidade era Paú, e o nome da sua esposa era Meetabel, filha de Matrede, que era filha de Mezaabe.
+
+[[v13-1-51]]
+
+^<<v13-1-51,51>>^ Então Hadade morreu.
+Os chefes de tribo^&#42;1^ de Edom foram chefe Timna, chefe Alva, chefe Jetete,
+
+[NOTE]
+====
+. Ou: “xeiques”.
+====
+
+[[v13-1-52]]
+
+^<<v13-1-52,52>>^ chefe Oolibama, chefe Elá, chefe Pinom,
+
+[[v13-1-53]]
+
+^<<v13-1-53,53>>^ chefe Quenaz, chefe Temã, chefe Mibzar,
+
+[[v13-1-54]]
+
+^<<v13-1-54,54>>^ chefe Magdiel, chefe Irão. Esses foram os chefes de Edom.
+
+'''
+
+xref:012-2-reis/012-2-reis-025.adoc#v12-25-0[&#60; Capítulo Anterior] | <<v13-1-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-002.adoc#v13-2-0[Próximo Capítulo &#62;]

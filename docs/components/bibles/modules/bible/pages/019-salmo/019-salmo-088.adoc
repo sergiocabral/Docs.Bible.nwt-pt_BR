@@ -1,0 +1,143 @@
+include::./index.adoc[]
+
+[[v19-88-0]]
+=== Salmos, 88
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Cântico. Salmo dos filhos de Corá. Ao regente; no estilo de maalate,^&#42;1^ para ser cantado alternadamente. Masquil^&#42;2^ de Hemã, o ezraíta._
+
+[[v19-88-1]]
+
+^<<v19-88-1,1>>^ Ó Jeová, Deus da minha salvação,
+De dia clamo
+E de noite chego à tua presença.
+
+[[v19-88-2]]
+
+^<<v19-88-2,2>>^ Que a minha oração chegue a ti;
+Inclina o teu ouvido ao^&#42;1^ meu clamor por ajuda.
+
+[NOTE]
+====
+. Ou: “Abaixa-te e ouve o”.
+====
+
+[[v19-88-3]]
+
+^<<v19-88-3,3>>^ Pois a minha alma^&#42;1^ está saturada de calamidade
+E a minha vida está à beira da Sepultura.^&#42;2^
+
+[NOTE]
+====
+. Veja o Glossário.
+. Ou: “do Seol”, isto é, a sepultura comum da humanidade. Veja o Glossário.
+====
+
+[[v19-88-4]]
+
+^<<v19-88-4,4>>^ Já sou contado entre os que descem à cova;^&#42;1^
+Tornei-me um homem sem forças,
+
+[NOTE]
+====
+. Ou: “sepultura”.
+====
+
+[[v19-88-5]]
+
+^<<v19-88-5,5>>^ Abandonado entre os mortos;
+Sou como os cadáveres, deitados numa sepultura,
+Dos quais já não te lembras
+E que foram tirados da tua proteção.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “mão”.
+====
+
+[[v19-88-6]]
+
+^<<v19-88-6,6>>^ Lançaste-me na cova mais profunda,
+Em lugares escuros, num grande abismo.
+
+[[v19-88-7]]
+
+^<<v19-88-7,7>>^ A tua fúria pesa sobre mim,
+E tu me oprimes com as tuas ondas poderosas. (Selá)
+
+[[v19-88-8]]
+
+^<<v19-88-8,8>>^ Afastaste de mim os meus conhecidos,
+Tornaste-me detestável para eles.
+Estou preso e não posso fugir.
+
+[[v19-88-9]]
+
+^<<v19-88-9,9>>^ Meus olhos enfraqueceram por causa da minha aflição.
+Eu te invoco o dia inteiro, ó Jeová;
+A ti estendo as mãos em oração.
+
+[[v19-88-10]]
+
+^<<v19-88-10,10>>^ Será que farás milagres para os mortos?
+Podem os impotentes na morte se levantar para te louvar? (Selá)
+
+[[v19-88-11]]
+
+^<<v19-88-11,11>>^ Será o teu amor leal declarado na sepultura,
+A tua fidelidade no lugar de destruição?^&#42;1^
+
+[NOTE]
+====
+. Ou: “no Abadon”.
+====
+
+[[v19-88-12]]
+
+^<<v19-88-12,12>>^ Serão os teus milagres conhecidos na escuridão,
+Ou a tua justiça na terra do esquecimento?
+
+[[v19-88-13]]
+
+^<<v19-88-13,13>>^ Mas eu ainda clamo a ti por ajuda, ó Jeová,
+Cada manhã a minha oração chega à tua presença.
+
+[[v19-88-14]]
+
+^<<v19-88-14,14>>^ Por que, ó Jeová, tu me rejeitas?^&#42;1^
+Por que escondes de mim a tua face?
+
+[NOTE]
+====
+. Ou: “rejeitas a minha alma”.
+====
+
+[[v19-88-15]]
+
+^<<v19-88-15,15>>^ Desde a juventude,
+Sou afligido e estou perto da morte;
+Estou entorpecido pelas coisas terríveis que me deixas sofrer.
+
+[[v19-88-16]]
+
+^<<v19-88-16,16>>^ Tua ira ardente me esmaga;
+Teus terrores me destroem.
+
+[[v19-88-17]]
+
+^<<v19-88-17,17>>^ Cercam-me como águas o dia inteiro;
+Rodeiam-me por todos os lados.^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “de uma só vez”.
+====
+
+[[v19-88-18]]
+
+^<<v19-88-18,18>>^ Afastaste de mim amigos e companheiros;
+Minha companhia agora é a escuridão.
+
+'''
+
+xref:019-salmo/019-salmo-087.adoc#v19-87-0[&#60; Capítulo Anterior] | <<v19-88-0,Topo>> | xref:019-salmo/019-salmo-089.adoc#v19-89-0[Próximo Capítulo &#62;]

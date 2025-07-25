@@ -1,0 +1,88 @@
+include::./index.adoc[]
+
+[[v19-29-0]]
+=== Salmos, 29
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Salmo de Davi._
+
+[[v19-29-1]]
+
+^<<v19-29-1,1>>^ Deem a Jeová o que lhe é devido, ó filhos dos poderosos,
+Deem a Jeová o que lhe é devido por sua glória e força.
+
+[[v19-29-2]]
+
+^<<v19-29-2,2>>^ Deem a Jeová a glória que o seu nome merece.
+Curvem-se diante de^&#42;1^ Jeová com vestes santas.^&#42;2^
+
+[NOTE]
+====
+. Ou: “Adorem a”.
+. Ou, possivelmente: “por causa do esplendor da sua santidade”.
+====
+
+[[v19-29-3]]
+
+^<<v19-29-3,3>>^ A voz de Jeová é ouvida acima das águas;
+O Deus glorioso troveja.
+Jeová está acima de muitas águas.
+
+[[v19-29-4]]
+
+^<<v19-29-4,4>>^ A voz de Jeová é poderosa,
+A voz de Jeová é gloriosa.
+
+[[v19-29-5]]
+
+^<<v19-29-5,5>>^ A voz de Jeová quebra os cedros,
+Sim, Jeová despedaça os cedros do Líbano.
+
+[[v19-29-6]]
+
+^<<v19-29-6,6>>^ Ele faz que o Líbano^&#42;1^ pule como um bezerro,
+E o Sírion como um novilho selvagem.
+
+[NOTE]
+====
+. Pelo visto se refere à cadeia de montanhas do Líbano.
+====
+
+[[v19-29-7]]
+
+^<<v19-29-7,7>>^ A voz de Jeová lança^&#42;1^ labaredas de fogo;
+
+[NOTE]
+====
+. Ou: “golpeia com”.
+====
+
+[[v19-29-8]]
+
+^<<v19-29-8,8>>^ A voz de Jeová faz o deserto tremer;
+Jeová faz o deserto de Cades tremer.
+
+[[v19-29-9]]
+
+^<<v19-29-9,9>>^ A voz de Jeová faz as corças tremer e dar à luz,
+E desnuda as florestas.
+E todos no seu templo dizem: “Glória!”
+
+[[v19-29-10]]
+
+^<<v19-29-10,10>>^ Jeová está sentado em seu trono acima das águas de inundação;^&#42;1^
+Jeová está sentado em seu trono como Rei para sempre.
+
+[NOTE]
+====
+. Ou: “acima do oceano celeste”.
+====
+
+[[v19-29-11]]
+
+^<<v19-29-11,11>>^ Jeová dará força ao seu povo.
+Jeová abençoará o seu povo com paz.
+
+'''
+
+xref:019-salmo/019-salmo-028.adoc#v19-28-0[&#60; Capítulo Anterior] | <<v19-29-0,Topo>> | xref:019-salmo/019-salmo-030.adoc#v19-30-0[Próximo Capítulo &#62;]

@@ -1,0 +1,102 @@
+include::./index.adoc[]
+
+[[v6-1-0]]
+=== Josué, 1
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v6-1-1]]
+
+^<<v6-1-1,1>>^ Depois da morte de Moisés, o servo de Jeová, Jeová disse a Josué,^&#42;1^ filho de Num, ajudante de Moisés:
+
+[NOTE]
+====
+. Que significa “Jeová é salvação”.
+====
+
+[[v6-1-2]]
+
+^<<v6-1-2,2>>^ “Moisés, meu servo, morreu. Agora prepare-se, atravesse o Jordão, você e todo este povo, e vá para a terra que darei ao povo de Israel.
+
+[[v6-1-3]]
+
+^<<v6-1-3,3>>^ Eu lhes darei todo lugar em que vocês pisarem, assim como prometi a Moisés.
+
+[[v6-1-4]]
+
+^<<v6-1-4,4>>^ Seu território se estenderá desde o deserto até o Líbano e o grande rio, o rio Eufrates — toda a terra dos hititas — e até o Grande Mar,^&#42;1^ ao oeste.^&#42;2^
+
+[NOTE]
+====
+. Isto é, o Mediterrâneo.
+. Ou: “na direção do pôr do sol”.
+====
+
+[[v6-1-5]]
+
+^<<v6-1-5,5>>^ Ninguém poderá se manter firme diante de você enquanto você viver. Assim como estive com Moisés, assim estarei com você. Não o desampararei nem o abandonarei.
+
+[[v6-1-6]]
+
+^<<v6-1-6,6>>^ Seja corajoso e forte, pois é você que fará este povo herdar a terra que darei a eles, conforme jurei aos antepassados deles.
+
+[[v6-1-7]]
+
+^<<v6-1-7,7>>^ “Somente seja corajoso e muito forte, e obedeça cuidadosamente a toda a Lei que Moisés, meu servo, lhe ordenou. Não se desvie dela nem para a direita nem para a esquerda, a fim de agir sabiamente aonde quer que você for.
+
+[[v6-1-8]]
+
+^<<v6-1-8,8>>^ Este livro da Lei deve estar sempre em seus lábios; leia-o em voz baixa^&#42;1^ dia e noite, para obedecer cuidadosamente a tudo o que está escrito nele. Assim seu caminho será bem-sucedido, e você agirá sabiamente.
+
+[NOTE]
+====
+. Ou: “medite nele”.
+====
+
+[[v6-1-9]]
+
+^<<v6-1-9,9>>^ Não lhe ordenei que seja corajoso e forte? Não fique apavorado nem tenha medo, pois Jeová, seu Deus, estará com você aonde quer que você for.”
+
+[[v6-1-10]]
+
+^<<v6-1-10,10>>^ Então Josué ordenou aos oficiais do povo:
+
+[[v6-1-11]]
+
+^<<v6-1-11,11>>^ “Percorram todo o acampamento e deem esta ordem ao povo: ‘Preparem provisões, porque em três dias vocês atravessarão o Jordão para tomar posse da terra que Jeová, seu Deus, lhes dá como propriedade.’”
+
+[[v6-1-12]]
+
+^<<v6-1-12,12>>^ E aos rubenitas, aos gaditas e à meia tribo de Manassés, Josué disse:
+
+[[v6-1-13]]
+
+^<<v6-1-13,13>>^ “Lembrem-se do que Moisés, o servo de Jeová, lhes ordenou: ‘Jeová, seu Deus, lhes dá descanso; ele lhes deu esta terra.
+
+[[v6-1-14]]
+
+^<<v6-1-14,14>>^ Suas esposas, seus filhos e seus rebanhos morarão na terra que Moisés lhes deu deste lado^&#42;1^ do Jordão. Mas todos vocês, guerreiros valentes, devem atravessar em formação de batalha à frente dos seus irmãos. Vocês devem ajudá-los
+
+[NOTE]
+====
+. Isto é, do lado leste.
+====
+
+[[v6-1-15]]
+
+^<<v6-1-15,15>>^ até que Jeová dê descanso aos seus irmãos, assim como deu a vocês, e eles também tomem posse da terra que Jeová, seu Deus, lhes dá. Então voltem à terra que receberam para ocupar e tomem posse dela, a terra que Moisés, o servo de Jeová, lhes deu do lado leste do Jordão.’”
+
+[[v6-1-16]]
+
+^<<v6-1-16,16>>^ Eles responderam a Josué: “Faremos tudo o que você nos ordenou e iremos aonde quer que nos envie.
+
+[[v6-1-17]]
+
+^<<v6-1-17,17>>^ Assim como escutamos tudo o que Moisés disse, também escutaremos a você. Acima de tudo, que Jeová, seu Deus, esteja com você assim como esteve com Moisés.
+
+[[v6-1-18]]
+
+^<<v6-1-18,18>>^ Qualquer homem que se rebelar contra as suas ordens e que não obedecer a tudo o que você lhe ordenar será morto. Somente seja corajoso e forte.”
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-034.adoc#v5-34-0[&#60; Capítulo Anterior] | <<v6-1-0,Topo>> | xref:006-josue/006-josue-002.adoc#v6-2-0[Próximo Capítulo &#62;]

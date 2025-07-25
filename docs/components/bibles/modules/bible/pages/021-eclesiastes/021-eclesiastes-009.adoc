@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v21-9-0]]
+=== Eclesiastes, 9
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v21-9-1]]
+
+^<<v21-9-1,1>>^ Assim, refleti sobre tudo isso e concluí que os justos e os sábios, bem como suas obras, estão nas mãos do verdadeiro Deus. Os homens não se dão conta do amor nem do ódio que houve antes deles.
+
+[[v21-9-2]]
+
+^<<v21-9-2,2>>^ Todos têm o mesmo fim: o justo e o injusto, o bom e puro e o impuro, aqueles que oferecem sacrifícios e aqueles que não oferecem sacrifícios. O bom é igual ao pecador; quem faz juramentos é igual àquele que pensa antes de fazer um juramento.
+
+[[v21-9-3]]
+
+^<<v21-9-3,3>>^ Isto é algo aflitivo que acontece debaixo do sol: visto que todos têm o mesmo fim, o coração dos humanos está cheio de maldade; e há loucura no seu coração durante a sua vida, e depois eles morrem!^&#42;1^
+
+[NOTE]
+====
+. Lit.: “e depois disso — aos mortos”.
+====
+
+[[v21-9-4]]
+
+^<<v21-9-4,4>>^ Há esperança para aquele que está entre os vivos, porque é melhor o cão vivo do que o leão morto.
+
+[[v21-9-5]]
+
+^<<v21-9-5,5>>^ Pois os vivos sabem^&#42;1^ que morrerão, mas os mortos não sabem absolutamente nada, nem têm mais recompensa,^&#42;2^ porque toda lembrança deles caiu no esquecimento.
+
+[NOTE]
+====
+. Ou: “têm consciência de”.
+. Ou: “salário”.
+====
+
+[[v21-9-6]]
+
+^<<v21-9-6,6>>^ Também seu amor, seu ódio e seu ciúme já não existem, e eles não têm mais parte em nada do que se faz debaixo do sol.
+
+[[v21-9-7]]
+
+^<<v21-9-7,7>>^ Vá, coma o seu alimento com alegria e beba o seu vinho com coração alegre, pois o verdadeiro Deus já se agradou das suas obras.
+
+[[v21-9-8]]
+
+^<<v21-9-8,8>>^ Sejam sempre brancas as suas roupas,^&#42;1^ e não deixe de pôr óleo sobre a sua cabeça.
+
+[NOTE]
+====
+. Isto é, roupas claras, refletindo uma disposição alegre, e não roupas de luto.
+====
+
+[[v21-9-9]]
+
+^<<v21-9-9,9>>^ Desfrute a vida com a sua amada esposa todos os dias da sua vida vã, que Ele lhe deu debaixo do sol, sim, todos os seus dias vãos. Pois essa é a sua porção na vida e no seu trabalho árduo, no qual tanto se esforça debaixo do sol.
+
+[[v21-9-10]]
+
+^<<v21-9-10,10>>^ Tudo o que a sua mão achar para fazer, faça-o com toda a sua força, pois não há trabalho, nem planejamento, nem conhecimento, nem sabedoria na Sepultura,^&#42;1^ o lugar para onde você vai.
+
+[NOTE]
+====
+. Ou: “no Seol”, isto é, a sepultura comum da humanidade. Veja o Glossário.
+====
+
+[[v21-9-11]]
+
+^<<v21-9-11,11>>^ E eu vi mais outra coisa debaixo do sol: os velozes nem sempre vencem a corrida, e nem sempre os fortes vencem a batalha; os sábios nem sempre têm alimento, os inteligentes nem sempre têm riquezas, os que têm conhecimento nem sempre têm sucesso; porque o tempo e o imprevisto sobrevêm a todos eles.
+
+[[v21-9-12]]
+
+^<<v21-9-12,12>>^ Pois o homem não sabe a sua hora. Assim como os peixes são apanhados numa rede cruel e os pássaros são apanhados numa armadilha, assim os filhos dos homens são enlaçados na hora da desgraça,^&#42;1^ quando ela lhes sobrevém de repente.
+
+[NOTE]
+====
+. Ou: “calamidade”.
+====
+
+[[v21-9-13]]
+
+^<<v21-9-13,13>>^ Também vi, debaixo do sol, este exemplo de sabedoria, que me impressionou:
+
+[[v21-9-14]]
+
+^<<v21-9-14,14>>^ havia uma pequena cidade, com poucos homens. Um rei poderoso veio contra ela e a sitiou, e construiu contra ela grandes obras de cerco.
+
+[[v21-9-15]]
+
+^<<v21-9-15,15>>^ Achava-se ali um homem pobre, mas sábio, e ele salvou a cidade com a sua sabedoria. No entanto, ninguém se lembrou daquele homem pobre.
+
+[[v21-9-16]]
+
+^<<v21-9-16,16>>^ E eu disse para mim mesmo: “A sabedoria é melhor do que a força; apesar disso, a sabedoria do pobre é desprezada e as suas palavras não são ouvidas.”
+
+[[v21-9-17]]
+
+^<<v21-9-17,17>>^ É melhor ouvir as palavras calmas dos sábios do que os gritos de quem governa entre os tolos.
+
+[[v21-9-18]]
+
+^<<v21-9-18,18>>^ A sabedoria é melhor do que armas de guerra, mas um único pecador pode destruir muitas coisas boas.
+
+'''
+
+xref:021-eclesiastes/021-eclesiastes-008.adoc#v21-8-0[&#60; Capítulo Anterior] | <<v21-9-0,Topo>> | xref:021-eclesiastes/021-eclesiastes-010.adoc#v21-10-0[Próximo Capítulo &#62;]

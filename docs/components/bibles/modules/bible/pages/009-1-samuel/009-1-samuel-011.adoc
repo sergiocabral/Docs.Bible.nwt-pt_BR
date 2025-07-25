@@ -1,0 +1,84 @@
+include::./index.adoc[]
+
+[[v9-11-0]]
+=== O Primeiro de Samuel, 11
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v9-11-1]]
+
+^<<v9-11-1,1>>^ Então Naás, o amonita, veio e acampou contra Jabes, em Gileade. Todos os homens de Jabes disseram a Naás: “Faça um pacto^&#42;1^ conosco, e nós o serviremos.”
+
+[NOTE]
+====
+. Ou: “acordo”.
+====
+
+[[v9-11-2]]
+
+^<<v9-11-2,2>>^ Naás, o amonita, lhes disse: “Farei um pacto com vocês, mas com esta condição: que se fure o olho direito de todos vocês. Farei isso para humilhar todo o Israel.”
+
+[[v9-11-3]]
+
+^<<v9-11-3,3>>^ Os anciãos de Jabes lhe disseram: “Dê-nos um prazo de sete dias para que possamos enviar mensageiros a todo o território de Israel. Se não houver ninguém para nos salvar, nós nos renderemos a você.”
+
+[[v9-11-4]]
+
+^<<v9-11-4,4>>^ Então os mensageiros chegaram a Gibeá de Saul e falaram essas palavras ao povo, e todo o povo começou a chorar alto.
+
+[[v9-11-5]]
+
+^<<v9-11-5,5>>^ Saul estava vindo do campo, atrás do rebanho. E Saul perguntou: “O que aconteceu? Por que o povo está chorando?” Contaram-lhe então o que os homens de Jabes tinham dito.
+
+[[v9-11-6]]
+
+^<<v9-11-6,6>>^ O espírito de Deus deu poder a Saul, assim que ele ouviu essas palavras; e ele ficou muito irado.
+
+[[v9-11-7]]
+
+^<<v9-11-7,7>>^ De modo que ele pegou uma junta de touros, cortou-os em pedaços e os enviou a todo o território de Israel por meio dos mensageiros para dizer: “É isso o que acontecerá com os bois de quem não seguir Saul e Samuel!” E o temor de Jeová caiu sobre o povo, de modo que todos saíram com um só objetivo.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “como um só homem”.
+====
+
+[[v9-11-8]]
+
+^<<v9-11-8,8>>^ E Saul os contou em Bezeque: havia 300.000 israelitas e 30.000 homens de Judá.
+
+[[v9-11-9]]
+
+^<<v9-11-9,9>>^ Disseram então aos mensageiros que tinham vindo: “Digam o seguinte aos homens de Jabes, em Gileade: ‘Amanhã, quando o sol esquentar, vocês serão salvos.’” Assim, os mensageiros foram e comunicaram isso aos homens de Jabes, e eles ficaram muito contentes.
+
+[[v9-11-10]]
+
+^<<v9-11-10,10>>^ Então os homens de Jabes disseram aos amonitas: “Amanhã nos renderemos a vocês, e vocês poderão fazer conosco o que acharem melhor.”
+
+[[v9-11-11]]
+
+^<<v9-11-11,11>>^ No dia seguinte, Saul dividiu os homens em três grupos; eles avançaram até o meio do acampamento durante a madrugada^&#42;1^ e continuaram a matar os amonitas até o dia esquentar. Os que sobreviveram se espalharam, de modo que não restaram dois deles juntos.
+
+[NOTE]
+====
+. Ou: “vigília da manhã”, isto é, aproximadamente das 2 h às 6 h da manhã.
+====
+
+[[v9-11-12]]
+
+^<<v9-11-12,12>>^ Então o povo disse a Samuel: “Quem foi que disse: ‘É Saul quem reinará sobre nós?’ Entreguem os homens para que os matemos.”
+
+[[v9-11-13]]
+
+^<<v9-11-13,13>>^ No entanto, Saul disse: “Nenhum homem deve ser morto neste dia, pois hoje Jeová salvou Israel.”
+
+[[v9-11-14]]
+
+^<<v9-11-14,14>>^ Depois Samuel disse ao povo: “Vamos a Gilgal para confirmar o reinado.”
+
+[[v9-11-15]]
+
+^<<v9-11-15,15>>^ Portanto, todo o povo foi a Gilgal, e ali fizeram Saul rei perante Jeová. Ofereceram então sacrifícios de participação em comum perante Jeová, e Saul e todos os homens de Israel comemoraram com grande alegria.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-010.adoc#v9-10-0[&#60; Capítulo Anterior] | <<v9-11-0,Topo>> | xref:009-1-samuel/009-1-samuel-012.adoc#v9-12-0[Próximo Capítulo &#62;]

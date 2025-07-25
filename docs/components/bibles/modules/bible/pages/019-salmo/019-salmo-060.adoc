@@ -1,0 +1,95 @@
+include::./index.adoc[]
+
+[[v19-60-0]]
+=== Salmos, 60
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Ao regente; com a melodia de O Lírio de Recordação. Mictão.^&#42;1^ De Davi. Para ensinar. Quando ele lutou contra Arã-Naaraim e Arã-Zobá, e Joabe voltou e matou 12.000 edomitas no vale do Sal._
+
+[[v19-60-1]]
+
+^<<v19-60-1,1>>^ Ó Deus, tu nos rejeitaste; rompeste nossas defesas.
+Estavas irado conosco; mas, agora, aceita-nos de volta!
+
+[[v19-60-2]]
+
+^<<v19-60-2,2>>^ Fizeste tremer a terra; rachaste-a.
+Repara as suas fendas, pois ela está se desmoronando.
+
+[[v19-60-3]]
+
+^<<v19-60-3,3>>^ Fizeste teu povo sofrer dificuldades.
+Fizeste-nos beber vinho atordoante.
+
+[[v19-60-4]]
+
+^<<v19-60-4,4>>^ Dá^&#42;1^ um sinal aos que te temem,
+Para que fujam e se esquivem das flechas. (Selá)
+
+[NOTE]
+====
+. Ou, possivelmente: “Deste”.
+====
+
+[[v19-60-5]]
+
+^<<v19-60-5,5>>^ A fim de que os teus amados sejam livrados,
+Salva-nos com a tua mão direita e responde-nos.
+
+[[v19-60-6]]
+
+^<<v19-60-6,6>>^ Deus disse na sua santidade:^&#42;1^
+“Vou me alegrar, vou distribuir Siquém como herança
+E vou medir o vale^&#42;2^ de Sucote.
+
+[NOTE]
+====
+. Ou, possivelmente: “no seu lugar santo”.
+. Ou: “a baixada”.
+====
+
+[[v19-60-7]]
+
+^<<v19-60-7,7>>^ Gileade pertence a mim, assim como Manassés,
+E Efraim é o capacete^&#42;1^ da minha cabeça;
+Judá é o meu bastão de governante.
+
+[NOTE]
+====
+. Lit.: “a fortaleza”.
+====
+
+[[v19-60-8]]
+
+^<<v19-60-8,8>>^ Moabe é a bacia em que me lavo.
+Sobre Edom lançarei minha sandália.
+Sobre a Filístia gritarei em triunfo.”
+
+[[v19-60-9]]
+
+^<<v19-60-9,9>>^ Quem me conduzirá à cidade sitiada?^&#42;1^
+Quem me guiará até Edom?
+
+[NOTE]
+====
+. Ou, possivelmente: “fortificada”.
+====
+
+[[v19-60-10]]
+
+^<<v19-60-10,10>>^ Quem, senão tu, ó Deus, aquele que nos rejeitou,
+O nosso Deus, aquele que não acompanha mais os nossos exércitos?
+
+[[v19-60-11]]
+
+^<<v19-60-11,11>>^ Ajuda-nos na nossa aflição,
+Pois a salvação pelos humanos não vale nada.
+
+[[v19-60-12]]
+
+^<<v19-60-12,12>>^ Por meio de Deus teremos força,
+E ele pisoteará os nossos adversários.
+
+'''
+
+xref:019-salmo/019-salmo-059.adoc#v19-59-0[&#60; Capítulo Anterior] | <<v19-60-0,Topo>> | xref:019-salmo/019-salmo-061.adoc#v19-61-0[Próximo Capítulo &#62;]

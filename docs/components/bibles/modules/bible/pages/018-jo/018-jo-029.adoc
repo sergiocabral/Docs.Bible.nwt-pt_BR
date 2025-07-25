@@ -1,0 +1,179 @@
+include::./index.adoc[]
+
+[[v18-29-0]]
+=== Jó, 29
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v18-29-1]]
+
+^<<v18-29-1,1>>^ Jó continuou seu discurso,^&#42;1^ dizendo:
+
+[NOTE]
+====
+. Lit.: “provérbio”.
+====
+
+[[v18-29-2]]
+
+^<<v18-29-2,2>>^ “Quem me dera voltar aos meses passados,
+Aos dias em que Deus cuidava de mim,
+
+[[v18-29-3]]
+
+^<<v18-29-3,3>>^ Quando ele fazia a sua lâmpada brilhar sobre a minha cabeça,
+E eu andava na escuridão pela sua luz,
+
+[[v18-29-4]]
+
+^<<v18-29-4,4>>^ Quando eu estava no^&#42;1^ meu vigor,
+E sentia a amizade de Deus na minha tenda,
+
+[NOTE]
+====
+. Lit.: “nos dias do”.
+====
+
+[[v18-29-5]]
+
+^<<v18-29-5,5>>^ Quando o Todo-Poderoso ainda estava comigo,
+E meus filhos^&#42;1^ estavam ao meu redor,
+
+[NOTE]
+====
+. Ou: “ajudantes”.
+====
+
+[[v18-29-6]]
+
+^<<v18-29-6,6>>^ Quando os meus pés eram banhados em manteiga,
+E as rochas despejavam correntes de azeite para mim.
+
+[[v18-29-7]]
+
+^<<v18-29-7,7>>^ Quando eu ia ao portão da cidade
+E ocupava o meu assento na praça,
+
+[[v18-29-8]]
+
+^<<v18-29-8,8>>^ Os jovens me viam e abriam passagem,^&#42;1^
+E até os idosos se levantavam e ficavam de pé.
+
+[NOTE]
+====
+. Lit.: “se escondiam”.
+====
+
+[[v18-29-9]]
+
+^<<v18-29-9,9>>^ Os príncipes ficavam calados;
+Tapavam a boca com a mão.
+
+[[v18-29-10]]
+
+^<<v18-29-10,10>>^ A voz dos homens importantes era silenciada;
+A língua deles grudava no céu da boca.
+
+[[v18-29-11]]
+
+^<<v18-29-11,11>>^ Quem me ouvia falava bem de mim,
+E os que me viam testemunhavam a meu favor.
+
+[[v18-29-12]]
+
+^<<v18-29-12,12>>^ Pois eu salvava o pobre que clamava por ajuda,
+E também o órfão^&#42;1^ e qualquer um que não tinha quem o ajudasse.
+
+[NOTE]
+====
+. Ou: “órfão de pai”.
+====
+
+[[v18-29-13]]
+
+^<<v18-29-13,13>>^ O que estava prestes a morrer me abençoava;
+E eu alegrava o coração da viúva.
+
+[[v18-29-14]]
+
+^<<v18-29-14,14>>^ Eu vestia a justiça como minha roupa;
+Minha retidão era como uma túnica^&#42;1^ e um turbante.
+
+[NOTE]
+====
+. Ou: “túnica sem mangas”.
+====
+
+[[v18-29-15]]
+
+^<<v18-29-15,15>>^ Eu era olhos para o cego
+E pés para o manco.
+
+[[v18-29-16]]
+
+^<<v18-29-16,16>>^ Eu era um pai para os pobres;
+E examinava a causa jurídica de quem eu não conhecia.
+
+[[v18-29-17]]
+
+^<<v18-29-17,17>>^ Eu quebrava o queixo do malfeitor
+E arrancava a presa dos seus dentes.
+
+[[v18-29-18]]
+
+^<<v18-29-18,18>>^ Eu costumava dizer: ‘Morrerei na minha própria casa,^&#42;1^
+E meus dias serão tão numerosos quanto os grãos de areia.
+
+[NOTE]
+====
+. Lit.: “no meu ninho”.
+====
+
+[[v18-29-19]]
+
+^<<v18-29-19,19>>^ Minhas raízes se espalharão até as águas,
+E o orvalho passará a noite toda sobre os meus ramos.
+
+[[v18-29-20]]
+
+^<<v18-29-20,20>>^ Minha glória é sempre renovada,
+E o arco na minha mão continuará atirando.’
+
+[[v18-29-21]]
+
+^<<v18-29-21,21>>^ Todos me escutavam com atenção,
+Esperando em silêncio o meu conselho.
+
+[[v18-29-22]]
+
+^<<v18-29-22,22>>^ Depois que eu falava, não tinham mais nada a dizer;
+Minhas palavras entravam suavemente^&#42;1^ nos seus ouvidos.
+
+[NOTE]
+====
+. Lit.: “gotejavam”.
+====
+
+[[v18-29-23]]
+
+^<<v18-29-23,23>>^ Eles me esperavam como se espera pela chuva;
+Abriam bem a boca como que para beber a chuva da primavera.
+
+[[v18-29-24]]
+
+^<<v18-29-24,24>>^ Quando eu sorria para eles, mal podiam acreditar;
+A luz do meu rosto os tranquilizava.^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “Eles não escureciam a luz do meu rosto”.
+====
+
+[[v18-29-25]]
+
+^<<v18-29-25,25>>^ Eu lhes dava orientação como o seu cabeça,
+E vivia como um rei entre as suas tropas,
+Como quem consola os que choram.
+
+'''
+
+xref:018-jo/018-jo-028.adoc#v18-28-0[&#60; Capítulo Anterior] | <<v18-29-0,Topo>> | xref:018-jo/018-jo-030.adoc#v18-30-0[Próximo Capítulo &#62;]

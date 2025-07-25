@@ -1,0 +1,166 @@
+include::./index.adoc[]
+
+[[v18-8-0]]
+=== Jó, 8
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v18-8-1]]
+
+^<<v18-8-1,1>>^ Então Bildade, o suíta, disse em resposta:
+
+[[v18-8-2]]
+
+^<<v18-8-2,2>>^ “Até quando você continuará falando assim?
+As palavras da sua boca não passam de uma forte rajada de vento!
+
+[[v18-8-3]]
+
+^<<v18-8-3,3>>^ Será que Deus perverteria a justiça?
+Será que o Todo-Poderoso perverteria a retidão?
+
+[[v18-8-4]]
+
+^<<v18-8-4,4>>^ Se seus filhos pecaram contra ele,
+Ele os deixou ser punidos por causa da rebeldia deles.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “Ele os lançou na mão da revolta deles”.
+====
+
+[[v18-8-5]]
+
+^<<v18-8-5,5>>^ Mas, se você apenas recorresse a Deus
+E implorasse o favor do Todo-Poderoso,
+
+[[v18-8-6]]
+
+^<<v18-8-6,6>>^ E, se você realmente fosse puro e justo,
+Ele daria atenção a você^&#42;1^
+E lhe restauraria o lugar que é seu por direito.
+
+[NOTE]
+====
+. Ou: “despertaria em seu favor”.
+====
+
+[[v18-8-7]]
+
+^<<v18-8-7,7>>^ E, embora seu começo tenha sido pequeno,
+Seu futuro seria grande.
+
+[[v18-8-8]]
+
+^<<v18-8-8,8>>^ Por favor, pergunte às gerações anteriores,
+E preste atenção às coisas que os pais delas descobriram.
+
+[[v18-8-9]]
+
+^<<v18-8-9,9>>^ Pois nós só nascemos ontem e não sabemos nada,
+Visto que os nossos dias na terra são como uma sombra.
+
+[[v18-8-10]]
+
+^<<v18-8-10,10>>^ Será que eles não o instruirão,
+E não lhe dirão o que sabem?^&#42;1^
+
+[NOTE]
+====
+. Ou: “E não farão sair palavras do coração deles”.
+====
+
+[[v18-8-11]]
+
+^<<v18-8-11,11>>^ Por acaso o papiro cresce onde não há brejo?
+Será que o junco fica grande sem que haja água?
+
+[[v18-8-12]]
+
+^<<v18-8-12,12>>^ Enquanto ainda estiver dando brotos, sem ser arrancado,
+Ele secará antes de qualquer outra planta.
+
+[[v18-8-13]]
+
+^<<v18-8-13,13>>^ Esse é o fim^&#42;1^ de todos os que se esquecem de Deus,
+Pois a esperança do ímpio^&#42;2^ acabará.
+
+[NOTE]
+====
+. Lit.: “Assim são os caminhos”.
+. Ou: “apóstata”.
+====
+
+[[v18-8-14]]
+
+^<<v18-8-14,14>>^ A confiança dele é em vão,
+E a segurança dele é tão frágil como uma teia^&#42;1^ de aranha.
+
+[NOTE]
+====
+. Lit.: “casa”.
+====
+
+[[v18-8-15]]
+
+^<<v18-8-15,15>>^ Ele se apoiará na sua casa, mas ela não resistirá;
+Ele tentará se agarrar a ela, mas ela não permanecerá.
+
+[[v18-8-16]]
+
+^<<v18-8-16,16>>^ Ele é como uma planta viçosa à luz do sol,
+Seus ramos se espalham pelo jardim.
+
+[[v18-8-17]]
+
+^<<v18-8-17,17>>^ Num monte de pedras, suas raízes se entrelaçam;
+Ele procura uma casa entre as pedras.^&#42;1^
+
+[NOTE]
+====
+. Ou: “Ele olha para uma casa de pedras”.
+====
+
+[[v18-8-18]]
+
+^<<v18-8-18,18>>^ Mas, quando ele é arrancado^&#42;1^ do seu lugar,
+Esse lugar não o reconhece, e diz: ‘Nunca o vi.’
+
+[NOTE]
+====
+. Ou: “engolido”.
+====
+
+[[v18-8-19]]
+
+^<<v18-8-19,19>>^ De fato, é assim que ele desaparecerá;^&#42;1^
+Então outros surgirão do pó.
+
+[NOTE]
+====
+. Ou: “que o seu caminho se dissolve”.
+====
+
+[[v18-8-20]]
+
+^<<v18-8-20,20>>^ Com certeza, Deus não rejeitará os que mantêm a integridade,^&#42;1^
+Nem apoiará os^&#42;2^ que são maus.
+
+[NOTE]
+====
+. Ou: “os irrepreensíveis”.
+. Lit.: “Nem segurará a mão dos”.
+====
+
+[[v18-8-21]]
+
+^<<v18-8-21,21>>^ Quanto a você, ele ainda encherá sua boca de riso,
+E seus lábios de gritos de alegria.
+
+[[v18-8-22]]
+
+^<<v18-8-22,22>>^ Os que o odeiam serão cobertos de vergonha,
+E a tenda dos maus não existirá mais.”
+
+'''
+
+xref:018-jo/018-jo-007.adoc#v18-7-0[&#60; Capítulo Anterior] | <<v18-8-0,Topo>> | xref:018-jo/018-jo-009.adoc#v18-9-0[Próximo Capítulo &#62;]

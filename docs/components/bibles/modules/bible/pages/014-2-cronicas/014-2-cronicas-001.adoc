@@ -1,0 +1,104 @@
+include::./index.adoc[]
+
+[[v14-1-0]]
+=== O Segundo das Crônicas, 1
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v14-1-1]]
+
+^<<v14-1-1,1>>^ Salomão, filho de Davi, ficava cada vez mais forte no seu reinado, e Jeová, seu Deus, estava com ele e o engrandecia de maneira extraordinária.
+
+[[v14-1-2]]
+
+^<<v14-1-2,2>>^ Salomão convocou todo o Israel: os chefes de mil e de cem, os juízes e todos os maiorais de todo o Israel, os cabeças das casas paternas.
+
+[[v14-1-3]]
+
+^<<v14-1-3,3>>^ Então Salomão e toda a congregação foram ao alto sagrado em Gibeão, pois era ali que estava a tenda de reunião do verdadeiro Deus, a tenda que Moisés, o servo de Jeová, tinha feito no deserto.
+
+[[v14-1-4]]
+
+^<<v14-1-4,4>>^ No entanto, Davi tinha levado a Arca do verdadeiro Deus de Quiriate-Jearim para o lugar que tinha preparado para ela; ele havia armado uma tenda para ela em Jerusalém.
+
+[[v14-1-5]]
+
+^<<v14-1-5,5>>^ E o altar de cobre feito por Bezalel, filho de Uri, filho de Hur, tinha sido colocado diante do tabernáculo de Jeová; e Salomão e a congregação oravam diante dele.^&#42;1^
+
+[NOTE]
+====
+. Ou: “consultavam a Ele ali”.
+====
+
+[[v14-1-6]]
+
+^<<v14-1-6,6>>^ Então Salomão fez ali ofertas perante Jeová; fez mil ofertas queimadas no altar de cobre da tenda de reunião.
+
+[[v14-1-7]]
+
+^<<v14-1-7,7>>^ Naquela noite Deus apareceu a Salomão e lhe disse: “Peça o que você gostaria que eu lhe desse.”
+
+[[v14-1-8]]
+
+^<<v14-1-8,8>>^ Então Salomão disse a Deus: “Tu demonstraste grande amor leal a Davi, meu pai, e me fizeste rei no lugar dele.
+
+[[v14-1-9]]
+
+^<<v14-1-9,9>>^ Agora, ó Jeová Deus, que a tua promessa a Davi, meu pai, se mostre fiel, pois tu me fizeste rei sobre um povo tão numeroso como as partículas de pó da terra.
+
+[[v14-1-10]]
+
+^<<v14-1-10,10>>^ Por isso, dá-me sabedoria e conhecimento, para que eu possa liderar este povo,^&#42;1^ pois quem pode julgar este teu povo, que é tão grande?”
+
+[NOTE]
+====
+. Lit.: “para sair diante deste povo e para entrar”.
+====
+
+[[v14-1-11]]
+
+^<<v14-1-11,11>>^ Deus disse então a Salomão: “Visto que esse é o seu desejo de coração e você não pediu riquezas, nem bens, nem honra, nem a morte^&#42;1^ dos que o odeiam, nem pediu uma vida longa,^&#42;2^ mas pediu sabedoria e conhecimento para julgar o meu povo, sobre o qual o fiz rei,
+
+[NOTE]
+====
+. Ou: “alma”.
+. Lit.: “muitos dias”.
+====
+
+[[v14-1-12]]
+
+^<<v14-1-12,12>>^ eu lhe darei sabedoria e conhecimento; mas também lhe darei riquezas, bens e honra, como nenhum rei antes de você teve, e como nenhum depois de você terá.”
+
+[[v14-1-13]]
+
+^<<v14-1-13,13>>^ Salomão voltou então do alto sagrado em Gibeão, de diante da tenda de reunião, para Jerusalém; e reinou sobre Israel.
+
+[[v14-1-14]]
+
+^<<v14-1-14,14>>^ Salomão ajuntou cada vez mais carros de guerra e cavalos;^&#42;1^ ele tinha 1.400 carros de guerra e 12.000 cavalos,^&#42;2^ e os mantinha nas cidades dos carros de guerra e em Jerusalém, perto do rei.
+
+[NOTE]
+====
+. Ou: “cavaleiros”.
+. Ou: “cavaleiros”.
+====
+
+[[v14-1-15]]
+
+^<<v14-1-15,15>>^ O rei tornou a prata e o ouro tão comuns em Jerusalém como as pedras; e tornou a madeira de cedro tão comum como os sicômoros da Sefelá.
+
+[[v14-1-16]]
+
+^<<v14-1-16,16>>^ Os cavalos de Salomão eram importados do Egito. O grupo dos mercadores do rei comprava manadas de cavalos^&#42;1^ por um preço estabelecido.
+
+[NOTE]
+====
+. Ou, possivelmente: “do Egito e de Coa. Os mercadores do rei os compravam de Coa”, talvez se referindo à Cilícia.
+====
+
+[[v14-1-17]]
+
+^<<v14-1-17,17>>^ Cada carro de guerra importado do Egito custava 600 peças de prata, e um cavalo custava 150 peças de prata. E eles os exportavam para todos os reis dos hititas e para os reis da Síria.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-029.adoc#v13-29-0[&#60; Capítulo Anterior] | <<v14-1-0,Topo>> | xref:014-2-cronicas/014-2-cronicas-002.adoc#v14-2-0[Próximo Capítulo &#62;]

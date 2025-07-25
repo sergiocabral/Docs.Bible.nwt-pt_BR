@@ -1,0 +1,184 @@
+include::./index.adoc[]
+
+[[v19-102-0]]
+=== Salmos, 102
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Oração do oprimido que, desesperado,^&#42;1^ derrama a sua preocupação diante de Jeová._
+
+[[v19-102-1]]
+
+^<<v19-102-1,1>>^ Ó Jeová, ouve a minha oração;
+Que o meu clamor por ajuda te alcance.
+
+[[v19-102-2]]
+
+^<<v19-102-2,2>>^ Não escondas de mim a tua face no tempo da minha aflição.
+Inclina para mim o teu ouvido;^&#42;1^
+Responde-me depressa quando eu chamar.
+
+[NOTE]
+====
+. Ou: “Abaixa-te e ouve-me”.
+====
+
+[[v19-102-3]]
+
+^<<v19-102-3,3>>^ Pois os meus dias desaparecem como a fumaça,
+E os meus ossos queimam como uma fornalha.
+
+[[v19-102-4]]
+
+^<<v19-102-4,4>>^ Como a erva cortada, meu coração seca,
+Pois me esqueço de comer o meu pão.
+
+[[v19-102-5]]
+
+^<<v19-102-5,5>>^ Meus gemidos são tão fortes
+Que fiquei reduzido a pele e osso.
+
+[[v19-102-6]]
+
+^<<v19-102-6,6>>^ Eu pareço um pelicano em lugares desertos;
+Sou como uma coruja entre ruínas.
+
+[[v19-102-7]]
+
+^<<v19-102-7,7>>^ Não consigo dormir;^&#42;1^
+Sou como um pássaro solitário no telhado.
+
+[NOTE]
+====
+. Ou, possivelmente: “Estou extremamente magro”.
+====
+
+[[v19-102-8]]
+
+^<<v19-102-8,8>>^ Meus inimigos me insultam o dia inteiro.
+Os que zombam de mim^&#42;1^ usam o meu nome como maldição.
+
+[NOTE]
+====
+. Ou: “me fazem de tolo”.
+====
+
+[[v19-102-9]]
+
+^<<v19-102-9,9>>^ Tenho comido cinzas em lugar de pão
+E a minha bebida está misturada com lágrimas,
+
+[[v19-102-10]]
+
+^<<v19-102-10,10>>^ Por causa da tua ira e da tua indignação,
+Pois tu me ergueste para depois me rejeitar.
+
+[[v19-102-11]]
+
+^<<v19-102-11,11>>^ Meus dias são como uma sombra que vai desaparecendo;^&#42;1^
+E eu estou murchando como a relva.
+
+[NOTE]
+====
+. Ou: “uma sombra que se estende”.
+====
+
+[[v19-102-12]]
+
+^<<v19-102-12,12>>^ Mas tu, ó Jeová, permaneces para sempre,
+E a tua fama^&#42;1^ durará por todas as gerações.
+
+[NOTE]
+====
+. Ou: “o teu nome”. Lit.: “a tua recordação”.
+====
+
+[[v19-102-13]]
+
+^<<v19-102-13,13>>^ Certamente te levantarás e mostrarás misericórdia a Sião,
+Porque é tempo de lhe mostrar favor;
+O tempo determinado chegou.
+
+[[v19-102-14]]
+
+^<<v19-102-14,14>>^ Pois os teus servos se alegram com as pedras de Sião
+E têm amor até pelo seu pó.
+
+[[v19-102-15]]
+
+^<<v19-102-15,15>>^ As nações temerão o nome de Jeová;
+E todos os reis da terra, a tua glória.
+
+[[v19-102-16]]
+
+^<<v19-102-16,16>>^ Pois Jeová reconstruirá Sião;
+Ele aparecerá na Sua glória.
+
+[[v19-102-17]]
+
+^<<v19-102-17,17>>^ Ele prestará atenção na oração dos necessitados;
+Não desprezará a sua oração.
+
+[[v19-102-18]]
+
+^<<v19-102-18,18>>^ Isso está escrito para uma geração futura;
+Assim, um povo que ainda será formado^&#42;1^ louvará a Jah.
+
+[NOTE]
+====
+. Lit.: “será criado”.
+====
+
+[[v19-102-19]]
+
+^<<v19-102-19,19>>^ Pois ele olha para baixo, desde o seu lugar santo nas alturas;
+Lá dos céus, Jeová vê a terra,
+
+[[v19-102-20]]
+
+^<<v19-102-20,20>>^ A fim de ouvir o gemido do prisioneiro
+E libertar os condenados à morte,
+
+[[v19-102-21]]
+
+^<<v19-102-21,21>>^ Para que o nome de Jeová seja declarado em Sião
+E o seu louvor em Jerusalém,
+
+[[v19-102-22]]
+
+^<<v19-102-22,22>>^ Quando os povos e os reinos
+Se reunirem para servir a Jeová.
+
+[[v19-102-23]]
+
+^<<v19-102-23,23>>^ Ele me tirou as forças antes do tempo;
+Abreviou os meus dias.
+
+[[v19-102-24]]
+
+^<<v19-102-24,24>>^ Eu disse: “Ó meu Deus,
+Não me elimines no meio da minha vida,
+Tu, cujos anos se estendem por todas as gerações.
+
+[[v19-102-25]]
+
+^<<v19-102-25,25>>^ Há muito tempo lançaste os alicerces da terra,
+E os céus são obra das tuas mãos.
+
+[[v19-102-26]]
+
+^<<v19-102-26,26>>^ Eles deixarão de existir, mas tu permanecerás;
+Eles se gastarão como uma roupa.
+Tu os substituirás como se fossem uma vestimenta, e eles passarão.
+
+[[v19-102-27]]
+
+^<<v19-102-27,27>>^ Mas tu és o mesmo, e os teus anos nunca terão fim.
+
+[[v19-102-28]]
+
+^<<v19-102-28,28>>^ Os filhos dos teus servos morarão em segurança,
+E a descendência deles ficará firmemente estabelecida diante de ti.”
+
+'''
+
+xref:019-salmo/019-salmo-101.adoc#v19-101-0[&#60; Capítulo Anterior] | <<v19-102-0,Topo>> | xref:019-salmo/019-salmo-103.adoc#v19-103-0[Próximo Capítulo &#62;]

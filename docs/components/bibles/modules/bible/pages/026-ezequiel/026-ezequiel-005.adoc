@@ -1,0 +1,108 @@
+include::./index.adoc[]
+
+[[v26-5-0]]
+=== Ezequiel, 5
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v26-5-1]]
+
+^<<v26-5-1,1>>^ “Filho do homem, pegue uma espada afiada e use-a como navalha de barbeiro. Raspe a sua cabeça e a sua barba, e depois pese o cabelo e a barba numa balança e divida-os em porções.
+
+[[v26-5-2]]
+
+^<<v26-5-2,2>>^ Quando terminarem os dias do cerco, você queimará uma terça parte deles no fogo, dentro da cidade. Então pegará outra terça parte e a golpeará com a espada ao redor da cidade,^&#42;1^ e a última terça parte você espalhará ao vento, e eu puxarei a espada para persegui-los.
+
+[NOTE]
+====
+. Lit.: “dela”.
+====
+
+[[v26-5-3]]
+
+^<<v26-5-3,3>>^ “Pegue também alguns fios e guarde-os nas dobras^&#42;1^ da sua roupa.
+
+[NOTE]
+====
+. Ou: “saias”.
+====
+
+[[v26-5-4]]
+
+^<<v26-5-4,4>>^ E pegue mais alguns fios, lance-os no fogo e queime-os. Esse fogo se espalhará por toda a casa de Israel.
+
+[[v26-5-5]]
+
+^<<v26-5-5,5>>^ “Assim diz o Soberano Senhor Jeová: ‘Isso é Jerusalém. Eu a coloquei no meio das nações, com países ao seu redor.
+
+[[v26-5-6]]
+
+^<<v26-5-6,6>>^ Mas ela se rebelou contra as minhas decisões judiciais e contra os meus decretos, agindo pior do que as nações e os países ao seu redor. Pois eles rejeitaram as minhas decisões judiciais e não andaram nos meus decretos.’
+
+[[v26-5-7]]
+
+^<<v26-5-7,7>>^ “Portanto, assim diz o Soberano Senhor Jeová: ‘Visto que vocês foram mais indisciplinados do que as nações ao seu redor, e não andaram nos meus decretos nem cumpriram as minhas decisões judiciais, mas, em vez disso, seguiram as decisões judiciais das nações ao seu redor,
+
+[[v26-5-8]]
+
+^<<v26-5-8,8>>^ assim diz o Soberano Senhor Jeová: “Eu estou contra você, ó cidade, e eu mesmo vou executar o julgamento no seu meio, diante dos olhos das nações.
+
+[[v26-5-9]]
+
+^<<v26-5-9,9>>^ Vou fazer com você o que nunca fiz antes, e nunca mais farei de novo, por causa de todas as suas práticas detestáveis.
+
+[[v26-5-10]]
+
+^<<v26-5-10,10>>^ “‘“Assim, os pais que estiverem no seu meio comerão os próprios filhos, e os filhos comerão os seus pais. E eu executarei em seu meio o julgamento, e o que restar de você espalharei em todas as direções.”’^&#42;1^
+
+[NOTE]
+====
+. Lit.: “a todo vento”.
+====
+
+[[v26-5-11]]
+
+^<<v26-5-11,11>>^ “‘Portanto, tão certo como eu vivo’, diz o Soberano Senhor Jeová, ‘visto que você profanou o meu santuário com todos os seus ídolos repugnantes e todas as suas práticas detestáveis, eu vou rejeitar^&#42;1^ você; meu olho não terá dó, nem terei compaixão.
+
+[NOTE]
+====
+. Ou: “diminuir”.
+====
+
+[[v26-5-12]]
+
+^<<v26-5-12,12>>^ Um terço dos seus habitantes morrerá de peste^&#42;1^ ou perecerá no seu meio por causa da fome. Outro terço cairá à espada ao seu redor. E o último terço espalharei em todas as direções,^&#42;2^ e puxarei a espada para persegui-los.
+
+[NOTE]
+====
+. Ou: “doença”.
+. Lit.: “a todo vento”.
+====
+
+[[v26-5-13]]
+
+^<<v26-5-13,13>>^ Então a minha ira chegará ao fim, o meu furor contra eles desaparecerá, e ficarei satisfeito. E eles terão de saber que eu, Jeová, falei por causa da minha insistência em devoção exclusiva, quando eu terminar de dar vazão ao meu furor contra eles.
+
+[[v26-5-14]]
+
+^<<v26-5-14,14>>^ “‘Farei de você um lugar devastado e um alvo de zombaria entre as nações ao seu redor e aos olhos de todos os que passarem por você.
+
+[[v26-5-15]]
+
+^<<v26-5-15,15>>^ Você se tornará alvo de zombaria e de desprezo, exemplo de aviso e motivo de pavor para as nações ao seu redor, quando eu executar o julgamento contra você com ira, furor e severas punições. Eu, Jeová, é que falei.
+
+[[v26-5-16]]
+
+^<<v26-5-16,16>>^ “‘Atirarei contra eles as flechas mortais da fome para destruí-los. As flechas que atiro acabarão com vocês. Agravarei a sua fome cortando o seu suprimento de alimento.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “quebrando o seu bastão de pão”. Possivelmente se refere aos bastões em que se penduravam pães em forma de anel.
+====
+
+[[v26-5-17]]
+
+^<<v26-5-17,17>>^ Enviarei contra vocês fome e animais ferozes, e eles os deixarão sem filhos. A peste e o derramamento de sangue arrasarão você, e trarei contra você a espada. Eu, Jeová, é que falei.’”
+
+'''
+
+xref:026-ezequiel/026-ezequiel-004.adoc#v26-4-0[&#60; Capítulo Anterior] | <<v26-5-0,Topo>> | xref:026-ezequiel/026-ezequiel-006.adoc#v26-6-0[Próximo Capítulo &#62;]

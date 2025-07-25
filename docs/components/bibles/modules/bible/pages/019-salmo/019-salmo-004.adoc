@@ -1,0 +1,62 @@
+include::./index.adoc[]
+
+[[v19-4-0]]
+=== Salmos, 4
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Ao regente; para ser acompanhado com instrumentos de cordas. Salmo de Davi._
+
+[[v19-4-1]]
+
+^<<v19-4-1,1>>^ Ó meu justo Deus, responde-me quando te chamo.
+Providencia uma saída da^&#42;1^ minha aflição.
+Mostra-me favor e ouve a minha oração.
+
+[NOTE]
+====
+. Lit.: “Cria amplo espaço para”.
+====
+
+[[v19-4-2]]
+
+^<<v19-4-2,2>>^ Filhos dos homens, até quando vocês tornarão a minha honra uma humilhação?
+Até quando amarão o que não tem valor e buscarão o que é falso? (Selá)
+
+[[v19-4-3]]
+
+^<<v19-4-3,3>>^ Saibam que Jeová tratará de modo especial aquele que lhe é leal;^&#42;1^
+Jeová ouvirá quando eu o chamar.
+
+[NOTE]
+====
+. Ou: “distinguirá o seu leal; separará para si o seu leal”.
+====
+
+[[v19-4-4]]
+
+^<<v19-4-4,4>>^ Fiquem agitados, mas não pequem.
+Falem no seu coração, na sua cama, e fiquem quietos. (Selá)
+
+[[v19-4-5]]
+
+^<<v19-4-5,5>>^ Ofereçam sacrifícios em justiça
+E confiem em Jeová.
+
+[[v19-4-6]]
+
+^<<v19-4-6,6>>^ Há muitos que dizem: “Quem nos fará ver o que é bom?”
+Ó Jeová, que a luz da tua face brilhe sobre nós.
+
+[[v19-4-7]]
+
+^<<v19-4-7,7>>^ Encheste meu coração com uma alegria maior
+Do que a alegria dos que têm safra abundante de cereal e vinho novo.
+
+[[v19-4-8]]
+
+^<<v19-4-8,8>>^ Vou me deitar e dormir em paz,
+Pois somente tu, ó Jeová, me fazes morar em segurança.
+
+'''
+
+xref:019-salmo/019-salmo-003.adoc#v19-3-0[&#60; Capítulo Anterior] | <<v19-4-0,Topo>> | xref:019-salmo/019-salmo-005.adoc#v19-5-0[Próximo Capítulo &#62;]

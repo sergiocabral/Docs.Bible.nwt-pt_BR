@@ -1,0 +1,259 @@
+include::./index.adoc[]
+
+[[v40-24-0]]
+=== Segundo Mateus, 24
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v40-24-1]]
+
+^<<v40-24-1,1>>^ Quando Jesus estava saindo do templo, seus discípulos se aproximaram para lhe mostrar os edifícios do templo.
+
+[[v40-24-2]]
+
+^<<v40-24-2,2>>^ Em vista disso, ele lhes disse: “Não estão vendo todas estas coisas? Eu lhes digo a verdade: De modo algum ficará aqui pedra sobre pedra sem ser derrubada.”
+
+[[v40-24-3]]
+
+^<<v40-24-3,3>>^ Enquanto ele estava sentado no monte das Oliveiras, os discípulos se aproximaram dele em particular e disseram: “Diga-nos: Quando acontecerão essas coisas e qual será o sinal da sua presença^&#42;1^ e do final do sistema de coisas?”^&#42;2^
+
+[NOTE]
+====
+. Veja o Glossário.
+. Ou: “final da época”. Veja o Glossário, “Sistema de coisas”.
+====
+
+[[v40-24-4]]
+
+^<<v40-24-4,4>>^ Jesus, em resposta, lhes disse: “Cuidado para que ninguém os engane,
+
+[[v40-24-5]]
+
+^<<v40-24-5,5>>^ pois muitos virão em meu nome, dizendo: ‘Eu sou o Cristo’, e enganarão a muitos.
+
+[[v40-24-6]]
+
+^<<v40-24-6,6>>^ Vocês ouvirão falar de guerras e notícias de guerras. Cuidado para não ficar apavorados, pois essas coisas têm de acontecer, mas ainda não é o fim.
+
+[[v40-24-7]]
+
+^<<v40-24-7,7>>^ “Porque nação se levantará contra nação e reino contra reino; haverá falta de alimentos e terremotos num lugar após outro.
+
+[[v40-24-8]]
+
+^<<v40-24-8,8>>^ Todas essas coisas são um começo das dores de aflição.
+
+[[v40-24-9]]
+
+^<<v40-24-9,9>>^ “Então as pessoas os entregarão a tribulação e os matarão, e vocês serão odiados por todas as nações, por causa do meu nome.
+
+[[v40-24-10]]
+
+^<<v40-24-10,10>>^ Então, também, muitos tropeçarão, e trairão uns aos outros, e odiarão uns aos outros.
+
+[[v40-24-11]]
+
+^<<v40-24-11,11>>^ Surgirão muitos falsos profetas, que enganarão a muitos;
+
+[[v40-24-12]]
+
+^<<v40-24-12,12>>^ e, por causa do aumento do que é contra a lei, o amor da maioria esfriará.
+
+[[v40-24-13]]
+
+^<<v40-24-13,13>>^ Mas quem perseverar^&#42;1^ até o fim será salvo.
+
+[NOTE]
+====
+. Ou: “persevera”.
+====
+
+[[v40-24-14]]
+
+^<<v40-24-14,14>>^ E estas boas novas do Reino serão pregadas em toda a terra habitada, em testemunho a todas as nações, e então virá o fim.
+
+[[v40-24-15]]
+
+^<<v40-24-15,15>>^ “Portanto, quando vocês virem a coisa repugnante que causa desolação, da qual falou Daniel, o profeta, estar^&#42;1^ num lugar santo (que o leitor use de discernimento),
+
+[NOTE]
+====
+. Ou: “estar de pé”.
+====
+
+[[v40-24-16]]
+
+^<<v40-24-16,16>>^ então, os que estiverem na Judeia fujam para os montes.
+
+[[v40-24-17]]
+
+^<<v40-24-17,17>>^ O homem que estiver no terraço não desça para tirar da sua casa os bens,
+
+[[v40-24-18]]
+
+^<<v40-24-18,18>>^ e o homem que estiver no campo não volte para apanhar sua capa.
+
+[[v40-24-19]]
+
+^<<v40-24-19,19>>^ Ai das mulheres grávidas e das que amamentarem naqueles dias!
+
+[[v40-24-20]]
+
+^<<v40-24-20,20>>^ Persistam em orar para que a sua fuga não ocorra no inverno nem no sábado;
+
+[[v40-24-21]]
+
+^<<v40-24-21,21>>^ pois então haverá grande tribulação, como nunca ocorreu desde o princípio do mundo até agora, não, nem ocorrerá de novo.
+
+[[v40-24-22]]
+
+^<<v40-24-22,22>>^ De fato, se não se abreviassem aqueles dias, ninguém seria salvo; mas, por causa dos escolhidos, aqueles dias serão abreviados.
+
+[[v40-24-23]]
+
+^<<v40-24-23,23>>^ “Então, se alguém lhes disser: ‘Vejam! Aqui está o Cristo!’ ou: ‘Ali!’, não acreditem.
+
+[[v40-24-24]]
+
+^<<v40-24-24,24>>^ Porque surgirão falsos cristos e falsos profetas, e farão grandes sinais e milagres a fim de enganar, se possível, até mesmo os escolhidos.
+
+[[v40-24-25]]
+
+^<<v40-24-25,25>>^ Prestem atenção! Eu os avisei antecipadamente.
+
+[[v40-24-26]]
+
+^<<v40-24-26,26>>^ Portanto, se lhes disserem: ‘Vejam, ele está no deserto!’, não saiam; ou: ‘Vejam, ele está no interior da casa!’,^&#42;1^ não acreditem.
+
+[NOTE]
+====
+. Ou: “nos aposentos internos”.
+====
+
+[[v40-24-27]]
+
+^<<v40-24-27,27>>^ Pois, assim como o relâmpago sai do leste e brilha até o oeste, assim será a presença^&#42;1^ do Filho do Homem.
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v40-24-28]]
+
+^<<v40-24-28,28>>^ Onde estiver o cadáver, ali se ajuntarão as águias.
+
+[[v40-24-29]]
+
+^<<v40-24-29,29>>^ “Imediatamente depois da tribulação daqueles dias, o sol escurecerá, a lua não dará a sua luz, as estrelas cairão do céu, e os poderes dos céus serão abalados.
+
+[[v40-24-30]]
+
+^<<v40-24-30,30>>^ Então aparecerá no céu o sinal do Filho do Homem, e todas as tribos da terra então baterão no peito, de pesar, e verão o Filho do Homem vir nas nuvens do céu, com poder e grande glória.
+
+[[v40-24-31]]
+
+^<<v40-24-31,31>>^ E ele enviará seus anjos com forte som de trombeta, e eles reunirão os seus escolhidos desde os quatro ventos, de uma extremidade dos céus até a outra extremidade deles.
+
+[[v40-24-32]]
+
+^<<v40-24-32,32>>^ “Aprendam desta ilustração sobre a figueira: assim que os ramos novos ficam tenros e brotam folhas, vocês sabem que o verão está próximo.
+
+[[v40-24-33]]
+
+^<<v40-24-33,33>>^ Do mesmo modo, quando virem todas essas coisas, saibam que ele^&#42;1^ está próximo, às portas.
+
+[NOTE]
+====
+. Isto é, o Filho do Homem.
+====
+
+[[v40-24-34]]
+
+^<<v40-24-34,34>>^ Eu lhes garanto que esta geração de modo algum passará até que todas essas coisas aconteçam.
+
+[[v40-24-35]]
+
+^<<v40-24-35,35>>^ Céu e terra passarão, mas as minhas palavras de modo algum passarão.
+
+[[v40-24-36]]
+
+^<<v40-24-36,36>>^ “A respeito daquele dia e daquela hora ninguém sabe, nem os anjos dos céus, nem o Filho, mas somente o Pai.
+
+[[v40-24-37]]
+
+^<<v40-24-37,37>>^ Pois, assim como eram os dias de Noé, assim será a presença^&#42;1^ do Filho do Homem.
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v40-24-38]]
+
+^<<v40-24-38,38>>^ Porque naqueles dias antes do dilúvio as pessoas comiam e bebiam, os homens se casavam e as mulheres eram dadas em casamento, até o dia em que Noé entrou na arca,
+
+[[v40-24-39]]
+
+^<<v40-24-39,39>>^ e não fizeram caso, até que veio o dilúvio e varreu a todos eles; assim será na presença do Filho do Homem.
+
+[[v40-24-40]]
+
+^<<v40-24-40,40>>^ Dois homens estarão então no campo; um será levado e o outro será abandonado.
+
+[[v40-24-41]]
+
+^<<v40-24-41,41>>^ Duas mulheres estarão moendo no moinho manual; uma será levada e a outra será abandonada.
+
+[[v40-24-42]]
+
+^<<v40-24-42,42>>^ Portanto, mantenham-se vigilantes, porque vocês não sabem em que dia virá o seu Senhor.
+
+[[v40-24-43]]
+
+^<<v40-24-43,43>>^ “Mas entendam isto: se o dono da casa soubesse em que vigília^&#42;1^ o ladrão viria, ficaria acordado e não permitiria que sua casa fosse arrombada.
+
+[NOTE]
+====
+. Ou: “a que hora da noite”.
+====
+
+[[v40-24-44]]
+
+^<<v40-24-44,44>>^ Por essa razão, vocês também mostrem-se prontos, porque o Filho do Homem vem numa hora que vocês não imaginam.
+
+[[v40-24-45]]
+
+^<<v40-24-45,45>>^ “Quem é realmente o escravo fiel e prudente,^&#42;1^ a quem o seu senhor encarregou dos seus domésticos, para lhes dar o alimento no tempo apropriado?
+
+[NOTE]
+====
+. Ou: “sábio”.
+====
+
+[[v40-24-46]]
+
+^<<v40-24-46,46>>^ Feliz aquele escravo se o seu senhor, quando vier, o encontrar fazendo isso!
+
+[[v40-24-47]]
+
+^<<v40-24-47,47>>^ Digo a verdade a vocês: Ele o encarregará de todos os seus bens.
+
+[[v40-24-48]]
+
+^<<v40-24-48,48>>^ “Mas, se aquele escravo mau disser no coração: ‘Meu senhor está demorando’,
+
+[[v40-24-49]]
+
+^<<v40-24-49,49>>^ e começar a espancar seus coescravos, e a comer e beber com os beberrões,
+
+[[v40-24-50]]
+
+^<<v40-24-50,50>>^ o senhor daquele escravo virá num dia em que ele não espera e numa hora que ele não sabe;
+
+[[v40-24-51]]
+
+^<<v40-24-51,51>>^ ele o punirá com a maior severidade e lhe designará um lugar entre os hipócritas. Ali é que haverá o seu choro e o ranger dos seus dentes.
+
+'''
+
+xref:040-mateus/040-mateus-023.adoc#v40-23-0[&#60; Capítulo Anterior] | <<v40-24-0,Topo>> | xref:040-mateus/040-mateus-025.adoc#v40-25-0[Próximo Capítulo &#62;]

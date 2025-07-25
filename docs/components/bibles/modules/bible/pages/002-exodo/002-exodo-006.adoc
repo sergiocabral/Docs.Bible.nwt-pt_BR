@@ -1,0 +1,156 @@
+include::./index.adoc[]
+
+[[v2-6-0]]
+=== Êxodo, 6
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v2-6-1]]
+
+^<<v2-6-1,1>>^ Então Jeová disse a Moisés: “Agora você verá o que farei a Faraó. Com mão poderosa o forçarei a deixá-los ir; com mão poderosa o obrigarei a expulsá-los do país.”
+
+[[v2-6-2]]
+
+^<<v2-6-2,2>>^ A seguir Deus disse a Moisés: “Eu sou Jeová.
+
+[[v2-6-3]]
+
+^<<v2-6-3,3>>^ Eu costumava aparecer a Abraão, a Isaque e a Jacó como Deus Todo-Poderoso, mas com respeito ao meu nome, Jeová, não me dei a conhecer a eles.
+
+[[v2-6-4]]
+
+^<<v2-6-4,4>>^ Também estabeleci o meu pacto com eles, para lhes dar a terra de Canaã, a terra em que viveram como estrangeiros.
+
+[[v2-6-5]]
+
+^<<v2-6-5,5>>^ Agora eu mesmo ouvi os gemidos do povo de Israel, a quem os egípcios escravizam, e me lembrei do meu pacto.
+
+[[v2-6-6]]
+
+^<<v2-6-6,6>>^ “Portanto, diga aos israelitas: ‘Eu sou Jeová; eu os tirarei de debaixo dos fardos dos egípcios e os livrarei da escravidão, eu os resgatarei com braço estendido^&#42;1^ e com grandes julgamentos.
+
+[NOTE]
+====
+. Ou: “poderoso”.
+====
+
+[[v2-6-7]]
+
+^<<v2-6-7,7>>^ E eu os acolherei como meu povo e serei o seu Deus, e vocês certamente saberão que eu sou Jeová, seu Deus, que os tira de debaixo dos fardos do Egito.
+
+[[v2-6-8]]
+
+^<<v2-6-8,8>>^ Eu os levarei à terra que jurei^&#42;1^ dar a Abraão, a Isaque e a Jacó, e a darei a vocês como propriedade. Eu sou Jeová.’”
+
+[NOTE]
+====
+. Lit.: “levantei a minha mão para”.
+====
+
+[[v2-6-9]]
+
+^<<v2-6-9,9>>^ Depois, Moisés transmitiu essa mensagem aos israelitas, mas, por causa do desânimo e da dura escravidão, eles não escutaram a Moisés.
+
+[[v2-6-10]]
+
+^<<v2-6-10,10>>^ Então Jeová disse a Moisés:
+
+[[v2-6-11]]
+
+^<<v2-6-11,11>>^ “Apresente-se a Faraó, rei do Egito, e diga-lhe que deixe os israelitas sair do país.”
+
+[[v2-6-12]]
+
+^<<v2-6-12,12>>^ No entanto, Moisés disse a Jeová: “Os israelitas não me escutaram; como é que Faraó me escutará, visto que tenho dificuldade para falar?”^&#42;1^
+
+[NOTE]
+====
+. Lit.: “sou de lábios incircuncisos”.
+====
+
+[[v2-6-13]]
+
+^<<v2-6-13,13>>^ Mas Jeová repetiu a Moisés e a Arão as ordens que deviam dar aos israelitas e a Faraó, rei do Egito, a fim de tirar os israelitas da terra do Egito.
+
+[[v2-6-14]]
+
+^<<v2-6-14,14>>^ Estes são os cabeças da casa dos seus pais. Os filhos de Rubem, primogênito de Israel: Hanoque, Palu, Esrom e Carmi. Essas são as famílias de Rubem.
+
+[[v2-6-15]]
+
+^<<v2-6-15,15>>^ Os filhos de Simeão: Jemuel, Jamim, Oade, Jaquim, Zoar e Saul, filho de uma cananeia. Essas são as famílias de Simeão.
+
+[[v2-6-16]]
+
+^<<v2-6-16,16>>^ Estes são os nomes dos filhos de Levi, segundo as suas linhagens: Gérson, Coate e Merari. A duração da vida de Levi foi de 137 anos.
+
+[[v2-6-17]]
+
+^<<v2-6-17,17>>^ Os filhos de Gérson foram Libni e Simei, segundo as suas famílias.
+
+[[v2-6-18]]
+
+^<<v2-6-18,18>>^ Os filhos de Coate foram Anrão, Izar, Hebrom e Uziel. A duração da vida de Coate foi de 133 anos.
+
+[[v2-6-19]]
+
+^<<v2-6-19,19>>^ Os filhos de Merari foram Mali e Musi.
+Essas foram as famílias dos levitas, segundo as suas linhagens.
+
+[[v2-6-20]]
+
+^<<v2-6-20,20>>^ Anrão tomou como esposa Joquebede, irmã do seu pai. Ela lhe deu estes filhos: Arão e Moisés. A duração da vida de Anrão foi de 137 anos.
+
+[[v2-6-21]]
+
+^<<v2-6-21,21>>^ Os filhos de Izar foram Corá, Nefegue e Zicri.
+
+[[v2-6-22]]
+
+^<<v2-6-22,22>>^ Os filhos de Uziel foram Misael, Elzafã e Sitri.
+
+[[v2-6-23]]
+
+^<<v2-6-23,23>>^ Arão tomou como esposa Eliseba, filha de Aminadabe, irmã de Nasom. Ela lhe deu estes filhos: Nadabe, Abiú, Eleazar e Itamar.
+
+[[v2-6-24]]
+
+^<<v2-6-24,24>>^ Os filhos de Corá foram Assir, Elcana e Abiasafe. Essas foram as famílias dos coraítas.
+
+[[v2-6-25]]
+
+^<<v2-6-25,25>>^ Eleazar, filho de Arão, tomou uma das filhas de Putiel como esposa. Ela lhe deu um filho chamado Fineias.
+Esses são os cabeças das casas paternas dos levitas, segundo as suas famílias.
+
+[[v2-6-26]]
+
+^<<v2-6-26,26>>^ Esses são o Arão e o Moisés a quem Jeová disse: “Tirem o povo de Israel da terra do Egito, divisão por divisão.”^&#42;1^
+
+[NOTE]
+====
+. Lit.: “segundo os seus exércitos”.
+====
+
+[[v2-6-27]]
+
+^<<v2-6-27,27>>^ Foram eles, Moisés e Arão, que falaram a Faraó, rei do Egito, para tirar o povo de Israel do Egito.
+
+[[v2-6-28]]
+
+^<<v2-6-28,28>>^ No dia em que Jeová falou a Moisés na terra do Egito,
+
+[[v2-6-29]]
+
+^<<v2-6-29,29>>^ Jeová disse a Moisés: “Eu sou Jeová. Diga a Faraó, rei do Egito, tudo o que eu lhe disser.”
+
+[[v2-6-30]]
+
+^<<v2-6-30,30>>^ Então Moisés disse a Jeová: “Tenho dificuldade para falar;^&#42;1^ portanto, como é que Faraó me escutará?”
+
+[NOTE]
+====
+. Ou: “Sou de lábios incircuncisos”.
+====
+
+'''
+
+xref:002-exodo/002-exodo-005.adoc#v2-5-0[&#60; Capítulo Anterior] | <<v2-6-0,Topo>> | xref:002-exodo/002-exodo-007.adoc#v2-7-0[Próximo Capítulo &#62;]

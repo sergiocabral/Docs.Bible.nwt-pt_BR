@@ -1,0 +1,128 @@
+include::./index.adoc[]
+
+[[v17-8-0]]
+=== Ester, 8
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v17-8-1]]
+
+^<<v17-8-1,1>>^ Naquele dia o rei Assuero deu à rainha Ester a casa de Hamã, inimigo dos judeus. E Mordecai compareceu perante o rei, pois Ester lhe havia revelado que eles eram parentes.
+
+[[v17-8-2]]
+
+^<<v17-8-2,2>>^ Então o rei tirou seu anel de selar, que havia tomado de volta de Hamã, e o deu a Mordecai. E Ester deixou Mordecai encarregado da casa que era de Hamã.
+
+[[v17-8-3]]
+
+^<<v17-8-3,3>>^ Depois Ester foi novamente falar com o rei. Ela se lançou aos pés dele, chorando e implorando que ele desfizesse o mal causado por Hamã, o agagita, e anulasse o seu plano contra os judeus.
+
+[[v17-8-4]]
+
+^<<v17-8-4,4>>^ O rei estendeu o cetro de ouro a Ester, e ela se levantou e ficou de pé diante do rei.
+
+[[v17-8-5]]
+
+^<<v17-8-5,5>>^ Ela disse: “Se for do agrado do rei, se eu achei favor aos seus olhos, se parecer justo ao rei, e se o rei se agrada de mim, que se emita uma ordem para anular as cartas de Hamã, filho de Hamedata, o agagita, que ele escreveu na sua trama para destruir os judeus em todas as províncias^&#42;1^ do rei.
+
+[NOTE]
+====
+. Ou: “todos os distritos jurisdicionais”.
+====
+
+[[v17-8-6]]
+
+^<<v17-8-6,6>>^ Pois como eu poderia ver a desgraça que atingirá o meu povo? Como eu poderia ver a destruição dos meus parentes?”
+
+[[v17-8-7]]
+
+^<<v17-8-7,7>>^ Então o rei Assuero disse à rainha Ester e a Mordecai, o judeu: “Já dei a Ester a casa de Hamã, e o mandei pendurar no madeiro por causa da sua trama para atacar^&#42;1^ os judeus.
+
+[NOTE]
+====
+. Lit.: “porque ele estendeu sua mão contra”.
+====
+
+[[v17-8-8]]
+
+^<<v17-8-8,8>>^ Escrevam agora um decreto em nome do rei a favor dos judeus, conforme acharem melhor, e selem-no com o anel de selar do rei. Pois um decreto escrito em nome do rei e selado com o anel de selar do rei não pode ser anulado.”
+
+[[v17-8-9]]
+
+^<<v17-8-9,9>>^ Então, no dia 23 do terceiro mês, isto é, o mês de sivã,^&#42;1^ os secretários do rei foram convocados, e eles escreveram tudo o que Mordecai ordenou aos judeus, bem como aos sátrapas, aos governadores e aos príncipes das províncias, desde a Índia até a Etiópia, 127 províncias, na escrita de cada província e na língua de cada povo, e também na escrita e na língua dos judeus.
+
+[NOTE]
+====
+. Veja Ap. B15.
+====
+
+[[v17-8-10]]
+
+^<<v17-8-10,10>>^ Mordecai escreveu as cartas em nome do rei Assuero e as selou com o anel de selar do rei. Ele as enviou por meio de mensageiros a cavalo, que montavam cavalos velozes criados para o serviço real.
+
+[[v17-8-11]]
+
+^<<v17-8-11,11>>^ Nessas cartas o rei concedia permissão aos judeus em todas as cidades para se reunir e defender suas vidas.^&#42;1^ Podiam também exterminar, matar e destruir qualquer grupo armado de qualquer povo ou província que os atacasse, e também suas mulheres e crianças, e tomar os seus bens.
+
+[NOTE]
+====
+. Ou: “almas”.
+====
+
+[[v17-8-12]]
+
+^<<v17-8-12,12>>^ Isso deveria ocorrer no mesmo dia em todas as províncias do rei Assuero, no dia 13 do décimo segundo mês, isto é, o mês de adar.^&#42;1^
+
+[NOTE]
+====
+. Veja Ap. B15.
+====
+
+[[v17-8-13]]
+
+^<<v17-8-13,13>>^ O texto^&#42;1^ do decreto deveria ser proclamado como lei em todas as províncias. Deveria ser anunciado a todos os povos, a fim de que os judeus estivessem preparados naquele dia para se vingar dos seus inimigos.
+
+[NOTE]
+====
+. Ou: “A cópia”.
+====
+
+[[v17-8-14]]
+
+^<<v17-8-14,14>>^ Por ordem do rei, os mensageiros partiram com urgência, velozmente, montados em cavalos do serviço real. O decreto também foi proclamado na fortaleza^&#42;1^ de Susã.^&#42;2^
+
+[NOTE]
+====
+. Ou: “na cidadela; no palácio”.
+. Ou: “Susa”.
+====
+
+[[v17-8-15]]
+
+^<<v17-8-15,15>>^ Então Mordecai se retirou da presença do rei em trajes reais de tecido azul e branco, usando uma grande coroa de ouro e um manto de lã roxa de excelente qualidade; e a cidade de Susã^&#42;1^ gritava de alegria.
+
+[NOTE]
+====
+. Ou: “Susa”.
+====
+
+[[v17-8-16]]
+
+^<<v17-8-16,16>>^ Para os judeus houve alívio,^&#42;1^ alegria, exultação e honra.
+
+[NOTE]
+====
+. Lit.: “luz”.
+====
+
+[[v17-8-17]]
+
+^<<v17-8-17,17>>^ Em todas as províncias e em todas as cidades, aonde quer que chegassem a ordem do rei e o seu decreto, os judeus se alegravam, exultavam, realizavam banquetes e comemoravam. E muitas pessoas de outras nações^&#42;1^ se declaravam judeus, pois tinham ficado com muito medo dos judeus.
+
+[NOTE]
+====
+. Lit.: “muitos dos povos da terra”.
+====
+
+'''
+
+xref:017-ester/017-ester-007.adoc#v17-7-0[&#60; Capítulo Anterior] | <<v17-8-0,Topo>> | xref:017-ester/017-ester-009.adoc#v17-9-0[Próximo Capítulo &#62;]

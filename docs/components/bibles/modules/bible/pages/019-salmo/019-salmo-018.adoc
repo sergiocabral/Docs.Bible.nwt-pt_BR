@@ -1,0 +1,352 @@
+include::./index.adoc[]
+
+[[v19-18-0]]
+=== Salmos, 18
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Ao regente. Do servo de Jeová, Davi, que dirigiu a Jeová as palavras deste cântico, depois que Jeová o livrou das mãos de todos os seus inimigos e das mãos de Saul. Ele disse:_
+
+[[v19-18-1]]
+
+^<<v19-18-1,1>>^ Eu te amo, ó Jeová, minha força.
+
+[[v19-18-2]]
+
+^<<v19-18-2,2>>^ Jeová é meu rochedo, minha fortaleza e meu libertador.
+Meu Deus é minha rocha, em quem me refugio;
+Ele é meu escudo e meu poderoso salvador,^&#42;1^ meu refúgio seguro.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “chifre de salvação”. Veja o Glossário, “Chifre”.
+. Ou: “refúgio num lugar alto”.
+====
+
+[[v19-18-3]]
+
+^<<v19-18-3,3>>^ Invoco a Jeová, que é digno de louvor,
+E serei salvo dos meus inimigos.
+
+[[v19-18-4]]
+
+^<<v19-18-4,4>>^ Cercaram-me as cordas da morte;
+Enxurradas de homens imprestáveis me apavoraram.
+
+[[v19-18-5]]
+
+^<<v19-18-5,5>>^ As cordas da Sepultura^&#42;1^ me envolveram;
+Os laços da morte me confrontaram.
+
+[NOTE]
+====
+. Ou: “do Seol”, isto é, a sepultura comum da humanidade. Veja o Glossário.
+====
+
+[[v19-18-6]]
+
+^<<v19-18-6,6>>^ Na minha aflição eu invoquei a Jeová,
+Clamei ao meu Deus por ajuda.
+Do seu templo ele ouviu a minha voz,
+E meu clamor por ajuda chegou aos seus ouvidos.
+
+[[v19-18-7]]
+
+^<<v19-18-7,7>>^ Então a terra começou a balançar e a tremer;
+Os alicerces dos montes se abalaram
+E estremeceram, porque ele se tinha irado.
+
+[[v19-18-8]]
+
+^<<v19-18-8,8>>^ Das suas narinas subiu fumaça,
+E da sua boca saiu um fogo consumidor;
+Dele saíram brasas vivas.
+
+[[v19-18-9]]
+
+^<<v19-18-9,9>>^ Ele fez o céu se inclinar e desceu;
+Havia densas trevas debaixo dos seus pés.
+
+[[v19-18-10]]
+
+^<<v19-18-10,10>>^ Ele veio voando, montado num querubim;
+Veio velozmente nas asas de um espírito.^&#42;1^
+
+[NOTE]
+====
+. Ou: “do vento”.
+====
+
+[[v19-18-11]]
+
+^<<v19-18-11,11>>^ Então ele se cobriu de escuridão;
+Em todo o seu redor, como um abrigo,
+Havia águas escuras e nuvens carregadas.
+
+[[v19-18-12]]
+
+^<<v19-18-12,12>>^ Do resplendor diante dele,
+Granizo e brasas de fogo irromperam em meio às nuvens.
+
+[[v19-18-13]]
+
+^<<v19-18-13,13>>^ Então Jeová começou a trovejar nos céus;
+O Altíssimo fez ouvir a sua voz
+Com pedras de granizo e brasas ardentes.
+
+[[v19-18-14]]
+
+^<<v19-18-14,14>>^ Ele atirou as suas flechas e os^&#42;1^ dispersou;
+Lançou seus relâmpagos e os pôs em confusão.
+
+[NOTE]
+====
+. Isto é, os inimigos.
+====
+
+[[v19-18-15]]
+
+^<<v19-18-15,15>>^ Os leitos dos rios^&#42;1^ se tornaram visíveis;
+Os alicerces da terra foram expostos pela tua censura, ó Jeová,
+Pelo forte sopro que sai das tuas narinas.
+
+[NOTE]
+====
+. Ou: “Os canais de água”.
+====
+
+[[v19-18-16]]
+
+^<<v19-18-16,16>>^ Das alturas ele estendeu a mão;
+Ele me segurou e me tirou de águas profundas.
+
+[[v19-18-17]]
+
+^<<v19-18-17,17>>^ Ele me livrou do meu forte inimigo,
+Dos que me odiavam, que eram mais fortes do que eu.
+
+[[v19-18-18]]
+
+^<<v19-18-18,18>>^ Eles me enfrentaram no dia do meu desastre,
+Mas Jeová foi o meu apoio.
+
+[[v19-18-19]]
+
+^<<v19-18-19,19>>^ Ele me levou para um lugar seguro;^&#42;1^
+Ele me livrou porque se agradava de mim.
+
+[NOTE]
+====
+. Ou: “espaçoso”.
+====
+
+[[v19-18-20]]
+
+^<<v19-18-20,20>>^ Jeová me recompensa conforme a minha retidão;
+Ele me retribui conforme a inocência^&#42;1^ das minhas mãos.
+
+[NOTE]
+====
+. Lit.: “a pureza”.
+====
+
+[[v19-18-21]]
+
+^<<v19-18-21,21>>^ Pois tenho guardado os caminhos de Jeová,
+E não cometi o mal de abandonar o meu Deus.
+
+[[v19-18-22]]
+
+^<<v19-18-22,22>>^ Todas as suas decisões judiciais estão diante de mim;
+Não desconsiderarei os seus decretos.
+
+[[v19-18-23]]
+
+^<<v19-18-23,23>>^ Permanecerei irrepreensível diante dele,
+E me guardarei do erro.
+
+[[v19-18-24]]
+
+^<<v19-18-24,24>>^ Que Jeová me recompense conforme a minha retidão,
+Conforme a inocência das minhas mãos diante dele.
+
+[[v19-18-25]]
+
+^<<v19-18-25,25>>^ Com alguém leal, ages com lealdade;
+Com o homem irrepreensível, ages de modo irrepreensível;
+
+[[v19-18-26]]
+
+^<<v19-18-26,26>>^ Com o puro, tu te mostras puro;
+Mas, com o tortuoso, te mostras astuto.
+
+[[v19-18-27]]
+
+^<<v19-18-27,27>>^ Pois salvas os humildes,^&#42;1^
+Mas rebaixas os arrogantes.^&#42;2^
+
+[NOTE]
+====
+. Ou: “aflitos”.
+. Lit.: “olhos arrogantes”.
+====
+
+[[v19-18-28]]
+
+^<<v19-18-28,28>>^ Pois és tu que acendes a minha lâmpada, ó Jeová,
+Meu Deus que ilumina a minha escuridão.
+
+[[v19-18-29]]
+
+^<<v19-18-29,29>>^ Com a tua ajuda posso atacar um bando de saqueadores;
+Com o poder de Deus posso escalar uma muralha.
+
+[[v19-18-30]]
+
+^<<v19-18-30,30>>^ O caminho do verdadeiro Deus é perfeito;
+A declaração de Jeová é pura.^&#42;1^
+Ele é um escudo para todos os que se refugiam nele.
+
+[NOTE]
+====
+. Ou: “provada no fogo”.
+====
+
+[[v19-18-31]]
+
+^<<v19-18-31,31>>^ Pois quem é Deus além de Jeová?
+E quem é uma rocha, a não ser o nosso Deus?
+
+[[v19-18-32]]
+
+^<<v19-18-32,32>>^ O verdadeiro Deus é aquele que me reveste de força,
+Ele tornará perfeito o meu caminho.
+
+[[v19-18-33]]
+
+^<<v19-18-33,33>>^ Ele torna os meus pés como os do cervo
+E me faz ficar de pé nos lugares altos.
+
+[[v19-18-34]]
+
+^<<v19-18-34,34>>^ Ele treina as minhas mãos para a guerra;
+Meus braços podem envergar um arco de cobre.
+
+[[v19-18-35]]
+
+^<<v19-18-35,35>>^ Tu me dás o teu escudo de salvação,
+A tua mão direita me ampara,^&#42;1^
+E a tua humildade me engrandece.
+
+[NOTE]
+====
+. Ou: “sustenta”.
+====
+
+[[v19-18-36]]
+
+^<<v19-18-36,36>>^ Alargas o caminho para os meus passos;
+Meus pés^&#42;1^ não escorregarão.
+
+[NOTE]
+====
+. Ou: “tornozelos”.
+====
+
+[[v19-18-37]]
+
+^<<v19-18-37,37>>^ Perseguirei os meus inimigos e os alcançarei;
+Não voltarei até que tenham sido eliminados.
+
+[[v19-18-38]]
+
+^<<v19-18-38,38>>^ Eu os esmagarei de modo que não poderão se levantar;
+Eles cairão sob os meus pés.
+
+[[v19-18-39]]
+
+^<<v19-18-39,39>>^ Tu me equiparás de força para a batalha;
+Farás com que os meus adversários caiam diante de mim.
+
+[[v19-18-40]]
+
+^<<v19-18-40,40>>^ Tu farás com que os meus inimigos fujam de mim,^&#42;1^
+E eu eliminarei^&#42;2^ os que me odeiam.
+
+[NOTE]
+====
+. Ou: “Tu me darás as costas dos meus inimigos”.
+. Lit.: “silenciarei”.
+====
+
+[[v19-18-41]]
+
+^<<v19-18-41,41>>^ Eles clamam por ajuda, mas não há quem os salve;
+Até mesmo clamam a Jeová, mas ele não lhes responde.
+
+[[v19-18-42]]
+
+^<<v19-18-42,42>>^ Eu os triturarei como o fino pó levado pelo vento;
+Eu os lançarei fora como lama nas ruas.
+
+[[v19-18-43]]
+
+^<<v19-18-43,43>>^ Tu me livrarás das críticas do meu povo.
+Tu me designarás como cabeça de nações.
+Um povo que não conheci me servirá.
+
+[[v19-18-44]]
+
+^<<v19-18-44,44>>^ Só de ouvirem falar a meu respeito, eles se sujeitarão a mim;
+Os estrangeiros virão a mim encolhidos de temor.
+
+[[v19-18-45]]
+
+^<<v19-18-45,45>>^ Os estrangeiros perderão a coragem;^&#42;1^
+Sairão tremendo das suas fortalezas.
+
+[NOTE]
+====
+. Ou: “se desvanecerão”.
+====
+
+[[v19-18-46]]
+
+^<<v19-18-46,46>>^ Jeová vive! Louvada seja a minha Rocha!
+Seja exaltado o Deus da minha salvação!
+
+[[v19-18-47]]
+
+^<<v19-18-47,47>>^ O verdadeiro Deus executa vingança a meu favor;
+Ele me sujeita os povos.
+
+[[v19-18-48]]
+
+^<<v19-18-48,48>>^ Ele me livra dos meus inimigos irados.
+Tu me elevas bem acima dos que me atacam;
+Tu me salvas do homem violento.
+
+[[v19-18-49]]
+
+^<<v19-18-49,49>>^ É por isso que te glorificarei entre as nações, ó Jeová,
+E ao teu nome cantarei louvores.^&#42;1^
+
+[NOTE]
+====
+. Ou: “farei música”.
+====
+
+[[v19-18-50]]
+
+^<<v19-18-50,50>>^ Ele realiza grandes atos de salvação^&#42;1^ para o seu rei;
+Demonstra amor leal ao seu ungido,
+A Davi e à sua descendência,^&#42;2^ para sempre.
+
+[NOTE]
+====
+. Ou: “grandes vitórias”.
+. Lit.: “semente”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-017.adoc#v19-17-0[&#60; Capítulo Anterior] | <<v19-18-0,Topo>> | xref:019-salmo/019-salmo-019.adoc#v19-19-0[Próximo Capítulo &#62;]

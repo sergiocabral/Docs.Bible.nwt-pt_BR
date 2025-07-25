@@ -1,0 +1,56 @@
+include::./index.adoc[]
+
+[[v14-27-0]]
+=== O Segundo das Crônicas, 27
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v14-27-1]]
+
+^<<v14-27-1,1>>^ Jotão tinha 25 anos de idade quando se tornou rei, e reinou por 16 anos em Jerusalém. O nome da sua mãe era Jerusa, filha de Zadoque.
+
+[[v14-27-2]]
+
+^<<v14-27-2,2>>^ Ele fazia o que era certo aos olhos de Jeová, assim como Uzias, seu pai, tinha feito. Mas, ao contrário dele, não invadiu o templo de Jeová. No entanto, o povo ainda agia de modo prejudicial.
+
+[[v14-27-3]]
+
+^<<v14-27-3,3>>^ Ele construiu o portão superior da casa de Jeová e fez muitas obras na muralha de Ofel.
+
+[[v14-27-4]]
+
+^<<v14-27-4,4>>^ Também construiu cidades na região montanhosa de Judá, além de fortalezas e torres nas florestas.
+
+[[v14-27-5]]
+
+^<<v14-27-5,5>>^ Ele guerreou contra o rei dos amonitas e por fim os derrotou, de modo que os amonitas lhe deram naquele ano 100 talentos^&#42;1^ de prata, 10.000 coros^&#42;2^ de trigo e 10.000 coros de cevada. Os amonitas também lhe pagaram essa quantia no segundo e no terceiro ano.
+
+[NOTE]
+====
+. Um talento equivalia a 34,2 kg. Veja Ap. B14.
+. Um coro equivalia a 220 l. Veja Ap. B14.
+====
+
+[[v14-27-6]]
+
+^<<v14-27-6,6>>^ Assim, Jotão se tornou cada vez mais forte, pois tinha firmado o seu caminho^&#42;1^ perante Jeová, seu Deus.
+
+[NOTE]
+====
+. Ou: “preparado os seus caminhos”.
+====
+
+[[v14-27-7]]
+
+^<<v14-27-7,7>>^ Os outros acontecimentos da história de Jotão, todas as suas guerras e as suas ações, estão escritos no Livro dos Reis de Israel e de Judá.
+
+[[v14-27-8]]
+
+^<<v14-27-8,8>>^ Ele tinha 25 anos de idade quando se tornou rei, e reinou por 16 anos em Jerusalém.
+
+[[v14-27-9]]
+
+^<<v14-27-9,9>>^ Depois Jotão descansou com os seus antepassados, e o enterraram na Cidade de Davi. E Acaz, seu filho, tornou-se rei no seu lugar.
+
+'''
+
+xref:014-2-cronicas/014-2-cronicas-026.adoc#v14-26-0[&#60; Capítulo Anterior] | <<v14-27-0,Topo>> | xref:014-2-cronicas/014-2-cronicas-028.adoc#v14-28-0[Próximo Capítulo &#62;]

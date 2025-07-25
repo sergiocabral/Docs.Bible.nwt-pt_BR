@@ -1,0 +1,61 @@
+include::./index.adoc[]
+
+[[v4-17-0]]
+=== Números, 17
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v4-17-1]]
+
+^<<v4-17-1,1>>^ Jeová disse então a Moisés:
+
+[[v4-17-2]]
+
+^<<v4-17-2,2>>^ “Diga aos israelitas que tragam um bastão de cada casa paterna, do maioral de cada casa paterna, 12 bastões ao todo. Escreva o nome de cada um no seu bastão.
+
+[[v4-17-3]]
+
+^<<v4-17-3,3>>^ Você deve escrever o nome de Arão no bastão de Levi, pois há um bastão para o cabeça de cada casa paterna.
+
+[[v4-17-4]]
+
+^<<v4-17-4,4>>^ Coloque os bastões na tenda de reunião diante do Testemunho, onde me apresento regularmente a vocês.
+
+[[v4-17-5]]
+
+^<<v4-17-5,5>>^ E o bastão do homem a quem eu escolher florescerá, e porei fim às queixas dos israelitas contra mim e contra vocês.”
+
+[[v4-17-6]]
+
+^<<v4-17-6,6>>^ Portanto, Moisés falou aos israelitas, e todos os seus maiorais lhe deram bastões — um bastão para cada maioral de casa paterna, 12 bastões —, e o bastão de Arão estava entre os bastões deles.
+
+[[v4-17-7]]
+
+^<<v4-17-7,7>>^ Moisés colocou então os bastões diante de Jeová na tenda do Testemunho.
+
+[[v4-17-8]]
+
+^<<v4-17-8,8>>^ No dia seguinte, Moisés entrou na tenda do Testemunho e viu que o bastão de Arão, que representava a casa de Levi, havia florescido e produzido botões, flores e amêndoas maduras.
+
+[[v4-17-9]]
+
+^<<v4-17-9,9>>^ Então Moisés trouxe todos os bastões que estavam diante de Jeová para fora, a todos os filhos de Israel. Eles examinaram os bastões, e cada um pegou o seu.
+
+[[v4-17-10]]
+
+^<<v4-17-10,10>>^ Jeová disse então a Moisés: “Ponha o bastão de Arão de volta diante do Testemunho, para ser guardado como sinal para os filhos da rebeldia, a fim de que parem de se queixar contra mim e para que não morram.”
+
+[[v4-17-11]]
+
+^<<v4-17-11,11>>^ Moisés fez imediatamente assim como Jeová lhe havia ordenado. Fez exatamente assim.
+
+[[v4-17-12]]
+
+^<<v4-17-12,12>>^ Então os israelitas disseram a Moisés: “Agora vamos morrer, certamente morreremos; todos nós vamos morrer!
+
+[[v4-17-13]]
+
+^<<v4-17-13,13>>^ Qualquer um que até mesmo se aproximar do tabernáculo de Jeová morrerá! Será que todos nós vamos morrer desse jeito?”
+
+'''
+
+xref:004-numeros/004-numeros-016.adoc#v4-16-0[&#60; Capítulo Anterior] | <<v4-17-0,Topo>> | xref:004-numeros/004-numeros-018.adoc#v4-18-0[Próximo Capítulo &#62;]

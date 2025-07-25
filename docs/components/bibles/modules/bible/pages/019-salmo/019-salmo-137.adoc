@@ -1,0 +1,69 @@
+include::./index.adoc[]
+
+[[v19-137-0]]
+=== Salmos, 137
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v19-137-1]]
+
+^<<v19-137-1,1>>^ Junto aos rios de Babilônia, ali nos sentamos.
+Choramos quando nos lembramos de Sião.
+
+[[v19-137-2]]
+
+^<<v19-137-2,2>>^ Nos choupos que ali^&#42;1^ havia,
+Penduramos as nossas harpas.
+
+[NOTE]
+====
+. Isto é, em Babilônia.
+====
+
+[[v19-137-3]]
+
+^<<v19-137-3,3>>^ Pois ali os nossos captores nos pediram uma canção;
+Os que zombavam de nós queriam que os divertíssemos:
+“Cantem-nos uma das canções de Sião.”
+
+[[v19-137-4]]
+
+^<<v19-137-4,4>>^ Como podemos cantar a canção de Jeová
+Em solo estrangeiro?
+
+[[v19-137-5]]
+
+^<<v19-137-5,5>>^ Se eu me esquecer de você, ó Jerusalém,
+Que a minha mão direita se esqueça de sua destreza.^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “se seque”.
+====
+
+[[v19-137-6]]
+
+^<<v19-137-6,6>>^ Que a minha língua grude no céu da boca
+Se eu não me lembrar de você,
+Se eu não puser Jerusalém
+Acima dos meus maiores motivos de alegria.
+
+[[v19-137-7]]
+
+^<<v19-137-7,7>>^ Lembra-te, ó Jeová,
+Do que os edomitas disseram no dia em que Jerusalém caiu:
+“Arrasem-na! Arrasem-na até os seus alicerces!”
+
+[[v19-137-8]]
+
+^<<v19-137-8,8>>^ Ó filha de Babilônia, que logo será devastada,
+Feliz aquele que lhe retribuir
+Com o mesmo tratamento com que você nos tratou.
+
+[[v19-137-9]]
+
+^<<v19-137-9,9>>^ Feliz aquele que agarrar seus filhos
+E despedaçá-los contra as rochas.
+
+'''
+
+xref:019-salmo/019-salmo-136.adoc#v19-136-0[&#60; Capítulo Anterior] | <<v19-137-0,Topo>> | xref:019-salmo/019-salmo-138.adoc#v19-138-0[Próximo Capítulo &#62;]

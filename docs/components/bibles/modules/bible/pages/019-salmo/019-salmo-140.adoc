@@ -1,0 +1,94 @@
+include::./index.adoc[]
+
+[[v19-140-0]]
+=== Salmos, 140
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Para o regente. Salmo de Davi._
+
+[[v19-140-1]]
+
+^<<v19-140-1,1>>^ Livra-me dos homens maus, ó Jeová;
+Protege-me dos homens violentos,
+
+[[v19-140-2]]
+
+^<<v19-140-2,2>>^ Dos que tramam coisas más no coração
+E provocam conflitos o dia inteiro.
+
+[[v19-140-3]]
+
+^<<v19-140-3,3>>^ Afiam a língua como a de uma serpente;
+Há veneno de víboras atrás dos seus lábios. (Selá)
+
+[[v19-140-4]]
+
+^<<v19-140-4,4>>^ Guarda-me, ó Jeová, da mão dos maus;
+Protege-me dos homens violentos,
+Dos que tramam o meu tropeço.
+
+[[v19-140-5]]
+
+^<<v19-140-5,5>>^ Os arrogantes escondem uma armadilha para me apanhar;
+Com cordas, estendem uma rede à beira do caminho.
+Armam laços para mim. (Selá)
+
+[[v19-140-6]]
+
+^<<v19-140-6,6>>^ Eu digo a Jeová: “Tu és o meu Deus.
+Ouve, ó Jeová, as minhas súplicas por ajuda.”
+
+[[v19-140-7]]
+
+^<<v19-140-7,7>>^ Ó Jeová, Soberano Senhor, meu Poderoso Salvador,
+Tu proteges a minha cabeça no dia da batalha.
+
+[[v19-140-8]]
+
+^<<v19-140-8,8>>^ Ó Jeová, não realizes os desejos dos maus.
+Não permitas que as suas tramas sejam bem-sucedidas, para que não sejam enaltecidos. (Selá)
+
+[[v19-140-9]]
+
+^<<v19-140-9,9>>^ Que recaia sobre a cabeça dos que me cercam
+A maldade que os seus lábios proferem.
+
+[[v19-140-10]]
+
+^<<v19-140-10,10>>^ Que chovam sobre eles brasas vivas.
+Que sejam lançados no fogo,
+Em covas profundas,^&#42;1^ e nunca mais se levantem.
+
+[NOTE]
+====
+. Ou: “Em poços de água”.
+====
+
+[[v19-140-11]]
+
+^<<v19-140-11,11>>^ Que o caluniador não ache lugar na terra.^&#42;1^
+Que a maldade persiga os homens violentos e os destrua.
+
+[NOTE]
+====
+. Ou: “no país”.
+====
+
+[[v19-140-12]]
+
+^<<v19-140-12,12>>^ Sei que Jeová defenderá os humildes
+E fará justiça aos pobres.
+
+[[v19-140-13]]
+
+^<<v19-140-13,13>>^ Os justos certamente darão graças ao teu nome;
+Os que são retos morarão diante da tua face.^&#42;1^
+
+[NOTE]
+====
+. Ou: “na tua presença”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-139.adoc#v19-139-0[&#60; Capítulo Anterior] | <<v19-140-0,Topo>> | xref:019-salmo/019-salmo-141.adoc#v19-141-0[Próximo Capítulo &#62;]

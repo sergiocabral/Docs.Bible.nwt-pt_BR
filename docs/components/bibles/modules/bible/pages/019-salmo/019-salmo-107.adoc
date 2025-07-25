@@ -1,0 +1,277 @@
+include::./index.adoc[]
+
+[[v19-107-0]]
+=== Salmos, 107
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_QUINTO LIVRO_
+
+_(Salmos 107-150)_
+
+[[v19-107-1]]
+
+^<<v19-107-1,1>>^ Agradeçam a Jeová, pois ele é bom;
+O seu amor leal dura para sempre.
+
+[[v19-107-2]]
+
+^<<v19-107-2,2>>^ Assim digam os resgatados^&#42;1^ por Jeová,
+Que ele resgatou da mão^&#42;2^ do adversário,
+
+[NOTE]
+====
+. Ou: “recomprados”.
+. Ou: “do poder”.
+====
+
+[[v19-107-3]]
+
+^<<v19-107-3,3>>^ Que ele reuniu das terras,
+Do leste e do oeste,^&#42;1^
+Do norte e do sul.
+
+[NOTE]
+====
+. Ou: “Do nascente e do poente”.
+====
+
+[[v19-107-4]]
+
+^<<v19-107-4,4>>^ Eles vaguearam pelo ermo, pelo deserto;
+Não encontraram caminho para uma cidade onde pudessem morar.
+
+[[v19-107-5]]
+
+^<<v19-107-5,5>>^ Estavam famintos e sedentos;
+Estavam^&#42;1^ desfalecendo de exaustão.
+
+[NOTE]
+====
+. Ou: “Sua alma estava”.
+====
+
+[[v19-107-6]]
+
+^<<v19-107-6,6>>^ Clamavam a Jeová na sua aflição;
+Ele os livrou das suas dificuldades.
+
+[[v19-107-7]]
+
+^<<v19-107-7,7>>^ Ele os fez andar no caminho certo,
+Para que chegassem a uma cidade onde pudessem morar.
+
+[[v19-107-8]]
+
+^<<v19-107-8,8>>^ Que as pessoas agradeçam a Jeová pelo seu amor leal
+E pelos seus atos maravilhosos em favor dos filhos dos homens.
+
+[[v19-107-9]]
+
+^<<v19-107-9,9>>^ Pois ele saciou o sedento^&#42;1^
+E satisfez o faminto^&#42;2^ com coisas boas.
+
+[NOTE]
+====
+. Ou: “a alma sedenta”.
+. Ou: “a alma faminta”.
+====
+
+[[v19-107-10]]
+
+^<<v19-107-10,10>>^ Alguns moravam na mais profunda escuridão,
+Prisioneiros em aflição e em correntes.
+
+[[v19-107-11]]
+
+^<<v19-107-11,11>>^ Pois tinham se rebelado contra a palavra de Deus;
+Tinham desrespeitado a vontade^&#42;1^ do Altíssimo.
+
+[NOTE]
+====
+. Ou: “o conselho”.
+====
+
+[[v19-107-12]]
+
+^<<v19-107-12,12>>^ Portanto, ele humilhou o coração deles trazendo-lhes dificuldades;
+Eles tropeçaram, e não houve ninguém que os ajudasse.
+
+[[v19-107-13]]
+
+^<<v19-107-13,13>>^ Eles clamaram a Jeová por ajuda na sua aflição;
+Ele os salvou das suas dificuldades.
+
+[[v19-107-14]]
+
+^<<v19-107-14,14>>^ Ele os fez sair da mais profunda escuridão
+E quebrou as suas correntes.
+
+[[v19-107-15]]
+
+^<<v19-107-15,15>>^ Que as pessoas agradeçam a Jeová pelo seu amor leal
+E pelos seus atos maravilhosos em favor dos filhos dos homens.
+
+[[v19-107-16]]
+
+^<<v19-107-16,16>>^ Pois ele derrubou as portas de cobre
+E rompeu as trancas de ferro.
+
+[[v19-107-17]]
+
+^<<v19-107-17,17>>^ Eles eram tolos e sofreram aflição
+Por causa de suas transgressões e de seus erros.
+
+[[v19-107-18]]
+
+^<<v19-107-18,18>>^ Perderam o apetite por^&#42;1^ todo alimento;
+Chegaram perto dos portões da morte.
+
+[NOTE]
+====
+. Ou: “Sua alma detestou”.
+====
+
+[[v19-107-19]]
+
+^<<v19-107-19,19>>^ Clamavam a Jeová por ajuda na sua aflição;
+Ele os salvava das suas dificuldades.
+
+[[v19-107-20]]
+
+^<<v19-107-20,20>>^ Ele enviava a sua palavra e os curava,
+E os livrava da cova em que haviam caído.
+
+[[v19-107-21]]
+
+^<<v19-107-21,21>>^ Que as pessoas agradeçam a Jeová pelo seu amor leal
+E pelos seus atos maravilhosos em favor dos filhos dos homens.
+
+[[v19-107-22]]
+
+^<<v19-107-22,22>>^ Que ofereçam os sacrifícios de agradecimento
+E declarem os seus atos com gritos de alegria.
+
+[[v19-107-23]]
+
+^<<v19-107-23,23>>^ Aqueles que viajam pelo mar em navios,
+Que fazem negócios na imensidão das águas,
+
+[[v19-107-24]]
+
+^<<v19-107-24,24>>^ Veem os atos de Jeová
+E os seus atos maravilhosos no mar;
+
+[[v19-107-25]]
+
+^<<v19-107-25,25>>^ Como, pela sua ordem, surge um vendaval,
+Que eleva as ondas do mar.
+
+[[v19-107-26]]
+
+^<<v19-107-26,26>>^ Eles sobem até o céu;
+Mergulham nas profundezas.
+Diante do perigo, sua coragem^&#42;1^ acaba.
+
+[NOTE]
+====
+. Ou: “alma”.
+====
+
+[[v19-107-27]]
+
+^<<v19-107-27,27>>^ Ficam atordoados e cambaleiam como bêbados,
+E toda a sua habilidade se torna inútil.
+
+[[v19-107-28]]
+
+^<<v19-107-28,28>>^ Então, na sua aflição clamam a Jeová,
+E ele os livra das suas dificuldades.
+
+[[v19-107-29]]
+
+^<<v19-107-29,29>>^ Acalma o vendaval;
+As ondas do mar ficam quietas.
+
+[[v19-107-30]]
+
+^<<v19-107-30,30>>^ Alegram-se quando elas se acalmam,
+E ele os conduz ao porto desejado.
+
+[[v19-107-31]]
+
+^<<v19-107-31,31>>^ Que as pessoas agradeçam a Jeová pelo seu amor leal
+E pelos seus atos maravilhosos em favor dos filhos dos homens.
+
+[[v19-107-32]]
+
+^<<v19-107-32,32>>^ Que o exaltem no meio do povo congregado
+E o louvem entre os anciãos reunidos.^&#42;1^
+
+[NOTE]
+====
+. Ou: “no conselho [lit.: assento] dos anciãos”.
+====
+
+[[v19-107-33]]
+
+^<<v19-107-33,33>>^ Ele transforma rios em deserto,
+E fontes de água em terra árida,
+
+[[v19-107-34]]
+
+^<<v19-107-34,34>>^ Terra fértil em terra improdutiva, salgada,
+Por causa da maldade dos que moram nela.
+
+[[v19-107-35]]
+
+^<<v19-107-35,35>>^ Ele transforma o deserto em lagoas repletas de juncos,
+E a terra seca em fontes de água.
+
+[[v19-107-36]]
+
+^<<v19-107-36,36>>^ Ali faz morar os famintos,
+Para que construam uma cidade onde possam morar.
+
+[[v19-107-37]]
+
+^<<v19-107-37,37>>^ Semeiam campos e plantam vinhedos
+Que produzem safras abundantes.
+
+[[v19-107-38]]
+
+^<<v19-107-38,38>>^ Ele os abençoa, e eles se multiplicam muito;
+Ele não deixa o seu rebanho diminuir.
+
+[[v19-107-39]]
+
+^<<v19-107-39,39>>^ Mas eles novamente se tornam poucos e são humilhados
+Com opressão, calamidade e sofrimento.
+
+[[v19-107-40]]
+
+^<<v19-107-40,40>>^ Ele derrama desprezo sobre nobres
+E os faz vaguear por desertos sem caminho.
+
+[[v19-107-41]]
+
+^<<v19-107-41,41>>^ Mas protege^&#42;1^ o pobre da opressão
+E torna a sua família tão numerosa como um rebanho.
+
+[NOTE]
+====
+. Ou: “põe no alto”, isto é, fora de alcance.
+====
+
+[[v19-107-42]]
+
+^<<v19-107-42,42>>^ Os que são retos veem isso e se alegram;
+Mas todos os injustos calam a boca.
+
+[[v19-107-43]]
+
+^<<v19-107-43,43>>^ Quem é sábio refletirá nessas coisas
+E considerará com atenção os atos de amor leal de Jeová.
+
+'''
+
+xref:019-salmo/019-salmo-106.adoc#v19-106-0[&#60; Capítulo Anterior] | <<v19-107-0,Topo>> | xref:019-salmo/019-salmo-108.adoc#v19-108-0[Próximo Capítulo &#62;]

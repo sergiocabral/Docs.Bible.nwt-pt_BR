@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v18-26-0]]
+=== Jó, 26
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v18-26-1]]
+
+^<<v18-26-1,1>>^ Jó disse em resposta:
+
+[[v18-26-2]]
+
+^<<v18-26-2,2>>^ “Como você ajudou aquele que não tem poder!
+Como você salvou o braço que não tem força!
+
+[[v18-26-3]]
+
+^<<v18-26-3,3>>^ Que excelente conselho você deu àquele que não tem sabedoria!
+Quão plenamente^&#42;1^ você revelou sua sabedoria prática!^&#42;2^
+
+[NOTE]
+====
+. Ou: “abundantemente”.
+. Ou: “seu bom senso”.
+====
+
+[[v18-26-4]]
+
+^<<v18-26-4,4>>^ A quem você está tentando falar?
+Quem o inspirou a dizer essas coisas?^&#42;1^
+
+[NOTE]
+====
+. Lit.: “E o fôlego (espírito) de quem saiu de você?”
+====
+
+[[v18-26-5]]
+
+^<<v18-26-5,5>>^ Os que estão impotentes na morte estremecem;
+Estão abaixo do mar e de tudo que o habita.
+
+[[v18-26-6]]
+
+^<<v18-26-6,6>>^ A Sepultura^&#42;1^ está nua perante Deus,^&#42;2^
+E o lugar de destruição^&#42;3^ está descoberto.
+
+[NOTE]
+====
+. Ou: “O Seol”, isto é, a sepultura comum da humanidade. Veja o Glossário.
+. Lit.: “ele”.
+. Ou: “E o Abadon”.
+====
+
+[[v18-26-7]]
+
+^<<v18-26-7,7>>^ Ele estende os céus do norte^&#42;1^ sobre o vazio,^&#42;2^
+Suspende a terra sobre o nada;
+
+[NOTE]
+====
+. Lit.: “o norte”.
+. Lit.: “vácuo”.
+====
+
+[[v18-26-8]]
+
+^<<v18-26-8,8>>^ Embrulha as águas nas nuvens,
+De modo que as nuvens não se rompem com o peso delas;
+
+[[v18-26-9]]
+
+^<<v18-26-9,9>>^ Encobre a visão do seu trono,
+Estendendo sua nuvem sobre ele.
+
+[[v18-26-10]]
+
+^<<v18-26-10,10>>^ Ele demarca o horizonte^&#42;1^ sobre a superfície das águas,
+Estabelece um limite entre a luz e a escuridão.
+
+[NOTE]
+====
+. Lit.: “um círculo”.
+====
+
+[[v18-26-11]]
+
+^<<v18-26-11,11>>^ As colunas do céu estremecem,
+Ficam espantadas com a sua censura.
+
+[[v18-26-12]]
+
+^<<v18-26-12,12>>^ Ele agita o mar com o seu poder,
+E despedaça o monstro marinho^&#42;1^ com o seu entendimento.
+
+[NOTE]
+====
+. Lit.: “Raabe”.
+====
+
+[[v18-26-13]]
+
+^<<v18-26-13,13>>^ Com o seu sopro^&#42;1^ ele limpa o céu;
+Sua mão traspassa a serpente arisca.^&#42;2^
+
+[NOTE]
+====
+. Ou: “vento”.
+. Ou: “que desliza”.
+====
+
+[[v18-26-14]]
+
+^<<v18-26-14,14>>^ E essas são apenas as beiradas dos seus caminhos;
+O que ouvimos sobre ele é somente um leve sussurro!
+Então quem pode entender seu poderoso trovão?”
+
+'''
+
+xref:018-jo/018-jo-025.adoc#v18-25-0[&#60; Capítulo Anterior] | <<v18-26-0,Topo>> | xref:018-jo/018-jo-027.adoc#v18-27-0[Próximo Capítulo &#62;]

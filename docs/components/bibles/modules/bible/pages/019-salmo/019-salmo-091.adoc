@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v19-91-0]]
+=== Salmos, 91
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v19-91-1]]
+
+^<<v19-91-1,1>>^ Quem morar no lugar secreto do Altíssimo
+Encontrará abrigo na sombra do Todo-Poderoso.
+
+[[v19-91-2]]
+
+^<<v19-91-2,2>>^ Vou dizer a Jeová: “Tu és meu refúgio e minha fortaleza;
+Meu Deus, em quem confio.”
+
+[[v19-91-3]]
+
+^<<v19-91-3,3>>^ Pois ele livrará você da armadilha do passarinheiro,
+Da peste destrutiva.
+
+[[v19-91-4]]
+
+^<<v19-91-4,4>>^ Ele o cobrirá^&#42;1^ com as Suas plumas,
+E você se refugiará debaixo das Suas asas.
+A fidelidade dele será um escudo grande e um muro protetor.^&#42;2^
+
+[NOTE]
+====
+. Ou: “impedirá o acesso a você”.
+. Ou: “um baluarte”.
+====
+
+[[v19-91-5]]
+
+^<<v19-91-5,5>>^ Você não terá medo dos terrores da noite,
+Nem da flecha que voa de dia,
+
+[[v19-91-6]]
+
+^<<v19-91-6,6>>^ Nem da pestilência que ronda nas trevas,
+Nem da destruição que devasta ao meio-dia.
+
+[[v19-91-7]]
+
+^<<v19-91-7,7>>^ Mil cairão ao seu lado,
+E dez mil à sua direita;
+Mas nada o atingirá.
+
+[[v19-91-8]]
+
+^<<v19-91-8,8>>^ Você apenas verá com os seus olhos,
+Será testemunha da punição dos^&#42;1^ maus.
+
+[NOTE]
+====
+. Lit.: “retribuição aos”.
+====
+
+[[v19-91-9]]
+
+^<<v19-91-9,9>>^ Visto que você disse: “Jeová é o meu refúgio”,
+Fez do Altíssimo a sua morada;^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “a sua fortaleza; o seu refúgio”.
+====
+
+[[v19-91-10]]
+
+^<<v19-91-10,10>>^ Nenhum desastre virá sobre você,
+E nenhuma praga se aproximará da sua tenda.
+
+[[v19-91-11]]
+
+^<<v19-91-11,11>>^ Pois ele dará aos Seus anjos uma ordem referente a você,
+Para protegê-lo em todos os seus caminhos.
+
+[[v19-91-12]]
+
+^<<v19-91-12,12>>^ Eles o carregarão nas mãos,
+Para que não bata com o pé numa pedra.
+
+[[v19-91-13]]
+
+^<<v19-91-13,13>>^ Você pisará no leão novo e na naja;
+Pisoteará o leão jubado e a cobra grande.
+
+[[v19-91-14]]
+
+^<<v19-91-14,14>>^ Deus disse: “Visto que ele me ama,^&#42;1^ eu o livrarei.
+Eu o protegerei porque ele conhece^&#42;2^ o meu nome.
+
+[NOTE]
+====
+. Lit.: “ele se uniu a mim”.
+. Ou: “reconhece”.
+====
+
+[[v19-91-15]]
+
+^<<v19-91-15,15>>^ Ele me invocará, e eu lhe responderei.
+Estarei com ele nos momentos de aflição.
+Eu o livrarei e glorificarei.
+
+[[v19-91-16]]
+
+^<<v19-91-16,16>>^ Eu o saciarei com uma vida longa
+E o farei ver meus atos de salvação.”^&#42;1^
+
+[NOTE]
+====
+. Ou: “ver a salvação da minha parte”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-090.adoc#v19-90-0[&#60; Capítulo Anterior] | <<v19-91-0,Topo>> | xref:019-salmo/019-salmo-092.adoc#v19-92-0[Próximo Capítulo &#62;]

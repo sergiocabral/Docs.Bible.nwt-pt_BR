@@ -1,0 +1,197 @@
+include::./index.adoc[]
+
+[[v4-32-0]]
+=== Números, 32
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v4-32-1]]
+
+^<<v4-32-1,1>>^ Os filhos de Rubem e os filhos de Gade tinham muitos rebanhos. E eles viram que as terras de Jazer e de Gileade eram uma boa região para a criação de rebanhos.
+
+[[v4-32-2]]
+
+^<<v4-32-2,2>>^ Então os filhos de Gade e os filhos de Rubem se aproximaram de Moisés, de Eleazar, o sacerdote, e dos maiorais da assembleia e disseram:
+
+[[v4-32-3]]
+
+^<<v4-32-3,3>>^ “Atarote, Dibom, Jazer, Ninra, Hesbom, Eleale, Sebã, Nebo e Beom,
+
+[[v4-32-4]]
+
+^<<v4-32-4,4>>^ a terra que Jeová derrotou diante da assembleia de Israel, é uma terra boa para a criação de rebanhos, e seus servos têm muitos rebanhos.”
+
+[[v4-32-5]]
+
+^<<v4-32-5,5>>^ Eles acrescentaram: “Se tivermos achado favor aos seus olhos, deixe que esta seja a terra dada como propriedade aos seus servos. Não nos faça atravessar o Jordão.”
+
+[[v4-32-6]]
+
+^<<v4-32-6,6>>^ Moisés disse então aos filhos de Gade e aos filhos de Rubem: “E os seus irmãos irão à guerra enquanto vocês ficam morando aqui?
+
+[[v4-32-7]]
+
+^<<v4-32-7,7>>^ Por que vocês deveriam desanimar o povo de Israel de passar para a terra que Jeová certamente lhes dará?
+
+[[v4-32-8]]
+
+^<<v4-32-8,8>>^ Foi isso que os seus pais fizeram quando os enviei de Cades-Barneia para ver a terra.
+
+[[v4-32-9]]
+
+^<<v4-32-9,9>>^ Quando eles chegaram ao vale^&#42;1^ de Escol e viram a terra, desanimaram o povo de Israel de entrar na terra que Jeová lhes daria.
+
+[NOTE]
+====
+. Ou: “uádi”.
+====
+
+[[v4-32-10]]
+
+^<<v4-32-10,10>>^ A ira de Jeová se acendeu naquele dia, de modo que ele jurou:
+
+[[v4-32-11]]
+
+^<<v4-32-11,11>>^ ‘Os homens de 20 anos de idade para cima que saíram do Egito não verão a terra que jurei a Abraão, a Isaque e a Jacó, porque não me seguiram de todo o coração,
+
+[[v4-32-12]]
+
+^<<v4-32-12,12>>^ com exceção de Calebe, filho de Jefuné, o quenizeu, e Josué, filho de Num, porque seguiram a Jeová de todo o coração.’
+
+[[v4-32-13]]
+
+^<<v4-32-13,13>>^ Por isso, a ira de Jeová se acendeu contra Israel e ele os fez vaguear pelo deserto por 40 anos, até que toda a geração que fazia o que era mau aos olhos de Jeová chegou ao seu fim.
+
+[[v4-32-14]]
+
+^<<v4-32-14,14>>^ Agora vocês, descendência de homens pecadores, estão tomando o lugar dos seus pais, a fim de aumentar a ira ardente de Jeová contra Israel.
+
+[[v4-32-15]]
+
+^<<v4-32-15,15>>^ Se vocês deixarem de segui-lo, ele certamente deixará este povo no deserto mais uma vez, e vocês causarão ruína a todos eles.”
+
+[[v4-32-16]]
+
+^<<v4-32-16,16>>^ Mais tarde eles se aproximaram dele e disseram: “Deixe-nos construir aqui currais de pedra para os nossos rebanhos e cidades para os nossos filhos.
+
+[[v4-32-17]]
+
+^<<v4-32-17,17>>^ Mas nós continuaremos prontos para a batalha e iremos adiante dos outros israelitas até que os tenhamos levado ao seu lugar, ao passo que os nossos filhos morarão nas cidades fortificadas, protegidos dos habitantes desta terra.
+
+[[v4-32-18]]
+
+^<<v4-32-18,18>>^ Não voltaremos às nossas casas até que todos os israelitas tenham recebido sua terra como herança.
+
+[[v4-32-19]]
+
+^<<v4-32-19,19>>^ Pois não receberemos herança junto com eles do outro lado do Jordão nem mais além, visto que recebemos a nossa herança do lado leste do Jordão.”
+
+[[v4-32-20]]
+
+^<<v4-32-20,20>>^ Moisés lhes disse: “Se vocês fizerem isso, se vocês se armarem para a guerra perante Jeová,
+
+[[v4-32-21]]
+
+^<<v4-32-21,21>>^ se cada um de vocês se armar e atravessar o Jordão perante Jeová à medida que ele expulsa Seus inimigos de diante de si
+
+[[v4-32-22]]
+
+^<<v4-32-22,22>>^ até que a terra seja subjugada diante de Jeová, então vocês poderão voltar e ficar livres de culpa perante Jeová e Israel. E esta terra se tornará sua propriedade perante Jeová.
+
+[[v4-32-23]]
+
+^<<v4-32-23,23>>^ Mas, se vocês não fizerem isso, terão pecado contra Jeová. Nesse caso, saibam que não escaparão das consequências do seu pecado.
+
+[[v4-32-24]]
+
+^<<v4-32-24,24>>^ Então podem construir cidades para os seus filhos e currais para os seus rebanhos, mas façam o que prometeram.”
+
+[[v4-32-25]]
+
+^<<v4-32-25,25>>^ Os filhos de Gade e os filhos de Rubem disseram o seguinte a Moisés: “Seus servos farão assim como meu senhor está ordenando.
+
+[[v4-32-26]]
+
+^<<v4-32-26,26>>^ Nossos filhos, nossas esposas, nossos rebanhos e todos os nossos animais domésticos ficarão nas cidades de Gileade,
+
+[[v4-32-27]]
+
+^<<v4-32-27,27>>^ mas os seus servos atravessarão o Jordão, todos os homens armados para a batalha, para guerrear perante Jeová, assim como meu senhor está falando.”
+
+[[v4-32-28]]
+
+^<<v4-32-28,28>>^ Portanto, Moisés deu ordens a respeito deles a Eleazar, o sacerdote, a Josué, filho de Num, e aos cabeças das casas paternas das tribos de Israel.
+
+[[v4-32-29]]
+
+^<<v4-32-29,29>>^ Moisés lhes disse: “Se os filhos de Gade e os filhos de Rubem atravessarem o Jordão com vocês, todos os homens armados para a guerra perante Jeová, e a terra for subjugada diante de vocês, então vocês lhes darão a terra de Gileade como propriedade.
+
+[[v4-32-30]]
+
+^<<v4-32-30,30>>^ Mas, se eles não se armarem e atravessarem com vocês, eles se estabelecerão entre vocês na terra de Canaã.”
+
+[[v4-32-31]]
+
+^<<v4-32-31,31>>^ Então os filhos de Gade e os filhos de Rubem responderam: “Faremos o que Jeová disse aos seus servos.
+
+[[v4-32-32]]
+
+^<<v4-32-32,32>>^ Nós nos armaremos e atravessaremos o Jordão perante Jeová para a terra de Canaã, mas a propriedade que receberemos como herança estará deste lado do Jordão.”
+
+[[v4-32-33]]
+
+^<<v4-32-33,33>>^ Então Moisés deu aos filhos de Gade, aos filhos de Rubem e à meia tribo de Manassés, filho de José, o reino de Siom, rei dos amorreus, e o reino de Ogue, rei de Basã, isto é, as terras que pertencem às cidades desses territórios, e também as cidades do território ao redor.
+
+[[v4-32-34]]
+
+^<<v4-32-34,34>>^ E os filhos de Gade construíram^&#42;1^ Dibom, Atarote, Aroer,
+
+[NOTE]
+====
+. Ou: “reconstruíram”.
+====
+
+[[v4-32-35]]
+
+^<<v4-32-35,35>>^ Atrote-Sofã, Jazer, Jogbeá,
+
+[[v4-32-36]]
+
+^<<v4-32-36,36>>^ Bete-Ninra e Bete-Harã, cidades fortificadas; também construíram currais de pedra para os rebanhos.
+
+[[v4-32-37]]
+
+^<<v4-32-37,37>>^ E os filhos de Rubem construíram Hesbom, Eleale, Quiriataim,
+
+[[v4-32-38]]
+
+^<<v4-32-38,38>>^ Nebo e Baal-Meom, mudando-lhes o nome, e Sibma. E deram outros nomes às cidades que reconstruíram.
+
+[[v4-32-39]]
+
+^<<v4-32-39,39>>^ Os filhos de Maquir, filho de Manassés, foram a Gileade e a tomaram, e expulsaram os amorreus que havia nela.
+
+[[v4-32-40]]
+
+^<<v4-32-40,40>>^ De modo que Moisés deu Gileade a Maquir, filho de Manassés, e ele passou a morar nela.
+
+[[v4-32-41]]
+
+^<<v4-32-41,41>>^ Jair, descendente de Manassés, foi às aldeias de tendas daquela região e as tomou, e passou a chamá-las de Havote-Jair.^&#42;1^
+
+[NOTE]
+====
+. Que significa “aldeias de tendas de Jair”.
+====
+
+[[v4-32-42]]
+
+^<<v4-32-42,42>>^ E Noba foi a Quenate e às suas aldeias dependentes^&#42;1^ e as tomou, e passou a chamá-la de Noba, segundo o seu próprio nome.
+
+[NOTE]
+====
+. Ou: “ao redor”.
+====
+
+'''
+
+xref:004-numeros/004-numeros-031.adoc#v4-31-0[&#60; Capítulo Anterior] | <<v4-32-0,Topo>> | xref:004-numeros/004-numeros-033.adoc#v4-33-0[Próximo Capítulo &#62;]

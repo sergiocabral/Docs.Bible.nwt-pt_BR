@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v24-28-0]]
+=== Jeremias, 28
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v24-28-1]]
+
+^<<v24-28-1,1>>^ Nesse mesmo ano, no começo do reinado de Zedequias, rei de Judá, no quinto mês do quarto ano, o profeta Hananias, que era filho de Azur e era de Gibeão, disse-me o seguinte na casa de Jeová, na presença dos sacerdotes e de todo o povo:
+
+[[v24-28-2]]
+
+^<<v24-28-2,2>>^ “Assim diz Jeová dos exércitos, o Deus de Israel: ‘Vou quebrar o jugo do rei de Babilônia.
+
+[[v24-28-3]]
+
+^<<v24-28-3,3>>^ Dentro de dois anos^&#42;1^ trarei de volta para este lugar todos os utensílios da casa de Jeová que Nabucodonosor, rei de Babilônia, tirou daqui e levou para Babilônia.’”
+
+[NOTE]
+====
+. Lit.: “anos de dias”.
+====
+
+[[v24-28-4]]
+
+^<<v24-28-4,4>>^ “‘E trarei de volta para cá Jeconias, filho de Jeoiaquim e rei de Judá, e todos os exilados de Judá que foram para Babilônia,’ diz Jeová, ‘pois quebrarei o jugo do rei de Babilônia’.”
+
+[[v24-28-5]]
+
+^<<v24-28-5,5>>^ Então o profeta Jeremias respondeu ao profeta Hananias na presença dos sacerdotes e de todo o povo que estava de pé na casa de Jeová.
+
+[[v24-28-6]]
+
+^<<v24-28-6,6>>^ O profeta Jeremias disse: “Amém!^&#42;1^ Que Jeová faça isso! Que Jeová cumpra as palavras que você profetizou, trazendo de volta de Babilônia para este lugar os utensílios da casa de Jeová e todo o povo exilado!
+
+[NOTE]
+====
+. Ou: “Assim seja!”
+====
+
+[[v24-28-7]]
+
+^<<v24-28-7,7>>^ No entanto, ouça, por favor, esta mensagem que vou dizer a você e a^&#42;1^ todo o povo:
+
+[NOTE]
+====
+. Ou: “dizer aos seus ouvidos e aos ouvidos de”.
+====
+
+[[v24-28-8]]
+
+^<<v24-28-8,8>>^ Os profetas que vieram antes de mim e de você há muito tempo profetizavam guerra, calamidade e peste^&#42;1^ contra muitas terras e grandes reinos.
+
+[NOTE]
+====
+. Ou: “doença”.
+====
+
+[[v24-28-9]]
+
+^<<v24-28-9,9>>^ Agora, se um profeta profetiza a paz, e a palavra desse profeta se cumpre, então se saberá que esse profeta foi realmente enviado por Jeová.”
+
+[[v24-28-10]]
+
+^<<v24-28-10,10>>^ Nisto o profeta Hananias tirou o jugo do pescoço do profeta Jeremias e o quebrou.
+
+[[v24-28-11]]
+
+^<<v24-28-11,11>>^ Hananias disse então na presença de todo o povo: “Assim diz Jeová: ‘É deste modo que quebrarei o jugo de Nabucodonosor, rei de Babilônia, e o tirarei do pescoço de todas as nações dentro de dois anos.’” E o profeta Jeremias foi embora.
+
+[[v24-28-12]]
+
+^<<v24-28-12,12>>^ Depois de o profeta Hananias ter quebrado o jugo e o tirado do pescoço do profeta Jeremias, Jeremias recebeu a seguinte mensagem de Jeová:
+
+[[v24-28-13]]
+
+^<<v24-28-13,13>>^ “Vá e diga a Hananias: ‘Assim diz Jeová: “Você quebrou um jugo de madeira, mas no lugar dele fará um jugo de ferro.”
+
+[[v24-28-14]]
+
+^<<v24-28-14,14>>^ Pois assim diz Jeová dos exércitos, o Deus de Israel: “Vou pôr um jugo de ferro no pescoço de todas essas nações, para que sirvam a Nabucodonosor, rei de Babilônia, e elas terão de servi-lo. E até mesmo os animais selvagens eu darei a ele.”’”
+
+[[v24-28-15]]
+
+^<<v24-28-15,15>>^ Então o profeta Jeremias disse ao profeta Hananias: “Escute, por favor, Hananias! Jeová não o enviou, mas mesmo assim você fez este povo confiar numa mentira.
+
+[[v24-28-16]]
+
+^<<v24-28-16,16>>^ Portanto, assim diz Jeová: ‘Vou tirar você da face da terra. Este ano você morrerá, pois instigou rebelião contra Jeová.’”
+
+[[v24-28-17]]
+
+^<<v24-28-17,17>>^ Assim, no sétimo mês daquele ano, o profeta Hananias morreu.
+
+'''
+
+xref:024-jeremias/024-jeremias-027.adoc#v24-27-0[&#60; Capítulo Anterior] | <<v24-28-0,Topo>> | xref:024-jeremias/024-jeremias-029.adoc#v24-29-0[Próximo Capítulo &#62;]

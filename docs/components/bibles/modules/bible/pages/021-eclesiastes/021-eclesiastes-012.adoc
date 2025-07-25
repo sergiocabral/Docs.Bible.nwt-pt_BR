@@ -1,0 +1,100 @@
+include::./index.adoc[]
+
+[[v21-12-0]]
+=== Eclesiastes, 12
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v21-12-1]]
+
+^<<v21-12-1,1>>^ Lembre-se, então, do seu Grandioso Criador nos dias da sua juventude, antes que venham os dias de aflição^&#42;1^ e cheguem os anos em que você dirá: “Não tenho prazer neles”;
+
+[NOTE]
+====
+. Ou: “os dias calamitosos”.
+====
+
+[[v21-12-2]]
+
+^<<v21-12-2,2>>^ antes que o sol, a luz, a lua e as estrelas escureçam, e as nuvens retornem depois da^&#42;1^ chuva;
+
+[NOTE]
+====
+. Ou, possivelmente: “com a”.
+====
+
+[[v21-12-3]]
+
+^<<v21-12-3,3>>^ quando os guardas^&#42;1^ da casa ficam trêmulos, os homens fortes se curvam, as mulheres param de moer por se terem tornado poucas, e as damas que olham pelas janelas veem escuridão;
+
+[NOTE]
+====
+. Ou: “guardiões”.
+====
+
+[[v21-12-4]]
+
+^<<v21-12-4,4>>^ quando as portas que dão para a rua se fecham, quando o barulho do moinho fica baixo, quando a pessoa se levanta ao som de um pássaro, e todas as filhas do canto ficam fracas;
+
+[[v21-12-5]]
+
+^<<v21-12-5,5>>^ quando há medo de alturas e terrores na rua; quando a amendoeira floresce, o gafanhoto se arrasta e a alcaparra rebenta, porque o homem está caminhando para a sua morada permanente, e os lamentadores percorrem as ruas;
+
+[[v21-12-6]]
+
+^<<v21-12-6,6>>^ antes que o cordão de prata se rompa, a tigela de ouro seja esmagada, o jarro junto à fonte se quebre e a roldana da cisterna rebente.
+
+[[v21-12-7]]
+
+^<<v21-12-7,7>>^ Então o pó volta à terra, de onde veio, e o espírito^&#42;1^ volta ao verdadeiro Deus, que o deu.
+
+[NOTE]
+====
+. Ou: “a força de vida”.
+====
+
+[[v21-12-8]]
+
+^<<v21-12-8,8>>^ “A maior das vaidades!”^&#42;1^ diz o congregante. “Tudo é vão.”
+
+[NOTE]
+====
+. Ou: “futilidades”.
+====
+
+[[v21-12-9]]
+
+^<<v21-12-9,9>>^ O congregante não só se tornou sábio, mas também ensinou continuamente ao povo o que sabia; ele meditou e fez uma pesquisa profunda a fim de compilar^&#42;1^ muitos provérbios.
+
+[NOTE]
+====
+. Ou: “pôr em ordem”.
+====
+
+[[v21-12-10]]
+
+^<<v21-12-10,10>>^ O congregante procurou encontrar palavras agradáveis e registrar com exatidão palavras de verdade.
+
+[[v21-12-11]]
+
+^<<v21-12-11,11>>^ As palavras dos sábios são como aguilhadas, e o conjunto de seus ditos são como pregos bem cravados; suas palavras foram dadas por um só pastor.
+
+[[v21-12-12]]
+
+^<<v21-12-12,12>>^ Quanto a qualquer coisa além delas, meu filho, seja avisado: de se fazerem muitos livros não há fim, e dedicar-se demais a eles cansa a pessoa.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “a carne”.
+====
+
+[[v21-12-13]]
+
+^<<v21-12-13,13>>^ Depois de se ouvir tudo, a conclusão é esta: tema o verdadeiro Deus e obedeça aos seus mandamentos, pois essa é toda a obrigação do homem.
+
+[[v21-12-14]]
+
+^<<v21-12-14,14>>^ Pois o verdadeiro Deus julgará todas as ações, incluindo todas as coisas ocultas, e determinará se são boas ou más.
+
+'''
+
+xref:021-eclesiastes/021-eclesiastes-011.adoc#v21-11-0[&#60; Capítulo Anterior] | <<v21-12-0,Topo>> | xref:022-cantico-de-salomao/022-cantico-de-salomao-001.adoc#v22-1-0[Próximo Capítulo &#62;]

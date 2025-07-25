@@ -1,0 +1,128 @@
+include::./index.adoc[]
+
+[[v19-143-0]]
+=== Salmos, 143
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Salmo de Davi._
+
+[[v19-143-1]]
+
+^<<v19-143-1,1>>^ Ó Jeová, escuta a minha oração,
+Ouve a minha súplica por ajuda.
+Responde-me segundo a tua fidelidade e a tua justiça.
+
+[[v19-143-2]]
+
+^<<v19-143-2,2>>^ Não entres em juízo com o teu servo,
+Pois ninguém que está vivo pode ser justo diante de ti.
+
+[[v19-143-3]]
+
+^<<v19-143-3,3>>^ Porque o inimigo me persegue,^&#42;1^
+Esmagou a minha vida no chão.
+Obrigou-me a morar na escuridão, como os que estão mortos há muito tempo.
+
+[NOTE]
+====
+. Ou: “persegue a minha alma”.
+====
+
+[[v19-143-4]]
+
+^<<v19-143-4,4>>^ Meu espírito^&#42;1^ está desfalecendo;
+Meu coração está entorpecido dentro de mim.
+
+[NOTE]
+====
+. Ou: “Minha força”.
+====
+
+[[v19-143-5]]
+
+^<<v19-143-5,5>>^ Lembro-me dos tempos antigos;
+Medito em todos os teus atos;
+Reflito no^&#42;1^ trabalho das tuas mãos com vivo interesse.
+
+[NOTE]
+====
+. Ou: “Estudo o”.
+====
+
+[[v19-143-6]]
+
+^<<v19-143-6,6>>^ Estendo minhas mãos a ti;
+Sou^&#42;1^ como uma terra esgotada, sedenta de ti. (Selá)
+
+[NOTE]
+====
+. Ou: “Minha alma é”.
+====
+
+[[v19-143-7]]
+
+^<<v19-143-7,7>>^ Responde-me depressa, ó Jeová;
+Minhas forças chegaram^&#42;1^ ao fim.
+Não escondas de mim a tua face,
+Senão eu serei como os que descem à cova.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “Meu espírito chegou”.
+. Ou: “sepultura”.
+====
+
+[[v19-143-8]]
+
+^<<v19-143-8,8>>^ Faz-me ouvir de manhã o teu amor leal,
+Pois confio em ti.
+Faz-me saber o caminho em que devo andar,
+Pois é a ti que recorro.^&#42;1^
+
+[NOTE]
+====
+. Ou: “Pois elevo a ti a minha alma”.
+====
+
+[[v19-143-9]]
+
+^<<v19-143-9,9>>^ Livra-me dos meus inimigos, ó Jeová.
+Busco a tua proteção.
+
+[[v19-143-10]]
+
+^<<v19-143-10,10>>^ Ensina-me a fazer a tua vontade,
+Porque tu és o meu Deus.
+Teu espírito é bom;
+Que ele me guie por terreno plano.^&#42;1^
+
+[NOTE]
+====
+. Ou: “na terra da retidão”.
+====
+
+[[v19-143-11]]
+
+^<<v19-143-11,11>>^ Por causa do teu nome, ó Jeová, preserva-me vivo.
+Na tua justiça, livra-me^&#42;1^ da aflição.
+
+[NOTE]
+====
+. Ou: “livra a minha alma”.
+====
+
+[[v19-143-12]]
+
+^<<v19-143-12,12>>^ No teu amor leal, põe fim aos^&#42;1^ meus inimigos;
+Destrói todos os que me hostilizam,^&#42;2^
+Porque sou teu servo.
+
+[NOTE]
+====
+. Lit.: “silencia”.
+. Ou: “hostilizam a minha alma”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-142.adoc#v19-142-0[&#60; Capítulo Anterior] | <<v19-143-0,Topo>> | xref:019-salmo/019-salmo-144.adoc#v19-144-0[Próximo Capítulo &#62;]

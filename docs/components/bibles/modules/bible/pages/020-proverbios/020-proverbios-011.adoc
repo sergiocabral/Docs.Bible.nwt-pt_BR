@@ -1,0 +1,243 @@
+include::./index.adoc[]
+
+[[v20-11-0]]
+=== Provérbios, 11
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v20-11-1]]
+
+^<<v20-11-1,1>>^ A balança desonesta^&#42;1^ é detestável para Jeová,
+Mas o peso exato^&#42;2^ é um prazer para ele.
+
+[NOTE]
+====
+. Ou: “fraudulenta”.
+. Ou: “o pleno peso de pedra”.
+====
+
+[[v20-11-2]]
+
+^<<v20-11-2,2>>^ Quando a presunção vem, a desonra vem em seguida,
+Mas a sabedoria está com os modestos.
+
+[[v20-11-3]]
+
+^<<v20-11-3,3>>^ A integridade dos justos é o que os guia,
+Mas a falsidade dos traiçoeiros os destruirá.
+
+[[v20-11-4]]
+
+^<<v20-11-4,4>>^ As riquezas^&#42;1^ não servirão para nada no dia da fúria,
+Mas é a justiça que livrará da morte.
+
+[NOTE]
+====
+. Ou: “Coisas valiosas”.
+====
+
+[[v20-11-5]]
+
+^<<v20-11-5,5>>^ A justiça de quem é íntegro endireita o seu caminho,
+Mas aquele que é mau cairá por causa da sua própria maldade.
+
+[[v20-11-6]]
+
+^<<v20-11-6,6>>^ A justiça dos justos os livrará,
+Mas os traiçoeiros serão apanhados pelos seus próprios desejos.
+
+[[v20-11-7]]
+
+^<<v20-11-7,7>>^ Quando morre alguém mau, sua esperança acaba;
+E as expectativas baseadas no seu poder também acabam.
+
+[[v20-11-8]]
+
+^<<v20-11-8,8>>^ O justo é livrado da aflição,
+E quem é mau fica no lugar dele.
+
+[[v20-11-9]]
+
+^<<v20-11-9,9>>^ Com a boca o apóstata^&#42;1^ arruína seu próximo,
+Mas pelo conhecimento os justos são salvos.
+
+[NOTE]
+====
+. Ou: “ímpio”.
+====
+
+[[v20-11-10]]
+
+^<<v20-11-10,10>>^ A bondade dos justos alegra a cidade,
+E, quando os maus morrem, há gritos de alegria.
+
+[[v20-11-11]]
+
+^<<v20-11-11,11>>^ Pela bênção dos justos, a cidade é enaltecida,
+Mas a boca dos maus a derruba.
+
+[[v20-11-12]]
+
+^<<v20-11-12,12>>^ Quem não tem bom senso^&#42;1^ trata seu próximo com desprezo,
+Mas o homem que tem verdadeiro discernimento se mantém calado.
+
+[NOTE]
+====
+. Lit.: “não tem coração”.
+====
+
+[[v20-11-13]]
+
+^<<v20-11-13,13>>^ O caluniador espalha segredos,
+Mas quem é confiável^&#42;1^ guarda confidência.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “fiel no espírito”.
+. Lit.: “cobre um assunto”.
+====
+
+[[v20-11-14]]
+
+^<<v20-11-14,14>>^ Sem orientação perita,^&#42;1^ o povo cai,
+Mas com muitos conselheiros há bons resultados.^&#42;2^
+
+[NOTE]
+====
+. Ou: “instrução sábia”.
+. Ou: “salvação”.
+====
+
+[[v20-11-15]]
+
+^<<v20-11-15,15>>^ Quem se torna fiador de^&#42;1^ um estranho certamente terá problemas,
+Mas quem evita^&#42;2^ o aperto de mão^&#42;3^ ficará seguro.
+
+[NOTE]
+====
+. Ou: “presta fiança a”.
+. Lit.: “odeia”.
+. Isto é, assumindo um compromisso.
+====
+
+[[v20-11-16]]
+
+^<<v20-11-16,16>>^ A mulher amável^&#42;1^ obtém glória,
+Mas homens impiedosos se apoderam de riquezas.
+
+[NOTE]
+====
+. Ou: “encantadora”.
+====
+
+[[v20-11-17]]
+
+^<<v20-11-17,17>>^ O homem bondoso^&#42;1^ faz bem a si mesmo,^&#42;2^
+Mas a pessoa cruel faz mal^&#42;3^ a si própria.
+
+[NOTE]
+====
+. Ou: “de amor leal”.
+. Ou: “à sua alma”.
+. Ou: “envergonha”.
+====
+
+[[v20-11-18]]
+
+^<<v20-11-18,18>>^ Quem é mau recebe um salário ilusório,
+Mas quem semeia justiça obtém verdadeira recompensa.
+
+[[v20-11-19]]
+
+^<<v20-11-19,19>>^ Quem toma firme posição a favor da justiça caminha para a vida,
+Mas quem corre atrás do que é mau caminha para a morte.
+
+[[v20-11-20]]
+
+^<<v20-11-20,20>>^ Os que têm o coração tortuoso são detestáveis para Jeová,
+Mas os que têm um proceder irrepreensível são um prazer para ele.
+
+[[v20-11-21]]
+
+^<<v20-11-21,21>>^ Tenha certeza do seguinte:^&#42;1^ os maus não ficarão impunes,
+Mas os filhos dos justos escaparão.
+
+[NOTE]
+====
+. Lit.: “Mão a mão”.
+====
+
+[[v20-11-22]]
+
+^<<v20-11-22,22>>^ Como uma argola de ouro no focinho de um porco
+É a mulher bonita que despreza o bom senso.
+
+[[v20-11-23]]
+
+^<<v20-11-23,23>>^ O desejo dos justos resulta em bem,
+Mas aquilo que os maus esperam resulta em fúria.
+
+[[v20-11-24]]
+
+^<<v20-11-24,24>>^ Há quem dá generosamente^&#42;1^ e acaba com mais;
+Outro se nega a dar o que deveria e acaba na pobreza.
+
+[NOTE]
+====
+. Lit.: “espalha”.
+====
+
+[[v20-11-25]]
+
+^<<v20-11-25,25>>^ A pessoa^&#42;1^ generosa prosperará,^&#42;2^
+E quem reanima^&#42;3^ outros será ele mesmo reanimado.
+
+[NOTE]
+====
+. Ou: “alma”.
+. Lit.: “será engordada”.
+. Lit.: “rega abundantemente”.
+====
+
+[[v20-11-26]]
+
+^<<v20-11-26,26>>^ O povo vai amaldiçoar quem retém os cereais,
+Mas vai abençoar aquele que os vende.
+
+[[v20-11-27]]
+
+^<<v20-11-27,27>>^ Quem procura diligentemente fazer o bem, procura o favor;
+Mas quem busca o mal, o mal certamente virá sobre ele.
+
+[[v20-11-28]]
+
+^<<v20-11-28,28>>^ Quem confia nas suas riquezas cairá,
+Mas os justos florescerão como a folhagem.
+
+[[v20-11-29]]
+
+^<<v20-11-29,29>>^ Aquele que causa dificuldades^&#42;1^ à sua casa herdará o vento,
+E o tolo será servo daquele que tem coração sábio.
+
+[NOTE]
+====
+. Ou: “vergonha”.
+====
+
+[[v20-11-30]]
+
+^<<v20-11-30,30>>^ O fruto do justo é árvore de vida,
+E quem ganha almas^&#42;1^ é sábio.
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v20-11-31]]
+
+^<<v20-11-31,31>>^ Se, de fato, o justo na terra recebe sua retribuição,
+Quanto mais o perverso e o pecador!
+
+'''
+
+xref:020-proverbios/020-proverbios-010.adoc#v20-10-0[&#60; Capítulo Anterior] | <<v20-11-0,Topo>> | xref:020-proverbios/020-proverbios-012.adoc#v20-12-0[Próximo Capítulo &#62;]

@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v19-98-0]]
+=== Salmos, 98
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Salmo._
+
+[[v19-98-1]]
+
+^<<v19-98-1,1>>^ Cantem a Jeová um novo cântico,
+Pois ele tem feito coisas maravilhosas.
+Sua mão direita, seu santo braço, trouxe salvação.^&#42;1^
+
+[NOTE]
+====
+. Ou: “deu-lhe vitória”.
+====
+
+[[v19-98-2]]
+
+^<<v19-98-2,2>>^ Jeová tornou conhecida a salvação da sua parte;
+Revelou a sua justiça diante das nações.
+
+[[v19-98-3]]
+
+^<<v19-98-3,3>>^ Ele se lembrou do seu amor leal e da sua fidelidade para com a casa de Israel.
+Todos os confins da terra viram a salvação da parte do nosso Deus.^&#42;1^
+
+[NOTE]
+====
+. Ou: “a vitória do nosso Deus”.
+====
+
+[[v19-98-4]]
+
+^<<v19-98-4,4>>^ Aclame triunfantemente a Jeová, toda a terra.
+Fiquem animados, gritem de alegria e cantem louvores.^&#42;1^
+
+[NOTE]
+====
+. Ou: “façam música”.
+====
+
+[[v19-98-5]]
+
+^<<v19-98-5,5>>^ Louvem^&#42;1^ a Jeová com a harpa,
+Com a harpa e com cântico melodioso.
+
+[NOTE]
+====
+. Ou: “Façam música”.
+====
+
+[[v19-98-6]]
+
+^<<v19-98-6,6>>^ Com as trombetas e com o som da buzina,
+Gritem triunfantemente perante o Rei, Jeová.
+
+[[v19-98-7]]
+
+^<<v19-98-7,7>>^ Troveje o mar e tudo o que nele existe,
+A terra^&#42;1^ e os que nela moram.
+
+[NOTE]
+====
+. Ou: “terra produtiva”.
+====
+
+[[v19-98-8]]
+
+^<<v19-98-8,8>>^ Que os rios batam palmas;
+Que os montes, juntos, gritem de alegria
+
+[[v19-98-9]]
+
+^<<v19-98-9,9>>^ Perante Jeová, pois ele vem^&#42;1^ para julgar a terra.
+Julgará a terra habitada^&#42;2^ com retidão
+E os povos com justiça.
+
+[NOTE]
+====
+. Ou: “chegou”.
+. Ou: “terra produtiva”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-097.adoc#v19-97-0[&#60; Capítulo Anterior] | <<v19-98-0,Topo>> | xref:019-salmo/019-salmo-099.adoc#v19-99-0[Próximo Capítulo &#62;]

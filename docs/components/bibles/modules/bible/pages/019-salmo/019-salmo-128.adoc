@@ -1,0 +1,41 @@
+include::./index.adoc[]
+
+[[v19-128-0]]
+=== Salmos, 128
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Cântico das Subidas._
+
+[[v19-128-1]]
+
+^<<v19-128-1,1>>^ Feliz todo aquele que teme a Jeová,
+Que anda nos Seus caminhos.
+
+[[v19-128-2]]
+
+^<<v19-128-2,2>>^ Você comerá o que suas mãos trabalharam duro para produzir.
+Será feliz e terá prosperidade.
+
+[[v19-128-3]]
+
+^<<v19-128-3,3>>^ Sua esposa será como uma videira frutífera dentro da sua casa;
+Seus filhos serão como brotos de oliveira ao redor da sua mesa.
+
+[[v19-128-4]]
+
+^<<v19-128-4,4>>^ É assim que o homem que teme a Jeová
+Será abençoado.
+
+[[v19-128-5]]
+
+^<<v19-128-5,5>>^ Desde Sião Jeová abençoará você.
+Que você veja Jerusalém prosperar todos os dias da sua vida
+
+[[v19-128-6]]
+
+^<<v19-128-6,6>>^ E veja os filhos dos seus filhos.
+Que haja paz sobre Israel!
+
+'''
+
+xref:019-salmo/019-salmo-127.adoc#v19-127-0[&#60; Capítulo Anterior] | <<v19-128-0,Topo>> | xref:019-salmo/019-salmo-129.adoc#v19-129-0[Próximo Capítulo &#62;]

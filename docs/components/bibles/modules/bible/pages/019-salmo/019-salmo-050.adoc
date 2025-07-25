@@ -1,0 +1,154 @@
+include::./index.adoc[]
+
+[[v19-50-0]]
+=== Salmos, 50
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Salmo de Asafe._
+
+[[v19-50-1]]
+
+^<<v19-50-1,1>>^ O Deus dos deuses, Jeová,^&#42;1^ fala;
+Ele convoca a terra
+Desde o nascente do sol até o poente.^&#42;2^
+
+[NOTE]
+====
+. Ou: “O Divino, Deus, Jeová”.
+. Ou: “Do leste ao oeste”.
+====
+
+[[v19-50-2]]
+
+^<<v19-50-2,2>>^ De Sião, a perfeição da beleza, Deus resplandece.
+
+[[v19-50-3]]
+
+^<<v19-50-3,3>>^ Nosso Deus chegará e de modo algum ficará calado.
+Diante dele há um fogo devorador,
+E ao redor dele uma violenta tempestade.
+
+[[v19-50-4]]
+
+^<<v19-50-4,4>>^ Ele convoca os altos céus e a terra,
+Pois vai julgar o seu povo:
+
+[[v19-50-5]]
+
+^<<v19-50-5,5>>^ “Reúnam a mim os que me são leais,
+Os que fazem comigo um pacto por meio de sacrifício.”
+
+[[v19-50-6]]
+
+^<<v19-50-6,6>>^ Os céus proclamam a sua justiça,
+Pois Deus é Juiz. (Selá)
+
+[[v19-50-7]]
+
+^<<v19-50-7,7>>^ “Escute, ó povo meu, pois vou falar;
+Israel, darei testemunho contra você.
+Eu sou Deus, o seu Deus.
+
+[[v19-50-8]]
+
+^<<v19-50-8,8>>^ Não o repreendo por causa dos seus sacrifícios,
+Nem por causa das suas ofertas queimadas que estão constantemente diante de mim.
+
+[[v19-50-9]]
+
+^<<v19-50-9,9>>^ Não preciso tomar um novilho da sua casa,
+Nem bodes dos seus currais.
+
+[[v19-50-10]]
+
+^<<v19-50-10,10>>^ Pois todos os animais da floresta são meus,
+Até mesmo os animais sobre mil montanhas.
+
+[[v19-50-11]]
+
+^<<v19-50-11,11>>^ Conheço todas as aves dos montes;
+Os incontáveis animais do campo são meus.
+
+[[v19-50-12]]
+
+^<<v19-50-12,12>>^ Se eu tivesse fome, não diria isso a você,
+Pois meu é o solo produtivo e tudo que há nele.
+
+[[v19-50-13]]
+
+^<<v19-50-13,13>>^ Será que comerei a carne de touros
+Ou beberei o sangue de bodes?
+
+[[v19-50-14]]
+
+^<<v19-50-14,14>>^ Ofereça agradecimentos como sacrifício a Deus,
+E cumpra os seus votos feitos ao Altíssimo;
+
+[[v19-50-15]]
+
+^<<v19-50-15,15>>^ Invoque a mim no dia da aflição.
+Eu o livrarei, e você me glorificará.”
+
+[[v19-50-16]]
+
+^<<v19-50-16,16>>^ Mas, a quem é mau, Deus dirá:
+“Que direito você tem de recitar as minhas leis
+E de falar do meu pacto?
+
+[[v19-50-17]]
+
+^<<v19-50-17,17>>^ Pois você odeia a disciplina^&#42;1^
+E dá as costas às minhas palavras.^&#42;2^
+
+[NOTE]
+====
+. Ou: “instrução”.
+. Lit.: “lança as minhas palavras atrás de si”.
+====
+
+[[v19-50-18]]
+
+^<<v19-50-18,18>>^ Quando vê um ladrão, você o aprova;^&#42;1^
+E anda com os adúlteros.
+
+[NOTE]
+====
+. Ou, possivelmente: “você se junta a ele”.
+====
+
+[[v19-50-19]]
+
+^<<v19-50-19,19>>^ Você usa a boca para divulgar o que é mau,
+E a falsidade está presa à sua língua.
+
+[[v19-50-20]]
+
+^<<v19-50-20,20>>^ Senta-se para falar mal do seu irmão;
+Revela as falhas do^&#42;1^ filho da sua própria mãe.
+
+[NOTE]
+====
+. Ou: “Difama o”.
+====
+
+[[v19-50-21]]
+
+^<<v19-50-21,21>>^ Quando você fez essas coisas, eu fiquei calado;
+Então você pensou que eu seria como você.
+Mas agora vou repreendê-lo
+E vou apresentar a minha causa contra você.
+
+[[v19-50-22]]
+
+^<<v19-50-22,22>>^ Por favor, considerem isso, vocês que se esquecem de Deus,
+Senão vou dilacerar vocês, e não haverá quem os livre.
+
+[[v19-50-23]]
+
+^<<v19-50-23,23>>^ Quem oferece agradecimentos como sacrifício me glorifica;
+E quanto àquele que segue o caminho determinado,
+Eu o farei ver a salvação da parte de Deus.”
+
+'''
+
+xref:019-salmo/019-salmo-049.adoc#v19-49-0[&#60; Capítulo Anterior] | <<v19-50-0,Topo>> | xref:019-salmo/019-salmo-051.adoc#v19-51-0[Próximo Capítulo &#62;]

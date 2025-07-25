@@ -1,0 +1,32 @@
+include::../index.adoc[]
+
+[[v6-0-0]]
+== Josué
+
+[cols="8*^"]
+|===
+| xref:006-josue/006-josue-001.adoc#v6-1-0[1]
+| xref:006-josue/006-josue-002.adoc#v6-2-0[2]
+| xref:006-josue/006-josue-003.adoc#v6-3-0[3]
+| xref:006-josue/006-josue-004.adoc#v6-4-0[4]
+| xref:006-josue/006-josue-005.adoc#v6-5-0[5]
+| xref:006-josue/006-josue-006.adoc#v6-6-0[6]
+| xref:006-josue/006-josue-007.adoc#v6-7-0[7]
+| xref:006-josue/006-josue-008.adoc#v6-8-0[8]
+| xref:006-josue/006-josue-009.adoc#v6-9-0[9]
+| xref:006-josue/006-josue-010.adoc#v6-10-0[10]
+| xref:006-josue/006-josue-011.adoc#v6-11-0[11]
+| xref:006-josue/006-josue-012.adoc#v6-12-0[12]
+| xref:006-josue/006-josue-013.adoc#v6-13-0[13]
+| xref:006-josue/006-josue-014.adoc#v6-14-0[14]
+| xref:006-josue/006-josue-015.adoc#v6-15-0[15]
+| xref:006-josue/006-josue-016.adoc#v6-16-0[16]
+| xref:006-josue/006-josue-017.adoc#v6-17-0[17]
+| xref:006-josue/006-josue-018.adoc#v6-18-0[18]
+| xref:006-josue/006-josue-019.adoc#v6-19-0[19]
+| xref:006-josue/006-josue-020.adoc#v6-20-0[20]
+| xref:006-josue/006-josue-021.adoc#v6-21-0[21]
+| xref:006-josue/006-josue-022.adoc#v6-22-0[22]
+| xref:006-josue/006-josue-023.adoc#v6-23-0[23]
+| xref:006-josue/006-josue-024.adoc#v6-24-0[24]
+|===

@@ -1,0 +1,154 @@
+include::./index.adoc[]
+
+[[v19-136-0]]
+=== Salmos, 136
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v19-136-1]]
+
+^<<v19-136-1,1>>^ Agradeçam a Jeová, pois ele é bom;
+O seu amor leal dura para sempre.
+
+[[v19-136-2]]
+
+^<<v19-136-2,2>>^ Agradeçam ao Deus dos deuses,
+Pois o seu amor leal dura para sempre.
+
+[[v19-136-3]]
+
+^<<v19-136-3,3>>^ Agradeçam ao Senhor dos senhores,
+Pois o seu amor leal dura para sempre.
+
+[[v19-136-4]]
+
+^<<v19-136-4,4>>^ Somente ele faz grandes maravilhas,
+Pois o seu amor leal dura para sempre.
+
+[[v19-136-5]]
+
+^<<v19-136-5,5>>^ Ele fez os céus com habilidade,^&#42;1^
+Pois o seu amor leal dura para sempre.
+
+[NOTE]
+====
+. Ou: “entendimento”.
+====
+
+[[v19-136-6]]
+
+^<<v19-136-6,6>>^ Estendeu a terra sobre as águas,
+Pois o seu amor leal dura para sempre.
+
+[[v19-136-7]]
+
+^<<v19-136-7,7>>^ Fez as grandes luzes,
+Pois o seu amor leal dura para sempre,
+
+[[v19-136-8]]
+
+^<<v19-136-8,8>>^ O sol para dominar o dia,
+Pois o seu amor leal dura para sempre,
+
+[[v19-136-9]]
+
+^<<v19-136-9,9>>^ A lua e as estrelas para dominarem a noite,
+Pois o seu amor leal dura para sempre.
+
+[[v19-136-10]]
+
+^<<v19-136-10,10>>^ Ele matou os primogênitos do Egito,
+Pois o seu amor leal dura para sempre.
+
+[[v19-136-11]]
+
+^<<v19-136-11,11>>^ Tirou Israel do meio deles,
+Pois o seu amor leal dura para sempre,
+
+[[v19-136-12]]
+
+^<<v19-136-12,12>>^ Com mão poderosa e com braço estendido,
+Pois o seu amor leal dura para sempre.
+
+[[v19-136-13]]
+
+^<<v19-136-13,13>>^ Ele dividiu o mar Vermelho em dois,^&#42;1^
+Pois o seu amor leal dura para sempre.
+
+[NOTE]
+====
+. Lit.: “em pedaços”.
+====
+
+[[v19-136-14]]
+
+^<<v19-136-14,14>>^ Fez Israel passar pelo meio dele,
+Pois o seu amor leal dura para sempre.
+
+[[v19-136-15]]
+
+^<<v19-136-15,15>>^ Ele lançou Faraó e seu exército no mar Vermelho,
+Pois o seu amor leal dura para sempre.
+
+[[v19-136-16]]
+
+^<<v19-136-16,16>>^ Conduziu seu povo pelo deserto,
+Pois o seu amor leal dura para sempre.
+
+[[v19-136-17]]
+
+^<<v19-136-17,17>>^ Derrotou grandes reis,
+Pois o seu amor leal dura para sempre.
+
+[[v19-136-18]]
+
+^<<v19-136-18,18>>^ Matou reis poderosos,
+Pois o seu amor leal dura para sempre,
+
+[[v19-136-19]]
+
+^<<v19-136-19,19>>^ Siom, rei dos amorreus,
+Pois o seu amor leal dura para sempre,
+
+[[v19-136-20]]
+
+^<<v19-136-20,20>>^ E Ogue, rei de Basã,
+Pois o seu amor leal dura para sempre.
+
+[[v19-136-21]]
+
+^<<v19-136-21,21>>^ Ele deu a terra deles como herança,
+Pois o seu amor leal dura para sempre,
+
+[[v19-136-22]]
+
+^<<v19-136-22,22>>^ Como herança a Israel, seu servo,
+Pois o seu amor leal dura para sempre.
+
+[[v19-136-23]]
+
+^<<v19-136-23,23>>^ Ele se lembrou de nós em nossa humilhação,
+Pois o seu amor leal dura para sempre.
+
+[[v19-136-24]]
+
+^<<v19-136-24,24>>^ Ele sempre nos livrava dos nossos adversários,
+Pois o seu amor leal dura para sempre.
+
+[[v19-136-25]]
+
+^<<v19-136-25,25>>^ Ele dá alimento a todos os seres vivos,^&#42;1^
+Pois o seu amor leal dura para sempre.
+
+[NOTE]
+====
+. Lit.: “toda carne”.
+====
+
+[[v19-136-26]]
+
+^<<v19-136-26,26>>^ Agradeçam ao Deus dos céus,
+Pois o seu amor leal dura para sempre.
+
+'''
+
+xref:019-salmo/019-salmo-135.adoc#v19-135-0[&#60; Capítulo Anterior] | <<v19-136-0,Topo>> | xref:019-salmo/019-salmo-137.adoc#v19-137-0[Próximo Capítulo &#62;]

@@ -1,0 +1,59 @@
+include::./index.adoc[]
+
+[[v19-3-0]]
+=== Salmos, 3
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Salmo de Davi, quando ele fugia de seu filho Absalão._
+
+[[v19-3-1]]
+
+^<<v19-3-1,1>>^ Ó Jeová, por que os meus adversários se tornaram tão numerosos?
+Por que tantos se levantam contra mim?
+
+[[v19-3-2]]
+
+^<<v19-3-2,2>>^ Muitos dizem sobre mim:^&#42;1^
+“Deus não o salvará.” (Selá)^&#42;2^
+
+[NOTE]
+====
+. Ou: “minha alma”.
+. Veja o Glossário.
+====
+
+[[v19-3-3]]
+
+^<<v19-3-3,3>>^ Mas tu, ó Jeová, és um escudo ao meu redor,
+Minha glória e aquele que ergue a minha cabeça.
+
+[[v19-3-4]]
+
+^<<v19-3-4,4>>^ Clamarei a Jeová,
+E ele me responderá do seu santo monte. (Selá)
+
+[[v19-3-5]]
+
+^<<v19-3-5,5>>^ Eu me deitarei e dormirei,
+E acordarei em segurança,
+Pois Jeová continua a me sustentar.
+
+[[v19-3-6]]
+
+^<<v19-3-6,6>>^ Não tenho medo das dezenas de milhares
+Que me cercam de todos os lados.
+
+[[v19-3-7]]
+
+^<<v19-3-7,7>>^ Levanta-te, ó Jeová! Salva-me, ó meu Deus!
+Pois golpearás todos os meus inimigos no queixo;
+Quebrarás os dentes dos maus.
+
+[[v19-3-8]]
+
+^<<v19-3-8,8>>^ A salvação pertence a Jeová.
+A tua bênção está sobre o teu povo. (Selá)
+
+'''
+
+xref:019-salmo/019-salmo-002.adoc#v19-2-0[&#60; Capítulo Anterior] | <<v19-3-0,Topo>> | xref:019-salmo/019-salmo-004.adoc#v19-4-0[Próximo Capítulo &#62;]

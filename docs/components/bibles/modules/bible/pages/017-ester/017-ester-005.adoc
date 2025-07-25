@@ -1,0 +1,85 @@
+include::./index.adoc[]
+
+[[v17-5-0]]
+=== Ester, 5
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v17-5-1]]
+
+^<<v17-5-1,1>>^ No terceiro dia, Ester vestiu seus trajes reais, foi ao pátio interno da casa^&#42;1^ do rei e ficou esperando em frente à casa do rei. O rei estava na casa real, sentado no seu trono real, de frente para a entrada.
+
+[NOTE]
+====
+. Ou: “do palácio”.
+====
+
+[[v17-5-2]]
+
+^<<v17-5-2,2>>^ Assim que o rei viu a rainha Ester parada no pátio, ela achou favor aos seus olhos, de modo que o rei estendeu a Ester o cetro de ouro que tinha na mão. Ester então se aproximou e tocou a ponta do cetro.
+
+[[v17-5-3]]
+
+^<<v17-5-3,3>>^ O rei lhe perguntou: “O que houve, rainha Ester? Qual é a sua solicitação? Até a metade^&#42;1^ do meu reino eu lhe darei!”
+
+[NOTE]
+====
+. Ou: “Mesmo que seja a metade”.
+====
+
+[[v17-5-4]]
+
+^<<v17-5-4,4>>^ Ester respondeu: “Se for do agrado do rei, que o rei venha hoje com Hamã ao banquete que lhe preparei.”
+
+[[v17-5-5]]
+
+^<<v17-5-5,5>>^ Então o rei disse: “Digam a Hamã que venha depressa, conforme Ester pediu.” De modo que o rei e Hamã foram ao banquete preparado por Ester.
+
+[[v17-5-6]]
+
+^<<v17-5-6,6>>^ E, quando bebiam o vinho, o rei disse a Ester: “Qual é o seu pedido? Ele será concedido! Qual é a sua solicitação? Até a metade^&#42;1^ do meu reino eu lhe darei!”
+
+[NOTE]
+====
+. Ou: “Mesmo que seja a metade”.
+====
+
+[[v17-5-7]]
+
+^<<v17-5-7,7>>^ Ester respondeu: “Este é o meu pedido e a minha solicitação:
+
+[[v17-5-8]]
+
+^<<v17-5-8,8>>^ Se eu achei favor aos olhos do rei, e se for do agrado do rei conceder o meu pedido e atender à minha solicitação, então que o rei venha com Hamã ao banquete que lhes darei amanhã, e amanhã responderei à pergunta do rei.”
+
+[[v17-5-9]]
+
+^<<v17-5-9,9>>^ Naquele dia, Hamã saiu de lá contente e com o coração alegre. Mas, quando viu Mordecai no portão do rei e notou que ele não se levantou nem tremeu diante dele, Hamã ficou muito furioso com Mordecai.
+
+[[v17-5-10]]
+
+^<<v17-5-10,10>>^ No entanto, Hamã se controlou e foi para casa. Então mandou chamar seus amigos e Zeres, sua esposa.
+
+[[v17-5-11]]
+
+^<<v17-5-11,11>>^ Hamã se gabou da sua gloriosa riqueza, dos seus muitos filhos e de como o rei o havia promovido e engrandecido, colocando-o acima dos príncipes e dos servos do rei.
+
+[[v17-5-12]]
+
+^<<v17-5-12,12>>^ Hamã acrescentou: “Além disso, a rainha Ester convidou somente a mim para acompanhar o rei ao banquete que ela havia preparado. E eu fui convidado para estar com ela e com o rei novamente amanhã.
+
+[[v17-5-13]]
+
+^<<v17-5-13,13>>^ Mas nada disso me satisfaz enquanto eu continuar vendo Mordecai, o judeu, sentado no portão do rei.”
+
+[[v17-5-14]]
+
+^<<v17-5-14,14>>^ Então Zeres, sua esposa, e todos os seus amigos lhe disseram: “Mande preparar um madeiro de 50 côvados^&#42;1^ de altura. E peça ao rei logo pela manhã que Mordecai seja pendurado nele. Assim você poderá se alegrar no banquete com o rei.” A sugestão agradou a Hamã, e ele mandou preparar o madeiro.
+
+[NOTE]
+====
+. Cerca de 22,3 m. Veja Ap. B14.
+====
+
+'''
+
+xref:017-ester/017-ester-004.adoc#v17-4-0[&#60; Capítulo Anterior] | <<v17-5-0,Topo>> | xref:017-ester/017-ester-006.adoc#v17-6-0[Próximo Capítulo &#62;]

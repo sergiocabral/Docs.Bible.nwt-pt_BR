@@ -1,0 +1,281 @@
+include::./index.adoc[]
+
+[[v27-2-0]]
+=== Daniel, 2
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v27-2-1]]
+
+^<<v27-2-1,1>>^ No segundo ano do seu reinado, Nabucodonosor teve diversos sonhos, e ele^&#42;1^ ficou tão agitado que não conseguia dormir.
+
+[NOTE]
+====
+. Lit.: “seu espírito”.
+====
+
+[[v27-2-2]]
+
+^<<v27-2-2,2>>^ Portanto, o rei mandou convocar os sacerdotes-magos, os adivinhos,^&#42;1^ os feiticeiros e os caldeus,^&#42;2^ para que dissessem ao rei o que ele havia sonhado. De modo que eles entraram e se apresentaram ao rei.
+
+[NOTE]
+====
+. Ou: “encantadores”.
+. Isto é, uma seita de pessoas que se consideravam peritas em adivinhação e astrologia.
+====
+
+[[v27-2-3]]
+
+^<<v27-2-3,3>>^ O rei lhes disse então: “Tive um sonho, e estou^&#42;1^ agitado porque quero saber o que sonhei.”
+
+[NOTE]
+====
+. Lit.: “meu espírito está”.
+====
+
+[[v27-2-4]]
+
+^<<v27-2-4,4>>^ Os caldeus responderam ao rei na língua aramaica:^&#42;1^ “Ó rei, viva para sempre! Conte aos seus servos o seu sonho, e nós diremos a interpretação.”
+
+[NOTE]
+====
+. Daniel 2:4b até 7:28 foi originalmente escrito em aramaico.
+====
+
+[[v27-2-5]]
+
+^<<v27-2-5,5>>^ O rei respondeu aos caldeus: “Esta é a minha última palavra: se vocês não me revelarem o sonho e a interpretação dele, serão cortados em pedaços, e as suas casas serão transformadas em latrinas públicas.^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “depósitos de lixo; montes de esterco”.
+====
+
+[[v27-2-6]]
+
+^<<v27-2-6,6>>^ Mas, se me disserem o sonho e a interpretação dele, eu lhes darei presentes, uma recompensa e grande honra. Portanto, digam-me o sonho e a interpretação dele.”
+
+[[v27-2-7]]
+
+^<<v27-2-7,7>>^ Eles voltaram a dizer: “Que o rei conte aos seus servos o sonho, e nós diremos a interpretação dele.”
+
+[[v27-2-8]]
+
+^<<v27-2-8,8>>^ O rei disse: “Eu sei muito bem que vocês estão tentando ganhar tempo, porque viram que dei minha última palavra sobre o assunto.
+
+[[v27-2-9]]
+
+^<<v27-2-9,9>>^ Se não me revelarem o sonho, haverá uma única punição para todos vocês. Mas vocês combinaram me dizer uma mentira e me enganar, esperando que a situação mude. Portanto, digam-me o sonho, e saberei que podem explicar a interpretação dele.”
+
+[[v27-2-10]]
+
+^<<v27-2-10,10>>^ Os caldeus responderam ao rei: “Não há homem na terra^&#42;1^ que seja capaz de fazer o que o rei está pedindo, pois nenhum grande rei ou governante jamais pediu algo assim de um sacerdote-mago, adivinho ou caldeu.
+
+[NOTE]
+====
+. Ou: “terra seca”.
+====
+
+[[v27-2-11]]
+
+^<<v27-2-11,11>>^ O que o rei está pedindo é difícil, e não existe ninguém que possa revelar isso ao rei, a não ser os deuses, que não moram entre os mortais.”^&#42;1^
+
+[NOTE]
+====
+. Lit.: “com a carne”.
+====
+
+[[v27-2-12]]
+
+^<<v27-2-12,12>>^ Ao ouvir isso, o rei ficou extremamente furioso e mandou matar todos os sábios de Babilônia.
+
+[[v27-2-13]]
+
+^<<v27-2-13,13>>^ Quando a ordem foi emitida, e os sábios estavam para ser mortos, Daniel e seus companheiros também foram procurados para ser mortos.
+
+[[v27-2-14]]
+
+^<<v27-2-14,14>>^ Então Daniel, com prudência e cautela, falou com Arioque, que era o chefe da guarda pessoal do rei e tinha saído para matar os sábios de Babilônia.
+
+[[v27-2-15]]
+
+^<<v27-2-15,15>>^ Ele perguntou a Arioque, o oficial do rei: “Por que o rei emitiu uma ordem tão severa?” E Arioque informou Daniel sobre o assunto.
+
+[[v27-2-16]]
+
+^<<v27-2-16,16>>^ De modo que Daniel se apresentou ao rei e pediu que lhe concedesse tempo para dizer ao rei a interpretação.
+
+[[v27-2-17]]
+
+^<<v27-2-17,17>>^ Depois, Daniel foi para casa e contou a seus companheiros, Hananias, Misael e Azarias, o que tinha acontecido.
+
+[[v27-2-18]]
+
+^<<v27-2-18,18>>^ Ele pediu que orassem para que o Deus do céu mostrasse misericórdia com respeito a esse segredo, de modo que Daniel e seus companheiros não fossem destruídos junto com os outros sábios de Babilônia.
+
+[[v27-2-19]]
+
+^<<v27-2-19,19>>^ Então o segredo foi revelado a Daniel numa visão, à noite. Por isso, Daniel louvou ao Deus do céu.
+
+[[v27-2-20]]
+
+^<<v27-2-20,20>>^ Daniel disse:
+“Que o nome de Deus seja louvado por toda a eternidade,^&#42;1^
+Pois somente ele tem sabedoria e poder.
+
+[NOTE]
+====
+. Ou: “de eternidade a eternidade”.
+====
+
+[[v27-2-21]]
+
+^<<v27-2-21,21>>^ Ele muda tempos e épocas,
+Remove reis e estabelece reis,
+Dá sabedoria aos sábios e conhecimento aos que têm discernimento.
+
+[[v27-2-22]]
+
+^<<v27-2-22,22>>^ Ele revela as coisas profundas e as coisas escondidas,
+Sabe o que há na escuridão,
+E com ele mora a luz.
+
+[[v27-2-23]]
+
+^<<v27-2-23,23>>^ A ti, ó Deus dos meus antepassados, dou graças e louvor,
+Porque me deste sabedoria e poder.
+E agora me revelaste o que te pedimos;
+Tu nos revelaste o assunto que preocupa o rei.”
+
+[[v27-2-24]]
+
+^<<v27-2-24,24>>^ Então Daniel procurou Arioque, a quem o rei havia designado para destruir os sábios de Babilônia, e lhe disse: “Não destrua nenhum dos sábios de Babilônia. Leve-me perante o rei, e eu direi ao rei a interpretação.”
+
+[[v27-2-25]]
+
+^<<v27-2-25,25>>^ Arioque levou Daniel depressa à presença do rei e lhe disse: “Achei um homem entre os exilados de Judá que pode revelar a interpretação ao rei.”
+
+[[v27-2-26]]
+
+^<<v27-2-26,26>>^ O rei perguntou a Daniel, que havia recebido o nome de Beltessazar: “Você pode realmente me revelar o sonho que tive e a interpretação dele?”
+
+[[v27-2-27]]
+
+^<<v27-2-27,27>>^ Daniel respondeu ao rei: “Nenhum sábio, adivinho, sacerdote-mago ou astrólogo é capaz de revelar ao rei o segredo que ele quer saber.
+
+[[v27-2-28]]
+
+^<<v27-2-28,28>>^ Mas há nos céus um Deus que revela segredos, e ele revelou ao rei Nabucodonosor o que acontecerá na parte final dos dias. Este é o sonho e estas são as visões que passaram por sua mente, enquanto estava deitado na sua cama:
+
+[[v27-2-29]]
+
+^<<v27-2-29,29>>^ “Quando o senhor, ó rei, estava na sua cama, os seus pensamentos se voltaram para o que acontecerá no futuro, e Aquele que revela segredos lhe revelou o que vai acontecer.
+
+[[v27-2-30]]
+
+^<<v27-2-30,30>>^ Esse segredo me foi revelado, não porque eu tenha mais sabedoria do que qualquer outra pessoa; na verdade, foi para se revelar a interpretação ao rei, de modo que o senhor possa entender os pensamentos do seu coração.
+
+[[v27-2-31]]
+
+^<<v27-2-31,31>>^ “Ó rei, enquanto o senhor estava observando, apareceu uma enorme estátua.^&#42;1^ Essa estátua imensa e extremamente brilhante estava na sua frente, e sua aparência era amedrontadora.
+
+[NOTE]
+====
+. Ou: “imagem”.
+====
+
+[[v27-2-32]]
+
+^<<v27-2-32,32>>^ A cabeça da estátua era de ouro puro, o peito e os braços eram de prata, o abdômen e as coxas eram de cobre,
+
+[[v27-2-33]]
+
+^<<v27-2-33,33>>^ as pernas eram de ferro e os pés eram parcialmente de ferro e parcialmente de argila.^&#42;1^
+
+[NOTE]
+====
+. Ou: “argila cozida (modelada)”.
+====
+
+[[v27-2-34]]
+
+^<<v27-2-34,34>>^ Enquanto o senhor estava olhando, uma pedra foi cortada de um monte, não por mãos, e atingiu os pés da estátua, que eram de ferro e de argila, e os esmigalhou.
+
+[[v27-2-35]]
+
+^<<v27-2-35,35>>^ Então o ferro, a argila, o cobre, a prata e o ouro foram esmigalhados de uma vez só, e ficaram como a palha^&#42;1^ que voa da eira no verão; o vento os levou embora, de modo que não se podia achar nenhum vestígio deles. Mas a pedra que atingiu a estátua se tornou um grande monte e cobriu a terra inteira.
+
+[NOTE]
+====
+. Ou: “pragana”.
+====
+
+[[v27-2-36]]
+
+^<<v27-2-36,36>>^ “Esse é o sonho, e agora nós diremos ao rei a sua interpretação.
+
+[[v27-2-37]]
+
+^<<v27-2-37,37>>^ O senhor, ó rei — rei de reis, a quem o Deus do céu deu o reino, o poder, a força e a glória,
+
+[[v27-2-38]]
+
+^<<v27-2-38,38>>^ em cuja mão ele entregou os homens, onde quer que eles morem, e também os animais selvagens e as aves dos céus, e a quem ele fez governante sobre todos eles —, o senhor mesmo é a cabeça de ouro.
+
+[[v27-2-39]]
+
+^<<v27-2-39,39>>^ “Mas depois do senhor surgirá outro reino, inferior ao senhor; e depois outro reino, um terceiro, de cobre, que dominará a terra inteira.
+
+[[v27-2-40]]
+
+^<<v27-2-40,40>>^ “Quanto ao quarto reino, será forte como o ferro. Pois, assim como o ferro esmaga e tritura tudo o mais, como o ferro que despedaça, ele esmagará e despedaçará a todos esses.
+
+[[v27-2-41]]
+
+^<<v27-2-41,41>>^ “E, assim como o senhor viu que os pés e os dedos dos pés eram parcialmente de argila de oleiro e parcialmente de ferro, o reino estará dividido; porém, haverá nele um pouco da dureza do ferro, assim como o senhor viu o ferro misturado com argila mole.
+
+[[v27-2-42]]
+
+^<<v27-2-42,42>>^ E, assim como os dedos dos pés eram parcialmente de ferro e parcialmente de argila, o reino será parcialmente forte e parcialmente frágil.
+
+[[v27-2-43]]
+
+^<<v27-2-43,43>>^ Assim como o senhor viu o ferro misturado com a argila mole, eles^&#42;1^ estarão misturados com o povo;^&#42;2^ mas não se aderirão um ao outro, do mesmo modo como o ferro não se mistura com a argila.
+
+[NOTE]
+====
+. Aparentemente se refere ao que é representado pelo ferro.
+. Ou: “a descendência da humanidade”, isto é, o povo comum.
+====
+
+[[v27-2-44]]
+
+^<<v27-2-44,44>>^ “Nos dias desses reis, o Deus do céu estabelecerá um reino que jamais será destruído. E esse reino não passará para as mãos de nenhum outro povo. Vai esmigalhar e pôr um fim a todos esses reinos, e somente ele permanecerá para sempre,
+
+[[v27-2-45]]
+
+^<<v27-2-45,45>>^ assim como o senhor viu que uma pedra foi cortada do monte, não por mãos, e que ela esmigalhou o ferro, o cobre, a argila, a prata e o ouro. O Grandioso Deus revelou ao rei o que acontecerá no futuro. O sonho é verdadeiro, e a sua interpretação é digna de confiança.”
+
+[[v27-2-46]]
+
+^<<v27-2-46,46>>^ Então o rei Nabucodonosor se prostrou com o rosto por terra diante de Daniel e lhe prestou homenagem. E mandou que se oferecesse a ele um presente e incenso.
+
+[[v27-2-47]]
+
+^<<v27-2-47,47>>^ O rei disse a Daniel: “Realmente, o Deus de vocês é Deus de deuses, Senhor de reis e Revelador de segredos, porque você conseguiu revelar esse segredo.”
+
+[[v27-2-48]]
+
+^<<v27-2-48,48>>^ Assim, o rei enalteceu Daniel e lhe deu muitos presentes valiosos, e o fez governante de toda a província^&#42;1^ de Babilônia e superintendente principal de todos os sábios de Babilônia.
+
+[NOTE]
+====
+. Ou: “todo o distrito jurisdicional”.
+====
+
+[[v27-2-49]]
+
+^<<v27-2-49,49>>^ E, a pedido de Daniel, o rei encarregou Sadraque, Mesaque e Abednego da administração da província de Babilônia, mas Daniel servia na corte do rei.
+
+'''
+
+xref:027-daniel/027-daniel-001.adoc#v27-1-0[&#60; Capítulo Anterior] | <<v27-2-0,Topo>> | xref:027-daniel/027-daniel-003.adoc#v27-3-0[Próximo Capítulo &#62;]

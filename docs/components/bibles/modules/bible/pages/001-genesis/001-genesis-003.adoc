@@ -1,0 +1,150 @@
+include::./index.adoc[]
+
+[[v1-3-0]]
+=== Gênesis, 3
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v1-3-1]]
+
+^<<v1-3-1,1>>^ A serpente era o mais cauteloso^&#42;1^ de todos os animais selvagens, que Jeová Deus havia feito. Assim, ela disse à mulher: “Foi isso mesmo que Deus disse, que vocês não devem comer de toda árvore do jardim?”
+
+[NOTE]
+====
+. Ou: “astuto; ardiloso”.
+====
+
+[[v1-3-2]]
+
+^<<v1-3-2,2>>^ Então a mulher disse à serpente: “Podemos comer do fruto das árvores do jardim.
+
+[[v1-3-3]]
+
+^<<v1-3-3,3>>^ Mas, sobre o fruto da árvore que está no meio do jardim, Deus disse: ‘Não comam dele,^&#42;1^ não, nem toquem nele; do contrário, vocês morrerão.’”
+
+[NOTE]
+====
+. Ou: “dela”, isto é, da árvore.
+====
+
+[[v1-3-4]]
+
+^<<v1-3-4,4>>^ Então a serpente disse à mulher: “Vocês certamente não morrerão.
+
+[[v1-3-5]]
+
+^<<v1-3-5,5>>^ Pois Deus sabe que, no mesmo dia em que comerem dele, seus olhos se abrirão e vocês serão como Deus, sabendo o que é bom e o que é mau.”
+
+[[v1-3-6]]
+
+^<<v1-3-6,6>>^ Assim, a mulher viu que a árvore era boa para alimento e que era desejável aos olhos, sim, a árvore era agradável de contemplar. Então ela pegou do seu fruto e começou a comê-lo. Depois deu também do fruto ao seu marido, quando ele estava com ela, e ele começou a comê-lo.
+
+[[v1-3-7]]
+
+^<<v1-3-7,7>>^ Então os olhos de ambos se abriram, e eles perceberam que estavam nus. Por isso costuraram folhas de figueira para cobrir a sua nudez.^&#42;1^
+
+[NOTE]
+====
+. Ou: “a área em volta dos quadris”.
+====
+
+[[v1-3-8]]
+
+^<<v1-3-8,8>>^ Mais tarde eles ouviram a voz de Jeová Deus, que estava andando pelo jardim, por volta da hora em que a brisa soprava, e o homem e sua esposa se esconderam da face de Jeová Deus entre as árvores do jardim.
+
+[[v1-3-9]]
+
+^<<v1-3-9,9>>^ E Jeová Deus chamava o homem e lhe dizia: “Onde você está?”
+
+[[v1-3-10]]
+
+^<<v1-3-10,10>>^ Por fim, ele respondeu: “Ouvi a tua voz no jardim, mas fiquei com medo porque eu estava nu, por isso me escondi.”
+
+[[v1-3-11]]
+
+^<<v1-3-11,11>>^ Com isso, ele perguntou: “Quem lhe disse que você estava nu? Por acaso você comeu da árvore de que lhe ordenei que não comesse?”
+
+[[v1-3-12]]
+
+^<<v1-3-12,12>>^ O homem disse: “A mulher que me deste para estar comigo, foi ela que me deu do fruto da árvore, por isso comi.”
+
+[[v1-3-13]]
+
+^<<v1-3-13,13>>^ Jeová Deus disse então à mulher: “O que você fez?” A mulher respondeu: “A serpente me enganou, por isso comi.”
+
+[[v1-3-14]]
+
+^<<v1-3-14,14>>^ Então Jeová Deus disse à serpente: “Por ter feito isso, você é maldita entre todos os animais domésticos e todos os animais selvagens. Sobre o seu ventre você rastejará, e comerá pó todos os dias da sua vida.
+
+[[v1-3-15]]
+
+^<<v1-3-15,15>>^ E porei inimizade^&#42;1^ entre você e a mulher, e entre o seu descendente^&#42;2^ e o descendente^&#42;3^ dela. Este esmagará^&#42;4^ a sua cabeça,^&#42;5^ e você ferirá^&#42;6^ o calcanhar dele.”
+
+[NOTE]
+====
+. Ou: “hostilidade”.
+. Lit.: “a sua semente”.
+. Lit.: “a semente”.
+. Ou: “machucará; golpeará”.
+. Isto é, a cabeça da serpente.
+. Ou: “golpeará; esmagará”.
+====
+
+[[v1-3-16]]
+
+^<<v1-3-16,16>>^ À mulher ele disse: “Aumentarei muito as dores da sua gravidez; em dores você dará à luz filhos, e terá desejo de estar com seu marido, e ele a dominará.”
+
+[[v1-3-17]]
+
+^<<v1-3-17,17>>^ E a Adão^&#42;1^ ele disse: “Visto que você escutou a voz da sua esposa e comeu da árvore a respeito da qual lhe dei a ordem: ‘Não coma dela’, maldito é o solo por sua causa. Em dor você comerá dos produtos dele todos os dias da sua vida.
+
+[NOTE]
+====
+. Que significa “homem terreno; humanidade”.
+====
+
+[[v1-3-18]]
+
+^<<v1-3-18,18>>^ Ele produzirá para você espinhos e abrolhos, e você terá de comer a vegetação do campo.
+
+[[v1-3-19]]
+
+^<<v1-3-19,19>>^ No suor do seu rosto comerá pão,^&#42;1^ até que você volte ao solo, pois dele foi tirado. Porque você é pó e ao pó voltará.”
+
+[NOTE]
+====
+. Ou: “alimento”.
+====
+
+[[v1-3-20]]
+
+^<<v1-3-20,20>>^ Depois disso, Adão chamou a sua esposa de Eva,^&#42;1^ porque ela se tornaria a mãe de todos os viventes.
+
+[NOTE]
+====
+. Que significa “vivente”.
+====
+
+[[v1-3-21]]
+
+^<<v1-3-21,21>>^ E Jeová Deus fez vestes compridas de pele para Adão e para sua esposa, a fim de vesti-los.
+
+[[v1-3-22]]
+
+^<<v1-3-22,22>>^ Jeová Deus disse então: “O homem se tornou como um de nós, sabendo o que é bom e o que é mau. Agora, para que ele não estenda a mão e pegue também do fruto da árvore da vida, e coma, e viva para sempre,^&#42;1^ . . .”
+
+[NOTE]
+====
+. Ou: “por tempo indefinido”.
+====
+
+[[v1-3-23]]
+
+^<<v1-3-23,23>>^ Com isso, Jeová Deus o expulsou do jardim do Éden para cultivar o solo de que tinha sido tirado.
+
+[[v1-3-24]]
+
+^<<v1-3-24,24>>^ Assim ele expulsou o homem, e colocou ao leste do jardim do Éden os querubins e a lâmina chamejante de uma espada que girava continuamente, guardando o caminho para a árvore da vida.
+
+'''
+
+xref:001-genesis/001-genesis-002.adoc#v1-2-0[&#60; Capítulo Anterior] | <<v1-3-0,Topo>> | xref:001-genesis/001-genesis-004.adoc#v1-4-0[Próximo Capítulo &#62;]

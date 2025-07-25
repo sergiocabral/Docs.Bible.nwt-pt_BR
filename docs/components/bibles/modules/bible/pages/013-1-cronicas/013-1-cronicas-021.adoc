@@ -1,0 +1,154 @@
+include::./index.adoc[]
+
+[[v13-21-0]]
+=== O Primeiro das Crônicas, 21
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v13-21-1]]
+
+^<<v13-21-1,1>>^ Então Satanás^&#42;1^ se levantou contra Israel e instigou Davi a recensear Israel.
+
+[NOTE]
+====
+. Ou, possivelmente: “um opositor”.
+====
+
+[[v13-21-2]]
+
+^<<v13-21-2,2>>^ Portanto, Davi disse a Joabe e aos chefes do povo: “Vão, contem Israel desde Berseba até Dã, e tragam-me um relatório para que eu saiba quantos são.”
+
+[[v13-21-3]]
+
+^<<v13-21-3,3>>^ Mas Joabe disse: “Que Jeová multiplique cem vezes o Seu povo. Meu senhor, o rei, já não são todos eles servos do meu senhor? Por que o meu senhor quer fazer isso? Por que trazer culpa sobre Israel?”
+
+[[v13-21-4]]
+
+^<<v13-21-4,4>>^ Mas a palavra do rei prevaleceu sobre a de Joabe. Assim, Joabe foi e percorreu Israel, e depois voltou a Jerusalém.
+
+[[v13-21-5]]
+
+^<<v13-21-5,5>>^ Então Joabe entregou a Davi o número dos que foram registrados. Todo o Israel tinha 1.100.000 homens armados com espadas, e em Judá havia 470.000 homens armados com espadas.
+
+[[v13-21-6]]
+
+^<<v13-21-6,6>>^ Mas as tribos de Levi e de Benjamim não foram incluídas no recenseamento, porque a ordem do rei era detestável para Joabe.
+
+[[v13-21-7]]
+
+^<<v13-21-7,7>>^ Isso desagradou muito o verdadeiro Deus, por isso ele puniu Israel.
+
+[[v13-21-8]]
+
+^<<v13-21-8,8>>^ Davi disse então ao verdadeiro Deus: “Cometi um pecado grave ao fazer isso. E agora, por favor, perdoa o pecado do teu servo, pois agi de modo muito insensato.”
+
+[[v13-21-9]]
+
+^<<v13-21-9,9>>^ Jeová disse então a Gade, vidente de Davi:
+
+[[v13-21-10]]
+
+^<<v13-21-10,10>>^ “Vá e diga a Davi: ‘Assim diz Jeová: “Eu lhe dou três opções. Escolha qual delas devo executar contra você.”’”
+
+[[v13-21-11]]
+
+^<<v13-21-11,11>>^ Então Gade compareceu perante Davi e lhe disse: “Assim diz Jeová: ‘Escolha o que prefere:
+
+[[v13-21-12]]
+
+^<<v13-21-12,12>>^ três anos de fome; três meses de derrota diante dos seus inimigos, sendo atingido pela espada deles; ou três dias de punição da parte da espada de Jeová, isto é, peste neste país, com o anjo de Jeová causando destruição em todo o território de Israel.’ Agora pense e diga que resposta devo dar Àquele que me enviou.”
+
+[[v13-21-13]]
+
+^<<v13-21-13,13>>^ Então Davi disse a Gade: “Isso é muito aflitivo para mim. Que eu caia nas mãos de Jeová, pois a Sua misericórdia é muito grande, mas que eu não caia nas mãos dos homens.”
+
+[[v13-21-14]]
+
+^<<v13-21-14,14>>^ Então Jeová enviou uma peste sobre Israel, de modo que 70.000 pessoas morreram em Israel.
+
+[[v13-21-15]]
+
+^<<v13-21-15,15>>^ Além disso, o verdadeiro Deus enviou um anjo para destruir Jerusalém. Mas, quando ele estava para fazer isso, Jeová viu, lamentou a^&#42;1^ calamidade e disse ao anjo que causava a destruição: “Já chega! Abaixe a mão.” O anjo de Jeová estava perto da eira de Ornã, o jebuseu.
+
+[NOTE]
+====
+. Ou: “sentiu pesar por causa da”.
+====
+
+[[v13-21-16]]
+
+^<<v13-21-16,16>>^ Quando Davi levantou os olhos, viu o anjo de Jeová entre a terra e os céus, com a espada desembainhada na mão, estendida contra Jerusalém. Então Davi e os anciãos, cobertos com panos de saco, lançaram-se imediatamente com o rosto por terra.
+
+[[v13-21-17]]
+
+^<<v13-21-17,17>>^ Davi disse ao verdadeiro Deus: “Não fui eu que mandei fazer o recenseamento do povo? Fui eu que pequei, eu que cometi esse erro. Mas o que fizeram estas ovelhas? Ó Jeová, meu Deus, por favor, que a tua mão venha sobre mim e sobre a casa do meu pai, mas não traga este flagelo sobre o teu povo.”
+
+[[v13-21-18]]
+
+^<<v13-21-18,18>>^ Então o anjo de Jeová mandou Gade dizer a Davi que subisse à eira de Ornã, o jebuseu, e construísse ali um altar a Jeová.
+
+[[v13-21-19]]
+
+^<<v13-21-19,19>>^ Portanto, Davi foi segundo a palavra de Gade, que ele havia falado em nome de Jeová.
+
+[[v13-21-20]]
+
+^<<v13-21-20,20>>^ Enquanto isso, Ornã se voltou e viu o anjo, e seus quatro filhos que estavam com ele se esconderam. Ornã estava debulhando o trigo.
+
+[[v13-21-21]]
+
+^<<v13-21-21,21>>^ Quando Davi chegou até ele, Ornã viu Davi, saiu imediatamente da eira e se curvou diante de Davi com o rosto por terra.
+
+[[v13-21-22]]
+
+^<<v13-21-22,22>>^ Davi disse a Ornã: “Venda-me^&#42;1^ o terreno desta eira, para que eu construa nele um altar a Jeová. Venda-o para mim pelo seu valor total, para que cesse o flagelo sobre o povo.”
+
+[NOTE]
+====
+. Lit.: “Dê a mim”.
+====
+
+[[v13-21-23]]
+
+^<<v13-21-23,23>>^ Mas Ornã disse a Davi: “Fique com ele, meu senhor, o rei, e faça com ele o que o senhor quiser.^&#42;1^ Aqui estão os bois para as ofertas queimadas, o trenó de debulha para servir de lenha e o trigo para uma oferta de cereais. Dou tudo ao senhor.”
+
+[NOTE]
+====
+. Lit.: “o que for bom aos seus olhos”.
+====
+
+[[v13-21-24]]
+
+^<<v13-21-24,24>>^ No entanto, o rei Davi disse a Ornã: “De modo algum! Eu o comprarei de você pelo seu pleno valor, pois não tomarei o que é seu para dar a Jeová, nem oferecerei sacrifícios queimados que não me custem nada.”
+
+[[v13-21-25]]
+
+^<<v13-21-25,25>>^ Assim, Davi deu a Ornã o peso de 600 siclos^&#42;1^ de ouro pelo terreno.
+
+[NOTE]
+====
+. Um siclo equivalia a 11,4 g. Veja Ap. B14.
+====
+
+[[v13-21-26]]
+
+^<<v13-21-26,26>>^ Davi construiu ali um altar a Jeová e ofereceu sacrifícios queimados e sacrifícios de participação em comum. Ele invocou a Jeová, que lhe respondeu enviando fogo dos céus sobre o altar da oferta queimada.
+
+[[v13-21-27]]
+
+^<<v13-21-27,27>>^ Então Jeová ordenou ao anjo que guardasse a espada na bainha.
+
+[[v13-21-28]]
+
+^<<v13-21-28,28>>^ Quando Davi viu que Jeová lhe tinha respondido na eira de Ornã, o jebuseu, continuou a oferecer sacrifícios naquele lugar.
+
+[[v13-21-29]]
+
+^<<v13-21-29,29>>^ No entanto, o tabernáculo de Jeová, que Moisés havia feito no deserto, e o altar da oferta queimada estavam naquela época no alto sagrado que havia em Gibeão.
+
+[[v13-21-30]]
+
+^<<v13-21-30,30>>^ Mas Davi não conseguia ir até lá para consultar a Deus, porque estava com muito medo da espada do anjo de Jeová.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-020.adoc#v13-20-0[&#60; Capítulo Anterior] | <<v13-21-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-022.adoc#v13-22-0[Próximo Capítulo &#62;]

@@ -1,0 +1,173 @@
+include::./index.adoc[]
+
+[[v43-3-0]]
+=== Segundo João, 3
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v43-3-1]]
+
+^<<v43-3-1,1>>^ Entre os fariseus havia um homem chamado Nicodemos, que era um líder dos judeus.
+
+[[v43-3-2]]
+
+^<<v43-3-2,2>>^ Ele veio a Jesus à noite e lhe disse: “Rabi, sabemos que o senhor veio como instrutor da parte de Deus, pois ninguém pode realizar esses sinais que o senhor realiza a menos que Deus esteja com ele.”
+
+[[v43-3-3]]
+
+^<<v43-3-3,3>>^ Em resposta, Jesus lhe disse: “Digo-lhe com toda a certeza: A menos que alguém nasça de novo,^&#42;1^ não pode ver o Reino de Deus.”
+
+[NOTE]
+====
+. Ou, possivelmente: “nasça do alto”.
+====
+
+[[v43-3-4]]
+
+^<<v43-3-4,4>>^ Nicodemos lhe perguntou: “Como um homem pode nascer quando já é velho? Será que pode entrar no ventre da sua mãe e nascer outra vez?”
+
+[[v43-3-5]]
+
+^<<v43-3-5,5>>^ Jesus respondeu: “Digo-lhe com toda a certeza: A menos que alguém nasça da água e do espírito, não pode entrar no Reino de Deus.
+
+[[v43-3-6]]
+
+^<<v43-3-6,6>>^ O que nasceu da carne é carne, e o que nasceu do espírito é espírito.
+
+[[v43-3-7]]
+
+^<<v43-3-7,7>>^ Não se espante porque eu lhe disse: Vocês têm de nascer de novo.
+
+[[v43-3-8]]
+
+^<<v43-3-8,8>>^ O vento sopra para onde quer, e ouve-se o som dele, mas não se sabe de onde ele vem nem para onde vai. Assim é com todo aquele que nasce do espírito.”
+
+[[v43-3-9]]
+
+^<<v43-3-9,9>>^ Então Nicodemos lhe perguntou: “Como essas coisas são possíveis?”
+
+[[v43-3-10]]
+
+^<<v43-3-10,10>>^ Jesus respondeu: “O senhor é instrutor de Israel e ainda assim não sabe essas coisas?
+
+[[v43-3-11]]
+
+^<<v43-3-11,11>>^ Digo-lhe com toda a certeza: Falamos do que sabemos e damos testemunho do que vimos, mas vocês não aceitam o testemunho que damos.
+
+[[v43-3-12]]
+
+^<<v43-3-12,12>>^ Se eu lhes falei de coisas terrenas e mesmo assim vocês não acreditam, como acreditarão se eu lhes falar de coisas celestiais?
+
+[[v43-3-13]]
+
+^<<v43-3-13,13>>^ Além disso, nenhum homem subiu ao céu, a não ser aquele que desceu do céu, o Filho do Homem.
+
+[[v43-3-14]]
+
+^<<v43-3-14,14>>^ E, assim como Moisés ergueu a serpente no deserto, assim será erguido o Filho do Homem
+
+[[v43-3-15]]
+
+^<<v43-3-15,15>>^ para que todo aquele que nele crer tenha vida eterna.
+
+[[v43-3-16]]
+
+^<<v43-3-16,16>>^ “Porque Deus amou tanto o mundo, que deu o seu Filho unigênito, para que todo aquele que nele exercer fé não seja destruído, mas tenha vida eterna.
+
+[[v43-3-17]]
+
+^<<v43-3-17,17>>^ Pois Deus não enviou seu Filho ao mundo para que ele julgasse o mundo, mas para que o mundo fosse salvo por meio dele.
+
+[[v43-3-18]]
+
+^<<v43-3-18,18>>^ Quem exerce fé nele não será julgado. Quem não exerce fé já foi julgado, porque não exerceu fé no nome do Filho unigênito de Deus.
+
+[[v43-3-19]]
+
+^<<v43-3-19,19>>^ Então, esta é a base para o julgamento: a luz veio ao mundo, mas os homens amaram a escuridão em vez da luz, porque as obras deles eram más.
+
+[[v43-3-20]]
+
+^<<v43-3-20,20>>^ Pois quem pratica coisas ruins odeia a luz e não se chega à luz, para que as suas obras não sejam reprovadas.^&#42;1^
+
+[NOTE]
+====
+. Ou: “expostas”.
+====
+
+[[v43-3-21]]
+
+^<<v43-3-21,21>>^ Mas quem faz o que é verdadeiro se chega à luz, para que se veja claramente que as suas obras são feitas em harmonia com a vontade de Deus.”
+
+[[v43-3-22]]
+
+^<<v43-3-22,22>>^ Depois disso, Jesus e seus discípulos foram para a zona rural da Judeia; ali ele passou algum tempo com eles, e batizava.
+
+[[v43-3-23]]
+
+^<<v43-3-23,23>>^ Mas João também estava batizando em Enom, perto de Salim, porque havia ali uma grande quantidade de água, e as pessoas iam a ele e eram batizadas.
+
+[[v43-3-24]]
+
+^<<v43-3-24,24>>^ Nessa época, João ainda não tinha sido lançado na prisão.
+
+[[v43-3-25]]
+
+^<<v43-3-25,25>>^ Então os discípulos de João tiveram uma discussão com um judeu sobre a purificação.
+
+[[v43-3-26]]
+
+^<<v43-3-26,26>>^ E eles foram dizer a João: “Veja, Rabi, o homem que estava com o senhor do outro lado do Jordão, de quem o senhor deu testemunho, está batizando, e todos vão a ele.”
+
+[[v43-3-27]]
+
+^<<v43-3-27,27>>^ Em resposta, João disse: “Um homem não pode receber nem uma única coisa a menos que lhe seja dada do céu.
+
+[[v43-3-28]]
+
+^<<v43-3-28,28>>^ Vocês mesmos são testemunhas de que eu disse: ‘Eu não sou o Cristo, mas fui enviado na frente dele.’
+
+[[v43-3-29]]
+
+^<<v43-3-29,29>>^ Quem tem a noiva é o noivo. Mas, quando o amigo do noivo está por perto e o ouve, tem muita alegria por causa da voz do noivo. Por isso a minha alegria ficou completa.
+
+[[v43-3-30]]
+
+^<<v43-3-30,30>>^ Ele tem de continuar aumentando, mas eu tenho de continuar diminuindo.”
+
+[[v43-3-31]]
+
+^<<v43-3-31,31>>^ Aquele que vem do alto está acima de todos os outros. Quem é da terra é da terra e fala as coisas da terra. Aquele que vem do céu está acima de todos os outros.
+
+[[v43-3-32]]
+
+^<<v43-3-32,32>>^ Ele dá testemunho das coisas que viu e ouviu, mas ninguém aceita seu testemunho.
+
+[[v43-3-33]]
+
+^<<v43-3-33,33>>^ Quem aceita seu testemunho confirma^&#42;1^ que Deus é verdadeiro.
+
+[NOTE]
+====
+. Lit.: “sela”.
+====
+
+[[v43-3-34]]
+
+^<<v43-3-34,34>>^ Pois aquele que Deus enviou fala as declarações de Deus, porque Ele não dá o espírito de forma escassa.^&#42;1^
+
+[NOTE]
+====
+. Ou: “por medida”.
+====
+
+[[v43-3-35]]
+
+^<<v43-3-35,35>>^ O Pai ama o Filho e entregou todas as coisas em suas mãos.
+
+[[v43-3-36]]
+
+^<<v43-3-36,36>>^ Quem exerce fé no Filho tem vida eterna; quem desobedece ao Filho não verá a vida, mas a ira de Deus permanece sobre ele.
+
+'''
+
+xref:043-joao/043-joao-002.adoc#v43-2-0[&#60; Capítulo Anterior] | <<v43-3-0,Topo>> | xref:043-joao/043-joao-004.adoc#v43-4-0[Próximo Capítulo &#62;]

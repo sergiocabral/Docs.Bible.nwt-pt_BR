@@ -1,0 +1,16 @@
+include::../index.adoc[]
+
+[[v37-0-0]]
+== Ageu
+
+[cols="8*^"]
+|===
+| xref:037-ageu/037-ageu-001.adoc#v37-1-0[1]
+| xref:037-ageu/037-ageu-002.adoc#v37-2-0[2]
+|
+|
+|
+|
+|
+|
+|===

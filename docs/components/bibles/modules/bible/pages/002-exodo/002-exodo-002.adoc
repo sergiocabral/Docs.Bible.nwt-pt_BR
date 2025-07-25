@@ -1,0 +1,144 @@
+include::./index.adoc[]
+
+[[v2-2-0]]
+=== Êxodo, 2
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v2-2-1]]
+
+^<<v2-2-1,1>>^ Naquela época, certo homem da casa de Levi se casou com uma filha de Levi.
+
+[[v2-2-2]]
+
+^<<v2-2-2,2>>^ E a mulher ficou grávida e deu à luz um filho. Ao ver como ele era bonito, ela o manteve escondido por três meses.
+
+[[v2-2-3]]
+
+^<<v2-2-3,3>>^ Quando não conseguiu mais escondê-lo, pegou um cesto^&#42;1^ de papiro e o revestiu de betume e piche. Depois colocou o menino nele e pôs o cesto entre os juncos na margem do rio Nilo.
+
+[NOTE]
+====
+. Ou: “uma arca; uma caixa”.
+====
+
+[[v2-2-4]]
+
+^<<v2-2-4,4>>^ Mas a irmã dele ficou a certa distância para ver o que aconteceria com ele.
+
+[[v2-2-5]]
+
+^<<v2-2-5,5>>^ A filha de Faraó desceu para se banhar no Nilo enquanto suas criadas estavam andando à margem do Nilo. Ela viu então o cesto no meio dos juncos e imediatamente enviou a sua escrava para apanhá-lo.
+
+[[v2-2-6]]
+
+^<<v2-2-6,6>>^ Quando ela o abriu, viu o menino, e o menino estava chorando. Ela teve pena dele, mas disse: “Este é um dos meninos hebreus.”
+
+[[v2-2-7]]
+
+^<<v2-2-7,7>>^ Então a irmã dele disse à filha de Faraó: “A senhora quer que eu chame uma ama hebreia para que ela amamente o menino para a senhora?”
+
+[[v2-2-8]]
+
+^<<v2-2-8,8>>^ A filha de Faraó lhe disse: “Vá!” A menina foi imediatamente e chamou a mãe do menino.
+
+[[v2-2-9]]
+
+^<<v2-2-9,9>>^ A filha de Faraó disse-lhe então: “Leve este menino com você e amamente-o para mim, e eu lhe pagarei.” Então a mulher levou o menino e o amamentou.
+
+[[v2-2-10]]
+
+^<<v2-2-10,10>>^ Quando o menino cresceu, ela o levou à filha de Faraó, e ele se tornou um filho para ela. Ela o chamou de Moisés,^&#42;1^ e disse: “É porque o tirei da água.”
+
+[NOTE]
+====
+. Que significa “retirado”, isto é, salvo da água.
+====
+
+[[v2-2-11]]
+
+^<<v2-2-11,11>>^ E, quando Moisés já era adulto,^&#42;1^ ele foi até seus irmãos e viu os fardos que levavam; viu também um egípcio espancando um dos seus irmãos hebreus.
+
+[NOTE]
+====
+. Ou: “estava ficando forte”.
+====
+
+[[v2-2-12]]
+
+^<<v2-2-12,12>>^ Então ele olhou para um lado e para o outro e, não vendo ninguém, matou o egípcio e o escondeu na areia.
+
+[[v2-2-13]]
+
+^<<v2-2-13,13>>^ Mas ele saiu no dia seguinte e viu dois hebreus brigando. De modo que disse ao que estava errado: “Por que você está espancando o seu irmão?”
+
+[[v2-2-14]]
+
+^<<v2-2-14,14>>^ Ele respondeu: “Quem o designou príncipe e juiz sobre nós? Você pretende me matar assim como matou o egípcio?” Então Moisés ficou com medo e disse: “Certamente o que eu fiz foi descoberto!”
+
+[[v2-2-15]]
+
+^<<v2-2-15,15>>^ Depois, Faraó soube disso e procurou matar Moisés, mas Moisés fugiu de Faraó e foi morar na terra de Midiã. Ali, ele se sentou junto a um poço.
+
+[[v2-2-16]]
+
+^<<v2-2-16,16>>^ O sacerdote de Midiã tinha sete filhas, e elas chegaram para tirar água e encher os bebedouros, a fim de dar de beber às ovelhas do seu pai.
+
+[[v2-2-17]]
+
+^<<v2-2-17,17>>^ Mas, como de costume, chegaram os pastores e as enxotaram. Em vista disso, Moisés se levantou para ajudar^&#42;1^ as mulheres, e deu água ao rebanho.
+
+[NOTE]
+====
+. Ou: “defender”.
+====
+
+[[v2-2-18]]
+
+^<<v2-2-18,18>>^ Quando elas voltaram para casa, Reuel,^&#42;1^ seu pai, perguntou: “Como é que vocês voltaram tão rápido para casa hoje?”
+
+[NOTE]
+====
+. Isto é, Jetro.
+====
+
+[[v2-2-19]]
+
+^<<v2-2-19,19>>^ Elas responderam: “Um egípcio nos livrou dos pastores, e até tirou água para nós e deu de beber ao rebanho.”
+
+[[v2-2-20]]
+
+^<<v2-2-20,20>>^ Ele disse às suas filhas: “Mas onde ele está? Por que deixaram o homem para trás? Chamem-no, para que coma conosco.”
+
+[[v2-2-21]]
+
+^<<v2-2-21,21>>^ Depois disso Moisés concordou em morar na casa do homem, e este deu sua filha Zípora a Moisés em casamento.
+
+[[v2-2-22]]
+
+^<<v2-2-22,22>>^ Mais tarde, ela teve um filho, e ele lhe deu o nome de Gérson,^&#42;1^ pois ele disse: “Eu me tornei residente estrangeiro numa terra estrangeira.”
+
+[NOTE]
+====
+. Que significa “residente estrangeiro ali”.
+====
+
+[[v2-2-23]]
+
+^<<v2-2-23,23>>^ Depois de muito tempo,^&#42;1^ o rei do Egito morreu, mas os israelitas continuavam a gemer por causa da escravidão e a clamar, queixando-se, e seu clamor por ajuda, por causa da escravidão, subia ao verdadeiro Deus.
+
+[NOTE]
+====
+. Lit.: “muitos dias”.
+====
+
+[[v2-2-24]]
+
+^<<v2-2-24,24>>^ Então Deus ouviu seu gemido, e Deus se lembrou do pacto que havia feito com Abraão, Isaque e Jacó.
+
+[[v2-2-25]]
+
+^<<v2-2-25,25>>^ Assim, Deus voltou a sua atenção para os israelitas e viu o seu sofrimento.
+
+'''
+
+xref:002-exodo/002-exodo-001.adoc#v2-1-0[&#60; Capítulo Anterior] | <<v2-2-0,Topo>> | xref:002-exodo/002-exodo-003.adoc#v2-3-0[Próximo Capítulo &#62;]

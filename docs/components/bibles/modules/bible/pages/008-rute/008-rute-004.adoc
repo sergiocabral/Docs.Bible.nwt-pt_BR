@@ -1,0 +1,124 @@
+include::./index.adoc[]
+
+[[v8-4-0]]
+=== Rute, 4
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v8-4-1]]
+
+^<<v8-4-1,1>>^ Boaz subiu até o portão da cidade e se sentou ali. Quando o resgatador que Boaz havia mencionado ia passando, Boaz disse: “Fulano, venha e sente-se aqui.” Ele foi e se sentou.
+
+[[v8-4-2]]
+
+^<<v8-4-2,2>>^ Então Boaz chamou dez anciãos da cidade e disse: “Sentem-se aqui.” E eles se sentaram.
+
+[[v8-4-3]]
+
+^<<v8-4-3,3>>^ Boaz disse então ao resgatador: “Noemi, que voltou dos campos de Moabe, tem de vender o campo que pertencia ao nosso irmão Elimeleque.
+
+[[v8-4-4]]
+
+^<<v8-4-4,4>>^ Então achei que devia informá-lo do assunto e lhe dizer: ‘Compre-o diante dos que moram aqui e dos anciãos do meu povo. Se você for resgatá-lo, resgate-o. Mas, se não for resgatá-lo, diga-me para que eu saiba, pois você tem o direito de resgate, e eu venho depois de você.’” Ele respondeu: “Estou disposto a resgatá-lo.”
+
+[[v8-4-5]]
+
+^<<v8-4-5,5>>^ Então Boaz disse: “No dia em que você comprar o campo de Noemi, tem de comprá-lo também de Rute, a moabita, esposa do falecido, para restaurar o nome dele sobre a sua herança.”
+
+[[v8-4-6]]
+
+^<<v8-4-6,6>>^ Diante disso, o resgatador disse: “Não posso resgatá-lo, para que eu não arruíne a minha própria herança. Resgate-o para você com o meu direito de resgate, porque eu não posso resgatá-lo.”
+
+[[v8-4-7]]
+
+^<<v8-4-7,7>>^ Nos tempos antigos, o costume em Israel relacionado com o direito de resgate e com a transferência, para validar todo tipo de transação, era o seguinte: o homem tinha de tirar a sandália e dá-la ao outro, e assim se confirmava um acordo^&#42;1^ em Israel.
+
+[NOTE]
+====
+. Ou: “e essa era a atestação”.
+====
+
+[[v8-4-8]]
+
+^<<v8-4-8,8>>^ Portanto, ao dizer a Boaz: “Compre-o para você”, o resgatador tirou a sandália.
+
+[[v8-4-9]]
+
+^<<v8-4-9,9>>^ Boaz disse então aos anciãos e a todo o povo: “Vocês são hoje testemunhas de que estou comprando de Noemi tudo o que pertencia a Elimeleque, e tudo o que pertencia a Quiliom e a Malom.
+
+[[v8-4-10]]
+
+^<<v8-4-10,10>>^ E assim adquiro como esposa Rute, a moabita, que era esposa de Malom, a fim de restaurar o nome do falecido sobre a sua herança e para que o nome dele não seja eliminado dentre os seus irmãos e do portão da sua cidade. Vocês são hoje testemunhas.”
+
+[[v8-4-11]]
+
+^<<v8-4-11,11>>^ Em vista disso, todo o povo que estava no portão da cidade e os anciãos disseram: “Somos testemunhas! Que Jeová conceda à esposa que entra na sua casa ser igual a Raquel e a Leia, que edificaram a casa de Israel. Que você prospere em Efrata e faça um bom nome^&#42;1^ em Belém.
+
+[NOTE]
+====
+. Lit.: “proclame um nome”.
+====
+
+[[v8-4-12]]
+
+^<<v8-4-12,12>>^ E que, por meio da descendência que Jeová lhe dará dessa moça, a sua casa se torne igual à casa de Peres, que Tamar deu à luz a Judá.”
+
+[[v8-4-13]]
+
+^<<v8-4-13,13>>^ Assim, Boaz tomou Rute e ela se tornou sua esposa. Ele teve relações com ela, e Jeová permitiu que ela engravidasse e desse à luz um filho.
+
+[[v8-4-14]]
+
+^<<v8-4-14,14>>^ Então as mulheres disseram a Noemi: “Louvado seja Jeová, que hoje não a deixou sem um resgatador. Que o nome dele seja proclamado em Israel!
+
+[[v8-4-15]]
+
+^<<v8-4-15,15>>^ Ele^&#42;1^ revigorou a^&#42;2^ sua vida^&#42;3^ e vai ampará-la na sua velhice, pois é filho da sua nora, que a ama e é para você melhor do que sete filhos.”
+
+[NOTE]
+====
+. Isto é, o neto de Noemi.
+. Ou: “se tornou o restaurador da”.
+. Ou: “alma”.
+====
+
+[[v8-4-16]]
+
+^<<v8-4-16,16>>^ Noemi pegou o menino e o segurou no colo, e passou a cuidar dele.^&#42;1^
+
+[NOTE]
+====
+. Ou: “se tornou sua ama”.
+====
+
+[[v8-4-17]]
+
+^<<v8-4-17,17>>^ Então as vizinhas lhe deram um nome. Elas disseram: “Nasceu um filho para Noemi”, e o chamaram de Obede. Ele é o pai de Jessé, pai de Davi.
+
+[[v8-4-18]]
+
+^<<v8-4-18,18>>^ Esta é a linhagem^&#42;1^ de Peres: Peres tornou-se pai de Esrom,
+
+[NOTE]
+====
+. Lit.: “Estas são as gerações”.
+====
+
+[[v8-4-19]]
+
+^<<v8-4-19,19>>^ Esrom tornou-se pai de Rão, Rão tornou-se pai de Aminadabe,
+
+[[v8-4-20]]
+
+^<<v8-4-20,20>>^ Aminadabe tornou-se pai de Nasom, Nasom tornou-se pai de Salmom,
+
+[[v8-4-21]]
+
+^<<v8-4-21,21>>^ Salmom tornou-se pai de Boaz, Boaz tornou-se pai de Obede,
+
+[[v8-4-22]]
+
+^<<v8-4-22,22>>^ Obede tornou-se pai de Jessé, e Jessé tornou-se pai de Davi.
+
+'''
+
+xref:008-rute/008-rute-003.adoc#v8-3-0[&#60; Capítulo Anterior] | <<v8-4-0,Topo>> | xref:009-1-samuel/009-1-samuel-001.adoc#v9-1-0[Próximo Capítulo &#62;]

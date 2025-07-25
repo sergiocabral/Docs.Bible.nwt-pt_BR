@@ -1,0 +1,227 @@
+include::./index.adoc[]
+
+[[v4-21-0]]
+=== Números, 21
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v4-21-1]]
+
+^<<v4-21-1,1>>^ Quando o rei cananeu de Arade, que morava no Neguebe, ouviu que Israel tinha vindo pelo caminho de Atarim, atacou Israel e levou alguns deles cativos.
+
+[[v4-21-2]]
+
+^<<v4-21-2,2>>^ Assim, Israel fez o seguinte voto a Jeová: “Se tu entregares este povo nas minhas mãos, sem falta entregarei suas cidades à destruição.”^&#42;1^
+
+[NOTE]
+====
+. Ou: “devotarei suas cidades à destruição”. Veja o Glossário.
+====
+
+[[v4-21-3]]
+
+^<<v4-21-3,3>>^ De modo que Jeová escutou a voz de Israel e lhes entregou os cananeus, e Israel destruiu^&#42;1^ tanto a eles como às suas cidades. Por isso, deram ao lugar o nome de Hormá.^&#42;2^
+
+[NOTE]
+====
+. Ou: “devotou à destruição”. Veja o Glossário.
+. Que significa “devotamento à destruição”.
+====
+
+[[v4-21-4]]
+
+^<<v4-21-4,4>>^ Enquanto continuavam a viagem, depois de terem partido do monte Hor pelo caminho do mar Vermelho para contornar a terra de Edom, o povo ficou cansado^&#42;1^ da viagem.
+
+[NOTE]
+====
+. Ou: “a alma do povo ficou cansada”.
+====
+
+[[v4-21-5]]
+
+^<<v4-21-5,5>>^ E o povo falava contra Deus e Moisés: “Por que vocês nos tiraram do Egito para morrermos no deserto? Aqui não há comida nem água, e nós odiamos^&#42;1^ este pão desprezível.”
+
+[NOTE]
+====
+. Ou: “nossas almas abominam”.
+====
+
+[[v4-21-6]]
+
+^<<v4-21-6,6>>^ Então Jeová enviou serpentes venenosas^&#42;1^ contra o povo e elas os picaram, de modo que muitos israelitas morreram.
+
+[NOTE]
+====
+. Ou: “ardentes”.
+====
+
+[[v4-21-7]]
+
+^<<v4-21-7,7>>^ O povo foi então a Moisés e disse: “Pecamos ao falar contra Jeová e contra o senhor. Interceda junto a Jeová para que tire as serpentes do nosso meio.” E Moisés intercedeu pelo povo.
+
+[[v4-21-8]]
+
+^<<v4-21-8,8>>^ Jeová disse então a Moisés: “Faça uma imitação de uma cobra venenosa^&#42;1^ e coloque-a num poste. Quando alguém for picado, terá de olhar para ela para ficar vivo.”
+
+[NOTE]
+====
+. Ou: “ardente”.
+====
+
+[[v4-21-9]]
+
+^<<v4-21-9,9>>^ Moisés fez imediatamente uma serpente de cobre e a colocou num poste; e, sempre que uma serpente picava um homem e ele olhava para a serpente de cobre, continuava vivo.
+
+[[v4-21-10]]
+
+^<<v4-21-10,10>>^ Depois, os israelitas partiram e acamparam em Obote.
+
+[[v4-21-11]]
+
+^<<v4-21-11,11>>^ Partiram então de Obote e acamparam em Ijé-Abarim, no deserto que fica em frente a Moabe, ao leste.
+
+[[v4-21-12]]
+
+^<<v4-21-12,12>>^ Partiram dali e acamparam junto ao vale^&#42;1^ de Zerede.
+
+[NOTE]
+====
+. Ou: “uádi”.
+====
+
+[[v4-21-13]]
+
+^<<v4-21-13,13>>^ Dali partiram e acamparam na região do Arnom, que fica no deserto que se estende desde a fronteira dos amorreus, pois o Arnom é o limite do território de Moabe, entre Moabe e os amorreus.
+
+[[v4-21-14]]
+
+^<<v4-21-14,14>>^ É por isso que o Livro das Guerras de Jeová menciona: “Vaebe, em Sufá, os vales^&#42;1^ do Arnom
+
+[NOTE]
+====
+. Ou: “uádis”.
+====
+
+[[v4-21-15]]
+
+^<<v4-21-15,15>>^ e a descida^&#42;1^ dos vales,^&#42;2^ que vai em direção à cidade de Ar e fica ao lado da fronteira de Moabe.”
+
+[NOTE]
+====
+. Lit.: “boca”.
+. Ou: “uádis”.
+====
+
+[[v4-21-16]]
+
+^<<v4-21-16,16>>^ A seguir, foram para Beer. Esse é o poço a respeito do qual Jeová disse a Moisés: “Ajunte o povo para que eu lhes dê água.”
+
+[[v4-21-17]]
+
+^<<v4-21-17,17>>^ Naquele tempo, Israel cantou o seguinte cântico:
+“Brote água, ó poço! Respondam-lhe!^&#42;1^
+
+[NOTE]
+====
+. Ou: “Cantem para ele!”
+====
+
+[[v4-21-18]]
+
+^<<v4-21-18,18>>^ O poço que príncipes cavaram, que nobres do povo escavaram,
+Com um bastão de governante e com seus próprios bastões.”
+Então foram do deserto para Mataná,
+
+[[v4-21-19]]
+
+^<<v4-21-19,19>>^ de Mataná para Naaliel, e de Naaliel para Bamote.
+
+[[v4-21-20]]
+
+^<<v4-21-20,20>>^ Foram de Bamote para o vale que fica no território^&#42;1^ de Moabe, no alto do Pisga, de onde se avista Jesimom.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “campo”.
+. Ou, possivelmente: “o deserto”.
+====
+
+[[v4-21-21]]
+
+^<<v4-21-21,21>>^ Israel enviou então mensageiros para dizer a Siom, rei dos amorreus:
+
+[[v4-21-22]]
+
+^<<v4-21-22,22>>^ “Deixe-nos passar pela sua terra. Não nos desviaremos para nenhum campo nem vinhedo. Não beberemos água de nenhum poço. Iremos pela estrada real até termos passado pelo seu território.”
+
+[[v4-21-23]]
+
+^<<v4-21-23,23>>^ Mas Siom não deixou Israel passar pelo seu território. Em vez disso, Siom reuniu todo o seu exército e saiu ao encontro de Israel, no deserto. Quando chegou a Jaaz, começou a lutar contra Israel.
+
+[[v4-21-24]]
+
+^<<v4-21-24,24>>^ Mas Israel o derrotou com a espada e tomou posse da sua terra, desde o Arnom até o Jaboque, perto dos amonitas, pois Jazer faz fronteira com o território dos amonitas.
+
+[[v4-21-25]]
+
+^<<v4-21-25,25>>^ Israel tomou assim todas essas cidades e passou a morar em todas as cidades dos amorreus, em Hesbom e em todas as suas aldeias dependentes.^&#42;1^
+
+[NOTE]
+====
+. Ou: “ao redor”.
+====
+
+[[v4-21-26]]
+
+^<<v4-21-26,26>>^ Pois Hesbom era a cidade de Siom, rei dos amorreus, que tinha lutado contra o rei de Moabe e tomado dele toda a sua terra até o Arnom.
+
+[[v4-21-27]]
+
+^<<v4-21-27,27>>^ Foi isso que deu origem ao provérbio irônico:
+“Venham a Hesbom.
+Que a cidade de Siom seja edificada e firmemente estabelecida.
+
+[[v4-21-28]]
+
+^<<v4-21-28,28>>^ Pois de Hesbom saiu um fogo; da cidade de Siom, uma chama.
+Consumiu Ar de Moabe, os senhores dos lugares altos do Arnom.
+
+[[v4-21-29]]
+
+^<<v4-21-29,29>>^ Ai de você, Moabe! Vocês serão destruídos, ó povo de Quemós!
+Ele faz dos seus filhos fugitivos; e das suas filhas, cativas de Siom, rei dos amorreus.
+
+[[v4-21-30]]
+
+^<<v4-21-30,30>>^ Atiremos contra eles;
+Hesbom será destruída até Dibom;
+Vamos desolá-la até Nofá;
+O fogo se espalhará até Medeba.”
+
+[[v4-21-31]]
+
+^<<v4-21-31,31>>^ Então Israel passou a morar na terra dos amorreus.
+
+[[v4-21-32]]
+
+^<<v4-21-32,32>>^ Moisés enviou então homens para espionar Jazer. Eles tomaram suas aldeias dependentes^&#42;1^ e expulsaram os amorreus que havia ali.
+
+[NOTE]
+====
+. Ou: “ao redor”.
+====
+
+[[v4-21-33]]
+
+^<<v4-21-33,33>>^ Depois mudaram de direção e subiram pelo Caminho de Basã. E Ogue, rei de Basã, saiu com todo o seu exército ao encontro deles para batalhar em Edrei.
+
+[[v4-21-34]]
+
+^<<v4-21-34,34>>^ Jeová disse a Moisés: “Não tenha medo dele, pois eu o entregarei nas suas mãos, com todo o seu povo e a sua terra. Você fará com ele o mesmo que fez com Siom, rei dos amorreus, que morava em Hesbom.”
+
+[[v4-21-35]]
+
+^<<v4-21-35,35>>^ Assim, mataram tanto a ele como aos seus filhos e a todo o seu povo, até que ninguém do seu povo sobreviveu; e tomaram posse da sua terra.
+
+'''
+
+xref:004-numeros/004-numeros-020.adoc#v4-20-0[&#60; Capítulo Anterior] | <<v4-21-0,Topo>> | xref:004-numeros/004-numeros-022.adoc#v4-22-0[Próximo Capítulo &#62;]

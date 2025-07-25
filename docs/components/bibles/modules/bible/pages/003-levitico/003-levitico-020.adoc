@@ -1,0 +1,182 @@
+include::./index.adoc[]
+
+[[v3-20-0]]
+=== Levítico, 20
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v3-20-1]]
+
+^<<v3-20-1,1>>^ Jeová disse a Moisés:
+
+[[v3-20-2]]
+
+^<<v3-20-2,2>>^ “Você deve dizer aos israelitas: ‘Qualquer homem de Israel ou qualquer estrangeiro que mora em Israel que der um dos seus descendentes a Moloque sem falta deve ser morto. O povo da terra deve apedrejá-lo até a morte.
+
+[[v3-20-3]]
+
+^<<v3-20-3,3>>^ Eu mesmo me voltarei^&#42;1^ contra esse homem, e vou eliminá-lo dentre seu povo,^&#42;2^ porque ele deu um dos seus descendentes a Moloque, profanou meu lugar santo e profanou meu santo nome.
+
+[NOTE]
+====
+. Lit.: “porei minha face”.
+. Isto é, vou matá-lo.
+====
+
+[[v3-20-4]]
+
+^<<v3-20-4,4>>^ Se o povo da terra fechar os olhos deliberadamente para a ação desse homem, quando ele der um descendente a Moloque, e não o matarem,
+
+[[v3-20-5]]
+
+^<<v3-20-5,5>>^ então eu mesmo certamente me voltarei^&#42;1^ contra esse homem e sua família. Eliminarei dentre seu povo^&#42;2^ tanto a ele como a todos os que se juntarem a ele em se prostituir a Moloque.
+
+[NOTE]
+====
+. Lit.: “porei minha face”.
+. Isto é, matarei.
+====
+
+[[v3-20-6]]
+
+^<<v3-20-6,6>>^ “‘Quanto à pessoa^&#42;1^ que recorrer aos que invocam espíritos e aos adivinhos, cometendo prostituição espiritual com eles, eu certamente me voltarei contra essa pessoa^&#42;2^ e a eliminarei dentre seu povo.^&#42;3^
+
+[NOTE]
+====
+. Ou: “alma”.
+. Ou: “alma”.
+. Isto é, matarei.
+====
+
+[[v3-20-7]]
+
+^<<v3-20-7,7>>^ “‘Santifiquem-se e tornem-se santos, porque eu sou Jeová, seu Deus.
+
+[[v3-20-8]]
+
+^<<v3-20-8,8>>^ Guardem os meus decretos e cumpram-nos. Eu sou Jeová, que os santifico.
+
+[[v3-20-9]]
+
+^<<v3-20-9,9>>^ “‘Se houver um homem que amaldiçoe^&#42;1^ seu pai ou sua mãe, sem falta deve ser morto. Visto que amaldiçoou seu pai ou sua mãe, seu próprio sangue está sobre ele.
+
+[NOTE]
+====
+. Ou: “invoque o mal sobre”.
+====
+
+[[v3-20-10]]
+
+^<<v3-20-10,10>>^ “‘O homem que cometer adultério com a esposa de outro homem, sim, aquele que cometer adultério com a esposa do seu próximo, sem falta deve ser morto, tanto o adúltero como a adúltera.
+
+[[v3-20-11]]
+
+^<<v3-20-11,11>>^ O homem que tem relações sexuais com a esposa do seu pai expõe seu pai à vergonha.^&#42;1^ Ambos sem falta devem ser mortos. O próprio sangue deles está sobre eles.
+
+[NOTE]
+====
+. Lit.: “expõe a nudez do seu pai”.
+====
+
+[[v3-20-12]]
+
+^<<v3-20-12,12>>^ Se um homem tem relações sexuais com sua nora, ambos sem falta devem ser mortos. Violaram aquilo que é natural. O próprio sangue deles está sobre eles.
+
+[[v3-20-13]]
+
+^<<v3-20-13,13>>^ “‘Se um homem tem relações sexuais com outro homem, assim como se tem relações com uma mulher, ambos fazem algo detestável. Sem falta devem ser mortos. O próprio sangue deles está sobre eles.
+
+[[v3-20-14]]
+
+^<<v3-20-14,14>>^ “‘Se um homem toma uma mulher e a mãe dela, isso é um ato obsceno.^&#42;1^ Devem queimar tanto a ele como a elas no fogo, para que a conduta obscena não continue entre vocês.
+
+[NOTE]
+====
+. Ou: “conduta vergonhosa; indecência”.
+====
+
+[[v3-20-15]]
+
+^<<v3-20-15,15>>^ “‘Se um homem tiver relações sexuais com um animal, ele sem falta deve ser morto, e vocês devem matar o animal.
+
+[[v3-20-16]]
+
+^<<v3-20-16,16>>^ Se uma mulher se aproximar de algum animal para ter relações sexuais com ele, mate a mulher e o animal. Sem falta devem ser mortos. O sangue deles está sobre eles.
+
+[[v3-20-17]]
+
+^<<v3-20-17,17>>^ “‘Se um homem tem relações sexuais com sua irmã, a filha do seu pai ou a filha da sua mãe, e vê a nudez dela, e ela vê a nudez dele, isso é uma vergonha. Eles serão eliminados^&#42;1^ diante dos olhos dos filhos do seu povo. Ele expôs sua irmã à vergonha.^&#42;2^ Deve responder pelo seu erro.
+
+[NOTE]
+====
+. Ou: “mortos”.
+. Lit.: “expôs a nudez da sua irmã”.
+====
+
+[[v3-20-18]]
+
+^<<v3-20-18,18>>^ “‘Se um homem se deita com uma mulher menstruada e tem relações sexuais com ela, tanto ele como ela expuseram o fluxo de sangue dela. Ambos serão eliminados dentre seu povo.^&#42;1^
+
+[NOTE]
+====
+. Isto é, serão mortos.
+====
+
+[[v3-20-19]]
+
+^<<v3-20-19,19>>^ “‘Não tenha relações sexuais com a irmã da sua mãe nem com a irmã do seu pai, porque isso exporia uma parente consanguínea à vergonha. Ambos devem responder pelo seu erro.
+
+[[v3-20-20]]
+
+^<<v3-20-20,20>>^ O homem que tem relações sexuais com a esposa do seu tio expõe seu tio à vergonha.^&#42;1^ Eles devem responder pelo seu pecado. Devem morrer sem filhos.
+
+[NOTE]
+====
+. Lit.: “expõe a nudez do seu tio”.
+====
+
+[[v3-20-21]]
+
+^<<v3-20-21,21>>^ Se um homem toma a esposa do seu irmão, isso é algo abominável. Ele expôs seu irmão à vergonha.^&#42;1^ Eles devem ficar sem filhos.
+
+[NOTE]
+====
+. Lit.: “expôs a nudez do seu irmão”.
+====
+
+[[v3-20-22]]
+
+^<<v3-20-22,22>>^ “‘Guardem todos os meus decretos e todas as minhas decisões judiciais, e cumpram-nos, para que vocês não sejam vomitados pela terra à qual os levo para morarem nela.
+
+[[v3-20-23]]
+
+^<<v3-20-23,23>>^ Não andem nos decretos das nações que expulso de diante de vocês, pois elas fizeram todas essas coisas, e eu as abomino.
+
+[[v3-20-24]]
+
+^<<v3-20-24,24>>^ Por isso eu lhes disse: “Vocês tomarão posse da terra delas, e eu darei a terra a vocês como sua propriedade — uma terra que mana leite e mel. Eu sou Jeová, seu Deus, que os separei dos outros povos.”
+
+[[v3-20-25]]
+
+^<<v3-20-25,25>>^ Façam diferença entre o animal puro e o impuro, e entre a ave impura e a pura; não se tornem^&#42;1^ repugnantes por meio dos animais, das aves e das coisas que rastejam sobre o solo, os quais separei para que vocês considerem impuros.
+
+[NOTE]
+====
+. Ou: “não tornem as suas almas”.
+====
+
+[[v3-20-26]]
+
+^<<v3-20-26,26>>^ Sejam santos para mim, porque eu, Jeová, sou santo; e eu os estou separando dos outros povos para se tornarem meus.
+
+[[v3-20-27]]
+
+^<<v3-20-27,27>>^ “‘Qualquer homem ou mulher que invocar espíritos ou que for adivinho^&#42;1^ sem falta deve ser morto. O povo deve apedrejá-los até a morte. O próprio sangue deles está sobre eles.’”
+
+[NOTE]
+====
+. Ou: “que tiver um espírito de predição”.
+====
+
+'''
+
+xref:003-levitico/003-levitico-019.adoc#v3-19-0[&#60; Capítulo Anterior] | <<v3-20-0,Topo>> | xref:003-levitico/003-levitico-021.adoc#v3-21-0[Próximo Capítulo &#62;]

@@ -1,0 +1,159 @@
+include::./index.adoc[]
+
+[[v2-4-0]]
+=== Êxodo, 4
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v2-4-1]]
+
+^<<v2-4-1,1>>^ No entanto, Moisés respondeu: “Mas suponhamos que não acreditem em mim e não escutem a minha voz, pois dirão: ‘Jeová não lhe apareceu.’”
+
+[[v2-4-2]]
+
+^<<v2-4-2,2>>^ Jeová perguntou-lhe então: “O que é isso na sua mão?” Ele respondeu: “Um bastão.”
+
+[[v2-4-3]]
+
+^<<v2-4-3,3>>^ Ele lhe disse: “Jogue-o no chão.” De modo que jogou o bastão no chão, e ele se transformou numa serpente, e Moisés fugiu dela.
+
+[[v2-4-4]]
+
+^<<v2-4-4,4>>^ Jeová disse então a Moisés: “Estenda a mão e pegue-a pela cauda.” Ele estendeu a mão e a pegou, e ela se transformou num bastão na sua mão.
+
+[[v2-4-5]]
+
+^<<v2-4-5,5>>^ Deus disse então: “Isso é para que eles acreditem que Jeová, o Deus dos antepassados deles, o Deus de Abraão, o Deus de Isaque e o Deus de Jacó, apareceu a você.”
+
+[[v2-4-6]]
+
+^<<v2-4-6,6>>^ Jeová lhe disse mais uma vez: “Por favor, coloque a mão na dobra superior da sua roupa.” De modo que ele colocou a mão na dobra da roupa. Quando tirou a mão, ela estava com lepra, branca como a neve.
+
+[[v2-4-7]]
+
+^<<v2-4-7,7>>^ Então ele disse: “Coloque novamente a mão na dobra superior da sua roupa.” Ele colocou a mão novamente na dobra da roupa. Quando a tirou, ela estava restabelecida, como o resto do corpo!
+
+[[v2-4-8]]
+
+^<<v2-4-8,8>>^ Ele disse: “Se não acreditarem em você nem prestarem atenção no primeiro sinal, certamente prestarão atenção no segundo sinal.
+
+[[v2-4-9]]
+
+^<<v2-4-9,9>>^ Contudo, mesmo que não acreditem nesses dois sinais e não queiram escutar a sua voz, você pegará um pouco da água do rio Nilo e a derramará na terra seca, e a água que pegar do Nilo se transformará em sangue na terra seca.”
+
+[[v2-4-10]]
+
+^<<v2-4-10,10>>^ Moisés disse então a Jeová: “Perdão, Jeová, mas nunca tive facilidade para falar, nem no passado nem depois que falaste ao teu servo, pois sou vagaroso de fala^&#42;1^ e vagaroso de língua.”
+
+[NOTE]
+====
+. Lit.: “pesado de boca”.
+====
+
+[[v2-4-11]]
+
+^<<v2-4-11,11>>^ Jeová lhe disse: “Quem deu a boca ao homem? Quem o faz ser mudo ou surdo, ter boa visão ou ser cego? Não sou eu, Jeová?
+
+[[v2-4-12]]
+
+^<<v2-4-12,12>>^ Portanto, vá agora, e eu estarei com você quando falar,^&#42;1^ e lhe ensinarei o que deve dizer.”
+
+[NOTE]
+====
+. Lit.: “com a sua boca”.
+====
+
+[[v2-4-13]]
+
+^<<v2-4-13,13>>^ Mas ele disse: “Perdão, Jeová, envia qualquer outro que quiseres enviar, por favor.”
+
+[[v2-4-14]]
+
+^<<v2-4-14,14>>^ Então a ira de Jeová se acendeu contra Moisés, e ele disse: “O que você me diz do seu irmão Arão, o levita? Sei que ele fala muito bem. E ele está vindo agora ao seu encontro. Ao ver você, o coração dele se alegrará.
+
+[[v2-4-15]]
+
+^<<v2-4-15,15>>^ Portanto, fale com ele e ponha-lhe as palavras na boca; e, quando vocês falarem, eu estarei com vocês e lhes ensinarei o que devem fazer.
+
+[[v2-4-16]]
+
+^<<v2-4-16,16>>^ Ele falará por você ao povo; ele será seu porta-voz, e você lhe servirá de Deus.^&#42;1^
+
+[NOTE]
+====
+. Ou: “você fará o papel de Deus para ele”.
+====
+
+[[v2-4-17]]
+
+^<<v2-4-17,17>>^ E você pegará este bastão na mão e realizará os sinais com ele.”
+
+[[v2-4-18]]
+
+^<<v2-4-18,18>>^ Assim, Moisés voltou a Jetro, seu sogro, e lhe disse: “Por favor, quero voltar aos meus irmãos que estão no Egito, para ver se eles ainda vivem.” Jetro disse a Moisés: “Vá em paz.”
+
+[[v2-4-19]]
+
+^<<v2-4-19,19>>^ Depois, Jeová disse a Moisés em Midiã: “Vá, volte ao Egito, porque todos os homens que procuravam matá-lo^&#42;1^ estão mortos.”
+
+[NOTE]
+====
+. Ou: “procuravam a sua alma”.
+====
+
+[[v2-4-20]]
+
+^<<v2-4-20,20>>^ Moisés pegou então sua esposa e seus filhos, montou-os num jumento e partiu de volta à terra do Egito. Além disso, Moisés pegou o bastão do verdadeiro Deus.
+
+[[v2-4-21]]
+
+^<<v2-4-21,21>>^ Então Jeová disse a Moisés: “Depois de ter voltado ao Egito, cuide de realizar diante de Faraó todos os milagres que lhe dei o poder de realizar. Mas eu permitirei que o coração dele fique endurecido, e ele não deixará o povo ir.
+
+[[v2-4-22]]
+
+^<<v2-4-22,22>>^ Diga a Faraó: ‘Assim diz Jeová: “Israel é meu filho, meu primogênito.
+
+[[v2-4-23]]
+
+^<<v2-4-23,23>>^ Eu ordeno que deixe meu filho ir, para que ele me sirva. Mas, se você se recusar a deixá-lo ir, matarei seu filho, seu primogênito.”’”
+
+[[v2-4-24]]
+
+^<<v2-4-24,24>>^ Durante a viagem, na hospedaria, Jeová o encontrou e procurava entregá-lo à morte.
+
+[[v2-4-25]]
+
+^<<v2-4-25,25>>^ Por fim, Zípora pegou uma pedra afiada^&#42;1^ e circuncidou o seu filho, e fez com que o prepúcio tocasse nos pés dele, e disse: “É porque és^&#42;2^ para mim um noivo de sangue.”
+
+[NOTE]
+====
+. Ou: “faca de pederneira”.
+. Ou, possivelmente: “você é”.
+====
+
+[[v2-4-26]]
+
+^<<v2-4-26,26>>^ Assim, Ele o deixou ir. Ela disse “noivo de sangue” por causa da circuncisão.
+
+[[v2-4-27]]
+
+^<<v2-4-27,27>>^ Então Jeová disse a Arão: “Vá ao deserto para se encontrar com Moisés.” Assim, ele foi e o encontrou junto ao monte do verdadeiro Deus, e o cumprimentou com um beijo.
+
+[[v2-4-28]]
+
+^<<v2-4-28,28>>^ E Moisés contou a Arão todas as palavras de Jeová, que o tinha enviado, e também lhe falou de todos os sinais que Ele lhe havia mandado realizar.
+
+[[v2-4-29]]
+
+^<<v2-4-29,29>>^ Depois disso, Moisés e Arão foram e reuniram todos os anciãos dos israelitas.
+
+[[v2-4-30]]
+
+^<<v2-4-30,30>>^ Arão lhes contou todas as palavras que Jeová havia falado a Moisés, e este realizou os sinais diante do povo.
+
+[[v2-4-31]]
+
+^<<v2-4-31,31>>^ Em vista disso, o povo acreditou. Quando ouviram que Jeová havia voltado sua atenção para os israelitas e que havia visto a sua aflição, eles se curvaram e se prostraram.
+
+'''
+
+xref:002-exodo/002-exodo-003.adoc#v2-3-0[&#60; Capítulo Anterior] | <<v2-4-0,Topo>> | xref:002-exodo/002-exodo-005.adoc#v2-5-0[Próximo Capítulo &#62;]

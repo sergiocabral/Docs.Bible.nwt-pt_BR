@@ -1,0 +1,161 @@
+include::./index.adoc[]
+
+[[v27-1-0]]
+=== Daniel, 1
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v27-1-1]]
+
+^<<v27-1-1,1>>^ No terceiro ano do reinado de Jeoiaquim, rei de Judá, Nabucodonosor, rei de Babilônia, chegou a Jerusalém e a sitiou.
+
+[[v27-1-2]]
+
+^<<v27-1-2,2>>^ E Jeová entregou nas suas mãos Jeoiaquim, rei de Judá, junto com alguns dos utensílios da casa^&#42;1^ do verdadeiro Deus, e ele os levou para a terra de Sinear,^&#42;2^ para a casa^&#42;3^ do seu deus. Ele colocou os utensílios na sala do tesouro do seu deus.
+
+[NOTE]
+====
+. Ou: “do templo”.
+. Isto é, Babilônia.
+. Ou: “o templo”.
+====
+
+[[v27-1-3]]
+
+^<<v27-1-3,3>>^ O rei então ordenou a Aspenaz, principal oficial da corte, que trouxesse alguns israelitas,^&#42;1^ incluindo os de descendência real ou nobre.
+
+[NOTE]
+====
+. Lit.: “filhos de Israel”.
+====
+
+[[v27-1-4]]
+
+^<<v27-1-4,4>>^ Deveriam ser jovens^&#42;1^ sem nenhum defeito, de boa aparência, dotados de sabedoria, conhecimento e discernimento, capazes de servir no palácio do rei. Ele deveria lhes ensinar a escrita e a língua dos caldeus.
+
+[NOTE]
+====
+. Lit.: “meninos”.
+====
+
+[[v27-1-5]]
+
+^<<v27-1-5,5>>^ Além disso, o rei estipulou para eles uma porção diária das iguarias do rei e do vinho que ele bebia. Eles deveriam ser treinados^&#42;1^ por três anos, e no fim desse período passariam a servir o rei.
+
+[NOTE]
+====
+. Ou, possivelmente: “nutridos”.
+====
+
+[[v27-1-6]]
+
+^<<v27-1-6,6>>^ Entre eles, havia alguns da tribo^&#42;1^ de Judá: Daniel,^&#42;2^ Hananias,^&#42;3^ Misael^&#42;4^ e Azarias.^&#42;5^
+
+[NOTE]
+====
+. Lit.: “dos filhos”.
+. Que significa “meu juiz é Deus”.
+. Que significa “Jeová mostrou favor”.
+. Que possivelmente significa “Quem é semelhante a Deus?”
+. Que significa “Jeová ajudou”.
+====
+
+[[v27-1-7]]
+
+^<<v27-1-7,7>>^ E o principal oficial da corte deu-lhes outros nomes:^&#42;1^ chamou Daniel de Beltessazar, Hananias de Sadraque, Misael de Mesaque, e Azarias de Abednego.
+
+[NOTE]
+====
+. Isto é, nomes babilônicos.
+====
+
+[[v27-1-8]]
+
+^<<v27-1-8,8>>^ Mas Daniel decidiu no coração que não se tornaria impuro com as iguarias do rei nem com o vinho que ele bebia. Assim, pediu ao principal oficial da corte permissão para não consumir essas coisas que o tornariam impuro.
+
+[[v27-1-9]]
+
+^<<v27-1-9,9>>^ E o verdadeiro Deus fez com que o principal oficial da corte mostrasse favor^&#42;1^ e misericórdia a Daniel.
+
+[NOTE]
+====
+. Ou: “bondade”.
+====
+
+[[v27-1-10]]
+
+^<<v27-1-10,10>>^ Mas o principal oficial da corte disse a Daniel: “Tenho medo do meu senhor, o rei, que estipulou o alimento e a bebida para vocês. E se ele perceber que a aparência de vocês está pior do que a dos outros jovens^&#42;1^ de sua idade? Por sua causa, eu serei culpado^&#42;2^ perante o rei.”
+
+[NOTE]
+====
+. Lit.: “meninos”.
+. Lit.: “a minha cabeça será culpada”.
+====
+
+[[v27-1-11]]
+
+^<<v27-1-11,11>>^ Mas Daniel disse ao guardião, a quem o principal oficial da corte tinha encarregado de cuidar de Daniel, Hananias, Misael e Azarias:
+
+[[v27-1-12]]
+
+^<<v27-1-12,12>>^ “Por favor, faça uma experiência com seus servos por dez dias; deem-nos vegetais para comer e água para beber.
+
+[[v27-1-13]]
+
+^<<v27-1-13,13>>^ Depois compare a nossa aparência com a aparência dos jovens^&#42;1^ que comem as iguarias do rei e, de acordo com o que observar, decida como tratará os seus servos.”
+
+[NOTE]
+====
+. Lit.: “meninos”.
+====
+
+[[v27-1-14]]
+
+^<<v27-1-14,14>>^ Ele concordou com a proposta e fez uma experiência com eles por dez dias.
+
+[[v27-1-15]]
+
+^<<v27-1-15,15>>^ Ao fim dos dez dias eles tinham uma aparência melhor e mais saudável^&#42;1^ do que todos os jovens^&#42;2^ que comiam as iguarias do rei.
+
+[NOTE]
+====
+. Lit.: “gorda de carne”.
+. Lit.: “meninos”.
+====
+
+[[v27-1-16]]
+
+^<<v27-1-16,16>>^ Portanto, o guardião retirava as iguarias e o vinho destinados a eles, e lhes dava vegetais.
+
+[[v27-1-17]]
+
+^<<v27-1-17,17>>^ E o verdadeiro Deus deu a esses quatro jovens^&#42;1^ conhecimento e compreensão de todo tipo de escrita, e também lhes deu sabedoria; e Daniel recebeu entendimento de todo tipo de visões e sonhos.
+
+[NOTE]
+====
+. Lit.: “meninos”.
+====
+
+[[v27-1-18]]
+
+^<<v27-1-18,18>>^ Ao terminar o prazo que o rei tinha determinado para que os levassem à sua presença, o principal oficial da corte os levou perante Nabucodonosor.
+
+[[v27-1-19]]
+
+^<<v27-1-19,19>>^ Quando o rei falou com eles, não havia em todo o grupo ninguém como Daniel, Hananias, Misael e Azarias; e eles continuaram a servir perante o rei.
+
+[[v27-1-20]]
+
+^<<v27-1-20,20>>^ E, sempre que o rei os consultava sobre um assunto que exigia sabedoria e entendimento, ele os achava dez vezes melhores do que todos os sacerdotes-magos e adivinhos^&#42;1^ que havia em todo o seu reino.
+
+[NOTE]
+====
+. Ou: “encantadores”.
+====
+
+[[v27-1-21]]
+
+^<<v27-1-21,21>>^ E Daniel continuou ali até o primeiro ano do rei Ciro.
+
+'''
+
+xref:026-ezequiel/026-ezequiel-048.adoc#v26-48-0[&#60; Capítulo Anterior] | <<v27-1-0,Topo>> | xref:027-daniel/027-daniel-002.adoc#v27-2-0[Próximo Capítulo &#62;]

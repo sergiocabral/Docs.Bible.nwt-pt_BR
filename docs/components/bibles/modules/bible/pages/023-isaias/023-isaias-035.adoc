@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v23-35-0]]
+=== Isaías, 35
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v23-35-1]]
+
+^<<v23-35-1,1>>^ O deserto e a terra árida se alegrarão,
+A planície desértica exultará e produzirá flores assim como o açafrão.^&#42;1^
+
+[NOTE]
+====
+. Ou: “croco”.
+====
+
+[[v23-35-2]]
+
+^<<v23-35-2,2>>^ Ela sem falta produzirá flores;
+Exultará e gritará de alegria.
+A glória do Líbano lhe será dada,
+Também o esplendor do Carmelo e de Sarom.
+As pessoas verão a glória de Jeová, o esplendor do nosso Deus.
+
+[[v23-35-3]]
+
+^<<v23-35-3,3>>^ Fortaleçam as mãos fracas
+E firmem os joelhos que estão tremendo.
+
+[[v23-35-4]]
+
+^<<v23-35-4,4>>^ Digam aos de coração ansioso:
+“Sejam fortes. Não tenham medo.
+Vejam! Seu Deus virá com vingança,
+Deus virá com retribuição.
+Ele virá e os salvará.”
+
+[[v23-35-5]]
+
+^<<v23-35-5,5>>^ Naquele tempo se abrirão os olhos dos cegos
+E se destaparão os ouvidos dos surdos.
+
+[[v23-35-6]]
+
+^<<v23-35-6,6>>^ Naquele tempo os mancos saltarão como os cervos,
+E a língua dos mudos gritará de alegria.
+Pois águas vão jorrar no deserto,
+E torrentes na planície desértica.
+
+[[v23-35-7]]
+
+^<<v23-35-7,7>>^ O solo seco se tornará uma lagoa repleta de juncos;
+E a terra sedenta, fontes de água.
+Nos esconderijos onde os chacais descansavam
+Haverá vegetação verde, juncos e papiro.
+
+[[v23-35-8]]
+
+^<<v23-35-8,8>>^ E ali haverá uma estrada,
+Sim, um caminho chamado Caminho de Santidade.
+O impuro não passará por ele.
+Será apenas para aquele que anda no caminho;
+Nenhum tolo vagueará nele.
+
+[[v23-35-9]]
+
+^<<v23-35-9,9>>^ Ali não haverá leão,
+E nenhum animal feroz passará por ele.
+Eles não serão vistos ali;
+Apenas os resgatados andarão nele.
+
+[[v23-35-10]]
+
+^<<v23-35-10,10>>^ Os remidos por Jeová retornarão e chegarão a Sião com gritos de alegria.
+Serão coroados com alegria eterna.
+Eles ficarão cheios de exultação e alegria,
+O pesar e o gemido desaparecerão.
+
+'''
+
+xref:023-isaias/023-isaias-034.adoc#v23-34-0[&#60; Capítulo Anterior] | <<v23-35-0,Topo>> | xref:023-isaias/023-isaias-036.adoc#v23-36-0[Próximo Capítulo &#62;]

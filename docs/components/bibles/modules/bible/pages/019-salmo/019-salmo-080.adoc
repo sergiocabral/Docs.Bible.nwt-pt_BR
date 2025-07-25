@@ -1,0 +1,136 @@
+include::./index.adoc[]
+
+[[v19-80-0]]
+=== Salmos, 80
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Ao regente; com a melodia de Os Lírios. Recordação. De Asafe. Salmo._
+
+[[v19-80-1]]
+
+^<<v19-80-1,1>>^ Escuta, ó Pastor de Israel,
+Tu que guias a José como a um rebanho.
+Tu que estás sentado no teu trono acima dos^&#42;1^ querubins,
+Resplandece.^&#42;2^
+
+[NOTE]
+====
+. Ou, possivelmente: “entre os”.
+. Ou: “Revela o teu esplendor”.
+====
+
+[[v19-80-2]]
+
+^<<v19-80-2,2>>^ Diante de Efraim, Benjamim e Manassés,
+Desperta o teu poder;
+Vem salvar-nos.
+
+[[v19-80-3]]
+
+^<<v19-80-3,3>>^ Ó Deus, restabelece-nos;
+Que a tua face brilhe sobre nós para que sejamos salvos.
+
+[[v19-80-4]]
+
+^<<v19-80-4,4>>^ Ó Jeová, Deus dos exércitos, até quando tratarás com hostilidade^&#42;1^ as orações do teu povo?
+
+[NOTE]
+====
+. Lit.: “fumegarás contra”.
+====
+
+[[v19-80-5]]
+
+^<<v19-80-5,5>>^ Tu os alimentas com pão de lágrimas
+E os fazes beber lágrimas em abundância.
+
+[[v19-80-6]]
+
+^<<v19-80-6,6>>^ Tu deixas que os nossos vizinhos briguem por nossa causa;
+Nossos inimigos continuam a zombar de nós à vontade.
+
+[[v19-80-7]]
+
+^<<v19-80-7,7>>^ Ó Deus dos exércitos, restabelece-nos;
+Que a tua face brilhe sobre nós para que sejamos salvos.
+
+[[v19-80-8]]
+
+^<<v19-80-8,8>>^ Fizeste uma videira sair do Egito.
+Expulsaste as nações e plantaste-a.
+
+[[v19-80-9]]
+
+^<<v19-80-9,9>>^ Limpaste o terreno para ela,
+E ela lançou raízes e encheu a terra.
+
+[[v19-80-10]]
+
+^<<v19-80-10,10>>^ Os montes ficaram cobertos pela sua sombra,
+E os cedros de Deus pelos seus ramos.
+
+[[v19-80-11]]
+
+^<<v19-80-11,11>>^ Seus ramos chegaram até o mar,
+E seus brotos até o rio.^&#42;1^
+
+[NOTE]
+====
+. Isto é, o rio Eufrates.
+====
+
+[[v19-80-12]]
+
+^<<v19-80-12,12>>^ Por que derrubaste os muros de pedras do vinhedo,
+De modo que todos os que passam arrancam os frutos dela?
+
+[[v19-80-13]]
+
+^<<v19-80-13,13>>^ Os javalis da floresta a devastam,
+E os animais selvagens do campo se alimentam dela.
+
+[[v19-80-14]]
+
+^<<v19-80-14,14>>^ Ó Deus dos exércitos, volta, por favor.
+Olha desde o céu e vê!
+Cuida desta videira,
+
+[[v19-80-15]]
+
+^<<v19-80-15,15>>^ Da muda^&#42;1^ que a tua mão direita plantou;
+E olha para o filho^&#42;2^ que fortaleceste para ti.
+
+[NOTE]
+====
+. Ou: “Do caule principal da videira”.
+. Ou: “ramo”.
+====
+
+[[v19-80-16]]
+
+^<<v19-80-16,16>>^ Ela foi queimada com fogo, foi cortada.
+Eles morrem diante da tua repreensão.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “da censura da tua face”.
+====
+
+[[v19-80-17]]
+
+^<<v19-80-17,17>>^ Que a tua mão sustente o homem que está à tua direita,
+O filho do homem que fortaleceste para ti.
+
+[[v19-80-18]]
+
+^<<v19-80-18,18>>^ Então nós não te abandonaremos.
+Preserva-nos vivos para que possamos invocar o teu nome.
+
+[[v19-80-19]]
+
+^<<v19-80-19,19>>^ Ó Jeová, Deus dos exércitos, restabelece-nos;
+Que a tua face brilhe sobre nós para que sejamos salvos.
+
+'''
+
+xref:019-salmo/019-salmo-079.adoc#v19-79-0[&#60; Capítulo Anterior] | <<v19-80-0,Topo>> | xref:019-salmo/019-salmo-081.adoc#v19-81-0[Próximo Capítulo &#62;]

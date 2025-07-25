@@ -1,0 +1,48 @@
+include::./index.adoc[]
+
+[[v18-25-0]]
+=== Jó, 25
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v18-25-1]]
+
+^<<v18-25-1,1>>^ Bildade, o suíta, disse em resposta:
+
+[[v18-25-2]]
+
+^<<v18-25-2,2>>^ “O domínio e o poder espantoso pertencem a ele;
+Ele estabelece a paz no céu.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “nas suas alturas”.
+====
+
+[[v18-25-3]]
+
+^<<v18-25-3,3>>^ Podem as suas tropas ser contadas?
+Sobre quem a sua luz não se levanta?
+
+[[v18-25-4]]
+
+^<<v18-25-4,4>>^ Então, como pode o homem mortal ser justo perante Deus,
+Ou como pode alguém que nasceu de uma mulher ser inocente?^&#42;1^
+
+[NOTE]
+====
+. Ou: “puro”.
+====
+
+[[v18-25-5]]
+
+^<<v18-25-5,5>>^ Nem mesmo a lua tem brilho,
+E as estrelas não são puras aos seus olhos,
+
+[[v18-25-6]]
+
+^<<v18-25-6,6>>^ Quanto menos, então, o homem mortal, que é uma larva,
+E o filho do homem, que é um verme!”
+
+'''
+
+xref:018-jo/018-jo-024.adoc#v18-24-0[&#60; Capítulo Anterior] | <<v18-25-0,Topo>> | xref:018-jo/018-jo-026.adoc#v18-26-0[Próximo Capítulo &#62;]

@@ -1,0 +1,195 @@
+include::./index.adoc[]
+
+[[v4-11-0]]
+=== Números, 11
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v4-11-1]]
+
+^<<v4-11-1,1>>^ Então o povo começou a se queixar amargamente perante Jeová. Quando Jeová ouviu isso, a sua ira se acendeu, e um fogo da parte de Jeová começou a queimar entre eles e a consumir alguns nas extremidades do acampamento.
+
+[[v4-11-2]]
+
+^<<v4-11-2,2>>^ Quando o povo clamou a Moisés, ele suplicou a Jeová, e o fogo se apagou.
+
+[[v4-11-3]]
+
+^<<v4-11-3,3>>^ Por isso aquele lugar recebeu o nome de Taberá,^&#42;1^ porque um fogo da parte de Jeová havia acendido contra eles.
+
+[NOTE]
+====
+. Que significa “queima”, isto é, uma conflagração; um incêndio.
+====
+
+[[v4-11-4]]
+
+^<<v4-11-4,4>>^ Então os estrangeiros^&#42;1^ que estavam no seu meio expressaram desejos egoístas, e os israelitas começaram a chorar novamente e a dizer: “Quem nos dará carne para comer?
+
+[NOTE]
+====
+. Ou: “a multidão mista”. Aparentemente se refere aos não israelitas entre eles.
+====
+
+[[v4-11-5]]
+
+^<<v4-11-5,5>>^ Como sentimos falta dos peixes que comíamos de graça no Egito, também dos pepinos, das melancias, dos alhos-porós, das cebolas e dos alhos!
+
+[[v4-11-6]]
+
+^<<v4-11-6,6>>^ Mas agora nós estamos^&#42;1^ definhando. Não vemos nada a não ser esse maná.”
+
+[NOTE]
+====
+. Ou: “nossas almas estão”.
+====
+
+[[v4-11-7]]
+
+^<<v4-11-7,7>>^ A propósito, o maná era como a semente de coentro e parecia resina bdélio.
+
+[[v4-11-8]]
+
+^<<v4-11-8,8>>^ O povo se espalhava e o apanhava, e o moía em moinhos manuais ou o socava num pilão. Depois o cozinhavam em panelas ou faziam dele pães redondos; e ele tinha o sabor de um bolo feito com azeite.
+
+[[v4-11-9]]
+
+^<<v4-11-9,9>>^ Quando o orvalho caía sobre o acampamento durante a noite, o maná também caía sobre ele.
+
+[[v4-11-10]]
+
+^<<v4-11-10,10>>^ Moisés ouviu todas as famílias do povo chorando, cada homem à entrada da sua tenda. E Jeová ficou muito irado, e Moisés também ficou muito aborrecido.
+
+[[v4-11-11]]
+
+^<<v4-11-11,11>>^ Então Moisés disse a Jeová: “Por que causaste aflição ao teu servo? Por que não achei favor aos teus olhos, de modo que puseste sobre mim o fardo de todo este povo?
+
+[[v4-11-12]]
+
+^<<v4-11-12,12>>^ Fui eu quem concebeu todo este povo? Fui eu quem os deu à luz, de modo que me digas: ‘Carregue-os no colo, assim como um servo^&#42;1^ carrega a criança de peito’, até a terra que juraste que daria aos antepassados deles?
+
+[NOTE]
+====
+. Ou: “aio”.
+====
+
+[[v4-11-13]]
+
+^<<v4-11-13,13>>^ Onde encontrarei carne para dar a todo este povo? Pois continuam a chorar diante de mim, dizendo: ‘Dê-nos carne para comer!’
+
+[[v4-11-14]]
+
+^<<v4-11-14,14>>^ Sozinho eu não consigo suportar todo este povo; isso é demais para mim.
+
+[[v4-11-15]]
+
+^<<v4-11-15,15>>^ Se é assim que vais continuar a me tratar, por favor, mata-me agora mesmo. Se achei favor aos teus olhos, não me faças ver mais nenhuma calamidade.”
+
+[[v4-11-16]]
+
+^<<v4-11-16,16>>^ Jeová disse a Moisés: “Reúna para mim 70 homens dos anciãos de Israel, homens que você reconhece como^&#42;1^ anciãos e oficiais do povo, leve-os à tenda de reunião e faça-os ficar ali com você.
+
+[NOTE]
+====
+. Ou: “que você sabe que são; que são conhecidos por você como”.
+====
+
+[[v4-11-17]]
+
+^<<v4-11-17,17>>^ Eu descerei e falarei com você ali, tirarei um pouco do espírito que há sobre você e o colocarei sobre eles. E eles o ajudarão a levar o fardo do povo, para que você não tenha de levá-lo sozinho.
+
+[[v4-11-18]]
+
+^<<v4-11-18,18>>^ Você deve dizer ao povo: ‘Santifiquem-se para amanhã, visto que vocês certamente comerão carne, porque choraram aos ouvidos de Jeová e disseram: “Quem nos dará carne para comer? Estávamos melhor no Egito!” Jeová certamente lhes dará carne, e vocês comerão.
+
+[[v4-11-19]]
+
+^<<v4-11-19,19>>^ Vocês comerão, não um dia, nem dois dias, nem cinco dias, nem dez dias, nem vinte dias,
+
+[[v4-11-20]]
+
+^<<v4-11-20,20>>^ mas um mês inteiro, até que saia pelas suas narinas e se torne algo nojento para vocês, pois rejeitaram a Jeová, que está no seu meio, e choraram diante dele, dizendo: “Por que é que saímos do Egito?”’”
+
+[[v4-11-21]]
+
+^<<v4-11-21,21>>^ Então Moisés disse: “Este povo, no meio do qual estou, são 600.000 homens a pé, e ainda assim tu dizes: ‘Eu lhes darei carne suficiente para comer um mês inteiro!’
+
+[[v4-11-22]]
+
+^<<v4-11-22,22>>^ Se rebanhos inteiros de ovelhas e bois fossem abatidos, será que seria suficiente para eles? Ou, se todos os peixes do mar fossem apanhados, será que seria suficiente para eles?”
+
+[[v4-11-23]]
+
+^<<v4-11-23,23>>^ Jeová disse então a Moisés: “Será que a mão de Jeová é curta demais? Agora você verá se o que eu digo vai acontecer ou não.”
+
+[[v4-11-24]]
+
+^<<v4-11-24,24>>^ Então Moisés saiu e falou ao povo as palavras de Jeová. E reuniu 70 homens dos anciãos do povo e os fez ficar em volta da tenda.
+
+[[v4-11-25]]
+
+^<<v4-11-25,25>>^ Jeová desceu então numa nuvem e falou com ele, e tirou um pouco do espírito que havia sobre ele e pôs sobre cada um dos 70 anciãos. E, logo que o espírito veio sobre eles, começaram a agir como profetas,^&#42;1^ mas fizeram isso apenas aquela vez.
+
+[NOTE]
+====
+. Ou: “começaram a profetizar”.
+====
+
+[[v4-11-26]]
+
+^<<v4-11-26,26>>^ Dois desses homens ainda estavam no acampamento. Eles se chamavam Eldade e Medade. E o espírito veio sobre eles — eles se achavam entre os alistados, mas não tinham ido até a tenda —, e eles começaram a agir como profetas no acampamento.
+
+[[v4-11-27]]
+
+^<<v4-11-27,27>>^ E um jovem foi correndo contar a Moisés: “Eldade e Medade estão agindo como profetas no acampamento!”
+
+[[v4-11-28]]
+
+^<<v4-11-28,28>>^ Em vista disso, Josué, filho de Num, que desde jovem era ajudante de Moisés, disse: “Meu senhor Moisés, mande-os parar!”
+
+[[v4-11-29]]
+
+^<<v4-11-29,29>>^ Mas Moisés lhe disse: “Você tem ciúmes em meu lugar? Quem dera que todo o povo de Jeová fosse profeta e que Jeová pusesse seu espírito sobre eles!”
+
+[[v4-11-30]]
+
+^<<v4-11-30,30>>^ Mais tarde, Moisés voltou para o acampamento com os anciãos de Israel.
+
+[[v4-11-31]]
+
+^<<v4-11-31,31>>^ Então Jeová fez soprar um vento que começou a trazer codornizes desde o mar e a fazê-las cair em volta do acampamento, formando uma camada de cerca de dois côvados^&#42;1^ sobre o chão e cobrindo a área de cerca de um dia de viagem para cada lado, em volta do acampamento.
+
+[NOTE]
+====
+. Um côvado equivalia a 44,5 cm. Veja Ap. B14.
+====
+
+[[v4-11-32]]
+
+^<<v4-11-32,32>>^ Então o povo ficou acordado e recolheu as codornizes todo aquele dia, toda aquela noite e todo o dia seguinte. Ninguém recolheu menos de dez ômeres,^&#42;1^ e eles as estendiam em volta do acampamento.^&#42;2^
+
+[NOTE]
+====
+. Um ômer equivalia a 220 l. Veja Ap. B14.
+. Talvez tenham feito isso para secar a carne.
+====
+
+[[v4-11-33]]
+
+^<<v4-11-33,33>>^ Mas, enquanto a carne ainda estava entre os seus dentes, sem ter sido mastigada, a ira de Jeová se acendeu contra o povo, e Jeová atingiu o povo com uma matança muito grande.
+
+[[v4-11-34]]
+
+^<<v4-11-34,34>>^ Assim, eles deram àquele lugar o nome de Quibrote-Ataavá,^&#42;1^ porque ali foram enterrados os que tiveram desejos egoístas.
+
+[NOTE]
+====
+. Que significa “sepulturas do desejo”.
+====
+
+[[v4-11-35]]
+
+^<<v4-11-35,35>>^ De Quibrote-Ataavá o povo partiu para Hazerote, e permaneceram em Hazerote.
+
+'''
+
+xref:004-numeros/004-numeros-010.adoc#v4-10-0[&#60; Capítulo Anterior] | <<v4-11-0,Topo>> | xref:004-numeros/004-numeros-012.adoc#v4-12-0[Próximo Capítulo &#62;]

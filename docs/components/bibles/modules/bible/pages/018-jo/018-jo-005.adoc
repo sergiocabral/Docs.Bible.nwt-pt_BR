@@ -1,0 +1,155 @@
+include::./index.adoc[]
+
+[[v18-5-0]]
+=== Jó, 5
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v18-5-1]]
+
+^<<v18-5-1,1>>^ “Clame! Será que alguém lhe responde?
+A qual dos santos você recorrerá?
+
+[[v18-5-2]]
+
+^<<v18-5-2,2>>^ Pois o ressentimento matará o tolo,
+E a inveja fará o ingênuo morrer.
+
+[[v18-5-3]]
+
+^<<v18-5-3,3>>^ Eu vi o tolo lançar raízes,
+Mas de repente o lugar onde ele mora é amaldiçoado.
+
+[[v18-5-4]]
+
+^<<v18-5-4,4>>^ Seus filhos estão longe de ter segurança,
+E são esmagados junto ao portão da cidade, sem que ninguém os salve.
+
+[[v18-5-5]]
+
+^<<v18-5-5,5>>^ Os famintos comem o que ele colhe,
+Tirando-o até mesmo do meio dos espinhos;
+E os bens dele são apanhados numa armadilha.
+
+[[v18-5-6]]
+
+^<<v18-5-6,6>>^ Pois a aflição não surge do pó,
+E a desgraça não brota do chão.
+
+[[v18-5-7]]
+
+^<<v18-5-7,7>>^ O homem nasce para a desgraça,
+Tão certo como faíscas voam para cima.
+
+[[v18-5-8]]
+
+^<<v18-5-8,8>>^ Mas eu apelaria a Deus,
+E a Deus apresentaria a minha causa,
+
+[[v18-5-9]]
+
+^<<v18-5-9,9>>^ Aquele que faz coisas grandiosas e insondáveis,
+Inúmeras coisas maravilhosas.
+
+[[v18-5-10]]
+
+^<<v18-5-10,10>>^ Ele dá chuva à terra
+E envia águas sobre os campos.
+
+[[v18-5-11]]
+
+^<<v18-5-11,11>>^ Ele enaltece o humilde,
+E exalta o desanimado à salvação.
+
+[[v18-5-12]]
+
+^<<v18-5-12,12>>^ Ele frustra as tramas dos astutos,
+Para que os trabalhos das suas mãos não sejam bem-sucedidos.
+
+[[v18-5-13]]
+
+^<<v18-5-13,13>>^ Ele apanha os sábios na sua própria astúcia,
+De modo que os planos dos espertos são frustrados.
+
+[[v18-5-14]]
+
+^<<v18-5-14,14>>^ Eles se deparam com a escuridão durante o dia,
+E andam tateando ao meio-dia como se fosse noite.
+
+[[v18-5-15]]
+
+^<<v18-5-15,15>>^ Ele salva da espada que trazem na boca,
+E salva o pobre das mãos do forte,
+
+[[v18-5-16]]
+
+^<<v18-5-16,16>>^ De modo que há esperança para o humilde,
+Mas a boca de injustiça é silenciada.
+
+[[v18-5-17]]
+
+^<<v18-5-17,17>>^ Feliz é o homem a quem Deus repreende;
+Por isso, não rejeite a disciplina do Todo-Poderoso!
+
+[[v18-5-18]]
+
+^<<v18-5-18,18>>^ Pois ele causa dor, mas trata a ferida;
+Ele despedaça, mas cura com as próprias mãos.
+
+[[v18-5-19]]
+
+^<<v18-5-19,19>>^ Ele salvará você de seis calamidades,
+Nem mesmo a sétima o prejudicará.
+
+[[v18-5-20]]
+
+^<<v18-5-20,20>>^ Durante a fome ele o livrará da morte,
+E, durante a guerra, do poder da espada.
+
+[[v18-5-21]]
+
+^<<v18-5-21,21>>^ Você será protegido contra o açoite da língua,
+E não terá medo da devastação quando ela vier.
+
+[[v18-5-22]]
+
+^<<v18-5-22,22>>^ Você rirá da destruição e da fome,
+E não terá medo dos animais selvagens da terra.
+
+[[v18-5-23]]
+
+^<<v18-5-23,23>>^ Pois as pedras do campo não lhe causarão dano,^&#42;1^
+E os animais selvagens viverão em paz com você.
+
+[NOTE]
+====
+. Ou: “do campo farão um pacto (um acordo) com você”.
+====
+
+[[v18-5-24]]
+
+^<<v18-5-24,24>>^ Você saberá que a sua tenda está segura,^&#42;1^
+E nada estará faltando quando examinar a sua pastagem.
+
+[NOTE]
+====
+. Lit.: “é paz”.
+====
+
+[[v18-5-25]]
+
+^<<v18-5-25,25>>^ Você se alegrará com muitos filhos,
+E seus descendentes serão tão abundantes como a vegetação da terra.
+
+[[v18-5-26]]
+
+^<<v18-5-26,26>>^ Você ainda estará forte quando chegar à sepultura,
+Como feixes de cereal que são ajuntados na época devida.
+
+[[v18-5-27]]
+
+^<<v18-5-27,27>>^ Isso é o que temos verificado, e as coisas são assim.
+Escute e aceite isso.”
+
+'''
+
+xref:018-jo/018-jo-004.adoc#v18-4-0[&#60; Capítulo Anterior] | <<v18-5-0,Topo>> | xref:018-jo/018-jo-006.adoc#v18-6-0[Próximo Capítulo &#62;]

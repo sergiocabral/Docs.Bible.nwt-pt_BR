@@ -1,0 +1,92 @@
+include::./index.adoc[]
+
+[[v19-85-0]]
+=== Salmos, 85
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Para o regente. Dos filhos de Corá. Salmo._
+
+[[v19-85-1]]
+
+^<<v19-85-1,1>>^ Mostraste favor à tua terra, ó Jeová;
+Trouxeste de volta os de Jacó que foram levados cativos.
+
+[[v19-85-2]]
+
+^<<v19-85-2,2>>^ Perdoaste o erro do teu povo,
+Perdoaste^&#42;1^ todos os seus pecados. (Selá)
+
+[NOTE]
+====
+. Lit.: “Cobriste”.
+====
+
+[[v19-85-3]]
+
+^<<v19-85-3,3>>^ Refreaste toda a tua fúria
+E te afastaste da tua ira ardente.
+
+[[v19-85-4]]
+
+^<<v19-85-4,4>>^ Restabelece-nos,^&#42;1^ ó Deus da nossa salvação,
+E põe de lado o teu desagrado para conosco.
+
+[NOTE]
+====
+. Ou: “Ajunta-nos novamente”.
+====
+
+[[v19-85-5]]
+
+^<<v19-85-5,5>>^ Ficarás furioso conosco para sempre?
+Prolongarás a tua ira geração após geração?
+
+[[v19-85-6]]
+
+^<<v19-85-6,6>>^ Não nos farás viver novamente
+Para que o teu povo se alegre em ti?
+
+[[v19-85-7]]
+
+^<<v19-85-7,7>>^ Mostra-nos o teu amor leal, ó Jeová,
+E concede-nos a tua salvação.
+
+[[v19-85-8]]
+
+^<<v19-85-8,8>>^ Ouvirei o que o verdadeiro Deus, Jeová, vai dizer,
+Pois proclamará paz ao seu povo, aos que lhe são leais;
+Mas que eles não voltem a ser autoconfiantes.
+
+[[v19-85-9]]
+
+^<<v19-85-9,9>>^ A salvação da parte dele certamente está perto dos que o temem,
+Para que a glória dele resida em nossa terra.
+
+[[v19-85-10]]
+
+^<<v19-85-10,10>>^ O amor leal e a fidelidade se encontrarão;
+A justiça e a paz se beijarão.
+
+[[v19-85-11]]
+
+^<<v19-85-11,11>>^ A fidelidade brotará da terra,
+E a justiça olhará para baixo desde os céus.
+
+[[v19-85-12]]
+
+^<<v19-85-12,12>>^ Sim, Jeová dará o que é bom,^&#42;1^
+E a nossa terra produzirá a sua colheita.
+
+[NOTE]
+====
+. Ou: “dará prosperidade”.
+====
+
+[[v19-85-13]]
+
+^<<v19-85-13,13>>^ A justiça andará diante dele
+E fará um caminho para os seus passos.
+
+'''
+
+xref:019-salmo/019-salmo-084.adoc#v19-84-0[&#60; Capítulo Anterior] | <<v19-85-0,Topo>> | xref:019-salmo/019-salmo-086.adoc#v19-86-0[Próximo Capítulo &#62;]

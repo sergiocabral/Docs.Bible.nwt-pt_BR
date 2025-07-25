@@ -1,0 +1,32 @@
+include::../index.adoc[]
+
+[[v7-0-0]]
+== Juízes
+
+[cols="8*^"]
+|===
+| xref:007-juizes/007-juizes-001.adoc#v7-1-0[1]
+| xref:007-juizes/007-juizes-002.adoc#v7-2-0[2]
+| xref:007-juizes/007-juizes-003.adoc#v7-3-0[3]
+| xref:007-juizes/007-juizes-004.adoc#v7-4-0[4]
+| xref:007-juizes/007-juizes-005.adoc#v7-5-0[5]
+| xref:007-juizes/007-juizes-006.adoc#v7-6-0[6]
+| xref:007-juizes/007-juizes-007.adoc#v7-7-0[7]
+| xref:007-juizes/007-juizes-008.adoc#v7-8-0[8]
+| xref:007-juizes/007-juizes-009.adoc#v7-9-0[9]
+| xref:007-juizes/007-juizes-010.adoc#v7-10-0[10]
+| xref:007-juizes/007-juizes-011.adoc#v7-11-0[11]
+| xref:007-juizes/007-juizes-012.adoc#v7-12-0[12]
+| xref:007-juizes/007-juizes-013.adoc#v7-13-0[13]
+| xref:007-juizes/007-juizes-014.adoc#v7-14-0[14]
+| xref:007-juizes/007-juizes-015.adoc#v7-15-0[15]
+| xref:007-juizes/007-juizes-016.adoc#v7-16-0[16]
+| xref:007-juizes/007-juizes-017.adoc#v7-17-0[17]
+| xref:007-juizes/007-juizes-018.adoc#v7-18-0[18]
+| xref:007-juizes/007-juizes-019.adoc#v7-19-0[19]
+| xref:007-juizes/007-juizes-020.adoc#v7-20-0[20]
+| xref:007-juizes/007-juizes-021.adoc#v7-21-0[21]
+|
+|
+|
+|===

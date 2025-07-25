@@ -1,0 +1,135 @@
+include::./index.adoc[]
+
+[[v13-15-0]]
+=== O Primeiro das Crônicas, 15
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v13-15-1]]
+
+^<<v13-15-1,1>>^ E Davi continuou a construir casas para si na Cidade de Davi; ele também preparou um lugar para a Arca do verdadeiro Deus e armou uma tenda para ela.
+
+[[v13-15-2]]
+
+^<<v13-15-2,2>>^ Davi disse então: “Ninguém, a não ser os levitas, deve carregar a Arca do verdadeiro Deus, pois Jeová escolheu a eles para carregar a Arca de Jeová e para estar sempre a seu serviço.”
+
+[[v13-15-3]]
+
+^<<v13-15-3,3>>^ Então Davi reuniu todo o Israel em Jerusalém para trazer a Arca de Jeová ao lugar que ele havia preparado para ela.
+
+[[v13-15-4]]
+
+^<<v13-15-4,4>>^ Davi reuniu os descendentes de Arão e os levitas:
+
+[[v13-15-5]]
+
+^<<v13-15-5,5>>^ dos coatitas havia Uriel, o chefe, e 120 dos seus irmãos;
+
+[[v13-15-6]]
+
+^<<v13-15-6,6>>^ dos meraritas havia Asaías, o chefe, e 220 dos seus irmãos;
+
+[[v13-15-7]]
+
+^<<v13-15-7,7>>^ dos gersonitas havia Joel, o chefe, e 130 dos seus irmãos;
+
+[[v13-15-8]]
+
+^<<v13-15-8,8>>^ dos descendentes de Elizafã havia Semaías, o chefe, e 200 dos seus irmãos;
+
+[[v13-15-9]]
+
+^<<v13-15-9,9>>^ dos descendentes de Hebrom havia Eliel, o chefe, e 80 dos seus irmãos;
+
+[[v13-15-10]]
+
+^<<v13-15-10,10>>^ e dos descendentes de Uziel havia Aminadabe, o chefe, e 112 dos seus irmãos.
+
+[[v13-15-11]]
+
+^<<v13-15-11,11>>^ Então Davi chamou os sacerdotes Zadoque e Abiatar, e os levitas Uriel, Asaías, Joel, Semaías, Eliel e Aminadabe,
+
+[[v13-15-12]]
+
+^<<v13-15-12,12>>^ e lhes disse: “Vocês são os cabeças das casas paternas dos levitas. Santifiquem-se, vocês e seus irmãos, e tragam a Arca de Jeová, o Deus de Israel, ao lugar que preparei para ela.
+
+[[v13-15-13]]
+
+^<<v13-15-13,13>>^ Visto que da primeira vez vocês não a carregaram, a ira de Jeová, nosso Deus, irrompeu contra nós, pois não procuramos saber qual era o procedimento correto.”
+
+[[v13-15-14]]
+
+^<<v13-15-14,14>>^ Então os sacerdotes e os levitas se santificaram para trazer a Arca de Jeová, o Deus de Israel.
+
+[[v13-15-15]]
+
+^<<v13-15-15,15>>^ E os levitas carregaram a Arca do verdadeiro Deus com os varais sobre os ombros, assim como Moisés havia ordenado segundo a palavra de Jeová.
+
+[[v13-15-16]]
+
+^<<v13-15-16,16>>^ Davi disse aos chefes dos levitas que designassem os seus irmãos cantores para cantar com alegria, acompanhados por instrumentos musicais: instrumentos de cordas, harpas e címbalos.
+
+[[v13-15-17]]
+
+^<<v13-15-17,17>>^ Assim, os levitas designaram Hemã, filho de Joel; e dos irmãos dele designaram Asafe, filho de Berequias; e dos seus irmãos meraritas designaram Etã, filho de Cusaías.
+
+[[v13-15-18]]
+
+^<<v13-15-18,18>>^ Junto com eles havia seus irmãos da segunda turma: Zacarias, Bene, Jaaziel, Semiramote, Jeiel, Uni, Eliabe, Benaia, Maaseias, Matitias, Elifeleu, Micneias, e os porteiros Obede-Edom e Jeiel.
+
+[[v13-15-19]]
+
+^<<v13-15-19,19>>^ Os cantores Hemã, Asafe e Etã deviam tocar os címbalos de cobre;
+
+[[v13-15-20]]
+
+^<<v13-15-20,20>>^ Zacarias, Aziel, Semiramote, Jeiel, Uni, Eliabe, Maaseias e Benaia tocavam instrumentos de cordas afinados em alamote;^&#42;1^
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v13-15-21]]
+
+^<<v13-15-21,21>>^ e Matitias, Elifeleu, Micneias, Obede-Edom, Jeiel e Azazias tocavam harpas afinadas em seminite,^&#42;1^ atuando como regentes.
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v13-15-22]]
+
+^<<v13-15-22,22>>^ Quenanias, chefe dos levitas, supervisionava o transporte da Arca, pois era entendido nisso;
+
+[[v13-15-23]]
+
+^<<v13-15-23,23>>^ e os porteiros Berequias e Elcana ficavam junto à Arca.
+
+[[v13-15-24]]
+
+^<<v13-15-24,24>>^ Os sacerdotes Sebanias, Josafá, Netanel, Amasai, Zacarias, Benaia e Eliézer tocavam alto as trombetas diante da Arca do verdadeiro Deus, e os porteiros Obede-Edom e Jeías também ficavam junto à Arca.
+
+[[v13-15-25]]
+
+^<<v13-15-25,25>>^ Assim Davi, os anciãos de Israel e os chefes de mil foram com alegria à casa de Obede-Edom para buscar a Arca do Pacto de Jeová.
+
+[[v13-15-26]]
+
+^<<v13-15-26,26>>^ Visto que o verdadeiro Deus estava ajudando os levitas que carregavam a Arca do Pacto de Jeová, eles sacrificaram sete novilhos e sete carneiros.
+
+[[v13-15-27]]
+
+^<<v13-15-27,27>>^ Davi usava uma túnica sem mangas de tecido fino, assim como todos os levitas que carregavam a Arca, os cantores e Quenanias, encarregado do transporte da Arca e dos cantores. Davi também usava um éfode de linho.
+
+[[v13-15-28]]
+
+^<<v13-15-28,28>>^ Todos os israelitas estavam levando a Arca do Pacto de Jeová com gritos de alegria e ao som da buzina, das trombetas e dos címbalos, tocando alto os instrumentos de cordas e as harpas.
+
+[[v13-15-29]]
+
+^<<v13-15-29,29>>^ Mas, quando a Arca do Pacto de Jeová chegou à Cidade de Davi, Mical, filha de Saul, olhou pela janela e viu o rei Davi pulando e festejando; e ela começou a desprezá-lo no coração.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-014.adoc#v13-14-0[&#60; Capítulo Anterior] | <<v13-15-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-016.adoc#v13-16-0[Próximo Capítulo &#62;]

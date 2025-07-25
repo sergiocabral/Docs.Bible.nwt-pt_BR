@@ -1,0 +1,129 @@
+include::./index.adoc[]
+
+[[v19-7-0]]
+=== Salmos, 7
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Lamentação de Davi, que ele cantou a Jeová a respeito das palavras de Cuche, o benjaminita._
+
+[[v19-7-1]]
+
+^<<v19-7-1,1>>^ Ó Jeová, meu Deus, em ti me refugiei.
+Salva-me de todos os que me perseguem e livra-me.
+
+[[v19-7-2]]
+
+^<<v19-7-2,2>>^ Senão, eles vão me dilacerar^&#42;1^ como leões,
+Apanhando-me sem que alguém me livre.
+
+[NOTE]
+====
+. Ou: “dilacerar a minha alma”.
+====
+
+[[v19-7-3]]
+
+^<<v19-7-3,3>>^ Ó Jeová, meu Deus, se errei assim,
+Se agi de modo injusto,
+
+[[v19-7-4]]
+
+^<<v19-7-4,4>>^ Se fiz o mal àquele que me fez o bem,
+Ou se, sem motivo, despojei meu inimigo,^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “Enquanto eu poupava aquele que se opõe a mim sem motivo”.
+====
+
+[[v19-7-5]]
+
+^<<v19-7-5,5>>^ Então que um inimigo me persiga e alcance,^&#42;1^
+Que esmague a minha vida no chão
+E faça a minha glória perecer no pó. (Selá)
+
+[NOTE]
+====
+. Ou: “persiga e alcance a minha alma”.
+====
+
+[[v19-7-6]]
+
+^<<v19-7-6,6>>^ Levanta-te na tua ira, ó Jeová;
+Enfrenta a fúria dos meus inimigos;
+Desperta por mim, e exige que seja feita justiça.
+
+[[v19-7-7]]
+
+^<<v19-7-7,7>>^ Que as nações te rodeiem;
+E tu, do alto, agirás contra elas.
+
+[[v19-7-8]]
+
+^<<v19-7-8,8>>^ Jeová julgará os povos.
+Julga-me, ó Jeová, segundo a minha retidão
+E segundo a minha integridade.
+
+[[v19-7-9]]
+
+^<<v19-7-9,9>>^ Por favor, põe um fim às más ações dos perversos,
+Mas dá firmeza aos justos;
+Pois tu és o Deus justo, que examina o coração e as emoções mais profundas.^&#42;1^
+
+[NOTE]
+====
+. Ou: “que testa os corações e os rins”.
+====
+
+[[v19-7-10]]
+
+^<<v19-7-10,10>>^ Deus é meu escudo, o Salvador dos que são retos de coração.
+
+[[v19-7-11]]
+
+^<<v19-7-11,11>>^ Deus é justo Juiz;
+Deus proclama seus julgamentos^&#42;1^ todos os dias.
+
+[NOTE]
+====
+. Ou: “despeja condenações”.
+====
+
+[[v19-7-12]]
+
+^<<v19-7-12,12>>^ Se alguém não se arrepende, Ele afia a sua espada;
+Ele arma o seu arco e o prepara.
+
+[[v19-7-13]]
+
+^<<v19-7-13,13>>^ Ele apronta as suas armas mortais;
+Ele prepara as suas flechas chamejantes.
+
+[[v19-7-14]]
+
+^<<v19-7-14,14>>^ Vejam aquele que está gerando a maldade;
+Ele concebe desgraça e dá à luz mentiras.
+
+[[v19-7-15]]
+
+^<<v19-7-15,15>>^ Cava um buraco e o aprofunda;
+Mas cai na própria cova que fez.
+
+[[v19-7-16]]
+
+^<<v19-7-16,16>>^ A desgraça que ele causa voltará sobre a sua própria cabeça;
+Sua violência recairá sobre o alto da sua cabeça.
+
+[[v19-7-17]]
+
+^<<v19-7-17,17>>^ Louvarei a Jeová pela sua justiça;
+Cantarei louvores^&#42;1^ ao nome de Jeová, o Altíssimo.
+
+[NOTE]
+====
+. Ou: “Farei música”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-006.adoc#v19-6-0[&#60; Capítulo Anterior] | <<v19-7-0,Topo>> | xref:019-salmo/019-salmo-008.adoc#v19-8-0[Próximo Capítulo &#62;]

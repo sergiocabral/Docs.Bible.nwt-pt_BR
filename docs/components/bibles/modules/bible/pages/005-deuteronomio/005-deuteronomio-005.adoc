@@ -1,0 +1,181 @@
+include::./index.adoc[]
+
+[[v5-5-0]]
+=== Deuteronômio, 5
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v5-5-1]]
+
+^<<v5-5-1,1>>^ Então Moisés convocou todo o Israel e lhes disse: “Ouça, ó Israel, os decretos e as decisões judiciais que hoje lhes falo. Vocês devem aprendê-los e obedecê-los cuidadosamente.
+
+[[v5-5-2]]
+
+^<<v5-5-2,2>>^ Jeová, nosso Deus, fez um pacto conosco em Horebe.
+
+[[v5-5-3]]
+
+^<<v5-5-3,3>>^ Não foi com os nossos antepassados que Jeová fez esse pacto, mas conosco, todos os que hoje estamos aqui vivos.
+
+[[v5-5-4]]
+
+^<<v5-5-4,4>>^ Jeová falou face a face com vocês no monte, do meio do fogo.
+
+[[v5-5-5]]
+
+^<<v5-5-5,5>>^ Naquela ocasião, visto que vocês estavam com medo por causa do fogo e não subiram ao monte, eu estava de pé entre Jeová e vocês para lhes transmitir a palavra de Jeová. Ele disse:
+
+[[v5-5-6]]
+
+^<<v5-5-6,6>>^ “‘Eu sou Jeová, seu Deus, que o tirou da terra do Egito, a terra da escravidão.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “casa dos escravos”.
+====
+
+[[v5-5-7]]
+
+^<<v5-5-7,7>>^ Nunca tenha outros deuses além de mim.^&#42;1^
+
+[NOTE]
+====
+. Ou: “em oposição a mim”. Lit.: “contra a minha face”.
+====
+
+[[v5-5-8]]
+
+^<<v5-5-8,8>>^ “‘Não faça para você imagem esculpida, nem representação de algo que há nos céus, em cima, ou na terra, embaixo, ou nas águas abaixo da terra.
+
+[[v5-5-9]]
+
+^<<v5-5-9,9>>^ Não se curve diante delas nem as sirva, pois eu, Jeová, seu Deus, sou um Deus que exige devoção exclusiva e traz punição pelo erro dos pais sobre os filhos, sobre a terceira geração e sobre a quarta geração daqueles que me odeiam,
+
+[[v5-5-10]]
+
+^<<v5-5-10,10>>^ mas que demonstra amor leal^&#42;1^ até pela milésima geração daqueles que me amam e guardam os meus mandamentos.
+
+[NOTE]
+====
+. Ou: “bondade”.
+====
+
+[[v5-5-11]]
+
+^<<v5-5-11,11>>^ “‘Não use o nome de Jeová, seu Deus, em vão,^&#42;1^ pois Jeová não deixará impune ninguém que usar seu nome em vão.
+
+[NOTE]
+====
+. Ou: “de um modo fútil”.
+====
+
+[[v5-5-12]]
+
+^<<v5-5-12,12>>^ “‘Guarde o dia de sábado para mantê-lo sagrado, assim como Jeová, seu Deus, lhe ordenou.
+
+[[v5-5-13]]
+
+^<<v5-5-13,13>>^ Trabalhe e faça todas as suas tarefas durante seis dias,
+
+[[v5-5-14]]
+
+^<<v5-5-14,14>>^ mas o sétimo dia é um sábado para Jeová, seu Deus. Não faça nenhum trabalho, nem você, nem seu filho, nem sua filha, nem seu escravo, nem sua escrava, nem seu touro, nem seu jumento, nem nenhum dos seus animais domésticos, nem seu residente estrangeiro, que está dentro das suas cidades,^&#42;1^ a fim de que seu escravo e sua escrava descansem como você.
+
+[NOTE]
+====
+. Ou: “dos seus portões”.
+====
+
+[[v5-5-15]]
+
+^<<v5-5-15,15>>^ Lembre-se de que você se tornou escravo na terra do Egito e que Jeová, seu Deus, o tirou de lá com mão poderosa e braço estendido. É por isso que Jeová, seu Deus, mandou que você guardasse o dia de sábado.
+
+[[v5-5-16]]
+
+^<<v5-5-16,16>>^ “‘Honre seu pai e sua mãe, como Jeová, seu Deus, lhe ordenou, para que você viva por muito tempo e seja bem-sucedido^&#42;1^ na terra que Jeová, seu Deus, lhe dá.
+
+[NOTE]
+====
+. Ou: “e tudo vá bem com você”.
+====
+
+[[v5-5-17]]
+
+^<<v5-5-17,17>>^ “‘Não assassine.
+
+[[v5-5-18]]
+
+^<<v5-5-18,18>>^ “‘Não cometa adultério.
+
+[[v5-5-19]]
+
+^<<v5-5-19,19>>^ “‘Não furte.
+
+[[v5-5-20]]
+
+^<<v5-5-20,20>>^ “‘Não dê falso testemunho contra o seu próximo.
+
+[[v5-5-21]]
+
+^<<v5-5-21,21>>^ “‘Não deseje a esposa do seu próximo. Não deseje egoistamente a casa do seu próximo, nem seu campo, nem seu escravo, nem sua escrava, nem seu touro, nem seu jumento, nem coisa alguma que pertença ao seu próximo.’
+
+[[v5-5-22]]
+
+^<<v5-5-22,22>>^ “Jeová falou esses mandamentos^&#42;1^ no monte a toda a congregação, do meio do fogo, da nuvem e das densas trevas, com voz alta, e não acrescentou mais nada. Depois os escreveu em duas tábuas de pedra e as deu a mim.
+
+[NOTE]
+====
+. Lit.: “essas palavras”.
+====
+
+[[v5-5-23]]
+
+^<<v5-5-23,23>>^ “Mas, assim que vocês ouviram a voz do meio da escuridão, enquanto o monte ardia em chamas, todos os cabeças das suas tribos e todos os anciãos se aproximaram de mim.
+
+[[v5-5-24]]
+
+^<<v5-5-24,24>>^ Vocês disseram: ‘Jeová, nosso Deus, nos mostrou a sua glória e a sua grandeza, e ouvimos a sua voz do meio do fogo. Hoje vimos que Deus pode falar com o homem e que este pode continuar vivo.
+
+[[v5-5-25]]
+
+^<<v5-5-25,25>>^ Mas agora, por que deveríamos morrer? Este grande fogo pode nos consumir. Se continuarmos a ouvir a voz de Jeová, nosso Deus, com certeza morreremos.
+
+[[v5-5-26]]
+
+^<<v5-5-26,26>>^ Pois quem dentre toda a humanidade^&#42;1^ já ouviu a voz do Deus vivente falar do meio do fogo, assim como nós ouvimos, e continua vivo?
+
+[NOTE]
+====
+. Lit.: “carne”.
+====
+
+[[v5-5-27]]
+
+^<<v5-5-27,27>>^ Aproxime-se para ouvir tudo o que Jeová, nosso Deus, disser. Será você quem nos falará tudo o que Jeová, nosso Deus, lhe disser, e nós escutaremos e o faremos.’
+
+[[v5-5-28]]
+
+^<<v5-5-28,28>>^ “Assim, Jeová ouviu as palavras que vocês me falaram, e Jeová me disse: ‘Ouvi as palavras que este povo lhe falou. O que eles disseram é bom.
+
+[[v5-5-29]]
+
+^<<v5-5-29,29>>^ Quem dera que eles sempre tivessem o coração inclinado para me temer e guardar todos os meus mandamentos, tudo iria bem com eles e com os seus filhos, para sempre!
+
+[[v5-5-30]]
+
+^<<v5-5-30,30>>^ Vá e diga-lhes: “Voltem às suas tendas.”
+
+[[v5-5-31]]
+
+^<<v5-5-31,31>>^ Mas você deve ficar aqui comigo; vou lhe dizer todos os mandamentos, os decretos e as decisões judiciais que lhes deve ensinar e que eles obedecerão na terra que lhes dou para tomarem posse dela.’
+
+[[v5-5-32]]
+
+^<<v5-5-32,32>>^ Agora vocês devem ter o cuidado de fazer assim como Jeová, seu Deus, lhes ordenou. Não se desviem nem para a direita nem para a esquerda.
+
+[[v5-5-33]]
+
+^<<v5-5-33,33>>^ Vocês devem andar sempre no caminho que Jeová, seu Deus, lhes ordenou, para que vivam, sejam bem-sucedidos e prolonguem os seus dias na terra da qual tomarão posse.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-004.adoc#v5-4-0[&#60; Capítulo Anterior] | <<v5-5-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-006.adoc#v5-6-0[Próximo Capítulo &#62;]

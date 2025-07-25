@@ -1,0 +1,75 @@
+include::./index.adoc[]
+
+[[v19-113-0]]
+=== Salmos, 113
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v19-113-1]]
+
+^<<v19-113-1,1>>^ Louvem a Jah!^&#42;1^
+Deem louvor a ele, servos de Jeová,
+Louvem o nome de Jeová.
+
+[NOTE]
+====
+. Ou: “Aleluia!” “Jah” é uma forma reduzida do nome Jeová.
+====
+
+[[v19-113-2]]
+
+^<<v19-113-2,2>>^ Seja louvado o nome de Jeová,
+Desde agora e para sempre.
+
+[[v19-113-3]]
+
+^<<v19-113-3,3>>^ Desde o nascente do sol até o poente,
+Seja louvado o nome de Jeová.
+
+[[v19-113-4]]
+
+^<<v19-113-4,4>>^ Jeová está bem acima de todas as nações;
+Sua glória é mais elevada do que os céus.
+
+[[v19-113-5]]
+
+^<<v19-113-5,5>>^ Quem é semelhante a Jeová, nosso Deus,
+Aquele que mora^&#42;1^ nas alturas?
+
+[NOTE]
+====
+. Ou: “está sentado em seu trono”.
+====
+
+[[v19-113-6]]
+
+^<<v19-113-6,6>>^ Ele se abaixa para observar o céu e a terra,
+
+[[v19-113-7]]
+
+^<<v19-113-7,7>>^ Levanta o humilde do pó.
+Ele ergue o pobre das cinzas^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “do depósito de lixo”.
+====
+
+[[v19-113-8]]
+
+^<<v19-113-8,8>>^ Para fazê-lo sentar-se com os nobres,
+Com os nobres do seu povo.
+
+[[v19-113-9]]
+
+^<<v19-113-9,9>>^ Ele dá um lar à mulher estéril
+E faz dela uma mãe feliz, com filhos.
+Louvem a Jah!^&#42;1^
+
+[NOTE]
+====
+. Ou: “Aleluia!” “Jah” é uma forma reduzida do nome Jeová.
+====
+
+'''
+
+xref:019-salmo/019-salmo-112.adoc#v19-112-0[&#60; Capítulo Anterior] | <<v19-113-0,Topo>> | xref:019-salmo/019-salmo-114.adoc#v19-114-0[Próximo Capítulo &#62;]

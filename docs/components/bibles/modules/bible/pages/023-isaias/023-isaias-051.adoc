@@ -1,0 +1,225 @@
+include::./index.adoc[]
+
+[[v23-51-0]]
+=== Isaías, 51
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v23-51-1]]
+
+^<<v23-51-1,1>>^ “Escutem-me, vocês que buscam a justiça,
+Que procuram a Jeová.
+Olhem para a rocha de onde foram cortados
+E para a pedreira de onde foram extraídos.
+
+[[v23-51-2]]
+
+^<<v23-51-2,2>>^ Olhem para Abraão, seu pai,
+E para Sara, que os deu à luz.^&#42;1^
+Pois ele era apenas um quando o chamei,
+E eu o abençoei e o tornei numeroso.
+
+[NOTE]
+====
+. Ou: “deu à luz com dores de parto”.
+====
+
+[[v23-51-3]]
+
+^<<v23-51-3,3>>^ Porque Jeová consolará Sião.
+Trará consolo a todas as suas ruínas;
+Fará o seu deserto igual ao Éden,
+E a sua planície desértica igual ao jardim de Jeová.
+Nela haverá exultação e alegria,
+Agradecimentos e belos cânticos.
+
+[[v23-51-4]]
+
+^<<v23-51-4,4>>^ Preste atenção a mim, ó meu povo,
+E dê-me ouvidos, minha nação.
+Pois de mim sairá uma lei,
+E estabelecerei a minha justiça como uma luz para os povos.
+
+[[v23-51-5]]
+
+^<<v23-51-5,5>>^ A minha justiça se aproxima.
+A minha salvação está chegando,
+E os meus braços executarão o julgamento dos povos.
+As ilhas depositarão sua esperança em mim
+E por meu braço^&#42;1^ esperarão.
+
+[NOTE]
+====
+. Ou: “poder”.
+====
+
+[[v23-51-6]]
+
+^<<v23-51-6,6>>^ Levantem os olhos para os céus
+E olhem para a terra embaixo.
+Pois os céus se dispersarão como fumaça;
+A terra se gastará como uma roupa,
+E os seus habitantes morrerão como mosquitos.
+Mas a minha salvação será eterna,
+E a minha justiça jamais falhará.^&#42;1^
+
+[NOTE]
+====
+. Ou: “não será despedaçada”.
+====
+
+[[v23-51-7]]
+
+^<<v23-51-7,7>>^ Escutem-me, vocês que conhecem a justiça,
+Povo que tem a minha lei^&#42;1^ no coração.
+Não tenham medo da zombaria de homens mortais,
+Nem fiquem apavorados por causa dos seus insultos.
+
+[NOTE]
+====
+. Ou: “instrução”.
+====
+
+[[v23-51-8]]
+
+^<<v23-51-8,8>>^ Porque a traça os consumirá como se fossem uma roupa;
+A traça da roupa^&#42;1^ os devorará como se fossem lã.
+Mas a minha justiça durará para sempre;
+E a minha salvação, por todas as gerações.”
+
+[NOTE]
+====
+. Ou, possivelmente: “O verme”.
+====
+
+[[v23-51-9]]
+
+^<<v23-51-9,9>>^ Desperta! Desperta! Reveste-te de força,
+Ó braço de Jeová!
+Desperta como fizeste antigamente, como nas gerações passadas.
+Não foste tu que despedaçaste Raabe,^&#42;1^
+Que traspassaste o monstro marinho?
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v23-51-10]]
+
+^<<v23-51-10,10>>^ Não foste tu aquele que secou o mar, as vastas águas profundas?
+Aquele que fez do fundo do mar um caminho para que os resgatados passassem?
+
+[[v23-51-11]]
+
+^<<v23-51-11,11>>^ Os remidos de Jeová retornarão.
+Eles chegarão a Sião com gritos de alegria,
+E serão coroados com^&#42;1^ alegria eterna.
+Ficarão cheios de exultação e alegria,
+E o pesar e o gemido desaparecerão.
+
+[NOTE]
+====
+. Lit.: “estará sobre a sua cabeça”.
+====
+
+[[v23-51-12]]
+
+^<<v23-51-12,12>>^ “Eu sou Aquele que os consola.
+Por que ter medo do homem mortal, que perece,
+E do filho do homem, que murcha como a relva?
+
+[[v23-51-13]]
+
+^<<v23-51-13,13>>^ Por que você se esquece de Jeová, aquele que o fez,
+Aquele que estendeu os céus e lançou o alicerce da terra?
+Você estava sempre apavorado, o dia inteiro, por causa da fúria do opressor,^&#42;1^
+Como se ele pudesse destruí-lo.
+Onde está agora a fúria do opressor?
+
+[NOTE]
+====
+. Ou: “daquele que o cerca”.
+====
+
+[[v23-51-14]]
+
+^<<v23-51-14,14>>^ O cativo encurvado será solto sem demora;
+Ele não morrerá nem descerá à cova,
+Nem lhe faltará pão.
+
+[[v23-51-15]]
+
+^<<v23-51-15,15>>^ Mas eu sou Jeová, seu Deus,
+Aquele que faz o mar ficar revolto e agita as suas ondas;
+Jeová dos exércitos é o meu^&#42;1^ nome.
+
+[NOTE]
+====
+. Ou: “seu”.
+====
+
+[[v23-51-16]]
+
+^<<v23-51-16,16>>^ Porei as minhas palavras na sua boca
+E cobrirei você com a sombra da minha mão,
+A fim de estabelecer os céus e lançar o alicerce da terra
+E dizer a Sião: ‘Você é o meu povo.’
+
+[[v23-51-17]]
+
+^<<v23-51-17,17>>^ Desperte! Desperte! Levante-se, ó Jerusalém,
+Você que bebeu da mão de Jeová o cálice do seu furor.
+Você bebeu a taça;
+Você esvaziou o cálice que atordoa.
+
+[[v23-51-18]]
+
+^<<v23-51-18,18>>^ Nenhum dos filhos que ela deu à luz está lá para conduzi-la;
+E nenhum dos filhos que ela criou segurou a sua mão.
+
+[[v23-51-19]]
+
+^<<v23-51-19,19>>^ Estas duas coisas lhe sobrevieram.
+Quem terá compaixão de você?
+Destruição e ruína, fome e espada!
+Quem a consolará?
+
+[[v23-51-20]]
+
+^<<v23-51-20,20>>^ Seus filhos desmaiaram.
+Estão caídos em todas as esquinas^&#42;1^
+Como ovelhas selvagens na rede.
+Estão cheios do furor de Jeová, da repreensão de seu Deus.”
+
+[NOTE]
+====
+. Lit.: “na cabeça de todas as ruas”.
+====
+
+[[v23-51-21]]
+
+^<<v23-51-21,21>>^ Portanto, escute isto, por favor,
+Ó mulher atribulada e embriagada, mas não de vinho.
+
+[[v23-51-22]]
+
+^<<v23-51-22,22>>^ Assim diz o seu Senhor, Jeová, seu Deus, que defende o seu povo:
+“Veja, vou tirar da sua mão o cálice que atordoa,
+A taça, o cálice do meu furor;
+Você nunca mais beberá dele.
+
+[[v23-51-23]]
+
+^<<v23-51-23,23>>^ Vou colocá-lo nas mãos dos seus atormentadores,
+Dos que lhe disseram:^&#42;1^ ‘Deite-se, para que possamos passar por cima!’
+De modo que você fez as suas costas como o chão,
+Como uma rua para eles passarem.”
+
+[NOTE]
+====
+. Ou: “que disseram à sua alma”.
+====
+
+'''
+
+xref:023-isaias/023-isaias-050.adoc#v23-50-0[&#60; Capítulo Anterior] | <<v23-51-0,Topo>> | xref:023-isaias/023-isaias-052.adoc#v23-52-0[Próximo Capítulo &#62;]

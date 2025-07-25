@@ -1,0 +1,37 @@
+include::./index.adoc[]
+
+[[v19-134-0]]
+=== Salmos, 134
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Cântico das Subidas._
+
+[[v19-134-1]]
+
+^<<v19-134-1,1>>^ Louvem a Jeová,
+Todos vocês, servos de Jeová,
+Que durante as noites servem^&#42;1^ na casa de Jeová.
+
+[NOTE]
+====
+. Ou: “estão de pé”.
+====
+
+[[v19-134-2]]
+
+^<<v19-134-2,2>>^ Ergam as mãos em santidade^&#42;1^
+E louvem a Jeová.
+
+[NOTE]
+====
+. Ou, possivelmente: “no santuário”.
+====
+
+[[v19-134-3]]
+
+^<<v19-134-3,3>>^ Que Jeová, aquele que fez o céu e a terra,
+Abençoe você desde Sião.
+
+'''
+
+xref:019-salmo/019-salmo-133.adoc#v19-133-0[&#60; Capítulo Anterior] | <<v19-134-0,Topo>> | xref:019-salmo/019-salmo-135.adoc#v19-135-0[Próximo Capítulo &#62;]

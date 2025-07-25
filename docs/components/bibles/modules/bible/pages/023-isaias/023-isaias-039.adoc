@@ -1,0 +1,64 @@
+include::./index.adoc[]
+
+[[v23-39-0]]
+=== Isaías, 39
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v23-39-1]]
+
+^<<v23-39-1,1>>^ Naquele tempo, o rei de Babilônia, Merodaque-Baladã, filho de Baladã, enviou cartas e um presente a Ezequias, pois ouviu dizer que ele tinha ficado doente, mas já estava recuperado.
+
+[[v23-39-2]]
+
+^<<v23-39-2,2>>^ Ezequias os recebeu com alegria^&#42;1^ e mostrou-lhes a sua casa do tesouro — a prata, o ouro, o óleo de bálsamo e outros óleos preciosos, todo o seu depósito de armas e tudo o que havia no seu tesouro. Não houve nada que Ezequias não lhes mostrasse na sua casa^&#42;2^ e em todo o seu domínio.
+
+[NOTE]
+====
+. Lit.: “alegrou-se por causa deles”.
+. Ou: “no seu palácio”.
+====
+
+[[v23-39-3]]
+
+^<<v23-39-3,3>>^ Depois disso o profeta Isaías foi ao rei Ezequias e lhe perguntou: “O que esses homens disseram e de onde vieram?” Ezequias respondeu: “Vieram de uma terra distante, de Babilônia.”
+
+[[v23-39-4]]
+
+^<<v23-39-4,4>>^ Então ele perguntou: “O que eles viram na sua casa?”^&#42;1^ Ezequias respondeu: “Viram tudo o que há na minha casa.^&#42;2^ Não há nada no meu tesouro que eu não lhes tenha mostrado.”
+
+[NOTE]
+====
+. Ou: “no seu palácio”.
+. Ou: “no meu palácio”.
+====
+
+[[v23-39-5]]
+
+^<<v23-39-5,5>>^ Isaías disse então a Ezequias: “Ouça a palavra de Jeová dos exércitos:
+
+[[v23-39-6]]
+
+^<<v23-39-6,6>>^ ‘Veja, virão dias em que tudo o que há na sua casa^&#42;1^ e tudo o que os seus antepassados acumularam até hoje será levado a Babilônia. Não sobrará nada’, diz Jeová.
+
+[NOTE]
+====
+. Ou: “no seu palácio”.
+====
+
+[[v23-39-7]]
+
+^<<v23-39-7,7>>^ ‘E alguns dos seus filhos, dos quais você se tornará pai, serão levados cativos e se tornarão oficiais da corte no palácio do rei de Babilônia.’”
+
+[[v23-39-8]]
+
+^<<v23-39-8,8>>^ Então Ezequias disse a Isaías: “A palavra de Jeová que você falou é boa.” E acrescentou: “Porque haverá paz e estabilidade^&#42;1^ enquanto eu viver.”^&#42;2^
+
+[NOTE]
+====
+. Ou: “verdade”.
+. Lit.: “em meus dias”.
+====
+
+'''
+
+xref:023-isaias/023-isaias-038.adoc#v23-38-0[&#60; Capítulo Anterior] | <<v23-39-0,Topo>> | xref:023-isaias/023-isaias-040.adoc#v23-40-0[Próximo Capítulo &#62;]

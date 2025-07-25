@@ -1,0 +1,80 @@
+include::./index.adoc[]
+
+[[v66-5-0]]
+=== Apocalipse, 5
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v66-5-1]]
+
+^<<v66-5-1,1>>^ Eu vi na mão direita Daquele que estava sentado no trono um rolo escrito dos dois lados,^&#42;1^ bem selado com sete selos.
+
+[NOTE]
+====
+. Lit.: “por dentro e por fora”.
+====
+
+[[v66-5-2]]
+
+^<<v66-5-2,2>>^ Vi também um anjo forte proclamar em alta voz: “Quem é digno de abrir o rolo e de romper os seus selos?”
+
+[[v66-5-3]]
+
+^<<v66-5-3,3>>^ Mas ninguém no céu, na terra nem debaixo da terra podia abrir o rolo ou ver o que estava escrito nele.
+
+[[v66-5-4]]
+
+^<<v66-5-4,4>>^ Eu comecei a chorar muito, porque ninguém tinha sido considerado digno de abrir o rolo ou de ver o que estava escrito nele.
+
+[[v66-5-5]]
+
+^<<v66-5-5,5>>^ Mas um dos anciãos me disse: “Pare de chorar. Veja! O Leão da tribo de Judá, a raiz de Davi, venceu, de modo que ele pode abrir o rolo e os sete selos.”
+
+[[v66-5-6]]
+
+^<<v66-5-6,6>>^ E eu vi no meio^&#42;1^ do trono e das quatro criaturas viventes e no meio dos anciãos um cordeiro em pé, que parecia ter sido morto, e ele tinha sete chifres e sete olhos — os olhos representam os sete espíritos de Deus, os quais foram enviados à terra inteira.
+
+[NOTE]
+====
+. Ou: “no centro”.
+====
+
+[[v66-5-7]]
+
+^<<v66-5-7,7>>^ Imediatamente ele se aproximou e pegou o rolo da mão direita Daquele que estava sentado no trono.
+
+[[v66-5-8]]
+
+^<<v66-5-8,8>>^ Quando ele pegou o rolo, as quatro criaturas viventes e os 24 anciãos se prostraram diante do Cordeiro; cada um deles tinha uma harpa e tigelas de ouro cheias de incenso. (O incenso representa as orações dos santos.)
+
+[[v66-5-9]]
+
+^<<v66-5-9,9>>^ E cantam um novo cântico: “O senhor é digno de pegar o rolo e de abrir os seus selos, pois foi morto e com o seu sangue comprou pessoas para Deus, de toda tribo, língua, povo e nação,
+
+[[v66-5-10]]
+
+^<<v66-5-10,10>>^ e fez deles um reino e sacerdotes para o nosso Deus, e eles reinarão sobre a terra.”
+
+[[v66-5-11]]
+
+^<<v66-5-11,11>>^ Eu olhei, e ouvi a voz de muitos anjos em volta do trono, das criaturas viventes e dos anciãos, e o número deles era de miríades de miríades^&#42;1^ e milhares de milhares,
+
+[NOTE]
+====
+. Ou: “era de dezenas de milhares vezes dezenas de milhares”.
+====
+
+[[v66-5-12]]
+
+^<<v66-5-12,12>>^ e eles estavam dizendo em alta voz: “O Cordeiro que foi morto é digno de receber o poder, as riquezas, a sabedoria, a força, a honra, a glória e a bênção.”
+
+[[v66-5-13]]
+
+^<<v66-5-13,13>>^ E eu ouvi toda criatura no céu, na terra, debaixo da terra e no mar, sim, tudo que há neles, dizer: “Ao que está sentado no trono e ao Cordeiro seja a bênção, a honra, a glória e o poder para todo o sempre.”
+
+[[v66-5-14]]
+
+^<<v66-5-14,14>>^ As quatro criaturas viventes diziam: “Amém!” e os anciãos se prostraram e adoraram.
+
+'''
+
+xref:066-apocalipse/066-apocalipse-004.adoc#v66-4-0[&#60; Capítulo Anterior] | <<v66-5-0,Topo>> | xref:066-apocalipse/066-apocalipse-006.adoc#v66-6-0[Próximo Capítulo &#62;]

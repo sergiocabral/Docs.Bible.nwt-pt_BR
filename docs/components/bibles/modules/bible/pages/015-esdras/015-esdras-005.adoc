@@ -1,0 +1,115 @@
+include::./index.adoc[]
+
+[[v15-5-0]]
+=== Esdras, 5
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v15-5-1]]
+
+^<<v15-5-1,1>>^ Depois o profeta Ageu e o profeta Zacarias, neto de Ido, profetizaram aos judeus que estavam em Judá e em Jerusalém em nome do Deus de Israel, que estava sobre eles.
+
+[[v15-5-2]]
+
+^<<v15-5-2,2>>^ Foi então que Zorobabel, filho de Sealtiel, e Jesua, filho de Jeozadaque, retomaram a reconstrução da casa de Deus em Jerusalém; e os profetas de Deus estavam com eles e os apoiavam.
+
+[[v15-5-3]]
+
+^<<v15-5-3,3>>^ Naquele tempo Tatenai, governador da região ao oeste do rio Eufrates,^&#42;1^ Setar-Bozenai e os colegas deles foram lhes perguntar: “Quem lhes deu ordem para construir essa casa e terminar essa estrutura?”^&#42;2^
+
+[NOTE]
+====
+. Ou: “região Além do Rio; região do Transeufrates”.
+. Ou: “essas vigas”.
+====
+
+[[v15-5-4]]
+
+^<<v15-5-4,4>>^ Também perguntaram: “Quais são os nomes dos homens que estão trabalhando nessa construção?”
+
+[[v15-5-5]]
+
+^<<v15-5-5,5>>^ Mas Deus estava vigiando^&#42;1^ sobre os anciãos dos judeus, e ninguém os fez parar enquanto Dario não recebesse o relatório, e se enviasse de volta um documento oficial a respeito desse assunto.
+
+[NOTE]
+====
+. Lit.: “o olho do seu Deus estava”.
+====
+
+[[v15-5-6]]
+
+^<<v15-5-6,6>>^ Esta é uma cópia da carta que Tatenai, governador da região ao oeste do rio Eufrates,^&#42;1^ e Setar-Bozenai e os colegas dele, os subgovernadores da região ao oeste do rio Eufrates, enviaram ao rei Dario.
+
+[NOTE]
+====
+. Ou: “região Além do Rio; região do Transeufrates”.
+====
+
+[[v15-5-7]]
+
+^<<v15-5-7,7>>^ Enviaram-lhe um relatório nos seguintes termos:
+“Ao rei Dario:
+“Que toda a paz esteja com o senhor.
+
+[[v15-5-8]]
+
+^<<v15-5-8,8>>^ Seja do conhecimento do rei que fomos à província^&#42;1^ de Judá, à casa do grande Deus, e ela está sendo reconstruída com grandes pedras e com madeira, que está sendo colocada nas paredes. A obra está sendo feita com entusiasmo pelo povo e está avançando em resultado dos esforços deles.
+
+[NOTE]
+====
+. Ou: “ao distrito jurisdicional”.
+====
+
+[[v15-5-9]]
+
+^<<v15-5-9,9>>^ Então perguntamos aos anciãos deles: ‘Quem lhes deu ordem para construir essa casa e terminar essa estrutura?’^&#42;1^
+
+[NOTE]
+====
+. Ou: “essas vigas”.
+====
+
+[[v15-5-10]]
+
+^<<v15-5-10,10>>^ Também perguntamos os nomes deles, para que pudéssemos escrever ao senhor informando quem são os homens que estão na liderança.
+
+[[v15-5-11]]
+
+^<<v15-5-11,11>>^ “Esta foi a resposta que nos deram: ‘Somos os servos do Deus dos céus e da terra e estamos reconstruindo a casa que foi construída há muitos anos — construída e terminada por um grande rei de Israel.
+
+[[v15-5-12]]
+
+^<<v15-5-12,12>>^ No entanto, visto que os nossos pais provocaram a ira do Deus dos céus, ele os entregou nas mãos de Nabucodonosor, o caldeu, rei de Babilônia, que demoliu essa casa e levou o povo para o exílio em Babilônia.
+
+[[v15-5-13]]
+
+^<<v15-5-13,13>>^ Mas, no primeiro ano de Ciro, rei de Babilônia, o rei Ciro emitiu uma ordem para que a casa de Deus fosse reconstruída.
+
+[[v15-5-14]]
+
+^<<v15-5-14,14>>^ Além disso, o rei Ciro retirou do templo de Babilônia os utensílios de ouro e de prata da casa de Deus, que Nabucodonosor tinha retirado do templo em Jerusalém e levado ao templo de Babilônia. Os utensílios foram entregues a um homem chamado Sesbazar,^&#42;1^ a quem Ciro tinha nomeado governador.
+
+[NOTE]
+====
+. Possivelmente Zorobabel em Esdras 2:2; 3:8.
+====
+
+[[v15-5-15]]
+
+^<<v15-5-15,15>>^ Ciro lhe disse: “Leve estes utensílios. Vá, coloque-os no templo em Jerusalém; e que a casa de Deus seja reconstruída no seu lugar original.”
+
+[[v15-5-16]]
+
+^<<v15-5-16,16>>^ Então Sesbazar veio e lançou os alicerces da casa de Deus em Jerusalém; ela está em construção desde aquela época até agora, mas ainda não foi terminada.’
+
+[[v15-5-17]]
+
+^<<v15-5-17,17>>^ “Agora, se for do agrado do rei, que se faça uma investigação no tesouro real^&#42;1^ aí em Babilônia, para ver se o rei Ciro emitiu uma ordem para reconstruir essa casa de Deus em Jerusalém; e que o rei nos envie a sua decisão a respeito disso.”
+
+[NOTE]
+====
+. Ou: “nos arquivos reais”.
+====
+
+'''
+
+xref:015-esdras/015-esdras-004.adoc#v15-4-0[&#60; Capítulo Anterior] | <<v15-5-0,Topo>> | xref:015-esdras/015-esdras-006.adoc#v15-6-0[Próximo Capítulo &#62;]

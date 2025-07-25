@@ -1,0 +1,199 @@
+include::./index.adoc[]
+
+[[v4-29-0]]
+=== Números, 29
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v4-29-1]]
+
+^<<v4-29-1,1>>^ “‘E, no sétimo mês, no primeiro dia do mês, vocês devem realizar um santo congresso. Não devem fazer nenhum trabalho árduo. É um dia em que vocês devem tocar a trombeta.
+
+[[v4-29-2]]
+
+^<<v4-29-2,2>>^ Vocês apresentarão como oferta queimada de aroma agradável^&#42;1^ para Jeová um novilho, um carneiro e sete cordeiros de um ano, todos sadios.
+
+[NOTE]
+====
+. Ou: “apaziguador; calmante”. Lit.: “repousante”.
+====
+
+[[v4-29-3]]
+
+^<<v4-29-3,3>>^ E, como oferta de cereais de farinha fina misturada com azeite, três décimos de uma efa para o novilho, dois décimos para o carneiro,
+
+[[v4-29-4]]
+
+^<<v4-29-4,4>>^ e um décimo para cada um dos sete cordeiros.
+
+[[v4-29-5]]
+
+^<<v4-29-5,5>>^ E apresentarão um cabrito como oferta pelo pecado, para fazer expiação por vocês.
+
+[[v4-29-6]]
+
+^<<v4-29-6,6>>^ Apresentarão essas ofertas além da oferta queimada mensal com a correspondente oferta de cereais, e além da oferta queimada regular com a correspondente oferta de cereais, junto com as correspondentes ofertas de bebida, segundo o procedimento normal para elas, como aroma agradável,^&#42;1^ uma oferta feita por fogo a Jeová.
+
+[NOTE]
+====
+. Ou: “apaziguador; calmante”. Lit.: “repousante”.
+====
+
+[[v4-29-7]]
+
+^<<v4-29-7,7>>^ “‘E, no dia dez desse sétimo mês, vocês devem realizar um santo congresso e afligir a si mesmos.^&#42;1^ Não devem fazer nenhum trabalho.
+
+[NOTE]
+====
+. Ou: “a sua alma”. Entende-se que, em geral, a expressão “afligir a si mesmo” se refere a várias formas de abnegação, incluindo o jejum.
+====
+
+[[v4-29-8]]
+
+^<<v4-29-8,8>>^ E vocês apresentarão a Jeová como oferta queimada, como aroma agradável,^&#42;1^ um novilho, um carneiro e sete cordeiros de um ano, todos sadios.
+
+[NOTE]
+====
+. Ou: “apaziguador; calmante”. Lit.: “repousante”.
+====
+
+[[v4-29-9]]
+
+^<<v4-29-9,9>>^ E, como oferta de cereais de farinha fina misturada com azeite, três décimos para o novilho, dois décimos para o carneiro
+
+[[v4-29-10]]
+
+^<<v4-29-10,10>>^ e um décimo para cada um dos sete cordeiros.
+
+[[v4-29-11]]
+
+^<<v4-29-11,11>>^ Além disso, apresentarão um cabrito como oferta pelo pecado. Apresentem essas ofertas além da oferta pelo pecado, feita para expiação, e da oferta queimada regular com a correspondente oferta de cereais, junto com as correspondentes ofertas de bebida.
+
+[[v4-29-12]]
+
+^<<v4-29-12,12>>^ “‘E, no dia 15 do sétimo mês, vocês devem realizar um santo congresso. Não devem fazer nenhum trabalho árduo; vocês devem celebrar uma festividade para Jeová por sete dias.
+
+[[v4-29-13]]
+
+^<<v4-29-13,13>>^ E vocês apresentarão como oferta queimada, uma oferta feita por fogo, como aroma agradável^&#42;1^ para Jeová, 13 novilhos, 2 carneiros e 14 cordeiros de um ano, todos sadios.
+
+[NOTE]
+====
+. Ou: “apaziguador; calmante”. Lit.: “repousante”.
+====
+
+[[v4-29-14]]
+
+^<<v4-29-14,14>>^ E, como oferta de cereais de farinha fina misturada com azeite, três décimos para cada um dos 13 novilhos, dois décimos para cada um dos 2 carneiros
+
+[[v4-29-15]]
+
+^<<v4-29-15,15>>^ e um décimo para cada um dos 14 cordeiros.
+
+[[v4-29-16]]
+
+^<<v4-29-16,16>>^ Além disso, apresentarão um cabrito como oferta pelo pecado. Apresentem essas ofertas além da oferta queimada regular com a acompanhante oferta de cereais e de bebida.
+
+[[v4-29-17]]
+
+^<<v4-29-17,17>>^ “‘E no segundo dia: 12 novilhos, 2 carneiros e 14 cordeiros de um ano, todos sadios;
+
+[[v4-29-18]]
+
+^<<v4-29-18,18>>^ e as correspondentes ofertas de cereais e de bebida para os novilhos, para os carneiros e para os cordeiros, proporcionalmente ao seu número, segundo o procedimento normal;
+
+[[v4-29-19]]
+
+^<<v4-29-19,19>>^ e um cabrito como oferta pelo pecado. Apresentem essas ofertas além da oferta queimada regular e da oferta de cereais com as correspondentes ofertas de bebida.
+
+[[v4-29-20]]
+
+^<<v4-29-20,20>>^ “‘E no terceiro dia: 11 novilhos, 2 carneiros e 14 cordeiros de um ano, todos sadios;
+
+[[v4-29-21]]
+
+^<<v4-29-21,21>>^ e as correspondentes ofertas de cereais e de bebida para os novilhos, para os carneiros e para os cordeiros, proporcionalmente ao seu número, segundo o procedimento normal;
+
+[[v4-29-22]]
+
+^<<v4-29-22,22>>^ e um bode como oferta pelo pecado. Apresentem essas ofertas além da oferta queimada regular com a correspondente oferta de cereais e de bebida.
+
+[[v4-29-23]]
+
+^<<v4-29-23,23>>^ “‘E no quarto dia: 10 novilhos, 2 carneiros e 14 cordeiros de um ano, todos sadios;
+
+[[v4-29-24]]
+
+^<<v4-29-24,24>>^ e as correspondentes ofertas de cereais e de bebida para os novilhos, para os carneiros e para os cordeiros, proporcionalmente ao seu número, segundo o procedimento normal;
+
+[[v4-29-25]]
+
+^<<v4-29-25,25>>^ e um cabrito como oferta pelo pecado. Apresentem essas ofertas além da oferta queimada regular com a correspondente oferta de cereais e de bebida.
+
+[[v4-29-26]]
+
+^<<v4-29-26,26>>^ “‘E no quinto dia: 9 novilhos, 2 carneiros e 14 cordeiros de um ano, todos sadios;
+
+[[v4-29-27]]
+
+^<<v4-29-27,27>>^ e as correspondentes ofertas de cereais e de bebida para os novilhos, para os carneiros e para os cordeiros, proporcionalmente ao seu número, segundo o procedimento normal;
+
+[[v4-29-28]]
+
+^<<v4-29-28,28>>^ e um bode como oferta pelo pecado. Apresentem essas ofertas além da oferta queimada regular com a correspondente oferta de cereais e de bebida.
+
+[[v4-29-29]]
+
+^<<v4-29-29,29>>^ “‘E no sexto dia: 8 novilhos, 2 carneiros e 14 cordeiros de um ano, todos sadios;
+
+[[v4-29-30]]
+
+^<<v4-29-30,30>>^ e as correspondentes ofertas de cereais e de bebida para os novilhos, para os carneiros e para os cordeiros, proporcionalmente ao seu número, segundo o procedimento normal;
+
+[[v4-29-31]]
+
+^<<v4-29-31,31>>^ e um bode como oferta pelo pecado. Apresentem essas ofertas além da oferta queimada regular com a correspondente oferta de cereais e de bebida.
+
+[[v4-29-32]]
+
+^<<v4-29-32,32>>^ “‘E no sétimo dia: 7 novilhos, 2 carneiros e 14 cordeiros de um ano, todos sadios;
+
+[[v4-29-33]]
+
+^<<v4-29-33,33>>^ e as correspondentes ofertas de cereais e de bebida para os novilhos, para os carneiros e para os cordeiros, proporcionalmente ao seu número, segundo o procedimento normal para eles;
+
+[[v4-29-34]]
+
+^<<v4-29-34,34>>^ e um bode como oferta pelo pecado. Apresentem essas ofertas além da oferta queimada regular com a correspondente oferta de cereais e de bebida.
+
+[[v4-29-35]]
+
+^<<v4-29-35,35>>^ “‘No oitavo dia, vocês devem realizar uma assembleia solene. Não devem fazer nenhum trabalho árduo.
+
+[[v4-29-36]]
+
+^<<v4-29-36,36>>^ E, como oferta queimada, uma oferta feita por fogo, como aroma agradável^&#42;1^ para Jeová, vocês apresentarão um novilho, um carneiro e sete cordeiros de um ano, todos sadios;
+
+[NOTE]
+====
+. Ou: “apaziguador; calmante”. Lit.: “repousante”.
+====
+
+[[v4-29-37]]
+
+^<<v4-29-37,37>>^ e as correspondentes ofertas de cereais e de bebida para o novilho, para o carneiro e para os cordeiros, proporcionalmente ao seu número, segundo o procedimento normal;
+
+[[v4-29-38]]
+
+^<<v4-29-38,38>>^ e um bode como oferta pelo pecado. Apresentem essas ofertas além da oferta queimada regular com a correspondente oferta de cereais e de bebida.
+
+[[v4-29-39]]
+
+^<<v4-29-39,39>>^ “‘Essas são as ofertas que vocês apresentarão a Jeová nas suas festividades periódicas, além das ofertas que vocês fizerem para cumprir um voto e das suas ofertas voluntárias, na forma de ofertas queimadas, ofertas de cereais, ofertas de bebida e sacrifícios de participação em comum.’”
+
+[[v4-29-40]]
+
+^<<v4-29-40,40>>^ Moisés disse aos israelitas tudo o que Jeová lhe havia ordenado.
+
+'''
+
+xref:004-numeros/004-numeros-028.adoc#v4-28-0[&#60; Capítulo Anterior] | <<v4-29-0,Topo>> | xref:004-numeros/004-numeros-030.adoc#v4-30-0[Próximo Capítulo &#62;]

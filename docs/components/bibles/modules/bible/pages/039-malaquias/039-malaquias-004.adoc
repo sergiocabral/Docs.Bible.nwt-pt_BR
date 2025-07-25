@@ -1,0 +1,52 @@
+include::./index.adoc[]
+
+[[v39-4-0]]
+=== Malaquias, 4
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v39-4-1]]
+
+^<<v39-4-1,1>>^ “Vejam! Vem o dia, ardente como uma fornalha, quando todos os arrogantes e todos os que praticam o que é mau se tornarão como palha.^&#42;1^ O dia que virá certamente os devorará”, diz Jeová dos exércitos, “e não lhes deixará nem raiz nem ramo.
+
+[NOTE]
+====
+. Lit.: “restolho”.
+====
+
+[[v39-4-2]]
+
+^<<v39-4-2,2>>^ Mas, sobre vocês que honram^&#42;1^ o meu nome, o sol da justiça brilhará, com cura nos seus raios;^&#42;2^ e vocês saltarão como bezerros gordos”.
+
+[NOTE]
+====
+. Lit.: “temem”.
+. Lit.: “nas suas asas”.
+====
+
+[[v39-4-3]]
+
+^<<v39-4-3,3>>^ “E vocês pisarão os maus, pois eles serão como pó debaixo da sola dos seus pés no dia em que eu agir”, diz Jeová dos exércitos.
+
+[[v39-4-4]]
+
+^<<v39-4-4,4>>^ “Lembrem-se da Lei do meu servo Moisés, os decretos e as decisões judiciais que ordenei em Horebe que todo o Israel obedecesse.
+
+[[v39-4-5]]
+
+^<<v39-4-5,5>>^ “Vejam! Eu lhes enviarei Elias, o profeta, antes de chegar o grande e atemorizante dia de Jeová.
+
+[[v39-4-6]]
+
+^<<v39-4-6,6>>^ E ele fará o coração dos pais se tornar como o de filhos, e o coração dos filhos como o dos pais,^&#42;1^ para que eu não venha e golpeie a terra, entregando-a à destruição.”^&#42;2^
+
+[NOTE]
+====
+. Ou: “E ele fará o coração dos pais se voltar para os filhos, e o coração dos filhos para os pais”.
+. Ou: “devotando-a à destruição”. Veja o Glossário.
+====
+
+_(Fim da tradução das Escrituras Hebraico-Aramaicas, seguida pela tradução das Escrituras Gregas Cristãs.)_
+
+'''
+
+xref:039-malaquias/039-malaquias-003.adoc#v39-3-0[&#60; Capítulo Anterior] | <<v39-4-0,Topo>> | xref:040-mateus/040-mateus-001.adoc#v40-1-0[Próximo Capítulo &#62;]

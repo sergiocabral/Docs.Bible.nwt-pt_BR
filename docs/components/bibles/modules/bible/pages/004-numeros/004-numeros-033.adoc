@@ -1,0 +1,248 @@
+include::./index.adoc[]
+
+[[v4-33-0]]
+=== Números, 33
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v4-33-1]]
+
+^<<v4-33-1,1>>^ Estas foram as etapas da viagem do povo de Israel quando eles saíram da terra do Egito em divisões,^&#42;1^ sob a direção de Moisés e Arão.
+
+[NOTE]
+====
+. Lit.: “segundo os seus exércitos”.
+====
+
+[[v4-33-2]]
+
+^<<v4-33-2,2>>^ Conforme a ordem de Jeová, Moisés registrava os lugares de partida de cada etapa da viagem; e as etapas, de um lugar de partida a outro, foram as seguintes:
+
+[[v4-33-3]]
+
+^<<v4-33-3,3>>^ Eles partiram de Ramessés no primeiro mês, no dia 15 do mês. Logo no dia seguinte à Páscoa, os israelitas saíram confiantes^&#42;1^ diante dos olhos de todos os egípcios.
+
+[NOTE]
+====
+. Lit.: “com mão erguida”.
+====
+
+[[v4-33-4]]
+
+^<<v4-33-4,4>>^ Enquanto isso, os egípcios enterravam todos os primogênitos, que Jeová havia matado entre eles, pois Jeová havia executado julgamentos contra os seus deuses.
+
+[[v4-33-5]]
+
+^<<v4-33-5,5>>^ Assim, os israelitas partiram de Ramessés e acamparam em Sucote.
+
+[[v4-33-6]]
+
+^<<v4-33-6,6>>^ Partiram então de Sucote e acamparam em Etão, que fica na extremidade do deserto.
+
+[[v4-33-7]]
+
+^<<v4-33-7,7>>^ A seguir, partiram de Etão e voltaram para trás, em direção a Pi-Hairote, que fica em frente a Baal-Zefom, e acamparam diante de Migdol.
+
+[[v4-33-8]]
+
+^<<v4-33-8,8>>^ Depois partiram de Pi-Hairote, passaram pelo meio do mar e chegaram ao deserto; caminharam então numa viagem de três dias no deserto de Etão e acamparam em Mara.
+
+[[v4-33-9]]
+
+^<<v4-33-9,9>>^ Depois partiram de Mara e chegaram a Elim. Em Elim havia 12 fontes de água e 70 palmeiras, então acamparam ali.
+
+[[v4-33-10]]
+
+^<<v4-33-10,10>>^ A seguir, partiram de Elim e acamparam junto ao mar Vermelho.
+
+[[v4-33-11]]
+
+^<<v4-33-11,11>>^ Depois partiram do mar Vermelho e acamparam no deserto de Sim.
+
+[[v4-33-12]]
+
+^<<v4-33-12,12>>^ Partiram então do deserto de Sim e acamparam em Dofca.
+
+[[v4-33-13]]
+
+^<<v4-33-13,13>>^ Mais tarde partiram de Dofca e acamparam em Alus.
+
+[[v4-33-14]]
+
+^<<v4-33-14,14>>^ A seguir, partiram de Alus e acamparam em Refidim, onde não havia água para o povo beber.
+
+[[v4-33-15]]
+
+^<<v4-33-15,15>>^ Depois partiram de Refidim e acamparam no deserto do Sinai.
+
+[[v4-33-16]]
+
+^<<v4-33-16,16>>^ Eles partiram do deserto do Sinai e acamparam em Quibrote-Ataavá.
+
+[[v4-33-17]]
+
+^<<v4-33-17,17>>^ Partiram então de Quibrote-Ataavá e acamparam em Hazerote.
+
+[[v4-33-18]]
+
+^<<v4-33-18,18>>^ Depois partiram de Hazerote e acamparam em Ritmá.
+
+[[v4-33-19]]
+
+^<<v4-33-19,19>>^ A seguir, partiram de Ritmá e acamparam em Rimom-Peres.
+
+[[v4-33-20]]
+
+^<<v4-33-20,20>>^ Partiram então de Rimom-Peres e acamparam em Libna.
+
+[[v4-33-21]]
+
+^<<v4-33-21,21>>^ Eles partiram de Libna e acamparam em Rissa.
+
+[[v4-33-22]]
+
+^<<v4-33-22,22>>^ A seguir, partiram de Rissa e acamparam em Queelata.
+
+[[v4-33-23]]
+
+^<<v4-33-23,23>>^ Partiram então de Queelata e acamparam no monte Séfer.
+
+[[v4-33-24]]
+
+^<<v4-33-24,24>>^ Depois partiram do monte Séfer e acamparam em Harada.
+
+[[v4-33-25]]
+
+^<<v4-33-25,25>>^ Partiram então de Harada e acamparam em Maquelote.
+
+[[v4-33-26]]
+
+^<<v4-33-26,26>>^ A seguir, partiram de Maquelote e acamparam em Taate.
+
+[[v4-33-27]]
+
+^<<v4-33-27,27>>^ Depois partiram de Taate e acamparam em Tera.
+
+[[v4-33-28]]
+
+^<<v4-33-28,28>>^ Partiram então de Tera e acamparam em Mitca.
+
+[[v4-33-29]]
+
+^<<v4-33-29,29>>^ Mais tarde partiram de Mitca e acamparam em Hasmona.
+
+[[v4-33-30]]
+
+^<<v4-33-30,30>>^ A seguir, partiram de Hasmona e acamparam em Moserote.
+
+[[v4-33-31]]
+
+^<<v4-33-31,31>>^ Partiram então de Moserote e acamparam em Bene-Jaacã.
+
+[[v4-33-32]]
+
+^<<v4-33-32,32>>^ Partiram de Bene-Jaacã e acamparam em Hor-Hagidgade.
+
+[[v4-33-33]]
+
+^<<v4-33-33,33>>^ A seguir, partiram de Hor-Hagidgade e acamparam em Jotbata.
+
+[[v4-33-34]]
+
+^<<v4-33-34,34>>^ Mais tarde partiram de Jotbata e acamparam em Abrona.
+
+[[v4-33-35]]
+
+^<<v4-33-35,35>>^ Partiram então de Abrona e acamparam em Eziom-Geber.
+
+[[v4-33-36]]
+
+^<<v4-33-36,36>>^ Depois partiram de Eziom-Geber e acamparam no deserto de Zim, isto é, em Cades.
+
+[[v4-33-37]]
+
+^<<v4-33-37,37>>^ Mais tarde partiram de Cades e acamparam no monte Hor, na fronteira da terra de Edom.
+
+[[v4-33-38]]
+
+^<<v4-33-38,38>>^ E Arão, o sacerdote, subiu ao monte Hor segundo a ordem de Jeová, e ali morreu no quadragésimo ano depois de os israelitas saírem da terra do Egito, no quinto mês, no primeiro dia do mês.
+
+[[v4-33-39]]
+
+^<<v4-33-39,39>>^ Arão tinha 123 anos de idade quando morreu no monte Hor.
+
+[[v4-33-40]]
+
+^<<v4-33-40,40>>^ Então o rei de Arade, o cananeu que morava no Neguebe, na terra de Canaã, ficou sabendo da vinda dos israelitas.
+
+[[v4-33-41]]
+
+^<<v4-33-41,41>>^ Com o tempo partiram do monte Hor e acamparam em Zalmona.
+
+[[v4-33-42]]
+
+^<<v4-33-42,42>>^ Depois partiram de Zalmona e acamparam em Punom.
+
+[[v4-33-43]]
+
+^<<v4-33-43,43>>^ A seguir, partiram de Punom e acamparam em Obote.
+
+[[v4-33-44]]
+
+^<<v4-33-44,44>>^ Partiram então de Obote e acamparam em Ijé-Abarim, na fronteira de Moabe.
+
+[[v4-33-45]]
+
+^<<v4-33-45,45>>^ Mais tarde partiram de Ijim e acamparam em Dibom-Gade.
+
+[[v4-33-46]]
+
+^<<v4-33-46,46>>^ Depois partiram de Dibom-Gade e acamparam em Almom-Diblataim.
+
+[[v4-33-47]]
+
+^<<v4-33-47,47>>^ Partiram então de Almom-Diblataim e acamparam nos montes da região de Abarim, diante de Nebo.
+
+[[v4-33-48]]
+
+^<<v4-33-48,48>>^ Por fim, partiram dos montes de Abarim e acamparam nas planícies desérticas de Moabe, junto ao Jordão, na altura de Jericó.
+
+[[v4-33-49]]
+
+^<<v4-33-49,49>>^ E ficaram acampados junto ao Jordão, desde Bete-Jesimote até Abel-Sitim, nas planícies desérticas de Moabe.
+
+[[v4-33-50]]
+
+^<<v4-33-50,50>>^ Jeová disse o seguinte a Moisés nas planícies desérticas de Moabe, junto ao Jordão, na altura de Jericó:
+
+[[v4-33-51]]
+
+^<<v4-33-51,51>>^ “Diga aos israelitas: ‘Vocês vão atravessar o Jordão para a terra de Canaã.
+
+[[v4-33-52]]
+
+^<<v4-33-52,52>>^ Expulsem de diante de vocês todos os habitantes daquela terra e destruam todas as suas esculturas de pedra, todas as suas estátuas de metal^&#42;1^ e todos os seus altos sagrados.
+
+[NOTE]
+====
+. Ou: “estátuas fundidas”.
+====
+
+[[v4-33-53]]
+
+^<<v4-33-53,53>>^ E vocês tomarão posse da terra e morarão nela, porque eu certamente lhes darei a terra como propriedade.
+
+[[v4-33-54]]
+
+^<<v4-33-54,54>>^ Vocês devem distribuir a terra por sortes como propriedade entre as suas famílias. Para os grupos maiores, vocês devem aumentar a herança e, para os grupos menores, vocês devem reduzir a herança. A herança de cada um será onde a sua sorte cair. Vocês receberão a sua propriedade como herança de acordo com as tribos dos seus pais.
+
+[[v4-33-55]]
+
+^<<v4-33-55,55>>^ “‘Mas, se não expulsarem de diante de vocês os habitantes dessa terra, aqueles que vocês deixarem ficar se tornarão como ciscos nos seus olhos e espinhos na sua carne, e eles os hostilizarão na terra em que vocês estarão morando.
+
+[[v4-33-56]]
+
+^<<v4-33-56,56>>^ E farei a vocês o que tinha resolvido fazer a eles.’”
+
+'''
+
+xref:004-numeros/004-numeros-032.adoc#v4-32-0[&#60; Capítulo Anterior] | <<v4-33-0,Topo>> | xref:004-numeros/004-numeros-034.adoc#v4-34-0[Próximo Capítulo &#62;]

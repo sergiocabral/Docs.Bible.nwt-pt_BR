@@ -1,0 +1,183 @@
+include::./index.adoc[]
+
+[[v26-33-0]]
+=== Ezequiel, 33
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v26-33-1]]
+
+^<<v26-33-1,1>>^ Então recebi a seguinte palavra de Jeová:
+
+[[v26-33-2]]
+
+^<<v26-33-2,2>>^ “Filho do homem, diga o seguinte aos filhos do seu povo:
+“‘Suponhamos que eu traga uma espada contra uma terra, e todos os habitantes dessa terra escolham um homem e o designem como vigia.
+
+[[v26-33-3]]
+
+^<<v26-33-3,3>>^ Ele, ao ver a espada chegando contra a terra, toca a buzina e avisa o povo.
+
+[[v26-33-4]]
+
+^<<v26-33-4,4>>^ Se alguém ouve o som da buzina, mas não acata o aviso, e a espada vem e lhe tira a vida,^&#42;1^ seu sangue recairá sobre a sua própria cabeça.
+
+[NOTE]
+====
+. Lit.: “o leva embora”.
+====
+
+[[v26-33-5]]
+
+^<<v26-33-5,5>>^ Ele ouviu o som da buzina, mas não acatou o aviso. Seu sangue recairá sobre ele mesmo. Se tivesse acatado o aviso, sua vida^&#42;1^ teria sido salva.
+
+[NOTE]
+====
+. Ou: “alma”.
+====
+
+[[v26-33-6]]
+
+^<<v26-33-6,6>>^ “‘No entanto, se o vigia, ao ver a espada chegando, não toca a buzina, de modo que o povo não recebe nenhum aviso, e a espada vem e tira a vida^&#42;1^ de um deles, essa pessoa morrerá por causa do seu próprio erro, mas o sangue dela exigirei do vigia.’^&#42;2^
+
+[NOTE]
+====
+. Ou: “alma”.
+. Ou: “mas farei o vigia prestar contas pelo sangue dela”.
+====
+
+[[v26-33-7]]
+
+^<<v26-33-7,7>>^ “Quanto a você, filho do homem, eu o designei como vigia para a casa de Israel. Quando você ouvir uma palavra da minha boca, deve transmitir-lhes o meu aviso.
+
+[[v26-33-8]]
+
+^<<v26-33-8,8>>^ Se eu disser àquele que é mau: ‘Você certamente morrerá!’ mas você não disser nada a fim de avisá-lo para que mude de proceder, ele morrerá como alguém mau por causa do seu próprio erro, mas o sangue dele exigirei de você.
+
+[[v26-33-9]]
+
+^<<v26-33-9,9>>^ No entanto, se você avisar aquele que é mau para que recue do seu caminho, e ele se recusar a mudar de proceder, ele morrerá por causa do erro dele, mas você certamente salvará a sua própria vida.^&#42;1^
+
+[NOTE]
+====
+. Ou: “alma”.
+====
+
+[[v26-33-10]]
+
+^<<v26-33-10,10>>^ “Filho do homem, diga à casa de Israel: ‘Vocês disseram: “Nossa rebeldia e nossos pecados são um grande peso para nós e nos fazem definhar. Como, então, continuaremos vivos?”’
+
+[[v26-33-11]]
+
+^<<v26-33-11,11>>^ Diga a eles: ‘“Tão certo como eu vivo”, diz o Soberano Senhor Jeová, “não tenho prazer na morte de quem é mau, mas sim em que a pessoa má mude seu caminho e continue viva. Recuem, recuem dos seus maus caminhos. Afinal, por que vocês deveriam morrer, ó casa de Israel?”’
+
+[[v26-33-12]]
+
+^<<v26-33-12,12>>^ “Filho do homem, diga aos filhos do seu povo: ‘A justiça do homem justo não o salvará quando ele se rebelar; e a maldade daquele que é mau não o fará tropeçar quando ele abandonar a sua maldade. O justo não será preservado vivo por sua justiça no dia em que pecar.
+
+[[v26-33-13]]
+
+^<<v26-33-13,13>>^ Se eu disser a um justo: “Você certamente continuará vivo”, e ele confiar na sua justiça e fizer o que é errado,^&#42;1^ nenhum dos seus atos justos será lembrado; ele morrerá por causa do que fez de errado.
+
+[NOTE]
+====
+. Ou: “fizer injustiça”.
+====
+
+[[v26-33-14]]
+
+^<<v26-33-14,14>>^ “‘E, se eu disser àquele que é mau: “Você certamente morrerá”, e ele abandonar o seu pecado, fizer o que é justo e certo,
+
+[[v26-33-15]]
+
+^<<v26-33-15,15>>^ restituir o que tomou como garantia de um empréstimo, devolver o que roubou e andar nos decretos que dão vida, não fazendo o que é errado, ele certamente continuará vivo. Não morrerá.
+
+[[v26-33-16]]
+
+^<<v26-33-16,16>>^ Ele não terá de responder por nenhum dos pecados que cometeu.^&#42;1^ Por ter feito o que é justo e certo, ele certamente continuará vivo.’
+
+[NOTE]
+====
+. Ou: “Nenhum dos pecados que cometeu será lembrado contra ele.”
+====
+
+[[v26-33-17]]
+
+^<<v26-33-17,17>>^ “Mas o seu povo disse: ‘O caminho de Jeová é injusto’; quando, na verdade, é o caminho deles que é injusto.
+
+[[v26-33-18]]
+
+^<<v26-33-18,18>>^ “Se um justo abandonar a sua justiça e fizer o que é errado, ele terá de morrer por causa disso.
+
+[[v26-33-19]]
+
+^<<v26-33-19,19>>^ Mas, se aquele que é mau abandonar a sua maldade e fizer o que é justo e certo, ele continuará vivo por fazer isso.
+
+[[v26-33-20]]
+
+^<<v26-33-20,20>>^ “Mas vocês disseram: ‘O caminho de Jeová é injusto.’ Eu julgarei a cada um de vocês conforme os seus caminhos, ó casa de Israel.”
+
+[[v26-33-21]]
+
+^<<v26-33-21,21>>^ Por fim, no décimo segundo ano do nosso exílio, no décimo mês, no dia cinco do mês, um homem que havia escapado de Jerusalém veio a mim e disse: “A cidade foi tomada!”
+
+[[v26-33-22]]
+
+^<<v26-33-22,22>>^ Na noite anterior à chegada do homem que havia escapado, a mão de Jeová veio sobre mim, e Ele me abriu a boca antes de o homem chegar de manhã. De modo que a minha boca já havia sido aberta, e eu não estava mais mudo.
+
+[[v26-33-23]]
+
+^<<v26-33-23,23>>^ Então recebi a seguinte palavra de Jeová:
+
+[[v26-33-24]]
+
+^<<v26-33-24,24>>^ “Filho do homem, os habitantes daquelas ruínas estão dizendo a respeito da terra de Israel: ‘Abraão era um só, e mesmo assim tomou posse desta terra. Nós somos muitos; esta terra certamente nos foi dada como propriedade.’
+
+[[v26-33-25]]
+
+^<<v26-33-25,25>>^ “Portanto, diga a eles: ‘Assim diz o Soberano Senhor Jeová: “Vocês comem carne com sangue, erguem os olhos para os seus ídolos repugnantes^&#42;1^ e continuam a derramar sangue. Por que, então, deveriam possuir essa terra?
+
+[NOTE]
+====
+. O termo hebraico talvez esteja relacionado a uma palavra para “esterco” e é usado como expressão de desprezo.
+====
+
+[[v26-33-26]]
+
+^<<v26-33-26,26>>^ Vocês confiam na sua espada, praticam coisas detestáveis e desonram cada um a esposa do próximo. Por que, então, deveriam possuir essa terra?”’
+
+[[v26-33-27]]
+
+^<<v26-33-27,27>>^ “Você deve dizer-lhes o seguinte: ‘Assim diz o Soberano Senhor Jeová: “Tão certo como eu vivo, os que moram nas ruínas cairão à espada, os que estão no campo aberto darei aos animais selvagens como alimento, e os que estão nas fortalezas e nas cavernas morrerão de doença.
+
+[[v26-33-28]]
+
+^<<v26-33-28,28>>^ Farei dessa terra um deserto completamente desolado, e seu orgulho arrogante terá fim. Os montes de Israel ficarão desolados, sem que ninguém passe por eles.
+
+[[v26-33-29]]
+
+^<<v26-33-29,29>>^ E eles terão de saber que eu sou Jeová, quando eu fizer dessa terra um deserto completamente desolado por causa de todas as coisas detestáveis que eles fizeram.”’
+
+[[v26-33-30]]
+
+^<<v26-33-30,30>>^ “Quanto a você, filho do homem, o seu povo está conversando entre si a seu respeito junto aos muros e nas portas das casas. Eles dizem uns aos outros, cada um ao seu irmão: ‘Venham, vamos ouvir a palavra que vem de Jeová.’
+
+[[v26-33-31]]
+
+^<<v26-33-31,31>>^ Eles se ajuntarão em grande número para se sentar diante de você como meu povo; e eles ouvirão as suas palavras, mas não as porão em prática. Pois com a boca eles bajulam você,^&#42;1^ mas seu coração deseja ganho desonesto.
+
+[NOTE]
+====
+. Ou: “eles falam de modo apaixonado”.
+====
+
+[[v26-33-32]]
+
+^<<v26-33-32,32>>^ Você é para eles como uma canção de amor, cantada com uma voz bonita e bem tocada num instrumento de cordas. Eles ouvirão as suas palavras, mas ninguém agirá em harmonia com elas.
+
+[[v26-33-33]]
+
+^<<v26-33-33,33>>^ E, quando tudo se cumprir — e vai se cumprir —, eles terão de saber que havia um profeta entre eles.”
+
+'''
+
+xref:026-ezequiel/026-ezequiel-032.adoc#v26-32-0[&#60; Capítulo Anterior] | <<v26-33-0,Topo>> | xref:026-ezequiel/026-ezequiel-034.adoc#v26-34-0[Próximo Capítulo &#62;]

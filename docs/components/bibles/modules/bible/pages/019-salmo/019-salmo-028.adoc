@@ -1,0 +1,69 @@
+include::./index.adoc[]
+
+[[v19-28-0]]
+=== Salmos, 28
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_De Davi._
+
+[[v19-28-1]]
+
+^<<v19-28-1,1>>^ A ti eu clamo constantemente, ó Jeová, minha Rocha;
+Não deixes de me ouvir.^&#42;1^
+Se ficares em silêncio,
+Eu serei como os que descem à cova.^&#42;2^
+
+[NOTE]
+====
+. Ou: “Não sejas surdo para comigo”.
+. Ou: “sepultura”.
+====
+
+[[v19-28-2]]
+
+^<<v19-28-2,2>>^ Ouve as minhas súplicas quando clamo a ti por ajuda,
+Ao levantar minhas mãos em direção ao compartimento interno do teu santuário.
+
+[[v19-28-3]]
+
+^<<v19-28-3,3>>^ Não me arrastes com os perversos, com os que praticam a maldade,
+Os que falam palavras de paz com o seu companheiro, mas em cujo coração há o que é mau.
+
+[[v19-28-4]]
+
+^<<v19-28-4,4>>^ Retribui-lhes de acordo com os seus atos,
+Conforme as suas práticas más.
+Retribui-lhes segundo o trabalho das suas mãos,
+Conforme o que eles têm feito.
+
+[[v19-28-5]]
+
+^<<v19-28-5,5>>^ Pois não dão atenção às obras de Jeová
+Nem ao trabalho das mãos dele.
+Ele os derrubará e não os levantará.
+
+[[v19-28-6]]
+
+^<<v19-28-6,6>>^ Louvado seja Jeová,
+Pois ouviu as minhas súplicas por ajuda.
+
+[[v19-28-7]]
+
+^<<v19-28-7,7>>^ Jeová é a minha força e o meu escudo;
+Nele confia o meu coração.
+Eu recebi a sua ajuda, e o meu coração se alegra;
+Assim, eu o louvarei com o meu cântico.
+
+[[v19-28-8]]
+
+^<<v19-28-8,8>>^ Jeová é uma força para o seu povo;
+Ele é uma fortaleza que traz grandiosa salvação ao seu ungido.
+
+[[v19-28-9]]
+
+^<<v19-28-9,9>>^ Salva o teu povo e abençoa a tua herança.
+Pastoreia-os e carrega-os nos teus braços para sempre.
+
+'''
+
+xref:019-salmo/019-salmo-027.adoc#v19-27-0[&#60; Capítulo Anterior] | <<v19-28-0,Topo>> | xref:019-salmo/019-salmo-029.adoc#v19-29-0[Próximo Capítulo &#62;]

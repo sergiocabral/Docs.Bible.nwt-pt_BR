@@ -1,0 +1,137 @@
+include::./index.adoc[]
+
+[[v22-4-0]]
+=== O Cântico de Salomão, 4
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v22-4-1]]
+
+^<<v22-4-1,1>>^ “Como você é bela, minha amada!
+Como você é bela!
+Seus olhos por trás do véu são como os das pombas.
+Seu cabelo é como um rebanho de cabras
+Que descem as montanhas de Gileade.
+
+[[v22-4-2]]
+
+^<<v22-4-2,2>>^ Seus dentes são como um rebanho de ovelhas recém-tosquiadas
+Que acabam de ser lavadas;
+Todas elas com gêmeos,
+E nenhuma perdeu a cria.
+
+[[v22-4-3]]
+
+^<<v22-4-3,3>>^ Seus lábios são como um fio escarlate,
+E sua fala é agradável.
+Como as metades de uma romã
+São as suas faces^&#42;1^ atrás do véu.
+
+[NOTE]
+====
+. Ou: “têmporas”.
+====
+
+[[v22-4-4]]
+
+^<<v22-4-4,4>>^ Seu pescoço é como a torre de Davi,
+Construída com fileiras de pedras,
+Na qual se penduram mil escudos,
+Todos os escudos redondos dos guerreiros valentes.
+
+[[v22-4-5]]
+
+^<<v22-4-5,5>>^ Seus seios são como dois filhotes de cervo,
+Crias gêmeas de uma gazela,
+Que pastam entre os lírios.”
+
+[[v22-4-6]]
+
+^<<v22-4-6,6>>^ “Antes que sopre a brisa do dia^&#42;1^ e as sombras fujam,
+Irei ao monte de mirra
+E à colina de olíbano.”
+
+[NOTE]
+====
+. Lit.: “que o dia respire”.
+====
+
+[[v22-4-7]]
+
+^<<v22-4-7,7>>^ “Você é inteiramente bela, minha amada,
+Não há defeito em você.
+
+[[v22-4-8]]
+
+^<<v22-4-8,8>>^ Desçamos juntos do Líbano, minha noiva,
+Desçamos juntos do Líbano.
+Desça do cume do Amana,^&#42;1^
+Do cume de Senir, do cume do Hermom,
+Dos esconderijos dos leões, das montanhas dos leopardos.
+
+[NOTE]
+====
+. Ou: “Antilíbano”.
+====
+
+[[v22-4-9]]
+
+^<<v22-4-9,9>>^ Você roubou meu coração, minha irmã, minha noiva,
+Roubou meu coração com apenas um olhar,
+Com apenas um pingente do seu colar.
+
+[[v22-4-10]]
+
+^<<v22-4-10,10>>^ Como são belas as suas expressões de amor, minha irmã, minha noiva!
+Suas expressões de amor são muito melhores do que o vinho;
+E a fragrância do seu perfume, do que qualquer especiaria!
+
+[[v22-4-11]]
+
+^<<v22-4-11,11>>^ Seus lábios, minha noiva, gotejam mel dos favos.
+Há mel e leite sob a sua língua,
+E a fragrância das suas roupas é como a fragrância do Líbano.
+
+[[v22-4-12]]
+
+^<<v22-4-12,12>>^ Minha irmã, minha noiva, é como um jardim trancado;
+Um jardim trancado, uma fonte fechada.
+
+[[v22-4-13]]
+
+^<<v22-4-13,13>>^ Seus brotos são^&#42;1^ um paraíso^&#42;2^ de romãs,
+Com os frutos mais seletos, também hena junto com nardo,
+
+[NOTE]
+====
+. Ou, possivelmente: “Sua pele é”.
+. Ou: “jardim”.
+====
+
+[[v22-4-14]]
+
+^<<v22-4-14,14>>^ Nardo e açafrão, cálamo^&#42;1^ e canela,
+Junto com todo tipo de árvores de olíbano, também mirra e aloés,
+Junto com todos os perfumes mais finos.
+
+[NOTE]
+====
+. Uma cana aromática.
+====
+
+[[v22-4-15]]
+
+^<<v22-4-15,15>>^ Você é uma fonte de jardim, um poço de água doce,
+E riachos vindos do Líbano.
+
+[[v22-4-16]]
+
+^<<v22-4-16,16>>^ Desperte, ó vento norte;
+Entre, ó vento sul.
+Sopre suavemente no meu jardim,
+Para que se espalhem os seus perfumes.”
+“Que o meu querido entre no seu jardim
+E coma dos seus frutos seletos.”
+
+'''
+
+xref:022-cantico-de-salomao/022-cantico-de-salomao-003.adoc#v22-3-0[&#60; Capítulo Anterior] | <<v22-4-0,Topo>> | xref:022-cantico-de-salomao/022-cantico-de-salomao-005.adoc#v22-5-0[Próximo Capítulo &#62;]

@@ -1,0 +1,94 @@
+include::./index.adoc[]
+
+[[v15-9-0]]
+=== Esdras, 9
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v15-9-1]]
+
+^<<v15-9-1,1>>^ Assim que essas coisas foram feitas, os príncipes se dirigiram a mim e disseram: “O povo de Israel, os sacerdotes e os levitas não se separaram dos povos das terras ao redor e das suas práticas detestáveis, as práticas dos cananeus, dos hititas, dos perizeus, dos jebuseus, dos amonitas, dos moabitas, dos egípcios e dos amorreus.
+
+[[v15-9-2]]
+
+^<<v15-9-2,2>>^ Eles tomaram algumas das filhas deles como esposas para si e para os seus filhos. Agora eles, a descendência^&#42;1^ santa, se misturaram com os povos das terras ao redor. Os príncipes e os subgovernadores foram os que mais praticaram essa infidelidade.”
+
+[NOTE]
+====
+. Lit.: “semente”.
+====
+
+[[v15-9-3]]
+
+^<<v15-9-3,3>>^ Assim que ouvi isso, rasguei a minha túnica e a minha capa, arranquei cabelos da minha cabeça e pelos da minha barba, e me sentei, profundamente abalado.
+
+[[v15-9-4]]
+
+^<<v15-9-4,4>>^ Então todos os que temiam as^&#42;1^ palavras do Deus de Israel se reuniram à minha volta, por causa da infidelidade do povo que tinha voltado do exílio. E eu fiquei sentado, profundamente abalado, até a oferta de cereais do anoitecer.
+
+[NOTE]
+====
+. Lit.: “tremiam diante das”.
+====
+
+[[v15-9-5]]
+
+^<<v15-9-5,5>>^ Quando chegou a hora da oferta de cereais do anoitecer, levantei-me do meu estado de humilhação, com a túnica e a capa rasgadas. Ajoelhei-me e estendi as mãos a Jeová, meu Deus.
+
+[[v15-9-6]]
+
+^<<v15-9-6,6>>^ E disse: “Ó meu Deus, eu me sinto envergonhado e constrangido para levantar o rosto a ti, ó meu Deus, pois os nossos erros se multiplicaram sobre as nossas cabeças, e a nossa culpa se acumulou até os céus.
+
+[[v15-9-7]]
+
+^<<v15-9-7,7>>^ Desde os dias dos nossos antepassados até hoje a nossa culpa tem sido grande. E, por causa dos nossos erros, nós, nossos reis e nossos sacerdotes temos sido entregues às mãos dos reis de outras terras, sofrendo com a espada, o cativeiro, o saque e a vergonha, como se vê hoje.
+
+[[v15-9-8]]
+
+^<<v15-9-8,8>>^ Mas agora, por um momento, Jeová, nosso Deus, mostrou-nos favor, permitindo que um restante sobrevivesse e dando-nos um lugar seguro^&#42;1^ no seu santuário, para fazer os nossos olhos brilhar, ó nosso Deus, e para nos reanimar um pouco na nossa escravidão.
+
+[NOTE]
+====
+. Ou: “uma estaca de tenda”.
+====
+
+[[v15-9-9]]
+
+^<<v15-9-9,9>>^ Pois, embora sejamos escravos, nosso Deus não nos abandonou na escravidão. Mas, no seu amor leal por nós, ele nos concedeu o favor dos reis da Pérsia para nos reanimar, a fim de que se erguesse a casa do nosso Deus e se restaurassem as ruínas, e para nos dar uma muralha de pedras^&#42;1^ em Judá e em Jerusalém.
+
+[NOTE]
+====
+. Ou: “um muro de proteção”.
+====
+
+[[v15-9-10]]
+
+^<<v15-9-10,10>>^ “Mas agora, ó nosso Deus, depois de tudo isso, o que podemos dizer? Pois abandonamos os mandamentos
+
+[[v15-9-11]]
+
+^<<v15-9-11,11>>^ que nos deste por meio dos teus servos, os profetas, dizendo: ‘A terra em que estão entrando para tomar posse dela é uma terra impura por causa da impureza dos povos das terras ao redor, por causa das suas práticas detestáveis. Eles a encheram de ponta a ponta com a sua impureza.
+
+[[v15-9-12]]
+
+^<<v15-9-12,12>>^ Portanto, não deem as suas filhas aos filhos deles, nem aceitem as filhas deles para os seus filhos, e jamais busquem a paz e a prosperidade deles. Então vocês se tornarão fortes, comerão do que a terra tem de bom e tomarão posse dela para os seus filhos, para sempre.’
+
+[[v15-9-13]]
+
+^<<v15-9-13,13>>^ E, depois de tudo o que nos aconteceu por causa dos nossos atos maus e da nossa grande culpa — tu, ó nosso Deus, não agiste conosco conforme os nossos erros, e permitiste que nós, que aqui estamos, sobrevivêssemos —,
+
+[[v15-9-14]]
+
+^<<v15-9-14,14>>^ será que violaremos novamente os teus mandamentos e formaremos alianças matrimoniais^&#42;1^ com os povos que praticam essas coisas detestáveis? Será que não ficarias tão irado conosco a ponto de nos destruir por completo, sem nos deixar restante nem sobrevivente?
+
+[NOTE]
+====
+. Ou: “e realizaremos casamentos mistos”.
+====
+
+[[v15-9-15]]
+
+^<<v15-9-15,15>>^ Ó Jeová, Deus de Israel, tu és justo, pois sobrevivemos como um restante até hoje. Aqui estamos diante de ti como culpados, pois, por causa desse pecado, é impossível ficar de pé diante de ti.”
+
+'''
+
+xref:015-esdras/015-esdras-008.adoc#v15-8-0[&#60; Capítulo Anterior] | <<v15-9-0,Topo>> | xref:015-esdras/015-esdras-010.adoc#v15-10-0[Próximo Capítulo &#62;]

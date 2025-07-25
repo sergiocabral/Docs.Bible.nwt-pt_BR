@@ -1,0 +1,169 @@
+include::./index.adoc[]
+
+[[v31-1-0]]
+=== Obadias, 1
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v31-1-1]]
+
+^<<v31-1-1,1>>^ A visão de Obadias:^&#42;1^
+Assim diz o Soberano Senhor Jeová a respeito de Edom:
+“Ouvimos uma notícia da parte de Jeová,
+Enviou-se um mensageiro para dizer às nações:
+‘Levantem-se, vamos nos preparar para a batalha contra ela.’”
+
+[NOTE]
+====
+. Que significa “servo de Jeová”.
+====
+
+[[v31-1-2]]
+
+^<<v31-1-2,2>>^ “Veja! Eu o tornei insignificante entre as nações;
+Você é muito desprezado.
+
+[[v31-1-3]]
+
+^<<v31-1-3,3>>^ A arrogância do seu coração o enganou,
+Você, que reside nos refúgios do rochedo,
+Que mora nas alturas, que diz no seu coração:
+‘Quem me fará descer para a terra?’
+
+[[v31-1-4]]
+
+^<<v31-1-4,4>>^ Mesmo que você fizesse a sua morada no alto^&#42;1^ como a águia,
+Ou que colocasse o seu ninho entre as estrelas,
+Eu o faria descer de lá”, diz Jeová.
+
+[NOTE]
+====
+. Ou, possivelmente: “voasse alto”.
+====
+
+[[v31-1-5]]
+
+^<<v31-1-5,5>>^ “Se ladrões viessem até você, saqueadores à noite,
+(Você será totalmente destruído!)^&#42;1^
+Não levariam apenas o que quisessem?
+Ou, se colhedores de uvas viessem até você,
+Não deixariam sobrar algumas para respigar?
+
+[NOTE]
+====
+. Ou, possivelmente: “Quanto eles destruiriam?”
+====
+
+[[v31-1-6]]
+
+^<<v31-1-6,6>>^ Como Esaú foi vasculhado!
+Como os seus tesouros escondidos foram procurados!
+
+[[v31-1-7]]
+
+^<<v31-1-7,7>>^ Forçaram-no a ir para a fronteira.
+Todos os seus aliados^&#42;1^ o enganaram.
+Os homens que estavam em paz com você o derrotaram.
+Os que comem pão com você armarão uma rede para apanhá-lo,
+Mas você não perceberá isso.
+
+[NOTE]
+====
+. Ou: “os que tinham um pacto com você”.
+====
+
+[[v31-1-8]]
+
+^<<v31-1-8,8>>^ Naquele dia”, diz Jeová,
+“Não acabarei com os sábios de Edom
+E com o discernimento da região montanhosa de Esaú?
+
+[[v31-1-9]]
+
+^<<v31-1-9,9>>^ E seus guerreiros ficarão apavorados, ó Temã,
+Visto que cada um deles na região montanhosa de Esaú será destruído na matança.
+
+[[v31-1-10]]
+
+^<<v31-1-10,10>>^ Por causa da violência praticada contra seu irmão Jacó,
+A vergonha cobrirá você,
+E você desaparecerá para sempre.
+
+[[v31-1-11]]
+
+^<<v31-1-11,11>>^ No dia em que você ficou só olhando,
+No dia em que estranhos levaram para o cativeiro o exército de Jacó,
+Quando estrangeiros entraram pelo portão dele e lançaram sortes sobre Jerusalém,
+Você agiu como um deles.
+
+[[v31-1-12]]
+
+^<<v31-1-12,12>>^ Você não devia se alegrar no dia do seu irmão, no dia da desgraça dele,
+Não devia se alegrar por causa do povo de Judá, no dia da ruína deles,
+E não devia falar tão arrogantemente no dia da aflição deles.
+
+[[v31-1-13]]
+
+^<<v31-1-13,13>>^ Você não devia entrar pelo portão do meu povo no dia em que lhes sobreveio o desastre,
+Não devia se alegrar com a calamidade do meu povo no dia do desastre deles,
+E não devia se apossar da riqueza deles no dia em que lhes sobreveio o desastre.
+
+[[v31-1-14]]
+
+^<<v31-1-14,14>>^ Você não devia ficar nos cruzamentos das estradas para matar os fugitivos,
+E não devia entregar os sobreviventes no dia da aflição.
+
+[[v31-1-15]]
+
+^<<v31-1-15,15>>^ Pois está próximo o dia de Jeová contra todas as nações.
+Assim como você fez, será feito a você.
+O tratamento que você dispensou a outros retornará sobre a sua própria cabeça.
+
+[[v31-1-16]]
+
+^<<v31-1-16,16>>^ Pois assim como vocês beberam sobre o meu santo monte,
+Todas as nações beberão continuamente.
+Elas beberão e engolirão,
+E ficarão como se nunca tivessem existido.
+
+[[v31-1-17]]
+
+^<<v31-1-17,17>>^ Mas no monte Sião estarão os que escaparem,
+E ele será sagrado;
+E a casa de Jacó tomará posse das coisas que pertencem a eles.
+
+[[v31-1-18]]
+
+^<<v31-1-18,18>>^ A casa de Jacó se tornará um fogo,
+A casa de José uma chama,
+E a casa de Esaú a palha;
+Eles a incendiarão e consumirão,
+E não haverá nenhum sobrevivente da casa de Esaú,
+Pois o próprio Jeová falou isso.
+
+[[v31-1-19]]
+
+^<<v31-1-19,19>>^ Eles tomarão posse do Neguebe e da região montanhosa de Esaú,
+Da Sefelá e da terra dos filisteus.
+Tomarão posse do território de Efraim e do território de Samaria;
+E Benjamim tomará posse de Gileade.
+
+[[v31-1-20]]
+
+^<<v31-1-20,20>>^ Aos exilados desta fortificação,^&#42;1^
+Ao povo de Israel pertencerá a terra dos cananeus até Sarefá.
+E os exilados de Jerusalém que estavam em Sefarade possuirão as cidades do Neguebe.
+
+[NOTE]
+====
+. Ou: “escarpa”.
+====
+
+[[v31-1-21]]
+
+^<<v31-1-21,21>>^ E salvadores subirão ao monte Sião
+Para julgar a região montanhosa de Esaú;
+E o reinado se tornará de Jeová.”
+
+'''
+
+xref:030-amos/030-amos-009.adoc#v30-9-0[&#60; Capítulo Anterior] | <<v31-1-0,Topo>> | xref:032-jonas/032-jonas-001.adoc#v32-1-0[Próximo Capítulo &#62;]

@@ -1,0 +1,71 @@
+include::./index.adoc[]
+
+[[v6-20-0]]
+=== Josué, 20
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v6-20-1]]
+
+^<<v6-20-1,1>>^ Jeová disse então a Josué:
+
+[[v6-20-2]]
+
+^<<v6-20-2,2>>^ “Diga aos israelitas: ‘Escolham para vocês cidades de refúgio, a respeito das quais lhes falei por meio de Moisés,
+
+[[v6-20-3]]
+
+^<<v6-20-3,3>>^ a fim de que o homicida que matar alguém,^&#42;1^ sem querer ou acidentalmente,^&#42;2^ fuja para lá. E elas servirão de refúgio para vocês contra o vingador do sangue.
+
+[NOTE]
+====
+. Ou: “golpear uma alma”.
+. Ou: “sem saber”.
+====
+
+[[v6-20-4]]
+
+^<<v6-20-4,4>>^ Ele deve fugir para uma dessas cidades, ficar de pé à entrada do portão da cidade e expor o seu caso diante dos anciãos daquela cidade. Então eles devem acolhê-lo na cidade e lhe dar um local para morar entre eles.
+
+[[v6-20-5]]
+
+^<<v6-20-5,5>>^ Caso o vingador do sangue o persiga, não devem entregar o homicida nas suas mãos, pois ele matou o seu próximo acidentalmente,^&#42;1^ sem que o tenha odiado antes.
+
+[NOTE]
+====
+. Ou: “sem saber”.
+====
+
+[[v6-20-6]]
+
+^<<v6-20-6,6>>^ Ele deve morar naquela cidade até comparecer perante a assembleia para julgamento, e deve permanecer nela até a morte do sumo sacerdote em exercício naqueles dias. Então o homicida poderá voltar para a cidade de onde fugiu; ele poderá entrar na sua cidade e na sua casa.’”
+
+[[v6-20-7]]
+
+^<<v6-20-7,7>>^ Por isso, eles consagraram^&#42;1^ Quedes, na Galileia, na região montanhosa de Naftali; Siquém, na região montanhosa de Efraim; e Quiriate-Arba, isto é, Hebrom, na região montanhosa de Judá.
+
+[NOTE]
+====
+. Ou: “separaram”.
+====
+
+[[v6-20-8]]
+
+^<<v6-20-8,8>>^ Na região do Jordão, ao leste de Jericó, eles selecionaram no deserto, no planalto,^&#42;1^ Bezer, da tribo de Rubem; Ramote, em Gileade, da tribo de Gade; e Golã, em Basã, da tribo de Manassés.
+
+[NOTE]
+====
+. Ou: “platô”.
+====
+
+[[v6-20-9]]
+
+^<<v6-20-9,9>>^ Essas se tornaram as cidades designadas para todos os israelitas e para os residentes estrangeiros que moravam entre eles, a fim de que qualquer um que sem querer matasse alguém^&#42;1^ pudesse fugir para lá e não ser morto pelo vingador do sangue antes de comparecer perante a assembleia para julgamento.
+
+[NOTE]
+====
+. Ou: “uma alma”.
+====
+
+'''
+
+xref:006-josue/006-josue-019.adoc#v6-19-0[&#60; Capítulo Anterior] | <<v6-20-0,Topo>> | xref:006-josue/006-josue-021.adoc#v6-21-0[Próximo Capítulo &#62;]

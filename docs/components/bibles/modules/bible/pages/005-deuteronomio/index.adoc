@@ -1,0 +1,48 @@
+include::../index.adoc[]
+
+[[v5-0-0]]
+== Deuteronômio
+
+[cols="8*^"]
+|===
+| xref:005-deuteronomio/005-deuteronomio-001.adoc#v5-1-0[1]
+| xref:005-deuteronomio/005-deuteronomio-002.adoc#v5-2-0[2]
+| xref:005-deuteronomio/005-deuteronomio-003.adoc#v5-3-0[3]
+| xref:005-deuteronomio/005-deuteronomio-004.adoc#v5-4-0[4]
+| xref:005-deuteronomio/005-deuteronomio-005.adoc#v5-5-0[5]
+| xref:005-deuteronomio/005-deuteronomio-006.adoc#v5-6-0[6]
+| xref:005-deuteronomio/005-deuteronomio-007.adoc#v5-7-0[7]
+| xref:005-deuteronomio/005-deuteronomio-008.adoc#v5-8-0[8]
+| xref:005-deuteronomio/005-deuteronomio-009.adoc#v5-9-0[9]
+| xref:005-deuteronomio/005-deuteronomio-010.adoc#v5-10-0[10]
+| xref:005-deuteronomio/005-deuteronomio-011.adoc#v5-11-0[11]
+| xref:005-deuteronomio/005-deuteronomio-012.adoc#v5-12-0[12]
+| xref:005-deuteronomio/005-deuteronomio-013.adoc#v5-13-0[13]
+| xref:005-deuteronomio/005-deuteronomio-014.adoc#v5-14-0[14]
+| xref:005-deuteronomio/005-deuteronomio-015.adoc#v5-15-0[15]
+| xref:005-deuteronomio/005-deuteronomio-016.adoc#v5-16-0[16]
+| xref:005-deuteronomio/005-deuteronomio-017.adoc#v5-17-0[17]
+| xref:005-deuteronomio/005-deuteronomio-018.adoc#v5-18-0[18]
+| xref:005-deuteronomio/005-deuteronomio-019.adoc#v5-19-0[19]
+| xref:005-deuteronomio/005-deuteronomio-020.adoc#v5-20-0[20]
+| xref:005-deuteronomio/005-deuteronomio-021.adoc#v5-21-0[21]
+| xref:005-deuteronomio/005-deuteronomio-022.adoc#v5-22-0[22]
+| xref:005-deuteronomio/005-deuteronomio-023.adoc#v5-23-0[23]
+| xref:005-deuteronomio/005-deuteronomio-024.adoc#v5-24-0[24]
+| xref:005-deuteronomio/005-deuteronomio-025.adoc#v5-25-0[25]
+| xref:005-deuteronomio/005-deuteronomio-026.adoc#v5-26-0[26]
+| xref:005-deuteronomio/005-deuteronomio-027.adoc#v5-27-0[27]
+| xref:005-deuteronomio/005-deuteronomio-028.adoc#v5-28-0[28]
+| xref:005-deuteronomio/005-deuteronomio-029.adoc#v5-29-0[29]
+| xref:005-deuteronomio/005-deuteronomio-030.adoc#v5-30-0[30]
+| xref:005-deuteronomio/005-deuteronomio-031.adoc#v5-31-0[31]
+| xref:005-deuteronomio/005-deuteronomio-032.adoc#v5-32-0[32]
+| xref:005-deuteronomio/005-deuteronomio-033.adoc#v5-33-0[33]
+| xref:005-deuteronomio/005-deuteronomio-034.adoc#v5-34-0[34]
+|
+|
+|
+|
+|
+|
+|===

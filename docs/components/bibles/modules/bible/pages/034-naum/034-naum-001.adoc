@@ -1,0 +1,140 @@
+include::./index.adoc[]
+
+[[v34-1-0]]
+=== Naum, 1
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v34-1-1]]
+
+^<<v34-1-1,1>>^ Proclamação contra Nínive. Livro da visão de Naum,^&#42;1^ o elcosita:
+
+[NOTE]
+====
+. Que significa “consolador”.
+====
+
+[[v34-1-2]]
+
+^<<v34-1-2,2>>^ Jeová é um Deus que exige devoção exclusiva e que se vinga;
+Jeová se vinga e está pronto para demonstrar o seu furor.
+Jeová se vinga dos seus adversários
+E reserva o furor para os seus inimigos.
+
+[[v34-1-3]]
+
+^<<v34-1-3,3>>^ Jeová é paciente^&#42;1^ e grande em poder,
+Mas de modo algum Jeová deixará de dar a devida punição.
+Seu caminho está no vendaval e na tempestade,
+E as nuvens são o pó dos seus pés.
+
+[NOTE]
+====
+. Ou: “vagaroso em irar-se”.
+====
+
+[[v34-1-4]]
+
+^<<v34-1-4,4>>^ Ele censura o mar e o seca;
+E faz todos os rios secar.
+Basã e o Carmelo murcham,
+E as flores do Líbano murcham.
+
+[[v34-1-5]]
+
+^<<v34-1-5,5>>^ Os montes tremem por causa dele,
+E as colinas derretem.
+A terra estremecerá diante da sua face,
+A terra e todos os que moram nela.
+
+[[v34-1-6]]
+
+^<<v34-1-6,6>>^ Quem pode ficar de pé diante da sua indignação?
+E quem pode resistir à sua ira ardente?
+Seu furor será derramado como fogo,
+E as rochas serão despedaçadas por causa dele.
+
+[[v34-1-7]]
+
+^<<v34-1-7,7>>^ Jeová é bom, uma fortaleza no dia da aflição.
+Ele se lembra dos^&#42;1^ que procuram se refugiar nele.
+
+[NOTE]
+====
+. Ou: “cuida dos; conhece os”.
+====
+
+[[v34-1-8]]
+
+^<<v34-1-8,8>>^ Com uma inundação devastadora, ele exterminará completamente o lugar onde ela^&#42;1^ está,
+E a escuridão perseguirá os inimigos dele.
+
+[NOTE]
+====
+. Isto é, Nínive.
+====
+
+[[v34-1-9]]
+
+^<<v34-1-9,9>>^ O que vocês tramarão contra Jeová?
+Ele causará uma completa exterminação.
+A aflição não virá pela segunda vez.
+
+[[v34-1-10]]
+
+^<<v34-1-10,10>>^ Eles são como espinhos entrelaçados
+E como os que se embriagam com cerveja,^&#42;1^
+Mas serão consumidos como palha seca.
+
+[NOTE]
+====
+. Ou: “cerveja de trigo”.
+====
+
+[[v34-1-11]]
+
+^<<v34-1-11,11>>^ De você sairá alguém que trama o mal contra Jeová,
+Alguém que dá conselhos que não têm valor.
+
+[[v34-1-12]]
+
+^<<v34-1-12,12>>^ Assim diz Jeová:
+“Embora as fileiras deles estejam completas e eles sejam numerosos,
+Mesmo assim serão eliminados; deixarão de existir.^&#42;1^
+Eu afligi você,^&#42;2^ mas não a afligirei mais.
+
+[NOTE]
+====
+. Ou, possivelmente: “ele passará no meio deles”.
+. Isto é, Judá.
+====
+
+[[v34-1-13]]
+
+^<<v34-1-13,13>>^ E agora quebrarei o jugo dele e o tirarei de você,
+E romperei as suas correntes.
+
+[[v34-1-14]]
+
+^<<v34-1-14,14>>^ Jeová ordenou a respeito de você:^&#42;1^
+‘Não haverá mais descendentes que levem o seu nome.
+Eliminarei as imagens esculpidas e as estátuas de metal^&#42;2^ da casa^&#42;3^ dos seus deuses.
+Prepararei uma sepultura para você, porque você é desprezível.’
+
+[NOTE]
+====
+. Isto é, a Assíria.
+. Ou: “estátuas fundidas”.
+. Ou: “do templo”.
+====
+
+[[v34-1-15]]
+
+^<<v34-1-15,15>>^ Vejam sobre os montes os pés daquele que traz boas novas,
+Do proclamador de paz.
+Celebre as suas festividades, ó Judá, cumpra os seus votos,
+Pois nunca mais passará por você alguém imprestável.
+Ele será completamente destruído.”
+
+'''
+
+xref:033-miqueias/033-miqueias-007.adoc#v33-7-0[&#60; Capítulo Anterior] | <<v34-1-0,Topo>> | xref:034-naum/034-naum-002.adoc#v34-2-0[Próximo Capítulo &#62;]

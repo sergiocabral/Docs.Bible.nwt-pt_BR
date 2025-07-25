@@ -1,0 +1,16 @@
+include::../index.adoc[]
+
+[[v22-0-0]]
+== Cântico de Salomão
+
+[cols="8*^"]
+|===
+| xref:022-cantico-de-salomao/022-cantico-de-salomao-001.adoc#v22-1-0[1]
+| xref:022-cantico-de-salomao/022-cantico-de-salomao-002.adoc#v22-2-0[2]
+| xref:022-cantico-de-salomao/022-cantico-de-salomao-003.adoc#v22-3-0[3]
+| xref:022-cantico-de-salomao/022-cantico-de-salomao-004.adoc#v22-4-0[4]
+| xref:022-cantico-de-salomao/022-cantico-de-salomao-005.adoc#v22-5-0[5]
+| xref:022-cantico-de-salomao/022-cantico-de-salomao-006.adoc#v22-6-0[6]
+| xref:022-cantico-de-salomao/022-cantico-de-salomao-007.adoc#v22-7-0[7]
+| xref:022-cantico-de-salomao/022-cantico-de-salomao-008.adoc#v22-8-0[8]
+|===

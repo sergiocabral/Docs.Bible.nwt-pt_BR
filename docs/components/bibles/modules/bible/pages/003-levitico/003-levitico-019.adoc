@@ -1,0 +1,222 @@
+include::./index.adoc[]
+
+[[v3-19-0]]
+=== Levítico, 19
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v3-19-1]]
+
+^<<v3-19-1,1>>^ Jeová falou mais a Moisés:
+
+[[v3-19-2]]
+
+^<<v3-19-2,2>>^ “Diga a toda a assembleia de Israel: ‘Vocês devem ser santos, porque eu, Jeová, seu Deus, sou santo.
+
+[[v3-19-3]]
+
+^<<v3-19-3,3>>^ “‘Cada um de vocês deve respeitar^&#42;1^ sua mãe e seu pai, e vocês devem guardar meus sábados. Eu sou Jeová, seu Deus.
+
+[NOTE]
+====
+. Lit.: “temer”.
+====
+
+[[v3-19-4]]
+
+^<<v3-19-4,4>>^ Não recorram a deuses que nada valem, nem façam para vocês deuses de metal fundido. Eu sou Jeová, seu Deus.
+
+[[v3-19-5]]
+
+^<<v3-19-5,5>>^ “‘Se oferecerem a Jeová um sacrifício de participação em comum, devem sacrificá-lo de modo que ganhem aprovação.
+
+[[v3-19-6]]
+
+^<<v3-19-6,6>>^ Ele deve ser comido no dia em que o sacrificarem e no dia seguinte, mas o que sobrar até o terceiro dia deve ser queimado no fogo.
+
+[[v3-19-7]]
+
+^<<v3-19-7,7>>^ Mas, se algo dele for comido no terceiro dia, isso será algo ofensivo; não será aceito.
+
+[[v3-19-8]]
+
+^<<v3-19-8,8>>^ Quem o comer responderá pelo seu erro, porque profanou uma coisa sagrada de Jeová; essa pessoa^&#42;1^ será eliminada do seu povo.^&#42;2^
+
+[NOTE]
+====
+. Ou: “alma”.
+. Isto é, será morta.
+====
+
+[[v3-19-9]]
+
+^<<v3-19-9,9>>^ “‘Quando for feita a colheita da sua terra, não colha completamente a extremidade do seu campo nem apanhe as sobras^&#42;1^ da sua colheita.
+
+[NOTE]
+====
+. Ou: “a respiga”.
+====
+
+[[v3-19-10]]
+
+^<<v3-19-10,10>>^ Além disso, não recolha as sobras do seu vinhedo nem apanhe as uvas espalhadas do seu vinhedo. Você deve deixá-las para o pobre^&#42;1^ e para o residente estrangeiro. Eu sou Jeová, seu Deus.
+
+[NOTE]
+====
+. Ou: “atribulado”.
+====
+
+[[v3-19-11]]
+
+^<<v3-19-11,11>>^ “‘Não furtem, não enganem, não sejam falsos uns com os outros.
+
+[[v3-19-12]]
+
+^<<v3-19-12,12>>^ Não jurem falsamente em meu nome, profanando assim o nome do seu Deus. Eu sou Jeová.
+
+[[v3-19-13]]
+
+^<<v3-19-13,13>>^ Não defraude o seu próximo nem roube. Você não deve ficar com o salário de um trabalhador contratado a noite toda, até a manhã seguinte.
+
+[[v3-19-14]]
+
+^<<v3-19-14,14>>^ “‘Não amaldiçoe^&#42;1^ um surdo nem ponha um obstáculo diante de um cego; tenha temor do seu Deus. Eu sou Jeová.
+
+[NOTE]
+====
+. Ou: “Não invoque o mal sobre”.
+====
+
+[[v3-19-15]]
+
+^<<v3-19-15,15>>^ “‘Não façam injustiça no julgamento. Não mostre parcialidade a favor do pobre nem favoreça o rico. Você deve julgar o seu próximo com justiça.
+
+[[v3-19-16]]
+
+^<<v3-19-16,16>>^ “‘Não ande entre o seu povo espalhando calúnias. Não se levante contra a vida^&#42;1^ do seu próximo.^&#42;2^ Eu sou Jeová.
+
+[NOTE]
+====
+. Lit.: “o sangue”.
+. Ou, possivelmente: “Não fique parado quando a vida do seu próximo está em perigo.”
+====
+
+[[v3-19-17]]
+
+^<<v3-19-17,17>>^ “‘Não odeie seu irmão no coração. Você sem falta deve repreender seu próximo, para não ser culpado de pecado junto com ele.
+
+[[v3-19-18]]
+
+^<<v3-19-18,18>>^ “‘Não se vingue dos filhos do seu povo nem guarde ressentimento deles; ame o seu próximo como a si mesmo. Eu sou Jeová.
+
+[[v3-19-19]]
+
+^<<v3-19-19,19>>^ “‘Vocês devem guardar os meus decretos. Não cruze dois tipos de animais domésticos. Não semeie dois tipos de sementes no seu campo nem se vista com uma roupa de dois tipos de fios mesclados.
+
+[[v3-19-20]]
+
+^<<v3-19-20,20>>^ “‘Se um homem se deitar com uma mulher e tiver relações com ela, e ela for uma serva prometida a outro homem, mas não tiver sido remida nem tiver recebido liberdade, deve haver punição. No entanto, eles não devem ser mortos, pois ela ainda não havia sido posta em liberdade.
+
+[[v3-19-21]]
+
+^<<v3-19-21,21>>^ Ele deve trazer a Jeová a sua oferta pela culpa à entrada da tenda de reunião, um carneiro como oferta pela culpa.
+
+[[v3-19-22]]
+
+^<<v3-19-22,22>>^ O sacerdote fará expiação por ele perante Jeová com o carneiro da oferta pela culpa, pelo pecado que cometeu, e ele receberá o perdão pelo pecado que cometeu.
+
+[[v3-19-23]]
+
+^<<v3-19-23,23>>^ “‘Quando vocês entrarem na terra e plantarem qualquer árvore frutífera, considerarão os seus frutos impuros e proibidos.^&#42;1^ Por três anos eles estarão proibidos^&#42;2^ a vocês. Não devem ser comidos.
+
+[NOTE]
+====
+. Lit.: “como o prepúcio dela”.
+. Lit.: “incircuncisos”.
+====
+
+[[v3-19-24]]
+
+^<<v3-19-24,24>>^ Mas, no quarto ano, todo o seu fruto se tornará santo, para que haja alegria perante Jeová.
+
+[[v3-19-25]]
+
+^<<v3-19-25,25>>^ Então no quinto ano vocês poderão comer do fruto dela, e assim acrescentarão os frutos dela à sua colheita. Eu sou Jeová, seu Deus.
+
+[[v3-19-26]]
+
+^<<v3-19-26,26>>^ “‘Não comam nada com sangue.
+“‘Não procurem presságios^&#42;1^ nem pratiquem magia.
+
+[NOTE]
+====
+. Ou: “sinais”.
+====
+
+[[v3-19-27]]
+
+^<<v3-19-27,27>>^ “‘Não raspem^&#42;1^ o cabelo dos lados da cabeça, nem aparem a barba de forma a desfigurá-la.
+
+[NOTE]
+====
+. Ou: “Não aparem; Não cortem”.
+====
+
+[[v3-19-28]]
+
+^<<v3-19-28,28>>^ “‘Não façam cortes no corpo por causa de uma pessoa morta,^&#42;1^ nem façam tatuagem em vocês. Eu sou Jeová.
+
+[NOTE]
+====
+. Ou: “uma alma”. Aqui a palavra hebraica néfesh se refere a uma pessoa morta.
+====
+
+[[v3-19-29]]
+
+^<<v3-19-29,29>>^ “‘Não desonre a sua filha por fazer dela uma prostituta, para que a terra não cometa prostituição e se encha de devassidão.
+
+[[v3-19-30]]
+
+^<<v3-19-30,30>>^ “‘Guardem os meus sábados e tenham reverência^&#42;1^ pelo meu santuário. Eu sou Jeová.
+
+[NOTE]
+====
+. Ou: “admiração”. Lit.: “temor”.
+====
+
+[[v3-19-31]]
+
+^<<v3-19-31,31>>^ “‘Não recorram aos que invocam espíritos nem consultem adivinhos, tornando-se impuros por meio deles. Eu sou Jeová, seu Deus.
+
+[[v3-19-32]]
+
+^<<v3-19-32,32>>^ “‘Levante-se diante do cabelo branco, honre o homem idoso e tenha temor do seu Deus. Eu sou Jeová.
+
+[[v3-19-33]]
+
+^<<v3-19-33,33>>^ “‘Se um estrangeiro mora entre vocês na sua terra, não o maltratem.
+
+[[v3-19-34]]
+
+^<<v3-19-34,34>>^ O estrangeiro que mora entre vocês deve se tornar para vocês como um israelita. Ame-o como a si mesmo, pois vocês foram residentes estrangeiros na terra do Egito. Eu sou Jeová, seu Deus.
+
+[[v3-19-35]]
+
+^<<v3-19-35,35>>^ “‘Não usem medidas desonestas ao medir comprimento, peso ou volume.
+
+[[v3-19-36]]
+
+^<<v3-19-36,36>>^ Vocês devem usar balanças exatas, pesos exatos, uma medida exata para secos^&#42;1^ e uma medida exata para líquidos.^&#42;2^ Eu sou Jeová, seu Deus, que os tirou da terra do Egito.
+
+[NOTE]
+====
+. Lit.: “uma efa exata”. Veja Ap. B14.
+. Lit.: “um him exato”. Veja Ap. B14.
+====
+
+[[v3-19-37]]
+
+^<<v3-19-37,37>>^ Por isso, guardem todos os meus decretos e todas as minhas decisões judiciais, e cumpram-nos. Eu sou Jeová.’”
+
+'''
+
+xref:003-levitico/003-levitico-018.adoc#v3-18-0[&#60; Capítulo Anterior] | <<v3-19-0,Topo>> | xref:003-levitico/003-levitico-020.adoc#v3-20-0[Próximo Capítulo &#62;]

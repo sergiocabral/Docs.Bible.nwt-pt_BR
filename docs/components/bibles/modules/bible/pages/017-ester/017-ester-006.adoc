@@ -1,0 +1,85 @@
+include::./index.adoc[]
+
+[[v17-6-0]]
+=== Ester, 6
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v17-6-1]]
+
+^<<v17-6-1,1>>^ Naquela noite o rei perdeu o sono.^&#42;1^ Por isso, ele mandou trazer o livro dos registros históricos daqueles tempos, e o leram para o rei.
+
+[NOTE]
+====
+. Lit.: “o sono do rei fugiu”.
+====
+
+[[v17-6-2]]
+
+^<<v17-6-2,2>>^ E viram que ali estava escrito que Mordecai havia denunciado Bigtana e Teres, dois oficiais da corte do rei, porteiros, que haviam planejado matar o^&#42;1^ rei Assuero.
+
+[NOTE]
+====
+. Lit.: “deitar mão no”.
+====
+
+[[v17-6-3]]
+
+^<<v17-6-3,3>>^ O rei perguntou: “Que honra e reconhecimento Mordecai recebeu por isso?” Os assistentes pessoais do rei responderam: “Nada foi feito por ele.”
+
+[[v17-6-4]]
+
+^<<v17-6-4,4>>^ Mais tarde o rei perguntou: “Quem está no pátio?” Era Hamã quem tinha entrado no pátio externo da casa^&#42;1^ do rei, para lhe pedir que Mordecai fosse pendurado no madeiro que havia preparado para ele.
+
+[NOTE]
+====
+. Ou: “do palácio”.
+====
+
+[[v17-6-5]]
+
+^<<v17-6-5,5>>^ Os assistentes do rei responderam: “É Hamã que está no pátio.” O rei disse então: “Mandem-no entrar.”
+
+[[v17-6-6]]
+
+^<<v17-6-6,6>>^ Quando Hamã entrou, o rei lhe perguntou: “O que se deve fazer ao homem a quem o rei deseja honrar?” Hamã disse no coração: “A quem o rei desejaria honrar mais do que a mim?”
+
+[[v17-6-7]]
+
+^<<v17-6-7,7>>^ Portanto, Hamã respondeu ao rei: “Para o homem a quem o rei deseja honrar,
+
+[[v17-6-8]]
+
+^<<v17-6-8,8>>^ devem-se trazer vestes reais, que o próprio rei usa, e um cavalo em que o rei cavalga, e colocar na cabeça do cavalo um ornamento régio.
+
+[[v17-6-9]]
+
+^<<v17-6-9,9>>^ As vestes e o cavalo devem ser entregues aos cuidados de um dos príncipes mais destacados do rei, e terão de vestir o homem a quem o rei deseja honrar e fazê-lo cavalgar na praça da cidade. Deverão proclamar diante dele: ‘Assim se faz ao homem a quem o rei deseja honrar!’”
+
+[[v17-6-10]]
+
+^<<v17-6-10,10>>^ Imediatamente o rei disse a Hamã: “Vá depressa pegar as vestes e o cavalo, e faça a Mordecai, o judeu, que está sentado no portão do rei, tudo o que você acabou de falar. Não deixe de fazer nada do que você falou.”
+
+[[v17-6-11]]
+
+^<<v17-6-11,11>>^ Então Hamã pegou as vestes e o cavalo, vestiu Mordecai e o fez cavalgar na praça da cidade, proclamando diante dele: “Assim se faz ao homem a quem o rei deseja honrar!”
+
+[[v17-6-12]]
+
+^<<v17-6-12,12>>^ Depois Mordecai voltou ao portão do rei, mas Hamã foi depressa para casa, chorando e cobrindo a cabeça.
+
+[[v17-6-13]]
+
+^<<v17-6-13,13>>^ Hamã contou a Zeres, sua esposa, e a todos os seus amigos tudo o que havia acontecido com ele. Então seus sábios e Zeres, sua esposa, lhe disseram: “Se Mordecai, diante de quem você começou a cair, é de descendência judaica,^&#42;1^ você não poderá vencê-lo. Você certamente cairá diante dele.”
+
+[NOTE]
+====
+. Lit.: “da semente dos judeus”.
+====
+
+[[v17-6-14]]
+
+^<<v17-6-14,14>>^ Enquanto ainda estavam falando com ele, chegaram os oficiais da corte do rei e imediatamente levaram Hamã ao banquete preparado por Ester.
+
+'''
+
+xref:017-ester/017-ester-005.adoc#v17-5-0[&#60; Capítulo Anterior] | <<v17-6-0,Topo>> | xref:017-ester/017-ester-007.adoc#v17-7-0[Próximo Capítulo &#62;]

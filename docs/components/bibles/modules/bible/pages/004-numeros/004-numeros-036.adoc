@@ -1,0 +1,71 @@
+include::./index.adoc[]
+
+[[v4-36-0]]
+=== Números, 36
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v4-36-1]]
+
+^<<v4-36-1,1>>^ Os patriarcas dos descendentes de Gileade, filho de Maquir, filho de Manassés, das famílias dos filhos de José, se aproximaram de Moisés e dos maiorais, os patriarcas dos israelitas,
+
+[[v4-36-2]]
+
+^<<v4-36-2,2>>^ e disseram: “Jeová ordenou que o meu senhor distribuísse a terra por sortes como herança aos israelitas, e Jeová ordenou que o meu senhor desse a herança de Zelofeade, nosso irmão, às filhas dele.
+
+[[v4-36-3]]
+
+^<<v4-36-3,3>>^ Se elas se casarem com homens de outra tribo de Israel, a herança das mulheres será retirada da herança dos nossos pais e será acrescentada à herança da tribo à qual elas vierem a pertencer, de modo que será retirada da parte que nos cabe como herança.
+
+[[v4-36-4]]
+
+^<<v4-36-4,4>>^ E, quando chegar o jubileu para o povo de Israel, a herança das mulheres será acrescentada à herança da tribo à qual pertencerem, de modo que a herança delas será retirada da herança da tribo dos nossos pais.”
+
+[[v4-36-5]]
+
+^<<v4-36-5,5>>^ Então, conforme a ordem de Jeová, Moisés ordenou o seguinte aos israelitas: “O que a tribo dos filhos de José disse está certo.
+
+[[v4-36-6]]
+
+^<<v4-36-6,6>>^ Isto é o que Jeová ordenou a respeito das filhas de Zelofeade: ‘Elas podem se casar com quem quiserem, desde que seja com alguém de uma família da tribo do seu pai.
+
+[[v4-36-7]]
+
+^<<v4-36-7,7>>^ Nenhuma herança dos israelitas deve passar de uma tribo para outra, pois os israelitas devem ficar com a^&#42;1^ herança da tribo dos seus antepassados.
+
+[NOTE]
+====
+. Ou: “se apegar à”.
+====
+
+[[v4-36-8]]
+
+^<<v4-36-8,8>>^ E toda filha que possuir uma herança entre as tribos de Israel deve se tornar esposa de um descendente da tribo do seu pai, a fim de que os israelitas mantenham a posse da herança dos seus antepassados.
+
+[[v4-36-9]]
+
+^<<v4-36-9,9>>^ Nenhuma herança deve passar de uma tribo para outra, pois as tribos de Israel devem ficar com a^&#42;1^ sua própria herança.’”
+
+[NOTE]
+====
+. Ou: “se apegar à”.
+====
+
+[[v4-36-10]]
+
+^<<v4-36-10,10>>^ As filhas de Zelofeade fizeram assim como Jeová havia ordenado a Moisés.
+
+[[v4-36-11]]
+
+^<<v4-36-11,11>>^ Portanto, Maala, Tirza, Hogla, Milca e Noa, as filhas de Zelofeade, se casaram com os filhos dos irmãos do seu pai.
+
+[[v4-36-12]]
+
+^<<v4-36-12,12>>^ Elas se tornaram esposas de homens das famílias de Manassés, filho de José, para que a herança delas continuasse na tribo da família do seu pai.
+
+[[v4-36-13]]
+
+^<<v4-36-13,13>>^ Esses são os mandamentos e as decisões judiciais que Jeová deu aos israelitas por meio de Moisés, nas planícies desérticas de Moabe, junto ao Jordão, na altura de Jericó.
+
+'''
+
+xref:004-numeros/004-numeros-035.adoc#v4-35-0[&#60; Capítulo Anterior] | <<v4-36-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-001.adoc#v5-1-0[Próximo Capítulo &#62;]

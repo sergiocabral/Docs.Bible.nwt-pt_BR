@@ -1,0 +1,154 @@
+include::./index.adoc[]
+
+[[v1-2-0]]
+=== Gênesis, 2
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v1-2-1]]
+
+^<<v1-2-1,1>>^ Assim foram terminados os céus, a terra e tudo que há neles.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “e todo o seu exército”.
+====
+
+[[v1-2-2]]
+
+^<<v1-2-2,2>>^ No sétimo dia Deus havia terminado a sua obra,^&#42;1^ e ele passou a descansar, no sétimo dia, de toda a obra que fez.
+
+[NOTE]
+====
+. Ou: “a obra que fez”.
+====
+
+[[v1-2-3]]
+
+^<<v1-2-3,3>>^ E Deus abençoou o sétimo dia e o declarou sagrado, pois neste dia Deus tem descansado de toda a obra que criou, de tudo que ele decidiu fazer.
+
+[[v1-2-4]]
+
+^<<v1-2-4,4>>^ Esta é a história dos céus e da terra no tempo em que foram criados, no dia em que Jeová^&#42;1^ Deus fez a terra e o céu.
+
+[NOTE]
+====
+. Primeira ocorrência do nome próprio de Deus, יהוה (YHWH). Veja Ap. A4.
+====
+
+[[v1-2-5]]
+
+^<<v1-2-5,5>>^ Ainda não havia nenhum arbusto do campo na terra nem havia começado a brotar nenhuma vegetação do campo, porque Jeová Deus não tinha feito chover sobre a terra e não havia homem para cultivar o solo.
+
+[[v1-2-6]]
+
+^<<v1-2-6,6>>^ Mas uma neblina subia da terra e regava toda a superfície do solo.
+
+[[v1-2-7]]
+
+^<<v1-2-7,7>>^ E Jeová Deus formou o homem do pó do solo e soprou nas suas narinas o fôlego de vida, e o homem se tornou um ser^&#42;1^ vivente.
+
+[NOTE]
+====
+. Ou: “uma alma; uma pessoa”. Em hebraico, néfesh, que significa literalmente “uma criatura que respira”. Veja o Glossário, “Alma”.
+====
+
+[[v1-2-8]]
+
+^<<v1-2-8,8>>^ Além disso, Jeová Deus plantou um jardim no Éden, no leste, e ali pôs o homem que havia formado.
+
+[[v1-2-9]]
+
+^<<v1-2-9,9>>^ Então Jeová Deus fez brotar do solo todo tipo de árvores de aspecto agradável e boas para alimento, e também a árvore da vida no meio do jardim e a árvore do conhecimento do que é bom e do que é mau.
+
+[[v1-2-10]]
+
+^<<v1-2-10,10>>^ Havia um rio que nascia no Éden e regava o jardim, e dali se dividia em quatro rios.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “se tornava quatro cabeças”.
+====
+
+[[v1-2-11]]
+
+^<<v1-2-11,11>>^ O nome do primeiro é Pisom; é aquele que contorna toda a terra de Havilá, onde há ouro.
+
+[[v1-2-12]]
+
+^<<v1-2-12,12>>^ O ouro daquela terra é bom. Ali há também a resina bdélio e a pedra de ônix.
+
+[[v1-2-13]]
+
+^<<v1-2-13,13>>^ O nome do segundo rio é Giom; é aquele que contorna toda a terra de Cuche.
+
+[[v1-2-14]]
+
+^<<v1-2-14,14>>^ O nome do terceiro rio é Hídequel;^&#42;1^ é aquele que vai para o leste da Assíria. E o quarto rio é o Eufrates.
+
+[NOTE]
+====
+. Ou: “Tigre”.
+====
+
+[[v1-2-15]]
+
+^<<v1-2-15,15>>^ Jeová Deus tomou o homem e o estabeleceu no jardim do Éden, para que o cultivasse e tomasse conta dele.
+
+[[v1-2-16]]
+
+^<<v1-2-16,16>>^ Jeová Deus deu também esta ordem ao homem: “De toda árvore do jardim, você pode comer à vontade.
+
+[[v1-2-17]]
+
+^<<v1-2-17,17>>^ Mas, quanto à árvore do conhecimento do que é bom e do que é mau, não coma dela, porque, no dia em que dela comer, você certamente morrerá.”
+
+[[v1-2-18]]
+
+^<<v1-2-18,18>>^ Então Jeová Deus disse: “Não é bom que o homem fique sozinho. Vou fazer-lhe uma ajudadora, como complemento dele.”
+
+[[v1-2-19]]
+
+^<<v1-2-19,19>>^ Jeová Deus tinha formado do solo todo animal selvagem^&#42;1^ e toda criatura voadora dos céus, e ele começou a levá-los ao homem para ver como este chamaria a cada um deles; e como o homem chamava a cada criatura^&#42;2^ vivente, esse se tornava o seu nome.
+
+[NOTE]
+====
+. Lit.: “toda criatura vivente do campo”.
+. Ou: “alma”.
+====
+
+[[v1-2-20]]
+
+^<<v1-2-20,20>>^ Assim o homem deu nome a todos os animais domésticos, às criaturas voadoras dos céus e a todo animal selvagem; mas, para o homem, não havia nenhuma ajudadora para o complementar.
+
+[[v1-2-21]]
+
+^<<v1-2-21,21>>^ Então, Jeová Deus fez o homem cair num sono profundo e, enquanto ele dormia, tirou-lhe uma das costelas e depois fechou a carne naquele lugar.
+
+[[v1-2-22]]
+
+^<<v1-2-22,22>>^ E, da costela que havia tirado do homem, Jeová Deus fez a mulher e levou-a ao homem.
+
+[[v1-2-23]]
+
+^<<v1-2-23,23>>^ O homem disse então:
+“Esta, por fim, é osso dos meus ossos
+E carne da minha carne.
+Ela será chamada ‘mulher’,
+Porque do homem foi tirada.”
+
+[[v1-2-24]]
+
+^<<v1-2-24,24>>^ Por isso é que o homem deixará seu pai e sua mãe e se apegará à^&#42;1^ sua esposa, e eles se tornarão uma só carne.
+
+[NOTE]
+====
+. Ou: “e permanecerá com”.
+====
+
+[[v1-2-25]]
+
+^<<v1-2-25,25>>^ E ambos continuavam nus, o homem e sua esposa, contudo não se envergonhavam.
+
+'''
+
+xref:001-genesis/001-genesis-001.adoc#v1-1-0[&#60; Capítulo Anterior] | <<v1-2-0,Topo>> | xref:001-genesis/001-genesis-003.adoc#v1-3-0[Próximo Capítulo &#62;]

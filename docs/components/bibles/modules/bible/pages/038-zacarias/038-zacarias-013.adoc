@@ -1,0 +1,67 @@
+include::./index.adoc[]
+
+[[v38-13-0]]
+=== Zacarias, 13
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v38-13-1]]
+
+^<<v38-13-1,1>>^ “Naquele dia será aberto um poço para a casa de Davi e para os habitantes de Jerusalém, a fim de purificá-los do pecado e da impureza.
+
+[[v38-13-2]]
+
+^<<v38-13-2,2>>^ “Naquele dia”, diz Jeová dos exércitos, “apagarei desta terra o nome dos ídolos, e eles não serão mais lembrados; e também removerei desta terra os profetas e o espírito de impureza.
+
+[[v38-13-3]]
+
+^<<v38-13-3,3>>^ E, se um homem profetizar novamente, seu pai e sua mãe, aqueles que o geraram, dirão a ele: ‘Você não continuará vivendo, porque falou mentiras em nome de Jeová.’ E seu pai e sua mãe, aqueles que o geraram, o traspassarão por ele ter profetizado.
+
+[[v38-13-4]]
+
+^<<v38-13-4,4>>^ “Naquele dia cada um dos profetas ficará envergonhado da sua visão ao profetizar; e eles não vestirão um manto oficial de pelo para enganar outros.
+
+[[v38-13-5]]
+
+^<<v38-13-5,5>>^ E cada um deles dirá: ‘Não sou profeta. Sou agricultor, porque um homem me comprou como escravo quando eu era jovem.’
+
+[[v38-13-6]]
+
+^<<v38-13-6,6>>^ E, se alguém lhe perguntar: ‘Que ferimentos são esses entre os seus ombros?’,^&#42;1^ ele responderá: ‘Fui ferido na casa dos meus amigos.’”^&#42;2^
+
+[NOTE]
+====
+. Lit.: “entre as suas mãos”, isto é, no peito ou nas costas.
+. Ou: “daqueles que me amam”.
+====
+
+[[v38-13-7]]
+
+^<<v38-13-7,7>>^ “Ó espada, desperte contra o meu pastor,
+Contra o homem que é meu companheiro”, diz Jeová dos exércitos.
+“Fira o pastor, e que o rebanho seja espalhado;^&#42;1^
+E voltarei a mão contra os insignificantes.”
+
+[NOTE]
+====
+. Ou: “as ovelhas sejam espalhadas”.
+====
+
+[[v38-13-8]]
+
+^<<v38-13-8,8>>^ “E, em toda esta terra”, diz Jeová,
+“Dois terços serão eliminados, morrerão;
+E um terço restará.
+
+[[v38-13-9]]
+
+^<<v38-13-9,9>>^ E eu farei esse um terço passar pelo fogo;
+Eu os refinarei como se refina a prata
+E os provarei como se prova o ouro.
+Eles invocarão o meu nome,
+E eu lhes responderei.
+Vou dizer: ‘Eles são o meu povo’,
+E eles dirão: ‘Jeová é o nosso Deus.’”
+
+'''
+
+xref:038-zacarias/038-zacarias-012.adoc#v38-12-0[&#60; Capítulo Anterior] | <<v38-13-0,Topo>> | xref:038-zacarias/038-zacarias-014.adoc#v38-14-0[Próximo Capítulo &#62;]

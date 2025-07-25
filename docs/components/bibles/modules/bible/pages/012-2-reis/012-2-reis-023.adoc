@@ -1,0 +1,224 @@
+include::./index.adoc[]
+
+[[v12-23-0]]
+=== O Segundo dos Reis, 23
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v12-23-1]]
+
+^<<v12-23-1,1>>^ Então o rei mandou convocar todos os anciãos de Judá e de Jerusalém.
+
+[[v12-23-2]]
+
+^<<v12-23-2,2>>^ Depois o rei subiu à casa de Jeová com todos os homens de Judá, todos os habitantes de Jerusalém, os sacerdotes e os profetas — todo o povo, do pequeno ao grande. Ele leu para eles todas as palavras do livro do pacto que tinha sido achado na casa de Jeová.
+
+[[v12-23-3]]
+
+^<<v12-23-3,3>>^ O rei ficou de pé junto à coluna e fez um pacto^&#42;1^ perante Jeová, comprometendo-se a seguir a Jeová e a guardar seus mandamentos, suas advertências^&#42;2^ e seus decretos, de todo o coração e de toda a alma,^&#42;3^ cumprindo as palavras do pacto escritas no livro. E todo o povo concordou com o pacto.
+
+[NOTE]
+====
+. Ou: “renovou o pacto”.
+. Ou: “seus lembretes”.
+. Veja o Glossário.
+====
+
+[[v12-23-4]]
+
+^<<v12-23-4,4>>^ O rei mandou então que Hilquias, o sumo sacerdote, os sacerdotes de segunda ordem e os porteiros tirassem do templo de Jeová todos os utensílios feitos para Baal, para o poste sagrado^&#42;1^ e para todo o exército dos céus. Então os queimou fora de Jerusalém, nas encostas^&#42;2^ do Cédron, e levou as cinzas deles a Betel.
+
+[NOTE]
+====
+. Veja o Glossário.
+. Ou: “nos terraços de lavoura”.
+====
+
+[[v12-23-5]]
+
+^<<v12-23-5,5>>^ E acabou com a atividade dos sacerdotes de deuses estrangeiros, a quem os reis de Judá tinham designado para fazer fumaça sacrificial nos altos sagrados das cidades de Judá e dos arredores de Jerusalém. Também acabou com a atividade dos que faziam fumaça sacrificial a Baal, ao sol, à lua, às constelações do zodíaco e a todo o exército dos céus.
+
+[[v12-23-6]]
+
+^<<v12-23-6,6>>^ Ele tirou o poste sagrado^&#42;1^ da casa de Jeová e o levou para fora de Jerusalém, ao vale do Cédron. Ele o queimou no vale do Cédron, reduziu-o a pó e espalhou o pó nas sepulturas do povo comum.
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v12-23-7]]
+
+^<<v12-23-7,7>>^ Ele também demoliu as casas dos prostitutos de templo, as quais ficavam na casa de Jeová e onde as mulheres teciam tendas que serviam como santuários para o poste sagrado.^&#42;1^
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v12-23-8]]
+
+^<<v12-23-8,8>>^ Depois ele tirou todos os sacerdotes das cidades de Judá, e tornou impróprios para adoração os altos sagrados onde esses sacerdotes tinham feito fumaça sacrificial, desde Geba até Berseba. Ele também demoliu os altos sagrados que havia à entrada do portão de Josué, o chefe da cidade, que ficavam à esquerda de quem entrava pelo portão da cidade.
+
+[[v12-23-9]]
+
+^<<v12-23-9,9>>^ Os sacerdotes dos altos sagrados não serviam no altar de Jeová em Jerusalém, mas comiam pães sem fermento junto com seus irmãos.
+
+[[v12-23-10]]
+
+^<<v12-23-10,10>>^ Ele também tornou impróprio para adoração Tofete, que fica no vale dos filhos de Hinom,^&#42;1^ para que ninguém queimasse seu filho ou sua filha no fogo^&#42;2^ para Moloque.
+
+[NOTE]
+====
+. Veja o Glossário, “Geena”.
+. Lit.: “fizesse seu filho ou sua filha passar pelo fogo”.
+====
+
+[[v12-23-11]]
+
+^<<v12-23-11,11>>^ E ele proibiu que os cavalos que os reis de Judá tinham dedicado^&#42;1^ ao sol entrassem na casa de Jeová pela sala^&#42;2^ de Natã-Meleque, o oficial da corte, a qual ficava no pórtico. E ele queimou no fogo os carros de guerra dedicados ao sol.
+
+[NOTE]
+====
+. Lit.: “dado”.
+. Ou: “pelo refeitório”.
+====
+
+[[v12-23-12]]
+
+^<<v12-23-12,12>>^ O rei também demoliu os altares que os reis de Judá tinham feito no terraço do quarto superior de Acaz, bem como os altares que Manassés tinha feito nos dois pátios da casa de Jeová. Ele os reduziu a pó e espalhou o pó no vale do Cédron.
+
+[[v12-23-13]]
+
+^<<v12-23-13,13>>^ E o rei tornou impróprios para adoração os altos sagrados que ficavam em frente de Jerusalém, ao sul^&#42;1^ do monte da Ruína,^&#42;2^ os quais Salomão, rei de Israel, tinha construído para Astorete, a repugnante deusa dos sidônios, para Quemós, o repugnante deus de Moabe, e para Milcom, o detestável deus dos amonitas.
+
+[NOTE]
+====
+. Lit.: “à direita”. Isto é, ao sul, quando se está de frente para o leste.
+. Isto é, o monte das Oliveiras, especialmente a extremidade sul, também conhecida como o monte da Ofensa.
+====
+
+[[v12-23-14]]
+
+^<<v12-23-14,14>>^ Ele destroçou as colunas sagradas, derrubou os postes sagrados^&#42;1^ e encheu de ossos humanos os lugares onde esses ficavam.
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v12-23-15]]
+
+^<<v12-23-15,15>>^ Ele também demoliu o altar que ficava em Betel e o alto sagrado que Jeroboão, filho de Nebate, tinha feito e que levou Israel a pecar. Depois de demolir esse altar e o alto sagrado, ele queimou o alto sagrado e o reduziu a pó; também queimou o poste sagrado.^&#42;1^
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v12-23-16]]
+
+^<<v12-23-16,16>>^ Quando Josias se virou e viu as sepulturas que havia no monte, mandou tirar os ossos das sepulturas e os queimou no altar, tornando-o impróprio para adoração, segundo a palavra de Jeová declarada pelo homem do verdadeiro Deus, que predisse essas coisas.
+
+[[v12-23-17]]
+
+^<<v12-23-17,17>>^ Então ele perguntou: “Que túmulo é aquele que estou vendo lá?” Os homens da cidade responderam: “É a sepultura do homem do verdadeiro Deus, de Judá, que predisse estas coisas que o senhor fez contra o altar de Betel.”
+
+[[v12-23-18]]
+
+^<<v12-23-18,18>>^ Assim ele disse: “Deixem-no descansar. Que ninguém mexa nos ossos dele.” Portanto, não mexeram nos ossos dele nem nos ossos do profeta que tinha vindo de Samaria.
+
+[[v12-23-19]]
+
+^<<v12-23-19,19>>^ Josias também removeu todos os santuários dos altos sagrados que havia nas cidades de Samaria, os quais os reis de Israel tinham construído para ofender a Deus; e fez com eles o mesmo que tinha feito com o alto sagrado em Betel.
+
+[[v12-23-20]]
+
+^<<v12-23-20,20>>^ Assim, ele sacrificou nos altares todos os sacerdotes dos altos sagrados que estavam ali e queimou neles ossos humanos. Depois voltou para Jerusalém.
+
+[[v12-23-21]]
+
+^<<v12-23-21,21>>^ O rei ordenou então a todo o povo: “Celebrem a Páscoa para Jeová, seu Deus, conforme está escrito neste livro do pacto.”
+
+[[v12-23-22]]
+
+^<<v12-23-22,22>>^ Nenhuma Páscoa como esta tinha sido realizada desde os dias em que os juízes julgavam Israel, nem durante todos os dias dos reis de Israel e dos reis de Judá.
+
+[[v12-23-23]]
+
+^<<v12-23-23,23>>^ Mas, no décimo oitavo ano do rei Josias, essa Páscoa para Jeová foi realizada em Jerusalém.
+
+[[v12-23-24]]
+
+^<<v12-23-24,24>>^ Josias também eliminou os que invocavam espíritos, os adivinhos, os ídolos domésticos,^&#42;1^ os ídolos repugnantes^&#42;2^ e todas as coisas repugnantes que tinham surgido na terra de Judá e em Jerusalém, a fim de cumprir as palavras da Lei escritas no livro que Hilquias, o sacerdote, tinha achado na casa de Jeová.
+
+[NOTE]
+====
+. Ou: “deuses domésticos”. Lit.: “terafins”.
+. O termo hebraico talvez esteja relacionado a uma palavra para “esterco” e é usado como expressão de desprezo.
+====
+
+[[v12-23-25]]
+
+^<<v12-23-25,25>>^ Antes dele, não houve nenhum rei igual a ele, que voltasse a Jeová de todo o coração, de toda a alma^&#42;1^ e de toda a força, cumprindo toda a Lei de Moisés; e, depois dele, não houve nenhum rei igual a ele.
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v12-23-26]]
+
+^<<v12-23-26,26>>^ No entanto, Jeová não abandonou a sua ira ardente que se acendeu contra Judá por causa de todas as coisas ofensivas que Manassés tinha feito para ofendê-lo.
+
+[[v12-23-27]]
+
+^<<v12-23-27,27>>^ Jeová disse: “Também removerei Judá da minha vista, assim como removi Israel; e rejeitarei esta cidade que escolhi, Jerusalém, e a casa a respeito da qual eu disse: ‘Meu nome continuará ali.’”
+
+[[v12-23-28]]
+
+^<<v12-23-28,28>>^ Quanto aos outros acontecimentos da história de Josias, tudo o que ele fez, não estão escritos no livro da história da época dos reis de Judá?
+
+[[v12-23-29]]
+
+^<<v12-23-29,29>>^ Nos seus dias, o Faraó Neco, rei do Egito, foi ao encontro do rei da Assíria, junto ao rio Eufrates. E o rei Josias saiu para enfrentar o Faraó Neco, mas, quando Neco o viu, matou-o em Megido.
+
+[[v12-23-30]]
+
+^<<v12-23-30,30>>^ Portanto, seus servos levaram seu corpo num carro de guerra de Megido a Jerusalém e o enterraram na sua sepultura. Então o povo da terra tomou Jeoacaz, filho de Josias, ungiu-o e o fez rei no lugar do seu pai.
+
+[[v12-23-31]]
+
+^<<v12-23-31,31>>^ Jeoacaz tinha 23 anos de idade quando se tornou rei, e reinou por três meses em Jerusalém. O nome da sua mãe era Hamutal, filha de Jeremias, de Libna.
+
+[[v12-23-32]]
+
+^<<v12-23-32,32>>^ Ele começou a fazer o que era mau aos olhos de Jeová, conforme tudo o que os seus antepassados tinham feito.
+
+[[v12-23-33]]
+
+^<<v12-23-33,33>>^ O Faraó Neco prendeu-o em Ribla, na terra de Hamate, para impedir que reinasse em Jerusalém, e então exigiu que o país pagasse um tributo de cem talentos^&#42;1^ de prata e um talento de ouro.
+
+[NOTE]
+====
+. Um talento equivalia a 34,2 kg. Veja Ap. B14.
+====
+
+[[v12-23-34]]
+
+^<<v12-23-34,34>>^ Além disso, o Faraó Neco fez Eliaquim, filho de Josias, rei no lugar de Josias, seu pai, e mudou o nome dele para Jeoiaquim; mas pegou Jeoacaz e o levou para o Egito, onde morreu.
+
+[[v12-23-35]]
+
+^<<v12-23-35,35>>^ Jeoiaquim deu a Faraó a prata e o ouro, mas, para dar o dinheiro que Faraó exigiu, teve de cobrar tributo do povo. Ele cobrou de cada um do povo da terra um valor estipulado de prata e ouro para dar ao Faraó Neco.
+
+[[v12-23-36]]
+
+^<<v12-23-36,36>>^ Jeoiaquim tinha 25 anos de idade quando se tornou rei, e reinou por 11 anos em Jerusalém. O nome da sua mãe era Zebida, filha de Pedaías, de Ruma.
+
+[[v12-23-37]]
+
+^<<v12-23-37,37>>^ Ele fazia o que era mau aos olhos de Jeová, conforme tudo o que os seus antepassados tinham feito.
+
+'''
+
+xref:012-2-reis/012-2-reis-022.adoc#v12-22-0[&#60; Capítulo Anterior] | <<v12-23-0,Topo>> | xref:012-2-reis/012-2-reis-024.adoc#v12-24-0[Próximo Capítulo &#62;]

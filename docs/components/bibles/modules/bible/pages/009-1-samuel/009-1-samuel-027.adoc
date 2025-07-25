@@ -1,0 +1,72 @@
+include::./index.adoc[]
+
+[[v9-27-0]]
+=== O Primeiro de Samuel, 27
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v9-27-1]]
+
+^<<v9-27-1,1>>^ No entanto, Davi disse no coração: “Um dia Saul vai me matar. O melhor que posso fazer é fugir para a terra dos filisteus; então Saul vai desistir de me procurar em todo o território de Israel, e eu escaparei dele.”
+
+[[v9-27-2]]
+
+^<<v9-27-2,2>>^ Portanto, Davi e os 600 homens que estavam com ele foram a Aquis, filho de Maoque, rei de Gate.
+
+[[v9-27-3]]
+
+^<<v9-27-3,3>>^ Davi e seus homens, cada um com sua família, ficaram com Aquis em Gate. Davi levou suas duas esposas, Ainoã, de Jezreel, e Abigail, a carmelita, viúva de Nabal.
+
+[[v9-27-4]]
+
+^<<v9-27-4,4>>^ Quando Saul foi informado que Davi tinha fugido para Gate, parou de procurá-lo.
+
+[[v9-27-5]]
+
+^<<v9-27-5,5>>^ Davi disse então a Aquis: “Se eu tiver achado favor aos seus olhos, dê-me um lugar para morar num dos povoados da zona rural. Por que o seu servo devia morar com o senhor na cidade real?”
+
+[[v9-27-6]]
+
+^<<v9-27-6,6>>^ Portanto, naquele dia Aquis lhe deu Ziclague. É por isso que Ziclague pertence aos reis de Judá até hoje.
+
+[[v9-27-7]]
+
+^<<v9-27-7,7>>^ O tempo^&#42;1^ que Davi ficou morando na zona rural dos filisteus foi um ano e quatro meses.
+
+[NOTE]
+====
+. Lit.: “número de dias”.
+====
+
+[[v9-27-8]]
+
+^<<v9-27-8,8>>^ Davi e seus homens atacavam os gesuritas, os girzitas e os amalequitas, pois habitavam a região que se estendia desde Telão até Sur, descendo até a terra do Egito.
+
+[[v9-27-9]]
+
+^<<v9-27-9,9>>^ Quando atacava a região, Davi não preservava vivo nem homem nem mulher. Saqueava ovelhas, bois, jumentos, camelos e roupas; depois retornava a Aquis.
+
+[[v9-27-10]]
+
+^<<v9-27-10,10>>^ E quando Aquis perguntava: “Onde você atacou hoje?” Davi respondia: “O sul^&#42;1^ de Judá”, ou “O sul do território dos jerameelitas”, ou “O sul do território dos queneus”.
+
+[NOTE]
+====
+. Ou: “O Neguebe”.
+====
+
+[[v9-27-11]]
+
+^<<v9-27-11,11>>^ Davi não poupava nem homem nem mulher, para que não fossem levados a Gate, pois dizia: “Eles poderão nos denunciar, contando o que eu fiz.” (Era isso que ele fazia todo o tempo em que morou na zona rural dos filisteus.)
+
+[[v9-27-12]]
+
+^<<v9-27-12,12>>^ Assim, Aquis acreditava em Davi e pensava: ‘Sem dúvida ele passou a ser odiado pelo^&#42;1^ seu povo, Israel; agora ele sempre será meu servo.’
+
+[NOTE]
+====
+. Ou: “ele se tornou um mau cheiro entre o”.
+====
+
+'''
+
+xref:009-1-samuel/009-1-samuel-026.adoc#v9-26-0[&#60; Capítulo Anterior] | <<v9-27-0,Topo>> | xref:009-1-samuel/009-1-samuel-028.adoc#v9-28-0[Próximo Capítulo &#62;]

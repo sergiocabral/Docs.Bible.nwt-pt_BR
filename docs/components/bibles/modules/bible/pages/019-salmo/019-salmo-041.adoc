@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v19-41-0]]
+=== Salmos, 41
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Ao regente. Salmo de Davi._
+
+[[v19-41-1]]
+
+^<<v19-41-1,1>>^ Feliz aquele que mostra consideração ao de condição humilde;
+Jeová o livrará no dia da calamidade.
+
+[[v19-41-2]]
+
+^<<v19-41-2,2>>^ Jeová o protegerá e o preservará vivo.
+Ele será proclamado feliz na terra;
+Nunca o abandonarás à mercê^&#42;1^ dos inimigos dele.
+
+[NOTE]
+====
+. Ou: “ao desejo; à alma”. Veja o Glossário, “Alma”.
+====
+
+[[v19-41-3]]
+
+^<<v19-41-3,3>>^ Jeová o amparará no leito de enfermidade.
+Transformarás completamente a sua cama enquanto ele estiver doente.
+
+[[v19-41-4]]
+
+^<<v19-41-4,4>>^ Pois eu disse: “Ó Jeová, mostra-me favor.
+Cura-me,^&#42;1^ pois pequei contra ti.”
+
+[NOTE]
+====
+. Ou: “Cura a minha alma”.
+====
+
+[[v19-41-5]]
+
+^<<v19-41-5,5>>^ Mas os meus inimigos falam coisas más sobre mim:
+“Quando é que ele morrerá e seu nome será esquecido?”
+
+[[v19-41-6]]
+
+^<<v19-41-6,6>>^ Se um deles vem me visitar, seu coração fala falsidades.
+Ele reúne coisas maldosas para dizer;
+Depois vai embora e as divulga.
+
+[[v19-41-7]]
+
+^<<v19-41-7,7>>^ Todos os que me odeiam cochicham uns com os outros,
+Tramam coisas más contra mim:
+
+[[v19-41-8]]
+
+^<<v19-41-8,8>>^ “Algo terrível lhe sobreveio;
+Agora que está prostrado, não se levantará mais.”
+
+[[v19-41-9]]
+
+^<<v19-41-9,9>>^ Até mesmo o homem que estava em paz comigo e em quem eu confiava,
+Que comia do meu pão, se voltou contra mim.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “levantou seu calcanhar contra mim”.
+====
+
+[[v19-41-10]]
+
+^<<v19-41-10,10>>^ Tu, porém, ó Jeová, mostra-me favor e levanta-me,
+Para que eu lhes retribua.
+
+[[v19-41-11]]
+
+^<<v19-41-11,11>>^ É assim que saberei que te agradas de mim:
+Quando meu inimigo não puder cantar vitória sobre mim.
+
+[[v19-41-12]]
+
+^<<v19-41-12,12>>^ Tu me sustentas por causa da minha integridade;
+Tu me manterás na tua presença para sempre.
+
+[[v19-41-13]]
+
+^<<v19-41-13,13>>^ Que Jeová, o Deus de Israel, seja louvado
+Por toda a eternidade.^&#42;1^
+Amém e amém!
+
+[NOTE]
+====
+. Ou: “De eternidade a eternidade”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-040.adoc#v19-40-0[&#60; Capítulo Anterior] | <<v19-41-0,Topo>> | xref:019-salmo/019-salmo-042.adoc#v19-42-0[Próximo Capítulo &#62;]

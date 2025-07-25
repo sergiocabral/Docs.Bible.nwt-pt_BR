@@ -1,0 +1,60 @@
+include::./index.adoc[]
+
+[[v52-1-0]]
+=== A Primeira aos Tessalonicenses, 1
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v52-1-1]]
+
+^<<v52-1-1,1>>^ Paulo, Silvano^&#42;1^ e Timóteo, à congregação dos tessalonicenses, que está em união com Deus, o Pai, e com o Senhor Jesus Cristo:
+Que vocês tenham bondade imerecida e paz.
+
+[NOTE]
+====
+. Também chamado de Silas.
+====
+
+[[v52-1-2]]
+
+^<<v52-1-2,2>>^ Sempre agradecemos a Deus ao mencionar todos vocês nas nossas orações,
+
+[[v52-1-3]]
+
+^<<v52-1-3,3>>^ pois, na presença do nosso Deus e Pai, nos lembramos constantemente do seu trabalho fiel, do seu esforço motivado por amor e da sua perseverança em razão da sua esperança no nosso Senhor Jesus Cristo.
+
+[[v52-1-4]]
+
+^<<v52-1-4,4>>^ Pois sabemos, irmãos amados por Deus, que ele os escolheu,
+
+[[v52-1-5]]
+
+^<<v52-1-5,5>>^ porque as boas novas que pregamos não chegaram a vocês apenas com palavras, mas também com poder, com espírito santo e com forte convicção; vocês sabem que tipo de pessoas nos tornamos entre vocês para o seu benefício.
+
+[[v52-1-6]]
+
+^<<v52-1-6,6>>^ E vocês se tornaram imitadores nossos e do Senhor, pois aceitaram a palavra sob muito sofrimento, com a alegria que vem do espírito santo,
+
+[[v52-1-7]]
+
+^<<v52-1-7,7>>^ de modo que se tornaram um exemplo para todos os crentes da Macedônia e da Acaia.
+
+[[v52-1-8]]
+
+^<<v52-1-8,8>>^ O fato é que, por causa de vocês, a palavra de Jeová^&#42;1^ foi ouvida não somente na Macedônia e na Acaia, mas a sua fé em Deus se espalhou por todos os lugares, de modo que não precisamos dizer nada.
+
+[NOTE]
+====
+. Veja Ap. A5.
+====
+
+[[v52-1-9]]
+
+^<<v52-1-9,9>>^ Pois eles mesmos continuam relatando como nós contatamos vocês pela primeira vez e como vocês se converteram a Deus, abandonando os seus ídolos, para ser escravos de um Deus vivente e verdadeiro,
+
+[[v52-1-10]]
+
+^<<v52-1-10,10>>^ e para aguardar dos céus o seu Filho, a quem ele levantou dentre os mortos, isto é, Jesus, que nos livra da ira que virá.
+
+'''
+
+xref:051-colossenses/051-colossenses-004.adoc#v51-4-0[&#60; Capítulo Anterior] | <<v52-1-0,Topo>> | xref:052-1-tessalonicenses/052-1-tessalonicenses-002.adoc#v52-2-0[Próximo Capítulo &#62;]

@@ -1,0 +1,207 @@
+include::./index.adoc[]
+
+[[v1-36-0]]
+=== Gênesis, 36
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v1-36-1]]
+
+^<<v1-36-1,1>>^ Esta é a história de Esaú, isto é, Edom.
+
+[[v1-36-2]]
+
+^<<v1-36-2,2>>^ Esaú tomou esposas dentre as filhas de Canaã: Ada, filha de Elom, o hitita; Oolibama, filha de Aná e neta de Zibeão, o heveu;
+
+[[v1-36-3]]
+
+^<<v1-36-3,3>>^ e Basemate, filha de Ismael e irmã de Nebaiote.
+
+[[v1-36-4]]
+
+^<<v1-36-4,4>>^ Ada deu a Esaú um filho chamado Elifaz, Basemate deu à luz Reuel,
+
+[[v1-36-5]]
+
+^<<v1-36-5,5>>^ e Oolibama deu à luz Jeús, Jalão e Corá.
+Esses são os filhos de Esaú, que nasceram na terra de Canaã.
+
+[[v1-36-6]]
+
+^<<v1-36-6,6>>^ Esaú depois foi para outra terra, longe de Jacó, seu irmão, levando suas esposas, seus filhos, suas filhas, todas as pessoas^&#42;1^ de sua casa, seu rebanho, todos os seus outros animais e toda a riqueza que tinha acumulado na terra de Canaã.
+
+[NOTE]
+====
+. Ou: “almas”.
+====
+
+[[v1-36-7]]
+
+^<<v1-36-7,7>>^ Pois os bens deles tinham se tornado tantos que eles não podiam mais morar juntos, e a terra em que estavam morando^&#42;1^ não era suficiente para eles, por causa dos seus rebanhos.
+
+[NOTE]
+====
+. Ou: “vivendo como estrangeiros”.
+====
+
+[[v1-36-8]]
+
+^<<v1-36-8,8>>^ De modo que Esaú passou a morar na região montanhosa de Seir. Esaú é Edom.
+
+[[v1-36-9]]
+
+^<<v1-36-9,9>>^ Esta é a história de Esaú, pai de Edom, na região montanhosa de Seir.
+
+[[v1-36-10]]
+
+^<<v1-36-10,10>>^ Estes são os nomes dos filhos de Esaú: Elifaz, filho de Ada, esposa de Esaú; Reuel, filho de Basemate, esposa de Esaú.
+
+[[v1-36-11]]
+
+^<<v1-36-11,11>>^ Os filhos de Elifaz foram Temã, Omar, Zefô, Gatã e Quenaz.
+
+[[v1-36-12]]
+
+^<<v1-36-12,12>>^ Timna se tornou concubina de Elifaz, filho de Esaú; ela deu a Elifaz um filho chamado Amaleque. Esses são os filhos de Ada, esposa de Esaú.
+
+[[v1-36-13]]
+
+^<<v1-36-13,13>>^ Estes são os filhos de Reuel: Naate, Zerá, Samá e Mizá. Esses foram os filhos de Basemate, esposa de Esaú.
+
+[[v1-36-14]]
+
+^<<v1-36-14,14>>^ Estes foram os filhos que Oolibama, esposa de Esaú, filha de Aná e neta de Zibeão, deu a Esaú: Jeús, Jalão e Corá.
+
+[[v1-36-15]]
+
+^<<v1-36-15,15>>^ Estes são os chefes de tribo^&#42;1^ dentre os descendentes de Esaú. Os filhos de Elifaz, primogênito de Esaú: chefe Temã, chefe Omar, chefe Zefô, chefe Quenaz,
+
+[NOTE]
+====
+. Ou: “xeiques”.
+====
+
+[[v1-36-16]]
+
+^<<v1-36-16,16>>^ chefe Corá, chefe Gatã e chefe Amaleque. Esses são os chefes descendentes de Elifaz, na terra de Edom. Esses são os filhos de Ada.
+
+[[v1-36-17]]
+
+^<<v1-36-17,17>>^ Estes são os filhos de Reuel, filho de Esaú: chefe Naate, chefe Zerá, chefe Samá e chefe Mizá. Esses são os chefes descendentes de Reuel, na terra de Edom. Esses são os filhos de Basemate, esposa de Esaú.
+
+[[v1-36-18]]
+
+^<<v1-36-18,18>>^ Por fim, estes são os filhos de Oolibama, esposa de Esaú: chefe Jeús, chefe Jalão e chefe Corá. Esses são os chefes descendentes de Oolibama, filha de Aná, esposa de Esaú.
+
+[[v1-36-19]]
+
+^<<v1-36-19,19>>^ Esses são os filhos de Esaú, e esses são os seus chefes. Ele é Edom.
+
+[[v1-36-20]]
+
+^<<v1-36-20,20>>^ Estes são os filhos de Seir, o horeu, os habitantes daquela terra: Lotã, Sobal, Zibeão, Aná,
+
+[[v1-36-21]]
+
+^<<v1-36-21,21>>^ Disom, Ezer e Disã. Esses são os chefes descendentes dos horeus, os filhos de Seir, na terra de Edom.
+
+[[v1-36-22]]
+
+^<<v1-36-22,22>>^ Os filhos de Lotã foram Hori e Hemã, e a irmã de Lotã era Timna.
+
+[[v1-36-23]]
+
+^<<v1-36-23,23>>^ Estes são os filhos de Sobal: Alvã, Manaate, Ebal, Sefô e Onão.
+
+[[v1-36-24]]
+
+^<<v1-36-24,24>>^ Estes são os filhos de Zibeão: Aiá e Aná. Este é o Aná que achou as fontes termais no deserto, enquanto cuidava dos jumentos de Zibeão, seu pai.
+
+[[v1-36-25]]
+
+^<<v1-36-25,25>>^ Estes são os filhos de Aná: Disom e Oolibama, filha de Aná.
+
+[[v1-36-26]]
+
+^<<v1-36-26,26>>^ Estes são os filhos de Disom: Hendã, Esbã, Itrã e Querã.
+
+[[v1-36-27]]
+
+^<<v1-36-27,27>>^ Estes são os filhos de Ezer: Bilã, Zaavã e Acã.
+
+[[v1-36-28]]
+
+^<<v1-36-28,28>>^ Estes são os filhos de Disã: Uz e Arã.
+
+[[v1-36-29]]
+
+^<<v1-36-29,29>>^ Estes são os chefes descendentes dos horeus: chefe Lotã, chefe Sobal, chefe Zibeão, chefe Aná,
+
+[[v1-36-30]]
+
+^<<v1-36-30,30>>^ chefe Disom, chefe Ezer e chefe Disã. Esses são os chefes descendentes dos horeus, segundo os seus chefes, na terra de Seir.
+
+[[v1-36-31]]
+
+^<<v1-36-31,31>>^ E os reis que reinaram na terra de Edom antes de haver qualquer rei sobre os israelitas^&#42;1^ foram os seguintes:
+
+[NOTE]
+====
+. Lit.: “os filhos de Israel”.
+====
+
+[[v1-36-32]]
+
+^<<v1-36-32,32>>^ Bela, filho de Beor, reinou em Edom, e o nome de sua cidade era Dinabá.
+
+[[v1-36-33]]
+
+^<<v1-36-33,33>>^ Quando Bela morreu, Jobabe, filho de Zerá, de Bozra, começou a reinar no seu lugar.
+
+[[v1-36-34]]
+
+^<<v1-36-34,34>>^ Quando Jobabe morreu, Husão, da terra dos temanitas, começou a reinar no seu lugar.
+
+[[v1-36-35]]
+
+^<<v1-36-35,35>>^ Quando Husão morreu, Hadade, filho de Bedade, começou a reinar no seu lugar. Ele derrotou os midianitas no território^&#42;1^ de Moabe, e o nome de sua cidade era Avite.
+
+[NOTE]
+====
+. Lit.: “campo”.
+====
+
+[[v1-36-36]]
+
+^<<v1-36-36,36>>^ Quando Hadade morreu, Samlá, de Masreca, começou a reinar no seu lugar.
+
+[[v1-36-37]]
+
+^<<v1-36-37,37>>^ Quando Samlá morreu, Saul, de Reobote, que fica junto ao rio, começou a reinar no seu lugar.
+
+[[v1-36-38]]
+
+^<<v1-36-38,38>>^ Quando Saul morreu, Baal-Hanã, filho de Acbor, começou a reinar no seu lugar.
+
+[[v1-36-39]]
+
+^<<v1-36-39,39>>^ Quando Baal-Hanã, filho de Acbor, morreu, Hadar começou a reinar no seu lugar. O nome de sua cidade era Paú, e o nome de sua esposa era Meetabel, filha de Matrede, que era filha de Mezaabe.
+
+[[v1-36-40]]
+
+^<<v1-36-40,40>>^ Estes são os nomes dos chefes descendentes de Esaú, segundo as suas famílias e os seus lugares, alistados por nome: chefe Timna, chefe Alva, chefe Jetete,
+
+[[v1-36-41]]
+
+^<<v1-36-41,41>>^ chefe Oolibama, chefe Elá, chefe Pinom,
+
+[[v1-36-42]]
+
+^<<v1-36-42,42>>^ chefe Quenaz, chefe Temã, chefe Mibzar,
+
+[[v1-36-43]]
+
+^<<v1-36-43,43>>^ chefe Magdiel e chefe Irão. Esses são os chefes descendentes de Edom, segundo os seus povoados na terra que lhes pertencia. Esse é Esaú, pai de Edom.
+
+'''
+
+xref:001-genesis/001-genesis-035.adoc#v1-35-0[&#60; Capítulo Anterior] | <<v1-36-0,Topo>> | xref:001-genesis/001-genesis-037.adoc#v1-37-0[Próximo Capítulo &#62;]

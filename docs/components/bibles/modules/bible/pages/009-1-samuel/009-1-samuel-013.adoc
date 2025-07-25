@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v9-13-0]]
+=== O Primeiro de Samuel, 13
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v9-13-1]]
+
+^<<v9-13-1,1>>^ Saul tinha . . .^&#42;1^ anos de idade quando se tornou rei e reinou dois anos sobre Israel.
+
+[NOTE]
+====
+. O número está faltando no texto hebraico.
+====
+
+[[v9-13-2]]
+
+^<<v9-13-2,2>>^ Saul escolheu 3.000 homens de Israel: 2.000 ficaram com Saul em Micmás e na região montanhosa de Betel, e 1.000 ficaram com Jonatã em Gibeá de Benjamim. O restante dos homens ele mandou de volta, cada um para a sua tenda.
+
+[[v9-13-3]]
+
+^<<v9-13-3,3>>^ Então Jonatã golpeou a tropa dos filisteus que havia em Geba, e os filisteus ficaram sabendo disso. Saul mandou então tocar a buzina em todo o país, dizendo: “Que os hebreus ouçam!”
+
+[[v9-13-4]]
+
+^<<v9-13-4,4>>^ E todo o Israel ouviu a notícia: “Saul golpeou uma tropa dos filisteus, e agora os filisteus ficaram com ódio de Israel.”^&#42;1^ Assim, o povo foi convocado para seguir Saul em Gilgal.
+
+[NOTE]
+====
+. Ou: “agora Israel se tornou um mau cheiro entre os filisteus”.
+====
+
+[[v9-13-5]]
+
+^<<v9-13-5,5>>^ Os filisteus também se reuniram para lutar contra Israel, com 30.000 carros de guerra, 6.000 cavaleiros e uma tropa tão numerosa como os grãos de areia à beira do mar. Eles subiram e se acamparam em Micmás, ao leste de Bete-Áven.
+
+[[v9-13-6]]
+
+^<<v9-13-6,6>>^ Quando os homens de Israel viram que estavam em apuros, numa situação muito difícil, eles se esconderam nas cavernas, nas fendas, nos rochedos, nos porões^&#42;1^ e nas cisternas.
+
+[NOTE]
+====
+. Ou: “lugares subterrâneos”.
+====
+
+[[v9-13-7]]
+
+^<<v9-13-7,7>>^ Alguns hebreus até mesmo atravessaram o Jordão para a terra de Gade e de Gileade. Mas Saul ficou em Gilgal, e todos os que o seguiam tremiam de medo.
+
+[[v9-13-8]]
+
+^<<v9-13-8,8>>^ Ele ficou esperando sete dias, até terminar o prazo estabelecido por Samuel, mas Samuel não chegava a Gilgal, e os que estavam com Saul começaram a se espalhar.
+
+[[v9-13-9]]
+
+^<<v9-13-9,9>>^ Por fim, Saul disse: “Tragam-me o sacrifício queimado e os sacrifícios de participação em comum.” E ele ofereceu o sacrifício queimado.
+
+[[v9-13-10]]
+
+^<<v9-13-10,10>>^ Mas, assim que ele tinha terminado de oferecer o sacrifício queimado, Samuel chegou. Então Saul foi ao encontro dele e o cumprimentou.
+
+[[v9-13-11]]
+
+^<<v9-13-11,11>>^ E Samuel lhe perguntou: “O que foi que você fez?” Saul respondeu: “Vi que o povo estava me abandonando, que o senhor não chegou no prazo estabelecido e que os filisteus estavam se reunindo em Micmás.
+
+[[v9-13-12]]
+
+^<<v9-13-12,12>>^ Então eu disse a mim mesmo: ‘Agora os filisteus virão contra mim a Gilgal, e eu não busquei o favor^&#42;1^ de Jeová.’ Por isso, eu me vi obrigado a oferecer o sacrifício queimado.”
+
+[NOTE]
+====
+. Ou: “não abrandei a face”.
+====
+
+[[v9-13-13]]
+
+^<<v9-13-13,13>>^ Samuel disse então a Saul: “Você agiu de modo insensato. Não obedeceu à ordem que Jeová, seu Deus, lhe deu. Se tivesse obedecido, Jeová teria estabelecido o seu reino sobre Israel para sempre.
+
+[[v9-13-14]]
+
+^<<v9-13-14,14>>^ Mas agora seu reino não durará. Jeová encontrará um homem que agrade ao seu coração, e Jeová o designará como líder do seu povo, porque você não obedeceu à ordem que Jeová lhe deu.”
+
+[[v9-13-15]]
+
+^<<v9-13-15,15>>^ Então Samuel saiu de Gilgal e foi a Gibeá de Benjamim. E Saul fez a contagem dos homens; os que ainda estavam com ele eram cerca de 600.
+
+[[v9-13-16]]
+
+^<<v9-13-16,16>>^ Saul, seu filho Jonatã e os homens que ainda estavam com eles ficaram em Geba de Benjamim. Os filisteus tinham se acampado em Micmás.
+
+[[v9-13-17]]
+
+^<<v9-13-17,17>>^ E as tropas de ataque dos filisteus saíam do acampamento em três grupos. Um grupo ia pela estrada de Ofra, para a terra de Sual,
+
+[[v9-13-18]]
+
+^<<v9-13-18,18>>^ outro ia pela estrada de Bete-Horom, e o terceiro grupo ia pela estrada que dá no limite do território que fica em frente ao vale de Zeboim, em direção ao deserto.
+
+[[v9-13-19]]
+
+^<<v9-13-19,19>>^ Em toda a terra de Israel não havia mais nenhum ferreiro, porque os filisteus tinham dito: “Não deixemos que os hebreus fabriquem espadas ou lanças.”
+
+[[v9-13-20]]
+
+^<<v9-13-20,20>>^ Por isso, todos os israelitas tinham de ir aos filisteus para afiar as lâminas dos seus arados, seus enxadões, seus machados e suas foices.
+
+[[v9-13-21]]
+
+^<<v9-13-21,21>>^ O preço para afiar as lâminas de arado, os enxadões, os forcados e os machados, e também para fixar a aguilhada, era de um pim.^&#42;1^
+
+[NOTE]
+====
+. Um peso antigo de aproximadamente dois terços de um siclo.
+====
+
+[[v9-13-22]]
+
+^<<v9-13-22,22>>^ Assim, no dia da batalha, nenhum dos que estavam com Saul e Jonatã tinha espada ou lança; apenas Saul e Jonatã, seu filho, tinham armas.
+
+[[v9-13-23]]
+
+^<<v9-13-23,23>>^ E uma tropa^&#42;1^ dos filisteus tinha ido para o desfiladeiro de Micmás.
+
+[NOTE]
+====
+. Ou: “um posto avançado”.
+====
+
+'''
+
+xref:009-1-samuel/009-1-samuel-012.adoc#v9-12-0[&#60; Capítulo Anterior] | <<v9-13-0,Topo>> | xref:009-1-samuel/009-1-samuel-014.adoc#v9-14-0[Próximo Capítulo &#62;]

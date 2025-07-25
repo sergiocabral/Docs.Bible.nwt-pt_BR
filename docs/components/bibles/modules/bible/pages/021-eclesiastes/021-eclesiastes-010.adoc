@@ -1,0 +1,135 @@
+include::./index.adoc[]
+
+[[v21-10-0]]
+=== Eclesiastes, 10
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v21-10-1]]
+
+^<<v21-10-1,1>>^ Assim como moscas mortas fazem o óleo do perfumista estragar e cheirar mal, assim também uma pequena tolice pesa mais do que a sabedoria e a glória.
+
+[[v21-10-2]]
+
+^<<v21-10-2,2>>^ O coração do sábio o guia no caminho certo,^&#42;1^ mas o coração do tolo o guia no caminho errado.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “está à sua direita”.
+. Lit.: “está à sua esquerda”.
+====
+
+[[v21-10-3]]
+
+^<<v21-10-3,3>>^ Seja qual for o caminho em que ande, o tolo age sem bom senso,^&#42;1^ e ele mostra a todos que é tolo.
+
+[NOTE]
+====
+. Lit.: “seu coração é falto”.
+====
+
+[[v21-10-4]]
+
+^<<v21-10-4,4>>^ Se a ira^&#42;1^ de um governante se acender contra você, não deixe o seu lugar, pois a calma aplaca grandes pecados.
+
+[NOTE]
+====
+. Lit.: “o espírito; o fôlego”.
+====
+
+[[v21-10-5]]
+
+^<<v21-10-5,5>>^ Há algo aflitivo que vi debaixo do sol, o tipo de erro cometido pelos que estão no poder:
+
+[[v21-10-6]]
+
+^<<v21-10-6,6>>^ os tolos são postos em^&#42;1^ muitas posições elevadas, mas os ricos^&#42;2^ continuam em posições inferiores.
+
+[NOTE]
+====
+. Ou: “a tolice ocupa”.
+. Ou: “os hábeis”.
+====
+
+[[v21-10-7]]
+
+^<<v21-10-7,7>>^ Vi servos andando a cavalo, mas príncipes andando a pé como servos.
+
+[[v21-10-8]]
+
+^<<v21-10-8,8>>^ Quem cava um buraco pode cair nele; e quem derruba um muro de pedras pode ser picado por uma cobra.
+
+[[v21-10-9]]
+
+^<<v21-10-9,9>>^ Quem extrai pedras, com elas pode se ferir, e quem racha toras se expõe ao perigo.^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “deve ter cuidado com elas”.
+====
+
+[[v21-10-10]]
+
+^<<v21-10-10,10>>^ Se uma ferramenta está cega e não for afiada, será preciso fazer muito esforço. Mas a sabedoria ajuda a obter sucesso.
+
+[[v21-10-11]]
+
+^<<v21-10-11,11>>^ Se a cobra picar antes de ser encantada, não haverá vantagem para o encantador habilidoso.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “o mestre da língua”.
+====
+
+[[v21-10-12]]
+
+^<<v21-10-12,12>>^ As palavras que saem da boca do sábio trazem favor, mas os lábios do tolo são a sua ruína:
+
+[[v21-10-13]]
+
+^<<v21-10-13,13>>^ suas primeiras palavras são tolice, e as últimas são loucura desastrosa.
+
+[[v21-10-14]]
+
+^<<v21-10-14,14>>^ Mas o tolo continua falando.
+O homem não sabe o que vai acontecer; quem pode informá-lo do que virá depois dele?
+
+[[v21-10-15]]
+
+^<<v21-10-15,15>>^ O trabalho árduo do tolo o esgota, pois ele não sabe nem mesmo encontrar o caminho para a cidade.
+
+[[v21-10-16]]
+
+^<<v21-10-16,16>>^ Como é desastroso para um país quando o seu rei é uma criança e os seus príncipes começam a se banquetear de manhã!
+
+[[v21-10-17]]
+
+^<<v21-10-17,17>>^ Como é feliz o país cujo rei é filho de nobres e cujos príncipes se alimentam no tempo certo, para recuperar as forças, e não somente para se embriagar!
+
+[[v21-10-18]]
+
+^<<v21-10-18,18>>^ Por causa de extrema preguiça as vigas do telhado cedem, e por causa de mãos ociosas a casa tem goteiras.
+
+[[v21-10-19]]
+
+^<<v21-10-19,19>>^ O pão^&#42;1^ é feito para dar alegria, e o vinho torna a vida prazerosa; mas o dinheiro atende a todas as necessidades.
+
+[NOTE]
+====
+. Ou: “alimento”.
+====
+
+[[v21-10-20]]
+
+^<<v21-10-20,20>>^ Nem mesmo em pensamento^&#42;1^ amaldiçoe^&#42;2^ o rei, e não amaldiçoe o rico no seu quarto de dormir; pois um pássaro^&#42;3^ pode levar as suas palavras,^&#42;4^ e uma ave pode contar o que você disse.
+
+[NOTE]
+====
+. Ou, possivelmente: “na sua cama”.
+. Ou: “invoque o mal sobre”.
+. Lit.: “uma criatura voadora dos céus”.
+. Ou: “a mensagem”.
+====
+
+'''
+
+xref:021-eclesiastes/021-eclesiastes-009.adoc#v21-9-0[&#60; Capítulo Anterior] | <<v21-10-0,Topo>> | xref:021-eclesiastes/021-eclesiastes-011.adoc#v21-11-0[Próximo Capítulo &#62;]

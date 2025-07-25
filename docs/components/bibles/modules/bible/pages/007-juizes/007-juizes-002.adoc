@@ -1,0 +1,126 @@
+include::./index.adoc[]
+
+[[v7-2-0]]
+=== Juízes, 2
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v7-2-1]]
+
+^<<v7-2-1,1>>^ O anjo de Jeová subiu então de Gilgal a Boquim e disse: “Tirei vocês do Egito e os trouxe à terra a respeito da qual jurei aos seus antepassados. Eu também disse: ‘Nunca romperei meu pacto com vocês.
+
+[[v7-2-2]]
+
+^<<v7-2-2,2>>^ Vocês, da sua parte, não devem fazer nenhum pacto com os habitantes desta terra, e devem demolir os altares deles.’ Mas vocês não obedeceram à minha voz. Por que agiram assim?
+
+[[v7-2-3]]
+
+^<<v7-2-3,3>>^ Foi por isso que eu também disse: ‘Não os expulsarei de diante de vocês; eles se tornarão um laço para vocês, e os deuses deles os seduzirão.’”
+
+[[v7-2-4]]
+
+^<<v7-2-4,4>>^ Quando o anjo de Jeová disse essas palavras a todos os israelitas, o povo começou a chorar alto.
+
+[[v7-2-5]]
+
+^<<v7-2-5,5>>^ Por isso, deram ao lugar o nome de Boquim,^&#42;1^ e ofereceram ali sacrifícios a Jeová.
+
+[NOTE]
+====
+. Que significa “chorões”.
+====
+
+[[v7-2-6]]
+
+^<<v7-2-6,6>>^ Quando Josué dispensou o povo, os israelitas foram cada um para a sua herança, a fim de tomar posse da terra.
+
+[[v7-2-7]]
+
+^<<v7-2-7,7>>^ O povo continuou servindo a Jeová durante todos os dias de Josué e durante todos os dias dos anciãos que continuaram vivos depois de Josué e que tinham visto todos os grandes atos de Jeová a favor de Israel.
+
+[[v7-2-8]]
+
+^<<v7-2-8,8>>^ Então Josué, filho de Num, o servo de Jeová, morreu com 110 anos de idade.
+
+[[v7-2-9]]
+
+^<<v7-2-9,9>>^ Assim, eles o enterraram no território da sua herança, em Timnate-Heres, na região montanhosa de Efraim, ao norte do monte Gaás.
+
+[[v7-2-10]]
+
+^<<v7-2-10,10>>^ Toda aquela geração foi reunida aos seus antepassados,^&#42;1^ e depois dela surgiu outra geração que não conhecia a Jeová nem o que ele tinha feito por Israel.
+
+[NOTE]
+====
+. Expressão poética que se refere à morte.
+====
+
+[[v7-2-11]]
+
+^<<v7-2-11,11>>^ Então os israelitas fizeram o que era mau aos olhos de Jeová e serviram aos^&#42;1^ baalins.
+
+[NOTE]
+====
+. Ou: “adoraram os”.
+====
+
+[[v7-2-12]]
+
+^<<v7-2-12,12>>^ Abandonaram a Jeová, o Deus dos seus pais, que os havia tirado da terra do Egito. E seguiram outros deuses, os deuses dos povos ao redor deles; eles se curvaram diante deles e ofenderam a Jeová.
+
+[[v7-2-13]]
+
+^<<v7-2-13,13>>^ Abandonaram a Jeová e serviram a Baal e às imagens de Astorete.
+
+[[v7-2-14]]
+
+^<<v7-2-14,14>>^ Em vista disso, a ira de Jeová se acendeu contra Israel, de modo que ele os entregou aos saqueadores, que os despojaram. Ele os entregou^&#42;1^ nas mãos dos inimigos ao redor deles, e eles não puderam mais resistir aos seus inimigos.
+
+[NOTE]
+====
+. Lit.: “vendeu”.
+====
+
+[[v7-2-15]]
+
+^<<v7-2-15,15>>^ Aonde quer que fossem, a mão de Jeová estava contra eles, trazendo-lhes calamidades, assim como Jeová havia dito e assim como Jeová lhes havia jurado; e eles ficavam em grande aflição.
+
+[[v7-2-16]]
+
+^<<v7-2-16,16>>^ Portanto, Jeová fez surgir juízes, que os salvavam das mãos dos seus saqueadores.
+
+[[v7-2-17]]
+
+^<<v7-2-17,17>>^ Mas eles se recusaram a escutar até mesmo os juízes; prostituíam-se com outros deuses e curvavam-se diante deles. Desviaram-se depressa do caminho seguido pelos seus antepassados, que haviam obedecido aos mandamentos de Jeová. Eles não agiram da mesma forma.
+
+[[v7-2-18]]
+
+^<<v7-2-18,18>>^ Sempre que Jeová fazia surgir um juiz para eles, Jeová estava com o juiz e os salvava das mãos dos seus inimigos, durante todos os dias do juiz; pois Jeová se compadecia dos^&#42;1^ seus gemidos, causados pelos que os oprimiam e pelos que os tratavam de modo cruel.
+
+[NOTE]
+====
+. Ou: “Jeová lamentava os”.
+====
+
+[[v7-2-19]]
+
+^<<v7-2-19,19>>^ Mas, quando o juiz morria, eles voltavam a se corromper ainda mais do que seus pais, seguindo outros deuses, servindo-os e curvando-se diante deles. Não abandonavam as suas práticas, nem o seu proceder obstinado.
+
+[[v7-2-20]]
+
+^<<v7-2-20,20>>^ Por fim, a ira de Jeová se acendeu contra Israel, e ele disse: “Visto que esta nação violou o meu pacto, que fiz com os seus antepassados, e me desobedeceu,
+
+[[v7-2-21]]
+
+^<<v7-2-21,21>>^ eu, da minha parte, não expulsarei de diante deles nem mesmo uma das nações que Josué deixou quando morreu.
+
+[[v7-2-22]]
+
+^<<v7-2-22,22>>^ Isso é para provar se Israel guardará o caminho de Jeová, andando nele assim como seus antepassados fizeram.”
+
+[[v7-2-23]]
+
+^<<v7-2-23,23>>^ Por isso, Jeová permitiu que essas nações permanecessem. Ele não as expulsou imediatamente nem as entregou nas mãos de Josué.
+
+'''
+
+xref:007-juizes/007-juizes-001.adoc#v7-1-0[&#60; Capítulo Anterior] | <<v7-2-0,Topo>> | xref:007-juizes/007-juizes-003.adoc#v7-3-0[Próximo Capítulo &#62;]

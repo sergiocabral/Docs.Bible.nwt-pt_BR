@@ -1,0 +1,75 @@
+include::./index.adoc[]
+
+[[v14-19-0]]
+=== O Segundo das Crônicas, 19
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v14-19-1]]
+
+^<<v14-19-1,1>>^ E Jeosafá, rei de Judá, voltou são e salvo^&#42;1^ para a sua casa^&#42;2^ em Jerusalém.
+
+[NOTE]
+====
+. Ou: “voltou em paz”.
+. Ou: “o seu palácio”.
+====
+
+[[v14-19-2]]
+
+^<<v14-19-2,2>>^ Jeú, filho de Hanani, o vidente, saiu ao encontro do rei Jeosafá e lhe disse: “É aos maus que o senhor deve ajudar, e é aos que odeiam a Jeová que deve amar? Por causa disso, Jeová está indignado com o senhor.
+
+[[v14-19-3]]
+
+^<<v14-19-3,3>>^ No entanto, há coisas boas no senhor, porque o senhor eliminou do país os postes sagrados^&#42;1^ e preparou seu coração para^&#42;2^ buscar o verdadeiro Deus.”
+
+[NOTE]
+====
+. Veja o Glossário.
+. Ou: “e seu coração está decidido a”.
+====
+
+[[v14-19-4]]
+
+^<<v14-19-4,4>>^ Jeosafá continuou morando em Jerusalém, e saiu novamente para visitar o povo, desde Berseba até a região montanhosa de Efraim, a fim de trazê-los de volta para Jeová, o Deus dos seus antepassados.
+
+[[v14-19-5]]
+
+^<<v14-19-5,5>>^ Ele também designou juízes em todo o país, em cada uma de todas as cidades fortificadas de Judá.
+
+[[v14-19-6]]
+
+^<<v14-19-6,6>>^ E disse aos juízes: “Prestem atenção ao que fazem, pois vocês não julgam para o homem, mas para Jeová; e ele está com vocês quando julgam.
+
+[[v14-19-7]]
+
+^<<v14-19-7,7>>^ Agora, tenham temor de Jeová. Tomem cuidado com o que fazem, pois com Jeová, nosso Deus, não há injustiça, nem parcialidade, nem suborno.”
+
+[[v14-19-8]]
+
+^<<v14-19-8,8>>^ Jeosafá também designou em Jerusalém alguns levitas e sacerdotes, e alguns cabeças das casas paternas de Israel, para servir como juízes para Jeová e para decidir as causas dos habitantes de Jerusalém.
+
+[[v14-19-9]]
+
+^<<v14-19-9,9>>^ E lhes ordenou: “Isto é o que vocês devem fazer, com temor de Jeová, com fidelidade e de pleno coração:^&#42;1^
+
+[NOTE]
+====
+. Ou: “de coração plenamente devotado”.
+====
+
+[[v14-19-10]]
+
+^<<v14-19-10,10>>^ sempre que os seus irmãos que moram em outras cidades trouxerem uma causa que envolva derramamento de sangue ou uma questão sobre uma lei, um mandamento, decretos ou decisões judiciais, vocês devem aconselhá-los para que eles não se tornem culpados perante Jeová; do contrário, ele ficará indignado com vocês e seus irmãos. Isso é o que vocês devem fazer para não se tornarem culpados.
+
+[[v14-19-11]]
+
+^<<v14-19-11,11>>^ Aqui está Amarias, o principal sacerdote, que será o encarregado de vocês em todo assunto relacionado ao serviço de Jeová. Zebadias, filho de Ismael, será o líder da casa de Judá em todo assunto relacionado ao rei. E os levitas servirão como oficiais para vocês. Sejam fortes e ajam, e que Jeová esteja com os que fizerem o que é bom.”^&#42;1^
+
+[NOTE]
+====
+. Ou: “com o que é bom”.
+====
+
+'''
+
+xref:014-2-cronicas/014-2-cronicas-018.adoc#v14-18-0[&#60; Capítulo Anterior] | <<v14-19-0,Topo>> | xref:014-2-cronicas/014-2-cronicas-020.adoc#v14-20-0[Próximo Capítulo &#62;]

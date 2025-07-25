@@ -1,0 +1,16 @@
+include::../index.adoc[]
+
+[[v48-0-0]]
+== Gálatas
+
+[cols="8*^"]
+|===
+| xref:048-galatas/048-galatas-001.adoc#v48-1-0[1]
+| xref:048-galatas/048-galatas-002.adoc#v48-2-0[2]
+| xref:048-galatas/048-galatas-003.adoc#v48-3-0[3]
+| xref:048-galatas/048-galatas-004.adoc#v48-4-0[4]
+| xref:048-galatas/048-galatas-005.adoc#v48-5-0[5]
+| xref:048-galatas/048-galatas-006.adoc#v48-6-0[6]
+|
+|
+|===

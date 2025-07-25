@@ -1,0 +1,224 @@
+include::./index.adoc[]
+
+[[v19-22-0]]
+=== Salmos, 22
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Ao regente; com a melodia de A Corça da Aurora.^&#42;1^ Salmo de Davi._
+
+[[v19-22-1]]
+
+^<<v19-22-1,1>>^ Deus meu, Deus meu, por que me abandonaste?
+Por que estás longe de salvar-me,
+Longe dos meus gritos de aflição?
+
+[[v19-22-2]]
+
+^<<v19-22-2,2>>^ Meu Deus, clamo durante o dia, e tu não respondes;
+E, durante a noite, não há silêncio da minha parte.
+
+[[v19-22-3]]
+
+^<<v19-22-3,3>>^ Mas tu és santo,
+Estás rodeado pelos^&#42;1^ louvores de Israel.
+
+[NOTE]
+====
+. Ou: “entronizado entre (sobre) os”.
+====
+
+[[v19-22-4]]
+
+^<<v19-22-4,4>>^ Em ti nossos pais punham sua confiança;
+Eles confiavam, e tu os livravas.
+
+[[v19-22-5]]
+
+^<<v19-22-5,5>>^ Clamavam a ti, e eram salvos;
+Confiavam em ti, e não eram decepcionados.^&#42;1^
+
+[NOTE]
+====
+. Ou: “não eram envergonhados”.
+====
+
+[[v19-22-6]]
+
+^<<v19-22-6,6>>^ Mas eu sou um verme, não um homem,
+Ridicularizado pelos^&#42;1^ homens e desprezado pelo povo.
+
+[NOTE]
+====
+. Ou: “Uma vergonha para os”.
+====
+
+[[v19-22-7]]
+
+^<<v19-22-7,7>>^ Todos os que me veem zombam de mim;
+Fazem pouco caso e balançam a cabeça com desprezo:
+
+[[v19-22-8]]
+
+^<<v19-22-8,8>>^ “Ele se confiou a Jeová. Que Ele o livre!
+Que Ele o salve, se o ama tanto!”
+
+[[v19-22-9]]
+
+^<<v19-22-9,9>>^ Foste tu que me tiraste do ventre,
+Que me fizeste sentir seguro aos seios da minha mãe.
+
+[[v19-22-10]]
+
+^<<v19-22-10,10>>^ Fui entregue ao teu cuidado^&#42;1^ desde que nasci;
+Desde o ventre da minha mãe, tens sido o meu Deus.
+
+[NOTE]
+====
+. Lit.: “lançado sobre ti”.
+====
+
+[[v19-22-11]]
+
+^<<v19-22-11,11>>^ Não fiques longe de mim, pois a aflição está perto,
+E não há mais ninguém para me ajudar.
+
+[[v19-22-12]]
+
+^<<v19-22-12,12>>^ Muitos novilhos me cercam;
+Fortes touros de Basã me rodeiam.
+
+[[v19-22-13]]
+
+^<<v19-22-13,13>>^ Abrem a boca contra mim,
+Como um leão que ruge e dilacera a sua presa.
+
+[[v19-22-14]]
+
+^<<v19-22-14,14>>^ Sou derramado como água;
+Todos os meus ossos estão desconjuntados.
+Meu coração tornou-se como cera,
+Derrete-se no meu íntimo.
+
+[[v19-22-15]]
+
+^<<v19-22-15,15>>^ Minha força secou-se como um caco de barro;
+Minha língua gruda nas gengivas.
+Tu me trazes ao pó da morte.
+
+[[v19-22-16]]
+
+^<<v19-22-16,16>>^ Pois cães me rodeiam;
+Eles me cercam como um bando de malfeitores.
+Como um leão, atacam minhas mãos e meus pés.
+
+[[v19-22-17]]
+
+^<<v19-22-17,17>>^ Posso contar todos os meus ossos.
+Eles me observam e fixam o olhar em mim.
+
+[[v19-22-18]]
+
+^<<v19-22-18,18>>^ Repartem entre si as minhas roupas
+E lançam sortes sobre a minha vestimenta.
+
+[[v19-22-19]]
+
+^<<v19-22-19,19>>^ Tu, porém, ó Jeová, não fiques longe.
+Tu és a minha força; vem depressa me ajudar.
+
+[[v19-22-20]]
+
+^<<v19-22-20,20>>^ Salva-me^&#42;1^ da espada,
+Livra minha preciosa vida^&#42;2^ das patas^&#42;3^ dos cães;
+
+[NOTE]
+====
+. Ou: “Salva minha alma”.
+. Lit.: “minha única”, referindo-se à sua alma, ou vida.
+. Lit.: “da mão”.
+====
+
+[[v19-22-21]]
+
+^<<v19-22-21,21>>^ Salva-me da boca do leão e dos chifres de touros selvagens;
+Responde-me e salva-me.
+
+[[v19-22-22]]
+
+^<<v19-22-22,22>>^ Declararei o teu nome aos meus irmãos;
+No meio da congregação te louvarei.
+
+[[v19-22-23]]
+
+^<<v19-22-23,23>>^ Vocês que temem a Jeová, louvem-no!
+Toda a descendência^&#42;1^ de Jacó, glorifique-o!
+Reverencie-o, toda a descendência^&#42;2^ de Israel.
+
+[NOTE]
+====
+. Lit.: “semente”.
+. Lit.: “semente”.
+====
+
+[[v19-22-24]]
+
+^<<v19-22-24,24>>^ Pois ele não desprezou nem repudiou o sofrimento do oprimido;
+Não escondeu dele a sua face.
+Quando ele clamou por ajuda, ouviu.
+
+[[v19-22-25]]
+
+^<<v19-22-25,25>>^ Eu te louvarei na grande congregação;
+Cumprirei os meus votos diante dos que temem a Ele.
+
+[[v19-22-26]]
+
+^<<v19-22-26,26>>^ Os mansos comerão e ficarão satisfeitos;
+Os que buscam a Jeová o louvarão.
+Que vocês vivam^&#42;1^ para sempre.
+
+[NOTE]
+====
+. Lit.: “Que o seu coração viva”.
+====
+
+[[v19-22-27]]
+
+^<<v19-22-27,27>>^ Todos os confins da terra se lembrarão de Jeová e se voltarão para ele.
+Todas as famílias das nações se curvarão diante de ti.
+
+[[v19-22-28]]
+
+^<<v19-22-28,28>>^ Pois o reinado pertence a Jeová;
+Ele governa as nações.
+
+[[v19-22-29]]
+
+^<<v19-22-29,29>>^ Todos os prósperos^&#42;1^ da terra comerão e se curvarão,
+Todos os que descem ao pó se ajoelharão diante dele;
+Nenhum deles pode preservar sua vida.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “gordos”.
+. Ou: “alma”.
+====
+
+[[v19-22-30]]
+
+^<<v19-22-30,30>>^ Os descendentes deles o servirão;^&#42;1^
+A próxima geração ouvirá falar sobre Jeová.
+
+[NOTE]
+====
+. Lit.: “Uma semente o servirá”.
+====
+
+[[v19-22-31]]
+
+^<<v19-22-31,31>>^ Eles chegarão e declararão a Sua justiça.
+Ao povo que ainda está para nascer, contarão o que ele tem feito.
+
+'''
+
+xref:019-salmo/019-salmo-021.adoc#v19-21-0[&#60; Capítulo Anterior] | <<v19-22-0,Topo>> | xref:019-salmo/019-salmo-023.adoc#v19-23-0[Próximo Capítulo &#62;]

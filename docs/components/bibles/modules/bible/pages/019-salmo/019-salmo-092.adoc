@@ -1,0 +1,108 @@
+include::./index.adoc[]
+
+[[v19-92-0]]
+=== Salmos, 92
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Salmo. Cântico para o dia de sábado._
+
+[[v19-92-1]]
+
+^<<v19-92-1,1>>^ É bom dar graças a Jeová
+E cantar louvores^&#42;1^ ao teu nome, ó Altíssimo;
+
+[NOTE]
+====
+. Ou: “fazer música”.
+====
+
+[[v19-92-2]]
+
+^<<v19-92-2,2>>^ É bom declarar de manhã o teu amor leal,
+E durante a noite a tua fidelidade,
+
+[[v19-92-3]]
+
+^<<v19-92-3,3>>^ Ao acompanhamento de um instrumento de dez cordas e da lira,
+Do som melodioso da harpa.
+
+[[v19-92-4]]
+
+^<<v19-92-4,4>>^ Pois tu me alegraste, ó Jeová, com os teus feitos;
+Eu grito de alegria por causa das obras das tuas mãos.
+
+[[v19-92-5]]
+
+^<<v19-92-5,5>>^ Como são grandiosas as tuas obras, ó Jeová!
+Como são profundos os teus pensamentos!
+
+[[v19-92-6]]
+
+^<<v19-92-6,6>>^ Nenhum insensato pode conhecê-los;
+E nenhum tolo pode entender isto:
+
+[[v19-92-7]]
+
+^<<v19-92-7,7>>^ Quando os maus brotam como erva,^&#42;1^
+E todos os malfeitores florescem,
+É para serem aniquilados para sempre.
+
+[NOTE]
+====
+. Ou: “relva”.
+====
+
+[[v19-92-8]]
+
+^<<v19-92-8,8>>^ Mas tu estás numa posição elevada para sempre, ó Jeová.
+
+[[v19-92-9]]
+
+^<<v19-92-9,9>>^ Sim, olha triunfantemente para os teus inimigos, ó Jeová;
+Sem falta os teus inimigos serão eliminados;
+Todos os malfeitores serão espalhados.
+
+[[v19-92-10]]
+
+^<<v19-92-10,10>>^ Mas tu me farás forte^&#42;1^ como um touro selvagem;
+Passarei óleo refrescante em minha pele.
+
+[NOTE]
+====
+. Lit.: “tu exaltarás o meu chifre”.
+====
+
+[[v19-92-11]]
+
+^<<v19-92-11,11>>^ Meus olhos olharão triunfantes para os meus inimigos;
+Meus ouvidos ouvirão falar da queda dos maus que me atacam.
+
+[[v19-92-12]]
+
+^<<v19-92-12,12>>^ Mas os justos florescerão como a palmeira
+E crescerão como o cedro do Líbano.
+
+[[v19-92-13]]
+
+^<<v19-92-13,13>>^ Eles são plantados na casa de Jeová;
+Florescem nos pátios do nosso Deus.
+
+[[v19-92-14]]
+
+^<<v19-92-14,14>>^ Mesmo na velhice^&#42;1^ darão muito fruto;
+Continuarão fortes^&#42;2^ e cheios de vida,
+
+[NOTE]
+====
+. Ou: “quando tiverem cabelos brancos”.
+. Lit.: “gordos”.
+====
+
+[[v19-92-15]]
+
+^<<v19-92-15,15>>^ Declarando que Jeová é reto.
+Ele é a minha Rocha, em quem não há injustiça.
+
+'''
+
+xref:019-salmo/019-salmo-091.adoc#v19-91-0[&#60; Capítulo Anterior] | <<v19-92-0,Topo>> | xref:019-salmo/019-salmo-093.adoc#v19-93-0[Próximo Capítulo &#62;]

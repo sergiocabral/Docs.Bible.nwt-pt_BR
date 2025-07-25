@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v19-87-0]]
+=== Salmos, 87
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Dos filhos de Corá. Salmo. Cântico._
+
+[[v19-87-1]]
+
+^<<v19-87-1,1>>^ O alicerce da cidade dele está nos montes santos.
+
+[[v19-87-2]]
+
+^<<v19-87-2,2>>^ Jeová ama os portões de Sião
+Mais do que a todas as tendas de Jacó.
+
+[[v19-87-3]]
+
+^<<v19-87-3,3>>^ Coisas gloriosas se falam a respeito de você, ó cidade do verdadeiro Deus. (Selá)
+
+[[v19-87-4]]
+
+^<<v19-87-4,4>>^ “Contarei Raabe e Babilônia entre os que me conhecem;^&#42;1^
+Aqui estão a Filístia, Tiro e Cuche.
+Será dito: ‘Este nasceu lá.’”
+
+[NOTE]
+====
+. Ou: “reconhecem”.
+====
+
+[[v19-87-5]]
+
+^<<v19-87-5,5>>^ E, a respeito de Sião, se dirá:
+“Todos nasceram nela.”
+E o Altíssimo a estabelecerá firmemente.
+
+[[v19-87-6]]
+
+^<<v19-87-6,6>>^ Ao registrar os povos, Jeová declarará:
+“Este nasceu lá.” (Selá)
+
+[[v19-87-7]]
+
+^<<v19-87-7,7>>^ Os que cantam e os que dançam^&#42;1^ dirão:
+“Todas as minhas fontes estão em você.”^&#42;2^
+
+[NOTE]
+====
+. Ou: “e os dançarinos de danças de roda”.
+. Ou: “Para mim, você é a fonte de todas as coisas.”
+====
+
+'''
+
+xref:019-salmo/019-salmo-086.adoc#v19-86-0[&#60; Capítulo Anterior] | <<v19-87-0,Topo>> | xref:019-salmo/019-salmo-088.adoc#v19-88-0[Próximo Capítulo &#62;]

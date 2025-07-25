@@ -1,0 +1,351 @@
+include::./index.adoc[]
+
+[[v5-28-0]]
+=== Deuteronômio, 28
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v5-28-1]]
+
+^<<v5-28-1,1>>^ “E, se você sem falta escutar a voz de Jeová, seu Deus, tendo o cuidado de cumprir todos os seus mandamentos que hoje lhe ordeno, Jeová, seu Deus, certamente o exaltará acima de todas as outras nações da terra.
+
+[[v5-28-2]]
+
+^<<v5-28-2,2>>^ Todas estas bênçãos virão sobre você e o acompanharão,^&#42;1^ se você sempre escutar a voz de Jeová, seu Deus:
+
+[NOTE]
+====
+. Ou: “alcançarão”.
+====
+
+[[v5-28-3]]
+
+^<<v5-28-3,3>>^ “Abençoado você será na cidade e abençoado você será no campo.
+
+[[v5-28-4]]
+
+^<<v5-28-4,4>>^ “Abençoados serão os seus filhos,^&#42;1^ o fruto da sua terra e a cria do seu rebanho, seus bezerros e cordeiros.
+
+[NOTE]
+====
+. Lit.: “Abençoado será o fruto do seu ventre”.
+====
+
+[[v5-28-5]]
+
+^<<v5-28-5,5>>^ “Abençoado será seu cesto e sua amassadeira.
+
+[[v5-28-6]]
+
+^<<v5-28-6,6>>^ “Abençoado você será em todas as suas atividades.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “Abençoado você será quando entrar, e abençoado você será quando sair.”
+====
+
+[[v5-28-7]]
+
+^<<v5-28-7,7>>^ “Jeová fará com que os seus inimigos, que se levantarem contra você, sejam derrotados diante de você. Virão para atacá-lo de uma só direção, mas fugirão em sete direções.
+
+[[v5-28-8]]
+
+^<<v5-28-8,8>>^ Jeová decretará que uma bênção esteja com você, sobre os seus celeiros e sobre tudo o que você realizar, e ele certamente o abençoará na terra que Jeová, seu Deus, lhe dá.
+
+[[v5-28-9]]
+
+^<<v5-28-9,9>>^ Jeová o constituirá como um povo santo para ele, assim como lhe jurou, por você estar guardando os mandamentos de Jeová, seu Deus, e andando nos seus caminhos.
+
+[[v5-28-10]]
+
+^<<v5-28-10,10>>^ Todos os povos da terra verão que você leva o nome de Jeová e ficarão com medo de você.
+
+[[v5-28-11]]
+
+^<<v5-28-11,11>>^ “Jeová lhe dará muitos filhos, muitos rebanhos e um solo produtivo, na terra que Jeová lhe dará, conforme jurou aos seus antepassados.
+
+[[v5-28-12]]
+
+^<<v5-28-12,12>>^ Jeová lhe abrirá seu bom depósito, os céus, para dar chuva à sua terra no tempo devido e para abençoar tudo que você fizer. Você emprestará a muitas nações, ao passo que você mesmo não precisará tomar emprestado.
+
+[[v5-28-13]]
+
+^<<v5-28-13,13>>^ Jeová fará de você a cabeça, não a cauda; e você estará por cima, não por baixo, se continuar a obedecer aos mandamentos de Jeová, seu Deus, que hoje lhe ordeno observar e cumprir.
+
+[[v5-28-14]]
+
+^<<v5-28-14,14>>^ Não se desvie de todas as palavras que hoje lhes ordeno, nem para a direita nem para a esquerda, seguindo outros deuses para os servir.
+
+[[v5-28-15]]
+
+^<<v5-28-15,15>>^ “Mas, se você não escutar a voz de Jeová, seu Deus, tendo o cuidado de cumprir todos os seus mandamentos e decretos que hoje lhe ordeno, todas estas maldições virão sobre você e o alcançarão:
+
+[[v5-28-16]]
+
+^<<v5-28-16,16>>^ “Maldito você será na cidade e maldito você será no campo.
+
+[[v5-28-17]]
+
+^<<v5-28-17,17>>^ “Maldito será seu cesto e sua amassadeira.
+
+[[v5-28-18]]
+
+^<<v5-28-18,18>>^ “Malditos serão os seus filhos,^&#42;1^ o fruto da sua terra e os seus bezerros e cordeiros.
+
+[NOTE]
+====
+. Lit.: “Maldito será o fruto do seu ventre”.
+====
+
+[[v5-28-19]]
+
+^<<v5-28-19,19>>^ “Maldito você será em todas as suas atividades.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “Maldito você será quando entrar, e maldito você será quando sair.”
+====
+
+[[v5-28-20]]
+
+^<<v5-28-20,20>>^ “Jeová lhe enviará maldição, confusão e punição em tudo que você realizar, até que você seja exterminado e desapareça rapidamente, por causa das suas práticas más e por ter me abandonado.
+
+[[v5-28-21]]
+
+^<<v5-28-21,21>>^ Jeová fará que a doença não o deixe mais até que ele o extermine da terra da qual você vai tomar posse.
+
+[[v5-28-22]]
+
+^<<v5-28-22,22>>^ Jeová o atingirá com tuberculose, com febre ardente, com inflamação, com calor febril, com espada, com calor abrasador^&#42;1^ e com bolor; e essas coisas o perseguirão até que você desapareça.
+
+[NOTE]
+====
+. Ou: “crestamento”.
+====
+
+[[v5-28-23]]
+
+^<<v5-28-23,23>>^ Os céus por cima da sua cabeça se tornarão cobre; e a terra debaixo de você, ferro.
+
+[[v5-28-24]]
+
+^<<v5-28-24,24>>^ Jeová fará com que a chuva da sua terra seja pó e poeira, que descerá sobre você desde os céus até que você seja exterminado.
+
+[[v5-28-25]]
+
+^<<v5-28-25,25>>^ Jeová fará com que você seja derrotado diante dos seus inimigos. Você os atacará de uma só direção, mas fugirá deles em sete direções; e você se tornará motivo de terror para todos os reinos da terra.
+
+[[v5-28-26]]
+
+^<<v5-28-26,26>>^ E seu cadáver se tornará alimento para todas as aves do céu e todos os animais da terra, e não haverá ninguém para os espantar.
+
+[[v5-28-27]]
+
+^<<v5-28-27,27>>^ “Jeová o atingirá com os furúnculos do Egito, com hemorroidas, com eczema e com lesões de pele, dos quais você não poderá ser curado.
+
+[[v5-28-28]]
+
+^<<v5-28-28,28>>^ Jeová o atingirá com loucura, com cegueira e com confusão.^&#42;1^
+
+[NOTE]
+====
+. Ou: “desorientação de coração”.
+====
+
+[[v5-28-29]]
+
+^<<v5-28-29,29>>^ Você andará tateando ao meio-dia, assim como um cego anda tateando na escuridão, e não será bem-sucedido em nada que fizer; e você sempre será explorado^&#42;1^ e roubado, sem que ninguém o salve.
+
+[NOTE]
+====
+. Ou: “defraudado”.
+====
+
+[[v5-28-30]]
+
+^<<v5-28-30,30>>^ Você ficará noivo de uma mulher, mas outro homem a violentará. Construirá uma casa, mas não morará nela. Plantará um vinhedo, mas não chegará a colher os seus frutos.
+
+[[v5-28-31]]
+
+^<<v5-28-31,31>>^ Seu touro será abatido diante dos seus olhos, mas você não comerá nada dele. Seu jumento será roubado bem na sua frente, mas você não o recuperará. Suas ovelhas serão dadas aos seus inimigos, e não haverá quem o salve.
+
+[[v5-28-32]]
+
+^<<v5-28-32,32>>^ Seus filhos e suas filhas serão dados a outro povo diante dos seus olhos, e você sempre estará com saudade deles, mas as suas mãos não poderão fazer nada.
+
+[[v5-28-33]]
+
+^<<v5-28-33,33>>^ Os frutos da sua terra e tudo que você produzir serão comidos por um povo que você não conhece, e você sempre será explorado^&#42;1^ e oprimido.
+
+[NOTE]
+====
+. Ou: “defraudado”.
+====
+
+[[v5-28-34]]
+
+^<<v5-28-34,34>>^ Você enlouquecerá com o que os seus olhos virem.
+
+[[v5-28-35]]
+
+^<<v5-28-35,35>>^ “Jeová o atingirá com furúnculos dolorosos e incuráveis nos joelhos e nas pernas, da sola dos pés ao alto da cabeça.
+
+[[v5-28-36]]
+
+^<<v5-28-36,36>>^ Jeová fará com que você e o rei que você estabelecer sobre si sejam levados para uma nação que você e os seus antepassados não conhecem; e lá você servirá a outros deuses, deuses de madeira e de pedra.
+
+[[v5-28-37]]
+
+^<<v5-28-37,37>>^ E você se tornará motivo de terror, alvo de desprezo^&#42;1^ e motivo de zombaria entre todos os povos aos quais Jeová o levará.
+
+[NOTE]
+====
+. Lit.: “um provérbio”.
+====
+
+[[v5-28-38]]
+
+^<<v5-28-38,38>>^ “Você levará muita semente ao campo, mas colherá pouco, porque o gafanhoto a devorará.
+
+[[v5-28-39]]
+
+^<<v5-28-39,39>>^ Plantará e cultivará vinhedos, mas não beberá vinho nem colherá nada, porque o verme os consumirá.
+
+[[v5-28-40]]
+
+^<<v5-28-40,40>>^ Terá oliveiras em todo o seu território, mas não passará óleo sobre a pele, porque as azeitonas cairão.
+
+[[v5-28-41]]
+
+^<<v5-28-41,41>>^ Terá filhos e filhas, mas eles não permanecerão com você, porque irão para o cativeiro.
+
+[[v5-28-42]]
+
+^<<v5-28-42,42>>^ Enxames de insetos^&#42;1^ infestarão todas as suas árvores e os frutos da sua terra.
+
+[NOTE]
+====
+. Ou: “Insetos zumbidores”.
+====
+
+[[v5-28-43]]
+
+^<<v5-28-43,43>>^ O residente estrangeiro que está no seu meio se elevará cada vez mais em relação a você, ao passo que você descerá cada vez mais.
+
+[[v5-28-44]]
+
+^<<v5-28-44,44>>^ Ele emprestará a você, mas você não emprestará a ele. Ele se tornará a cabeça, ao passo que você se tornará a cauda.
+
+[[v5-28-45]]
+
+^<<v5-28-45,45>>^ “Todas estas maldições certamente virão sobre você, o perseguirão e o alcançarão, até que seja exterminado, porque você não escutou a voz de Jeová, seu Deus, guardando os mandamentos e os decretos que ele lhe ordenou.
+
+[[v5-28-46]]
+
+^<<v5-28-46,46>>^ E elas permanecerão sobre você e sobre a sua descendência como sinal permanente e como aviso,
+
+[[v5-28-47]]
+
+^<<v5-28-47,47>>^ porque você não serviu a Jeová, seu Deus, com alegria e contentamento de coração, quando tinha tudo em abundância.
+
+[[v5-28-48]]
+
+^<<v5-28-48,48>>^ Jeová enviará seus inimigos contra você, e você os servirá com fome, sede, sem roupa suficiente e precisando de tudo. Ele porá um jugo de ferro no seu pescoço até que o tenha exterminado.
+
+[[v5-28-49]]
+
+^<<v5-28-49,49>>^ “Dos confins da terra, Jeová trará contra você uma nação distante — ela atacará velozmente como uma águia —, uma nação cuja língua você não entenderá,
+
+[[v5-28-50]]
+
+^<<v5-28-50,50>>^ uma nação de aparência feroz que não terá consideração pelo idoso, nem mostrará favor ao jovem.
+
+[[v5-28-51]]
+
+^<<v5-28-51,51>>^ Eles comerão as crias dos seus rebanhos e os frutos da sua terra, até que você seja exterminado. Eles não lhe deixarão nem cereais, nem vinho novo, nem azeite, nem bezerros nem cordeiros, até que tenham destruído você.
+
+[[v5-28-52]]
+
+^<<v5-28-52,52>>^ Eles o sitiarão, prendendo-o dentro de todas as cidades^&#42;1^ da sua terra, até que caiam as muralhas altas e fortificadas em que você confia. Sim, eles certamente o sitiarão em todas as cidades da sua terra, que Jeová, seu Deus, lhe dá.
+
+[NOTE]
+====
+. Ou: “todos os seus portões”.
+====
+
+[[v5-28-53]]
+
+^<<v5-28-53,53>>^ Então você terá de comer os seus próprios filhos,^&#42;1^ a carne dos filhos e das filhas que Jeová, seu Deus, lhe der, por causa do terrível cerco e da aflição que os seus inimigos lhe causarão.
+
+[NOTE]
+====
+. Lit.: “o fruto do seu ventre”.
+====
+
+[[v5-28-54]]
+
+^<<v5-28-54,54>>^ “Nem mesmo o homem mais delicado e sensível no seu meio terá dó do seu irmão, da sua querida esposa ou dos filhos que lhe restarem,
+
+[[v5-28-55]]
+
+^<<v5-28-55,55>>^ e não repartirá com eles nada da carne dos filhos que ele comerá, visto que não terá mais nada por causa do terrível cerco e da aflição que o seu inimigo causará nas suas cidades.
+
+[[v5-28-56]]
+
+^<<v5-28-56,56>>^ E a mulher delicada e sensível no seu meio, que nunca pensaria em pôr o pé na terra por ser tão delicada, não terá dó do seu querido marido, do seu filho ou da sua filha,
+
+[[v5-28-57]]
+
+^<<v5-28-57,57>>^ e não repartirá com eles a placenta que sair dentre as suas pernas e os filhos que der à luz. Ela os comerá às escondidas por causa do terrível cerco e da aflição que o seu inimigo causará nas suas cidades.
+
+[[v5-28-58]]
+
+^<<v5-28-58,58>>^ “Se você não obedecer cuidadosamente a todas as palavras desta Lei, que estão escritas neste livro, e não temer este nome glorioso e que inspira temor, o de Jeová, seu Deus,
+
+[[v5-28-59]]
+
+^<<v5-28-59,59>>^ então Jeová atingirá você e a sua descendência com pragas terríveis, pragas grandes e persistentes, e com doenças graves e persistentes.
+
+[[v5-28-60]]
+
+^<<v5-28-60,60>>^ Ele trará novamente sobre você todas as doenças do Egito, das quais você tinha medo, e certamente elas não o deixarão mais.
+
+[[v5-28-61]]
+
+^<<v5-28-61,61>>^ Além disso, Jeová trará sobre você toda doença ou praga que não estiver escrita no livro desta Lei, até que você seja exterminado.
+
+[[v5-28-62]]
+
+^<<v5-28-62,62>>^ Embora vocês se tenham tornado tão numerosos como as estrelas dos céus, restarão muito poucos de vocês; pois você não escutou a voz de Jeová, seu Deus.
+
+[[v5-28-63]]
+
+^<<v5-28-63,63>>^ “E, assim como Jeová se alegrou em fazê-los prosperar e em multiplicá-los, assim Jeová se alegrará em destruí-los e exterminá-los; e vocês serão arrancados da terra da qual você vai tomar posse.
+
+[[v5-28-64]]
+
+^<<v5-28-64,64>>^ “Jeová o espalhará entre todas as nações, de uma extremidade da terra à outra extremidade da terra, e lá você terá de servir deuses de madeira e de pedra, que você e os seus antepassados não conhecem.
+
+[[v5-28-65]]
+
+^<<v5-28-65,65>>^ Você não terá paz entre essas nações, nem lugar de descanso para os seus pés. Em vez disso, Jeová lhe dará ali um coração ansioso, olhos fracos e um sentimento de desespero.^&#42;1^
+
+[NOTE]
+====
+. Ou: “e desespero de alma”.
+====
+
+[[v5-28-66]]
+
+^<<v5-28-66,66>>^ Sua vida estará em grande perigo, você sentirá pavor dia e noite, e não terá certeza da sua sobrevivência.
+
+[[v5-28-67]]
+
+^<<v5-28-67,67>>^ De manhã você dirá: ‘Quem dera que fosse noite!’ e à noite você dirá: ‘Quem dera que fosse manhã!’ por causa do pavor que você sentirá no coração e por causa do que os seus olhos verão.
+
+[[v5-28-68]]
+
+^<<v5-28-68,68>>^ E Jeová certamente o levará de volta ao Egito de navio, pelo caminho a respeito do qual eu lhe disse: ‘Você nunca mais o verá’; e lá vocês terão de se vender aos seus inimigos como escravos e escravas, mas não haverá quem os compre.”
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-027.adoc#v5-27-0[&#60; Capítulo Anterior] | <<v5-28-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-029.adoc#v5-29-0[Próximo Capítulo &#62;]

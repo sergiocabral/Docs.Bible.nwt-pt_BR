@@ -1,0 +1,231 @@
+include::./index.adoc[]
+
+[[v24-17-0]]
+=== Jeremias, 17
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v24-17-1]]
+
+^<<v24-17-1,1>>^ “O pecado de Judá está escrito com uma pena^&#42;1^ de ferro,
+Está gravado com ponta de diamante na tábua do seu coração
+E nos chifres dos seus altares.
+
+[NOTE]
+====
+. Lit.: “um estilo”. Veja o Glossário.
+====
+
+[[v24-17-2]]
+
+^<<v24-17-2,2>>^ Até mesmo os seus filhos se lembram dos seus altares e dos seus postes sagrados^&#42;1^
+Ao lado de uma árvore frondosa, nas colinas elevadas,
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v24-17-3]]
+
+^<<v24-17-3,3>>^ Nos montes do campo aberto.
+Seus recursos, todos os seus tesouros, entregarei como despojo;
+Sim, os seus altos sagrados, por causa do pecado que cometeram em todos os seus territórios.
+
+[[v24-17-4]]
+
+^<<v24-17-4,4>>^ Você vai renunciar, de sua própria iniciativa, à herança que eu lhe dei.
+Eu o farei servir aos seus inimigos numa terra que você não conhece,
+Pois vocês acenderam a minha ira como um fogo.^&#42;1^
+Ela queimará para sempre.”
+
+[NOTE]
+====
+. Ou, possivelmente: “Pois, como um fogo, vocês foram acesos na minha ira”.
+====
+
+[[v24-17-5]]
+
+^<<v24-17-5,5>>^ Assim diz Jeová:
+“Maldito o homem^&#42;1^ que confia em meros humanos,
+Que conta com a força dos homens,^&#42;2^
+E cujo coração se afasta de Jeová.
+
+[NOTE]
+====
+. Ou: “homem forte”.
+. Lit.: “faz da carne seu braço”.
+====
+
+[[v24-17-6]]
+
+^<<v24-17-6,6>>^ Ele se tornará como uma árvore solitária no deserto.
+Não verá quando vier o que é bom,
+Mas morará em lugares áridos no ermo,
+Numa terra salgada, onde ninguém pode viver.
+
+[[v24-17-7]]
+
+^<<v24-17-7,7>>^ Bendito o homem^&#42;1^ que confia em Jeová,
+Cuja esperança^&#42;2^ está em Jeová.
+
+[NOTE]
+====
+. Ou: “homem forte”.
+. Ou: “confiança”.
+====
+
+[[v24-17-8]]
+
+^<<v24-17-8,8>>^ Ele se tornará como uma árvore plantada junto às águas,
+Que estende suas raízes até a corrente de água.
+Ele não perceberá quando o calor chegar,
+Mas suas folhas estarão sempre viçosas.
+No ano da seca ele não ficará preocupado,
+Nem deixará de produzir fruto.
+
+[[v24-17-9]]
+
+^<<v24-17-9,9>>^ O coração é mais traiçoeiro^&#42;1^ do que qualquer outra coisa e está desesperado.^&#42;2^
+Quem pode conhecê-lo?
+
+[NOTE]
+====
+. Ou: “enganoso”.
+. Ou, possivelmente: “é incurável”.
+====
+
+[[v24-17-10]]
+
+^<<v24-17-10,10>>^ Eu, Jeová, examino o coração,
+Sondo os pensamentos mais íntimos,^&#42;1^
+Para retribuir a cada um conforme os seus caminhos,
+Conforme os frutos das suas obras.
+
+[NOTE]
+====
+. Ou: “as emoções mais profundas”. Lit.: “os rins”.
+====
+
+[[v24-17-11]]
+
+^<<v24-17-11,11>>^ Como a perdiz que ajunta ovos que não botou,
+Assim é aquele que adquire riquezas de modo desonesto;^&#42;1^
+Elas o deixarão no meio de sua vida,
+E no fim ele se mostrará um insensato.”
+
+[NOTE]
+====
+. Ou: “riquezas, mas não com justiça”.
+====
+
+[[v24-17-12]]
+
+^<<v24-17-12,12>>^ Um trono glorioso, enaltecido desde o princípio,
+É o lugar do nosso santuário.
+
+[[v24-17-13]]
+
+^<<v24-17-13,13>>^ Ó Jeová, esperança de Israel,
+Todos os que te abandonam serão envergonhados.
+Os que se desviam^&#42;1^ de ti^&#42;2^ terão os seus nomes escritos no pó,
+Porque abandonaram a Jeová, a fonte de água viva.
+
+[NOTE]
+====
+. Ou: “que apostatam”.
+. Lit.: “mim”, aparentemente se referindo a Jeová.
+====
+
+[[v24-17-14]]
+
+^<<v24-17-14,14>>^ Cura-me, ó Jeová, e ficarei curado.
+Salva-me, e estarei salvo,
+Pois tu és aquele a quem eu louvo.
+
+[[v24-17-15]]
+
+^<<v24-17-15,15>>^ Vê, há alguns que me dizem:
+“Onde está a palavra de Jeová?
+Que ela se cumpra!”
+
+[[v24-17-16]]
+
+^<<v24-17-16,16>>^ Mas, quanto a mim, não deixei de seguir-te como pastor,
+Nem desejei o dia da calamidade.
+Tu bem sabes tudo que meus lábios disseram;
+Tudo se passou diante da tua face.
+
+[[v24-17-17]]
+
+^<<v24-17-17,17>>^ Não sejas um motivo de terror para mim.
+Tu és o meu refúgio no dia da calamidade.
+
+[[v24-17-18]]
+
+^<<v24-17-18,18>>^ Que sejam envergonhados os meus perseguidores,
+Mas não seja eu envergonhado.
+Que eles fiquem apavorados,
+Mas não fique eu apavorado.
+Traz sobre eles o dia da calamidade,
+Esmaga-os e elimina-os completamente.^&#42;1^
+
+[NOTE]
+====
+. Ou: “elimina-os duas vezes”.
+====
+
+[[v24-17-19]]
+
+^<<v24-17-19,19>>^ Assim me disse Jeová: “Vá e fique de pé no portão dos filhos do povo, pelo qual os reis de Judá entram e saem, e também em todos os outros portões de Jerusalém.
+
+[[v24-17-20]]
+
+^<<v24-17-20,20>>^ Diga a eles: ‘Ouçam a palavra de Jeová, ó reis de Judá, todo o povo de Judá e todos os habitantes de Jerusalém, que entram por estes portões.
+
+[[v24-17-21]]
+
+^<<v24-17-21,21>>^ Assim diz Jeová: “Tenham o cuidado de^&#42;1^ não transportar nenhuma carga no dia de sábado nem de entrar com ela pelos portões de Jerusalém.
+
+[NOTE]
+====
+. Ou: “Cuidem das suas almas para”.
+====
+
+[[v24-17-22]]
+
+^<<v24-17-22,22>>^ Não tragam nenhuma carga da sua casa no dia de sábado, nem realizem nenhum trabalho. Mantenham sagrado o dia de sábado, assim como ordenei aos seus antepassados.
+
+[[v24-17-23]]
+
+^<<v24-17-23,23>>^ Mas eles não escutaram nem prestaram atenção;^&#42;1^ teimaram em^&#42;2^ não obedecer e não aceitar a disciplina.”’
+
+[NOTE]
+====
+. Ou: “nem inclinaram seu ouvido”.
+. Lit.: “endureceram sua cerviz para”.
+====
+
+[[v24-17-24]]
+
+^<<v24-17-24,24>>^ “‘“No entanto, se vocês me obedecerem fielmente”, diz Jeová, “não entrarem com nenhuma carga pelos portões desta cidade no dia de sábado e mantiverem sagrado o dia de sábado, não realizando nele nenhum trabalho,
+
+[[v24-17-25]]
+
+^<<v24-17-25,25>>^ então os reis e os príncipes que se sentam no trono de Davi também entrarão pelos portões desta cidade andando em carros e montando cavalos — eles e seus príncipes, os homens de Judá e os habitantes de Jerusalém —, e esta cidade será habitada para sempre.
+
+[[v24-17-26]]
+
+^<<v24-17-26,26>>^ E as pessoas virão das cidades de Judá, dos arredores de Jerusalém, da terra de Benjamim, da baixada, da região montanhosa e do Neguebe,^&#42;1^ trazendo ofertas queimadas, sacrifícios, ofertas de cereais, olíbano e sacrifícios de agradecimento à casa de Jeová.
+
+[NOTE]
+====
+. Ou: “do sul”.
+====
+
+[[v24-17-27]]
+
+^<<v24-17-27,27>>^ “‘“Mas, se vocês não me obedecerem, deixando de manter sagrado o dia de sábado, e transportarem cargas e entrarem com elas pelos portões de Jerusalém no dia de sábado, eu porei fogo nos portões dela; ele certamente devorará as torres fortificadas de Jerusalém, e não se apagará.”’”
+
+'''
+
+xref:024-jeremias/024-jeremias-016.adoc#v24-16-0[&#60; Capítulo Anterior] | <<v24-17-0,Topo>> | xref:024-jeremias/024-jeremias-018.adoc#v24-18-0[Próximo Capítulo &#62;]

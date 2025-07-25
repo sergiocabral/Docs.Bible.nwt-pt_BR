@@ -1,0 +1,53 @@
+include::./index.adoc[]
+
+[[v23-20-0]]
+=== Isaías, 20
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v23-20-1]]
+
+^<<v23-20-1,1>>^ No ano em que o rei Sargão, da Assíria, enviou o Tartã^&#42;1^ a Asdode, este lutou contra Asdode e a tomou.
+
+[NOTE]
+====
+. Ou: “o comandante”.
+====
+
+[[v23-20-2]]
+
+^<<v23-20-2,2>>^ Naquele tempo Jeová disse por meio de Isaías, filho de Amoz: “Vá, tire o pano de saco dos seus quadris e tire as sandálias dos seus pés.” Ele fez isso, e passou a andar nu^&#42;1^ e descalço.
+
+[NOTE]
+====
+. Ou: “pouco vestido”.
+====
+
+[[v23-20-3]]
+
+^<<v23-20-3,3>>^ Então Jeová disse: “Assim como meu servo Isaías tem andado nu e descalço por três anos como sinal e como aviso do que vai acontecer com o Egito e com a Etiópia,
+
+[[v23-20-4]]
+
+^<<v23-20-4,4>>^ do mesmo modo o rei da Assíria conduzirá os cativos egípcios e os exilados da Etiópia, rapazes e homens idosos, nus e descalços, com as nádegas expostas — para a vergonha^&#42;1^ do Egito.
+
+[NOTE]
+====
+. Lit.: “— a nudez”.
+====
+
+[[v23-20-5]]
+
+^<<v23-20-5,5>>^ E os que colocavam a sua esperança na Etiópia e que se orgulhavam^&#42;1^ do Egito ficarão apavorados e envergonhados.
+
+[NOTE]
+====
+. Ou: “que admiravam a beleza”.
+====
+
+[[v23-20-6]]
+
+^<<v23-20-6,6>>^ Os habitantes deste litoral dirão naquele dia: ‘Veja o que aconteceu com aquele em quem colocamos a nossa esperança, a quem fugimos em busca de ajuda para sermos livrados do rei da Assíria! Como escaparemos agora?’”
+
+'''
+
+xref:023-isaias/023-isaias-019.adoc#v23-19-0[&#60; Capítulo Anterior] | <<v23-20-0,Topo>> | xref:023-isaias/023-isaias-021.adoc#v23-21-0[Próximo Capítulo &#62;]

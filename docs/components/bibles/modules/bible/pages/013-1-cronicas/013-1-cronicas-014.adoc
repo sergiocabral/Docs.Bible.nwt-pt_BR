@@ -1,0 +1,98 @@
+include::./index.adoc[]
+
+[[v13-14-0]]
+=== O Primeiro das Crônicas, 14
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v13-14-1]]
+
+^<<v13-14-1,1>>^ Hirão, rei de Tiro, enviou mensageiros a Davi, junto com madeiras de cedro, pedreiros^&#42;1^ e carpinteiros, a fim de lhe construir uma casa.^&#42;2^
+
+[NOTE]
+====
+. Ou: “construtores de muros”.
+. Ou: “um palácio”.
+====
+
+[[v13-14-2]]
+
+^<<v13-14-2,2>>^ E Davi percebeu que Jeová o havia estabelecido firmemente como rei sobre Israel, pois Ele tinha exaltado grandemente o seu reinado por causa do Seu povo Israel.
+
+[[v13-14-3]]
+
+^<<v13-14-3,3>>^ Davi tomou mais esposas em Jerusalém e se tornou pai de mais filhos e filhas.
+
+[[v13-14-4]]
+
+^<<v13-14-4,4>>^ Estes são os nomes dos filhos dele que nasceram em Jerusalém: Samua, Sobabe, Natã, Salomão,
+
+[[v13-14-5]]
+
+^<<v13-14-5,5>>^ Ibar, Elisua, Elpelete,
+
+[[v13-14-6]]
+
+^<<v13-14-6,6>>^ Nogá, Nefegue, Jafia,
+
+[[v13-14-7]]
+
+^<<v13-14-7,7>>^ Elisama, Beeliada e Elifelete.
+
+[[v13-14-8]]
+
+^<<v13-14-8,8>>^ Quando os filisteus ficaram sabendo que Davi tinha sido ungido rei sobre todo o Israel, todos eles foram à procura de Davi. Ao saber disso, Davi saiu para lutar contra eles.
+
+[[v13-14-9]]
+
+^<<v13-14-9,9>>^ Então os filisteus vieram e começaram a atacar o vale^&#42;1^ de Refaim.
+
+[NOTE]
+====
+. Ou: “a baixada”.
+====
+
+[[v13-14-10]]
+
+^<<v13-14-10,10>>^ Davi consultou a Deus: “Devo ir contra os filisteus? Tu os entregarás nas minhas mãos?” Jeová respondeu a Davi: “Vá, e eu certamente os entregarei nas suas mãos.”
+
+[[v13-14-11]]
+
+^<<v13-14-11,11>>^ Portanto, Davi foi a Baal-Perazim e os golpeou ali. Por isso Davi disse: “Por meio das minhas mãos o verdadeiro Deus rompeu as fileiras dos meus inimigos, como águas que abrem uma brecha.” É por isso que chamaram aquele lugar de Baal-Perazim.^&#42;1^
+
+[NOTE]
+====
+. Que significa “senhor das brechas”.
+====
+
+[[v13-14-12]]
+
+^<<v13-14-12,12>>^ Os filisteus abandonaram ali os seus deuses, que foram queimados no fogo quando Davi deu a ordem.
+
+[[v13-14-13]]
+
+^<<v13-14-13,13>>^ Mais tarde, os filisteus atacaram novamente o vale.^&#42;1^
+
+[NOTE]
+====
+. Ou: “a baixada”.
+====
+
+[[v13-14-14]]
+
+^<<v13-14-14,14>>^ Davi consultou mais uma vez a Deus, mas o verdadeiro Deus lhe disse: “Não os ataque pela frente. Dê a volta por trás deles e ataque-os em frente aos balsameiros.
+
+[[v13-14-15]]
+
+^<<v13-14-15,15>>^ Quando você ouvir o som de marcha nas copas dos balsameiros, ataque, pois o verdadeiro Deus terá ido à sua frente para golpear o exército dos filisteus.”
+
+[[v13-14-16]]
+
+^<<v13-14-16,16>>^ Portanto, Davi fez exatamente como o verdadeiro Deus lhe ordenou, e eles golpearam o exército filisteu desde Gibeão até Gezer.
+
+[[v13-14-17]]
+
+^<<v13-14-17,17>>^ Assim, a fama de Davi se espalhou por todas as terras, e Jeová fez com que todas as nações o temessem.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-013.adoc#v13-13-0[&#60; Capítulo Anterior] | <<v13-14-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-015.adoc#v13-15-0[Próximo Capítulo &#62;]

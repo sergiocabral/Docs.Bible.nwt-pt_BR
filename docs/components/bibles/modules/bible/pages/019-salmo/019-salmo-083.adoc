@@ -1,0 +1,145 @@
+include::./index.adoc[]
+
+[[v19-83-0]]
+=== Salmos, 83
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Cântico. Salmo de Asafe._
+
+[[v19-83-1]]
+
+^<<v19-83-1,1>>^ Ó Deus, não fiques em silêncio;
+Não fiques quieto^&#42;1^ nem fiques parado, ó Divino.
+
+[NOTE]
+====
+. Ou: “sem fala”.
+====
+
+[[v19-83-2]]
+
+^<<v19-83-2,2>>^ Vê! Os teus inimigos estão em alvoroço,
+Os que te odeiam agem de modo arrogante.^&#42;1^
+
+[NOTE]
+====
+. Ou: “levantam a cabeça”.
+====
+
+[[v19-83-3]]
+
+^<<v19-83-3,3>>^ Com astúcia, tramam secretamente contra o teu povo;
+Eles conspiram contra os que são estimados por ti.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “contra os teus escondidos”.
+====
+
+[[v19-83-4]]
+
+^<<v19-83-4,4>>^ Dizem: “Venham, vamos exterminá-los como nação,
+Para que o nome de Israel não seja mais lembrado.”
+
+[[v19-83-5]]
+
+^<<v19-83-5,5>>^ Planejam juntos uma estratégia;^&#42;1^
+Fizeram uma aliança^&#42;2^ contra ti —
+
+[NOTE]
+====
+. Lit.: “Consultam com um coração, juntos”.
+. Ou: “um pacto”.
+====
+
+[[v19-83-6]]
+
+^<<v19-83-6,6>>^ As tendas de Edom e dos ismaelitas, Moabe e os agarenos,
+
+[[v19-83-7]]
+
+^<<v19-83-7,7>>^ Gebal, Amom e Amaleque,
+A Filístia junto com os habitantes de Tiro.
+
+[[v19-83-8]]
+
+^<<v19-83-8,8>>^ A Assíria também se uniu a eles;
+Dão apoio aos^&#42;1^ filhos de Ló. (Selá)
+
+[NOTE]
+====
+. Lit.: “Tornaram-se um braço para os”.
+====
+
+[[v19-83-9]]
+
+^<<v19-83-9,9>>^ Faz com eles o que fizeste com Midiã,
+O que fizeste com Sísera e com Jabim no rio^&#42;1^ Quisom.
+
+[NOTE]
+====
+. Ou: “uádi”.
+====
+
+[[v19-83-10]]
+
+^<<v19-83-10,10>>^ Eles foram aniquilados em En-Dor,
+Tornaram-se estrume para o solo.
+
+[[v19-83-11]]
+
+^<<v19-83-11,11>>^ Faz com os seus nobres o que fizeste com Orebe e Zeebe,
+E com os seus príncipes^&#42;1^ o que fizeste com Zeba e Zalmuna,
+
+[NOTE]
+====
+. Ou: “líderes”.
+====
+
+[[v19-83-12]]
+
+^<<v19-83-12,12>>^ Pois disseram: “Tomemos posse da terra onde Deus reside.”
+
+[[v19-83-13]]
+
+^<<v19-83-13,13>>^ Ó meu Deus, torna-os como plantas secas que a ventania leva embora,^&#42;1^
+Como a palha impelida pelo vento.
+
+[NOTE]
+====
+. Ou: “como barrilha-espinhosa”.
+====
+
+[[v19-83-14]]
+
+^<<v19-83-14,14>>^ Assim como o fogo que queima a floresta,
+Como a chama que incendeia os montes,
+
+[[v19-83-15]]
+
+^<<v19-83-15,15>>^ Que tu os persigas com a tua tempestade
+E os apavores com o teu vendaval.
+
+[[v19-83-16]]
+
+^<<v19-83-16,16>>^ Cobre-lhes^&#42;1^ o rosto de desonra,
+Para que busquem o teu nome, ó Jeová.
+
+[NOTE]
+====
+. Lit.: “Enche-lhes”.
+====
+
+[[v19-83-17]]
+
+^<<v19-83-17,17>>^ Que eles sejam envergonhados e aterrorizados para sempre;
+Que sejam desonrados e deixem de existir;
+
+[[v19-83-18]]
+
+^<<v19-83-18,18>>^ Que as pessoas saibam que tu, cujo nome é Jeová,
+Somente tu és o Altíssimo sobre toda a terra.
+
+'''
+
+xref:019-salmo/019-salmo-082.adoc#v19-82-0[&#60; Capítulo Anterior] | <<v19-83-0,Topo>> | xref:019-salmo/019-salmo-084.adoc#v19-84-0[Próximo Capítulo &#62;]

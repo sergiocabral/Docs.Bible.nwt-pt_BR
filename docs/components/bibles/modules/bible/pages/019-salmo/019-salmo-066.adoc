@@ -1,0 +1,142 @@
+include::./index.adoc[]
+
+[[v19-66-0]]
+=== Salmos, 66
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Ao regente. Cântico. Salmo._
+
+[[v19-66-1]]
+
+^<<v19-66-1,1>>^ Aclamem triunfantemente a Deus, toda a terra.
+
+[[v19-66-2]]
+
+^<<v19-66-2,2>>^ Cantem louvores^&#42;1^ ao seu nome glorioso.
+Deem a ele glória e louvor.
+
+[NOTE]
+====
+. Ou: “Façam música”.
+====
+
+[[v19-66-3]]
+
+^<<v19-66-3,3>>^ Digam a Deus: “Como as tuas obras são espantosas!
+Por causa do teu grande poder,
+Os teus inimigos se encolherão de temor diante de ti.
+
+[[v19-66-4]]
+
+^<<v19-66-4,4>>^ Toda a terra se curvará diante de ti;
+Cantarão louvores a ti;
+Cantarão louvores ao teu nome.” (Selá)
+
+[[v19-66-5]]
+
+^<<v19-66-5,5>>^ Venham e vejam as obras de Deus.
+Seus atos a favor dos filhos dos homens inspiram temor.
+
+[[v19-66-6]]
+
+^<<v19-66-6,6>>^ Ele transformou o mar em terra seca;
+Eles atravessaram o rio a pé.
+Ali nos alegramos nele.
+
+[[v19-66-7]]
+
+^<<v19-66-7,7>>^ Ele governa para sempre com o seu poder.
+Seus olhos vigiam as nações.
+Que os obstinados não exaltem a si mesmos. (Selá)
+
+[[v19-66-8]]
+
+^<<v19-66-8,8>>^ Louvem ao nosso Deus, ó povos,
+Que seja ouvido o som do seu louvor.
+
+[[v19-66-9]]
+
+^<<v19-66-9,9>>^ Ele nos preserva vivos;^&#42;1^
+Ele não permite que o nosso pé tropece.^&#42;2^
+
+[NOTE]
+====
+. Ou: “põe a nossa alma em vida”.
+. Ou: “cambaleie”.
+====
+
+[[v19-66-10]]
+
+^<<v19-66-10,10>>^ Pois tu nos examinaste, ó Deus;
+Assim como se refina a prata, tu nos refinaste.
+
+[[v19-66-11]]
+
+^<<v19-66-11,11>>^ Tu nos fizeste entrar numa rede de caça;
+Puseste sobre nós^&#42;1^ um fardo esmagador.
+
+[NOTE]
+====
+. Lit.: “sobre nossos quadris”.
+====
+
+[[v19-66-12]]
+
+^<<v19-66-12,12>>^ Deixaste o homem mortal cavalgar sobre nós;^&#42;1^
+Passamos pelo fogo e pela água;
+Então tu nos trouxeste a um lugar de descanso.
+
+[NOTE]
+====
+. Lit.: “nossa cabeça”.
+====
+
+[[v19-66-13]]
+
+^<<v19-66-13,13>>^ Entrarei na tua casa com ofertas queimadas,
+Cumprirei os votos que fiz a ti,
+
+[[v19-66-14]]
+
+^<<v19-66-14,14>>^ Aquilo que os meus lábios prometeram,
+Que a minha boca falou quando eu estava em aflição.
+
+[[v19-66-15]]
+
+^<<v19-66-15,15>>^ Eu te farei ofertas queimadas de animais gordos,
+Com a fumaça sacrificial de carneiros.
+Oferecerei touros e bodes. (Selá)
+
+[[v19-66-16]]
+
+^<<v19-66-16,16>>^ Venham e escutem, todos vocês que temem a Deus,
+E eu lhes contarei o que ele tem feito por mim.^&#42;1^
+
+[NOTE]
+====
+. Ou: “pela minha alma”.
+====
+
+[[v19-66-17]]
+
+^<<v19-66-17,17>>^ Clamei a ele com a minha boca
+E o glorifiquei com a minha língua.
+
+[[v19-66-18]]
+
+^<<v19-66-18,18>>^ Se eu tivesse guardado alguma maldade no coração,
+Jeová não me teria ouvido.
+
+[[v19-66-19]]
+
+^<<v19-66-19,19>>^ Mas Deus realmente ouviu,
+Prestou atenção à minha oração.
+
+[[v19-66-20]]
+
+^<<v19-66-20,20>>^ Louvado seja Deus, que não rejeitou a minha oração
+Nem me negou o seu amor leal.
+
+'''
+
+xref:019-salmo/019-salmo-065.adoc#v19-65-0[&#60; Capítulo Anterior] | <<v19-66-0,Topo>> | xref:019-salmo/019-salmo-067.adoc#v19-67-0[Próximo Capítulo &#62;]

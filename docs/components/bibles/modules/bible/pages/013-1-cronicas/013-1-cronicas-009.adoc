@@ -1,0 +1,216 @@
+include::./index.adoc[]
+
+[[v13-9-0]]
+=== O Primeiro das Crônicas, 9
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v13-9-1]]
+
+^<<v13-9-1,1>>^ Todos os israelitas foram alistados nos registros genealógicos e estão registrados no Livro dos Reis de Israel. E Judá foi levado para o exílio em Babilônia por causa da sua infidelidade.
+
+[[v13-9-2]]
+
+^<<v13-9-2,2>>^ Os primeiros que voltaram a morar nas suas propriedades, nas suas cidades, foram alguns israelitas, os sacerdotes, os levitas e os servos do templo.^&#42;1^
+
+[NOTE]
+====
+. Ou: “os netineus”. Lit.: “os que foram dados”.
+====
+
+[[v13-9-3]]
+
+^<<v13-9-3,3>>^ E alguns dos descendentes de Judá, de Benjamim, de Efraim e de Manassés se estabeleceram em Jerusalém:
+
+[[v13-9-4]]
+
+^<<v13-9-4,4>>^ Utai, filho de Amiúde, filho de Onri, filho de Inri, filho de Bani, dos descendentes de Peres, filho de Judá.
+
+[[v13-9-5]]
+
+^<<v13-9-5,5>>^ Dos silonitas havia Asaías, o primogênito, e seus filhos.
+
+[[v13-9-6]]
+
+^<<v13-9-6,6>>^ Dos filhos de Zerá, Jeuel e 690 irmãos deles.
+
+[[v13-9-7]]
+
+^<<v13-9-7,7>>^ Dos descendentes de Benjamim havia Salu, filho de Mesulão, filho de Hodavias, filho de Hassenua;
+
+[[v13-9-8]]
+
+^<<v13-9-8,8>>^ Ibneias, filho de Jeroão; Elá, filho de Uzi, filho de Micri; e Mesulão, filho de Sefatias, filho de Reuel, filho de Ibnias.
+
+[[v13-9-9]]
+
+^<<v13-9-9,9>>^ Seus irmãos, alistados segundo as suas linhagens, eram 956. Todos esses homens eram cabeças das suas casas paternas.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “cabeças dos pais para a casa dos seus pais”.
+====
+
+[[v13-9-10]]
+
+^<<v13-9-10,10>>^ Dos sacerdotes havia Jedaías; Jeoiaribe; Jaquim;
+
+[[v13-9-11]]
+
+^<<v13-9-11,11>>^ Azarias, filho de Hilquias, filho de Mesulão, filho de Zadoque, filho de Meraiote, filho de Aitube, líder da casa^&#42;1^ do verdadeiro Deus;
+
+[NOTE]
+====
+. Ou: “do templo”.
+====
+
+[[v13-9-12]]
+
+^<<v13-9-12,12>>^ Adaías, filho de Jeroão, filho de Pasur, filho de Malquias; Maasai, filho de Adiel, filho de Jazera, filho de Mesulão, filho de Mesilemite, filho de Imer;
+
+[[v13-9-13]]
+
+^<<v13-9-13,13>>^ e os irmãos deles, cabeças das casas paternas, 1.760 homens fortes e capazes, prontos para realizar o serviço da casa do verdadeiro Deus.
+
+[[v13-9-14]]
+
+^<<v13-9-14,14>>^ Dos levitas havia Semaías, filho de Hassube, filho de Azricão, filho de Hasabias, dos descendentes de Merari;
+
+[[v13-9-15]]
+
+^<<v13-9-15,15>>^ Baquebacar; Heres; Galal; Matanias, filho de Mica, filho de Zicri, filho de Asafe;
+
+[[v13-9-16]]
+
+^<<v13-9-16,16>>^ Obadias, filho de Semaías, filho de Galal, filho de Jedutum; e Berequias, filho de Asa, filho de Elcana, que morava nos povoados dos netofatitas.
+
+[[v13-9-17]]
+
+^<<v13-9-17,17>>^ Os porteiros eram Salum, Acube, Talmom e Aimã; Salum, irmão deles, era o cabeça,
+
+[[v13-9-18]]
+
+^<<v13-9-18,18>>^ e até aquele tempo ele servia no portão do rei, ao leste. Eles eram os porteiros dos acampamentos dos levitas.
+
+[[v13-9-19]]
+
+^<<v13-9-19,19>>^ Salum, filho de Coré, filho de Ebiasafe, filho de Corá, e seus irmãos da mesma casa paterna, os coraítas, eram responsáveis pelo serviço de porteiro da tenda. Seus antepassados haviam sido responsáveis pelo serviço de vigia da entrada do acampamento de Jeová.
+
+[[v13-9-20]]
+
+^<<v13-9-20,20>>^ No passado, Fineias, filho de Eleazar, tinha sido o líder deles, e Jeová estava com ele.
+
+[[v13-9-21]]
+
+^<<v13-9-21,21>>^ Zacarias, filho de Meselemias, era o porteiro da entrada da tenda de reunião.
+
+[[v13-9-22]]
+
+^<<v13-9-22,22>>^ Todos os que foram escolhidos como porteiros das entradas somavam 212. Eles se estabeleceram nos seus povoados segundo o seu registro genealógico. Haviam sido designados para esse cargo de confiança por Davi e Samuel, o vidente.
+
+[[v13-9-23]]
+
+^<<v13-9-23,23>>^ Eles e seus filhos eram responsáveis pelo serviço de vigiar os portões da casa de Jeová, a casa da tenda.
+
+[[v13-9-24]]
+
+^<<v13-9-24,24>>^ Havia porteiros nos quatro lados: leste, oeste, norte e sul.
+
+[[v13-9-25]]
+
+^<<v13-9-25,25>>^ De tempos em tempos, seus irmãos deviam vir dos seus povoados para servir com eles por sete dias.
+
+[[v13-9-26]]
+
+^<<v13-9-26,26>>^ Havia quatro porteiros principais^&#42;1^ no cargo de confiança. Eles eram levitas, e estavam encarregados das salas^&#42;2^ e dos tesouros da casa do verdadeiro Deus.
+
+[NOTE]
+====
+. Lit.: “poderosos”.
+. Ou: “dos refeitórios”.
+====
+
+[[v13-9-27]]
+
+^<<v13-9-27,27>>^ Eles passavam a noite nos seus postos ao redor da casa do verdadeiro Deus, pois tinham a responsabilidade de vigiá-la, estavam encarregados da chave e abriam a casa todas as manhãs.
+
+[[v13-9-28]]
+
+^<<v13-9-28,28>>^ Alguns estavam encarregados dos utensílios usados no serviço; eles os contavam quando eram devolvidos e também quando eram retirados.
+
+[[v13-9-29]]
+
+^<<v13-9-29,29>>^ Outros eram responsáveis pelos utensílios, por todos os utensílios sagrados, pela farinha fina, pelo vinho, pelo azeite, pelo olíbano e pelo óleo de bálsamo.
+
+[[v13-9-30]]
+
+^<<v13-9-30,30>>^ Alguns dos filhos dos sacerdotes fabricavam o óleo perfumado feito de óleo de bálsamo.
+
+[[v13-9-31]]
+
+^<<v13-9-31,31>>^ Matitias, que era levita e primogênito de Salum, o coraíta, tinha o cargo de confiança de cuidar das coisas feitas em assadeiras.
+
+[[v13-9-32]]
+
+^<<v13-9-32,32>>^ Alguns dos coatitas, seus irmãos, estavam encarregados de preparar os pães da proposição^&#42;1^ todos os sábados.
+
+[NOTE]
+====
+. Ou: “pães arrumados em pilhas”.
+====
+
+[[v13-9-33]]
+
+^<<v13-9-33,33>>^ Estes eram os cantores, cabeças das casas paternas dos levitas, que ficavam nas salas^&#42;1^ e estavam isentos de outros deveres, pois tinham a responsabilidade de estar a serviço dia e noite.
+
+[NOTE]
+====
+. Ou: “nos refeitórios”.
+====
+
+[[v13-9-34]]
+
+^<<v13-9-34,34>>^ Estes foram os cabeças das casas paternas dos levitas, alistados segundo as suas linhagens, os chefes. Eles moravam em Jerusalém.
+
+[[v13-9-35]]
+
+^<<v13-9-35,35>>^ Jeiel, o pai de Gibeão, morava em Gibeão. O nome da sua esposa era Maacá.
+
+[[v13-9-36]]
+
+^<<v13-9-36,36>>^ Seu filho primogênito foi Abdom; depois vieram Zur, Quis, Baal, Ner, Nadabe,
+
+[[v13-9-37]]
+
+^<<v13-9-37,37>>^ Gedor, Aiô, Zacarias e Miclote.
+
+[[v13-9-38]]
+
+^<<v13-9-38,38>>^ Miclote tornou-se pai de Simeão. Todos eles moravam em Jerusalém, perto dos seus irmãos, junto com os seus outros irmãos.
+
+[[v13-9-39]]
+
+^<<v13-9-39,39>>^ Ner tornou-se pai de Quis; Quis tornou-se pai de Saul; Saul tornou-se pai de Jonatã, de Malquisua, de Abinadabe e de Esbaal.
+
+[[v13-9-40]]
+
+^<<v13-9-40,40>>^ O filho de Jonatã foi Meribe-Baal. Meribe-Baal tornou-se pai de Mica.
+
+[[v13-9-41]]
+
+^<<v13-9-41,41>>^ Os filhos de Mica foram Pitom, Meleque, Tareia e Acaz.
+
+[[v13-9-42]]
+
+^<<v13-9-42,42>>^ Acaz tornou-se pai de Jará; Jará tornou-se pai de Alemete, de Azmavete e de Zinri. Zinri tornou-se pai de Moza,
+
+[[v13-9-43]]
+
+^<<v13-9-43,43>>^ Moza tornou-se pai de Bineá; Refaías, seu filho; Eleasá, seu filho; Azel, seu filho.
+
+[[v13-9-44]]
+
+^<<v13-9-44,44>>^ Azel teve seis filhos; eles se chamavam Azricão, Boqueru, Ismael, Searias, Obadias e Hanã. Esses foram os filhos de Azel.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-008.adoc#v13-8-0[&#60; Capítulo Anterior] | <<v13-9-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-010.adoc#v13-10-0[Próximo Capítulo &#62;]

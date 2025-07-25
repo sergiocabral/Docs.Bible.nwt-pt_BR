@@ -1,0 +1,252 @@
+include::./index.adoc[]
+
+[[v4-1-0]]
+=== Números, 1
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v4-1-1]]
+
+^<<v4-1-1,1>>^ E, no primeiro dia do segundo mês, no segundo ano da saída deles da terra do Egito, Jeová falou a Moisés no deserto do Sinai, na tenda de reunião. Ele disse:
+
+[[v4-1-2]]
+
+^<<v4-1-2,2>>^ “Façam um censo de toda a assembleia de Israel,^&#42;1^ um por um,^&#42;2^ segundo as suas famílias, segundo as suas casas paternas, alistando todos os homens por nome.
+
+[NOTE]
+====
+. Lit.: “dos filhos de Israel”.
+. Ou: “cabeça por cabeça deles”.
+====
+
+[[v4-1-3]]
+
+^<<v4-1-3,3>>^ Você e Arão devem registrar por divisões^&#42;1^ todos os de 20 anos de idade para cima que podem servir no exército de Israel.
+
+[NOTE]
+====
+. Lit.: “segundo os seus exércitos”.
+====
+
+[[v4-1-4]]
+
+^<<v4-1-4,4>>^ “Levem com vocês um homem de cada tribo; cada um deles deve ser cabeça da sua casa paterna.
+
+[[v4-1-5]]
+
+^<<v4-1-5,5>>^ Estes são os nomes dos homens que estarão com vocês: de Rubem, Elizur, filho de Sedeur;
+
+[[v4-1-6]]
+
+^<<v4-1-6,6>>^ de Simeão, Selumiel, filho de Zurisadai;
+
+[[v4-1-7]]
+
+^<<v4-1-7,7>>^ de Judá, Nasom, filho de Aminadabe;
+
+[[v4-1-8]]
+
+^<<v4-1-8,8>>^ de Issacar, Netanel, filho de Zuar;
+
+[[v4-1-9]]
+
+^<<v4-1-9,9>>^ de Zebulão, Eliabe, filho de Helom;
+
+[[v4-1-10]]
+
+^<<v4-1-10,10>>^ dos filhos de José: de Efraim, Elisama, filho de Amiúde; de Manassés, Gamaliel, filho de Pedazur;
+
+[[v4-1-11]]
+
+^<<v4-1-11,11>>^ de Benjamim, Abidã, filho de Gideoni;
+
+[[v4-1-12]]
+
+^<<v4-1-12,12>>^ de Dã, Aiezer, filho de Amisadai;
+
+[[v4-1-13]]
+
+^<<v4-1-13,13>>^ de Aser, Pagiel, filho de Ocrã;
+
+[[v4-1-14]]
+
+^<<v4-1-14,14>>^ de Gade, Eliasafe, filho de Deuel;
+
+[[v4-1-15]]
+
+^<<v4-1-15,15>>^ de Naftali, Aira, filho de Enã.
+
+[[v4-1-16]]
+
+^<<v4-1-16,16>>^ Esses são os convocados da assembleia, os maiorais das tribos dos seus pais. Eles são os cabeças dos milhares de Israel.”
+
+[[v4-1-17]]
+
+^<<v4-1-17,17>>^ Então Moisés e Arão pegaram esses homens que tinham sido designados por nome.
+
+[[v4-1-18]]
+
+^<<v4-1-18,18>>^ Eles reuniram toda a assembleia no primeiro dia do segundo mês, para que os homens de 20 anos de idade para cima fossem registrados individualmente por nome, por família e pelas suas casas paternas,
+
+[[v4-1-19]]
+
+^<<v4-1-19,19>>^ assim como Jeová havia ordenado a Moisés. Ele os registrou no deserto do Sinai.
+
+[[v4-1-20]]
+
+^<<v4-1-20,20>>^ Os filhos de Rubem, os descendentes do primogênito de Israel, foram alistados por nome, por família e pelas suas casas paternas. Todos os homens de 20 anos de idade para cima que podiam servir no exército foram contados individualmente,
+
+[[v4-1-21]]
+
+^<<v4-1-21,21>>^ e o número dos registrados da tribo de Rubem foi de 46.500.
+
+[[v4-1-22]]
+
+^<<v4-1-22,22>>^ Os descendentes de Simeão foram alistados por nome, por família e pelas suas casas paternas. Todos os homens de 20 anos de idade para cima que podiam servir no exército foram contados individualmente,
+
+[[v4-1-23]]
+
+^<<v4-1-23,23>>^ e o número dos registrados da tribo de Simeão foi de 59.300.
+
+[[v4-1-24]]
+
+^<<v4-1-24,24>>^ Os descendentes de Gade foram alistados por nome, por família e pelas suas casas paternas. Todos os homens de 20 anos de idade para cima que podiam servir no exército foram contados,
+
+[[v4-1-25]]
+
+^<<v4-1-25,25>>^ e o número dos registrados da tribo de Gade foi de 45.650.
+
+[[v4-1-26]]
+
+^<<v4-1-26,26>>^ Os descendentes de Judá foram alistados por nome, por família e pelas suas casas paternas. Todos os homens de 20 anos de idade para cima que podiam servir no exército foram contados,
+
+[[v4-1-27]]
+
+^<<v4-1-27,27>>^ e o número dos registrados da tribo de Judá foi de 74.600.
+
+[[v4-1-28]]
+
+^<<v4-1-28,28>>^ Os descendentes de Issacar foram alistados por nome, por família e pelas suas casas paternas. Todos os homens de 20 anos de idade para cima que podiam servir no exército foram contados,
+
+[[v4-1-29]]
+
+^<<v4-1-29,29>>^ e o número dos registrados da tribo de Issacar foi de 54.400.
+
+[[v4-1-30]]
+
+^<<v4-1-30,30>>^ Os descendentes de Zebulão foram alistados por nome, por família e pelas suas casas paternas. Todos os homens de 20 anos de idade para cima que podiam servir no exército foram contados,
+
+[[v4-1-31]]
+
+^<<v4-1-31,31>>^ e o número dos registrados da tribo de Zebulão foi de 57.400.
+
+[[v4-1-32]]
+
+^<<v4-1-32,32>>^ Os descendentes de José por meio de Efraim foram alistados por nome, por família e pelas suas casas paternas. Todos os homens de 20 anos de idade para cima que podiam servir no exército foram contados,
+
+[[v4-1-33]]
+
+^<<v4-1-33,33>>^ e o número dos registrados da tribo de Efraim foi de 40.500.
+
+[[v4-1-34]]
+
+^<<v4-1-34,34>>^ Os descendentes de Manassés foram alistados por nome, por família e pelas suas casas paternas. Todos os homens de 20 anos de idade para cima que podiam servir no exército foram contados,
+
+[[v4-1-35]]
+
+^<<v4-1-35,35>>^ e o número dos registrados da tribo de Manassés foi de 32.200.
+
+[[v4-1-36]]
+
+^<<v4-1-36,36>>^ Os descendentes de Benjamim foram alistados por nome, por família e pelas suas casas paternas. Todos os homens de 20 anos de idade para cima que podiam servir no exército foram contados,
+
+[[v4-1-37]]
+
+^<<v4-1-37,37>>^ e o número dos registrados da tribo de Benjamim foi de 35.400.
+
+[[v4-1-38]]
+
+^<<v4-1-38,38>>^ Os descendentes de Dã foram alistados por nome, por família e pelas suas casas paternas. Todos os homens de 20 anos de idade para cima que podiam servir no exército foram contados,
+
+[[v4-1-39]]
+
+^<<v4-1-39,39>>^ e o número dos registrados da tribo de Dã foi de 62.700.
+
+[[v4-1-40]]
+
+^<<v4-1-40,40>>^ Os descendentes de Aser foram alistados por nome, por família e pelas suas casas paternas. Todos os homens de 20 anos de idade para cima que podiam servir no exército foram contados,
+
+[[v4-1-41]]
+
+^<<v4-1-41,41>>^ e o número dos registrados da tribo de Aser foi de 41.500.
+
+[[v4-1-42]]
+
+^<<v4-1-42,42>>^ Os descendentes de Naftali foram alistados por nome, por família e pelas suas casas paternas. Todos os homens de 20 anos de idade para cima que podiam servir no exército foram contados,
+
+[[v4-1-43]]
+
+^<<v4-1-43,43>>^ e o número dos registrados da tribo de Naftali foi de 53.400.
+
+[[v4-1-44]]
+
+^<<v4-1-44,44>>^ Esses foram os registrados por Moisés, Arão e os 12 maiorais de Israel. Cada um dos maiorais representou a sua casa paterna.
+
+[[v4-1-45]]
+
+^<<v4-1-45,45>>^ Todos os israelitas de 20 anos de idade para cima que podiam servir no exército de Israel foram registrados segundo a sua casa paterna,
+
+[[v4-1-46]]
+
+^<<v4-1-46,46>>^ e o total dos registrados foi de 603.550.
+
+[[v4-1-47]]
+
+^<<v4-1-47,47>>^ Mas os levitas não foram registrados junto com eles segundo a tribo dos seus pais.
+
+[[v4-1-48]]
+
+^<<v4-1-48,48>>^ Jeová disse a Moisés:
+
+[[v4-1-49]]
+
+^<<v4-1-49,49>>^ “Só não registre a tribo de Levi, nem inclua o número deles entre os outros israelitas.
+
+[[v4-1-50]]
+
+^<<v4-1-50,50>>^ Você deve encarregar os levitas de cuidar do tabernáculo do Testemunho, de todos os seus utensílios e de tudo o que pertence a ele. Eles carregarão o tabernáculo e todos os seus utensílios, e servirão nele; e eles devem acampar em volta do tabernáculo.
+
+[[v4-1-51]]
+
+^<<v4-1-51,51>>^ Sempre que o tabernáculo precisar ser mudado de lugar, os levitas devem desarmá-lo; e, quando o tabernáculo precisar ser armado novamente, os levitas devem armá-lo. Qualquer pessoa não autorizada^&#42;1^ que se aproximar deve ser morta.
+
+[NOTE]
+====
+. Lit.: “Qualquer estranho”, isto é, não levita.
+====
+
+[[v4-1-52]]
+
+^<<v4-1-52,52>>^ “Cada israelita deve armar a sua tenda no seu acampamento designado, cada homem segundo o seu grupo de três tribos,^&#42;1^ segundo as suas divisões.^&#42;2^
+
+[NOTE]
+====
+. Ou: “junto à sua bandeira (estandarte)”.
+. Lit.: “segundo os seus exércitos”.
+====
+
+[[v4-1-53]]
+
+^<<v4-1-53,53>>^ E os levitas devem acampar em volta do tabernáculo do Testemunho, para que não haja indignação contra a assembleia de Israel; e os levitas serão responsáveis de cuidar do^&#42;1^ tabernáculo do Testemunho.”
+
+[NOTE]
+====
+. Ou: “de guardar o; de realizar o serviço deles no”.
+====
+
+[[v4-1-54]]
+
+^<<v4-1-54,54>>^ O povo de Israel fez tudo o que Jeová havia ordenado a Moisés. Fizeram exatamente assim.
+
+'''
+
+xref:003-levitico/003-levitico-027.adoc#v3-27-0[&#60; Capítulo Anterior] | <<v4-1-0,Topo>> | xref:004-numeros/004-numeros-002.adoc#v4-2-0[Próximo Capítulo &#62;]

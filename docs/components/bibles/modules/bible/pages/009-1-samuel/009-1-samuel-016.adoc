@@ -1,0 +1,106 @@
+include::./index.adoc[]
+
+[[v9-16-0]]
+=== O Primeiro de Samuel, 16
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v9-16-1]]
+
+^<<v9-16-1,1>>^ Por fim, Jeová disse a Samuel: “Até quando você ficará triste por causa de Saul, ao passo que eu o rejeitei como rei de Israel? Encha um chifre com óleo e vá. Eu o enviarei a Jessé, o belemita, porque escolhi um dos filhos dele para ser rei.”
+
+[[v9-16-2]]
+
+^<<v9-16-2,2>>^ Mas Samuel disse: “Como posso ir? Quando Saul ficar sabendo disso, ele me matará.” Jeová respondeu: “Leve uma novilha com você e diga: ‘Vim para oferecer um sacrifício a Jeová.’
+
+[[v9-16-3]]
+
+^<<v9-16-3,3>>^ Convide Jessé para o sacrifício, e eu lhe direi o que deve fazer. Você deve ungir para mim aquele que eu indicar.”
+
+[[v9-16-4]]
+
+^<<v9-16-4,4>>^ Samuel fez o que Jeová disse. Quando chegou a Belém, os anciãos da cidade foram se encontrar com ele, tremendo de medo, e disseram: “A sua visita é de paz?”
+
+[[v9-16-5]]
+
+^<<v9-16-5,5>>^ Ele respondeu: “É de paz. Vim para oferecer um sacrifício a Jeová. Santifiquem-se e venham comigo ao sacrifício.” Então ele santificou Jessé e seus filhos, e depois os chamou para o sacrifício.
+
+[[v9-16-6]]
+
+^<<v9-16-6,6>>^ Quando eles entraram e Samuel viu Eliabe, ele disse: ‘Com certeza este é o ungido de Jeová.’
+
+[[v9-16-7]]
+
+^<<v9-16-7,7>>^ Mas Jeová disse a Samuel: “Não olhe para a sua aparência nem para a sua altura, pois o rejeitei. Porque Deus não vê como o homem vê; o homem vê a aparência, mas Jeová vê o coração.”
+
+[[v9-16-8]]
+
+^<<v9-16-8,8>>^ Então Jessé chamou Abinadabe e o fez passar diante de Samuel, mas ele disse: “Jeová também não escolheu este.”
+
+[[v9-16-9]]
+
+^<<v9-16-9,9>>^ A seguir, Jessé apresentou Samá, mas ele disse: “Também não foi este que Jeová escolheu.”
+
+[[v9-16-10]]
+
+^<<v9-16-10,10>>^ Assim, Jessé fez sete dos seus filhos passar diante de Samuel, mas Samuel disse a Jessé: “Jeová não escolheu nenhum destes.”
+
+[[v9-16-11]]
+
+^<<v9-16-11,11>>^ Por fim, Samuel perguntou a Jessé: “Estes são todos os filhos que você tem?” Ele respondeu: “Ainda falta o mais novo; ele está pastoreando as ovelhas.” Então Samuel disse a Jessé: “Mande buscá-lo, porque não nos sentaremos para a refeição enquanto ele não chegar.”
+
+[[v9-16-12]]
+
+^<<v9-16-12,12>>^ Portanto, mandou buscá-lo. Ele era corado,^&#42;1^ de belos olhos e boa aparência. Jeová disse: “Vamos, é esse! Você deve ungi-lo.”
+
+[NOTE]
+====
+. Ou: “ruivo”.
+====
+
+[[v9-16-13]]
+
+^<<v9-16-13,13>>^ Então Samuel pegou o chifre com óleo e o ungiu diante dos seus irmãos. E a partir daquele dia o espírito de Jeová deu poder a Davi. Mais tarde, Samuel voltou para Ramá.
+
+[[v9-16-14]]
+
+^<<v9-16-14,14>>^ O espírito de Jeová tinha se retirado de Saul, e um espírito mau da parte de Jeová passou a aterrorizá-lo.
+
+[[v9-16-15]]
+
+^<<v9-16-15,15>>^ Os servos de Saul lhe disseram: “Um espírito mau da parte de Deus está aterrorizando o senhor.
+
+[[v9-16-16]]
+
+^<<v9-16-16,16>>^ Por favor, ordene aos seus servos que estão aqui que procurem um homem perito em tocar harpa. Quando um espírito mau da parte de Deus vier sobre o senhor, ele tocará, e o senhor se sentirá melhor.”
+
+[[v9-16-17]]
+
+^<<v9-16-17,17>>^ Portanto, Saul disse aos seus servos: “Encontrem, por favor, um homem que toque bem, e tragam-no a mim.”
+
+[[v9-16-18]]
+
+^<<v9-16-18,18>>^ Um dos ajudantes disse: “Sei que um dos filhos de Jessé, o belemita, toca harpa muito bem, e é um guerreiro corajoso e valente. Ele fala bem, tem boa aparência e Jeová está com ele.”
+
+[[v9-16-19]]
+
+^<<v9-16-19,19>>^ Saul enviou então mensageiros a Jessé para dizer: “Envie-me seu filho Davi, que está com o rebanho.”
+
+[[v9-16-20]]
+
+^<<v9-16-20,20>>^ Portanto, Jessé pôs sobre um jumento pão, um odre de vinho e um cabrito, e os enviou a Saul com seu filho Davi.
+
+[[v9-16-21]]
+
+^<<v9-16-21,21>>^ Assim, Davi foi a Saul e começou a servi-lo. Saul passou a gostar muito dele, e ele se tornou seu escudeiro.
+
+[[v9-16-22]]
+
+^<<v9-16-22,22>>^ Saul mandou dizer a Jessé: “Por favor, deixe Davi ficar a meu serviço, pois ele achou favor aos meus olhos.”
+
+[[v9-16-23]]
+
+^<<v9-16-23,23>>^ Quando um espírito mau da parte de Deus vinha sobre Saul, Davi pegava a harpa e tocava; então Saul sentia alívio e melhorava, e o espírito mau se retirava dele.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-015.adoc#v9-15-0[&#60; Capítulo Anterior] | <<v9-16-0,Topo>> | xref:009-1-samuel/009-1-samuel-017.adoc#v9-17-0[Próximo Capítulo &#62;]

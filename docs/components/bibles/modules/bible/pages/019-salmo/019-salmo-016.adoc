@@ -1,0 +1,100 @@
+include::./index.adoc[]
+
+[[v19-16-0]]
+=== Salmos, 16
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Mictão^&#42;1^ de Davi._
+
+[[v19-16-1]]
+
+^<<v19-16-1,1>>^ Protege-me, ó Deus, pois em ti me refugiei.
+
+[[v19-16-2]]
+
+^<<v19-16-2,2>>^ Eu digo a Jeová: “Tu és Jeová, minha Fonte de coisas boas.
+
+[[v19-16-3]]
+
+^<<v19-16-3,3>>^ E os santos que estão na terra,
+Os majestosos, me trazem grande prazer.”
+
+[[v19-16-4]]
+
+^<<v19-16-4,4>>^ Os que buscam outros deuses multiplicam as suas tristezas.
+Nunca derramarei as suas ofertas de sangue,
+E meus lábios não mencionarão o nome deles.^&#42;1^
+
+[NOTE]
+====
+. Isto é, o nome dos deuses falsos.
+====
+
+[[v19-16-5]]
+
+^<<v19-16-5,5>>^ Jeová é a minha porção, a parte que me cabe e o meu cálice.
+Tu resguardas a minha herança.
+
+[[v19-16-6]]
+
+^<<v19-16-6,6>>^ Lugares agradáveis foram demarcados para mim.
+Sim, eu estou contente com a minha herança.
+
+[[v19-16-7]]
+
+^<<v19-16-7,7>>^ Louvarei a Jeová, que me tem aconselhado.
+Mesmo durante a noite, meus pensamentos mais íntimos^&#42;1^ me corrigem.
+
+[NOTE]
+====
+. Ou: “minhas emoções mais profundas”. Lit.: “meus rins”.
+====
+
+[[v19-16-8]]
+
+^<<v19-16-8,8>>^ Mantenho Jeová diante de mim constantemente.
+Nunca serei abalado,^&#42;1^ porque ele está à minha direita.
+
+[NOTE]
+====
+. Ou: “Nunca cambalearei”.
+====
+
+[[v19-16-9]]
+
+^<<v19-16-9,9>>^ Por isso, meu coração se alegra, e meu inteiro ser^&#42;1^ está alegre.
+E eu vivo^&#42;2^ em segurança.
+
+[NOTE]
+====
+. Lit.: “minha glória”.
+. Ou: “minha carne vive”.
+====
+
+[[v19-16-10]]
+
+^<<v19-16-10,10>>^ Pois não me deixarás^&#42;1^ na Sepultura.^&#42;2^
+Não permitirás que o teu leal conheça a cova.^&#42;3^
+
+[NOTE]
+====
+. Ou: “não abandonarás a minha alma”.
+. Ou: “no Seol”, isto é, a sepultura comum da humanidade. Veja o Glossário.
+. Ou, possivelmente: “conheça a decomposição”.
+====
+
+[[v19-16-11]]
+
+^<<v19-16-11,11>>^ Tu me fazes conhecer o caminho da vida.
+Na tua presença^&#42;1^ há abundante alegria;
+A felicidade^&#42;2^ está à tua direita, para sempre.
+
+[NOTE]
+====
+. Lit.: “Com a tua face”.
+. Ou: “O deleite”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-015.adoc#v19-15-0[&#60; Capítulo Anterior] | <<v19-16-0,Topo>> | xref:019-salmo/019-salmo-017.adoc#v19-17-0[Próximo Capítulo &#62;]

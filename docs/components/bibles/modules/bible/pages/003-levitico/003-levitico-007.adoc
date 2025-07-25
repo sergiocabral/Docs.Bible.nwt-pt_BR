@@ -1,0 +1,196 @@
+include::./index.adoc[]
+
+[[v3-7-0]]
+=== Levítico, 7
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v3-7-1]]
+
+^<<v3-7-1,1>>^ “‘Esta é a lei da oferta pela culpa: é algo santíssimo.
+
+[[v3-7-2]]
+
+^<<v3-7-2,2>>^ Eles abaterão a oferta pela culpa no lugar onde abatem as ofertas queimadas, e o sangue deve ser aspergido em todas as laterais do altar.
+
+[[v3-7-3]]
+
+^<<v3-7-3,3>>^ Ele apresentará toda a gordura, incluindo a cauda gorda, a gordura que envolve os intestinos
+
+[[v3-7-4]]
+
+^<<v3-7-4,4>>^ e os dois rins com a gordura que há sobre eles, na região lombar. Ele removerá a membrana gordurosa do fígado junto com os rins.
+
+[[v3-7-5]]
+
+^<<v3-7-5,5>>^ O sacerdote fará todas essas coisas fumegar no altar como oferta feita por fogo a Jeová. É uma oferta pela culpa.
+
+[[v3-7-6]]
+
+^<<v3-7-6,6>>^ Todo homem que for sacerdote a comerá; ela deve ser comida num lugar santo. É algo santíssimo.
+
+[[v3-7-7]]
+
+^<<v3-7-7,7>>^ A lei da oferta pelo pecado também se aplica à oferta pela culpa; a oferta pertence ao sacerdote que faz expiação com ela.
+
+[[v3-7-8]]
+
+^<<v3-7-8,8>>^ “‘Quando o sacerdote apresentar a oferta queimada em favor de alguém, ele ficará com a pele da oferta queimada que foi apresentada.
+
+[[v3-7-9]]
+
+^<<v3-7-9,9>>^ “‘Toda oferta de cereais que for assada no forno ou preparada na panela ou na frigideira pertencerá ao sacerdote que a apresentar. Ela se tornará dele.
+
+[[v3-7-10]]
+
+^<<v3-7-10,10>>^ Mas toda oferta de cereais, misturada com azeite ou seca, será dos filhos de Arão; todos eles receberão porções iguais.
+
+[[v3-7-11]]
+
+^<<v3-7-11,11>>^ “‘Esta é a lei do sacrifício de participação em comum que se pode apresentar a Jeová.
+
+[[v3-7-12]]
+
+^<<v3-7-12,12>>^ Se alguém o apresentar como uma expressão de agradecimento, ele apresentará, junto com o sacrifício de agradecimento, pães em forma de anel feitos com azeite e sem fermento, pães achatados sem fermento, untados com azeite, e pães em forma de anel, feitos com farinha fina, misturada e sovada com azeite.
+
+[[v3-7-13]]
+
+^<<v3-7-13,13>>^ Ele apresentará essa oferta junto com pães em forma de anel, feitos com fermento, e com o sacrifício de participação em comum oferecido como expressão de agradecimento.
+
+[[v3-7-14]]
+
+^<<v3-7-14,14>>^ Dessa oferta, ele deve apresentar um pão de cada tipo^&#42;1^ como porção sagrada para Jeová; essa porção pertencerá ao sacerdote que aspergir o sangue dos sacrifícios de participação em comum.
+
+[NOTE]
+====
+. Lit.: “uma de cada oferta”.
+====
+
+[[v3-7-15]]
+
+^<<v3-7-15,15>>^ A carne do sacrifício de participação em comum oferecido como expressão de agradecimento deve ser comida no dia em que ele a oferece. Ele não deve guardar nenhuma parte dela até a manhã seguinte.
+
+[[v3-7-16]]
+
+^<<v3-7-16,16>>^ “‘Se o sacrifício que ele apresentar como oferta for uma oferta para cumprir um voto ou uma oferta voluntária, deverá ser comido no dia em que ele apresentar o sacrifício, e o que sobrar poderá ser comido no dia seguinte.
+
+[[v3-7-17]]
+
+^<<v3-7-17,17>>^ Mas o que sobrar da carne do sacrifício no terceiro dia deverá ser queimado no fogo.
+
+[[v3-7-18]]
+
+^<<v3-7-18,18>>^ No entanto, se uma parte da carne do seu sacrifício de participação em comum for comida no terceiro dia, quem o apresentou não será aceito. O sacrifício não será contado a favor dele; é algo ofensivo, e a pessoa^&#42;1^ que comer dele responderá pelo seu erro.
+
+[NOTE]
+====
+. Ou: “alma”.
+====
+
+[[v3-7-19]]
+
+^<<v3-7-19,19>>^ Não se deve comer a carne que tocar em algo impuro. Ela deve ser queimada no fogo. Quem estiver puro pode comer a carne pura.
+
+[[v3-7-20]]
+
+^<<v3-7-20,20>>^ “‘Mas qualquer pessoa^&#42;1^ que estiver impura e comer a carne do sacrifício de participação em comum, que é para Jeová, essa pessoa^&#42;2^ será eliminada do seu povo.^&#42;3^
+
+[NOTE]
+====
+. Ou: “a alma”.
+. Ou: “alma”.
+. Isto é, será morta.
+====
+
+[[v3-7-21]]
+
+^<<v3-7-21,21>>^ Se alguém^&#42;1^ tocar em algo impuro, seja impureza humana, seja um animal impuro, seja qualquer coisa impura e repugnante, e comer da carne do sacrifício de participação em comum, que é para Jeová, essa pessoa^&#42;2^ será eliminada do seu povo.’”^&#42;3^
+
+[NOTE]
+====
+. Ou: “uma alma”.
+. Ou: “alma”.
+. Isto é, será morta.
+====
+
+[[v3-7-22]]
+
+^<<v3-7-22,22>>^ Jeová disse ainda a Moisés:
+
+[[v3-7-23]]
+
+^<<v3-7-23,23>>^ “Diga aos israelitas: ‘Não comam nenhuma gordura de touro, de carneirinho ou de cabra.
+
+[[v3-7-24]]
+
+^<<v3-7-24,24>>^ A gordura de um animal encontrado morto e a gordura de um animal que foi morto por outro animal podem ser usadas para qualquer outra finalidade, mas nunca devem ser comidas.
+
+[[v3-7-25]]
+
+^<<v3-7-25,25>>^ Qualquer pessoa que comer a gordura do animal que ela apresentar como oferta feita por fogo a Jeová será eliminada do seu povo.^&#42;1^
+
+[NOTE]
+====
+. Isto é, será morta.
+====
+
+[[v3-7-26]]
+
+^<<v3-7-26,26>>^ “‘Onde quer que morarem, não comam nenhum sangue, seja de ave, seja de animal.
+
+[[v3-7-27]]
+
+^<<v3-7-27,27>>^ Quem^&#42;1^ comer o sangue de qualquer criatura será eliminado do seu povo.’”^&#42;2^
+
+[NOTE]
+====
+. Ou: “Qualquer alma que”.
+. Isto é, será morto.
+====
+
+[[v3-7-28]]
+
+^<<v3-7-28,28>>^ Jeová disse mais a Moisés:
+
+[[v3-7-29]]
+
+^<<v3-7-29,29>>^ “Diga aos israelitas: ‘Quem apresentar a Jeová um sacrifício de participação em comum trará parte desse sacrifício como oferta a Jeová.
+
+[[v3-7-30]]
+
+^<<v3-7-30,30>>^ Ele trará em suas próprias mãos a gordura junto com o peito, como uma oferta feita por fogo a Jeová, e a moverá para frente e para trás como oferta movida perante Jeová.
+
+[[v3-7-31]]
+
+^<<v3-7-31,31>>^ O sacerdote fará a gordura fumegar no altar, mas o peito pertencerá a Arão e a seus filhos.
+
+[[v3-7-32]]
+
+^<<v3-7-32,32>>^ “‘Vocês darão ao sacerdote a perna direita como porção sagrada dos seus sacrifícios de participação em comum.
+
+[[v3-7-33]]
+
+^<<v3-7-33,33>>^ O filho de Arão que apresentar o sangue dos sacrifícios de participação em comum e a gordura receberá a perna direita como porção.
+
+[[v3-7-34]]
+
+^<<v3-7-34,34>>^ Pois, dos sacrifícios de participação em comum feitos pelos israelitas, tomo o peito apresentado como oferta movida e a perna apresentada como porção sagrada e os dou a Arão, o sacerdote, e a seus filhos. Isso é um decreto permanente para os israelitas.
+
+[[v3-7-35]]
+
+^<<v3-7-35,35>>^ “‘Essa é a porção das ofertas feitas por fogo a Jeová que cabe aos sacerdotes, Arão e seus filhos, desde o dia em que ele os apresentou para servir como sacerdotes para Jeová.
+
+[[v3-7-36]]
+
+^<<v3-7-36,36>>^ No dia em que os ungiu, Jeová ordenou que os israelitas lhes dessem essa porção. É um decreto permanente para todas as suas gerações.’”
+
+[[v3-7-37]]
+
+^<<v3-7-37,37>>^ Essa é a lei relativa à oferta queimada, à oferta de cereais, à oferta pelo pecado, à oferta pela culpa, ao sacrifício da ordenação e ao sacrifício de participação em comum,
+
+[[v3-7-38]]
+
+^<<v3-7-38,38>>^ assim como Jeová ordenou a Moisés no monte Sinai, no dia em que ele ordenou que os israelitas apresentassem as suas ofertas a Jeová no deserto do Sinai.
+
+'''
+
+xref:003-levitico/003-levitico-006.adoc#v3-6-0[&#60; Capítulo Anterior] | <<v3-7-0,Topo>> | xref:003-levitico/003-levitico-008.adoc#v3-8-0[Próximo Capítulo &#62;]

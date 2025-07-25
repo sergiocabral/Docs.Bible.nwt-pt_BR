@@ -1,0 +1,121 @@
+include::./index.adoc[]
+
+[[v18-17-0]]
+=== Jó, 17
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v18-17-1]]
+
+^<<v18-17-1,1>>^ “Meu espírito está quebrantado, meus dias se apagam;
+A sepultura me aguarda.
+
+[[v18-17-2]]
+
+^<<v18-17-2,2>>^ Zombadores me cercam,
+E meus olhos são obrigados a observar o^&#42;1^ seu comportamento rebelde.
+
+[NOTE]
+====
+. Ou: “a se fixar no”.
+====
+
+[[v18-17-3]]
+
+^<<v18-17-3,3>>^ Por favor, aceita a minha garantia e guarda-a junto de ti.
+Quem mais apertaria a minha mão e agiria como fiador em meu benefício?
+
+[[v18-17-4]]
+
+^<<v18-17-4,4>>^ Pois fechaste a mente deles ao discernimento;
+É por isso que não os exaltas.
+
+[[v18-17-5]]
+
+^<<v18-17-5,5>>^ Há quem se dispõe a compartilhar algo com os amigos,
+Enquanto os olhos dos seus filhos falham.
+
+[[v18-17-6]]
+
+^<<v18-17-6,6>>^ Ele^&#42;1^ faz de mim um motivo de zombaria^&#42;2^ entre os povos,
+De modo que cospem no meu rosto.
+
+[NOTE]
+====
+. Pelo visto se refere a Deus.
+. Lit.: “um provérbio; um ditado”.
+====
+
+[[v18-17-7]]
+
+^<<v18-17-7,7>>^ Meus olhos enfraqueceram devido à angústia,
+E meus membros não passam de uma sombra.
+
+[[v18-17-8]]
+
+^<<v18-17-8,8>>^ Os que são retos ficam espantados ao verem isso,
+E o inocente fica perturbado por causa do ímpio.^&#42;1^
+
+[NOTE]
+====
+. Ou: “apóstata”.
+====
+
+[[v18-17-9]]
+
+^<<v18-17-9,9>>^ Mas o justo se agarra ao seu caminho,
+E quem tem mãos puras se torna cada vez mais forte.
+
+[[v18-17-10]]
+
+^<<v18-17-10,10>>^ No entanto, vocês podem voltar a argumentar,
+Pois não achei nenhum sábio entre vocês.
+
+[[v18-17-11]]
+
+^<<v18-17-11,11>>^ Meus dias chegaram ao fim;
+Meus planos, os desejos do meu coração, foram desfeitos.
+
+[[v18-17-12]]
+
+^<<v18-17-12,12>>^ Eles transformam a noite em dia,
+Dizendo: ‘A luz deve estar perto, porque está escuro.’
+
+[[v18-17-13]]
+
+^<<v18-17-13,13>>^ Se eu esperar, a Sepultura^&#42;1^ será a minha casa;
+Estenderei minha cama na escuridão.
+
+[NOTE]
+====
+. Ou: “o Seol”, isto é, a sepultura comum da humanidade. Veja o Glossário.
+====
+
+[[v18-17-14]]
+
+^<<v18-17-14,14>>^ Direi à cova:^&#42;1^ ‘Você é meu pai!’
+E às larvas: ‘Minha mãe e minha irmã!’
+
+[NOTE]
+====
+. Ou: “sepultura”.
+====
+
+[[v18-17-15]]
+
+^<<v18-17-15,15>>^ Então, onde está a minha esperança?
+Será que alguém vê esperança para mim?
+
+[[v18-17-16]]
+
+^<<v18-17-16,16>>^ Ela^&#42;1^ descerá aos portões trancados da Sepultura,^&#42;2^
+Quando juntos descermos ao pó.”
+
+[NOTE]
+====
+. Isto é, a minha esperança.
+. Ou: “do Seol”, isto é, a sepultura comum da humanidade. Veja o Glossário.
+====
+
+'''
+
+xref:018-jo/018-jo-016.adoc#v18-16-0[&#60; Capítulo Anterior] | <<v18-17-0,Topo>> | xref:018-jo/018-jo-018.adoc#v18-18-0[Próximo Capítulo &#62;]
