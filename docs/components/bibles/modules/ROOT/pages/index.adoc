@@ -1,4 +1,16 @@
-= Bem-vindo!
+= Bem-vindo
 
-Aqui você encontra uma ou mais traduções da Bíblia organizadas de forma clara e acessível.
-Este espaço foi feito para facilitar a leitura e o compartilhamento das Escrituras.
+[cols="1h,3", options="header"]
+|===
+2+|📚 *Sobre esta tradução da Bíblia* +
+🔗 xref:bible:001-genesis/001-genesis-001.adoc[]
+
+|📛 Sigla   |nwt
+|🌐 Idioma  |Português (Brasil)
+|📅 Ano     |2015
+|📖 Título  |Tradução do Novo Mundo da Bíblia Sagrada
+|===
+
+Tradução da Bíblia publicada em português do Brasil em 2015, baseada na edição em inglês de mesmo nome lançada em 2013.
+Essa edição é atualmente utilizada pelas Testemunhas de Jeová e substituiu a versão anterior de 1986 em português, que foi usada por um longo período.
+A versão oficial está disponível em: https://www.jw.org/pt/biblioteca/biblia/nwt/
