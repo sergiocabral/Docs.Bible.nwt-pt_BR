@@ -1,0 +1,94 @@
+include::./index.adoc[]
+
+[[v64-1-0]]
+=== A Terceira de João, 1
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_A TERCEIRA CARTA DE JOÃO_
+
+[[v64-1-1]]
+
+^<<v64-1-1,1>>^ O homem idoso,^&#42;1^ a Gaio, o amado, a quem eu amo verdadeiramente.
+
+[NOTE]
+====
+. Ou: “O ancião”.
+====
+
+[[v64-1-2]]
+
+^<<v64-1-2,2>>^ Amado, oro para que tudo continue correndo bem com você e que tenha boa saúde, assim como você^&#42;1^ está bem agora.
+
+[NOTE]
+====
+. Ou: “a sua alma”.
+====
+
+[[v64-1-3]]
+
+^<<v64-1-3,3>>^ Pois eu me alegrei muito quando os irmãos vieram e deram testemunho de que você se apega à verdade, de que continua andando na verdade.
+
+[[v64-1-4]]
+
+^<<v64-1-4,4>>^ Não tenho alegria^&#42;1^ maior do que esta: ouvir que os meus filhos continuam andando na verdade.
+
+[NOTE]
+====
+. Ou, possivelmente: “causa de gratidão”.
+====
+
+[[v64-1-5]]
+
+^<<v64-1-5,5>>^ Amado, você mostra sua fidelidade naquilo que faz pelos irmãos, mesmo que não os conheça.
+
+[[v64-1-6]]
+
+^<<v64-1-6,6>>^ Eles deram testemunho do seu amor perante a congregação. Por favor, encaminhe-os na viagem deles de uma maneira digna de Deus.
+
+[[v64-1-7]]
+
+^<<v64-1-7,7>>^ Porque foi a favor do nome dele que saíram, sem receber nada das pessoas das nações.
+
+[[v64-1-8]]
+
+^<<v64-1-8,8>>^ Portanto, nós temos a obrigação de mostrar hospitalidade a irmãos como esses, para que nos tornemos colaboradores na verdade.
+
+[[v64-1-9]]
+
+^<<v64-1-9,9>>^ Escrevi algo à congregação, mas Diótrefes, que gosta de ocupar o primeiro lugar entre eles, não aceita nada de nós com respeito.
+
+[[v64-1-10]]
+
+^<<v64-1-10,10>>^ É por isso que, se eu for aí, trarei à atenção as coisas que ele tem feito, as calúnias que tem espalhado sobre nós.^&#42;1^ Não satisfeito com isso, ele se recusa a receber os irmãos com respeito e tenta impedir e expulsar da congregação aqueles que querem recebê-los.
+
+[NOTE]
+====
+. Lit.: “tem feito, tagarelando sobre nós com palavras maldosas”.
+====
+
+[[v64-1-11]]
+
+^<<v64-1-11,11>>^ Amado, não imite o que é mau, mas imite o que é bom. Quem faz o bem se origina de Deus. Quem faz o mal não viu a Deus.
+
+[[v64-1-12]]
+
+^<<v64-1-12,12>>^ Todos eles falam bem de Demétrio, inclusive a própria verdade. De fato, nós também testemunhamos a favor dele, e você sabe que o testemunho que damos é verdadeiro.
+
+[[v64-1-13]]
+
+^<<v64-1-13,13>>^ Eu tinha muitas coisas para lhe escrever, mas não quero continuar escrevendo com pena e tinta.
+
+[[v64-1-14]]
+
+^<<v64-1-14,14>>^ Porém, espero vê-lo logo, e falaremos pessoalmente.
+Que a paz esteja com você.
+Os amigos mandam-lhe saudações. Dê minhas saudações aos amigos, um por um.^&#42;1^
+
+[NOTE]
+====
+. Ou: “aos amigos, por nome”.
+====
+
+'''
+
+xref:063-2-joao/063-2-joao-001.adoc#v63-1-0[&#60; Capítulo Anterior] | <<v64-1-0,Topo>> | xref:065-judas/065-judas-001.adoc#v65-1-0[Próximo Capítulo &#62;]

@@ -1,0 +1,113 @@
+include::./index.adoc[]
+
+[[v19-19-0]]
+=== Salmos, 19
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Ao regente. Salmo de Davi._
+
+[[v19-19-1]]
+
+^<<v19-19-1,1>>^ Os céus declaram a glória de Deus,
+Eles proclamam^&#42;1^ o trabalho das suas mãos.
+
+[NOTE]
+====
+. Ou: “A vastidão proclama”.
+====
+
+[[v19-19-2]]
+
+^<<v19-19-2,2>>^ Dia após dia as declarações deles brotam como águas;
+E, noite após noite, revelam conhecimento.
+
+[[v19-19-3]]
+
+^<<v19-19-3,3>>^ Não há fala, não há palavras;
+Não se ouve a sua voz.
+
+[[v19-19-4]]
+
+^<<v19-19-4,4>>^ Mas o som^&#42;1^ deles chegou a toda a terra;
+E a sua mensagem, até os confins da terra habitada.^&#42;2^
+Nos céus Ele armou uma tenda para o sol,
+
+[NOTE]
+====
+. Ou, possivelmente: “a corda de medir”.
+. Ou: “terra produtiva”.
+====
+
+[[v19-19-5]]
+
+^<<v19-19-5,5>>^ Que é como um noivo saindo da câmara nupcial
+E se alegra como um homem valente percorrendo o seu caminho.
+
+[[v19-19-6]]
+
+^<<v19-19-6,6>>^ Sai de uma extremidade dos céus
+E dá a volta até a outra extremidade;
+Nada fica escondido do seu calor.
+
+[[v19-19-7]]
+
+^<<v19-19-7,7>>^ A lei de Jeová é perfeita, renova as forças.^&#42;1^
+As advertências^&#42;2^ de Jeová são confiáveis, tornam sábio o inexperiente.
+
+[NOTE]
+====
+. Ou: “restaura (traz de volta) a alma”.
+. “Advertência” refere-se a um lembrete do que é necessário fazer.
+====
+
+[[v19-19-8]]
+
+^<<v19-19-8,8>>^ As ordens de Jeová são justas, fazem o coração se alegrar.
+Os mandamentos de Jeová são limpos, iluminam os olhos.
+
+[[v19-19-9]]
+
+^<<v19-19-9,9>>^ O temor de Jeová é puro, dura para sempre.
+Os julgamentos de Jeová são verdadeiros, justos em todos os sentidos.
+
+[[v19-19-10]]
+
+^<<v19-19-10,10>>^ São mais preciosos do que o ouro,
+Do que muito ouro fino;^&#42;1^
+E são mais doces do que o mel, o mel que goteja dos favos.
+
+[NOTE]
+====
+. Ou: “refinado”.
+====
+
+[[v19-19-11]]
+
+^<<v19-19-11,11>>^ Por meio deles, o teu servo é alertado;
+Há grande recompensa em guardá-los.
+
+[[v19-19-12]]
+
+^<<v19-19-12,12>>^ Quem pode discernir seus próprios erros?
+Declara-me inocente dos pecados que cometo sem perceber
+
+[[v19-19-13]]
+
+^<<v19-19-13,13>>^ E guarda o teu servo de cometer atos presunçosos;
+Não deixes que eles me dominem.
+Então serei íntegro
+E inocente de pecados flagrantes.^&#42;1^
+
+[NOTE]
+====
+. Ou: “muita transgressão”.
+====
+
+[[v19-19-14]]
+
+^<<v19-19-14,14>>^ Que as palavras da minha boca e as reflexões do meu coração
+Sejam agradáveis a ti, ó Jeová, minha Rocha e meu Redentor.
+
+'''
+
+xref:019-salmo/019-salmo-018.adoc#v19-18-0[&#60; Capítulo Anterior] | <<v19-19-0,Topo>> | xref:019-salmo/019-salmo-020.adoc#v19-20-0[Próximo Capítulo &#62;]

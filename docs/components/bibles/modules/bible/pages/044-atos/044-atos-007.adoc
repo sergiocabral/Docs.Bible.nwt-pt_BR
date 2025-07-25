@@ -1,0 +1,332 @@
+include::./index.adoc[]
+
+[[v44-7-0]]
+=== Atos dos Apóstolos, 7
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v44-7-1]]
+
+^<<v44-7-1,1>>^ Mas o sumo sacerdote perguntou: “Isso é verdade?”
+
+[[v44-7-2]]
+
+^<<v44-7-2,2>>^ Estêvão respondeu: “Homens, irmãos e pais, escutem! O Deus glorioso apareceu ao nosso antepassado Abraão enquanto ele estava na Mesopotâmia, antes de ir morar em Harã,
+
+[[v44-7-3]]
+
+^<<v44-7-3,3>>^ e lhe disse: ‘Deixe a sua terra e os seus parentes e vá para a terra que lhe mostrarei.’
+
+[[v44-7-4]]
+
+^<<v44-7-4,4>>^ Ele saiu então da terra dos caldeus e foi morar em Harã. E dali, depois da morte do pai dele, Deus o fez se mudar para esta terra em que vocês moram agora.
+
+[[v44-7-5]]
+
+^<<v44-7-5,5>>^ Contudo, não lhe deu nenhuma herança nela, não, nem mesmo um espaço para pôr o pé; mas prometeu dá-la a ele como propriedade e, depois dele, à sua descendência,^&#42;1^ embora ele ainda não tivesse filho.
+
+[NOTE]
+====
+. Lit.: “semente”.
+====
+
+[[v44-7-6]]
+
+^<<v44-7-6,6>>^ Além disso, Deus lhe disse que seus descendentes seriam estrangeiros^&#42;1^ numa terra que não era deles, e que o povo os escravizaria e afligiria^&#42;2^ por 400 anos.
+
+[NOTE]
+====
+. Lit.: “sua semente seria estrangeira”.
+. Ou: “maltrataria”.
+====
+
+[[v44-7-7]]
+
+^<<v44-7-7,7>>^ ‘E eu julgarei aquela nação para a qual eles trabalharão como escravos’, disse Deus, ‘e, depois disso, eles sairão e me prestarão serviço sagrado neste lugar’.
+
+[[v44-7-8]]
+
+^<<v44-7-8,8>>^ “Deu-lhe também um pacto de circuncisão, e ele se tornou pai de Isaque e o circuncidou no oitavo dia, e Isaque se tornou pai de^&#42;1^ Jacó, e Jacó dos 12 patriarcas.^&#42;2^
+
+[NOTE]
+====
+. Ou, possivelmente: “Isaque fez o mesmo com”.
+. Ou: “chefes de família”.
+====
+
+[[v44-7-9]]
+
+^<<v44-7-9,9>>^ E os patriarcas ficaram com ciúme de José e o venderam aos egípcios. Mas Deus estava com ele
+
+[[v44-7-10]]
+
+^<<v44-7-10,10>>^ e o livrou de todas as suas aflições, e lhe concedeu favor e sabedoria diante de Faraó, rei do Egito. E este o designou para governar o Egito e toda a sua casa.
+
+[[v44-7-11]]
+
+^<<v44-7-11,11>>^ Depois houve uma fome em todo o Egito e em Canaã, sim, uma grande aflição, e os nossos antepassados não encontravam nada para comer.
+
+[[v44-7-12]]
+
+^<<v44-7-12,12>>^ Mas Jacó ouviu dizer que havia mantimentos^&#42;1^ no Egito e enviou para lá, pela primeira vez, os nossos antepassados.
+
+[NOTE]
+====
+. Ou: “cereal”.
+====
+
+[[v44-7-13]]
+
+^<<v44-7-13,13>>^ Na segunda vez, José contou aos seus irmãos quem ele era, e Faraó conheceu a família de José.
+
+[[v44-7-14]]
+
+^<<v44-7-14,14>>^ Assim, José mandou buscar seu pai Jacó e todos os seus parentes, um total de 75 pessoas.^&#42;1^
+
+[NOTE]
+====
+. Ou: “almas”.
+====
+
+[[v44-7-15]]
+
+^<<v44-7-15,15>>^ Então Jacó desceu ao Egito e faleceu ali, como também os nossos antepassados.
+
+[[v44-7-16]]
+
+^<<v44-7-16,16>>^ Eles foram levados para Siquém e colocados no túmulo que Abraão havia comprado dos filhos de Hamor, em Siquém, por uma certa quantia em dinheiro de prata.
+
+[[v44-7-17]]
+
+^<<v44-7-17,17>>^ “À medida que se aproximava o tempo para se cumprir a promessa que Deus havia feito a Abraão, o povo crescia e se multiplicava no Egito.
+
+[[v44-7-18]]
+
+^<<v44-7-18,18>>^ Então, surgiu outro rei no Egito, que não sabia nada sobre José.
+
+[[v44-7-19]]
+
+^<<v44-7-19,19>>^ Ele usou de astúcia contra a nossa raça e maltratou os nossos pais, obrigando-os a abandonar seus bebês para que eles não sobrevivessem.
+
+[[v44-7-20]]
+
+^<<v44-7-20,20>>^ Naquela época nasceu Moisés, e ele era extremamente belo.^&#42;1^ Ele foi criado por três meses na casa de seu pai.
+
+[NOTE]
+====
+. Ou: “divinamente belo; belo à vista de Deus”.
+====
+
+[[v44-7-21]]
+
+^<<v44-7-21,21>>^ Mas, quando foi abandonado,^&#42;1^ a filha de Faraó o pegou e o criou como seu próprio filho.
+
+[NOTE]
+====
+. Ou: “exposto”.
+====
+
+[[v44-7-22]]
+
+^<<v44-7-22,22>>^ Assim, Moisés foi instruído em toda a sabedoria dos egípcios. De fato, ele era poderoso em palavras e em ações.
+
+[[v44-7-23]]
+
+^<<v44-7-23,23>>^ “Então, quando ele completou 40 anos, decidiu^&#42;1^ visitar^&#42;2^ seus irmãos, os israelitas.
+
+[NOTE]
+====
+. Ou: “veio-lhe ao coração”.
+. Ou: “inspecionar”.
+====
+
+[[v44-7-24]]
+
+^<<v44-7-24,24>>^ Ao ver que um egípcio estava tratando um deles de forma injusta, ele defendeu o oprimido e o vingou, matando o egípcio.
+
+[[v44-7-25]]
+
+^<<v44-7-25,25>>^ Ele achava que os seus irmãos compreenderiam que Deus estava lhes dando salvação pela mão dele, mas eles não compreenderam isso.
+
+[[v44-7-26]]
+
+^<<v44-7-26,26>>^ No dia seguinte, dirigiu-se a eles quando estavam brigando e tentou reconciliá-los, dizendo: ‘Homens, vocês são irmãos. Por que estão maltratando um ao outro?’
+
+[[v44-7-27]]
+
+^<<v44-7-27,27>>^ Mas aquele que estava maltratando seu próximo o empurrou, dizendo: ‘Quem o designou líder e juiz sobre nós?
+
+[[v44-7-28]]
+
+^<<v44-7-28,28>>^ Será que você quer me matar como matou o egípcio ontem?’
+
+[[v44-7-29]]
+
+^<<v44-7-29,29>>^ Ao ouvir isso, Moisés fugiu e foi morar como estrangeiro na terra de Midiã, onde teve dois filhos.
+
+[[v44-7-30]]
+
+^<<v44-7-30,30>>^ “Depois de se passarem 40 anos, um anjo lhe apareceu no deserto^&#42;1^ do monte Sinai, na chama de um espinheiro que queimava.
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v44-7-31]]
+
+^<<v44-7-31,31>>^ Quando Moisés viu aquilo, ficou maravilhado. Mas, ao se aproximar para observar melhor, ouviu a voz de Jeová:^&#42;1^
+
+[NOTE]
+====
+. Veja Ap. A5.
+====
+
+[[v44-7-32]]
+
+^<<v44-7-32,32>>^ ‘Eu sou o Deus dos seus antepassados, o Deus de Abraão, de Isaque e de Jacó.’ Moisés começou a tremer e não se atreveu a observar mais.
+
+[[v44-7-33]]
+
+^<<v44-7-33,33>>^ Jeová^&#42;1^ lhe disse: ‘Tire as sandálias dos pés, pois o lugar em que você está pisando é solo sagrado.
+
+[NOTE]
+====
+. Veja Ap. A5.
+====
+
+[[v44-7-34]]
+
+^<<v44-7-34,34>>^ Certamente vi a opressão do meu povo, que está no Egito, ouvi o gemido deles e desci para livrá-los. Agora venha: vou enviá-lo ao Egito.’
+
+[[v44-7-35]]
+
+^<<v44-7-35,35>>^ Esse mesmo Moisés, que eles rejeitaram, dizendo: ‘Quem o designou líder e juiz?’, é aquele a quem Deus enviou como líder e libertador por meio do anjo que lhe apareceu no espinheiro.
+
+[[v44-7-36]]
+
+^<<v44-7-36,36>>^ Esse homem os conduziu para fora, realizando sinais e milagres^&#42;1^ no Egito, no mar Vermelho e no deserto por 40 anos.
+
+[NOTE]
+====
+. Ou: “portentos”.
+====
+
+[[v44-7-37]]
+
+^<<v44-7-37,37>>^ “Esse é o Moisés que disse aos filhos de Israel: ‘Deus fará surgir para vocês, dentre os seus irmãos, um profeta semelhante a mim.’
+
+[[v44-7-38]]
+
+^<<v44-7-38,38>>^ Ele é que estava junto à congregação no deserto; ele estava com o anjo que lhe falou no monte Sinai e com os nossos antepassados. Ele recebeu proclamações sagradas, vivas, para dá-las a nós.
+
+[[v44-7-39]]
+
+^<<v44-7-39,39>>^ Os nossos antepassados se recusaram a obedecer a ele e o rejeitaram, e no coração voltaram para o Egito,
+
+[[v44-7-40]]
+
+^<<v44-7-40,40>>^ dizendo a Arão: ‘Faça-nos deuses para irem à nossa frente. Pois não sabemos o que aconteceu com esse Moisés, que nos tirou da terra do Egito.’
+
+[[v44-7-41]]
+
+^<<v44-7-41,41>>^ Assim, naqueles dias fizeram um bezerro e levaram um sacrifício ao ídolo, e começaram a se alegrar com as obras das suas próprias mãos.
+
+[[v44-7-42]]
+
+^<<v44-7-42,42>>^ De modo que Deus se afastou deles e os entregou para prestarem serviço sagrado ao exército do céu,^&#42;1^ assim como está escrito no livro dos Profetas: ‘Acaso foi a mim que vocês fizeram ofertas e sacrifícios por 40 anos no deserto, ó casa de Israel?
+
+[NOTE]
+====
+. Refere-se a corpos celestes.
+====
+
+[[v44-7-43]]
+
+^<<v44-7-43,43>>^ Não, vocês ergueram a tenda de Moloque e a estrela do deus Refã, as imagens que fizeram para adorar. Por isso, eu os deportarei para além de Babilônia.’
+
+[[v44-7-44]]
+
+^<<v44-7-44,44>>^ “Nossos antepassados tinham a tenda do Testemunho no deserto, conforme ordenou Aquele que falou a Moisés, dizendo que a fizesse segundo o modelo que tinha visto.
+
+[[v44-7-45]]
+
+^<<v44-7-45,45>>^ E os nossos antepassados a receberam dos seus pais e a trouxeram, com Josué, para a terra das nações que Deus expulsou de diante dos nossos antepassados. Ela permaneceu aqui até os dias de Davi.
+
+[[v44-7-46]]
+
+^<<v44-7-46,46>>^ Este achou favor diante de Deus e pediu para ter o privilégio de providenciar uma morada para o Deus de Jacó.
+
+[[v44-7-47]]
+
+^<<v44-7-47,47>>^ Mas foi Salomão quem construiu uma casa para ele.
+
+[[v44-7-48]]
+
+^<<v44-7-48,48>>^ Contudo, o Altíssimo não mora em casas feitas por mãos humanas, como diz o profeta:
+
+[[v44-7-49]]
+
+^<<v44-7-49,49>>^ ‘O céu é o meu trono e a terra é o apoio para os meus pés. Que tipo de casa construirão para mim? diz Jeová.^&#42;1^ Onde seria o meu lugar de descanso?
+
+[NOTE]
+====
+. Veja Ap. A5.
+====
+
+[[v44-7-50]]
+
+^<<v44-7-50,50>>^ Não foi a minha mão que fez todas essas coisas?’
+
+[[v44-7-51]]
+
+^<<v44-7-51,51>>^ “Homens obstinados e incircuncisos no coração e nos ouvidos, vocês sempre resistem ao espírito santo. Assim como os seus antepassados fizeram, vocês também fazem.
+
+[[v44-7-52]]
+
+^<<v44-7-52,52>>^ A qual dos profetas os seus antepassados não perseguiram? Sim, mataram os que anunciaram antecipadamente a vinda do Justo, cujos traidores e assassinos vocês se tornaram agora,
+
+[[v44-7-53]]
+
+^<<v44-7-53,53>>^ vocês, que receberam a Lei conforme transmitida por anjos, mas não a guardaram.”
+
+[[v44-7-54]]
+
+^<<v44-7-54,54>>^ Quando ouviram essas coisas, ficaram furiosos^&#42;1^ no coração e começaram a ranger os dentes contra ele.
+
+[NOTE]
+====
+. Ou: “sentiram-se feridos”.
+====
+
+[[v44-7-55]]
+
+^<<v44-7-55,55>>^ Mas ele, cheio de espírito santo, olhou fixamente para o céu e viu a glória de Deus, e Jesus em pé à direita de Deus,
+
+[[v44-7-56]]
+
+^<<v44-7-56,56>>^ e disse: “Estou vendo o céu aberto, e o Filho do homem em pé à direita de Deus.”
+
+[[v44-7-57]]
+
+^<<v44-7-57,57>>^ Então, eles clamaram ao máximo da sua voz e puseram as mãos nos ouvidos, e avançaram todos juntos contra ele.
+
+[[v44-7-58]]
+
+^<<v44-7-58,58>>^ Depois de expulsá-lo da cidade, começaram a apedrejá-lo. As testemunhas deixaram suas capas aos pés de um jovem chamado Saulo.
+
+[[v44-7-59]]
+
+^<<v44-7-59,59>>^ Enquanto apedrejavam Estêvão, este fez o apelo: “Senhor Jesus, receba o meu espírito.”
+
+[[v44-7-60]]
+
+^<<v44-7-60,60>>^ Então, ajoelhando-se, ele clamou com voz forte: “Jeová,^&#42;1^ não os condenes por este pecado.” E, dizendo isso, adormeceu na morte.
+
+[NOTE]
+====
+. Veja Ap. A5.
+====
+
+'''
+
+xref:044-atos/044-atos-006.adoc#v44-6-0[&#60; Capítulo Anterior] | <<v44-7-0,Topo>> | xref:044-atos/044-atos-008.adoc#v44-8-0[Próximo Capítulo &#62;]

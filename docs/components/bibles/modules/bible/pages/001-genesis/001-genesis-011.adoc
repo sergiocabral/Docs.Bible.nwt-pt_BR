@@ -1,0 +1,154 @@
+include::./index.adoc[]
+
+[[v1-11-0]]
+=== Gênesis, 11
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v1-11-1]]
+
+^<<v1-11-1,1>>^ Toda a terra continuava a ter um só idioma e um só conjunto de palavras.^&#42;1^
+
+[NOTE]
+====
+. Ou: “um só vocabulário”.
+====
+
+[[v1-11-2]]
+
+^<<v1-11-2,2>>^ Ao migrarem para o leste, os homens descobriram uma planície^&#42;1^ na terra de Sinear e passaram a morar ali.
+
+[NOTE]
+====
+. Lit.: “planície de vale”.
+====
+
+[[v1-11-3]]
+
+^<<v1-11-3,3>>^ Então disseram uns aos outros: “Venham! Vamos fazer tijolos e cozê-los no fogo.” Assim, usavam tijolos em vez de pedra, e betume como argamassa.
+
+[[v1-11-4]]
+
+^<<v1-11-4,4>>^ Disseram então: “Venham! Vamos construir uma cidade para nós e uma torre cujo topo chegue aos céus, e vamos fazer para nós um nome célebre; assim não seremos espalhados por toda a face da terra.”
+
+[[v1-11-5]]
+
+^<<v1-11-5,5>>^ Jeová desceu então para ver a cidade e a torre que os filhos dos homens tinham construído.
+
+[[v1-11-6]]
+
+^<<v1-11-6,6>>^ E Jeová disse: “Eles são um só povo, com um só idioma, e vejam o que estão fazendo. Agora, nada do que planejem fazer será impossível para eles.
+
+[[v1-11-7]]
+
+^<<v1-11-7,7>>^ Vamos! Desçamos e confundamos o seu idioma, para que não entendam o idioma um do outro.”
+
+[[v1-11-8]]
+
+^<<v1-11-8,8>>^ Assim, Jeová os espalhou dali por toda a face da terra, e, por fim, eles deixaram de construir a cidade.
+
+[[v1-11-9]]
+
+^<<v1-11-9,9>>^ É por isso que a cidade recebeu o nome de Babel,^&#42;1^ porque Jeová confundiu ali o idioma de toda a terra, e Jeová os espalhou dali por toda a face da terra.
+
+[NOTE]
+====
+. Que significa “confusão”.
+====
+
+[[v1-11-10]]
+
+^<<v1-11-10,10>>^ Esta é a história de Sem.
+Sem tinha 100 anos de idade quando se tornou pai de Arpaxade, dois anos após o dilúvio.
+
+[[v1-11-11]]
+
+^<<v1-11-11,11>>^ Depois de se tornar pai de Arpaxade, Sem viveu mais 500 anos. E ele se tornou pai de filhos e de filhas.
+
+[[v1-11-12]]
+
+^<<v1-11-12,12>>^ Arpaxade viveu 35 anos e então se tornou pai de Selá.
+
+[[v1-11-13]]
+
+^<<v1-11-13,13>>^ Depois de se tornar pai de Selá, Arpaxade viveu mais 403 anos. E ele se tornou pai de filhos e de filhas.
+
+[[v1-11-14]]
+
+^<<v1-11-14,14>>^ Selá viveu 30 anos e então se tornou pai de Éber.
+
+[[v1-11-15]]
+
+^<<v1-11-15,15>>^ Depois de se tornar pai de Éber, Selá viveu mais 403 anos. E ele se tornou pai de filhos e de filhas.
+
+[[v1-11-16]]
+
+^<<v1-11-16,16>>^ Éber viveu 34 anos e então se tornou pai de Pelegue.
+
+[[v1-11-17]]
+
+^<<v1-11-17,17>>^ Depois de se tornar pai de Pelegue, Éber viveu mais 430 anos. E ele se tornou pai de filhos e de filhas.
+
+[[v1-11-18]]
+
+^<<v1-11-18,18>>^ Pelegue viveu 30 anos e então se tornou pai de Reú.
+
+[[v1-11-19]]
+
+^<<v1-11-19,19>>^ Depois de se tornar pai de Reú, Pelegue viveu mais 209 anos. E ele se tornou pai de filhos e de filhas.
+
+[[v1-11-20]]
+
+^<<v1-11-20,20>>^ Reú viveu 32 anos e então se tornou pai de Serugue.
+
+[[v1-11-21]]
+
+^<<v1-11-21,21>>^ Depois de se tornar pai de Serugue, Reú viveu mais 207 anos. E ele se tornou pai de filhos e de filhas.
+
+[[v1-11-22]]
+
+^<<v1-11-22,22>>^ Serugue viveu 30 anos e então se tornou pai de Naor.
+
+[[v1-11-23]]
+
+^<<v1-11-23,23>>^ Depois de se tornar pai de Naor, Serugue viveu mais 200 anos. E ele se tornou pai de filhos e de filhas.
+
+[[v1-11-24]]
+
+^<<v1-11-24,24>>^ Naor viveu 29 anos e então se tornou pai de Tera.
+
+[[v1-11-25]]
+
+^<<v1-11-25,25>>^ Depois de se tornar pai de Tera, Naor viveu mais 119 anos. E ele se tornou pai de filhos e de filhas.
+
+[[v1-11-26]]
+
+^<<v1-11-26,26>>^ Tera viveu 70 anos, e depois se tornou pai de Abrão, Naor e Harã.
+
+[[v1-11-27]]
+
+^<<v1-11-27,27>>^ Esta é a história de Tera.
+Tera tornou-se pai de Abrão, Naor e Harã; e Harã tornou-se pai de Ló.
+
+[[v1-11-28]]
+
+^<<v1-11-28,28>>^ Harã morreu na sua terra natal, em Ur dos caldeus, enquanto Tera, seu pai, ainda estava vivo.
+
+[[v1-11-29]]
+
+^<<v1-11-29,29>>^ Abrão e Naor tomaram para si esposas. O nome da esposa de Abrão era Sarai, e o nome da esposa de Naor era Milca, filha de Harã, pai de Milca e de Iscá.
+
+[[v1-11-30]]
+
+^<<v1-11-30,30>>^ Sarai era estéril; não tinha filhos.
+
+[[v1-11-31]]
+
+^<<v1-11-31,31>>^ Tera tomou então seu filho Abrão, seu neto Ló, filho de Harã, e sua nora Sarai, esposa do seu filho Abrão; e esses saíram com ele de Ur dos caldeus, a fim de ir para a terra de Canaã. Com o tempo chegaram a Harã e passaram a morar ali.
+
+[[v1-11-32]]
+
+^<<v1-11-32,32>>^ Os dias de Tera foram 205 anos. Tera morreu então em Harã.
+
+'''
+
+xref:001-genesis/001-genesis-010.adoc#v1-10-0[&#60; Capítulo Anterior] | <<v1-11-0,Topo>> | xref:001-genesis/001-genesis-012.adoc#v1-12-0[Próximo Capítulo &#62;]

@@ -1,0 +1,40 @@
+include::../index.adoc[]
+
+[[v3-0-0]]
+== Levítico
+
+[cols="8*^"]
+|===
+| xref:003-levitico/003-levitico-001.adoc#v3-1-0[1]
+| xref:003-levitico/003-levitico-002.adoc#v3-2-0[2]
+| xref:003-levitico/003-levitico-003.adoc#v3-3-0[3]
+| xref:003-levitico/003-levitico-004.adoc#v3-4-0[4]
+| xref:003-levitico/003-levitico-005.adoc#v3-5-0[5]
+| xref:003-levitico/003-levitico-006.adoc#v3-6-0[6]
+| xref:003-levitico/003-levitico-007.adoc#v3-7-0[7]
+| xref:003-levitico/003-levitico-008.adoc#v3-8-0[8]
+| xref:003-levitico/003-levitico-009.adoc#v3-9-0[9]
+| xref:003-levitico/003-levitico-010.adoc#v3-10-0[10]
+| xref:003-levitico/003-levitico-011.adoc#v3-11-0[11]
+| xref:003-levitico/003-levitico-012.adoc#v3-12-0[12]
+| xref:003-levitico/003-levitico-013.adoc#v3-13-0[13]
+| xref:003-levitico/003-levitico-014.adoc#v3-14-0[14]
+| xref:003-levitico/003-levitico-015.adoc#v3-15-0[15]
+| xref:003-levitico/003-levitico-016.adoc#v3-16-0[16]
+| xref:003-levitico/003-levitico-017.adoc#v3-17-0[17]
+| xref:003-levitico/003-levitico-018.adoc#v3-18-0[18]
+| xref:003-levitico/003-levitico-019.adoc#v3-19-0[19]
+| xref:003-levitico/003-levitico-020.adoc#v3-20-0[20]
+| xref:003-levitico/003-levitico-021.adoc#v3-21-0[21]
+| xref:003-levitico/003-levitico-022.adoc#v3-22-0[22]
+| xref:003-levitico/003-levitico-023.adoc#v3-23-0[23]
+| xref:003-levitico/003-levitico-024.adoc#v3-24-0[24]
+| xref:003-levitico/003-levitico-025.adoc#v3-25-0[25]
+| xref:003-levitico/003-levitico-026.adoc#v3-26-0[26]
+| xref:003-levitico/003-levitico-027.adoc#v3-27-0[27]
+|
+|
+|
+|
+|
+|===

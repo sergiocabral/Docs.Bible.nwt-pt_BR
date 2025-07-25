@@ -1,0 +1,16 @@
+include::../index.adoc[]
+
+[[v53-0-0]]
+== 2 Tessalonicenses
+
+[cols="8*^"]
+|===
+| xref:053-2-tessalonicenses/053-2-tessalonicenses-001.adoc#v53-1-0[1]
+| xref:053-2-tessalonicenses/053-2-tessalonicenses-002.adoc#v53-2-0[2]
+| xref:053-2-tessalonicenses/053-2-tessalonicenses-003.adoc#v53-3-0[3]
+|
+|
+|
+|
+|
+|===

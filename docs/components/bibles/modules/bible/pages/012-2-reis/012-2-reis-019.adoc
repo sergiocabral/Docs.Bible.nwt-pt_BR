@@ -1,0 +1,236 @@
+include::./index.adoc[]
+
+[[v12-19-0]]
+=== O Segundo dos Reis, 19
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v12-19-1]]
+
+^<<v12-19-1,1>>^ Assim que o rei Ezequias ouviu isso, rasgou as suas roupas e cobriu-se com pano de saco, e entrou na casa de Jeová.
+
+[[v12-19-2]]
+
+^<<v12-19-2,2>>^ Então ele enviou Eliaquim, que era o encarregado da casa,^&#42;1^ Sebna, o secretário, e os anciãos entre os sacerdotes, cobertos com pano de saco, ao profeta Isaías, filho de Amoz.
+
+[NOTE]
+====
+. Ou: “do palácio”.
+====
+
+[[v12-19-3]]
+
+^<<v12-19-3,3>>^ Eles lhe disseram: “Assim diz Ezequias: ‘Este dia é um dia de aflição, de repreensão^&#42;1^ e de vergonha, como quando uma criança está para nascer,^&#42;2^ mas a mãe não tem forças para dar à luz.
+
+[NOTE]
+====
+. Ou: “insulto”.
+. Lit.: “chega até a abertura do ventre”.
+====
+
+[[v12-19-4]]
+
+^<<v12-19-4,4>>^ Talvez Jeová, o seu Deus, ouça todas as palavras do Rabsaqué, que foi enviado pelo senhor dele, o rei da Assíria, para desafiar o Deus vivente, e assim Jeová, o seu Deus, pelas palavras que ouviu, faça com que ele preste contas. Portanto, ore a favor do restante que ainda está vivo.’”
+
+[[v12-19-5]]
+
+^<<v12-19-5,5>>^ Então os servos do rei Ezequias foram a Isaías,
+
+[[v12-19-6]]
+
+^<<v12-19-6,6>>^ e Isaías lhes disse: “Isto é o que devem dizer ao seu senhor: ‘Assim diz Jeová: “Não tenha medo por causa das palavras que você ouviu, das blasfêmias que os ajudantes do rei da Assíria lançaram contra mim.
+
+[[v12-19-7]]
+
+^<<v12-19-7,7>>^ Pois porei na mente dele um pensamento,^&#42;1^ e ele ouvirá uma notícia e voltará à sua terra; e eu o farei cair pela espada na sua própria terra.”’”
+
+[NOTE]
+====
+. Lit.: “porei nele um espírito”.
+====
+
+[[v12-19-8]]
+
+^<<v12-19-8,8>>^ Quando o Rabsaqué ouviu dizer que o rei da Assíria tinha partido de Laquis, retornou a ele e o encontrou lutando contra Libna.
+
+[[v12-19-9]]
+
+^<<v12-19-9,9>>^ Então o rei ouviu dizer a respeito de Tiraca, rei da Etiópia: “Ele saiu para lutar contra o senhor.” Em vista disso, ele enviou novamente mensageiros a Ezequias, dizendo:
+
+[[v12-19-10]]
+
+^<<v12-19-10,10>>^ “Digam o seguinte a Ezequias, rei de Judá: ‘Não deixe que o seu Deus, em quem você confia, o engane, dizendo: “Jerusalém não será entregue nas mãos do rei da Assíria.”
+
+[[v12-19-11]]
+
+^<<v12-19-11,11>>^ Veja! Você ouviu o que os reis da Assíria fizeram a todas as terras, entregando-as à destruição.^&#42;1^ Acha que só você escapará?
+
+[NOTE]
+====
+. Ou: “devotando-as à destruição”. Veja o Glossário.
+====
+
+[[v12-19-12]]
+
+^<<v12-19-12,12>>^ Será que os deuses das nações que foram destruídas pelos meus antepassados as livraram? Onde estão Gozã, Harã, Rezefe e o povo de Éden, que habitava em Tel-Assar?
+
+[[v12-19-13]]
+
+^<<v12-19-13,13>>^ Onde estão o rei de Hamate, o rei de Arpade, e os reis das cidades de Sefarvaim, de Hena e de Iva?’”
+
+[[v12-19-14]]
+
+^<<v12-19-14,14>>^ Ezequias pegou as cartas das mãos dos mensageiros e as leu. Depois Ezequias subiu à casa de Jeová e as^&#42;1^ colocou diante de Jeová.
+
+[NOTE]
+====
+. Lit.: “a”.
+====
+
+[[v12-19-15]]
+
+^<<v12-19-15,15>>^ E Ezequias começou a orar diante de Jeová, dizendo: “Ó Jeová, Deus de Israel, sentado em teu trono acima dos^&#42;1^ querubins, só tu és o verdadeiro Deus de todos os reinos da terra. Tu fizeste os céus e a terra.
+
+[NOTE]
+====
+. Ou, possivelmente: “entre os”.
+====
+
+[[v12-19-16]]
+
+^<<v12-19-16,16>>^ Inclina o teu ouvido, ó Jeová, e ouve! Abre os teus olhos, ó Jeová, e vê! Ouve as palavras que Senaqueribe enviou para desafiar o Deus vivente.
+
+[[v12-19-17]]
+
+^<<v12-19-17,17>>^ É verdade, ó Jeová, que os reis da Assíria devastaram as nações e as suas terras.
+
+[[v12-19-18]]
+
+^<<v12-19-18,18>>^ E lançaram seus deuses no fogo, porque não eram deuses, mas trabalho de mãos humanas, madeira e pedra. É por isso que eles conseguiram destruí-los.
+
+[[v12-19-19]]
+
+^<<v12-19-19,19>>^ Mas agora, ó Jeová, nosso Deus, por favor, salva-nos das mãos de Senaqueribe, para que todos os reinos da terra saibam que somente tu, ó Jeová, és Deus.”
+
+[[v12-19-20]]
+
+^<<v12-19-20,20>>^ Então Isaías, filho de Amoz, enviou a seguinte mensagem a Ezequias: “Assim diz Jeová, o Deus de Israel: ‘Ouvi a oração que você fez a mim a respeito de Senaqueribe, rei da Assíria.
+
+[[v12-19-21]]
+
+^<<v12-19-21,21>>^ Esta é a palavra que Jeová falou contra ele:
+“A virgem filha de Sião o despreza, zomba de você;
+A filha de Jerusalém balança a cabeça diante de você.
+
+[[v12-19-22]]
+
+^<<v12-19-22,22>>^ A quem você desafiou e contra quem blasfemou?
+Contra quem levantou a voz
+E ergueu os seus olhos arrogantes?
+Foi contra o Santo de Israel!
+
+[[v12-19-23]]
+
+^<<v12-19-23,23>>^ Por meio dos seus mensageiros você desafiou a Jeová, dizendo:
+‘Com os meus muitos carros de guerra
+Subirei ao alto das montanhas,
+Às partes mais distantes do Líbano.
+Cortarei os seus altos cedros, seus juníperos seletos.
+Entrarei nos seus refúgios mais distantes, nas suas florestas mais densas.
+
+[[v12-19-24]]
+
+^<<v12-19-24,24>>^ Cavarei poços e beberei águas de uma terra estrangeira;
+Secarei todos os rios^&#42;1^ do Egito com a sola dos meus pés.’
+
+[NOTE]
+====
+. Ou: “os canais do Nilo”.
+====
+
+[[v12-19-25]]
+
+^<<v12-19-25,25>>^ Você não ouviu? Isto foi decretado^&#42;1^ muito tempo atrás.
+Desde o passado remoto preparei^&#42;2^ isto;
+Agora o realizarei.
+Você transformará cidades fortificadas em montes de ruínas.
+
+[NOTE]
+====
+. Lit.: “feito”.
+. Ou: “formei”.
+====
+
+[[v12-19-26]]
+
+^<<v12-19-26,26>>^ Os habitantes delas ficarão indefesos;
+Ficarão apavorados e serão envergonhados.
+Eles se tornarão como a vegetação do campo e a relva verde,
+Como o capim que cresce nos telhados e que é ressecado pelo vento leste.
+
+[[v12-19-27]]
+
+^<<v12-19-27,27>>^ Mas sei muito bem quando você se senta, quando sai, quando entra
+E quando você está furioso comigo,
+
+[[v12-19-28]]
+
+^<<v12-19-28,28>>^ Porque o seu furor contra mim e a sua agitação chegaram aos meus ouvidos.
+Por isso porei meu gancho no seu nariz e meu freio na sua boca,
+E o conduzirei de volta pelo caminho por onde veio.”
+
+[[v12-19-29]]
+
+^<<v12-19-29,29>>^ “‘E este será o sinal para você:^&#42;1^ este ano vocês comerão o que crescer sozinho;^&#42;2^ e no segundo ano vocês comerão os grãos que daquilo brotar; mas no terceiro ano vocês semearão e colherão, plantarão vinhedos e comerão os seus frutos.
+
+[NOTE]
+====
+. Isto é, Ezequias.
+. Ou: “do que crescer dos grãos que caíram”.
+====
+
+[[v12-19-30]]
+
+^<<v12-19-30,30>>^ Os da casa de Judá que escaparem, os que restarem, lançarão raízes na terra e produzirão frutos nos ramos.
+
+[[v12-19-31]]
+
+^<<v12-19-31,31>>^ Pois de Jerusalém sairá um restante, e do monte Sião os que sobreviverem. O zelo de Jeová dos exércitos fará isso.
+
+[[v12-19-32]]
+
+^<<v12-19-32,32>>^ “‘Portanto, assim diz Jeová a respeito do rei da Assíria:
+“Ele não entrará nesta cidade,
+Nem atirará flecha nela;
+Não a enfrentará com escudo,
+Nem levantará uma rampa de ataque contra ela.
+
+[[v12-19-33]]
+
+^<<v12-19-33,33>>^ Ele voltará pelo caminho por onde veio;
+Ele não entrará nesta cidade”, diz Jeová.
+
+[[v12-19-34]]
+
+^<<v12-19-34,34>>^ “Eu defenderei e salvarei esta cidade por minha própria causa
+E por causa de Davi, meu servo.”’”
+
+[[v12-19-35]]
+
+^<<v12-19-35,35>>^ Naquela mesma noite o anjo de Jeová saiu e matou 185.000 no acampamento dos assírios. Quando o povo se levantou de manhã cedo, só havia cadáveres.
+
+[[v12-19-36]]
+
+^<<v12-19-36,36>>^ Portanto, Senaqueribe, rei da Assíria, retirou-se e voltou a Nínive, e ficou ali.
+
+[[v12-19-37]]
+
+^<<v12-19-37,37>>^ E, quando ele estava se curvando na casa^&#42;1^ de Nisroque, seu deus, Adrameleque e Sarezer, seus próprios filhos, o mataram à espada e fugiram para a terra de Ararate. E Esar-Hadom, seu filho, tornou-se rei no seu lugar.
+
+[NOTE]
+====
+. Ou: “no templo”.
+====
+
+'''
+
+xref:012-2-reis/012-2-reis-018.adoc#v12-18-0[&#60; Capítulo Anterior] | <<v12-19-0,Topo>> | xref:012-2-reis/012-2-reis-020.adoc#v12-20-0[Próximo Capítulo &#62;]

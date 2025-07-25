@@ -1,0 +1,235 @@
+include::./index.adoc[]
+
+[[v20-14-0]]
+=== Provérbios, 14
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v20-14-1]]
+
+^<<v20-14-1,1>>^ A mulher realmente sábia edifica a sua casa,
+Mas a tola a derruba com as próprias mãos.
+
+[[v20-14-2]]
+
+^<<v20-14-2,2>>^ Quem anda na sua retidão teme a Jeová,
+Mas quem segue caminhos sinuosos^&#42;1^ o despreza.
+
+[NOTE]
+====
+. Ou: “enganosos”.
+====
+
+[[v20-14-3]]
+
+^<<v20-14-3,3>>^ A vara da arrogância está na boca dos tolos,
+Mas os lábios dos sábios os protegerão.
+
+[[v20-14-4]]
+
+^<<v20-14-4,4>>^ Onde não há bois, a manjedoura fica limpa;
+Mas a força do touro produz uma colheita abundante.
+
+[[v20-14-5]]
+
+^<<v20-14-5,5>>^ A testemunha fiel não mente,
+Mas a testemunha falsa só fala mentiras.
+
+[[v20-14-6]]
+
+^<<v20-14-6,6>>^ O zombador procura sabedoria, e não acha nenhuma,
+Mas o conhecimento vem facilmente para quem tem entendimento.
+
+[[v20-14-7]]
+
+^<<v20-14-7,7>>^ Fique longe do homem tolo,
+Pois em seus lábios você não encontrará conhecimento.
+
+[[v20-14-8]]
+
+^<<v20-14-8,8>>^ A sabedoria faz o homem prudente entender seu caminho,
+Mas os insensatos são enganados pela^&#42;1^ sua tolice.
+
+[NOTE]
+====
+. Ou, possivelmente: “enganam outros com a”.
+====
+
+[[v20-14-9]]
+
+^<<v20-14-9,9>>^ Os tolos riem da culpa,^&#42;1^
+Mas entre os justos há disposição de fazer as pazes.^&#42;2^
+
+[NOTE]
+====
+. Ou: “da ideia de fazer reparação”.
+. Ou: “há boa vontade”.
+====
+
+[[v20-14-10]]
+
+^<<v20-14-10,10>>^ Cada coração conhece sua própria amargura,^&#42;1^
+E mais ninguém pode participar da sua alegria.
+
+[NOTE]
+====
+. Ou: “a amargura da sua alma”.
+====
+
+[[v20-14-11]]
+
+^<<v20-14-11,11>>^ A casa dos maus será destruída,
+Mas a tenda dos justos florescerá.
+
+[[v20-14-12]]
+
+^<<v20-14-12,12>>^ Há um caminho que parece certo ao homem,
+Mas por fim leva à morte.
+
+[[v20-14-13]]
+
+^<<v20-14-13,13>>^ Mesmo no riso, o coração talvez sinta dor;
+E a alegria pode acabar em tristeza.
+
+[[v20-14-14]]
+
+^<<v20-14-14,14>>^ Quem é rebelde no coração colherá as consequências dos seus caminhos,
+Mas o homem bom colhe a recompensa das suas ações.
+
+[[v20-14-15]]
+
+^<<v20-14-15,15>>^ A pessoa ingênua^&#42;1^ acredita em qualquer palavra,
+Mas quem é prudente pensa bem antes de cada passo.
+
+[NOTE]
+====
+. Ou: “inexperiente”.
+====
+
+[[v20-14-16]]
+
+^<<v20-14-16,16>>^ O sábio é cauteloso e se afasta do mal,
+Mas o tolo é imprudente^&#42;1^ e autoconfiante.
+
+[NOTE]
+====
+. Ou: “furioso”.
+====
+
+[[v20-14-17]]
+
+^<<v20-14-17,17>>^ Quem se ira facilmente comete tolices,
+Mas o homem de reflexão^&#42;1^ é odiado.
+
+[NOTE]
+====
+. Ou: “o homem de raciocínio”.
+====
+
+[[v20-14-18]]
+
+^<<v20-14-18,18>>^ Os ingênuos^&#42;1^ herdarão a tolice,
+Mas os prudentes são coroados com o conhecimento.
+
+[NOTE]
+====
+. Ou: “inexperientes”.
+====
+
+[[v20-14-19]]
+
+^<<v20-14-19,19>>^ Os maus terão de se curvar diante dos bons,
+E os perversos se curvarão diante dos portões dos justos.
+
+[[v20-14-20]]
+
+^<<v20-14-20,20>>^ O pobre é odiado até pelo seu próximo,
+Mas muitos são os amigos do rico.
+
+[[v20-14-21]]
+
+^<<v20-14-21,21>>^ Quem despreza o seu próximo comete um pecado,
+Mas quem tem compaixão dos humildes é feliz.
+
+[[v20-14-22]]
+
+^<<v20-14-22,22>>^ Por acaso não se perderão os que tramam a maldade?
+Mas os que estão decididos a fazer o bem encontrarão amor leal e fidelidade.
+
+[[v20-14-23]]
+
+^<<v20-14-23,23>>^ Há proveito em todo tipo de trabalho árduo,
+Mas ficar só falando leva à pobreza.
+
+[[v20-14-24]]
+
+^<<v20-14-24,24>>^ A coroa dos sábios é a sua riqueza,
+Mas a tolice dos tolos não passa de tolice.
+
+[[v20-14-25]]
+
+^<<v20-14-25,25>>^ A testemunha verdadeira salva vidas,^&#42;1^
+Mas a falsa só fala mentiras.
+
+[NOTE]
+====
+. Ou: “almas”.
+====
+
+[[v20-14-26]]
+
+^<<v20-14-26,26>>^ No temor de Jeová o homem encontra forte confiança
+E um refúgio para os seus filhos.
+
+[[v20-14-27]]
+
+^<<v20-14-27,27>>^ O temor de Jeová é fonte de vida
+E desvia dos laços da morte.
+
+[[v20-14-28]]
+
+^<<v20-14-28,28>>^ Um povo numeroso é a glória do rei,
+Mas um governante sem súditos está arruinado.
+
+[[v20-14-29]]
+
+^<<v20-14-29,29>>^ Quem não se ira facilmente tem muito discernimento,
+Mas quem é impaciente demonstra sua tolice.
+
+[[v20-14-30]]
+
+^<<v20-14-30,30>>^ O coração calmo é vida^&#42;1^ para o corpo,
+Mas o ciúme é podridão para os ossos.
+
+[NOTE]
+====
+. Ou: “saúde”.
+====
+
+[[v20-14-31]]
+
+^<<v20-14-31,31>>^ Quem defrauda o humilde insulta Aquele que o fez,
+Mas quem tem compaixão do pobre O glorifica.
+
+[[v20-14-32]]
+
+^<<v20-14-32,32>>^ Quem é mau será derrubado pela sua própria maldade,
+Mas o justo se refugiará na sua integridade.
+
+[[v20-14-33]]
+
+^<<v20-14-33,33>>^ A sabedoria descansa sem alarde no coração dos que têm entendimento,
+Mas os tolos têm de exibi-la.
+
+[[v20-14-34]]
+
+^<<v20-14-34,34>>^ A justiça enaltece uma nação,
+Mas o pecado é uma vergonha para um povo.
+
+[[v20-14-35]]
+
+^<<v20-14-35,35>>^ O rei tem prazer no servo que age com perspicácia,
+Mas fica furioso com aquele que age vergonhosamente.
+
+'''
+
+xref:020-proverbios/020-proverbios-013.adoc#v20-13-0[&#60; Capítulo Anterior] | <<v20-14-0,Topo>> | xref:020-proverbios/020-proverbios-015.adoc#v20-15-0[Próximo Capítulo &#62;]

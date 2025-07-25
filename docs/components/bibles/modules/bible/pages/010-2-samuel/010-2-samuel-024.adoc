@@ -1,0 +1,140 @@
+include::./index.adoc[]
+
+[[v10-24-0]]
+=== O Segundo de Samuel, 24
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v10-24-1]]
+
+^<<v10-24-1,1>>^ A ira de Jeová se acendeu novamente contra Israel quando Davi foi instigado a agir contra eles, com as palavras: “Vá, faça um recenseamento de Israel e de Judá.”
+
+[[v10-24-2]]
+
+^<<v10-24-2,2>>^ Portanto, o rei disse a Joabe, o chefe do exército, que estava junto dele: “Percorra todas as tribos de Israel, desde Dã até Berseba, e registrem o povo, para que eu saiba quantos são.”
+
+[[v10-24-3]]
+
+^<<v10-24-3,3>>^ Mas Joabe disse ao rei: “Que Jeová, seu Deus, multiplique cem vezes o povo, e que o meu senhor, o rei, veja isso com os próprios olhos. Mas por que o meu senhor, o rei, quer fazer isso?”
+
+[[v10-24-4]]
+
+^<<v10-24-4,4>>^ Mas a palavra do rei prevaleceu sobre a de Joabe e a dos chefes do exército. Portanto, Joabe e os chefes do exército saíram da presença do rei para registrar o povo de Israel.
+
+[[v10-24-5]]
+
+^<<v10-24-5,5>>^ Atravessaram o Jordão e acamparam em Aroer, à direita^&#42;1^ da cidade que fica no meio do vale,^&#42;2^ e foram em direção aos gaditas, e daí a Jazer.
+
+[NOTE]
+====
+. Ou: “ao sul”.
+. Ou: “uádi”.
+====
+
+[[v10-24-6]]
+
+^<<v10-24-6,6>>^ Depois foram a Gileade e à terra de Tatim-Hodchi; dali se dirigiram a Dã-Jaã e foram a Sídon.
+
+[[v10-24-7]]
+
+^<<v10-24-7,7>>^ Foram então à fortaleza de Tiro e a todas as cidades dos heveus e dos cananeus, e por fim chegaram a Berseba, que fica no Neguebe de Judá.
+
+[[v10-24-8]]
+
+^<<v10-24-8,8>>^ Assim percorreram todo o país e voltaram a Jerusalém depois de nove meses e vinte dias.
+
+[[v10-24-9]]
+
+^<<v10-24-9,9>>^ Então Joabe entregou ao rei o número dos que foram registrados: Israel tinha 800.000 guerreiros armados com espadas; e Judá, 500.000 homens.
+
+[[v10-24-10]]
+
+^<<v10-24-10,10>>^ Mas o coração^&#42;1^ de Davi se encheu de remorso depois de ele ter contado o povo. Davi disse então a Jeová: “Cometi um pecado grave ao fazer isso. E agora, Jeová, por favor, perdoa o pecado do teu servo, pois agi de modo muito insensato.”
+
+[NOTE]
+====
+. Ou: “a consciência”.
+====
+
+[[v10-24-11]]
+
+^<<v10-24-11,11>>^ Quando Davi se levantou de manhã, o profeta Gade, vidente de Davi, recebeu a seguinte mensagem de Jeová:
+
+[[v10-24-12]]
+
+^<<v10-24-12,12>>^ “Vá e diga a Davi: ‘Assim diz Jeová: “Eu lhe dou três opções. Escolha qual delas devo executar contra você.”’”
+
+[[v10-24-13]]
+
+^<<v10-24-13,13>>^ Então Gade compareceu perante Davi e lhe perguntou: “Deve haver sete anos de fome no seu país? Deve o senhor passar três meses fugindo dos seus inimigos, que o perseguirão? Ou deve haver três dias de peste no seu país? Agora pense bem e diga que resposta devo dar Àquele que me enviou.”
+
+[[v10-24-14]]
+
+^<<v10-24-14,14>>^ Então Davi disse a Gade: “Isso é muito aflitivo para mim. Que nós caiamos nas mãos de Jeová, pois a Sua misericórdia é grande, mas que eu não caia nas mãos dos homens.”
+
+[[v10-24-15]]
+
+^<<v10-24-15,15>>^ Então Jeová enviou uma peste sobre Israel, desde a manhã até o tempo determinado, de modo que 70.000 pessoas morreram, de Dã a Berseba.
+
+[[v10-24-16]]
+
+^<<v10-24-16,16>>^ Quando o anjo estendeu a mão para destruir Jerusalém, Jeová lamentou a^&#42;1^ calamidade e disse ao anjo que causava a destruição entre o povo: “Já chega! Abaixe a mão.” O anjo de Jeová estava perto da eira de Araúna, o jebuseu.
+
+[NOTE]
+====
+. Ou: “sentiu pesar por causa da”.
+====
+
+[[v10-24-17]]
+
+^<<v10-24-17,17>>^ Ao ver o anjo que golpeava o povo, Davi disse a Jeová: “Fui eu que pequei, eu que cometi esse erro. Mas o que fizeram estas ovelhas? Por favor, que a tua mão venha sobre mim e sobre a casa do meu pai.”
+
+[[v10-24-18]]
+
+^<<v10-24-18,18>>^ Então Gade compareceu perante Davi naquele dia e lhe disse: “Suba à eira de Araúna, o jebuseu, e construa ali um altar a Jeová.”
+
+[[v10-24-19]]
+
+^<<v10-24-19,19>>^ Portanto, Davi foi segundo a palavra de Gade, conforme Jeová havia ordenado.
+
+[[v10-24-20]]
+
+^<<v10-24-20,20>>^ Quando Araúna viu o rei e seus servos vindo em sua direção, Araúna saiu imediatamente e se curvou diante do rei com o rosto por terra.
+
+[[v10-24-21]]
+
+^<<v10-24-21,21>>^ Araúna perguntou: “Por que o meu senhor, o rei, veio ao seu servo?” Davi respondeu: “Vim para comprar a sua eira, a fim de construir nela um altar a Jeová, para que cesse o flagelo sobre o povo.”
+
+[[v10-24-22]]
+
+^<<v10-24-22,22>>^ Mas Araúna disse a Davi: “Fique com ela, meu senhor, o rei, e ofereça o que o senhor quiser.^&#42;1^ Aqui estão os bois para a oferta queimada, bem como o trenó de debulha e o jugo dos bois, para servir de lenha.
+
+[NOTE]
+====
+. Lit.: “o que for bom aos seus olhos”.
+====
+
+[[v10-24-23]]
+
+^<<v10-24-23,23>>^ Tudo isso dou^&#42;1^ ao senhor, ó rei.” E Araúna disse ao rei: “Que Jeová, seu Deus, lhe mostre favor.”
+
+[NOTE]
+====
+. Lit.: “Araúna dá”.
+====
+
+[[v10-24-24]]
+
+^<<v10-24-24,24>>^ No entanto, o rei disse a Araúna: “De modo algum! Eu a comprarei de você. Não oferecerei a Jeová, meu Deus, sacrifícios queimados que não me custem nada.” Assim, Davi comprou a eira e os bois por 50 siclos^&#42;1^ de prata.
+
+[NOTE]
+====
+. Um siclo equivalia a 11,4 g. Veja Ap. B14.
+====
+
+[[v10-24-25]]
+
+^<<v10-24-25,25>>^ Davi construiu ali um altar a Jeová e ofereceu sacrifícios queimados e sacrifícios de participação em comum. Então Jeová ouviu as súplicas a favor do país, e o flagelo sobre Israel cessou.
+
+'''
+
+xref:010-2-samuel/010-2-samuel-023.adoc#v10-23-0[&#60; Capítulo Anterior] | <<v10-24-0,Topo>> | xref:011-1-reis/011-1-reis-001.adoc#v11-1-0[Próximo Capítulo &#62;]

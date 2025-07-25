@@ -1,0 +1,113 @@
+include::./index.adoc[]
+
+[[v13-3-0]]
+=== O Primeiro das Crônicas, 3
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v13-3-1]]
+
+^<<v13-3-1,1>>^ Estes foram os filhos de Davi que nasceram em Hebrom: o primogênito foi Amnom, e sua mãe era Ainoã, de Jezreel; o segundo foi Daniel, e sua mãe era Abigail, a carmelita;
+
+[[v13-3-2]]
+
+^<<v13-3-2,2>>^ o terceiro foi Absalão, filho de Maacá, filha de Talmai, rei de Gesur; o quarto foi Adonias, filho de Hagite;
+
+[[v13-3-3]]
+
+^<<v13-3-3,3>>^ o quinto foi Sefatias, e sua mãe era Abital; e o sexto foi Itreão, e sua mãe era Eglá, esposa de Davi.
+
+[[v13-3-4]]
+
+^<<v13-3-4,4>>^ Esses seis filhos de Davi nasceram em Hebrom; ele reinou ali por sete anos e seis meses, e em Jerusalém reinou por 33 anos.
+
+[[v13-3-5]]
+
+^<<v13-3-5,5>>^ Os filhos de Davi que nasceram em Jerusalém foram os seguintes: Simeia, Sobabe, Natã e Salomão. A mãe desses quatro era Bate-Seba, filha de Amiel.
+
+[[v13-3-6]]
+
+^<<v13-3-6,6>>^ Outros nove filhos foram: Ibar, Elisama, Elifelete,
+
+[[v13-3-7]]
+
+^<<v13-3-7,7>>^ Nogá, Nefegue, Jafia,
+
+[[v13-3-8]]
+
+^<<v13-3-8,8>>^ Elisama, Eliada e Elifelete.
+
+[[v13-3-9]]
+
+^<<v13-3-9,9>>^ Todos esses foram os filhos de Davi, além dos filhos das concubinas, e Tamar era irmã deles.
+
+[[v13-3-10]]
+
+^<<v13-3-10,10>>^ O filho de Salomão foi Roboão; Abias foi seu filho; Asa, seu filho; Jeosafá, seu filho;
+
+[[v13-3-11]]
+
+^<<v13-3-11,11>>^ Jeorão, seu filho; Acazias, seu filho; Jeoás, seu filho;
+
+[[v13-3-12]]
+
+^<<v13-3-12,12>>^ Amazias, seu filho; Azarias, seu filho; Jotão, seu filho;
+
+[[v13-3-13]]
+
+^<<v13-3-13,13>>^ Acaz, seu filho; Ezequias, seu filho; Manassés, seu filho;
+
+[[v13-3-14]]
+
+^<<v13-3-14,14>>^ Amom, seu filho; Josias, seu filho.
+
+[[v13-3-15]]
+
+^<<v13-3-15,15>>^ Os filhos de Josias foram Joanã, o primogênito; Jeoiaquim, o segundo; Zedequias, o terceiro; e Salum, o quarto.
+
+[[v13-3-16]]
+
+^<<v13-3-16,16>>^ Os filhos de Jeoiaquim foram Jeconias, seu filho, e Zedequias, seu filho.
+
+[[v13-3-17]]
+
+^<<v13-3-17,17>>^ Os filhos de Jeconias, enquanto era prisioneiro, foram Sealtiel,
+
+[[v13-3-18]]
+
+^<<v13-3-18,18>>^ Malquirão, Pedaías, Senazar, Jecamias, Hosama e Nedabias.
+
+[[v13-3-19]]
+
+^<<v13-3-19,19>>^ Os filhos de Pedaías foram Zorobabel e Simei. Os filhos de Zorobabel foram Mesulão e Hananias (e Selomite era irmã deles);
+
+[[v13-3-20]]
+
+^<<v13-3-20,20>>^ e outros cinco filhos foram Hasubá, Oel, Berequias, Hasadias e Jusabe-Hesede.
+
+[[v13-3-21]]
+
+^<<v13-3-21,21>>^ E os filhos de Hananias foram Pelatias e Jesaías; o filho^&#42;1^ de Jesaías foi Refaías; o filho^&#42;2^ de Refaías foi Arnã; o filho^&#42;3^ de Arnã foi Obadias; o filho^&#42;4^ de Obadias foi Secanias.
+
+[NOTE]
+====
+. Lit.: “os filhos”.
+. Lit.: “os filhos”.
+. Lit.: “os filhos”.
+. Lit.: “os filhos”.
+====
+
+[[v13-3-22]]
+
+^<<v13-3-22,22>>^ Os filhos de Secanias foram Semaías e os filhos de Semaías: Hatus, Igal, Barias, Nearias e Safate — seis ao todo.
+
+[[v13-3-23]]
+
+^<<v13-3-23,23>>^ Os filhos de Nearias foram Elioenai, Ezequias e Azricão, três.
+
+[[v13-3-24]]
+
+^<<v13-3-24,24>>^ E os filhos de Elioenai foram Hodavias, Eliasibe, Pelaías, Acube, Joanã, Delaías e Anani, sete.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-002.adoc#v13-2-0[&#60; Capítulo Anterior] | <<v13-3-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-004.adoc#v13-4-0[Próximo Capítulo &#62;]

@@ -1,0 +1,206 @@
+include::./index.adoc[]
+
+[[v16-11-0]]
+=== Neemias, 11
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v16-11-1]]
+
+^<<v16-11-1,1>>^ Os príncipes do povo estavam morando em Jerusalém, e o restante do povo lançou sortes para que, de cada dez homens, um viesse morar em Jerusalém, a cidade santa, enquanto os outros nove ficariam nas outras cidades.
+
+[[v16-11-2]]
+
+^<<v16-11-2,2>>^ Além disso, o povo abençoou todos os homens que se ofereceram voluntariamente para morar em Jerusalém.
+
+[[v16-11-3]]
+
+^<<v16-11-3,3>>^ Segue-se uma lista dos cabeças da província^&#42;1^ que ficaram morando em Jerusalém. (Os outros israelitas, sacerdotes, levitas, servos do templo^&#42;2^ e filhos dos servos de Salomão ficaram morando nas outras cidades de Judá, cada um na sua propriedade, na sua cidade.
+
+[NOTE]
+====
+. Ou: “do distrito jurisdicional”, possivelmente o de Judá.
+. Ou: “netineus”. Lit.: “os que foram dados”.
+====
+
+[[v16-11-4]]
+
+^<<v16-11-4,4>>^ Além disso, alguns do povo de Judá e de Benjamim moravam em Jerusalém.) Do povo de Judá havia Ataías, filho de Uzias, filho de Zacarias, filho de Amarias, filho de Sefatias, filho de Maalalel, dos filhos de Peres;
+
+[[v16-11-5]]
+
+^<<v16-11-5,5>>^ e Maaseias, filho de Baruque, filho de Col-Hozé, filho de Hazaías, filho de Adaías, filho de Joiaribe, filho de Zacarias, filho do selanita.
+
+[[v16-11-6]]
+
+^<<v16-11-6,6>>^ Os filhos de Peres que ficaram morando em Jerusalém eram 468; todos eles eram homens capazes.
+
+[[v16-11-7]]
+
+^<<v16-11-7,7>>^ E do povo de Benjamim havia Salu, filho de Mesulão, filho de Joede, filho de Pedaías, filho de Colaías, filho de Maaseias, filho de Itiel, filho de Jesaías,
+
+[[v16-11-8]]
+
+^<<v16-11-8,8>>^ e também Gabai e Salai, 928;
+
+[[v16-11-9]]
+
+^<<v16-11-9,9>>^ Joel, filho de Zicri, era superintendente deles, e Judá, filho de Hassenua, era o segundo em autoridade sobre a cidade.
+
+[[v16-11-10]]
+
+^<<v16-11-10,10>>^ Dos sacerdotes: Jedaías, filho de Joiaribe; Jaquim;
+
+[[v16-11-11]]
+
+^<<v16-11-11,11>>^ Seraías, filho de Hilquias, filho de Mesulão, filho de Zadoque, filho de Meraiote, filho de Aitube, líder da casa^&#42;1^ do verdadeiro Deus;
+
+[NOTE]
+====
+. Ou: “do templo”.
+====
+
+[[v16-11-12]]
+
+^<<v16-11-12,12>>^ e os irmãos deles, os que faziam o serviço da casa, 822; Adaías, filho de Jeroão, filho de Pelalias, filho de Anzi, filho de Zacarias, filho de Pasur, filho de Malquias;
+
+[[v16-11-13]]
+
+^<<v16-11-13,13>>^ e seus irmãos, cabeças de casas paternas, 242; e Amassai, filho de Azarel, filho de Azai, filho de Mesilemote, filho de Imer;
+
+[[v16-11-14]]
+
+^<<v16-11-14,14>>^ e seus irmãos, homens poderosos e valentes, 128; e o superintendente deles era Zabdiel, membro de uma família de destaque.
+
+[[v16-11-15]]
+
+^<<v16-11-15,15>>^ E dos levitas: Semaías, filho de Hassube, filho de Azricão, filho de Hasabias, filho de Buni;
+
+[[v16-11-16]]
+
+^<<v16-11-16,16>>^ Sabetai e Jozabade, cabeças dos levitas que supervisionavam os assuntos externos da casa do verdadeiro Deus;
+
+[[v16-11-17]]
+
+^<<v16-11-17,17>>^ Matanias, regente do canto, aquele que conduzia os louvores durante as orações, filho de Mica, filho de Zabdi, filho de Asafe; Bacbuquias, o segundo entre seus irmãos; e Abda, filho de Samua, filho de Galal, filho de Jedutum.
+
+[[v16-11-18]]
+
+^<<v16-11-18,18>>^ Todos os levitas na cidade santa eram 284.
+
+[[v16-11-19]]
+
+^<<v16-11-19,19>>^ Os porteiros eram Acube, Talmom e seus irmãos, que montavam guarda nos portões, 172.
+
+[[v16-11-20]]
+
+^<<v16-11-20,20>>^ Os outros israelitas, sacerdotes e levitas ficaram em todas as outras cidades de Judá, cada um na sua propriedade herdada.^&#42;1^
+
+[NOTE]
+====
+. Ou: “sua própria herança”.
+====
+
+[[v16-11-21]]
+
+^<<v16-11-21,21>>^ Os servos do templo^&#42;1^ ficaram morando em Ofel; e Ziá e Gispa eram responsáveis pelos servos do templo.^&#42;2^
+
+[NOTE]
+====
+. Ou: “Os netineus”. Lit.: “Os que foram dados”.
+. Ou: “pelos netineus”. Lit.: “pelos que foram dados”.
+====
+
+[[v16-11-22]]
+
+^<<v16-11-22,22>>^ O superintendente dos levitas em Jerusalém era Uzi, filho de Bani, filho de Hasabias, filho de Matanias, filho de Mica, dos filhos de Asafe, os cantores; ele supervisionava o serviço da casa do verdadeiro Deus.
+
+[[v16-11-23]]
+
+^<<v16-11-23,23>>^ Pois havia uma ordem do rei em benefício deles, e havia uma provisão fixa para as necessidades diárias dos cantores.
+
+[[v16-11-24]]
+
+^<<v16-11-24,24>>^ E Petaías, filho de Mesezabel, dos filhos de Zerá, filho de Judá, era o conselheiro do rei^&#42;1^ em todos os assuntos referentes ao povo.
+
+[NOTE]
+====
+. Lit.: “estava à mão do rei”.
+====
+
+[[v16-11-25]]
+
+^<<v16-11-25,25>>^ Quanto aos povoados e seus campos, alguns do povo de Judá foram morar em Quiriate-Arba e nas suas aldeias dependentes,^&#42;1^ em Dibom e nas suas aldeias dependentes, em Jecabzeel e nos seus povoados,
+
+[NOTE]
+====
+. Ou: “ao redor”.
+====
+
+[[v16-11-26]]
+
+^<<v16-11-26,26>>^ em Jesua, em Moladá, em Bete-Pelete,
+
+[[v16-11-27]]
+
+^<<v16-11-27,27>>^ em Hazar-Sual, em Berseba e nas suas aldeias dependentes,^&#42;1^
+
+[NOTE]
+====
+. Ou: “ao redor”.
+====
+
+[[v16-11-28]]
+
+^<<v16-11-28,28>>^ em Ziclague, em Meconá e nas suas aldeias dependentes,^&#42;1^
+
+[NOTE]
+====
+. Ou: “ao redor”.
+====
+
+[[v16-11-29]]
+
+^<<v16-11-29,29>>^ em En-Rimom, em Zorá, em Jarmute,
+
+[[v16-11-30]]
+
+^<<v16-11-30,30>>^ em Zanoa, em Adulão e nos seus povoados, em Laquis e nos seus campos, e em Azeca e nas suas aldeias dependentes.^&#42;1^ Eles se estabeleceram^&#42;2^ desde Berseba até o vale de Hinom.
+
+[NOTE]
+====
+. Ou: “ao redor”.
+. Ou: “acamparam”.
+====
+
+[[v16-11-31]]
+
+^<<v16-11-31,31>>^ E o povo de Benjamim ficou em Geba, em Micmás, em Aija, em Betel e nas suas aldeias dependentes,^&#42;1^
+
+[NOTE]
+====
+. Ou: “ao redor”.
+====
+
+[[v16-11-32]]
+
+^<<v16-11-32,32>>^ em Anatote, em Nobe, em Ananias,
+
+[[v16-11-33]]
+
+^<<v16-11-33,33>>^ em Hazor, em Ramá, em Gitaim,
+
+[[v16-11-34]]
+
+^<<v16-11-34,34>>^ em Hadide, em Zeboim, em Nebalate,
+
+[[v16-11-35]]
+
+^<<v16-11-35,35>>^ em Lode e em Ono, o vale dos artesãos.
+
+[[v16-11-36]]
+
+^<<v16-11-36,36>>^ E algumas das turmas de levitas de Judá foram designadas para Benjamim.
+
+'''
+
+xref:016-neemias/016-neemias-010.adoc#v16-10-0[&#60; Capítulo Anterior] | <<v16-11-0,Topo>> | xref:016-neemias/016-neemias-012.adoc#v16-12-0[Próximo Capítulo &#62;]

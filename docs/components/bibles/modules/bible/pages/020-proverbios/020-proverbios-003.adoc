@@ -1,0 +1,247 @@
+include::./index.adoc[]
+
+[[v20-3-0]]
+=== Provérbios, 3
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v20-3-1]]
+
+^<<v20-3-1,1>>^ Meu filho, não se esqueça dos meus ensinamentos,^&#42;1^
+E que o seu coração obedeça aos meus mandamentos,
+
+[NOTE]
+====
+. Ou: “da minha lei”.
+====
+
+[[v20-3-2]]
+
+^<<v20-3-2,2>>^ Porque eles lhe acrescentarão muitos dias
+E anos de vida e paz.
+
+[[v20-3-3]]
+
+^<<v20-3-3,3>>^ Que o amor leal e a fidelidade^&#42;1^ não o abandonem.
+Coloque-os em volta do pescoço;
+Escreva-os na tábua do seu coração;
+
+[NOTE]
+====
+. Ou: “verdade”.
+====
+
+[[v20-3-4]]
+
+^<<v20-3-4,4>>^ Então você ganhará favor e terá grande entendimento
+Aos olhos de Deus e dos homens.
+
+[[v20-3-5]]
+
+^<<v20-3-5,5>>^ Confie em Jeová de todo o seu coração;
+Não confie^&#42;1^ no seu próprio entendimento.
+
+[NOTE]
+====
+. Lit.: “Não se apoie”.
+====
+
+[[v20-3-6]]
+
+^<<v20-3-6,6>>^ Lembre-se dele em todos os seus caminhos,
+E ele endireitará as suas veredas.
+
+[[v20-3-7]]
+
+^<<v20-3-7,7>>^ Não se torne sábio aos seus próprios olhos.
+Tema a Jeová e afaste-se do mal.
+
+[[v20-3-8]]
+
+^<<v20-3-8,8>>^ Isso será uma cura para o seu corpo^&#42;1^
+E revigoramento para os seus ossos.
+
+[NOTE]
+====
+. Lit.: “umbigo”.
+====
+
+[[v20-3-9]]
+
+^<<v20-3-9,9>>^ Honre a Jeová com as suas coisas valiosas,
+Com as primícias^&#42;1^ de todas as suas colheitas;^&#42;2^
+
+[NOTE]
+====
+. Ou: “a melhor parte”.
+. Ou: “toda a sua renda”.
+====
+
+[[v20-3-10]]
+
+^<<v20-3-10,10>>^ Então os seus celeiros ficarão completamente cheios,
+E os seus tanques^&#42;1^ de vinho novo transbordarão.
+
+[NOTE]
+====
+. Ou: “lagares”.
+====
+
+[[v20-3-11]]
+
+^<<v20-3-11,11>>^ Meu filho, não rejeite a disciplina de Jeová,
+E não abomine a sua repreensão,
+
+[[v20-3-12]]
+
+^<<v20-3-12,12>>^ Pois Jeová repreende aqueles a quem ama,
+Assim como o pai faz com um filho querido.
+
+[[v20-3-13]]
+
+^<<v20-3-13,13>>^ Feliz o homem que acha sabedoria
+E o homem que obtém discernimento;
+
+[[v20-3-14]]
+
+^<<v20-3-14,14>>^ Ganhar sabedoria é melhor do que ganhar prata,
+E obtê-la^&#42;1^ é melhor do que obter ouro.
+
+[NOTE]
+====
+. Ou: “obtê-la como lucro”.
+====
+
+[[v20-3-15]]
+
+^<<v20-3-15,15>>^ Ela é mais preciosa do que corais;^&#42;1^
+Nada do que você deseja pode se comparar a ela.
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v20-3-16]]
+
+^<<v20-3-16,16>>^ Na sua mão direita há vida longa;
+Na esquerda, riquezas e glória.
+
+[[v20-3-17]]
+
+^<<v20-3-17,17>>^ Seus caminhos são agradáveis,
+E todas as suas veredas são pacíficas.
+
+[[v20-3-18]]
+
+^<<v20-3-18,18>>^ Ela é árvore de vida para os que se apegam a ela,
+E os que a agarram serão considerados felizes.
+
+[[v20-3-19]]
+
+^<<v20-3-19,19>>^ Jeová lançou os alicerces da terra com sabedoria.
+Estabeleceu firmemente os céus com discernimento.
+
+[[v20-3-20]]
+
+^<<v20-3-20,20>>^ Pelo seu conhecimento as águas profundas se partiram,
+E as nuvens destilaram orvalho.
+
+[[v20-3-21]]
+
+^<<v20-3-21,21>>^ Meu filho, não perca essas coisas^&#42;1^ de vista.
+Resguarde a sabedoria prática e o raciocínio;
+
+[NOTE]
+====
+. Pelo visto se referem às qualidades de Deus mencionadas nos vv. anteriores.
+====
+
+[[v20-3-22]]
+
+^<<v20-3-22,22>>^ Eles lhe darão vida^&#42;1^
+E serão um adorno para o seu pescoço.
+
+[NOTE]
+====
+. Ou: “darão vida à sua alma”.
+====
+
+[[v20-3-23]]
+
+^<<v20-3-23,23>>^ Assim você andará em segurança no seu caminho,
+E o seu pé nunca tropeçará.^&#42;1^
+
+[NOTE]
+====
+. Ou: “nunca baterá em coisa alguma”.
+====
+
+[[v20-3-24]]
+
+^<<v20-3-24,24>>^ Quando você se deitar, não terá medo;
+Você se deitará, e o seu sono será agradável.
+
+[[v20-3-25]]
+
+^<<v20-3-25,25>>^ Você não terá medo de nenhum terror repentino,
+Nem da tempestade que está vindo sobre os maus.
+
+[[v20-3-26]]
+
+^<<v20-3-26,26>>^ Pois Jeová será a sua fonte de confiança,
+Ele protegerá o seu pé da armadilha.
+
+[[v20-3-27]]
+
+^<<v20-3-27,27>>^ Não deixe de fazer o bem a quem você deve fazê-lo,^&#42;1^
+Se estiver ao seu alcance^&#42;2^ ajudar.
+
+[NOTE]
+====
+. Ou: “a quem precisa; a quem é devido”.
+. Ou: “no poder da sua mão”.
+====
+
+[[v20-3-28]]
+
+^<<v20-3-28,28>>^ Não diga ao seu próximo: “Vá embora, volte depois! Eu lhe darei algo amanhã”,
+Se você pode dar algo agora.
+
+[[v20-3-29]]
+
+^<<v20-3-29,29>>^ Não planeje prejudicar o seu próximo,
+Que mora ao seu lado e confia em você.
+
+[[v20-3-30]]
+
+^<<v20-3-30,30>>^ Não entre em conflito com um homem sem motivo,
+Se ele não lhe fez nada de mau.
+
+[[v20-3-31]]
+
+^<<v20-3-31,31>>^ Não fique com inveja do homem violento,
+Nem escolha nenhum dos seus caminhos,
+
+[[v20-3-32]]
+
+^<<v20-3-32,32>>^ Pois Jeová detesta a pessoa falsa,
+Mas tem amizade íntima com os íntegros.
+
+[[v20-3-33]]
+
+^<<v20-3-33,33>>^ A maldição de Jeová está sobre a casa dos maus,
+Mas ele abençoa o lar dos justos.
+
+[[v20-3-34]]
+
+^<<v20-3-34,34>>^ Pois ele zomba dos zombadores,
+Mas mostra favor aos mansos.
+
+[[v20-3-35]]
+
+^<<v20-3-35,35>>^ Os sábios herdarão a honra,
+Mas os tolos exaltam a desonra.
+
+'''
+
+xref:020-proverbios/020-proverbios-002.adoc#v20-2-0[&#60; Capítulo Anterior] | <<v20-3-0,Topo>> | xref:020-proverbios/020-proverbios-004.adoc#v20-4-0[Próximo Capítulo &#62;]

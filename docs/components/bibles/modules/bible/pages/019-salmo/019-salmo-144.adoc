@@ -1,0 +1,126 @@
+include::./index.adoc[]
+
+[[v19-144-0]]
+=== Salmos, 144
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_De Davi._
+
+[[v19-144-1]]
+
+^<<v19-144-1,1>>^ Louvado seja Jeová, minha rocha,
+Que treina as minhas mãos para a batalha,
+Os meus dedos para a guerra.
+
+[[v19-144-2]]
+
+^<<v19-144-2,2>>^ Ele é aquele que me trata com amor leal, minha fortaleza,
+Meu refúgio seguro^&#42;1^ e meu libertador,
+Meu escudo e aquele em quem encontro abrigo,
+Aquele que me sujeita povos.
+
+[NOTE]
+====
+. Ou: “refúgio num lugar alto”.
+====
+
+[[v19-144-3]]
+
+^<<v19-144-3,3>>^ Ó Jeová, o que é o homem para o notares,
+O filho do homem mortal para prestares atenção nele?
+
+[[v19-144-4]]
+
+^<<v19-144-4,4>>^ O homem é como um simples sopro;
+Seus dias são como uma sombra que passa.
+
+[[v19-144-5]]
+
+^<<v19-144-5,5>>^ Ó Jeová, inclina^&#42;1^ os teus céus e desce;
+Toca nos montes e faz que fumeguem.
+
+[NOTE]
+====
+. Ou: “abaixa”.
+====
+
+[[v19-144-6]]
+
+^<<v19-144-6,6>>^ Envia relâmpagos para espalhar os inimigos;
+Lança as tuas flechas e ponha-os em confusão.
+
+[[v19-144-7]]
+
+^<<v19-144-7,7>>^ Estende as tuas mãos desde o alto;
+Livra-me e salva-me das águas turbulentas,
+Das mãos^&#42;1^ dos estrangeiros,
+
+[NOTE]
+====
+. Ou: “Do poder”.
+====
+
+[[v19-144-8]]
+
+^<<v19-144-8,8>>^ Que com a boca falam mentiras
+E que erguem a mão direita para jurar coisas falsas.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “E sua mão direita é uma mão direita de falsidade”.
+====
+
+[[v19-144-9]]
+
+^<<v19-144-9,9>>^ Ó Deus, cantarei a ti um novo cântico.
+Ao acompanhamento de um instrumento de dez cordas, cantarei louvores^&#42;1^ a ti,
+
+[NOTE]
+====
+. Ou: “farei música”.
+====
+
+[[v19-144-10]]
+
+^<<v19-144-10,10>>^ Aquele que dá vitória^&#42;1^ a reis,
+Aquele que livra seu servo Davi da espada mortal.
+
+[NOTE]
+====
+. Ou: “salvação”.
+====
+
+[[v19-144-11]]
+
+^<<v19-144-11,11>>^ Livra-me e salva-me das mãos dos estrangeiros,
+Que com a boca falam mentiras
+E que erguem a mão direita para jurar coisas falsas.
+
+[[v19-144-12]]
+
+^<<v19-144-12,12>>^ Então nossos filhos serão como plantas novas que crescem rápido;
+Nossas filhas, como colunas angulares esculpidas para um palácio.
+
+[[v19-144-13]]
+
+^<<v19-144-13,13>>^ Nossos depósitos transbordarão de todo tipo de produtos;
+Em nossos campos, nossas ovelhas se multiplicarão aos milhares, às dezenas de milhares.
+
+[[v19-144-14]]
+
+^<<v19-144-14,14>>^ Nossas vacas prenhes não sofrerão acidentes^&#42;1^ nem abortos;
+Não haverá gritos de aflição nas nossas praças.
+
+[NOTE]
+====
+. Ou: “rupturas”.
+====
+
+[[v19-144-15]]
+
+^<<v19-144-15,15>>^ Feliz o povo para quem é assim!
+Feliz o povo cujo Deus é Jeová!
+
+'''
+
+xref:019-salmo/019-salmo-143.adoc#v19-143-0[&#60; Capítulo Anterior] | <<v19-144-0,Topo>> | xref:019-salmo/019-salmo-145.adoc#v19-145-0[Próximo Capítulo &#62;]

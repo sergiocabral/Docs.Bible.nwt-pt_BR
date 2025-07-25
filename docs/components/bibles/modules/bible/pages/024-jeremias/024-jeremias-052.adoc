@@ -1,0 +1,195 @@
+include::./index.adoc[]
+
+[[v24-52-0]]
+=== Jeremias, 52
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v24-52-1]]
+
+^<<v24-52-1,1>>^ Zedequias tinha 21 anos de idade quando se tornou rei, e reinou por 11 anos em Jerusalém. O nome da sua mãe era Hamutal, filha de Jeremias, de Libna.
+
+[[v24-52-2]]
+
+^<<v24-52-2,2>>^ Ele fazia o que era mau aos olhos de Jeová, conforme tudo o que Jeoiaquim tinha feito.
+
+[[v24-52-3]]
+
+^<<v24-52-3,3>>^ Foi por causa da ira de Jeová que essas coisas aconteceram em Jerusalém e em Judá, até que ele os expulsou da sua vista. E Zedequias se rebelou contra o rei de Babilônia.
+
+[[v24-52-4]]
+
+^<<v24-52-4,4>>^ No nono ano do reinado de Zedequias, no décimo mês, no dia dez do mês, Nabucodonosor,^&#42;1^ rei de Babilônia, junto com todo o seu exército, veio contra Jerusalém. Eles se acamparam contra ela e construíram um muro de cerco em toda a sua volta.
+
+[NOTE]
+====
+. Lit.: “Nabucodorosor”, grafia variante.
+====
+
+[[v24-52-5]]
+
+^<<v24-52-5,5>>^ E a cidade ficou cercada até o décimo primeiro ano do rei Zedequias.
+
+[[v24-52-6]]
+
+^<<v24-52-6,6>>^ No quarto mês, no dia nove do mês, a fome era severa na cidade, não havia comida para o povo da terra.
+
+[[v24-52-7]]
+
+^<<v24-52-7,7>>^ Por fim, abriu-se uma brecha na muralha da cidade. Todos os soldados fugiram da cidade à noite pelo portão entre as duas muralhas, que fica perto do jardim do rei, enquanto os caldeus cercavam a cidade; e seguiram pelo caminho do Arabá.
+
+[[v24-52-8]]
+
+^<<v24-52-8,8>>^ Mas o exército caldeu perseguiu o rei Zedequias e o alcançou nas planícies desérticas de Jericó, e todos os soldados dele se dispersaram.
+
+[[v24-52-9]]
+
+^<<v24-52-9,9>>^ Então pegaram o rei e o levaram ao rei de Babilônia, em Ribla, na terra de Hamate, e ele decretou sua sentença.
+
+[[v24-52-10]]
+
+^<<v24-52-10,10>>^ E o rei de Babilônia matou os filhos de Zedequias diante dos seus olhos, e também matou todos os príncipes de Judá em Ribla.
+
+[[v24-52-11]]
+
+^<<v24-52-11,11>>^ Então o rei de Babilônia cegou os olhos de Zedequias, prendeu-o com correntes de cobre, levou-o para Babilônia e o manteve preso até o dia de sua morte.
+
+[[v24-52-12]]
+
+^<<v24-52-12,12>>^ No quinto mês, no dia dez do mês — era o décimo nono ano de Nabucodonosor,^&#42;1^ rei de Babilônia —, Nebuzaradã, chefe da guarda e servo do rei de Babilônia, entrou em Jerusalém.
+
+[NOTE]
+====
+. Lit.: “Nabucodorosor”, grafia variante.
+====
+
+[[v24-52-13]]
+
+^<<v24-52-13,13>>^ Ele queimou a casa de Jeová, a casa^&#42;1^ do rei e todas as casas de Jerusalém; também queimou todas as casas grandes.
+
+[NOTE]
+====
+. Ou: “o palácio”.
+====
+
+[[v24-52-14]]
+
+^<<v24-52-14,14>>^ E as muralhas que cercavam Jerusalém foram demolidas por todo o exército caldeu que estava com o chefe da guarda.
+
+[[v24-52-15]]
+
+^<<v24-52-15,15>>^ Nebuzaradã, chefe da guarda, levou para o exílio alguns do povo de condição humilde e o restante do povo que tinha sido deixado na cidade. Ele também levou os desertores que tinham tomado o lado do rei de Babilônia, bem como o restante dos artesãos peritos.
+
+[[v24-52-16]]
+
+^<<v24-52-16,16>>^ Mas Nebuzaradã, chefe da guarda, deixou alguns dos mais pobres do povo da terra para trabalhar nos vinhedos e para servir como trabalhadores forçados.
+
+[[v24-52-17]]
+
+^<<v24-52-17,17>>^ Os caldeus quebraram as colunas de cobre da casa de Jeová, bem como os carrinhos e o Mar de cobre que ficavam na casa de Jeová, e levaram todo o cobre para Babilônia.
+
+[[v24-52-18]]
+
+^<<v24-52-18,18>>^ Eles também levaram os recipientes, as pás, os cortadores de pavio, as tigelas, as taças e todos os utensílios de cobre usados no serviço do templo.
+
+[[v24-52-19]]
+
+^<<v24-52-19,19>>^ O chefe da guarda pegou as bacias, os braseiros, as tigelas, os recipientes, os candelabros, as taças, e as tigelas que eram de ouro puro e de prata pura.
+
+[[v24-52-20]]
+
+^<<v24-52-20,20>>^ Quanto às duas colunas, ao Mar, aos 12 touros de cobre que ficavam debaixo do Mar e aos carrinhos, que o rei Salomão tinha feito para a casa de Jeová, não era possível pesar o cobre de todos esses objetos.
+
+[[v24-52-21]]
+
+^<<v24-52-21,21>>^ Quanto às colunas, cada uma tinha 18 côvados^&#42;1^ de altura, e uma corda de medir de 12 côvados podia dar a volta nelas. A espessura da primeira coluna era de quatro dedos,^&#42;2^ e ela era oca.
+
+[NOTE]
+====
+. Um côvado equivalia a 44,5 cm. Veja Ap. B14.
+. Um dedo equivalia a 1,85 cm. Veja Ap. B14.
+====
+
+[[v24-52-22]]
+
+^<<v24-52-22,22>>^ E o capitel que ficava sobre a coluna era de cobre. A altura do capitel era de cinco côvados, e as redes e as romãs em volta do capitel eram todas de cobre. A segunda coluna era igual, e também as romãs.
+
+[[v24-52-23]]
+
+^<<v24-52-23,23>>^ Havia 96 romãs nas laterais. Ao todo, havia 100 romãs em volta das redes.
+
+[[v24-52-24]]
+
+^<<v24-52-24,24>>^ O chefe da guarda também pegou Seraías, o principal sacerdote; Sofonias, o segundo sacerdote; e os três porteiros.
+
+[[v24-52-25]]
+
+^<<v24-52-25,25>>^ E pegou da cidade um oficial da corte que era o comandante dos soldados; sete conselheiros do rei que estavam na cidade; o secretário do chefe do exército, que recrutava o povo da terra; e 60 homens do povo da terra que ainda estavam na cidade.
+
+[[v24-52-26]]
+
+^<<v24-52-26,26>>^ Nebuzaradã, chefe da guarda, os pegou e os levou ao rei de Babilônia, em Ribla.
+
+[[v24-52-27]]
+
+^<<v24-52-27,27>>^ O rei de Babilônia os golpeou e os matou em Ribla, na terra de Hamate. Assim, Judá foi exilado da sua terra.
+
+[[v24-52-28]]
+
+^<<v24-52-28,28>>^ Este é o número de pessoas que Nabucodonosor^&#42;1^ levou para o exílio no sétimo ano: 3.023 judeus.
+
+[NOTE]
+====
+. Lit.: “Nabucodorosor”, grafia variante.
+====
+
+[[v24-52-29]]
+
+^<<v24-52-29,29>>^ No décimo oitavo ano de Nabucodonosor,^&#42;1^ 832 pessoas^&#42;2^ foram levadas de Jerusalém.
+
+[NOTE]
+====
+. Lit.: “Nabucodorosor”, grafia variante.
+. Ou: “almas”.
+====
+
+[[v24-52-30]]
+
+^<<v24-52-30,30>>^ No vigésimo terceiro ano de Nabucodonosor,^&#42;1^ Nebuzaradã, chefe da guarda, levou judeus para o exílio, 745 pessoas.^&#42;2^
+Ao todo, 4.600 pessoas^&#42;3^ foram levadas para o exílio.
+
+[NOTE]
+====
+. Lit.: “Nabucodorosor”, grafia variante.
+. Ou: “almas”.
+. Ou: “almas”.
+====
+
+[[v24-52-31]]
+
+^<<v24-52-31,31>>^ Então, no trigésimo sétimo ano do exílio de Joaquim, rei de Judá, no décimo segundo mês, no dia 25 do mês, no ano em que Evil-Merodaque se tornou rei de Babilônia, ele libertou^&#42;1^ Joaquim, rei de Judá, e o tirou da prisão.
+
+[NOTE]
+====
+. Lit.: “levantou a cabeça de”.
+====
+
+[[v24-52-32]]
+
+^<<v24-52-32,32>>^ Falou com ele bondosamente e o colocou numa posição mais honrada do que a^&#42;1^ dos outros reis que estavam com ele em Babilônia.
+
+[NOTE]
+====
+. Ou: “e colocou o seu trono mais alto do que os tronos”.
+====
+
+[[v24-52-33]]
+
+^<<v24-52-33,33>>^ Assim, Joaquim tirou a sua roupa de prisioneiro e comeu regularmente à mesa do rei, todos os dias da sua vida.
+
+[[v24-52-34]]
+
+^<<v24-52-34,34>>^ Ele recebeu regularmente uma porção de alimento da parte do rei de Babilônia, dia após dia, até o dia da sua morte, todos os dias da sua vida.
+
+'''
+
+xref:024-jeremias/024-jeremias-051.adoc#v24-51-0[&#60; Capítulo Anterior] | <<v24-52-0,Topo>> | xref:025-lamentacoes/025-lamentacoes-001.adoc#v25-1-0[Próximo Capítulo &#62;]

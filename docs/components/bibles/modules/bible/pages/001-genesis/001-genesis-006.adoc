@@ -1,0 +1,157 @@
+include::./index.adoc[]
+
+[[v1-6-0]]
+=== Gênesis, 6
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v1-6-1]]
+
+^<<v1-6-1,1>>^ Quando os homens começaram a aumentar em número na face da terra e tiveram filhas,
+
+[[v1-6-2]]
+
+^<<v1-6-2,2>>^ os filhos do verdadeiro Deus^&#42;1^ perceberam que as filhas dos homens eram bonitas. E eles tomaram como esposas todas as que escolheram.
+
+[NOTE]
+====
+. Expressão idiomática hebraica que se refere aos filhos angélicos de Deus.
+====
+
+[[v1-6-3]]
+
+^<<v1-6-3,3>>^ Então, Jeová disse: “Meu espírito não terá tolerância com o homem indefinidamente, pois ele é apenas carne.^&#42;1^ Portanto, seus dias somarão 120 anos.”
+
+[NOTE]
+====
+. Ou: “pois ele age de acordo com a carne”.
+====
+
+[[v1-6-4]]
+
+^<<v1-6-4,4>>^ Havia os nefilins^&#42;1^ na terra, naqueles dias e depois. Durante esse tempo os filhos do verdadeiro Deus continuaram a ter relações com as filhas dos homens, e elas lhes deram filhos. Eles eram os valentes dos tempos antigos, os homens de fama.
+
+[NOTE]
+====
+. Que possivelmente significa “derrubadores”, isto é, aqueles que fazem outros cair. Veja o Glossário, “Nefilins”.
+====
+
+[[v1-6-5]]
+
+^<<v1-6-5,5>>^ Assim, Jeová viu que a maldade do homem era grande na terra e viu que toda inclinação dos pensamentos do seu coração era só má, todo o tempo.
+
+[[v1-6-6]]
+
+^<<v1-6-6,6>>^ Jeová lamentou^&#42;1^ ter feito os homens na terra, e seu coração se entristeceu.^&#42;2^
+
+[NOTE]
+====
+. Ou: “sentiu pesar de”.
+. Ou: “e ele se sentiu magoado no coração”.
+====
+
+[[v1-6-7]]
+
+^<<v1-6-7,7>>^ De modo que Jeová disse: “Vou eliminar da face da terra os homens que criei, o homem junto com os animais domésticos, os animais rasteiros e as criaturas voadoras dos céus, pois lamento tê-los feito.”
+
+[[v1-6-8]]
+
+^<<v1-6-8,8>>^ Mas Noé achou favor aos olhos de Jeová.
+
+[[v1-6-9]]
+
+^<<v1-6-9,9>>^ Esta é a história de Noé.
+Noé era um homem justo. Mostrava-se íntegro^&#42;1^ entre os seus contemporâneos.^&#42;2^ Noé andava com o verdadeiro Deus.
+
+[NOTE]
+====
+. Ou: “irrepreensível”.
+. Lit.: “as suas gerações”.
+====
+
+[[v1-6-10]]
+
+^<<v1-6-10,10>>^ Com o tempo, Noé tornou-se pai de três filhos: Sem, Cã e Jafé.
+
+[[v1-6-11]]
+
+^<<v1-6-11,11>>^ Mas a terra tinha ficado arruinada à vista do verdadeiro Deus, e a terra estava cheia de violência.
+
+[[v1-6-12]]
+
+^<<v1-6-12,12>>^ Sim, Deus olhou para a terra e viu que estava arruinada; toda a humanidade^&#42;1^ havia arruinado seu caminho na terra.
+
+[NOTE]
+====
+. Lit.: “carne”.
+====
+
+[[v1-6-13]]
+
+^<<v1-6-13,13>>^ Depois, Deus disse a Noé: “Decidi pôr um fim a toda a humanidade,^&#42;1^ porque a terra está cheia de violência por causa deles; por isso vou arruiná-los junto com a terra.
+
+[NOTE]
+====
+. Lit.: “carne”.
+====
+
+[[v1-6-14]]
+
+^<<v1-6-14,14>>^ Faça uma arca^&#42;1^ de madeira resinosa. Você fará compartimentos na arca e a revestirá de betume^&#42;2^ por dentro e por fora.
+
+[NOTE]
+====
+. Lit.: “uma caixa”; uma grande embarcação.
+. Ou: “alcatrão”.
+====
+
+[[v1-6-15]]
+
+^<<v1-6-15,15>>^ É assim que a fará: a arca deve ter 300 côvados^&#42;1^ de comprimento, 50 côvados de largura e 30 côvados de altura.
+
+[NOTE]
+====
+. Um côvado equivalia a 44,5 cm. Veja Ap. B14.
+====
+
+[[v1-6-16]]
+
+^<<v1-6-16,16>>^ Você fará para a arca uma janela para iluminação,^&#42;1^ um côvado abaixo do teto. Deve fazer a entrada da arca na lateral, e deve fazer a arca com um andar inferior, um segundo andar e um terceiro andar.
+
+[NOTE]
+====
+. Em hebraico, tsóhar. Em vez de uma abertura para iluminação, ou uma janela, outra possibilidade é que tsóhar se refira a um telhado inclinado com um côvado de altura na sua parte mais alta.
+====
+
+[[v1-6-17]]
+
+^<<v1-6-17,17>>^ “Quanto a mim, vou trazer sobre a terra um dilúvio de águas, para exterminar de debaixo dos céus toda criatura^&#42;1^ que tem o fôlego de vida.^&#42;2^ Tudo o que há na terra morrerá.
+
+[NOTE]
+====
+. Lit.: “carne”.
+. Ou: “o espírito de vida”.
+====
+
+[[v1-6-18]]
+
+^<<v1-6-18,18>>^ E eu estou estabelecendo meu pacto com você, e você deve entrar na arca com seus filhos, sua esposa e as esposas dos seus filhos.
+
+[[v1-6-19]]
+
+^<<v1-6-19,19>>^ Das criaturas viventes, leve para dentro da arca duas de cada tipo, um macho e uma fêmea, para preservá-los vivos com você;
+
+[[v1-6-20]]
+
+^<<v1-6-20,20>>^ das criaturas voadoras segundo as suas espécies, dos animais domésticos segundo as suas espécies e de todos os animais rasteiros segundo as suas espécies, dois de cada um deles irão a você lá dentro para que sejam preservados vivos.
+
+[[v1-6-21]]
+
+^<<v1-6-21,21>>^ Quanto a você, deve recolher e armazenar todo tipo de alimento, para servir de comida para você e para os animais.”
+
+[[v1-6-22]]
+
+^<<v1-6-22,22>>^ E Noé fez tudo que Deus lhe havia mandado. Fez exatamente assim.
+
+'''
+
+xref:001-genesis/001-genesis-005.adoc#v1-5-0[&#60; Capítulo Anterior] | <<v1-6-0,Topo>> | xref:001-genesis/001-genesis-007.adoc#v1-7-0[Próximo Capítulo &#62;]

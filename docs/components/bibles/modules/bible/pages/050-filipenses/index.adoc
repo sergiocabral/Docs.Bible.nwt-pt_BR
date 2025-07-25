@@ -1,0 +1,16 @@
+include::../index.adoc[]
+
+[[v50-0-0]]
+== Filipenses
+
+[cols="8*^"]
+|===
+| xref:050-filipenses/050-filipenses-001.adoc#v50-1-0[1]
+| xref:050-filipenses/050-filipenses-002.adoc#v50-2-0[2]
+| xref:050-filipenses/050-filipenses-003.adoc#v50-3-0[3]
+| xref:050-filipenses/050-filipenses-004.adoc#v50-4-0[4]
+|
+|
+|
+|
+|===

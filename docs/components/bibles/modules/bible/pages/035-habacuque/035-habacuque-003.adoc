@@ -1,0 +1,181 @@
+include::./index.adoc[]
+
+[[v35-3-0]]
+=== Habacuque, 3
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v35-3-1]]
+
+^<<v35-3-1,1>>^ Oração do profeta Habacuque, em forma de lamentações:
+
+[[v35-3-2]]
+
+^<<v35-3-2,2>>^ Ó Jeová, ouvi os relatos a teu respeito.
+Ó Jeová, fiquei admirado diante dos teus atos.
+No meio dos anos,^&#42;1^ realiza-os de novo!^&#42;2^
+No meio dos anos,^&#42;3^ torna-os conhecidos.
+Que te lembres de ter misericórdia durante a agitação.
+
+[NOTE]
+====
+. Ou, possivelmente: “Em nossos tempos”.
+. Ou: “faze-os reviver”.
+. Ou, possivelmente: “Em nossos tempos”.
+====
+
+[[v35-3-3]]
+
+^<<v35-3-3,3>>^ Deus veio de Temã,
+O Santo veio do monte Parã. (Selá)^&#42;1^
+Sua majestade cobriu os céus;
+Seu louvor encheu a terra.
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v35-3-4]]
+
+^<<v35-3-4,4>>^ Seu esplendor era como a luz.
+Dois raios saíam brilhando da sua mão,
+Onde se escondia a sua força.
+
+[[v35-3-5]]
+
+^<<v35-3-5,5>>^ À frente dele ia a peste,
+E a febre ardente seguia seus passos.
+
+[[v35-3-6]]
+
+^<<v35-3-6,6>>^ Ele parou e fez a terra tremer.
+Com um olhar, fez nações estremecer.
+Os montes eternos foram despedaçados,
+E as colinas antigas se encurvaram.
+Os caminhos da antiguidade pertencem a ele.
+
+[[v35-3-7]]
+
+^<<v35-3-7,7>>^ Vi aflição nas tendas de Cusã.
+Os panos das tendas da terra de Midiã tremeram.
+
+[[v35-3-8]]
+
+^<<v35-3-8,8>>^ É contra os rios, ó Jeová,
+É contra os rios que a tua ira está acesa?
+Ou a tua fúria é contra o mar?
+Pois cavalgaste nos teus cavalos;
+Teus carros de guerra foram vitoriosos.^&#42;1^
+
+[NOTE]
+====
+. Ou: “a salvação”.
+====
+
+[[v35-3-9]]
+
+^<<v35-3-9,9>>^ Descobriste e aprontaste o teu arco.
+As varas^&#42;1^ foram designadas com um juramento^&#42;2^. (Selá)
+Com rios partiste a terra.
+
+[NOTE]
+====
+. Ou, possivelmente: “flechas”.
+. Ou, possivelmente: “Os juramentos das tribos são declarados.”
+====
+
+[[v35-3-10]]
+
+^<<v35-3-10,10>>^ Os montes se contorceram de dor ao te ver.
+Passou uma chuva torrencial.
+As águas profundas rugiram.
+Levantaram alto suas mãos.
+
+[[v35-3-11]]
+
+^<<v35-3-11,11>>^ O sol e a lua ficaram parados na sua elevada morada.
+Tuas flechas saíram como a luz.
+Tua lança brilhava como um relâmpago.
+
+[[v35-3-12]]
+
+^<<v35-3-12,12>>^ Marchaste com fúria através da terra.
+Pisoteaste^&#42;1^ em ira as nações.
+
+[NOTE]
+====
+. Lit.: “Debulhaste”.
+====
+
+[[v35-3-13]]
+
+^<<v35-3-13,13>>^ Saíste para a salvação do teu povo, para salvar o teu ungido.
+Esmagaste o líder^&#42;1^ da casa dos maus.
+Ela foi exposta do alicerce até o teto.^&#42;2^ (Selá)
+
+[NOTE]
+====
+. Lit.: “cabeça”.
+. Lit.: “pescoço”.
+====
+
+[[v35-3-14]]
+
+^<<v35-3-14,14>>^ Furaste a cabeça dos guerreiros dele com as armas que ele mesmo possuía,^&#42;1^
+Quando eles avançaram como uma tempestade para me espalhar.
+Eles se alegravam com a perspectiva de devorar um oprimido em segredo.
+
+[NOTE]
+====
+. Lit.: “as varas dele”.
+====
+
+[[v35-3-15]]
+
+^<<v35-3-15,15>>^ Avançaste através do mar com os teus cavalos,
+Através de vastas águas revoltas.
+
+[[v35-3-16]]
+
+^<<v35-3-16,16>>^ Eu ouvi e estremeci no íntimo;^&#42;1^
+Meus lábios tremeram diante do som.
+A podridão penetrou nos meus ossos;
+Minhas pernas vacilaram.
+Mas espero tranquilamente o dia da aflição,
+Pois ele está vindo sobre aqueles que nos atacam.
+
+[NOTE]
+====
+. Lit.: “e minha barriga tremeu”.
+====
+
+[[v35-3-17]]
+
+^<<v35-3-17,17>>^ Mesmo que a figueira não floresça,
+E não haja fruto nas videiras;
+Mesmo que a safra da oliveira seja um fracasso,
+E os campos^&#42;1^ não produzam alimento;
+Mesmo que as ovelhas desapareçam do curral,
+E não haja bois nos estábulos;
+
+[NOTE]
+====
+. Ou: “terraços de lavoura”.
+====
+
+[[v35-3-18]]
+
+^<<v35-3-18,18>>^ Ainda assim eu vou exultar em Jeová,
+Vou me alegrar no Deus da minha salvação.
+
+[[v35-3-19]]
+
+^<<v35-3-19,19>>^ O Soberano Senhor Jeová é a minha força;
+Ele fará os meus pés como os de um cervo
+E me fará pisar nos lugares elevados.
+
+_Ao regente; para ser acompanhado com os meus instrumentos de cordas._
+
+'''
+
+xref:035-habacuque/035-habacuque-002.adoc#v35-2-0[&#60; Capítulo Anterior] | <<v35-3-0,Topo>> | xref:036-sofonias/036-sofonias-001.adoc#v36-1-0[Próximo Capítulo &#62;]

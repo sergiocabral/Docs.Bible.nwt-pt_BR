@@ -1,0 +1,134 @@
+include::./index.adoc[]
+
+[[v5-24-0]]
+=== Deuteronômio, 24
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v5-24-1]]
+
+^<<v5-24-1,1>>^ “Se um homem se casar com uma mulher, mas ela não o agradar por causa de alguma coisa indecente que ele descobrir a respeito dela, então ele deve escrever um certificado de divórcio, dar o certificado a ela e mandá-la embora da sua casa.
+
+[[v5-24-2]]
+
+^<<v5-24-2,2>>^ Depois de sair da casa dele, ela poderá se tornar esposa de outro homem.
+
+[[v5-24-3]]
+
+^<<v5-24-3,3>>^ Se o segundo homem a odiar,^&#42;1^ escrever um certificado de divórcio, der o certificado a ela e a mandar embora da sua casa, ou se o segundo homem que se casou com ela morrer,
+
+[NOTE]
+====
+. Ou: “a rejeitar”.
+====
+
+[[v5-24-4]]
+
+^<<v5-24-4,4>>^ então o primeiro marido dela, que a tinha mandado embora, não poderá tomá-la novamente como esposa depois que ela se tornou impura, pois isso é algo detestável para Jeová. Não traga pecado sobre a terra que Jeová, seu Deus, lhe dá por herança.
+
+[[v5-24-5]]
+
+^<<v5-24-5,5>>^ “Quando um homem for recém-casado, não deverá servir no exército nem receber nenhuma outra responsabilidade. Deverá ficar isento por um ano, permanecer em casa e alegrar sua esposa.
+
+[[v5-24-6]]
+
+^<<v5-24-6,6>>^ “Ninguém deve tomar um moinho manual ou sua pedra superior como garantia de um empréstimo,^&#42;1^ pois estaria tomando o meio de vida^&#42;2^ de alguém como garantia.
+
+[NOTE]
+====
+. Ou: “como penhor”.
+. Ou: “tirando a vida; tirando a alma”.
+====
+
+[[v5-24-7]]
+
+^<<v5-24-7,7>>^ “Se for descoberto que alguém raptou um^&#42;1^ dos seus irmãos israelitas, e ele o maltratou e o vendeu, o raptor deve morrer. Você deve eliminar o mal do seu meio.
+
+[NOTE]
+====
+. Ou: “a alma de um”.
+====
+
+[[v5-24-8]]
+
+^<<v5-24-8,8>>^ “Quando houver um surto de lepra,^&#42;1^ tenha muito cuidado em seguir todas as instruções que os sacerdotes levíticos lhes derem. Tenham o cuidado de fazer exatamente como ordenei a eles.
+
+[NOTE]
+====
+. A palavra hebraica traduzida “lepra” tem sentido abrangente e pode incluir várias doenças de pele contagiosas. Também pode incluir certas contaminações encontradas em roupas e em casas.
+====
+
+[[v5-24-9]]
+
+^<<v5-24-9,9>>^ Lembrem-se do que Jeová, seu Deus, fez a Miriã no caminho, quando vocês saíram do Egito.
+
+[[v5-24-10]]
+
+^<<v5-24-10,10>>^ “Se você fizer qualquer tipo de empréstimo ao seu próximo, não entre na casa dele para lhe tirar o que ele ofereceu como garantia.
+
+[[v5-24-11]]
+
+^<<v5-24-11,11>>^ Você deve ficar do lado de fora, e o homem que recebeu o empréstimo deve trazer para fora o que lhe ofereceu como garantia.
+
+[[v5-24-12]]
+
+^<<v5-24-12,12>>^ E, se o homem estiver passando necessidade, você não deve se deitar tendo consigo o que ele lhe deu como garantia.
+
+[[v5-24-13]]
+
+^<<v5-24-13,13>>^ Assim que o sol se puser, você deve sem falta lhe devolver o que ele deu como garantia, e ele se deitará com o seu manto e abençoará você; assim você será considerado justo perante Jeová, seu Deus.
+
+[[v5-24-14]]
+
+^<<v5-24-14,14>>^ “Não defraude o trabalhador contratado que estiver passando necessidade e for pobre, quer seja um dos seus irmãos, quer um residente estrangeiro na sua terra, dentro das suas cidades.^&#42;1^
+
+[NOTE]
+====
+. Ou: “dos seus portões”.
+====
+
+[[v5-24-15]]
+
+^<<v5-24-15,15>>^ Você deve dar o salário dele no mesmo dia, antes de o sol se pôr, porque ele está passando necessidade e a vida^&#42;1^ dele depende do salário. Senão, ele clamará a Jeová contra você, e você se tornará culpado de pecado.
+
+[NOTE]
+====
+. Ou: “alma”.
+====
+
+[[v5-24-16]]
+
+^<<v5-24-16,16>>^ “Os pais não devem ser mortos por causa do que seus filhos fizerem, e os filhos não devem ser mortos por causa do que seus pais fizerem. A pessoa só deve ser morta pelo seu próprio pecado.
+
+[[v5-24-17]]
+
+^<<v5-24-17,17>>^ “Você não deve perverter o julgamento do residente estrangeiro nem do órfão,^&#42;1^ nem tomar o manto de uma viúva como garantia de um empréstimo.^&#42;2^
+
+[NOTE]
+====
+. Ou: “órfão de pai”.
+. Ou: “como penhor”.
+====
+
+[[v5-24-18]]
+
+^<<v5-24-18,18>>^ Lembre-se de que você se tornou escravo no Egito e que Jeová, seu Deus, o resgatou de lá. É por isso que lhe dou essa ordem.
+
+[[v5-24-19]]
+
+^<<v5-24-19,19>>^ “Quando você fizer a colheita do seu campo e tiver esquecido um feixe no campo, não volte para apanhá-lo. Deixe-o para o residente estrangeiro, o órfão e a viúva, para que Jeová, seu Deus, abençoe você em tudo que você fizer.
+
+[[v5-24-20]]
+
+^<<v5-24-20,20>>^ “Quando você bater os galhos da sua oliveira, não repita o processo. O que restar deve ficar para o residente estrangeiro, o órfão e a viúva.
+
+[[v5-24-21]]
+
+^<<v5-24-21,21>>^ “Quando você colher as uvas do seu vinhedo, não deve voltar para colher as sobras. Elas devem ser deixadas para o residente estrangeiro, o órfão e a viúva.
+
+[[v5-24-22]]
+
+^<<v5-24-22,22>>^ Lembre-se de que você se tornou escravo na terra do Egito. É por isso que lhe dou essa ordem.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-023.adoc#v5-23-0[&#60; Capítulo Anterior] | <<v5-24-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-025.adoc#v5-25-0[Próximo Capítulo &#62;]

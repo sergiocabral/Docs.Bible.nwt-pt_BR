@@ -1,0 +1,110 @@
+include::./index.adoc[]
+
+[[v23-6-0]]
+=== Isaías, 6
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v23-6-1]]
+
+^<<v23-6-1,1>>^ No ano em que o rei Uzias morreu, vi Jeová sentado num trono enaltecido e elevado, e as abas da sua veste enchiam o templo.
+
+[[v23-6-2]]
+
+^<<v23-6-2,2>>^ Acima dele havia serafins; cada um tinha seis asas. Cada um deles^&#42;1^ cobria o rosto com duas, cobria os pés com duas e voava com duas.
+
+[NOTE]
+====
+. Lit.: “Ele”.
+====
+
+[[v23-6-3]]
+
+^<<v23-6-3,3>>^ E clamavam uns para os outros:
+“Santo, santo, santo é Jeová dos exércitos.
+A terra inteira está cheia da sua glória.”
+
+[[v23-6-4]]
+
+^<<v23-6-4,4>>^ E as ombreiras das portas^&#42;1^ tremeram ao som dos que clamavam,^&#42;2^ e a casa encheu-se de fumaça.
+
+[NOTE]
+====
+. Ou: “os pivôs das soleiras”.
+. Lit.: “à voz daquele que clamava”.
+====
+
+[[v23-6-5]]
+
+^<<v23-6-5,5>>^ Então eu disse: “Ai de mim!
+A bem dizer já estou morto,^&#42;1^
+Pois sou um homem de lábios impuros
+E moro no meio de um povo de lábios impuros;
+Pois os meus olhos viram o próprio Rei, Jeová dos exércitos!”
+
+[NOTE]
+====
+. Lit.: “Fui silenciado”.
+====
+
+[[v23-6-6]]
+
+^<<v23-6-6,6>>^ Nisto um dos serafins voou até mim, e na sua mão havia uma brasa que ele tinha tirado do altar com uma tenaz.
+
+[[v23-6-7]]
+
+^<<v23-6-7,7>>^ Ele tocou minha boca e disse:
+“Veja! Isto tocou os seus lábios.
+Sua culpa foi removida
+E seu pecado está expiado.”
+
+[[v23-6-8]]
+
+^<<v23-6-8,8>>^ Então ouvi a voz de Jeová, dizendo: “A quem enviarei e quem irá por nós?” E eu disse: “Aqui estou! Envia-me!”
+
+[[v23-6-9]]
+
+^<<v23-6-9,9>>^ E ele respondeu: “Vá e diga a este povo:
+‘Vocês ouvirão vez após vez,
+Mas não entenderão;
+Verão vez após vez,
+Mas não obterão conhecimento.’
+
+[[v23-6-10]]
+
+^<<v23-6-10,10>>^ Torne insensível o coração deste povo,
+Tape^&#42;1^ os seus ouvidos
+E feche os seus olhos,
+Para que não vejam com os olhos
+Nem ouçam com os ouvidos,
+Para que seu coração não entenda
+E para que não deem meia-volta e sejam curados.”
+
+[NOTE]
+====
+. Lit.: “Torne pesados”.
+====
+
+[[v23-6-11]]
+
+^<<v23-6-11,11>>^ Então eu disse: “Até quando, ó Jeová?” E ele disse:
+“Até que as cidades se desmoronem em ruínas e fiquem sem nenhum habitante,
+E as casas fiquem sem moradores,
+E esta terra fique devastada e desolada;
+
+[[v23-6-12]]
+
+^<<v23-6-12,12>>^ Até que Jeová remova os homens para longe,
+E a desolação desta terra se torne muito grande.
+
+[[v23-6-13]]
+
+^<<v23-6-13,13>>^ “Mas ainda haverá nela um décimo, e será novamente queimado, como uma árvore grande e como um carvalho, dos quais, após serem cortados, resta um toco; esse toco será uma descendência^&#42;1^ santa.”
+
+[NOTE]
+====
+. Lit.: “semente”.
+====
+
+'''
+
+xref:023-isaias/023-isaias-005.adoc#v23-5-0[&#60; Capítulo Anterior] | <<v23-6-0,Topo>> | xref:023-isaias/023-isaias-007.adoc#v23-7-0[Próximo Capítulo &#62;]

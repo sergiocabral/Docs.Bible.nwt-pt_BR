@@ -1,0 +1,205 @@
+include::./index.adoc[]
+
+[[v16-10-0]]
+=== Neemias, 10
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v16-10-1]]
+
+^<<v16-10-1,1>>^ Os que confirmaram o pacto pondo o seu selo nele foram:
+Neemias, o governador,^&#42;1^ filho de Hacalias,
+E Zedequias,
+
+[NOTE]
+====
+. Ou: “Tirsata”, título persa do governador de uma província.
+====
+
+[[v16-10-2]]
+
+^<<v16-10-2,2>>^ Seraías, Azarias, Jeremias,
+
+[[v16-10-3]]
+
+^<<v16-10-3,3>>^ Pasur, Amarias, Malquias,
+
+[[v16-10-4]]
+
+^<<v16-10-4,4>>^ Hatus, Sebanias, Maluque,
+
+[[v16-10-5]]
+
+^<<v16-10-5,5>>^ Harim, Meremote, Obadias,
+
+[[v16-10-6]]
+
+^<<v16-10-6,6>>^ Daniel, Ginetom, Baruque,
+
+[[v16-10-7]]
+
+^<<v16-10-7,7>>^ Mesulão, Abias, Miamim,
+
+[[v16-10-8]]
+
+^<<v16-10-8,8>>^ Maazias, Bilgai e Semaías; esses são os sacerdotes.
+
+[[v16-10-9]]
+
+^<<v16-10-9,9>>^ E os levitas: Jesua, filho de Azanias, Binui, dos filhos de Henadade, Cadmiel
+
+[[v16-10-10]]
+
+^<<v16-10-10,10>>^ e os irmãos deles: Sebanias, Hodias, Quelita, Pelaías, Hanã,
+
+[[v16-10-11]]
+
+^<<v16-10-11,11>>^ Mica, Reobe, Hasabias,
+
+[[v16-10-12]]
+
+^<<v16-10-12,12>>^ Zacur, Serebias, Sebanias,
+
+[[v16-10-13]]
+
+^<<v16-10-13,13>>^ Hodias, Bani e Beninu.
+
+[[v16-10-14]]
+
+^<<v16-10-14,14>>^ Os cabeças do povo: Parós, Paate-Moabe, Elão, Zatu, Bani,
+
+[[v16-10-15]]
+
+^<<v16-10-15,15>>^ Buni, Azgade, Bebai,
+
+[[v16-10-16]]
+
+^<<v16-10-16,16>>^ Adonias, Bigvai, Adim,
+
+[[v16-10-17]]
+
+^<<v16-10-17,17>>^ Ater, Ezequias, Azur,
+
+[[v16-10-18]]
+
+^<<v16-10-18,18>>^ Hodias, Hasum, Bezai,
+
+[[v16-10-19]]
+
+^<<v16-10-19,19>>^ Harife, Anatote, Nebai,
+
+[[v16-10-20]]
+
+^<<v16-10-20,20>>^ Magpias, Mesulão, Hezir,
+
+[[v16-10-21]]
+
+^<<v16-10-21,21>>^ Mesezabel, Zadoque, Jadua,
+
+[[v16-10-22]]
+
+^<<v16-10-22,22>>^ Pelatias, Hanã, Anaías,
+
+[[v16-10-23]]
+
+^<<v16-10-23,23>>^ Oseias, Hananias, Hassube,
+
+[[v16-10-24]]
+
+^<<v16-10-24,24>>^ Haloés, Pilha, Sobeque,
+
+[[v16-10-25]]
+
+^<<v16-10-25,25>>^ Reum, Hasabná, Maaseias,
+
+[[v16-10-26]]
+
+^<<v16-10-26,26>>^ Aías, Hanã, Anã,
+
+[[v16-10-27]]
+
+^<<v16-10-27,27>>^ Maluque, Harim e Baaná.
+
+[[v16-10-28]]
+
+^<<v16-10-28,28>>^ O restante do povo — os sacerdotes, os levitas, os porteiros, os cantores, os servos do templo^&#42;1^ e todos os que tinham se separado dos povos das terras ao redor para seguir a Lei do verdadeiro Deus, junto com suas esposas, seus filhos e suas filhas, todos os que tinham conhecimento e entendimento^&#42;2^ —,
+
+[NOTE]
+====
+. Ou: “os netineus”. Lit.: “os que foram dados”.
+. Ou, possivelmente: “todos os que tinham idade suficiente para entender”.
+====
+
+[[v16-10-29]]
+
+^<<v16-10-29,29>>^ todos eles, se juntaram a seus irmãos, os homens de destaque, e juraram sob maldição que andariam na Lei do verdadeiro Deus, dada por meio de Moisés, o servo do verdadeiro Deus, e que obedeceriam cuidadosamente a todos os mandamentos de Jeová, nosso Senhor, suas decisões judiciais e seus decretos.
+
+[[v16-10-30]]
+
+^<<v16-10-30,30>>^ Não daremos as nossas filhas aos povos das terras ao redor nem tomaremos as suas filhas para os nossos filhos.
+
+[[v16-10-31]]
+
+^<<v16-10-31,31>>^ Se os povos das terras ao redor trouxerem suas mercadorias e todo tipo de cereais para vender no dia de sábado, não compraremos nada deles, nem nos sábados nem nos dias santos. Também abriremos mão da colheita do sétimo ano e perdoaremos as dívidas pendentes.
+
+[[v16-10-32]]
+
+^<<v16-10-32,32>>^ Além disso, cada um de nós impôs a si mesmo a obrigação de dar anualmente o terço de um siclo^&#42;1^ para o serviço da casa^&#42;2^ do nosso Deus:
+
+[NOTE]
+====
+. Um siclo equivalia a 11,4 g. Veja Ap. B14.
+. Ou: “do templo”.
+====
+
+[[v16-10-33]]
+
+^<<v16-10-33,33>>^ para os pães da proposição,^&#42;1^ para a oferta de cereais regular e para a oferta queimada regular dos sábados e das luas novas, e para as festividades determinadas, para as coisas sagradas, para as ofertas pelo pecado, que fazem expiação por Israel, e para todo o trabalho da casa do nosso Deus.
+
+[NOTE]
+====
+. Ou: “pães arrumados em pilhas”.
+====
+
+[[v16-10-34]]
+
+^<<v16-10-34,34>>^ Também lançamos sortes quanto ao suprimento de lenha que cada casa paterna dos sacerdotes, dos levitas e do povo deve trazer nas épocas determinadas, anualmente, à casa do nosso Deus para ser queimada sobre o altar de Jeová, nosso Deus, conforme está escrito na Lei.
+
+[[v16-10-35]]
+
+^<<v16-10-35,35>>^ E traremos todo ano à casa de Jeová os primeiros frutos maduros da nossa terra e os primeiros frutos maduros de todo tipo de árvore,
+
+[[v16-10-36]]
+
+^<<v16-10-36,36>>^ bem como os primogênitos dos nossos filhos e dos nossos rebanhos, conforme está escrito na Lei, e os primogênitos dos nossos bois e das nossas ovelhas. Nós os traremos à casa do nosso Deus, aos sacerdotes que servem na casa do nosso Deus.
+
+[[v16-10-37]]
+
+^<<v16-10-37,37>>^ Além disso, devemos trazer aos sacerdotes, nos depósitos^&#42;1^ da casa do nosso Deus, as primícias da nossa farinha grossa, as nossas contribuições, os frutos de todo tipo de árvore, vinho novo e azeite, junto com o décimo^&#42;2^ da produção da nossa terra para os levitas, pois são os levitas que recolhem em todas as nossas cidades agrícolas as décimas partes do que plantamos.
+
+[NOTE]
+====
+. Ou: “refeitórios”.
+. Ou: “os dízimos”.
+====
+
+[[v16-10-38]]
+
+^<<v16-10-38,38>>^ E o sacerdote, filho de Arão, deve estar com os levitas quando os levitas recolherem as décimas partes; e, dessas décimas partes, os levitas devem oferecer um décimo à casa do nosso Deus, às salas^&#42;1^ do depósito.
+
+[NOTE]
+====
+. Ou: “aos refeitórios”.
+====
+
+[[v16-10-39]]
+
+^<<v16-10-39,39>>^ Pois é aos depósitos^&#42;1^ que os israelitas e os filhos dos levitas devem levar a contribuição dos cereais, do vinho novo e do azeite, e é ali que estão os utensílios do santuário, bem como os sacerdotes em serviço, os porteiros e os cantores. Não negligenciaremos a casa do nosso Deus.
+
+[NOTE]
+====
+. Ou: “refeitórios”.
+====
+
+'''
+
+xref:016-neemias/016-neemias-009.adoc#v16-9-0[&#60; Capítulo Anterior] | <<v16-10-0,Topo>> | xref:016-neemias/016-neemias-011.adoc#v16-11-0[Próximo Capítulo &#62;]

@@ -1,0 +1,74 @@
+include::./index.adoc[]
+
+[[v66-4-0]]
+=== Apocalipse, 4
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v66-4-1]]
+
+^<<v66-4-1,1>>^ Depois disso eu vi uma porta aberta no céu, e ouvi a primeira voz, como o som de uma trombeta, falando comigo; ela disse: “Suba para cá, e eu lhe mostrarei as coisas que têm de ocorrer.”
+
+[[v66-4-2]]
+
+^<<v66-4-2,2>>^ Depois disso, imediatamente vim a estar sob o poder do espírito e vi um trono no céu, e alguém estava sentado no trono.
+
+[[v66-4-3]]
+
+^<<v66-4-3,3>>^ Aquele que estava sentado tinha a aparência de pedras de jaspe e de sárdio,^&#42;1^ e ao redor do trono havia um arco-íris de aparência semelhante à esmeralda.
+
+[NOTE]
+====
+. Uma pedra preciosa de cor vermelha.
+====
+
+[[v66-4-4]]
+
+^<<v66-4-4,4>>^ Ao redor do trono havia 24 tronos, e nesses tronos eu vi 24 anciãos sentados, usando vestes brancas e, na cabeça, coroas de ouro.
+
+[[v66-4-5]]
+
+^<<v66-4-5,5>>^ Do trono vinham relâmpagos, vozes e trovões. Havia sete lâmpadas de fogo acesas diante do trono — elas representam os sete espíritos de Deus.
+
+[[v66-4-6]]
+
+^<<v66-4-6,6>>^ Diante do trono havia algo semelhante a um mar vítreo, como cristal.
+No meio do trono^&#42;1^ e em volta do trono havia quatro criaturas viventes, cheias de olhos na frente e atrás.
+
+[NOTE]
+====
+. Ou: “No centro, junto ao trono”.
+====
+
+[[v66-4-7]]
+
+^<<v66-4-7,7>>^ A primeira criatura vivente era semelhante a um leão, a segunda criatura vivente era semelhante a um novilho, a terceira criatura vivente tinha rosto semelhante ao de homem, e a quarta criatura vivente era semelhante a uma águia voando.
+
+[[v66-4-8]]
+
+^<<v66-4-8,8>>^ Cada uma das quatro criaturas viventes tinha seis asas, e ao redor e por baixo estavam cheias de olhos. E continuamente, dia e noite, dizem: “Santo, santo, santo é Jeová^&#42;1^ Deus, o Todo-Poderoso, que era, que é e que vem.”
+
+[NOTE]
+====
+. Veja Ap. A5.
+====
+
+[[v66-4-9]]
+
+^<<v66-4-9,9>>^ Sempre que as criaturas viventes dão glória, honra e agradecimentos Àquele que está sentado no trono, Aquele que vive para todo o sempre,
+
+[[v66-4-10]]
+
+^<<v66-4-10,10>>^ os 24 anciãos se prostram diante Daquele que está sentado no trono, adoram Aquele que vive para todo o sempre e lançam suas coroas diante do trono, dizendo:
+
+[[v66-4-11]]
+
+^<<v66-4-11,11>>^ “Digno és, Jeová,^&#42;1^ nosso Deus, de receber a glória, a honra e o poder, porque criaste todas as coisas, e por tua vontade elas vieram à existência e foram criadas.”
+
+[NOTE]
+====
+. Veja Ap. A5.
+====
+
+'''
+
+xref:066-apocalipse/066-apocalipse-003.adoc#v66-3-0[&#60; Capítulo Anterior] | <<v66-4-0,Topo>> | xref:066-apocalipse/066-apocalipse-005.adoc#v66-5-0[Próximo Capítulo &#62;]

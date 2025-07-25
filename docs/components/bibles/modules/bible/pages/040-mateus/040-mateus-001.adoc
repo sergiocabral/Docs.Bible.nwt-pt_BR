@@ -1,0 +1,165 @@
+include::./index.adoc[]
+
+[[v40-1-0]]
+=== Segundo Mateus, 1
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v40-1-1]]
+
+^<<v40-1-1,1>>^ O livro da história^&#42;1^ de Jesus Cristo,^&#42;2^ filho de Davi, filho de Abraão:
+
+[NOTE]
+====
+. Ou: “genealogia”.
+. Ou: “o Messias; o Ungido”.
+====
+
+[[v40-1-2]]
+
+^<<v40-1-2,2>>^ Abraão tornou-se pai de Isaque;
+Isaque tornou-se pai de Jacó;
+Jacó tornou-se pai de Judá e de seus irmãos;
+
+[[v40-1-3]]
+
+^<<v40-1-3,3>>^ Judá tornou-se pai de Peres e de Zerá por meio de Tamar;
+Peres tornou-se pai de Esrom;
+Esrom tornou-se pai de Rão;
+
+[[v40-1-4]]
+
+^<<v40-1-4,4>>^ Rão tornou-se pai de Aminadabe;
+Aminadabe tornou-se pai de Nasom;
+Nasom tornou-se pai de Salmom;
+
+[[v40-1-5]]
+
+^<<v40-1-5,5>>^ Salmom tornou-se pai de Boaz por meio de Raabe;
+Boaz tornou-se pai de Obede por meio de Rute;
+Obede tornou-se pai de Jessé;
+
+[[v40-1-6]]
+
+^<<v40-1-6,6>>^ Jessé tornou-se pai de Davi, o rei.
+Davi tornou-se pai de Salomão por meio da esposa de Urias;
+
+[[v40-1-7]]
+
+^<<v40-1-7,7>>^ Salomão tornou-se pai de Roboão;
+Roboão tornou-se pai de Abias;
+Abias tornou-se pai de Asa;
+
+[[v40-1-8]]
+
+^<<v40-1-8,8>>^ Asa tornou-se pai de Jeosafá;
+Jeosafá tornou-se pai de Jeorão;
+Jeorão tornou-se pai de Uzias;
+
+[[v40-1-9]]
+
+^<<v40-1-9,9>>^ Uzias tornou-se pai de Jotão;
+Jotão tornou-se pai de Acaz;
+Acaz tornou-se pai de Ezequias;
+
+[[v40-1-10]]
+
+^<<v40-1-10,10>>^ Ezequias tornou-se pai de Manassés;
+Manassés tornou-se pai de Amom;
+Amom tornou-se pai de Josias;
+
+[[v40-1-11]]
+
+^<<v40-1-11,11>>^ Josias tornou-se pai de Jeconias e de seus irmãos, na época da deportação para Babilônia.
+
+[[v40-1-12]]
+
+^<<v40-1-12,12>>^ Depois da deportação para Babilônia, Jeconias tornou-se pai de Sealtiel;
+Sealtiel tornou-se pai de Zorobabel;
+
+[[v40-1-13]]
+
+^<<v40-1-13,13>>^ Zorobabel tornou-se pai de Abiúde;
+Abiúde tornou-se pai de Eliaquim;
+Eliaquim tornou-se pai de Azor;
+
+[[v40-1-14]]
+
+^<<v40-1-14,14>>^ Azor tornou-se pai de Sadoque;
+Sadoque tornou-se pai de Aquim;
+Aquim tornou-se pai de Eliúde;
+
+[[v40-1-15]]
+
+^<<v40-1-15,15>>^ Eliúde tornou-se pai de Eleazar;
+Eleazar tornou-se pai de Matã;
+Matã tornou-se pai de Jacó;
+
+[[v40-1-16]]
+
+^<<v40-1-16,16>>^ Jacó tornou-se pai de José, marido de Maria, da qual nasceu Jesus, que é chamado Cristo.
+
+[[v40-1-17]]
+
+^<<v40-1-17,17>>^ Assim, todas as gerações, desde Abraão até Davi, foram 14 gerações; desde Davi até a deportação para Babilônia, 14 gerações; desde a deportação para Babilônia até o Cristo, 14 gerações.
+
+[[v40-1-18]]
+
+^<<v40-1-18,18>>^ Foi assim que o nascimento de Jesus Cristo aconteceu: durante o tempo em que sua mãe, Maria, estava prometida em casamento a José, ela ficou grávida por espírito santo,^&#42;1^ antes de se unirem.
+
+[NOTE]
+====
+. Ou: “força ativa”.
+====
+
+[[v40-1-19]]
+
+^<<v40-1-19,19>>^ No entanto, visto que José, seu marido, era justo e não queria expô-la publicamente, ele pretendia se divorciar dela em segredo.
+
+[[v40-1-20]]
+
+^<<v40-1-20,20>>^ Mas, depois de ter cogitado essas coisas, o anjo de Jeová^&#42;1^ apareceu-lhe num sonho, dizendo: “José, filho de Davi, não tenha medo de levar para casa Maria, sua esposa, pois o que foi concebido^&#42;2^ nela é por espírito santo.
+
+[NOTE]
+====
+. Esta é a primeira das 237 ocorrências do nome divino, Jeová, nas Escrituras Gregas Cristãs, no texto principal desta versão. Veja Ap. A5.
+. Ou: “gerado”.
+====
+
+[[v40-1-21]]
+
+^<<v40-1-21,21>>^ Ela dará à luz um filho, e você deve lhe dar o nome de Jesus,^&#42;1^ pois ele salvará seu povo dos pecados deles.”
+
+[NOTE]
+====
+. Corresponde ao nome hebraico Jesua ou Josué, que significa “Jeová é salvação”.
+====
+
+[[v40-1-22]]
+
+^<<v40-1-22,22>>^ Tudo isso aconteceu realmente para cumprir o que Jeová^&#42;1^ tinha dito por meio do seu profeta:
+
+[NOTE]
+====
+. Veja Ap. A5.
+====
+
+[[v40-1-23]]
+
+^<<v40-1-23,23>>^ “Vejam! A virgem ficará grávida e dará à luz um filho, e lhe darão o nome de Emanuel”, que traduzido quer dizer “Deus está conosco”.
+
+[[v40-1-24]]
+
+^<<v40-1-24,24>>^ José acordou então do sono e fez conforme o anjo de Jeová^&#42;1^ lhe havia orientado, e levou sua esposa para casa.
+
+[NOTE]
+====
+. Veja Ap. A5.
+====
+
+[[v40-1-25]]
+
+^<<v40-1-25,25>>^ Mas não teve relações com ela até ela dar à luz um filho, e ele lhe deu o nome de Jesus.
+
+'''
+
+xref:039-malaquias/039-malaquias-004.adoc#v39-4-0[&#60; Capítulo Anterior] | <<v40-1-0,Topo>> | xref:040-mateus/040-mateus-002.adoc#v40-2-0[Próximo Capítulo &#62;]

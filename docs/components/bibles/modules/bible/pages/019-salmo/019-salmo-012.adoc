@@ -1,0 +1,70 @@
+include::./index.adoc[]
+
+[[v19-12-0]]
+=== Salmos, 12
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Ao regente; afinado em seminite.^&#42;1^ Salmo de Davi._
+
+[[v19-12-1]]
+
+^<<v19-12-1,1>>^ Salva-me, ó Jeová, pois o leal não existe mais;
+Desapareceram os fiéis dentre os homens.
+
+[[v19-12-2]]
+
+^<<v19-12-2,2>>^ Dizem mentiras uns aos outros,
+Falam com lábios bajuladores^&#42;1^ e com coração hipócrita.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “Falam com lábio macio”.
+. Lit.: “com um coração e um coração”.
+====
+
+[[v19-12-3]]
+
+^<<v19-12-3,3>>^ Jeová eliminará todos os lábios que bajulam
+E a língua que se gaba,
+
+[[v19-12-4]]
+
+^<<v19-12-4,4>>^ Aqueles que dizem: “Venceremos graças à nossa língua.
+Usamos os nossos lábios como bem entendemos;
+Quem é senhor sobre nós?”
+
+[[v19-12-5]]
+
+^<<v19-12-5,5>>^ “Por causa da opressão sobre os necessitados,
+Por causa do gemido dos pobres,
+Eu me levantarei e agirei”, diz Jeová.
+“Eu os salvarei daqueles que os tratam com desprezo.”^&#42;1^
+
+[NOTE]
+====
+. Ou: “que bufam contra eles”.
+====
+
+[[v19-12-6]]
+
+^<<v19-12-6,6>>^ As declarações de Jeová são puras;
+São como prata refinada num forno de barro,^&#42;1^ purificada sete vezes.
+
+[NOTE]
+====
+. Ou, possivelmente: “num forno de fundição assentado no chão”.
+====
+
+[[v19-12-7]]
+
+^<<v19-12-7,7>>^ Ó Jeová, tu os guardarás;
+Protegerás cada um deles contra esta geração para sempre.
+
+[[v19-12-8]]
+
+^<<v19-12-8,8>>^ Os maus andam livremente por toda a parte,
+Porque os filhos dos homens promovem a depravação.
+
+'''
+
+xref:019-salmo/019-salmo-011.adoc#v19-11-0[&#60; Capítulo Anterior] | <<v19-12-0,Topo>> | xref:019-salmo/019-salmo-013.adoc#v19-13-0[Próximo Capítulo &#62;]

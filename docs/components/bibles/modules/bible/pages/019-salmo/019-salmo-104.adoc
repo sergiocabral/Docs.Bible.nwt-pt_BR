@@ -1,0 +1,247 @@
+include::./index.adoc[]
+
+[[v19-104-0]]
+=== Salmos, 104
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v19-104-1]]
+
+^<<v19-104-1,1>>^ Que eu^&#42;1^ louve a Jeová.
+Ó Jeová, meu Deus, tu és muito grande.
+Estás vestido de majestade^&#42;2^ e esplendor.
+
+[NOTE]
+====
+. Ou: “Que a minha alma”.
+. Ou: “dignidade”.
+====
+
+[[v19-104-2]]
+
+^<<v19-104-2,2>>^ Estás envolto num manto de luz;
+Estendes os céus como o pano de uma tenda.
+
+[[v19-104-3]]
+
+^<<v19-104-3,3>>^ Ele põe nas águas de cima^&#42;1^ as vigas dos seus aposentos superiores,
+Fazendo das nuvens o seu carro,
+Movendo-se sobre as asas do vento.
+
+[NOTE]
+====
+. Lit.: “nas águas”.
+====
+
+[[v19-104-4]]
+
+^<<v19-104-4,4>>^ Ele faz dos seus anjos espíritos;
+Dos seus servos,^&#42;1^ um fogo consumidor.
+
+[NOTE]
+====
+. Ou: “ministros”.
+====
+
+[[v19-104-5]]
+
+^<<v19-104-5,5>>^ Estabeleceu a terra em seus alicerces;
+Ela nunca, jamais, será tirada do seu lugar.^&#42;1^
+
+[NOTE]
+====
+. Ou: “será abalada”.
+====
+
+[[v19-104-6]]
+
+^<<v19-104-6,6>>^ Cobriste-a de águas profundas, como que com uma roupa.
+As águas estavam acima das montanhas.
+
+[[v19-104-7]]
+
+^<<v19-104-7,7>>^ Diante da tua censura, as águas fugiram;
+Diante do som do teu trovão, correram em pânico
+
+[[v19-104-8]]
+
+^<<v19-104-8,8>>^ — Montanhas subiram e vales desceram —
+Para o lugar que estabeleceste para elas.
+
+[[v19-104-9]]
+
+^<<v19-104-9,9>>^ Fixaste um limite que elas não poderiam ultrapassar,
+Para que nunca mais voltassem a cobrir a terra.
+
+[[v19-104-10]]
+
+^<<v19-104-10,10>>^ Ele faz surgir nascentes nos vales;^&#42;1^
+Suas águas correm entre os montes.
+
+[NOTE]
+====
+. Ou: “uádis”.
+====
+
+[[v19-104-11]]
+
+^<<v19-104-11,11>>^ Delas bebem todos os animais selvagens;
+Nelas os jumentos selvagens saciam a sede.
+
+[[v19-104-12]]
+
+^<<v19-104-12,12>>^ Nas árvores ao longo das suas margens pousam as aves do céu;
+Cantam no meio da densa folhagem.
+
+[[v19-104-13]]
+
+^<<v19-104-13,13>>^ Ele rega os montes desde os Seus aposentos superiores.
+A terra se sacia com o fruto das tuas obras.
+
+[[v19-104-14]]
+
+^<<v19-104-14,14>>^ Ele faz crescer relva para o gado
+E plantas para o uso da humanidade,
+Para tirar da terra alimento:
+
+[[v19-104-15]]
+
+^<<v19-104-15,15>>^ O vinho, que alegra o coração do homem;
+O azeite, que faz o rosto brilhar;
+E o pão, que revigora o coração do homem.
+
+[[v19-104-16]]
+
+^<<v19-104-16,16>>^ As árvores de Jeová estão saciadas,
+Os cedros do Líbano que ele plantou.
+
+[[v19-104-17]]
+
+^<<v19-104-17,17>>^ Neles os pássaros fazem ninhos.
+A casa da cegonha fica nos juníperos.
+
+[[v19-104-18]]
+
+^<<v19-104-18,18>>^ Os altos montes são das cabras-montesas;
+Os rochedos são um refúgio para os procávias.^&#42;1^
+
+[NOTE]
+====
+. Animal semelhante ao coelho e que vive em lugares rochosos. Também é chamado de hírace (hírax) ou daimão.
+====
+
+[[v19-104-19]]
+
+^<<v19-104-19,19>>^ Ele fez a lua para marcar as épocas;
+O sol sabe muito bem quando deve se pôr.
+
+[[v19-104-20]]
+
+^<<v19-104-20,20>>^ Tu trazes a escuridão, e cai a noite,
+Quando saem todos os animais da floresta.
+
+[[v19-104-21]]
+
+^<<v19-104-21,21>>^ Os leões novos^&#42;1^ rugem em busca da presa
+E pedem a Deus o seu alimento.
+
+[NOTE]
+====
+. Ou: “leões novos jubados”.
+====
+
+[[v19-104-22]]
+
+^<<v19-104-22,22>>^ Quando o sol nasce,
+Eles se recolhem e se deitam nas suas tocas.
+
+[[v19-104-23]]
+
+^<<v19-104-23,23>>^ O homem sai para sua atividade
+E trabalha até anoitecer.
+
+[[v19-104-24]]
+
+^<<v19-104-24,24>>^ Quantas são as tuas obras, ó Jeová!
+Fizeste todas elas com sabedoria.
+A terra está cheia dos teus trabalhos.
+
+[[v19-104-25]]
+
+^<<v19-104-25,25>>^ Lá está o mar, tão extenso e vasto,
+Fervilhando de inúmeros seres vivos, pequenos e grandes.
+
+[[v19-104-26]]
+
+^<<v19-104-26,26>>^ Nele passam os navios
+E também o Leviatã,^&#42;1^ que formaste para ali brincar.
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v19-104-27]]
+
+^<<v19-104-27,27>>^ Todos eles esperam
+Que lhes dês o alimento no tempo devido.
+
+[[v19-104-28]]
+
+^<<v19-104-28,28>>^ Eles recolhem o que tu lhes dás.
+Quando abres a mão, fartam-se de coisas boas.
+
+[[v19-104-29]]
+
+^<<v19-104-29,29>>^ Quando escondes a tua face, ficam agitados.
+Se lhes tiras o espírito, morrem e voltam ao pó.
+
+[[v19-104-30]]
+
+^<<v19-104-30,30>>^ Se envias o teu espírito, são criados,
+E renovas a face da terra.
+
+[[v19-104-31]]
+
+^<<v19-104-31,31>>^ A glória de Jeová durará para sempre.
+Jeová se alegrará com as suas obras.
+
+[[v19-104-32]]
+
+^<<v19-104-32,32>>^ Ele olha para a terra, e ela treme;
+Toca nos montes, e eles fumegam.
+
+[[v19-104-33]]
+
+^<<v19-104-33,33>>^ Vou cantar a Jeová por toda a minha vida;
+Vou cantar louvores^&#42;1^ ao meu Deus enquanto eu existir.
+
+[NOTE]
+====
+. Ou: “fazer música”.
+====
+
+[[v19-104-34]]
+
+^<<v19-104-34,34>>^ Que os meus pensamentos sejam agradáveis a ele.^&#42;1^
+Eu me alegrarei em Jeová.
+
+[NOTE]
+====
+. Ou, possivelmente: “Que a minha meditação sobre ele seja agradável.”
+====
+
+[[v19-104-35]]
+
+^<<v19-104-35,35>>^ Os pecadores desaparecerão da terra,
+E os maus deixarão de existir.
+Que eu^&#42;1^ louve a Jeová. Louvem a Jah!^&#42;2^
+
+[NOTE]
+====
+. Ou: “minha alma”.
+. Ou: “Aleluia!” “Jah” é uma forma reduzida do nome Jeová.
+====
+
+'''
+
+xref:019-salmo/019-salmo-103.adoc#v19-103-0[&#60; Capítulo Anterior] | <<v19-104-0,Topo>> | xref:019-salmo/019-salmo-105.adoc#v19-105-0[Próximo Capítulo &#62;]

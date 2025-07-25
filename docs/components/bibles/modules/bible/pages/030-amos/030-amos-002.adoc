@@ -1,0 +1,145 @@
+include::./index.adoc[]
+
+[[v30-2-0]]
+=== Amós, 2
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v30-2-1]]
+
+^<<v30-2-1,1>>^ “Assim diz Jeová:
+‘“Por causa de três atos rebeldes^&#42;1^ de Moabe, e por causa de quatro, não voltarei atrás,
+Porque ele queimou os ossos do rei de Edom para fazer cal.
+
+[NOTE]
+====
+. Ou: “crimes”.
+====
+
+[[v30-2-2]]
+
+^<<v30-2-2,2>>^ Portanto, enviarei fogo sobre Moabe,
+E o fogo consumirá as torres fortificadas de Queriote;
+Moabe morrerá em meio a um tumulto,
+Com um grito de guerra, com o som da buzina.
+
+[[v30-2-3]]
+
+^<<v30-2-3,3>>^ Removerei do meio dela o governante^&#42;1^
+E matarei a ele e a todos os príncipes dela”, diz Jeová.’
+
+[NOTE]
+====
+. Lit.: “juiz”.
+====
+
+[[v30-2-4]]
+
+^<<v30-2-4,4>>^ Assim diz Jeová:
+‘Por causa de três atos rebeldes de Judá, e por causa de quatro, não voltarei atrás,
+Porque eles rejeitaram a lei^&#42;1^ de Jeová
+E não guardaram os decretos dele;
+Mas foram desviados pelas mesmas mentiras que seus antepassados seguiram.
+
+[NOTE]
+====
+. Ou: “instrução”.
+====
+
+[[v30-2-5]]
+
+^<<v30-2-5,5>>^ Portanto, enviarei fogo sobre Judá,
+E o fogo consumirá as torres fortificadas de Jerusalém.’
+
+[[v30-2-6]]
+
+^<<v30-2-6,6>>^ Assim diz Jeová:
+‘Por causa de três atos rebeldes de Israel, e por causa de quatro, não voltarei atrás,
+Porque vendem o justo por prata,
+E o pobre por um par de sandálias.
+
+[[v30-2-7]]
+
+^<<v30-2-7,7>>^ Eles pisoteiam a cabeça dos humildes no pó da terra
+E bloqueiam o caminho dos mansos.
+Um homem e seu pai têm relações com a mesma jovem,
+Profanando meu santo nome.
+
+[[v30-2-8]]
+
+^<<v30-2-8,8>>^ Junto a todos os altares, estiram-se sobre mantos que tomaram como garantia de empréstimo;^&#42;1^
+E o vinho que bebem na casa^&#42;2^ dos seus deuses vem das multas que aplicaram às pessoas.’
+
+[NOTE]
+====
+. Ou: “como penhor”.
+. Ou: “no templo”.
+====
+
+[[v30-2-9]]
+
+^<<v30-2-9,9>>^ ‘Mas fui eu que aniquilei diante deles o amorreu,
+Que era tão alto como os cedros e tão forte como os carvalhos;
+Eu destruí seus frutos em cima e suas raízes embaixo.
+
+[[v30-2-10]]
+
+^<<v30-2-10,10>>^ Eu tirei vocês da terra do Egito
+E os fiz andar através do deserto^&#42;1^ por quarenta anos,
+Para que tomassem posse da terra do amorreu.
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v30-2-11]]
+
+^<<v30-2-11,11>>^ Escolhi alguns dos seus filhos como profetas
+E alguns dos seus jovens como nazireus.
+Não é verdade, ó povo de Israel?’ diz Jeová.
+
+[[v30-2-12]]
+
+^<<v30-2-12,12>>^ ‘Mas vocês deram vinho aos nazireus,
+E ordenaram aos profetas: “Não profetizem.”
+
+[[v30-2-13]]
+
+^<<v30-2-13,13>>^ Portanto, eu esmagarei vocês onde vocês estão,
+Assim como uma carroça carregada de feixes de cereal esmaga o que está embaixo dela.
+
+[[v30-2-14]]
+
+^<<v30-2-14,14>>^ O ligeiro não terá para onde fugir,
+O forte não manterá a sua força,
+E nenhum guerreiro escapará com vida.^&#42;1^
+
+[NOTE]
+====
+. Ou: “sua alma”.
+====
+
+[[v30-2-15]]
+
+^<<v30-2-15,15>>^ O arqueiro não manterá a sua posição,
+O que tem pés ligeiros não escapará,
+E o cavaleiro não escapará com vida.^&#42;1^
+
+[NOTE]
+====
+. Ou: “sua alma”.
+====
+
+[[v30-2-16]]
+
+^<<v30-2-16,16>>^ Até mesmo o guerreiro mais corajoso^&#42;1^
+Fugirá nu naquele dia’, diz Jeová.”
+
+[NOTE]
+====
+. Ou: “o guerreiro forte de coração”.
+====
+
+'''
+
+xref:030-amos/030-amos-001.adoc#v30-1-0[&#60; Capítulo Anterior] | <<v30-2-0,Topo>> | xref:030-amos/030-amos-003.adoc#v30-3-0[Próximo Capítulo &#62;]

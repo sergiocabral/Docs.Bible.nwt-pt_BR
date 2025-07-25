@@ -1,0 +1,199 @@
+include::./index.adoc[]
+
+[[v6-21-0]]
+=== Josué, 21
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v6-21-1]]
+
+^<<v6-21-1,1>>^ Então os cabeças das casas paternas dos levitas se aproximaram de Eleazar, o sacerdote, de Josué, filho de Num, e dos cabeças das casas paternas das tribos de Israel,
+
+[[v6-21-2]]
+
+^<<v6-21-2,2>>^ e lhes disseram em Silo, na terra de Canaã: “Jeová, por meio de Moisés, ordenou que nos fossem dadas cidades para morar, junto com suas pastagens para os nossos rebanhos.”
+
+[[v6-21-3]]
+
+^<<v6-21-3,3>>^ Portanto, por ordem de Jeová, os israelitas tiraram da sua própria herança algumas cidades e suas pastagens e as deram aos levitas.
+
+[[v6-21-4]]
+
+^<<v6-21-4,4>>^ Saiu a sorte para as famílias dos coatitas; os levitas que eram descendentes de Arão, o sacerdote, receberam por sortes 13 cidades das tribos de Judá, de Simeão e de Benjamim.
+
+[[v6-21-5]]
+
+^<<v6-21-5,5>>^ E o restante dos coatitas recebeu^&#42;1^ dez cidades das famílias da tribo de Efraim, da tribo de Dã, e da meia tribo de Manassés.
+
+[NOTE]
+====
+. Ou: “recebeu por sortes”.
+====
+
+[[v6-21-6]]
+
+^<<v6-21-6,6>>^ E os gersonitas receberam 13 cidades das famílias da tribo de Issacar, da tribo de Aser, da tribo de Naftali, e da meia tribo de Manassés em Basã.
+
+[[v6-21-7]]
+
+^<<v6-21-7,7>>^ Os meraritas, segundo as suas famílias, receberam 12 cidades das tribos de Rubem, de Gade e de Zebulão.
+
+[[v6-21-8]]
+
+^<<v6-21-8,8>>^ Assim, os israelitas deram aos levitas, por sortes, essas cidades e suas pastagens, assim como Jeová tinha ordenado por meio de Moisés.
+
+[[v6-21-9]]
+
+^<<v6-21-9,9>>^ Da tribo de Judá e da tribo de Simeão, eles deram as seguintes cidades aqui mencionadas por nome;
+
+[[v6-21-10]]
+
+^<<v6-21-10,10>>^ elas foram dadas aos filhos de Arão, que pertenciam às famílias dos coatitas, dos levitas, porque a primeira sorte saiu para eles.
+
+[[v6-21-11]]
+
+^<<v6-21-11,11>>^ Deram-lhes Quiriate-Arba, isto é, Hebrom, na região montanhosa de Judá, e também as pastagens ao redor dela. (Arba era o pai de Anaque.)
+
+[[v6-21-12]]
+
+^<<v6-21-12,12>>^ Mas os campos e os povoados da cidade foram dados a Calebe, filho de Jefuné, como sua propriedade.
+
+[[v6-21-13]]
+
+^<<v6-21-13,13>>^ E aos filhos de Arão, o sacerdote, deram a cidade de refúgio para o homicida, isto é, Hebrom e suas pastagens, também Libna e suas pastagens,
+
+[[v6-21-14]]
+
+^<<v6-21-14,14>>^ Jatir e suas pastagens, Estemoa e suas pastagens,
+
+[[v6-21-15]]
+
+^<<v6-21-15,15>>^ Holom e suas pastagens, Debir e suas pastagens,
+
+[[v6-21-16]]
+
+^<<v6-21-16,16>>^ Aim e suas pastagens, Jutá e suas pastagens, e Bete-Semes e suas pastagens — nove cidades dessas duas tribos.
+
+[[v6-21-17]]
+
+^<<v6-21-17,17>>^ E da tribo de Benjamim: Gibeão e suas pastagens, Geba e suas pastagens,
+
+[[v6-21-18]]
+
+^<<v6-21-18,18>>^ Anatote e suas pastagens, e Almom e suas pastagens — quatro cidades.
+
+[[v6-21-19]]
+
+^<<v6-21-19,19>>^ Ao todo, as cidades dadas aos descendentes de Arão, os sacerdotes, foram 13 cidades e suas pastagens.
+
+[[v6-21-20]]
+
+^<<v6-21-20,20>>^ E o restante das famílias dos coatitas entre os levitas recebeu por sortes cidades da tribo de Efraim.
+
+[[v6-21-21]]
+
+^<<v6-21-21,21>>^ Eles receberam a cidade de refúgio para o homicida, isto é, Siquém e suas pastagens, na região montanhosa de Efraim; também Gezer e suas pastagens,
+
+[[v6-21-22]]
+
+^<<v6-21-22,22>>^ Quibzaim e suas pastagens, e Bete-Horom e suas pastagens — quatro cidades.
+
+[[v6-21-23]]
+
+^<<v6-21-23,23>>^ E da tribo de Dã: Elteque e suas pastagens, Gibetom e suas pastagens,
+
+[[v6-21-24]]
+
+^<<v6-21-24,24>>^ Aijalom e suas pastagens, e Gate-Rimom e suas pastagens — quatro cidades.
+
+[[v6-21-25]]
+
+^<<v6-21-25,25>>^ E da meia tribo de Manassés: Taanaque e suas pastagens, e Gate-Rimom e suas pastagens — duas cidades.
+
+[[v6-21-26]]
+
+^<<v6-21-26,26>>^ Ao todo, o restante das famílias dos coatitas recebeu dez cidades junto com as suas pastagens.
+
+[[v6-21-27]]
+
+^<<v6-21-27,27>>^ E os gersonitas, das famílias dos levitas, receberam da meia tribo de Manassés a cidade de refúgio para o homicida, isto é, Golã, em Basã, e suas pastagens; receberam também Beesterá e suas pastagens — duas cidades.
+
+[[v6-21-28]]
+
+^<<v6-21-28,28>>^ E da tribo de Issacar: Quisiom e suas pastagens, Daberate e suas pastagens,
+
+[[v6-21-29]]
+
+^<<v6-21-29,29>>^ Jarmute e suas pastagens, e En-Ganim e suas pastagens — quatro cidades.
+
+[[v6-21-30]]
+
+^<<v6-21-30,30>>^ E da tribo de Aser: Misal e suas pastagens, Abdom e suas pastagens,
+
+[[v6-21-31]]
+
+^<<v6-21-31,31>>^ Helcate e suas pastagens, e Reobe e suas pastagens — quatro cidades.
+
+[[v6-21-32]]
+
+^<<v6-21-32,32>>^ E da tribo de Naftali: a cidade de refúgio para o homicida, isto é, Quedes, na Galileia, e suas pastagens; também Hamote-Dor e suas pastagens, e Cartã e suas pastagens — três cidades.
+
+[[v6-21-33]]
+
+^<<v6-21-33,33>>^ Ao todo, os gersonitas receberam, segundo as suas famílias, 13 cidades e suas pastagens.
+
+[[v6-21-34]]
+
+^<<v6-21-34,34>>^ E as famílias dos meraritas, o restante dos levitas, receberam da tribo de Zebulão: Jocneão e suas pastagens, Carta e suas pastagens,
+
+[[v6-21-35]]
+
+^<<v6-21-35,35>>^ Dimna e suas pastagens, e Naalal e suas pastagens — quatro cidades.
+
+[[v6-21-36]]
+
+^<<v6-21-36,36>>^ E da tribo de Rubem: Bezer e suas pastagens, Jaaz e suas pastagens,
+
+[[v6-21-37]]
+
+^<<v6-21-37,37>>^ Quedemote e suas pastagens, e Mefaate e suas pastagens — quatro cidades.
+
+[[v6-21-38]]
+
+^<<v6-21-38,38>>^ E da tribo de Gade: a cidade de refúgio para o homicida, isto é, Ramote, em Gileade, e suas pastagens; também Maanaim e suas pastagens,
+
+[[v6-21-39]]
+
+^<<v6-21-39,39>>^ Hesbom e suas pastagens, e Jazer e suas pastagens — quatro cidades ao todo.
+
+[[v6-21-40]]
+
+^<<v6-21-40,40>>^ Ao todo, os meraritas, isto é, o restante das famílias dos levitas, receberam 12 cidades, segundo as suas famílias.
+
+[[v6-21-41]]
+
+^<<v6-21-41,41>>^ Dentro da propriedade dos israelitas, os levitas receberam ao todo 48 cidades junto com as suas pastagens.
+
+[[v6-21-42]]
+
+^<<v6-21-42,42>>^ Cada uma dessas cidades tinha pastagens ao redor — todas essas cidades eram assim.
+
+[[v6-21-43]]
+
+^<<v6-21-43,43>>^ Dessa forma, Jeová deu a Israel toda a terra que havia jurado dar aos seus antepassados, e eles tomaram posse dela e se estabeleceram nela.
+
+[[v6-21-44]]
+
+^<<v6-21-44,44>>^ Além disso, Jeová lhes deu descanso de todos os lados, assim como havia jurado aos seus antepassados, e nem mesmo um de todos os seus inimigos pôde se manter firme diante deles. Jeová entregou todos os seus inimigos nas suas mãos.
+
+[[v6-21-45]]
+
+^<<v6-21-45,45>>^ De todas as boas promessas que Jeová havia feito à casa de Israel, nem uma única promessa^&#42;1^ falhou; todas elas se cumpriram.
+
+[NOTE]
+====
+. Ou: “palavra”.
+====
+
+'''
+
+xref:006-josue/006-josue-020.adoc#v6-20-0[&#60; Capítulo Anterior] | <<v6-21-0,Topo>> | xref:006-josue/006-josue-022.adoc#v6-22-0[Próximo Capítulo &#62;]

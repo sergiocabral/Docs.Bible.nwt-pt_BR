@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v2-17-0]]
+=== Êxodo, 17
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v2-17-1]]
+
+^<<v2-17-1,1>>^ Toda a assembleia de Israel partiu do deserto de Sim, fazendo o percurso por etapas, segundo a ordem de Jeová, e acamparam em Refidim. Mas ali não havia água para o povo beber.
+
+[[v2-17-2]]
+
+^<<v2-17-2,2>>^ Então o povo começou a discutir com Moisés, dizendo: “Dê-nos água para beber.” Mas Moisés lhes disse: “Por que vocês estão discutindo comigo? Por que persistem em pôr Jeová à prova?”
+
+[[v2-17-3]]
+
+^<<v2-17-3,3>>^ Mas o povo estava com muita sede ali, querendo água; e eles se queixavam contra Moisés, dizendo: “Por que você nos tirou do Egito para matar de sede tanto a nós como aos nossos filhos e aos nossos rebanhos?”
+
+[[v2-17-4]]
+
+^<<v2-17-4,4>>^ Por fim, Moisés clamou a Jeová: “O que devo fazer com este povo? Daqui a pouco eles me apedrejarão!”
+
+[[v2-17-5]]
+
+^<<v2-17-5,5>>^ Jeová disse então a Moisés: “Vá à frente do povo, e leve com você alguns dos anciãos de Israel e o bastão com que você golpeou o rio Nilo. Pegue o bastão e vá.
+
+[[v2-17-6]]
+
+^<<v2-17-6,6>>^ Veja, estarei diante de você ali na rocha, em Horebe. Bata na rocha, e dela sairá água, e o povo beberá.” Moisés fez isso diante dos anciãos de Israel.
+
+[[v2-17-7]]
+
+^<<v2-17-7,7>>^ Então ele chamou o lugar de Massá^&#42;1^ e Meribá,^&#42;2^ por causa da discussão dos israelitas e por terem posto Jeová à prova, dizendo: “Jeová está ou não está entre nós?”
+
+[NOTE]
+====
+. Que significa “teste; prova”.
+. Que significa “discussão”.
+====
+
+[[v2-17-8]]
+
+^<<v2-17-8,8>>^ E os amalequitas vieram lutar contra Israel em Refidim.
+
+[[v2-17-9]]
+
+^<<v2-17-9,9>>^ Em vista disso, Moisés disse a Josué: “Escolha alguns dos nossos homens e vá lutar contra os amalequitas. Amanhã ficarei no cume do monte com o bastão do verdadeiro Deus na mão.”
+
+[[v2-17-10]]
+
+^<<v2-17-10,10>>^ Então Josué lutou contra os amalequitas, assim como Moisés lhe havia ordenado; e Moisés, Arão e Hur subiram ao cume do monte.
+
+[[v2-17-11]]
+
+^<<v2-17-11,11>>^ Enquanto Moisés mantinha as mãos erguidas, os israelitas venciam; mas, assim que abaixava as mãos, os amalequitas venciam.
+
+[[v2-17-12]]
+
+^<<v2-17-12,12>>^ Quando as mãos de Moisés ficaram pesadas, pegaram uma pedra e a puseram debaixo dele, e ele se sentou nela. Então Arão e Hur seguraram as mãos dele, um de cada lado, de modo que suas mãos se mantiveram firmes até o pôr do sol.
+
+[[v2-17-13]]
+
+^<<v2-17-13,13>>^ Assim Josué derrotou Amaleque e seu povo com a espada.
+
+[[v2-17-14]]
+
+^<<v2-17-14,14>>^ Jeová disse então a Moisés: “Escreva isto no livro, para que seja lembrado,^&#42;1^ e repita a Josué: ‘Apagarei completamente a lembrança dos amalequitas de debaixo dos céus.’”
+
+[NOTE]
+====
+. Ou: “para recordação”.
+====
+
+[[v2-17-15]]
+
+^<<v2-17-15,15>>^ Então Moisés construiu um altar e o chamou de Jeová-Nissi,^&#42;1^
+
+[NOTE]
+====
+. Que significa “Jeová é meu poste de sinal”.
+====
+
+[[v2-17-16]]
+
+^<<v2-17-16,16>>^ e disse: “Visto que a mão dele é contra o trono de Jah, Jeová estará em guerra contra Amaleque, de geração em geração.”
+
+'''
+
+xref:002-exodo/002-exodo-016.adoc#v2-16-0[&#60; Capítulo Anterior] | <<v2-17-0,Topo>> | xref:002-exodo/002-exodo-018.adoc#v2-18-0[Próximo Capítulo &#62;]

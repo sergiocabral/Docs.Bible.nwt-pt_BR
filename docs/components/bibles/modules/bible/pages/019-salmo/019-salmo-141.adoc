@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v19-141-0]]
+=== Salmos, 141
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Salmo de Davi._
+
+[[v19-141-1]]
+
+^<<v19-141-1,1>>^ Ó Jeová, invoco a ti;
+Vem depressa me ajudar.
+Presta atenção quando clamo a ti.
+
+[[v19-141-2]]
+
+^<<v19-141-2,2>>^ Que a minha oração seja como o incenso preparado diante de ti,
+Que as minhas mãos erguidas sejam como a oferta de cereais do anoitecer.
+
+[[v19-141-3]]
+
+^<<v19-141-3,3>>^ Coloca um vigia à minha boca, ó Jeová;
+Põe uma sentinela na porta dos meus lábios.
+
+[[v19-141-4]]
+
+^<<v19-141-4,4>>^ Não deixes que o meu coração se incline para algo mau,
+Para praticar atos perversos junto com homens maus;
+Que eu nunca me delicie com as suas iguarias.
+
+[[v19-141-5]]
+
+^<<v19-141-5,5>>^ Se o justo me surrasse, seria um ato de amor leal;
+Se me repreendesse, seria como óleo sobre a minha cabeça,
+Que a minha cabeça nunca recusaria.
+Continuarei orando, mesmo nas suas calamidades.
+
+[[v19-141-6]]
+
+^<<v19-141-6,6>>^ Embora seus juízes sejam jogados do penhasco,
+O povo prestará atenção às minhas palavras, pois são agradáveis.
+
+[[v19-141-7]]
+
+^<<v19-141-7,7>>^ Como quando se ara e fende a terra,
+Nossos ossos foram espalhados à boca da Sepultura.^&#42;1^
+
+[NOTE]
+====
+. Ou: “do Seol”, isto é, a sepultura comum da humanidade. Veja o Glossário.
+====
+
+[[v19-141-8]]
+
+^<<v19-141-8,8>>^ Mas os meus olhos estão fixos em ti, ó Soberano Senhor Jeová.
+Em ti me refugiei.
+Não tires a minha vida.^&#42;1^
+
+[NOTE]
+====
+. Ou: “Não derrames a minha alma.”
+====
+
+[[v19-141-9]]
+
+^<<v19-141-9,9>>^ Protege-me da^&#42;1^ armadilha que prepararam para mim,
+Dos laços dos malfeitores.
+
+[NOTE]
+====
+. Ou: “das garras da”.
+====
+
+[[v19-141-10]]
+
+^<<v19-141-10,10>>^ Todos os maus cairão nas suas próprias redes,
+Ao passo que eu escaparei, são e salvo.
+
+'''
+
+xref:019-salmo/019-salmo-140.adoc#v19-140-0[&#60; Capítulo Anterior] | <<v19-141-0,Topo>> | xref:019-salmo/019-salmo-142.adoc#v19-142-0[Próximo Capítulo &#62;]

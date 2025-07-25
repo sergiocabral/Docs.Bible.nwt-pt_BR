@@ -1,0 +1,143 @@
+include::./index.adoc[]
+
+[[v6-9-0]]
+=== Josué, 9
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v6-9-1]]
+
+^<<v6-9-1,1>>^ Quando a notícia chegou a todos os reis que ficavam do lado oeste do Jordão, os que estavam na região montanhosa, na Sefelá, ao longo de toda a costa do Grande Mar^&#42;1^ e em frente ao Líbano — os hititas, os amorreus, os cananeus, os perizeus, os heveus e os jebuseus —,
+
+[NOTE]
+====
+. Isto é, o Mediterrâneo.
+====
+
+[[v6-9-2]]
+
+^<<v6-9-2,2>>^ eles formaram uma aliança para lutar contra Josué e Israel.
+
+[[v6-9-3]]
+
+^<<v6-9-3,3>>^ Os habitantes de Gibeão também ouviram falar sobre o que Josué havia feito a Jericó e a Ai.
+
+[[v6-9-4]]
+
+^<<v6-9-4,4>>^ Por isso, eles agiram com astúcia: colocaram provisões em sacas velhas e as puseram sobre seus jumentos, junto com odres de vinho rebentados e remendados.
+
+[[v6-9-5]]
+
+^<<v6-9-5,5>>^ Puseram também sandálias gastas e remendadas nos pés, e vestiram roupas gastas. Todo o pão que levavam estava seco e quebradiço.
+
+[[v6-9-6]]
+
+^<<v6-9-6,6>>^ Depois foram a Josué no acampamento em Gilgal e disseram a ele e aos homens de Israel: “Viemos de uma terra distante. Agora, façam um pacto conosco.”
+
+[[v6-9-7]]
+
+^<<v6-9-7,7>>^ Mas os homens de Israel disseram aos heveus: “Talvez vocês morem perto de nós. Como podemos então fazer um pacto com vocês?”
+
+[[v6-9-8]]
+
+^<<v6-9-8,8>>^ Eles responderam a Josué: “Somos seus servos.”^&#42;1^
+Então Josué lhes perguntou: “Quem são vocês e de onde vieram?”
+
+[NOTE]
+====
+. Ou: “escravos”.
+====
+
+[[v6-9-9]]
+
+^<<v6-9-9,9>>^ Eles responderam: “Seus servos vieram de uma terra bem distante por causa do nome de Jeová, seu Deus, pois ouvimos falar da sua fama e de tudo o que ele fez no Egito,
+
+[[v6-9-10]]
+
+^<<v6-9-10,10>>^ e de tudo o que fez aos dois reis dos amorreus do outro lado^&#42;1^ do Jordão, a Siom, rei de Hesbom, e a Ogue, rei de Basã, que morava em Astarote.
+
+[NOTE]
+====
+. Isto é, do lado leste.
+====
+
+[[v6-9-11]]
+
+^<<v6-9-11,11>>^ Por isso, os nossos anciãos e todos os habitantes da nossa terra nos disseram: ‘Peguem provisões para a viagem e vão ao encontro deles. Digam-lhes: “Seremos seus servos; por isso, façam um pacto conosco.”’
+
+[[v6-9-12]]
+
+^<<v6-9-12,12>>^ Este pão que trouxemos como provisão para nós ainda estava quente no dia em que saímos das nossas casas para vir até vocês. Agora você pode ver que está seco e quebradiço.
+
+[[v6-9-13]]
+
+^<<v6-9-13,13>>^ E estes odres de vinho estavam novos quando os enchemos, mas agora já rebentaram. E nossas roupas e sandálias ficaram gastas por causa da viagem muito longa.”
+
+[[v6-9-14]]
+
+^<<v6-9-14,14>>^ Em vista disso, os homens de Israel pegaram^&#42;1^ algumas das provisões deles, mas não consultaram a Jeová.
+
+[NOTE]
+====
+. Ou: “examinaram”.
+====
+
+[[v6-9-15]]
+
+^<<v6-9-15,15>>^ Então Josué fez paz com eles e um pacto para que continuassem a viver, e os maiorais da assembleia lhes fizeram um juramento sobre isso.
+
+[[v6-9-16]]
+
+^<<v6-9-16,16>>^ Três dias depois de terem feito um pacto com eles, ficaram sabendo que moravam perto deles, na vizinhança.
+
+[[v6-9-17]]
+
+^<<v6-9-17,17>>^ Os israelitas partiram então e chegaram às cidades deles no terceiro dia; suas cidades eram Gibeão, Quefira, Beerote e Quiriate-Jearim.
+
+[[v6-9-18]]
+
+^<<v6-9-18,18>>^ Mas os israelitas não os atacaram, visto que os maiorais da assembleia tinham feito um juramento a eles por Jeová, o Deus de Israel. Por isso, toda a assembleia começou a se queixar contra os maiorais.
+
+[[v6-9-19]]
+
+^<<v6-9-19,19>>^ Em vista disso, todos os maiorais disseram a toda a assembleia: “Visto que nós lhes fizemos um juramento por Jeová, o Deus de Israel, não podemos fazer nada contra eles.
+
+[[v6-9-20]]
+
+^<<v6-9-20,20>>^ Faremos o seguinte: vamos deixá-los viver, para que não haja indignação contra nós por causa do juramento que lhes fizemos.”
+
+[[v6-9-21]]
+
+^<<v6-9-21,21>>^ E os maiorais acrescentaram: “Que eles vivam, mas que se tornem cortadores de lenha e tiradores de água para toda a assembleia.” Foi isso que os maiorais lhes prometeram.
+
+[[v6-9-22]]
+
+^<<v6-9-22,22>>^ Josué os chamou então e lhes perguntou: “Por que vocês nos enganaram, dizendo: ‘Somos de um lugar muito longe de vocês’, quando na verdade moram bem no nosso meio?
+
+[[v6-9-23]]
+
+^<<v6-9-23,23>>^ De agora em diante, vocês são amaldiçoados, e sempre serão escravos, trabalhando como cortadores de lenha e tiradores de água para a casa do meu Deus.”
+
+[[v6-9-24]]
+
+^<<v6-9-24,24>>^ Eles disseram a Josué: “Agimos assim porque se disse claramente a nós, seus servos, que Jeová, seu Deus, havia ordenado a Moisés, Seu servo, que desse a vocês toda esta terra e eliminasse todos os habitantes dela de diante de vocês. Por isso, tememos pelas nossas vidas,^&#42;1^ por sua causa, e esse é o motivo de termos agido assim.
+
+[NOTE]
+====
+. Ou: “almas”.
+====
+
+[[v6-9-25]]
+
+^<<v6-9-25,25>>^ Agora estamos nas suas mãos. Faça conosco o que achar bom e justo.”
+
+[[v6-9-26]]
+
+^<<v6-9-26,26>>^ E foi isto que Josué fez: ele os livrou das mãos dos israelitas, e eles não os mataram.
+
+[[v6-9-27]]
+
+^<<v6-9-27,27>>^ Mas naquele dia Josué fez deles cortadores de lenha e tiradores de água para a assembleia e para o altar de Jeová no lugar que Ele escolhesse, e eles continuam a fazer isso até hoje.
+
+'''
+
+xref:006-josue/006-josue-008.adoc#v6-8-0[&#60; Capítulo Anterior] | <<v6-9-0,Topo>> | xref:006-josue/006-josue-010.adoc#v6-10-0[Próximo Capítulo &#62;]

@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v14-2-0]]
+=== O Segundo das Crônicas, 2
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v14-2-1]]
+
+^<<v14-2-1,1>>^ Salomão ordenou então que se construísse uma casa para o nome de Jeová e uma casa^&#42;1^ para o seu próprio reino.
+
+[NOTE]
+====
+. Ou: “um palácio”.
+====
+
+[[v14-2-2]]
+
+^<<v14-2-2,2>>^ Salomão recrutou 70.000 homens como trabalhadores comuns,^&#42;1^ 80.000 como cortadores de pedras nos montes e 3.600 como supervisores.
+
+[NOTE]
+====
+. Ou: “como carregadores”.
+====
+
+[[v14-2-3]]
+
+^<<v14-2-3,3>>^ Além disso, Salomão mandou dizer a Hirão, rei de Tiro: “Faça por mim o mesmo que fez por Davi, meu pai, quando você lhe forneceu madeira de cedro, para que ele construísse uma casa^&#42;1^ para morar.
+
+[NOTE]
+====
+. Ou: “um palácio”.
+====
+
+[[v14-2-4]]
+
+^<<v14-2-4,4>>^ Eu vou construir uma casa para o nome de Jeová, meu Deus, a fim de santificá-la para ele, para queimar incenso perfumado diante dele, e também para apresentar regularmente os pães da proposição^&#42;1^ e fazer as ofertas queimadas, de manhã e ao anoitecer, nos sábados, nas luas novas e nas épocas festivas de Jeová, nosso Deus. Isso é uma obrigação permanente para Israel.
+
+[NOTE]
+====
+. Ou: “pães arrumados em pilhas”.
+====
+
+[[v14-2-5]]
+
+^<<v14-2-5,5>>^ A casa que vou construir será grandiosa, pois o nosso Deus é maior do que todos os outros deuses.
+
+[[v14-2-6]]
+
+^<<v14-2-6,6>>^ E quem seria capaz de construir uma casa para ele? Pois os céus, o céu dos céus, não o podem conter. Então quem sou eu para lhe construir uma casa, a não ser que seja apenas um lugar para fazer fumegar sacrifícios diante dele?
+
+[[v14-2-7]]
+
+^<<v14-2-7,7>>^ Agora envie-me um artesão habilidoso em trabalhar com ouro, prata, cobre, ferro, lã roxa, linha escarlate e linha azul, e que saiba entalhar. Ele trabalhará em Judá e em Jerusalém junto com os meus artesãos habilidosos, que Davi, meu pai, providenciou.
+
+[[v14-2-8]]
+
+^<<v14-2-8,8>>^ Além disso, envie-me do Líbano madeira de cedro, de junípero e de sândalo, pois sei muito bem que os seus servos são experientes em cortar as árvores do Líbano. Os meus servos trabalharão junto com os seus servos
+
+[[v14-2-9]]
+
+^<<v14-2-9,9>>^ para preparar grande quantidade de madeira para mim, pois a casa que vou construir será extraordinariamente grande.
+
+[[v14-2-10]]
+
+^<<v14-2-10,10>>^ Fornecerei alimento aos seus servos, os cortadores de madeira que derrubam as árvores: 20.000 coros^&#42;1^ de trigo, 20.000 coros de cevada, 20.000 batos^&#42;2^ de vinho e 20.000 batos de azeite.”
+
+[NOTE]
+====
+. Um coro equivalia a 220 l. Veja Ap. B14.
+. Um bato equivalia a 22 l. Veja Ap. B14.
+====
+
+[[v14-2-11]]
+
+^<<v14-2-11,11>>^ Então Hirão, rei de Tiro, mandou por escrito a seguinte mensagem a Salomão: “Visto que Jeová ama o seu povo, fez com que você fosse o rei deles.”
+
+[[v14-2-12]]
+
+^<<v14-2-12,12>>^ Hirão também disse: “Louvado seja Jeová, o Deus de Israel, que fez os céus e a terra, por ter dado ao rei Davi um filho sábio, que tem prudência e entendimento, que construirá uma casa para Jeová e uma casa^&#42;1^ para o seu próprio reino.
+
+[NOTE]
+====
+. Ou: “um palácio”.
+====
+
+[[v14-2-13]]
+
+^<<v14-2-13,13>>^ Estou enviando um artesão habilidoso e entendido, Hirão-Abi,
+
+[[v14-2-14]]
+
+^<<v14-2-14,14>>^ filho de uma mulher danita, e cujo pai era de Tiro. Ele é experiente em trabalhar com ouro, prata, cobre, ferro, pedras, madeira, lã roxa, linha azul, tecido fino e linha escarlate. Ele sabe fazer todo tipo de entalhe e executar todo tipo de projeto que lhe for dado. Ele trabalhará junto com os seus^&#42;1^ artesãos habilidosos e com os artesãos habilidosos do meu senhor Davi, seu pai.
+
+[NOTE]
+====
+. Isto é, de Salomão.
+====
+
+[[v14-2-15]]
+
+^<<v14-2-15,15>>^ E que você^&#42;1^ envie aos seus servos o trigo, a cevada, o azeite e o vinho que prometeu.
+
+[NOTE]
+====
+. Lit.: “meu senhor”.
+====
+
+[[v14-2-16]]
+
+^<<v14-2-16,16>>^ Nós cortaremos árvores do Líbano, a quantidade que você precisar, e lhe mandaremos como jangadas pelo mar, até Jope; e você as levará a Jerusalém.”
+
+[[v14-2-17]]
+
+^<<v14-2-17,17>>^ Salomão fez então a contagem de todos os homens que eram residentes estrangeiros na terra de Israel, assim como Davi, seu pai, tinha feito; e o total foi de 153.600.
+
+[[v14-2-18]]
+
+^<<v14-2-18,18>>^ Assim, designou 70.000 deles como trabalhadores comuns,^&#42;1^ 80.000 como cortadores de pedras nos montes e 3.600 como supervisores para fazer o povo trabalhar.
+
+[NOTE]
+====
+. Ou: “como carregadores”.
+====
+
+'''
+
+xref:014-2-cronicas/014-2-cronicas-001.adoc#v14-1-0[&#60; Capítulo Anterior] | <<v14-2-0,Topo>> | xref:014-2-cronicas/014-2-cronicas-003.adoc#v14-3-0[Próximo Capítulo &#62;]

@@ -1,0 +1,48 @@
+include::./index.adoc[]
+
+[[v23-4-0]]
+=== Isaías, 4
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v23-4-1]]
+
+^<<v23-4-1,1>>^ E sete mulheres agarrarão um só homem naquele dia, dizendo:
+“Comeremos o nosso próprio pão
+E providenciaremos a nossa própria roupa;
+Apenas sejamos chamadas pelo seu nome,
+Para que fiquemos livres de desonra.”^&#42;1^
+
+[NOTE]
+====
+. Isto é, da humilhação de não se casar e de não ter filhos.
+====
+
+[[v23-4-2]]
+
+^<<v23-4-2,2>>^ Naquele dia, o que Jeová fará brotar será belo e glorioso, e os frutos desta terra serão o orgulho e a beleza dos sobreviventes de Israel.
+
+[[v23-4-3]]
+
+^<<v23-4-3,3>>^ Todos os que restarem em Sião e que sobrarem em Jerusalém serão chamados de santos, todos em Jerusalém que estiverem inscritos para a vida.
+
+[[v23-4-4]]
+
+^<<v23-4-4,4>>^ Quando Jeová lavar a sujeira^&#42;1^ das filhas de Sião e limpar o derramamento de sangue do meio de Jerusalém, com um espírito de julgamento e um espírito que queima,^&#42;2^
+
+[NOTE]
+====
+. Lit.: “o excremento”.
+. Ou: “espírito de purificação”.
+====
+
+[[v23-4-5]]
+
+^<<v23-4-5,5>>^ Jeová criará sobre toda a região do monte Sião e sobre o lugar de seus congressos uma nuvem e uma fumaça de dia, e um fogo brilhante de noite; sobre tudo que é glorioso haverá um abrigo.
+
+[[v23-4-6]]
+
+^<<v23-4-6,6>>^ E haverá uma barraca para sombra contra o calor do dia, e para refúgio e proteção contra tempestades e chuva.
+
+'''
+
+xref:023-isaias/023-isaias-003.adoc#v23-3-0[&#60; Capítulo Anterior] | <<v23-4-0,Topo>> | xref:023-isaias/023-isaias-005.adoc#v23-5-0[Próximo Capítulo &#62;]

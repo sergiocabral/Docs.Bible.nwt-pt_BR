@@ -1,0 +1,16 @@
+include::../index.adoc[]
+
+[[v55-0-0]]
+== 2 Timóteo
+
+[cols="8*^"]
+|===
+| xref:055-2-timoteo/055-2-timoteo-001.adoc#v55-1-0[1]
+| xref:055-2-timoteo/055-2-timoteo-002.adoc#v55-2-0[2]
+| xref:055-2-timoteo/055-2-timoteo-003.adoc#v55-3-0[3]
+| xref:055-2-timoteo/055-2-timoteo-004.adoc#v55-4-0[4]
+|
+|
+|
+|
+|===

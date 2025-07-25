@@ -1,0 +1,134 @@
+include::./index.adoc[]
+
+[[v13-24-0]]
+=== O Primeiro das Crônicas, 24
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v13-24-1]]
+
+^<<v13-24-1,1>>^ As turmas dos descendentes de Arão foram as seguintes: os filhos de Arão foram Nadabe, Abiú, Eleazar e Itamar.
+
+[[v13-24-2]]
+
+^<<v13-24-2,2>>^ Nadabe e Abiú morreram antes do pai e não tiveram filhos, mas Eleazar e Itamar continuaram servindo como sacerdotes.
+
+[[v13-24-3]]
+
+^<<v13-24-3,3>>^ Davi, juntamente com Zadoque, dos filhos de Eleazar, e com Aimeleque, dos filhos de Itamar, dividiu os sacerdotes em turmas para as suas designações de serviço.
+
+[[v13-24-4]]
+
+^<<v13-24-4,4>>^ Visto que os filhos de Eleazar tinham mais chefes do que os filhos de Itamar, a divisão foi feita proporcionalmente: para os filhos de Eleazar, 16 cabeças das suas casas paternas, e para os filhos de Itamar, 8 cabeças das suas casas paternas.
+
+[[v13-24-5]]
+
+^<<v13-24-5,5>>^ Além disso, eles os dividiram por sortes, os dois grupos juntos, pois havia oficiais encarregados do lugar santo e oficiais que serviam o verdadeiro Deus, tanto dos filhos de Eleazar como dos filhos de Itamar.
+
+[[v13-24-6]]
+
+^<<v13-24-6,6>>^ Então o secretário dos levitas, Semaías, filho de Netanel, registrou o nome desses homens na presença do rei, dos príncipes, do sacerdote Zadoque, de Aimeleque, filho de Abiatar, e dos cabeças das casas paternas dos sacerdotes e dos levitas; escolhia-se uma casa paterna de Eleazar e uma casa paterna de Itamar.
+
+[[v13-24-7]]
+
+^<<v13-24-7,7>>^ A primeira sorte saiu para Jeoiaribe, a segunda para Jedaías,
+
+[[v13-24-8]]
+
+^<<v13-24-8,8>>^ a terceira para Harim, a quarta para Seorim,
+
+[[v13-24-9]]
+
+^<<v13-24-9,9>>^ a quinta para Malquias, a sexta para Miamim,
+
+[[v13-24-10]]
+
+^<<v13-24-10,10>>^ a sétima para Hacoz, a oitava para Abias,
+
+[[v13-24-11]]
+
+^<<v13-24-11,11>>^ a nona para Jesua, a décima para Secanias,
+
+[[v13-24-12]]
+
+^<<v13-24-12,12>>^ a décima primeira para Eliasibe, a décima segunda para Jaquim,
+
+[[v13-24-13]]
+
+^<<v13-24-13,13>>^ a décima terceira para Hupa, a décima quarta para Jesebeabe,
+
+[[v13-24-14]]
+
+^<<v13-24-14,14>>^ a décima quinta para Bilga, a décima sexta para Imer,
+
+[[v13-24-15]]
+
+^<<v13-24-15,15>>^ a décima sétima para Hezir, a décima oitava para Hapizez,
+
+[[v13-24-16]]
+
+^<<v13-24-16,16>>^ a décima nona para Petaías, a vigésima para Jeezquel,
+
+[[v13-24-17]]
+
+^<<v13-24-17,17>>^ a vigésima primeira para Jaquim, a vigésima segunda para Gamul,
+
+[[v13-24-18]]
+
+^<<v13-24-18,18>>^ a vigésima terceira para Delaías, e a vigésima quarta para Maazias.
+
+[[v13-24-19]]
+
+^<<v13-24-19,19>>^ Essas eram as suas designações de serviço quando entravam na casa de Jeová de acordo com o procedimento estabelecido por Arão, seu antepassado, conforme Jeová, o Deus de Israel, lhe havia ordenado.
+
+[[v13-24-20]]
+
+^<<v13-24-20,20>>^ E dos outros levitas havia: dos filhos de Anrão, Subael; dos filhos de Subael, Jedeías;
+
+[[v13-24-21]]
+
+^<<v13-24-21,21>>^ de Reabias: dos filhos de Reabias, Issias, o cabeça;
+
+[[v13-24-22]]
+
+^<<v13-24-22,22>>^ dos izaritas, Selomote; dos filhos de Selomote, Jaate;
+
+[[v13-24-23]]
+
+^<<v13-24-23,23>>^ dos filhos de Hebrom, Jerias, o cabeça; Amarias, o segundo; Jaaziel, o terceiro; e Jecameão, o quarto;
+
+[[v13-24-24]]
+
+^<<v13-24-24,24>>^ dos filhos de Uziel, Mica; e dos filhos de Mica, Samir.
+
+[[v13-24-25]]
+
+^<<v13-24-25,25>>^ O irmão de Mica era Issias; e dos filhos de Issias havia Zacarias.
+
+[[v13-24-26]]
+
+^<<v13-24-26,26>>^ Os filhos de Merari foram Mali e Musi; dos filhos de Jaazias havia Beno.
+
+[[v13-24-27]]
+
+^<<v13-24-27,27>>^ Os filhos de Merari: de Jaazias havia Beno, Soão, Zacur e Ibri;
+
+[[v13-24-28]]
+
+^<<v13-24-28,28>>^ de Mali havia Eleazar, que não teve filhos;
+
+[[v13-24-29]]
+
+^<<v13-24-29,29>>^ de Quis: os filhos de Quis, Jerameel;
+
+[[v13-24-30]]
+
+^<<v13-24-30,30>>^ e os filhos de Musi foram Mali, Éder e Jerimote.
+Esses foram os filhos de Levi segundo as suas casas paternas.
+
+[[v13-24-31]]
+
+^<<v13-24-31,31>>^ E eles também lançaram sortes, assim como os seus irmãos, os filhos de Arão, haviam feito na presença do rei Davi, de Zadoque, de Aimeleque e dos cabeças das casas paternas dos sacerdotes e dos levitas. A casa paterna do mais velho foi tratada da mesma maneira que a do mais novo.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-023.adoc#v13-23-0[&#60; Capítulo Anterior] | <<v13-24-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-025.adoc#v13-25-0[Próximo Capítulo &#62;]

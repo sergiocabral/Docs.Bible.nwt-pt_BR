@@ -1,0 +1,60 @@
+include::./index.adoc[]
+
+[[v19-15-0]]
+=== Salmos, 15
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Salmo de Davi._
+
+[[v19-15-1]]
+
+^<<v19-15-1,1>>^ Ó Jeová, quem pode ser hóspede na tua tenda?
+Quem pode residir no teu santo monte?
+
+[[v19-15-2]]
+
+^<<v19-15-2,2>>^ Aquele que anda de modo íntegro,^&#42;1^
+Que faz o que é certo
+E que fala a verdade no coração.
+
+[NOTE]
+====
+. Ou: “sem culpa”.
+====
+
+[[v19-15-3]]
+
+^<<v19-15-3,3>>^ Ele não usa a língua para caluniar.
+Não faz nenhum mal ao seu próximo
+E não difama^&#42;1^ seus amigos.
+
+[NOTE]
+====
+. Ou: “não envergonha”.
+====
+
+[[v19-15-4]]
+
+^<<v19-15-4,4>>^ Ele rejeita aquele que é desprezível,
+Mas honra os que temem a Jeová.
+Não deixa de cumprir a sua promessa,^&#42;1^ mesmo com prejuízo para si.
+
+[NOTE]
+====
+. Ou: “o seu juramento”.
+====
+
+[[v19-15-5]]
+
+^<<v19-15-5,5>>^ Não empresta seu dinheiro com juros
+E não aceita suborno contra o inocente.
+Quem age assim nunca será abalado.^&#42;1^
+
+[NOTE]
+====
+. Ou: “nunca cambaleará”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-014.adoc#v19-14-0[&#60; Capítulo Anterior] | <<v19-15-0,Topo>> | xref:019-salmo/019-salmo-016.adoc#v19-16-0[Próximo Capítulo &#62;]

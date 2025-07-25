@@ -1,0 +1,208 @@
+include::./index.adoc[]
+
+[[v18-39-0]]
+=== Jó, 39
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v18-39-1]]
+
+^<<v18-39-1,1>>^ “Por acaso você sabe quando as cabras-montesas dão cria?
+Já viu as corças darem à luz seus filhotes?
+
+[[v18-39-2]]
+
+^<<v18-39-2,2>>^ Você conta os meses de sua gestação?
+Você sabe quando elas vão dar cria?
+
+[[v18-39-3]]
+
+^<<v18-39-3,3>>^ Elas se agacham para dar à luz seus filhotes,
+E suas dores de parto terminam.
+
+[[v18-39-4]]
+
+^<<v18-39-4,4>>^ Seus filhotes ficam fortes e crescem nos campos;
+Vão embora e não voltam para elas.
+
+[[v18-39-5]]
+
+^<<v18-39-5,5>>^ Quem pôs o jumento selvagem^&#42;1^ em liberdade,
+E quem soltou as cordas do jumento selvagem?
+
+[NOTE]
+====
+. Ou: “o onagro”.
+====
+
+[[v18-39-6]]
+
+^<<v18-39-6,6>>^ Fiz da planície desértica sua habitação,
+E da terra salgada sua moradia.
+
+[[v18-39-7]]
+
+^<<v18-39-7,7>>^ Ele despreza a agitação da cidade,
+Não ouve os gritos do condutor.
+
+[[v18-39-8]]
+
+^<<v18-39-8,8>>^ Vagueia pelas colinas em busca de pasto,
+Procurando todo tipo de planta verde.
+
+[[v18-39-9]]
+
+^<<v18-39-9,9>>^ Será que o touro selvagem vai querer servir a você?
+Será que ele vai passar a noite no seu estábulo?^&#42;1^
+
+[NOTE]
+====
+. Ou: “na sua manjedoura”.
+====
+
+[[v18-39-10]]
+
+^<<v18-39-10,10>>^ Por acaso você pode prender o touro selvagem ao arado^&#42;1^ com uma corda,
+Ou será que ele seguirá você a fim de arar^&#42;2^ o vale?
+
+[NOTE]
+====
+. Lit.: “sulco”.
+. Ou: “gradar”.
+====
+
+[[v18-39-11]]
+
+^<<v18-39-11,11>>^ Você confiará na grande força dele
+E deixará que ele faça o trabalho pesado para você?
+
+[[v18-39-12]]
+
+^<<v18-39-12,12>>^ Por acaso você contará com ele para que traga a sua colheita^&#42;1^
+E a ajunte à sua eira?
+
+[NOTE]
+====
+. Lit.: “semente”.
+====
+
+[[v18-39-13]]
+
+^<<v18-39-13,13>>^ As asas da avestruz batem alegremente,
+Mas será que as suas asas e plumas se comparam às da cegonha?
+
+[[v18-39-14]]
+
+^<<v18-39-14,14>>^ Ela deixa seus ovos no chão
+E os mantém aquecidos no pó.
+
+[[v18-39-15]]
+
+^<<v18-39-15,15>>^ Ela se esquece que alguém pode pisar neles e esmagá-los,
+Ou que um animal selvagem pode pisoteá-los.
+
+[[v18-39-16]]
+
+^<<v18-39-16,16>>^ Trata os seus filhotes com dureza, como se não fossem seus;
+Não se importa que seu trabalho tenha sido em vão.
+
+[[v18-39-17]]
+
+^<<v18-39-17,17>>^ Pois Deus lhe negou^&#42;1^ sabedoria
+E não lhe deu entendimento.
+
+[NOTE]
+====
+. Lit.: “a fez esquecer a”.
+====
+
+[[v18-39-18]]
+
+^<<v18-39-18,18>>^ Mas, quando ela se levanta e bate as asas,
+Ri do cavalo e do cavaleiro.
+
+[[v18-39-19]]
+
+^<<v18-39-19,19>>^ É você que dá força ao cavalo,
+E veste seu pescoço com uma crina esvoaçante?
+
+[[v18-39-20]]
+
+^<<v18-39-20,20>>^ Será que você pode fazê-lo pular como um gafanhoto?
+Seu majestoso relinchar^&#42;1^ é atemorizante.
+
+[NOTE]
+====
+. Lit.: “bufar”.
+====
+
+[[v18-39-21]]
+
+^<<v18-39-21,21>>^ Ele escarva o chão do vale e alegra-se muito;^&#42;1^
+Sai correndo para a batalha.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “alegra-se em poder”.
+. Lit.: “Sai para enfrentar armamento”.
+====
+
+[[v18-39-22]]
+
+^<<v18-39-22,22>>^ Ele ri do medo e não se assusta com nada,
+Não recua por causa da espada.
+
+[[v18-39-23]]
+
+^<<v18-39-23,23>>^ Sobre ele chocalha a aljava;
+A lança e o dardo brilham.
+
+[[v18-39-24]]
+
+^<<v18-39-24,24>>^ Tremendo e agitado, ele sai galopando,^&#42;1^
+Não consegue ficar parado ao^&#42;2^ som da buzina.
+
+[NOTE]
+====
+. Lit.: “devora o chão (a terra)”.
+. Ou, possivelmente: “Ele não acredita no”.
+====
+
+[[v18-39-25]]
+
+^<<v18-39-25,25>>^ Ao toque da buzina, ele relincha.
+De longe sente o cheiro da batalha
+E ouve os gritos dos comandantes e o grito de guerra.
+
+[[v18-39-26]]
+
+^<<v18-39-26,26>>^ Será que é por causa do entendimento que você tem que o falcão plana,
+Estendendo suas asas para o sul?
+
+[[v18-39-27]]
+
+^<<v18-39-27,27>>^ Ou é às suas ordens que a águia voa para cima
+E constrói o seu ninho no alto,
+
+[[v18-39-28]]
+
+^<<v18-39-28,28>>^ Passando a noite num rochedo,
+Na fortaleza onde vive, num penhasco?^&#42;1^
+
+[NOTE]
+====
+. Lit.: “no dente de um rochedo”.
+====
+
+[[v18-39-29]]
+
+^<<v18-39-29,29>>^ De lá ela procura alimento,
+Seus olhos enxergam longe.
+
+[[v18-39-30]]
+
+^<<v18-39-30,30>>^ Seus filhotes bebem sangue;
+E onde há mortos, ali está ela.”
+
+'''
+
+xref:018-jo/018-jo-038.adoc#v18-38-0[&#60; Capítulo Anterior] | <<v18-39-0,Topo>> | xref:018-jo/018-jo-040.adoc#v18-40-0[Próximo Capítulo &#62;]

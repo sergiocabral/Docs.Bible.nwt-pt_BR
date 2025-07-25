@@ -1,0 +1,56 @@
+include::./index.adoc[]
+
+[[v19-150-0]]
+=== Salmos, 150
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v19-150-1]]
+
+^<<v19-150-1,1>>^ Louvem a Jah!^&#42;1^
+Louvem a Deus no seu lugar santo.
+Louvem a ele no céu,^&#42;2^ que atesta o seu poder.
+
+[NOTE]
+====
+. Ou: “Aleluia!” “Jah” é uma forma reduzida do nome Jeová.
+. Lit.: “na vastidão”.
+====
+
+[[v19-150-2]]
+
+^<<v19-150-2,2>>^ Louvem-no pelas suas obras poderosas,
+Louvem-no pela sua imensa grandeza.
+
+[[v19-150-3]]
+
+^<<v19-150-3,3>>^ Louvem-no com toque de buzina.
+Louvem-no com o instrumento de cordas e com a harpa.
+
+[[v19-150-4]]
+
+^<<v19-150-4,4>>^ Louvem-no com o pandeiro e com dança de roda.
+Louvem-no com cordas e com a flauta.^&#42;1^
+
+[NOTE]
+====
+. Ou: “o pífaro”.
+====
+
+[[v19-150-5]]
+
+^<<v19-150-5,5>>^ Louvem-no com címbalos ressoantes.
+Louvem-no com címbalos retumbantes.
+
+[[v19-150-6]]
+
+^<<v19-150-6,6>>^ Tudo que respira, louve a Jah.
+Louvem a Jah!^&#42;1^
+
+[NOTE]
+====
+. Ou: “Aleluia!” “Jah” é uma forma reduzida do nome Jeová.
+====
+
+'''
+
+xref:019-salmo/019-salmo-149.adoc#v19-149-0[&#60; Capítulo Anterior] | <<v19-150-0,Topo>> | xref:020-proverbios/020-proverbios-001.adoc#v20-1-0[Próximo Capítulo &#62;]

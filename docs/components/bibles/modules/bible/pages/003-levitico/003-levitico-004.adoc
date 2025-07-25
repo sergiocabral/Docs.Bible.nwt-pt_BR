@@ -1,0 +1,169 @@
+include::./index.adoc[]
+
+[[v3-4-0]]
+=== Levítico, 4
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v3-4-1]]
+
+^<<v3-4-1,1>>^ Jeová disse a Moisés:
+
+[[v3-4-2]]
+
+^<<v3-4-2,2>>^ “Diga aos israelitas: ‘Se alguém^&#42;1^ pecar sem querer, fazendo qualquer uma das coisas que Jeová ordenou que não se façam, deve-se fazer o seguinte:
+
+[NOTE]
+====
+. Ou: “uma alma”.
+====
+
+[[v3-4-3]]
+
+^<<v3-4-3,3>>^ “‘Se o sacerdote ungido pecar e trouxer culpa sobre o povo, então, pelo pecado que cometeu, ele terá de apresentar a Jeová um novilho sadio como oferta pelo pecado.
+
+[[v3-4-4]]
+
+^<<v3-4-4,4>>^ Ele levará o novilho à entrada da tenda de reunião, perante Jeová, porá a mão sobre a cabeça do novilho e o abaterá perante Jeová.
+
+[[v3-4-5]]
+
+^<<v3-4-5,5>>^ Depois o sacerdote ungido pegará um pouco do sangue do novilho e o levará para dentro da tenda de reunião.
+
+[[v3-4-6]]
+
+^<<v3-4-6,6>>^ O sacerdote mergulhará o dedo no sangue e aspergirá um pouco do sangue sete vezes perante Jeová, diante da cortina do lugar santo.
+
+[[v3-4-7]]
+
+^<<v3-4-7,7>>^ O sacerdote também porá um pouco do sangue sobre os chifres do altar do incenso perfumado, que está perante Jeová, na tenda de reunião, e derramará todo o restante do sangue do novilho junto à base do altar da oferta queimada, que está à entrada da tenda de reunião.
+
+[[v3-4-8]]
+
+^<<v3-4-8,8>>^ “‘Ele removerá então toda a gordura do novilho da oferta pelo pecado, incluindo a gordura que envolve os intestinos, toda a gordura que adere aos intestinos,
+
+[[v3-4-9]]
+
+^<<v3-4-9,9>>^ os dois rins com a gordura que há sobre eles, na região lombar, e também a membrana gordurosa do fígado junto com os rins,
+
+[[v3-4-10]]
+
+^<<v3-4-10,10>>^ assim como se faz com o touro do sacrifício de participação em comum. E o sacerdote fará todas essas coisas fumegar no altar da oferta queimada.
+
+[[v3-4-11]]
+
+^<<v3-4-11,11>>^ “‘Mas, quanto ao couro do novilho e toda a sua carne, junto com a cabeça, as pernas, os intestinos e o excremento
+
+[[v3-4-12]]
+
+^<<v3-4-12,12>>^ — o restante do novilho —, ele fará com que seja levado para fora do acampamento, a um lugar puro, onde se jogam as cinzas,^&#42;1^ e o queimará sobre lenha, no fogo. Deve ser queimado onde se jogam as cinzas.
+
+[NOTE]
+====
+. Ou: “cinzas gordurosas”, isto é, cinzas impregnadas da gordura dos sacrifícios.
+====
+
+[[v3-4-13]]
+
+^<<v3-4-13,13>>^ “‘Se toda a assembleia de Israel se tornar culpada por cometer um pecado sem querer, mas a congregação não se der conta de que fez algo que Jeová ordenou que não fizesse,
+
+[[v3-4-14]]
+
+^<<v3-4-14,14>>^ e então o pecado ficar conhecido, a congregação terá de apresentar um novilho como oferta pelo pecado e levá-lo diante da tenda de reunião.
+
+[[v3-4-15]]
+
+^<<v3-4-15,15>>^ Os anciãos da assembleia porão as mãos sobre a cabeça do novilho, perante Jeová, e o novilho será abatido perante Jeová.
+
+[[v3-4-16]]
+
+^<<v3-4-16,16>>^ “‘Então o sacerdote ungido levará um pouco do sangue do novilho para dentro da tenda de reunião.
+
+[[v3-4-17]]
+
+^<<v3-4-17,17>>^ O sacerdote deve mergulhar o dedo no sangue e aspergir um pouco dele sete vezes perante Jeová, diante da cortina.
+
+[[v3-4-18]]
+
+^<<v3-4-18,18>>^ Ele porá então um pouco do sangue sobre os chifres do altar, que está diante de Jeová, na tenda de reunião; e derramará todo o restante do sangue junto à base do altar da oferta queimada, que está à entrada da tenda de reunião.
+
+[[v3-4-19]]
+
+^<<v3-4-19,19>>^ Ele removerá toda a gordura do novilho e a fará fumegar no altar.
+
+[[v3-4-20]]
+
+^<<v3-4-20,20>>^ Deve fazer com o novilho assim como fez com o outro novilho da oferta pelo pecado. É assim que ele fará. O sacerdote fará expiação pelo povo, e eles serão perdoados.
+
+[[v3-4-21]]
+
+^<<v3-4-21,21>>^ Ele fará com que o novilho seja levado para fora do acampamento, e o queimará, assim como queimou o primeiro novilho. É uma oferta pelo pecado em favor da congregação.
+
+[[v3-4-22]]
+
+^<<v3-4-22,22>>^ “‘Quando um maioral pecar sem querer, fazendo uma de todas as coisas que Jeová, seu Deus, ordena que não se façam e se tornar culpado,
+
+[[v3-4-23]]
+
+^<<v3-4-23,23>>^ ou se ele se der conta de um pecado que cometeu contra o mandamento, então terá de apresentar como sua oferta um cabrito sadio.
+
+[[v3-4-24]]
+
+^<<v3-4-24,24>>^ Ele porá a mão sobre a cabeça do cabrito e o abaterá no lugar onde se abate a oferta queimada perante Jeová. É uma oferta pelo pecado.
+
+[[v3-4-25]]
+
+^<<v3-4-25,25>>^ O sacerdote molhará o dedo no sangue da oferta pelo pecado e o porá sobre os chifres do altar da oferta queimada, e derramará o restante do sangue da oferta junto à base do altar da oferta queimada.
+
+[[v3-4-26]]
+
+^<<v3-4-26,26>>^ Ele fará toda a gordura fumegar no altar, assim como se faz com a gordura do sacrifício de participação em comum. Assim o sacerdote fará expiação pelo maioral, pelo pecado dele, e o pecado dele será perdoado.
+
+[[v3-4-27]]
+
+^<<v3-4-27,27>>^ “‘Se alguém^&#42;1^ do povo da terra pecar sem querer e se tornar culpado por fazer uma das coisas que Jeová ordena que não se façam,
+
+[NOTE]
+====
+. Ou: “alguma alma”.
+====
+
+[[v3-4-28]]
+
+^<<v3-4-28,28>>^ ou se ele se der conta de um pecado que cometeu, então ele apresentará uma cabritinha sadia como oferta pelo pecado que cometeu.
+
+[[v3-4-29]]
+
+^<<v3-4-29,29>>^ Ele porá a mão sobre a cabeça da oferta pelo pecado e abaterá a oferta pelo pecado no mesmo lugar da oferta queimada.
+
+[[v3-4-30]]
+
+^<<v3-4-30,30>>^ O sacerdote molhará o dedo no sangue dela e porá um pouco sobre os chifres do altar da oferta queimada, e derramará todo o restante do sangue dela junto à base do altar.
+
+[[v3-4-31]]
+
+^<<v3-4-31,31>>^ Ele removerá toda a gordura dela, assim como é removida a gordura do sacrifício de participação em comum, e o sacerdote fará a gordura fumegar no altar, como aroma agradável^&#42;1^ para Jeová. Assim o sacerdote fará expiação pelo homem, e o pecado dele será perdoado.
+
+[NOTE]
+====
+. Ou: “apaziguador; calmante”. Lit.: “repousante”.
+====
+
+[[v3-4-32]]
+
+^<<v3-4-32,32>>^ “‘Mas, se ele oferecer um cordeiro como oferta pelo pecado, deve trazer uma fêmea sadia.
+
+[[v3-4-33]]
+
+^<<v3-4-33,33>>^ Ele porá a mão sobre a cabeça da oferta pelo pecado e a abaterá como oferta pelo pecado no lugar onde se abate a oferta queimada.
+
+[[v3-4-34]]
+
+^<<v3-4-34,34>>^ O sacerdote molhará o dedo no sangue da oferta pelo pecado e o porá sobre os chifres do altar da oferta queimada, e derramará todo o restante do sangue dela junto à base do altar.
+
+[[v3-4-35]]
+
+^<<v3-4-35,35>>^ Ele removerá toda a gordura dela, assim como se remove a gordura do carneirinho do sacrifício de participação em comum, e o sacerdote a fará fumegar no altar, por cima das ofertas feitas por fogo a Jeová. Assim o sacerdote fará expiação pelo homem, pelo pecado que cometeu, e o pecado dele será perdoado.
+
+'''
+
+xref:003-levitico/003-levitico-003.adoc#v3-3-0[&#60; Capítulo Anterior] | <<v3-4-0,Topo>> | xref:003-levitico/003-levitico-005.adoc#v3-5-0[Próximo Capítulo &#62;]

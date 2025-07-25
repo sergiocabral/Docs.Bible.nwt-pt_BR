@@ -1,0 +1,120 @@
+include::./index.adoc[]
+
+[[v19-65-0]]
+=== Salmos, 65
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Ao regente. Salmo de Davi. Cântico._
+
+[[v19-65-1]]
+
+^<<v19-65-1,1>>^ O louvor te espera em Sião, ó Deus;
+Cumpriremos os votos que fizemos a ti.
+
+[[v19-65-2]]
+
+^<<v19-65-2,2>>^ Ó Ouvinte de oração, a ti virão pessoas de todo tipo.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “toda carne”.
+====
+
+[[v19-65-3]]
+
+^<<v19-65-3,3>>^ Meus erros me esmagam,
+Mas tu cobres as nossas transgressões.
+
+[[v19-65-4]]
+
+^<<v19-65-4,4>>^ Feliz aquele a quem tu escolhes e trazes para junto de ti,
+Para morar nos teus pátios.
+Seremos saciados com as coisas boas da tua casa,
+O teu santo templo.^&#42;1^
+
+[NOTE]
+====
+. Ou: “santuário”.
+====
+
+[[v19-65-5]]
+
+^<<v19-65-5,5>>^ Tu nos responderás com atos atemorizantes de justiça,
+Ó Deus da nossa salvação;
+Tu és a confiança de todos os confins da terra
+E dos mares mais distantes.
+
+[[v19-65-6]]
+
+^<<v19-65-6,6>>^ Estabeleceste^&#42;1^ firmemente as montanhas com a tua força;
+Estás^&#42;2^ revestido de poder.
+
+[NOTE]
+====
+. Lit.: “Ele estabeleceu”.
+. Lit.: “Ele está”.
+====
+
+[[v19-65-7]]
+
+^<<v19-65-7,7>>^ Acalmas^&#42;1^ a fúria dos mares,
+O estrondo das suas ondas e o tumulto das nações.
+
+[NOTE]
+====
+. Lit.: “Ele acalma”.
+====
+
+[[v19-65-8]]
+
+^<<v19-65-8,8>>^ Os habitantes de lugares distantes se encherão de temor diante dos teus sinais;
+Farás com que haja gritos de alegria do nascente ao poente.
+
+[[v19-65-9]]
+
+^<<v19-65-9,9>>^ Cuidas da terra,
+Tornando-a extremamente fértil^&#42;1^ e muito rica.
+O rio de Deus corre cheio de água;
+Tu lhes forneces cereal.
+É assim que preparaste a terra.
+
+[NOTE]
+====
+. Lit.: “Fazendo-a transbordar”.
+====
+
+[[v19-65-10]]
+
+^<<v19-65-10,10>>^ Encharcas os seus sulcos, aplainas o seu solo arado;
+Tu a amoleces com chuvas abundantes, abençoas a sua produção.
+
+[[v19-65-11]]
+
+^<<v19-65-11,11>>^ Coroas o ano com a tua bondade;
+Teus caminhos transbordam de fartura.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “gotejam com gordura”.
+====
+
+[[v19-65-12]]
+
+^<<v19-65-12,12>>^ As pastagens do deserto^&#42;1^ transbordam,^&#42;2^
+E as colinas se vestem de alegria.
+
+[NOTE]
+====
+. Veja o Glossário.
+. Lit.: “gotejam”.
+====
+
+[[v19-65-13]]
+
+^<<v19-65-13,13>>^ Os pastos estão cobertos de rebanhos,
+E os vales se revestem de cereais.
+Eles gritam triunfantemente, sim, cantam.
+
+'''
+
+xref:019-salmo/019-salmo-064.adoc#v19-64-0[&#60; Capítulo Anterior] | <<v19-65-0,Topo>> | xref:019-salmo/019-salmo-066.adoc#v19-66-0[Próximo Capítulo &#62;]

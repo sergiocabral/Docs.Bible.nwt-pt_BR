@@ -1,0 +1,244 @@
+include::./index.adoc[]
+
+[[v18-34-0]]
+=== Jó, 34
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v18-34-1]]
+
+^<<v18-34-1,1>>^ Então Eliú continuou dizendo:
+
+[[v18-34-2]]
+
+^<<v18-34-2,2>>^ “Escutem as minhas palavras, vocês que sabem tantas coisas;
+Ouçam-me, vocês que têm tanto entendimento.
+
+[[v18-34-3]]
+
+^<<v18-34-3,3>>^ Pois o ouvido prova as palavras,
+Assim como a língua^&#42;1^ saboreia a comida.
+
+[NOTE]
+====
+. Lit.: “o palato”.
+====
+
+[[v18-34-4]]
+
+^<<v18-34-4,4>>^ Avaliemos o que é justo;
+Decidamos o que é bom.
+
+[[v18-34-5]]
+
+^<<v18-34-5,5>>^ Pois Jó disse: ‘Eu tenho razão,
+Mas Deus me negou a justiça;
+
+[[v18-34-6]]
+
+^<<v18-34-6,6>>^ Será que eu deveria mentir e dizer que sou culpado?
+Meu ferimento é incurável, embora eu não tenha cometido nenhuma transgressão.’
+
+[[v18-34-7]]
+
+^<<v18-34-7,7>>^ Que homem é como Jó,
+Que engole a zombaria como se fosse água?
+
+[[v18-34-8]]
+
+^<<v18-34-8,8>>^ Ele está na companhia de malfeitores
+E se ajunta com os maus.
+
+[[v18-34-9]]
+
+^<<v18-34-9,9>>^ Pois ele disse: ‘O homem não ganha nada
+Em tentar agradar a Deus.’
+
+[[v18-34-10]]
+
+^<<v18-34-10,10>>^ Por isso escutem-me, homens de entendimento:^&#42;1^
+O verdadeiro Deus jamais faria o que é mau,
+O Todo-Poderoso nunca faria o que é errado!
+
+[NOTE]
+====
+. Lit.: “coração”.
+====
+
+[[v18-34-11]]
+
+^<<v18-34-11,11>>^ Pois ele recompensará o homem conforme as suas ações
+E trará sobre ele as consequências dos seus caminhos.
+
+[[v18-34-12]]
+
+^<<v18-34-12,12>>^ A verdade é que Deus não faz o que é mau;
+O Todo-Poderoso não perverte a justiça.
+
+[[v18-34-13]]
+
+^<<v18-34-13,13>>^ Quem o encarregou da terra,
+E quem o designou sobre o mundo inteiro?^&#42;1^
+
+[NOTE]
+====
+. Ou: “a terra habitada”.
+====
+
+[[v18-34-14]]
+
+^<<v18-34-14,14>>^ Se ele fixasse sua atenção^&#42;1^ neles,
+E recolhesse o espírito e o fôlego deles,
+
+[NOTE]
+====
+. Lit.: “seu coração”.
+====
+
+[[v18-34-15]]
+
+^<<v18-34-15,15>>^ Todos os humanos morreriam juntos,^&#42;1^
+E a humanidade voltaria ao pó.
+
+[NOTE]
+====
+. Lit.: “Toda carne morreria junta”.
+====
+
+[[v18-34-16]]
+
+^<<v18-34-16,16>>^ Portanto, se você tiver entendimento, preste atenção a isto,
+Escute atentamente o que eu digo.
+
+[[v18-34-17]]
+
+^<<v18-34-17,17>>^ Será que alguém que odeia a justiça pode governar?
+Você condenaria um poderoso que é justo?
+
+[[v18-34-18]]
+
+^<<v18-34-18,18>>^ Será que você diria ao rei: ‘Você não presta para nada’,
+Ou aos nobres: ‘Vocês são maus’?
+
+[[v18-34-19]]
+
+^<<v18-34-19,19>>^ Há Um que não mostra parcialidade a favor de príncipes,
+Nem favorece mais o rico do que o pobre,^&#42;1^
+Pois todos eles são trabalho das suas mãos.
+
+[NOTE]
+====
+. Ou: “o nobre do que o humilde”.
+====
+
+[[v18-34-20]]
+
+^<<v18-34-20,20>>^ Eles podem morrer de repente, no meio da noite;
+Estremecem violentamente e falecem;
+Até os poderosos são removidos, mas não por mãos humanas.
+
+[[v18-34-21]]
+
+^<<v18-34-21,21>>^ Pois os olhos de Deus estão sobre os caminhos do homem,
+E Ele vê todos os seus passos.
+
+[[v18-34-22]]
+
+^<<v18-34-22,22>>^ Não há escuridão nem densas trevas
+Onde os malfeitores possam se esconder.
+
+[[v18-34-23]]
+
+^<<v18-34-23,23>>^ Pois Deus não determinou um tempo para o homem
+Apresentar-se perante ele em julgamento.
+
+[[v18-34-24]]
+
+^<<v18-34-24,24>>^ Ele destrói os poderosos sem necessidade de investigação
+E coloca outros no lugar deles.
+
+[[v18-34-25]]
+
+^<<v18-34-25,25>>^ Pois sabe o que eles estão fazendo;
+Ele os derruba durante a noite, e são esmagados.
+
+[[v18-34-26]]
+
+^<<v18-34-26,26>>^ Ele os golpeia por causa da sua maldade
+Num lugar onde todos podem ver,
+
+[[v18-34-27]]
+
+^<<v18-34-27,27>>^ Porque deixaram de segui-lo
+E não fazem caso de nenhum dos Seus caminhos;
+
+[[v18-34-28]]
+
+^<<v18-34-28,28>>^ Fazem com que o pobre clame a ele,
+De modo que ele ouve o clamor dos desamparados.
+
+[[v18-34-29]]
+
+^<<v18-34-29,29>>^ Quando Deus fica em silêncio, quem pode condená-lo?
+Quando ele esconde a face, quem pode vê-lo?
+Quer seja para uma nação, quer para um homem, o resultado é o mesmo,
+
+[[v18-34-30]]
+
+^<<v18-34-30,30>>^ De modo que o ímpio^&#42;1^ não pode governar,
+Nem preparar armadilhas para o povo.
+
+[NOTE]
+====
+. Ou: “apóstata”.
+====
+
+[[v18-34-31]]
+
+^<<v18-34-31,31>>^ Pois será que alguém dirá a Deus:
+‘Fui punido, embora eu não tenha feito nada errado;
+
+[[v18-34-32]]
+
+^<<v18-34-32,32>>^ Mostra-me o que deixei de ver;
+Se fiz algo errado, não farei isso de novo’?
+
+[[v18-34-33]]
+
+^<<v18-34-33,33>>^ Será que ele deveria recompensá-lo segundo o que você quer, se você rejeita o julgamento dele?
+Você é quem deve decidir, não eu.
+Então diga-me o que você sabe tão bem.
+
+[[v18-34-34]]
+
+^<<v18-34-34,34>>^ Os homens de entendimento^&#42;1^ me dirão,
+Qualquer homem sábio que me ouve:
+
+[NOTE]
+====
+. Lit.: “coração”.
+====
+
+[[v18-34-35]]
+
+^<<v18-34-35,35>>^ ‘Jó fala sem conhecimento,
+E suas palavras não demonstram entendimento.’
+
+[[v18-34-36]]
+
+^<<v18-34-36,36>>^ Que Jó seja provado^&#42;1^ até o limite,
+Porque suas respostas são como as dos homens maus!
+
+[NOTE]
+====
+. Ou, possivelmente: “Meu pai, que Jó seja provado”.
+====
+
+[[v18-34-37]]
+
+^<<v18-34-37,37>>^ Ele acrescenta revolta ao seu pecado,
+Bate palmas com desprezo diante de nós
+E multiplica suas palavras contra o verdadeiro Deus!”
+
+'''
+
+xref:018-jo/018-jo-033.adoc#v18-33-0[&#60; Capítulo Anterior] | <<v18-34-0,Topo>> | xref:018-jo/018-jo-035.adoc#v18-35-0[Próximo Capítulo &#62;]

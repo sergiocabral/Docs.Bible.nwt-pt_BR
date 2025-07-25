@@ -1,0 +1,237 @@
+include::./index.adoc[]
+
+[[v18-30-0]]
+=== Jó, 30
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v18-30-1]]
+
+^<<v18-30-1,1>>^ “Agora riem de mim,
+Homens mais jovens do que eu,
+Cujos pais eu teria recusado
+Colocar com os cães que vigiavam o meu rebanho.
+
+[[v18-30-2]]
+
+^<<v18-30-2,2>>^ De que me adiantou a força das mãos deles?
+O vigor deles desapareceu.
+
+[[v18-30-3]]
+
+^<<v18-30-3,3>>^ Eles estão esgotados por causa da miséria e da fome;
+Roem o que encontram numa terra árida,
+Que já estava arruinada e desolada.
+
+[[v18-30-4]]
+
+^<<v18-30-4,4>>^ Colhem as folhas da salgadeira entre os arbustos;
+Seu alimento é a raiz das giestas-das-vassouras.
+
+[[v18-30-5]]
+
+^<<v18-30-5,5>>^ São expulsos da comunidade;
+As pessoas gritam com eles como se fosse com um ladrão.
+
+[[v18-30-6]]
+
+^<<v18-30-6,6>>^ Eles moram nas encostas dos vales,^&#42;1^
+Em buracos no chão e nas rochas.
+
+[NOTE]
+====
+. Ou: “uádis”.
+====
+
+[[v18-30-7]]
+
+^<<v18-30-7,7>>^ Uivam do meio dos arbustos,
+E se amontoam entre as urtigas.
+
+[[v18-30-8]]
+
+^<<v18-30-8,8>>^ Como filhos dos insensatos e daqueles que não têm nome,
+Foram expulsos^&#42;1^ da terra.
+
+[NOTE]
+====
+. Lit.: “chicoteados para fora”.
+====
+
+[[v18-30-9]]
+
+^<<v18-30-9,9>>^ Mas agora zombam de mim até mesmo nas suas canções;
+Eu me tornei para eles um motivo de zombaria.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “um provérbio; um ditado”.
+====
+
+[[v18-30-10]]
+
+^<<v18-30-10,10>>^ Eles me detestam e se mantêm longe de mim;
+Não hesitam em cuspir no meu rosto.
+
+[[v18-30-11]]
+
+^<<v18-30-11,11>>^ Pois Deus me desarmou^&#42;1^ e me humilhou;
+Eles não se refreiam^&#42;2^ na minha presença.
+
+[NOTE]
+====
+. Lit.: “afrouxou a minha corda de arco”.
+. Ou: “Eles lançam fora o freio”.
+====
+
+[[v18-30-12]]
+
+^<<v18-30-12,12>>^ À minha direita, surgem como uma turba;
+Eles me põem para fugir
+E levantam barreiras de destruição no meu caminho.
+
+[[v18-30-13]]
+
+^<<v18-30-13,13>>^ Destroem os meus caminhos
+E aumentam a minha calamidade,
+Sem que haja ninguém para impedi-los.^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “Sem ninguém para ajudá-los”.
+====
+
+[[v18-30-14]]
+
+^<<v18-30-14,14>>^ Entram como que por uma grande brecha na muralha;
+Avançam em meio à devastação.
+
+[[v18-30-15]]
+
+^<<v18-30-15,15>>^ O terror toma conta de mim;
+Minha dignidade é levada embora como que pelo vento,
+E minha salvação desaparece como uma nuvem.
+
+[[v18-30-16]]
+
+^<<v18-30-16,16>>^ Agora a minha vida^&#42;1^ se desvanece;
+Dias de aflição tomam conta de mim.
+
+[NOTE]
+====
+. Ou: “alma”.
+====
+
+[[v18-30-17]]
+
+^<<v18-30-17,17>>^ A dor traspassa meus ossos^&#42;1^ à noite;
+A dor que me corrói nunca passa.
+
+[NOTE]
+====
+. Lit.: “Meus ossos são perfurados”.
+====
+
+[[v18-30-18]]
+
+^<<v18-30-18,18>>^ Com grande força minha roupa é desfigurada,^&#42;1^
+E me sufoca como a gola da minha veste.
+
+[NOTE]
+====
+. Ou, possivelmente: “A gravidade da minha aflição me desfigura”.
+====
+
+[[v18-30-19]]
+
+^<<v18-30-19,19>>^ Deus me jogou na lama;
+Fui reduzido a pó e cinzas.
+
+[[v18-30-20]]
+
+^<<v18-30-20,20>>^ Clamo a ti por ajuda, mas não me respondes;
+Fico de pé, mas apenas olhas para mim.
+
+[[v18-30-21]]
+
+^<<v18-30-21,21>>^ Tu te voltaste cruelmente contra mim;
+E me atacas com toda a força da tua mão.
+
+[[v18-30-22]]
+
+^<<v18-30-22,22>>^ Tu me levantas e me carregas com o vento;
+Depois me jogas para lá e para cá na tempestade.^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “me dissolves com um estrondo”.
+====
+
+[[v18-30-23]]
+
+^<<v18-30-23,23>>^ Sei que tu me levarás à morte,
+À casa onde todos os vivos se encontrarão.
+
+[[v18-30-24]]
+
+^<<v18-30-24,24>>^ Mas ninguém atacaria um homem arruinado,^&#42;1^
+Quando ele clama por ajuda durante a sua calamidade.
+
+[NOTE]
+====
+. Lit.: “um monte de ruínas”.
+====
+
+[[v18-30-25]]
+
+^<<v18-30-25,25>>^ Será que não chorei pelos que passam por tempos difíceis?^&#42;1^
+Será que eu não tive^&#42;2^ pena do pobre?
+
+[NOTE]
+====
+. Ou: “estão tendo um dia difícil”.
+. Ou: “minha alma não teve”.
+====
+
+[[v18-30-26]]
+
+^<<v18-30-26,26>>^ Embora eu esperasse o bem, chegou o mal;
+Eu aguardava a luz, mas chegou a escuridão.
+
+[[v18-30-27]]
+
+^<<v18-30-27,27>>^ A agitação dentro de mim não cessou;
+Dias de aflição me sobrevieram.
+
+[[v18-30-28]]
+
+^<<v18-30-28,28>>^ Eu caminho triste; não há luz do sol.
+Eu me levanto no meio da assembleia e clamo por ajuda.
+
+[[v18-30-29]]
+
+^<<v18-30-29,29>>^ Eu me tornei irmão de chacais
+E companheiro de filhotes de avestruzes.
+
+[[v18-30-30]]
+
+^<<v18-30-30,30>>^ Minha pele ficou escura e caiu;
+Meus ossos queimam por causa do calor.^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “da febre”.
+====
+
+[[v18-30-31]]
+
+^<<v18-30-31,31>>^ Minha harpa é usada apenas para lamento;
+E minha flauta,^&#42;1^ para o som de choro.
+
+[NOTE]
+====
+. Ou: “meu pífaro”.
+====
+
+'''
+
+xref:018-jo/018-jo-029.adoc#v18-29-0[&#60; Capítulo Anterior] | <<v18-30-0,Topo>> | xref:018-jo/018-jo-031.adoc#v18-31-0[Próximo Capítulo &#62;]

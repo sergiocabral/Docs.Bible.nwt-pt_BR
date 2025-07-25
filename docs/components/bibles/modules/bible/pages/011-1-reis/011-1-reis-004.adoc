@@ -1,0 +1,188 @@
+include::./index.adoc[]
+
+[[v11-4-0]]
+=== O Primeiro dos Reis, 4
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v11-4-1]]
+
+^<<v11-4-1,1>>^ O rei Salomão governava todo o Israel.
+
+[[v11-4-2]]
+
+^<<v11-4-2,2>>^ Estes eram os seus altos funcionários:^&#42;1^ Azarias, filho de Zadoque, era o sacerdote;
+
+[NOTE]
+====
+. Ou: “seus príncipes”.
+====
+
+[[v11-4-3]]
+
+^<<v11-4-3,3>>^ Eliorefe e Aías, filhos de Sisa, eram secretários; Jeosafá, filho de Ailude, era o cronista;
+
+[[v11-4-4]]
+
+^<<v11-4-4,4>>^ Benaia, filho de Jeoiada, era chefe do exército; Zadoque e Abiatar eram sacerdotes;
+
+[[v11-4-5]]
+
+^<<v11-4-5,5>>^ Azarias, filho de Natã, era o supervisor dos governantes distritais; Zabude, filho de Natã, era sacerdote e amigo do rei;
+
+[[v11-4-6]]
+
+^<<v11-4-6,6>>^ Aisar era o encarregado da casa; e Adonirão, filho de Abda, era o encarregado dos convocados para trabalho obrigatório.
+
+[[v11-4-7]]
+
+^<<v11-4-7,7>>^ Salomão tinha 12 governantes distritais sobre todo o Israel, que forneciam alimento ao rei e aos da sua casa. Cada um tinha a responsabilidade de fornecer o alimento durante um mês no ano.
+
+[[v11-4-8]]
+
+^<<v11-4-8,8>>^ Estes eram os governantes distritais: o filho de Hur na região montanhosa de Efraim;
+
+[[v11-4-9]]
+
+^<<v11-4-9,9>>^ o filho de Dequer em Macaz, Saalbim, Bete-Semes e Elom-Bete-Hanã;
+
+[[v11-4-10]]
+
+^<<v11-4-10,10>>^ o filho de Hesede em Arubote (ele supervisionava Socó e toda a terra de Héfer);
+
+[[v11-4-11]]
+
+^<<v11-4-11,11>>^ o filho de Abinadabe em todas as encostas de Dor (Tafate, filha de Salomão, tornou-se sua esposa);
+
+[[v11-4-12]]
+
+^<<v11-4-12,12>>^ Baana, filho de Ailude, em Taanaque, Megido e toda a região de Bete-Seã (que faz fronteira com a região de Zaretã, abaixo de Jezreel), desde Bete-Seã até Abel-Meolá, e até a região de Jocmeão;
+
+[[v11-4-13]]
+
+^<<v11-4-13,13>>^ o filho de Geber em Ramote-Gileade (ele supervisionava as aldeias de tendas de Jair, filho de Manassés, que ficam em Gileade; também supervisionava a região de Argobe, que fica em Basã: 60 cidades grandes com muralhas e trancas de cobre);
+
+[[v11-4-14]]
+
+^<<v11-4-14,14>>^ Ainadabe, filho de Ido, em Maanaim;
+
+[[v11-4-15]]
+
+^<<v11-4-15,15>>^ Aimaás em Naftali (ele tomou como esposa outra filha de Salomão, Basemate);
+
+[[v11-4-16]]
+
+^<<v11-4-16,16>>^ Baana, filho de Husai, em Aser e Bealote;
+
+[[v11-4-17]]
+
+^<<v11-4-17,17>>^ Jeosafá, filho de Parua, em Issacar;
+
+[[v11-4-18]]
+
+^<<v11-4-18,18>>^ Simei, filho de Ela, em Benjamim;
+
+[[v11-4-19]]
+
+^<<v11-4-19,19>>^ Geber, filho de Uri, na terra de Gileade, a terra que tinha sido de Siom, rei dos amorreus, e de Ogue, rei de Basã. Havia também um governante encarregado de todos esses governantes distritais do país.
+
+[[v11-4-20]]
+
+^<<v11-4-20,20>>^ O povo de Judá e Israel era tão numeroso como os grãos de areia à beira do mar; eles comiam, bebiam e se alegravam.
+
+[[v11-4-21]]
+
+^<<v11-4-21,21>>^ Salomão governava todos os reinos desde o rio Eufrates^&#42;1^ até a terra dos filisteus, e até o limite do território do Egito. Esses reinos traziam tributos e serviram a Salomão durante todos os dias de sua vida.
+
+[NOTE]
+====
+. Lit.: “o Rio”.
+====
+
+[[v11-4-22]]
+
+^<<v11-4-22,22>>^ As provisões diárias de Salomão eram 30 coros^&#42;1^ de farinha fina e 60 coros de farinha comum,
+
+[NOTE]
+====
+. Um coro equivalia a 220 l. Veja Ap. B14.
+====
+
+[[v11-4-23]]
+
+^<<v11-4-23,23>>^ bem como 10 cabeças de gado bovino de engorda, 20 de gado criado no pasto, 100 ovelhas, além de alguns cervos, gazelas, corços e também cucos criados para consumo.
+
+[[v11-4-24]]
+
+^<<v11-4-24,24>>^ Pois ele dominava tudo deste lado^&#42;1^ do rio Eufrates,^&#42;2^ desde Tifsa até Gaza, incluindo todos os reis deste lado do rio; e ele tinha paz em todas as regiões ao seu redor.
+
+[NOTE]
+====
+. Isto é, a oeste.
+. Lit.: “do Rio”.
+====
+
+[[v11-4-25]]
+
+^<<v11-4-25,25>>^ Judá e Israel moraram em segurança, cada um debaixo da sua própria videira e debaixo da sua própria figueira, desde Dã até Berseba, durante todos os dias de Salomão.
+
+[[v11-4-26]]
+
+^<<v11-4-26,26>>^ E Salomão tinha 4.000^&#42;1^ baias para os cavalos dos seus carros de guerra e 12.000 cavalos.^&#42;2^
+
+[NOTE]
+====
+. Este número é encontrado em alguns manuscritos e no relato paralelo. Outros manuscritos dizem 40.000.
+. Ou: “cavaleiros”.
+====
+
+[[v11-4-27]]
+
+^<<v11-4-27,27>>^ Os governantes distritais supriam de alimento o rei Salomão e todos os que comiam à mesa do rei Salomão. Cada um era responsável por um mês, e cuidava para que não faltasse nada.
+
+[[v11-4-28]]
+
+^<<v11-4-28,28>>^ Eles também levavam a sua cota de cevada e palha aonde fosse necessário para os cavalos, inclusive para os cavalos que puxavam carros.
+
+[[v11-4-29]]
+
+^<<v11-4-29,29>>^ E Deus deu a Salomão sabedoria e discernimento num grau extraordinário, e um coração com uma compreensão além de medida,^&#42;1^ como a areia à beira do mar.
+
+[NOTE]
+====
+. Ou: “e uma largueza de coração”.
+====
+
+[[v11-4-30]]
+
+^<<v11-4-30,30>>^ A sabedoria de Salomão era maior do que a sabedoria de todos os orientais e do que toda a sabedoria do Egito.
+
+[[v11-4-31]]
+
+^<<v11-4-31,31>>^ Ele era mais sábio do que qualquer outro homem, mais do que Etã, o ezraíta, e Hemã, Calcol e Darda, filhos de Maol; sua fama se espalhou por todas as nações ao redor.
+
+[[v11-4-32]]
+
+^<<v11-4-32,32>>^ Ele compôs^&#42;1^ 3.000 provérbios, e seus cânticos chegaram a 1.005.
+
+[NOTE]
+====
+. Ou: “falou”.
+====
+
+[[v11-4-33]]
+
+^<<v11-4-33,33>>^ Ele falava sobre as plantas, do cedro do Líbano ao hissopo que cresce no muro; falava sobre os animais, sobre as aves,^&#42;1^ sobre os animais rasteiros^&#42;2^ e sobre os peixes.
+
+[NOTE]
+====
+. Ou: “criaturas voadoras”.
+. Possivelmente incluíam répteis e insetos.
+====
+
+[[v11-4-34]]
+
+^<<v11-4-34,34>>^ Pessoas de todas as nações vinham para ouvir a sabedoria de Salomão, incluindo reis de toda a terra que tinham ouvido falar da sua sabedoria.
+
+'''
+
+xref:011-1-reis/011-1-reis-003.adoc#v11-3-0[&#60; Capítulo Anterior] | <<v11-4-0,Topo>> | xref:011-1-reis/011-1-reis-005.adoc#v11-5-0[Próximo Capítulo &#62;]

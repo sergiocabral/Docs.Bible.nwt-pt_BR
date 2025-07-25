@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v5-13-0]]
+=== Deuteronômio, 13
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v5-13-1]]
+
+^<<v5-13-1,1>>^ “Se surgir em seu meio um profeta ou alguém que faça predições por meio de sonhos e ele lhe apresentar um sinal ou um prodígio,
+
+[[v5-13-2]]
+
+^<<v5-13-2,2>>^ e o sinal ou o prodígio sobre o qual ele lhe falou se cumprir, e ele disser: ‘Vamos seguir outros deuses’, deuses que você não conhece, ‘e vamos servi-los’,
+
+[[v5-13-3]]
+
+^<<v5-13-3,3>>^ não escute as palavras desse profeta ou daquele que faz predições por meio de sonhos, pois Jeová, seu Deus, está pondo vocês à prova para saber se amam a Jeová, seu Deus, de todo o seu coração e de toda a sua alma.^&#42;1^
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v5-13-4]]
+
+^<<v5-13-4,4>>^ É a Jeová, seu Deus, que vocês devem seguir, e a ele devem temer. Devem guardar os seus mandamentos e escutar a sua voz. E a ele devem servir e se apegar.
+
+[[v5-13-5]]
+
+^<<v5-13-5,5>>^ Mas aquele profeta ou aquele que faz predições por meio de sonhos deve ser morto, porque instigou rebelião contra Jeová, seu Deus, para desviar você do caminho em que Jeová, seu Deus, que os tirou da terra do Egito e o resgatou da terra da escravidão,^&#42;1^ o mandou andar. Assim, elimine o mal do seu meio.
+
+[NOTE]
+====
+. Lit.: “casa dos escravos”.
+====
+
+[[v5-13-6]]
+
+^<<v5-13-6,6>>^ “Se seu irmão, filho da sua mãe, ou seu filho, ou sua filha, ou sua querida esposa, ou seu amigo mais achegado^&#42;1^ tentar instigá-lo em segredo, dizendo: ‘Vamos e sirvamos a outros deuses’, deuses que nem você nem seus antepassados conheciam,
+
+[NOTE]
+====
+. Ou: “seu amigo que é como a sua própria alma”.
+====
+
+[[v5-13-7]]
+
+^<<v5-13-7,7>>^ deuses dos povos ao redor de vocês, quer de perto quer de longe, de uma extremidade da terra à outra extremidade da terra,
+
+[[v5-13-8]]
+
+^<<v5-13-8,8>>^ não deixe que ele o convença nem o escute. Você não deve ter dó nem compaixão dele, nem deve protegê-lo;
+
+[[v5-13-9]]
+
+^<<v5-13-9,9>>^ em vez disso, sem falta deve matá-lo. Sua mão deve ser a primeira a vir sobre ele para matá-lo, e depois a mão de todo o povo.
+
+[[v5-13-10]]
+
+^<<v5-13-10,10>>^ Apedreje-o até a morte, visto que procurou desviar você de Jeová, seu Deus, que o tirou da terra do Egito, a terra da escravidão.
+
+[[v5-13-11]]
+
+^<<v5-13-11,11>>^ Então todo o Israel ouvirá a respeito disso e ficará com medo, e nunca mais farão uma maldade como essa no seu meio.
+
+[[v5-13-12]]
+
+^<<v5-13-12,12>>^ “Caso você ouça dizer o seguinte numa das cidades que Jeová, seu Deus, lhe dá para morar:
+
+[[v5-13-13]]
+
+^<<v5-13-13,13>>^ ‘Homens imprestáveis surgiram no seu meio para desviar os habitantes da sua cidade, dizendo: “Vamos e sirvamos a outros deuses”, deuses que você não conhece’,
+
+[[v5-13-14]]
+
+^<<v5-13-14,14>>^ você deve verificar o assunto, fazendo uma investigação e uma pesquisa cuidadosa. Se for confirmado que essa coisa detestável foi feita em seu meio,
+
+[[v5-13-15]]
+
+^<<v5-13-15,15>>^ você deve sem falta matar com a espada os habitantes daquela cidade. Entregue à destruição^&#42;1^ pela espada tanto a ela como a tudo o que houver nela, incluindo seus rebanhos.
+
+[NOTE]
+====
+. Ou: “Devote à destruição”. Veja o Glossário.
+====
+
+[[v5-13-16]]
+
+^<<v5-13-16,16>>^ Então você deve juntar todo o seu despojo no meio da praça pública e queimar a cidade com fogo, e seu despojo servirá como uma oferta inteira a Jeová, seu Deus. Ela se tornará para sempre um monte de ruínas. Nunca deve ser reconstruída.
+
+[[v5-13-17]]
+
+^<<v5-13-17,17>>^ Sua mão não deve pegar nada do que foi separado para a destruição,^&#42;1^ para que Jeová abandone a sua ira ardente, tenha misericórdia e compaixão de você, e o multiplique, assim como jurou aos seus antepassados.
+
+[NOTE]
+====
+. Ou: “tornado sagrado por meio de uma interdição”.
+====
+
+[[v5-13-18]]
+
+^<<v5-13-18,18>>^ Pois você deve obedecer a^&#42;1^ Jeová, seu Deus, guardando todos os seus mandamentos que hoje lhe ordeno, fazendo assim o que é certo aos olhos de Jeová, seu Deus.
+
+[NOTE]
+====
+. Ou: “escutar a voz de”.
+====
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-012.adoc#v5-12-0[&#60; Capítulo Anterior] | <<v5-13-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-014.adoc#v5-14-0[Próximo Capítulo &#62;]

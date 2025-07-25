@@ -1,0 +1,137 @@
+include::./index.adoc[]
+
+[[v33-6-0]]
+=== Miqueias, 6
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v33-6-1]]
+
+^<<v33-6-1,1>>^ Ouçam, por favor, o que Jeová está dizendo.
+Levantem-se, apresentem a sua causa diante dos montes,
+E que as colinas ouçam a sua voz.
+
+[[v33-6-2]]
+
+^<<v33-6-2,2>>^ Ouçam, ó montes, a causa de Jeová,
+Vocês, sólidos alicerces da terra,
+Pois Jeová tem uma causa contra o seu povo;
+É contra Israel que ele argumentará:
+
+[[v33-6-3]]
+
+^<<v33-6-3,3>>^ “Meu povo, o que eu fiz a vocês?
+Como os cansei?
+Testemunhem contra mim.
+
+[[v33-6-4]]
+
+^<<v33-6-4,4>>^ Pois eu os tirei da terra do Egito
+E os resgatei da terra da escravidão;^&#42;1^
+Eu enviei à sua frente Moisés, Arão e Miriã.
+
+[NOTE]
+====
+. Lit.: “casa dos escravos”.
+====
+
+[[v33-6-5]]
+
+^<<v33-6-5,5>>^ Meu povo, por favor, lembrem-se do que Balaque, rei de Moabe, propôs
+E do que Balaão, filho de Beor, respondeu a ele,
+Do que aconteceu de Sitim até Gilgal,
+Para que vocês conheçam os atos justos de Jeová.”
+
+[[v33-6-6]]
+
+^<<v33-6-6,6>>^ Com o que comparecerei perante Jeová?
+Com o que me curvarei diante do Deus que mora no alto?
+Comparecerei perante ele com ofertas queimadas,
+Com bezerros de um ano?
+
+[[v33-6-7]]
+
+^<<v33-6-7,7>>^ Será que Jeová terá prazer em milhares de carneiros,
+Em dezenas de milhares de torrentes de azeite?
+Darei o meu primogênito pela minha rebeldia,
+O fruto do meu corpo pelo meu pecado?^&#42;1^
+
+[NOTE]
+====
+. Ou: “pelo pecado da minha alma”.
+====
+
+[[v33-6-8]]
+
+^<<v33-6-8,8>>^ Ele o informou, ó homem, sobre o que é bom.
+E o que Jeová pede^&#42;1^ de você?
+Apenas que pratique a justiça,^&#42;2^ ame a lealdade^&#42;3^
+E ande modestamente com o seu Deus!
+
+[NOTE]
+====
+. Ou: “exige”.
+. Ou: “seja justo”.
+. Ou: “seja bondoso e leal no seu amor”. Lit.: “ame amor leal”.
+====
+
+[[v33-6-9]]
+
+^<<v33-6-9,9>>^ A voz de Jeová clama à cidade
+— Os que têm sabedoria prática temerão o teu nome —
+Prestem atenção à vara e a quem a designou.
+
+[[v33-6-10]]
+
+^<<v33-6-10,10>>^ Será que na casa de quem é mau ainda existem os tesouros da maldade,
+E a efa^&#42;1^ reduzida, que é detestável?
+
+[NOTE]
+====
+. Veja Ap. B14.
+====
+
+[[v33-6-11]]
+
+^<<v33-6-11,11>>^ Por acaso posso ser puro^&#42;1^ com uma balança falsa,
+Com uma bolsa de pesos de pedra fraudulentos?
+
+[NOTE]
+====
+. Ou: “inocente”.
+====
+
+[[v33-6-12]]
+
+^<<v33-6-12,12>>^ Pois os homens ricos dela estão cheios de violência,
+E os seus habitantes falam mentiras;
+Eles têm na boca uma língua falsa.
+
+[[v33-6-13]]
+
+^<<v33-6-13,13>>^ “Portanto, eu golpearei você e o ferirei,
+Deixando-o devastado por causa dos seus pecados.
+
+[[v33-6-14]]
+
+^<<v33-6-14,14>>^ Você comerá, mas não ficará satisfeito;
+Haverá um vazio dentro de você.
+Você tentará colocar seus bens em lugar seguro, mas não conseguirá salvá-los;
+E o que você conseguir levar, eu entregarei à espada.
+
+[[v33-6-15]]
+
+^<<v33-6-15,15>>^ Você semeará, mas não colherá.
+Pisará azeitonas, mas não usará o azeite;
+E pisará uvas, mas não beberá o vinho.
+
+[[v33-6-16]]
+
+^<<v33-6-16,16>>^ Pois vocês seguem os decretos de Onri e todas as práticas da casa de Acabe,
+E andam conforme os conselhos deles.
+É por isso que farei de você um motivo de terror,
+E dos habitantes dela um alvo de assobios;
+E vocês suportarão o desprezo dos povos.”
+
+'''
+
+xref:033-miqueias/033-miqueias-005.adoc#v33-5-0[&#60; Capítulo Anterior] | <<v33-6-0,Topo>> | xref:033-miqueias/033-miqueias-007.adoc#v33-7-0[Próximo Capítulo &#62;]

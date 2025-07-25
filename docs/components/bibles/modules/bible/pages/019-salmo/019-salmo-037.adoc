@@ -1,0 +1,337 @@
+include::./index.adoc[]
+
+[[v19-37-0]]
+=== Salmos, 37
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_De Davi._
+
+_א [álefe]_
+
+[[v19-37-1]]
+
+^<<v19-37-1,1>>^ Não fique aborrecido^&#42;1^ por causa dos maus
+Nem inveje os malfeitores.
+
+[NOTE]
+====
+. Ou: “Não se acalore”.
+====
+
+[[v19-37-2]]
+
+^<<v19-37-2,2>>^ Eles secarão rapidamente como a relva
+E murcharão como a relva ainda verde.
+
+_ב [bete]_
+
+[[v19-37-3]]
+
+^<<v19-37-3,3>>^ Confie em Jeová e faça o bem;
+Resida na terra^&#42;1^ e aja com fidelidade.
+
+[NOTE]
+====
+. Ou: “no país”.
+====
+
+[[v19-37-4]]
+
+^<<v19-37-4,4>>^ Encontre a mais plena alegria^&#42;1^ em Jeová,
+E ele lhe concederá os desejos do seu coração.
+
+[NOTE]
+====
+. Ou: “Deleite-se”.
+====
+
+_ג [guímel]_
+
+[[v19-37-5]]
+
+^<<v19-37-5,5>>^ Entregue o seu caminho a^&#42;1^ Jeová;
+Confie nele, e ele agirá em seu favor.
+
+[NOTE]
+====
+. Lit.: “Role o seu caminho sobre”.
+====
+
+[[v19-37-6]]
+
+^<<v19-37-6,6>>^ Ele fará a sua retidão brilhar como o amanhecer,
+E a sua justiça como o sol do meio-dia.
+
+_ד [dálete]_
+
+[[v19-37-7]]
+
+^<<v19-37-7,7>>^ Fique quieto perante Jeová
+E aguarde por ele com expectativa.^&#42;1^
+Não fique aborrecido por causa do homem
+Que é bem-sucedido nas suas tramas.
+
+[NOTE]
+====
+. Ou: “pacientemente”.
+====
+
+_ה [hê]_
+
+[[v19-37-8]]
+
+^<<v19-37-8,8>>^ Deixe a ira e abandone o furor;
+Não se aborreça e não se volte para fazer o mal.^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “Não se aborreça, pois isso só trará prejuízo”.
+====
+
+[[v19-37-9]]
+
+^<<v19-37-9,9>>^ Pois os maus serão eliminados,
+Mas os que esperam em Jeová possuirão a terra.
+
+_ו [vau]_
+
+[[v19-37-10]]
+
+^<<v19-37-10,10>>^ Apenas mais um pouco, e os maus deixarão de existir;
+Você olhará para onde estavam,
+E eles não estarão lá.
+
+[[v19-37-11]]
+
+^<<v19-37-11,11>>^ Mas os mansos possuirão a terra
+E terão grande alegria na abundância de paz.
+
+_ז [zaine]_
+
+[[v19-37-12]]
+
+^<<v19-37-12,12>>^ Os maus tramam contra os justos;
+Rangem os dentes contra eles.
+
+[[v19-37-13]]
+
+^<<v19-37-13,13>>^ Mas Jeová ri dos maus,
+Pois sabe que o dia deles chegará.
+
+_ח [hete]_
+
+[[v19-37-14]]
+
+^<<v19-37-14,14>>^ Os maus puxam a espada e armam^&#42;1^ o arco
+Para derrubar o oprimido e o pobre,
+Para matar os que andam no caminho reto.
+
+[NOTE]
+====
+. Ou: “esticam”.
+====
+
+[[v19-37-15]]
+
+^<<v19-37-15,15>>^ Mas a espada deles atravessará o seu próprio coração;
+Seu arco será quebrado.
+
+_ט [tete]_
+
+[[v19-37-16]]
+
+^<<v19-37-16,16>>^ Melhor é o pouco do justo
+Do que a fartura de muitos maus.
+
+[[v19-37-17]]
+
+^<<v19-37-17,17>>^ Pois os braços dos maus serão quebrados,
+Mas Jeová sustentará os justos.
+
+_י [iode]_
+
+[[v19-37-18]]
+
+^<<v19-37-18,18>>^ Jeová sabe o que os íntegros passam,^&#42;1^
+E a herança deles durará para sempre.
+
+[NOTE]
+====
+. Lit.: “conhece os dias dos íntegros”.
+====
+
+[[v19-37-19]]
+
+^<<v19-37-19,19>>^ Eles não serão envergonhados no tempo do desastre;
+Em tempo de fome, terão abundância.
+
+_כ [cafe]_
+
+[[v19-37-20]]
+
+^<<v19-37-20,20>>^ Mas os maus morrerão;
+Os inimigos de Jeová desaparecerão como a beleza dos pastos;
+Eles desaparecerão como fumaça.
+
+_ל [lâmede]_
+
+[[v19-37-21]]
+
+^<<v19-37-21,21>>^ Quem é mau toma emprestado e não paga,
+Mas o justo dá generosamente.^&#42;1^
+
+[NOTE]
+====
+. Ou: “dá e mostra favor”.
+====
+
+[[v19-37-22]]
+
+^<<v19-37-22,22>>^ Os abençoados por Ele possuirão a terra,
+Mas os amaldiçoados por Ele serão eliminados.
+
+_מ [meme]_
+
+[[v19-37-23]]
+
+^<<v19-37-23,23>>^ Jeová guia^&#42;1^ os passos do homem
+Quando tem prazer no seu caminho.
+
+[NOTE]
+====
+. Ou: “torna firmes”.
+====
+
+[[v19-37-24]]
+
+^<<v19-37-24,24>>^ Mesmo que ele caia, não ficará prostrado,
+Pois Jeová o segura pela mão.^&#42;1^
+
+[NOTE]
+====
+. Ou: “com a Sua mão”.
+====
+
+_נ [nune]_
+
+[[v19-37-25]]
+
+^<<v19-37-25,25>>^ Fui jovem e agora sou velho,
+Mas nunca vi um justo abandonado
+Nem os seus filhos procurando pão.^&#42;1^
+
+[NOTE]
+====
+. Ou: “alimento”.
+====
+
+[[v19-37-26]]
+
+^<<v19-37-26,26>>^ Ele sempre empresta generosamente,
+E seus filhos receberão uma bênção.
+
+_ס [sâmeque]_
+
+[[v19-37-27]]
+
+^<<v19-37-27,27>>^ Desvie-se do mal e faça o bem,
+E você permanecerá para sempre.
+
+[[v19-37-28]]
+
+^<<v19-37-28,28>>^ Pois Jeová ama a justiça
+E não abandonará aqueles que lhe são leais.
+
+_ע [aine]_
+
+Eles serão sempre protegidos;
+Mas os descendentes dos maus serão eliminados.
+
+[[v19-37-29]]
+
+^<<v19-37-29,29>>^ Os justos possuirão a terra
+E viverão nela para sempre.
+
+_פ [pê]_
+
+[[v19-37-30]]
+
+^<<v19-37-30,30>>^ A boca do justo transmite sabedoria,^&#42;1^
+E a sua língua fala sobre justiça.
+
+[NOTE]
+====
+. Ou: “profere sabedoria em voz baixa”.
+====
+
+[[v19-37-31]]
+
+^<<v19-37-31,31>>^ A lei do seu Deus está no seu coração;
+Seus pés não vacilarão.
+
+_צ [tsadê]_
+
+[[v19-37-32]]
+
+^<<v19-37-32,32>>^ Aquele que é mau vigia o justo
+Procurando entregá-lo à morte.
+
+[[v19-37-33]]
+
+^<<v19-37-33,33>>^ Mas Jeová não o abandonará às mãos dele
+Nem o considerará culpado quando ele for julgado.
+
+_ק [cofe]_
+
+[[v19-37-34]]
+
+^<<v19-37-34,34>>^ Espere em Jeová e siga o caminho dele,
+E ele o enaltecerá para que tome posse da terra.
+Quando os maus forem eliminados, você verá isso.
+
+_ר [rexe]_
+
+[[v19-37-35]]
+
+^<<v19-37-35,35>>^ Vi aquele que é mau e cruel
+Expandir-se como uma árvore frondosa em seu solo nativo.
+
+[[v19-37-36]]
+
+^<<v19-37-36,36>>^ Mas ele de repente desapareceu e deixou de existir;
+Eu o procurava, e ele não podia ser encontrado.
+
+_ש [chim]_
+
+[[v19-37-37]]
+
+^<<v19-37-37,37>>^ Observe o homem irrepreensível,^&#42;1^
+Preste atenção ao homem reto,
+Pois o futuro desse homem será pacífico.
+
+[NOTE]
+====
+. Ou: “íntegro”.
+====
+
+[[v19-37-38]]
+
+^<<v19-37-38,38>>^ Mas todos os transgressores serão destruídos;
+Não haverá futuro para as pessoas más.
+
+_ת [tau]_
+
+[[v19-37-39]]
+
+^<<v19-37-39,39>>^ A salvação dos justos vem de Jeová;
+Ele é a sua fortaleza no tempo da aflição.
+
+[[v19-37-40]]
+
+^<<v19-37-40,40>>^ Jeová os ajudará e os livrará.
+Ele os livrará dos maus e os salvará,
+Porque se refugiam nele.
+
+'''
+
+xref:019-salmo/019-salmo-036.adoc#v19-36-0[&#60; Capítulo Anterior] | <<v19-37-0,Topo>> | xref:019-salmo/019-salmo-038.adoc#v19-38-0[Próximo Capítulo &#62;]

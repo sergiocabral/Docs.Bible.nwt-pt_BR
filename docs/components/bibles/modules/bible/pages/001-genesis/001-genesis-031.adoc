@@ -1,0 +1,291 @@
+include::./index.adoc[]
+
+[[v1-31-0]]
+=== Gênesis, 31
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v1-31-1]]
+
+^<<v1-31-1,1>>^ Então Jacó ficou sabendo do que os filhos de Labão diziam: “Jacó tomou tudo o que pertencia a nosso pai, e acumulou toda essa riqueza daquilo que pertencia a nosso pai.”
+
+[[v1-31-2]]
+
+^<<v1-31-2,2>>^ E, quando Jacó olhava para o rosto de Labão, via que a atitude de Labão para com ele já não era como antes.
+
+[[v1-31-3]]
+
+^<<v1-31-3,3>>^ Finalmente, Jeová disse a Jacó: “Volte à terra dos seus pais e aos seus parentes, e eu continuarei com você.”
+
+[[v1-31-4]]
+
+^<<v1-31-4,4>>^ Então Jacó mandou chamar Raquel e Leia ao campo, onde estava o seu rebanho,
+
+[[v1-31-5]]
+
+^<<v1-31-5,5>>^ e disse-lhes:
+“Estou vendo que a atitude de seu pai para comigo mudou, mas o Deus de meu pai tem estado comigo.
+
+[[v1-31-6]]
+
+^<<v1-31-6,6>>^ Vocês sabem muito bem que servi o seu pai com todas as minhas forças.
+
+[[v1-31-7]]
+
+^<<v1-31-7,7>>^ E seu pai tentou me enganar e mudou o meu salário dez vezes, mas Deus não permitiu que ele me prejudicasse.
+
+[[v1-31-8]]
+
+^<<v1-31-8,8>>^ Se, por um lado, ele dizia: ‘Os animais pintados serão o seu salário’, o rebanho inteiro produzia pintados; mas se, por outro lado, dizia: ‘Os listrados serão o seu salário’, o rebanho inteiro produzia listrados.
+
+[[v1-31-9]]
+
+^<<v1-31-9,9>>^ Assim Deus tirava o rebanho de seu pai e o dava a mim.
+
+[[v1-31-10]]
+
+^<<v1-31-10,10>>^ Uma vez, quando o rebanho entrou no cio, levantei os olhos e vi num sonho que os bodes que fecundavam o rebanho eram listrados, pintados e malhados.
+
+[[v1-31-11]]
+
+^<<v1-31-11,11>>^ Então o anjo do verdadeiro Deus me disse no sonho: ‘Jacó!’ Eu respondi: ‘Estou aqui.’
+
+[[v1-31-12]]
+
+^<<v1-31-12,12>>^ Ele continuou: ‘Levante os olhos, por favor, e veja que todos os bodes que fecundam o rebanho são listrados, pintados e malhados, pois tenho visto tudo o que Labão está fazendo a você.
+
+[[v1-31-13]]
+
+^<<v1-31-13,13>>^ Eu sou o Deus^&#42;1^ de Betel, onde você ungiu uma coluna e onde me fez um voto. Agora, saia imediatamente desta terra e volte à sua terra natal.’”
+
+[NOTE]
+====
+. Ou: “o verdadeiro Deus”.
+====
+
+[[v1-31-14]]
+
+^<<v1-31-14,14>>^ Diante disso, Raquel e Leia lhe disseram: “Herdaremos ainda alguma parte dos bens da casa de nosso pai?
+
+[[v1-31-15]]
+
+^<<v1-31-15,15>>^ Não somos consideradas estrangeiras por ele? Pois ele nos vendeu e gastou todo o dinheiro que se deu por nós.
+
+[[v1-31-16]]
+
+^<<v1-31-16,16>>^ Todas as riquezas que Deus tirou de nosso pai são nossas e de nossos filhos. Assim, faça tudo o que Deus lhe mandou.”
+
+[[v1-31-17]]
+
+^<<v1-31-17,17>>^ Então Jacó montou imediatamente seus filhos e suas esposas nos camelos
+
+[[v1-31-18]]
+
+^<<v1-31-18,18>>^ e, conduzindo todos os seus rebanhos, os rebanhos que lhe pertenciam e que ele havia acumulado em Padã-Arã, e todos os bens que tinha acumulado, partiu para a casa de Isaque, seu pai, na terra de Canaã.
+
+[[v1-31-19]]
+
+^<<v1-31-19,19>>^ Enquanto Labão tinha ido tosquiar as suas ovelhas, Raquel furtou os ídolos domésticos^&#42;1^ que pertenciam a seu pai.
+
+[NOTE]
+====
+. Ou: “deuses domésticos”. Lit.: “terafins”.
+====
+
+[[v1-31-20]]
+
+^<<v1-31-20,20>>^ Além disso, Jacó usou de esperteza para com Labão, o arameu, pois não o avisou de que estava indo embora.
+
+[[v1-31-21]]
+
+^<<v1-31-21,21>>^ Ele fugiu e atravessou o rio Eufrates,^&#42;1^ junto com tudo o que tinha, e se dirigiu para a região montanhosa de Gileade.
+
+[NOTE]
+====
+. Lit.: “o Rio”.
+====
+
+[[v1-31-22]]
+
+^<<v1-31-22,22>>^ No terceiro dia, Labão foi informado de que Jacó havia fugido.
+
+[[v1-31-23]]
+
+^<<v1-31-23,23>>^ Então levou consigo seus irmãos^&#42;1^ e foi perseguir Jacó, e depois de uma viagem de sete dias o alcançou na região montanhosa de Gileade.
+
+[NOTE]
+====
+. Ou: “parentes”.
+====
+
+[[v1-31-24]]
+
+^<<v1-31-24,24>>^ Deus veio então a Labão, o arameu, num sonho, de noite, e lhe disse: “Tenha cuidado com o que vai dizer a Jacó, seja algo bom, seja algo mau.”^&#42;1^
+
+[NOTE]
+====
+. Lit.: “Guarde-se para não falar com Jacó desde o bem até o mal.”
+====
+
+[[v1-31-25]]
+
+^<<v1-31-25,25>>^ Assim, Labão se aproximou de Jacó, pois Jacó havia armado a sua tenda na montanha, e Labão e seus irmãos haviam acampado na região montanhosa de Gileade.
+
+[[v1-31-26]]
+
+^<<v1-31-26,26>>^ Labão disse então a Jacó: “O que você fez? Por que usou de esperteza comigo e levou embora as minhas filhas como se fossem cativas tomadas pela espada?
+
+[[v1-31-27]]
+
+^<<v1-31-27,27>>^ Por que você fugiu secretamente, usando de esperteza comigo, e não me avisou? Se me tivesse dito, eu poderia despedi-lo com alegria e com canções, com pandeiro e com harpa.
+
+[[v1-31-28]]
+
+^<<v1-31-28,28>>^ Mas você não me deu oportunidade de beijar meus netos^&#42;1^ e minhas filhas. Você agiu de modo insensato.
+
+[NOTE]
+====
+. Lit.: “filhos”.
+====
+
+[[v1-31-29]]
+
+^<<v1-31-29,29>>^ Tenho poder para prejudicá-los, mas o Deus de seu pai me disse ontem à noite: ‘Tenha cuidado com o que vai dizer a Jacó, seja algo bom, seja algo mau.’
+
+[[v1-31-30]]
+
+^<<v1-31-30,30>>^ Eu sei que você partiu por ter saudades da casa de seu pai, mas por que furtou os meus deuses?”
+
+[[v1-31-31]]
+
+^<<v1-31-31,31>>^ Jacó respondeu a Labão: “Parti secretamente porque fiquei com medo, pensando que o senhor poderia tirar suas filhas de mim à força.
+
+[[v1-31-32]]
+
+^<<v1-31-32,32>>^ Quanto àquele com quem o senhor achar os seus deuses, não ficará vivo. Diante dos nossos irmãos, examine o que eu tenho e pegue o que é seu.” Mas Jacó não sabia que Raquel os havia furtado.
+
+[[v1-31-33]]
+
+^<<v1-31-33,33>>^ Assim, Labão entrou na tenda de Jacó, na tenda de Leia e na tenda das duas escravas, mas não os achou. Então saiu da tenda de Leia e entrou na tenda de Raquel.
+
+[[v1-31-34]]
+
+^<<v1-31-34,34>>^ Nesse meio-tempo, Raquel havia pegado os ídolos domésticos^&#42;1^ e os havia colocado no cesto das mulheres que ficava na sela do camelo, e estava sentada em cima deles. Assim, Labão vasculhou a tenda inteira, mas não os achou.
+
+[NOTE]
+====
+. Ou: “deuses domésticos”. Lit.: “terafins”.
+====
+
+[[v1-31-35]]
+
+^<<v1-31-35,35>>^ Ela disse então a seu pai: “Não se ire, meu senhor, por eu não poder me levantar diante do senhor, pois estou com o incômodo habitual das mulheres.” De modo que ele continuou procurando cuidadosamente, mas não achou os ídolos domésticos.^&#42;1^
+
+[NOTE]
+====
+. Ou: “deuses domésticos”. Lit.: “terafins”.
+====
+
+[[v1-31-36]]
+
+^<<v1-31-36,36>>^ Com isso Jacó ficou irado e começou a reclamar com Labão. Jacó disse então a Labão: “Qual foi o meu crime e que pecado cometi, para o senhor me perseguir furiosamente?
+
+[[v1-31-37]]
+
+^<<v1-31-37,37>>^ Agora que vasculhou todos os meus bens, o que o senhor encontrou que pertença à sua casa? Ponha-o aqui na frente dos meus irmãos e dos seus irmãos, e que eles decidam entre nós dois.
+
+[[v1-31-38]]
+
+^<<v1-31-38,38>>^ Nesses 20 anos que estive com o senhor, suas ovelhas e suas cabras nunca sofreram aborto, e eu nunca comi os carneiros do seu rebanho.
+
+[[v1-31-39]]
+
+^<<v1-31-39,39>>^ Não lhe trouxe nenhum animal dilacerado por feras; eu assumia esse prejuízo. Caso um animal fosse roubado de dia, caso fosse roubado de noite, o senhor o cobrava de mim.
+
+[[v1-31-40]]
+
+^<<v1-31-40,40>>^ De dia eu era consumido pelo calor, e de noite pelo frio; e o sono me fugia dos olhos.
+
+[[v1-31-41]]
+
+^<<v1-31-41,41>>^ Já faz 20 anos que estou na sua casa. Eu o servi 14 anos pelas suas duas filhas e seis anos pelo seu rebanho, e o senhor mudou o meu salário dez vezes.
+
+[[v1-31-42]]
+
+^<<v1-31-42,42>>^ Se o Deus de meu pai, o Deus de Abraão e Aquele a quem Isaque teme^&#42;1^ não tivesse estado do meu lado, o senhor me teria mandado embora de mãos vazias. Deus viu a minha aflição e o trabalho árduo das minhas mãos, e é por isso que ele o repreendeu ontem à noite.”
+
+[NOTE]
+====
+. Lit.: “e o temor de Isaque”.
+====
+
+[[v1-31-43]]
+
+^<<v1-31-43,43>>^ Então Labão respondeu a Jacó: “Estas são as minhas filhas, estes são os meus netos, este é o meu rebanho, e tudo o que você está vendo é meu e das minhas filhas. O que posso fazer hoje contra elas ou contra os filhos delas, que elas deram à luz?
+
+[[v1-31-44]]
+
+^<<v1-31-44,44>>^ Agora venha, façamos um pacto, eu e você, e o pacto servirá de testemunho para nós.”
+
+[[v1-31-45]]
+
+^<<v1-31-45,45>>^ Assim, Jacó pegou uma pedra e a colocou de pé como coluna.
+
+[[v1-31-46]]
+
+^<<v1-31-46,46>>^ Jacó disse então aos seus irmãos: “Apanhem pedras!” E eles apanharam pedras e as amontoaram. Depois comeram ali sobre o monte de pedras.
+
+[[v1-31-47]]
+
+^<<v1-31-47,47>>^ Labão o chamou de Jegar-Saaduta,^&#42;1^ mas Jacó o chamou de Galeede.^&#42;2^
+
+[NOTE]
+====
+. Expressão aramaica que significa “monte de testemunho”.
+. Expressão hebraica que significa “monte de testemunho”.
+====
+
+[[v1-31-48]]
+
+^<<v1-31-48,48>>^ Então Labão disse: “Este monte de pedras é hoje testemunha entre mim e você.” É por isso que foi chamado de Galeede
+
+[[v1-31-49]]
+
+^<<v1-31-49,49>>^ e de Torre de Vigia, pois ele disse: “Que Jeová vigie a mim e a você quando estivermos fora da vista um do outro.
+
+[[v1-31-50]]
+
+^<<v1-31-50,50>>^ Se você maltratar as minhas filhas e começar a tomar esposas além das minhas filhas, mesmo que não haja ninguém que veja isso, lembre-se de que Deus será testemunha entre mim e você.”
+
+[[v1-31-51]]
+
+^<<v1-31-51,51>>^ Labão disse ainda a Jacó: “Aqui está o monte de pedras, e aqui está a coluna que erigi entre mim e você.
+
+[[v1-31-52]]
+
+^<<v1-31-52,52>>^ Este monte de pedras é testemunha, e a coluna é algo que dá testemunho, de que eu não passarei deste monte de pedras para prejudicar você e de que você não passará deste monte de pedras e desta coluna para me prejudicar.
+
+[[v1-31-53]]
+
+^<<v1-31-53,53>>^ Que o Deus de Abraão e o Deus de Naor, o Deus do pai deles, julgue entre nós.” E Jacó jurou por Aquele a quem seu pai Isaque temia.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “pelo temor de seu pai Isaque”.
+====
+
+[[v1-31-54]]
+
+^<<v1-31-54,54>>^ Depois disso, Jacó ofereceu um sacrifício na montanha e convidou seus irmãos para comer pão. Então eles comeram e passaram a noite na montanha.
+
+[[v1-31-55]]
+
+^<<v1-31-55,55>>^ Labão, no entanto, se levantou de manhã cedo e beijou os seus netos^&#42;1^ e as suas filhas, e os abençoou. Então Labão partiu de volta para casa.
+
+[NOTE]
+====
+. Lit.: “filhos”.
+====
+
+'''
+
+xref:001-genesis/001-genesis-030.adoc#v1-30-0[&#60; Capítulo Anterior] | <<v1-31-0,Topo>> | xref:001-genesis/001-genesis-032.adoc#v1-32-0[Próximo Capítulo &#62;]

@@ -1,0 +1,166 @@
+include::./index.adoc[]
+
+[[v24-29-0]]
+=== Jeremias, 29
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v24-29-1]]
+
+^<<v24-29-1,1>>^ Estas são as palavras da carta que o profeta Jeremias enviou de Jerusalém aos anciãos que restaram entre o povo exilado, aos sacerdotes, aos profetas e a todo o povo, a quem Nabucodonosor havia levado de Jerusalém para o exílio em Babilônia,
+
+[[v24-29-2]]
+
+^<<v24-29-2,2>>^ depois de o rei Jeconias, a rainha-mãe,^&#42;1^ os oficiais da corte, os príncipes de Judá e de Jerusalém, os artesãos e os trabalhadores em metal^&#42;2^ terem saído de Jerusalém.
+
+[NOTE]
+====
+. Ou: “a senhora”.
+. Ou, possivelmente: “construtores de fortificações”.
+====
+
+[[v24-29-3]]
+
+^<<v24-29-3,3>>^ Ele enviou a carta pelas mãos de Elasa, filho de Safã, e de Gemarias, filho de Hilquias, os quais Zedequias, rei de Judá, enviou a Babilônia, a Nabucodonosor, rei de Babilônia. Ela dizia:
+
+[[v24-29-4]]
+
+^<<v24-29-4,4>>^ “Assim diz Jeová dos exércitos, o Deus de Israel, a todo o povo exilado, que fiz ser levado de Jerusalém para o exílio em Babilônia:
+
+[[v24-29-5]]
+
+^<<v24-29-5,5>>^ ‘Construam casas e morem nelas. Plantem pomares e comam os seus frutos.
+
+[[v24-29-6]]
+
+^<<v24-29-6,6>>^ Tomem esposas e tenham filhos e filhas; tomem esposas para os seus filhos, e deem as suas filhas em casamento, para que elas também tenham filhos e filhas. Tornem-se muitos, e não diminuam em número.
+
+[[v24-29-7]]
+
+^<<v24-29-7,7>>^ Empenhem-se pela paz da cidade para onde os exilei, e orem a Jeová a favor dela, pois a paz dela significará paz para vocês.
+
+[[v24-29-8]]
+
+^<<v24-29-8,8>>^ Pois assim diz Jeová dos exércitos, o Deus de Israel: “Não se deixem enganar pelos seus profetas e pelos seus adivinhos, que estão entre vocês, nem deem ouvidos aos sonhos que eles estão tendo.
+
+[[v24-29-9]]
+
+^<<v24-29-9,9>>^ Pois ‘eles estão profetizando mentiras para vocês em meu nome. Eu não os enviei’, diz Jeová.”’”
+
+[[v24-29-10]]
+
+^<<v24-29-10,10>>^ “Pois assim diz Jeová: ‘Quando se completarem 70 anos em Babilônia, voltarei a minha atenção para vocês e cumprirei a minha promessa, trazendo-os de volta para cá.’
+
+[[v24-29-11]]
+
+^<<v24-29-11,11>>^ “‘Pois eu sei muito bem o que tenho em mente para vocês’, diz Jeová. ‘Quero que tenham paz, não calamidade. Quero dar a vocês um futuro e uma esperança.
+
+[[v24-29-12]]
+
+^<<v24-29-12,12>>^ E vocês me chamarão e virão a mim em oração, e eu vou escutá-los.’
+
+[[v24-29-13]]
+
+^<<v24-29-13,13>>^ “‘Vocês me procurarão e me acharão, pois me buscarão de todo o coração.
+
+[[v24-29-14]]
+
+^<<v24-29-14,14>>^ E eu deixarei que vocês me achem’, diz Jeová. ‘E vou ajuntar o seu povo cativo e reunir vocês dentre todas as nações e lugares aos quais os espalhei’, diz Jeová. ‘E vou trazê-los de volta ao lugar de onde os exilei.’
+
+[[v24-29-15]]
+
+^<<v24-29-15,15>>^ “Mas vocês dizem: ‘Jeová fez surgir para nós profetas em Babilônia.’
+
+[[v24-29-16]]
+
+^<<v24-29-16,16>>^ “Portanto, assim diz Jeová ao rei que está sentado no trono de Davi e a todo o povo que mora nesta cidade, seus irmãos que não foram com vocês para o exílio:
+
+[[v24-29-17]]
+
+^<<v24-29-17,17>>^ ‘Assim diz Jeová dos exércitos: “Estou enviando contra eles a espada, a fome e a peste,^&#42;1^ e vou fazer com que fiquem como figos podres,^&#42;2^ tão ruins que nem podem ser comidos.”’
+
+[NOTE]
+====
+. Ou: “doença”.
+. Ou, possivelmente: “rompidos”.
+====
+
+[[v24-29-18]]
+
+^<<v24-29-18,18>>^ “‘Vou persegui-los com a espada, a fome e a peste, e vou fazer deles um motivo de terror para todos os reinos da terra, um exemplo de maldição, um motivo de espanto, um alvo de assobios e de insultos entre todas as nações por onde eu os espalhar,
+
+[[v24-29-19]]
+
+^<<v24-29-19,19>>^ visto que não escutaram as minhas palavras’, diz Jeová, ‘que lhes enviei por meio dos meus servos, os profetas; eu os enviava vez após vez’.^&#42;1^
+“‘Mas vocês não escutaram’, diz Jeová.
+
+[NOTE]
+====
+. Lit.: “os profetas; levantando cedo e enviando”.
+====
+
+[[v24-29-20]]
+
+^<<v24-29-20,20>>^ “Por isso, ouçam a palavra de Jeová, todos vocês, povo exilado, que mandei embora de Jerusalém para Babilônia.
+
+[[v24-29-21]]
+
+^<<v24-29-21,21>>^ Assim diz Jeová dos exércitos, o Deus de Israel, a respeito de Acabe, filho de Colaías, e a respeito de Zedequias, filho de Maaseias, os quais profetizam mentiras para vocês em meu nome: ‘Vou entregá-los nas mãos de Nabucodonosor,^&#42;1^ rei de Babilônia, e ele os matará diante dos seus olhos.
+
+[NOTE]
+====
+. Lit.: “Nabucodorosor”, grafia variante.
+====
+
+[[v24-29-22]]
+
+^<<v24-29-22,22>>^ E o que acontecer com eles passará a ser usado como uma maldição por todos os exilados de Judá que estão em Babilônia: “Que Jeová faça com você o mesmo que aconteceu com Zedequias e Acabe, os quais o rei de Babilônia assou no fogo!”
+
+[[v24-29-23]]
+
+^<<v24-29-23,23>>^ Pois eles agiram de modo vergonhoso em Israel, cometendo adultério com a esposa do próximo e falando em meu nome mentiras, que não ordenei que falassem.
+“‘“Eu sei e sou testemunha disso”, diz Jeová.’”
+
+[[v24-29-24]]
+
+^<<v24-29-24,24>>^ “E a Semaías de Neelão você dirá:
+
+[[v24-29-25]]
+
+^<<v24-29-25,25>>^ ‘Assim diz Jeová dos exércitos, o Deus de Israel: “Visto que você enviou a todo o povo que está em Jerusalém, ao sacerdote Sofonias, filho de Maaseias, e a todos os sacerdotes, cartas em seu nome, que diziam:
+
+[[v24-29-26]]
+
+^<<v24-29-26,26>>^ ‘Jeová designou você como sacerdote no lugar do sacerdote Jeoiada, para ser o superintendente da casa de Jeová, para vigiar qualquer louco que se comportar como profeta e o mandar para o tronco.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “para o cepo e para o tronco”.
+====
+
+[[v24-29-27]]
+
+^<<v24-29-27,27>>^ Então, por que você não repreendeu Jeremias de Anatote, que se comporta como profeta para vocês?
+
+[[v24-29-28]]
+
+^<<v24-29-28,28>>^ Pois ele até mesmo mandou dizer a nós em Babilônia: “Vocês ficarão aí por muito tempo! Construam casas e morem nelas. Plantem pomares e comam os seus frutos, . . .”’”’”
+
+[[v24-29-29]]
+
+^<<v24-29-29,29>>^ Quando o sacerdote Sofonias leu esta carta na presença do profeta Jeremias,
+
+[[v24-29-30]]
+
+^<<v24-29-30,30>>^ Jeremias recebeu a seguinte palavra de Jeová:
+
+[[v24-29-31]]
+
+^<<v24-29-31,31>>^ “Mande dizer a todo o povo exilado: ‘Assim diz Jeová a respeito de Semaías de Neelão: “Visto que Semaías profetizou para vocês sem que eu o tivesse enviado, e tentou fazê-los acreditar em mentiras,
+
+[[v24-29-32]]
+
+^<<v24-29-32,32>>^ assim diz Jeová: ‘Estou voltando a minha atenção para Semaías de Neelão e seus descendentes. Ninguém da sua família sobreviverá entre este povo, e ele não verá as coisas boas que vou fazer para o meu povo’, diz Jeová, ‘pois ele instigou rebelião contra Jeová’.”’”
+
+'''
+
+xref:024-jeremias/024-jeremias-028.adoc#v24-28-0[&#60; Capítulo Anterior] | <<v24-29-0,Topo>> | xref:024-jeremias/024-jeremias-030.adoc#v24-30-0[Próximo Capítulo &#62;]

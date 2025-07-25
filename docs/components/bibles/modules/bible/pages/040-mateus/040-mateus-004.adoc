@@ -1,0 +1,139 @@
+include::./index.adoc[]
+
+[[v40-4-0]]
+=== Segundo Mateus, 4
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v40-4-1]]
+
+^<<v40-4-1,1>>^ Jesus foi então conduzido pelo espírito ao deserto, para ser tentado pelo Diabo.
+
+[[v40-4-2]]
+
+^<<v40-4-2,2>>^ Depois de ter jejuado por 40 dias e 40 noites, ele sentiu fome.
+
+[[v40-4-3]]
+
+^<<v40-4-3,3>>^ E o Tentador se aproximou e lhe disse: “Se você é filho de Deus, diga a estas pedras que se transformem em pães.”
+
+[[v40-4-4]]
+
+^<<v40-4-4,4>>^ Mas ele respondeu: “Está escrito: ‘O homem não deve viver somente de pão, mas de toda palavra que vem da boca de Jeová.’”^&#42;1^
+
+[NOTE]
+====
+. Veja Ap. A5.
+====
+
+[[v40-4-5]]
+
+^<<v40-4-5,5>>^ O Diabo o levou então à cidade santa, colocou-o sobre o parapeito^&#42;1^ do templo
+
+[NOTE]
+====
+. Ou: “ponto mais alto”.
+====
+
+[[v40-4-6]]
+
+^<<v40-4-6,6>>^ e lhe disse: “Se você é filho de Deus, jogue-se para baixo, pois está escrito: ‘Ele dará aos seus anjos uma ordem referente a você’ e ‘Eles o carregarão nas mãos, para que não bata com o pé numa pedra’.”
+
+[[v40-4-7]]
+
+^<<v40-4-7,7>>^ Jesus lhe disse: “Também está escrito: ‘Não ponha Jeová,^&#42;1^ seu Deus, à prova.’”
+
+[NOTE]
+====
+. Veja Ap. A5.
+====
+
+[[v40-4-8]]
+
+^<<v40-4-8,8>>^ A seguir, o Diabo o levou a uma montanha extraordinariamente alta e lhe mostrou todos os reinos do mundo e a glória deles.
+
+[[v40-4-9]]
+
+^<<v40-4-9,9>>^ E lhe disse: “Eu lhe darei tudo isto se você se prostrar e me fizer um ato de adoração.”
+
+[[v40-4-10]]
+
+^<<v40-4-10,10>>^ Jesus lhe disse então: “Vá embora, Satanás! Pois está escrito: ‘Adore a Jeová,^&#42;1^ seu Deus, e preste serviço sagrado apenas a ele.’”
+
+[NOTE]
+====
+. Veja Ap. A5.
+====
+
+[[v40-4-11]]
+
+^<<v40-4-11,11>>^ Assim, o Diabo o deixou, e então vieram anjos e começaram a servi-lo.
+
+[[v40-4-12]]
+
+^<<v40-4-12,12>>^ Quando ele soube que João tinha sido preso, partiu para a Galileia.
+
+[[v40-4-13]]
+
+^<<v40-4-13,13>>^ Além disso, depois de deixar Nazaré, foi morar em Cafarnaum, à beira do mar, nas regiões de Zebulão e Naftali,
+
+[[v40-4-14]]
+
+^<<v40-4-14,14>>^ para que se cumprissem as palavras de Isaías, o profeta:
+
+[[v40-4-15]]
+
+^<<v40-4-15,15>>^ “Ó terra de Zebulão e terra de Naftali, ao longo da estrada do mar, do outro lado do Jordão, Galileia das nações!
+
+[[v40-4-16]]
+
+^<<v40-4-16,16>>^ As pessoas sentadas nas trevas viram uma grande luz, e quanto aos sentados numa região de escuridão mortífera, levantou-se sobre eles uma luz.”
+
+[[v40-4-17]]
+
+^<<v40-4-17,17>>^ Daquele tempo em diante, Jesus começou a pregar e a dizer: “Arrependam-se, pois o Reino dos céus está próximo.”
+
+[[v40-4-18]]
+
+^<<v40-4-18,18>>^ Andando à beira do mar da Galileia, ele viu dois irmãos: Simão, que é chamado Pedro, e seu irmão André. Eles estavam lançando uma rede no mar, pois eram pescadores.
+
+[[v40-4-19]]
+
+^<<v40-4-19,19>>^ Ele lhes disse: “Sigam-me, e eu farei de vocês pescadores de homens.”
+
+[[v40-4-20]]
+
+^<<v40-4-20,20>>^ Eles abandonaram imediatamente as redes e o seguiram.
+
+[[v40-4-21]]
+
+^<<v40-4-21,21>>^ Indo adiante, viu outros dois que eram irmãos: Tiago, filho de Zebedeu, e seu irmão João. Eles estavam no barco com seu pai, Zebedeu, consertando as suas redes, e ele os chamou.
+
+[[v40-4-22]]
+
+^<<v40-4-22,22>>^ Deixaram imediatamente o barco e seu pai, e o seguiram.
+
+[[v40-4-23]]
+
+^<<v40-4-23,23>>^ Ele percorreu então toda a Galileia, ensinando nas sinagogas deles, pregando as boas novas^&#42;1^ do Reino e curando todo tipo de doenças e todo tipo de enfermidades do povo.
+
+[NOTE]
+====
+. Ou: “o evangelho”.
+====
+
+[[v40-4-24]]
+
+^<<v40-4-24,24>>^ E as notícias sobre ele se espalharam por toda a Síria, e as pessoas levaram-lhe todos os que sofriam de várias doenças e fortes dores, os possessos de demônios, os epiléticos e os paralíticos, e ele os curou.
+
+[[v40-4-25]]
+
+^<<v40-4-25,25>>^ Assim grandes multidões o seguiam, vindas da Galileia, de Decápolis,^&#42;1^ de Jerusalém, da Judeia e do outro lado do Jordão.
+
+[NOTE]
+====
+. Ou: “da região das Dez Cidades”.
+====
+
+'''
+
+xref:040-mateus/040-mateus-003.adoc#v40-3-0[&#60; Capítulo Anterior] | <<v40-4-0,Topo>> | xref:040-mateus/040-mateus-005.adoc#v40-5-0[Próximo Capítulo &#62;]

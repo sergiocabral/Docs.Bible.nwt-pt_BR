@@ -1,0 +1,65 @@
+include::./index.adoc[]
+
+[[v19-23-0]]
+=== Salmos, 23
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Salmo de Davi._
+
+[[v19-23-1]]
+
+^<<v19-23-1,1>>^ Jeová é o meu Pastor.
+Nada me faltará.
+
+[[v19-23-2]]
+
+^<<v19-23-2,2>>^ Ele me faz deitar em verdes pastagens
+E me conduz a lugares de descanso bem regados.^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “a águas tranquilas”.
+====
+
+[[v19-23-3]]
+
+^<<v19-23-3,3>>^ Ele me reanima.^&#42;1^
+Guia-me nos caminhos^&#42;2^ da justiça por causa do seu nome.
+
+[NOTE]
+====
+. Ou: “Ele reanima a minha alma.”
+. Lit.: “nas trilhas”.
+====
+
+[[v19-23-4]]
+
+^<<v19-23-4,4>>^ Ainda que eu ande pelo vale de densas trevas,
+Não temerei mal algum,
+Porque tu estás comigo;
+Tua vara e teu cajado me dão segurança.^&#42;1^
+
+[NOTE]
+====
+. Ou: “me consolam”.
+====
+
+[[v19-23-5]]
+
+^<<v19-23-5,5>>^ Preparas uma mesa para mim diante dos meus inimigos.
+Refrigeras^&#42;1^ a minha cabeça com óleo;
+Meu cálice está bem cheio.
+
+[NOTE]
+====
+. Ou: “Unges”.
+====
+
+[[v19-23-6]]
+
+^<<v19-23-6,6>>^ Certamente, a bondade e o amor leal me seguirão todos os dias da minha vida,
+E eu morarei na casa de Jeová todos os meus dias.
+
+'''
+
+xref:019-salmo/019-salmo-022.adoc#v19-22-0[&#60; Capítulo Anterior] | <<v19-23-0,Topo>> | xref:019-salmo/019-salmo-024.adoc#v19-24-0[Próximo Capítulo &#62;]

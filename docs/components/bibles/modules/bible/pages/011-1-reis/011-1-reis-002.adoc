@@ -1,0 +1,252 @@
+include::./index.adoc[]
+
+[[v11-2-0]]
+=== O Primeiro dos Reis, 2
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v11-2-1]]
+
+^<<v11-2-1,1>>^ Quando se aproximou a morte de Davi, ele deu as seguintes instruções ao seu filho Salomão:
+
+[[v11-2-2]]
+
+^<<v11-2-2,2>>^ “Logo vou morrer.^&#42;1^ Portanto, seja forte e seja homem.
+
+[NOTE]
+====
+. Lit.: “Estou indo no caminho de toda a terra.”
+====
+
+[[v11-2-3]]
+
+^<<v11-2-3,3>>^ Cumpra a sua obrigação para com Jeová, seu Deus, andando nos seus caminhos e obedecendo aos seus decretos, aos seus mandamentos, às suas decisões judiciais e às suas advertências,^&#42;1^ conforme estão escritos na Lei de Moisés. Assim, você será bem-sucedido^&#42;2^ em tudo o que fizer e aonde quer que for.
+
+[NOTE]
+====
+. Ou: “aos seus lembretes”.
+. Ou: “agirá com sabedoria”.
+====
+
+[[v11-2-4]]
+
+^<<v11-2-4,4>>^ E Jeová cumprirá a promessa que fez a meu respeito: ‘Se os seus filhos prestarem atenção ao caminho deles, andando fielmente diante de mim, de todo o coração e de toda a alma,^&#42;1^ sempre haverá um descendente seu^&#42;2^ sentado no trono de Israel.’
+
+[NOTE]
+====
+. Veja o Glossário.
+. Lit.: “não será decepado de você um homem”.
+====
+
+[[v11-2-5]]
+
+^<<v11-2-5,5>>^ “Além disso, você sabe o que me fez Joabe, filho de Zeruia, o que ele fez aos dois chefes dos exércitos de Israel, Abner, filho de Ner, e Amasa, filho de Jeter. Ele os matou, derramando sangue de guerra em tempo de paz e manchou com sangue de guerra o cinto que tinha na cintura e as sandálias que tinha nos pés.
+
+[[v11-2-6]]
+
+^<<v11-2-6,6>>^ Aja segundo a sua sabedoria e não deixe que os cabelos brancos dele desçam em paz à Sepultura.^&#42;1^
+
+[NOTE]
+====
+. Ou: “ao Seol”, isto é, a sepultura comum da humanidade. Veja o Glossário.
+====
+
+[[v11-2-7]]
+
+^<<v11-2-7,7>>^ “Mas você deve demonstrar amor leal aos filhos de Barzilai, o gileadita; eles devem estar entre os que comem à sua mesa, pois ficaram do meu lado quando fugi do seu irmão Absalão.
+
+[[v11-2-8]]
+
+^<<v11-2-8,8>>^ “Não muito longe vive Simei, filho de Gera, benjaminita de Baurim. Foi ele quem me amaldiçoou com uma terrível maldição no dia em que fui a Maanaim; mas, quando ele desceu ao meu encontro no Jordão, eu lhe jurei por Jeová: ‘Não o entregarei à morte pela espada.’
+
+[[v11-2-9]]
+
+^<<v11-2-9,9>>^ Agora não o deixe impune, pois você é um homem sábio e sabe o que deve fazer com ele. Faça os cabelos brancos dele descer com sangue à Sepultura.”^&#42;1^
+
+[NOTE]
+====
+. Ou: “ao Seol”, isto é, a sepultura comum da humanidade. Veja o Glossário.
+====
+
+[[v11-2-10]]
+
+^<<v11-2-10,10>>^ Então Davi descansou com os seus antepassados e foi enterrado na Cidade de Davi.
+
+[[v11-2-11]]
+
+^<<v11-2-11,11>>^ O tempo^&#42;1^ que Davi reinou sobre Israel foi 40 anos. Em Hebrom ele reinou por 7 anos, e em Jerusalém reinou por 33 anos.
+
+[NOTE]
+====
+. Lit.: “Os dias”.
+====
+
+[[v11-2-12]]
+
+^<<v11-2-12,12>>^ Salomão se sentou então no trono de Davi, seu pai. Aos poucos, seu reinado ficou firmemente estabelecido.
+
+[[v11-2-13]]
+
+^<<v11-2-13,13>>^ Passado algum tempo, Adonias, filho de Hagite, foi falar com Bate-Seba, mãe de Salomão. Ela perguntou: “A sua vinda é pacífica?” Ele respondeu: “É pacífica.”
+
+[[v11-2-14]]
+
+^<<v11-2-14,14>>^ Então ele disse: “Tenho algo para lhe falar.” Ela disse: “Fale.”
+
+[[v11-2-15]]
+
+^<<v11-2-15,15>>^ Ele continuou: “A senhora sabe que o reinado ia tornar-se meu, e todo o Israel esperava^&#42;1^ que eu fosse rei; mas o reinado escapou das minhas mãos e passou a ser do meu irmão, pois era da vontade de Jeová que ele fosse rei.
+
+[NOTE]
+====
+. Lit.: “tinha fixado as suas faces em”.
+====
+
+[[v11-2-16]]
+
+^<<v11-2-16,16>>^ Mas agora tenho apenas um pedido para lhe fazer. Não me recuse esse pedido.” Portanto, ela lhe disse: “Fale.”
+
+[[v11-2-17]]
+
+^<<v11-2-17,17>>^ Ele disse então: “Por favor, peça a Salomão, o rei, que me dê Abisague, a sunamita, como esposa. Ele não lhe recusará esse pedido.”
+
+[[v11-2-18]]
+
+^<<v11-2-18,18>>^ Então Bate-Seba disse: “Está bem! Eu falarei com o rei por você.”
+
+[[v11-2-19]]
+
+^<<v11-2-19,19>>^ Assim, Bate-Seba compareceu perante o rei Salomão para falar com ele em favor de Adonias. O rei se levantou imediatamente para ir ao encontro dela e se curvou diante dela. Então se sentou no seu trono e mandou colocar um trono para a mãe do rei, para que ela se sentasse à sua direita.
+
+[[v11-2-20]]
+
+^<<v11-2-20,20>>^ E ela disse: “Tenho um pequeno pedido para lhe fazer. Não me recuse esse pedido.” Então o rei respondeu: “Faça-o, minha mãe, pois não recusarei o seu pedido.”
+
+[[v11-2-21]]
+
+^<<v11-2-21,21>>^ Ela disse: “Dê Abisague, a sunamita, como esposa a seu irmão Adonias.”
+
+[[v11-2-22]]
+
+^<<v11-2-22,22>>^ Em resposta, o rei Salomão disse à sua mãe: “Por que está pedindo Abisague, a sunamita, para Adonias? Só falta a senhora pedir também o reinado para ele, pois ele é meu irmão mais velho, e tem o apoio de Abiatar, o sacerdote, e de Joabe, filho de Zeruia.”
+
+[[v11-2-23]]
+
+^<<v11-2-23,23>>^ Com isso o rei Salomão jurou por Jeová: “Que Deus me castigue, e que o faça severamente, se Adonias não pagar com a própria vida^&#42;1^ por ter feito esse pedido.
+
+[NOTE]
+====
+. Ou: “alma”.
+====
+
+[[v11-2-24]]
+
+^<<v11-2-24,24>>^ E agora, tão certo como vive Jeová, aquele que me estabeleceu firmemente e me colocou no trono de Davi, meu pai, e que edificou uma casa^&#42;1^ para mim, assim como prometeu, hoje Adonias será morto.”
+
+[NOTE]
+====
+. Ou: “dinastia”.
+====
+
+[[v11-2-25]]
+
+^<<v11-2-25,25>>^ O rei Salomão enviou imediatamente Benaia, filho de Jeoiada, que foi e golpeou^&#42;1^ Adonias, e ele morreu.
+
+[NOTE]
+====
+. Ou: “se lançou sobre”.
+====
+
+[[v11-2-26]]
+
+^<<v11-2-26,26>>^ Ao sacerdote Abiatar, o rei disse: “Vá para os seus campos em Anatote! Você merece morrer, mas neste dia não o matarei, porque você carregou a Arca do Soberano Senhor Jeová diante de Davi, meu pai, e você compartilhou todas as dificuldades que meu pai passou.”
+
+[[v11-2-27]]
+
+^<<v11-2-27,27>>^ Portanto, Salomão expulsou Abiatar do sacerdócio de Jeová, para que se cumprisse a palavra de Jeová contra a casa de Eli, em Silo.
+
+[[v11-2-28]]
+
+^<<v11-2-28,28>>^ Quando a notícia chegou a Joabe — pois Joabe tinha apoiado Adonias, embora não tivesse apoiado Absalão —, Joabe fugiu para a tenda de Jeová e agarrou-se aos chifres do altar.
+
+[[v11-2-29]]
+
+^<<v11-2-29,29>>^ Informaram então ao rei Salomão: “Joabe fugiu para a tenda de Jeová e está ao lado do altar.” Assim, Salomão enviou Benaia, filho de Jeoiada, dizendo: “Vá, mate-o!”
+
+[[v11-2-30]]
+
+^<<v11-2-30,30>>^ Então Benaia foi à tenda de Jeová e disse-lhe: “O rei diz: ‘Venha para fora!’” Mas ele respondeu: “Não! Vou morrer aqui.” Então Benaia levou a informação de volta ao rei: “Foi isso que Joabe falou, foi assim que ele me respondeu.”
+
+[[v11-2-31]]
+
+^<<v11-2-31,31>>^ Em vista disso, o rei disse-lhe: “Faça como ele mesmo disse, mate-o e enterre-o; remova de mim e da casa do meu pai o sangue que Joabe derramou sem motivo justo.
+
+[[v11-2-32]]
+
+^<<v11-2-32,32>>^ Jeová fará o sangue que ele derramou recair sobre a sua própria cabeça, pois sem o conhecimento de meu pai, Davi, ele golpeou e matou à espada dois homens mais justos e melhores do que ele: Abner, filho de Ner e chefe do exército de Israel, e Amasa, filho de Jeter e chefe do exército de Judá.
+
+[[v11-2-33]]
+
+^<<v11-2-33,33>>^ O sangue deles recairá sobre a cabeça de Joabe e sobre a cabeça da sua descendência^&#42;1^ para sempre; mas, para Davi, sua descendência,^&#42;2^ sua casa e seu trono, que haja paz da parte de Jeová para sempre.”
+
+[NOTE]
+====
+. Ou: “dos seus descendentes”.
+. Ou: “seus descendentes”.
+====
+
+[[v11-2-34]]
+
+^<<v11-2-34,34>>^ Então Benaia, filho de Jeoiada, voltou, golpeou Joabe e o matou; e ele foi enterrado na sua casa, no deserto.
+
+[[v11-2-35]]
+
+^<<v11-2-35,35>>^ Depois o rei designou Benaia, filho de Jeoiada, sobre o exército, no lugar de Joabe; e o rei designou Zadoque, o sacerdote, no lugar de Abiatar.
+
+[[v11-2-36]]
+
+^<<v11-2-36,36>>^ Então o rei chamou Simei e disse-lhe: “Construa uma casa em Jerusalém e fique morando ali; não saia da cidade para nenhum lugar.
+
+[[v11-2-37]]
+
+^<<v11-2-37,37>>^ No dia em que você sair e atravessar o vale do Cédron, pode ter certeza de que morrerá. O seu sangue recairá sobre a sua própria cabeça.”
+
+[[v11-2-38]]
+
+^<<v11-2-38,38>>^ Simei disse ao rei: “O que o senhor disse é justo. Seu servo fará assim como o meu senhor, o rei, falou.” E Simei ficou em Jerusalém por um bom tempo.
+
+[[v11-2-39]]
+
+^<<v11-2-39,39>>^ Mas, três anos depois, dois escravos de Simei fugiram e procuraram refúgio com Aquis, filho de Maacá e rei de Gate. Quando contaram a Simei: “Seus escravos estão em Gate”,
+
+[[v11-2-40]]
+
+^<<v11-2-40,40>>^ Simei selou imediatamente seu jumento e foi a Aquis, em Gate, em busca dos seus escravos. Quando Simei voltou de Gate com seus escravos,
+
+[[v11-2-41]]
+
+^<<v11-2-41,41>>^ informaram a Salomão: “Simei saiu de Jerusalém, foi a Gate e voltou.”
+
+[[v11-2-42]]
+
+^<<v11-2-42,42>>^ Em vista disso, o rei chamou Simei e disse-lhe: “Não o pus sob juramento por Jeová e não o avisei: ‘No dia em que você sair daqui e for para qualquer outro lugar, pode ter certeza de que morrerá’? E você não me disse: ‘O que o senhor está dizendo é justo, eu obedecerei’?
+
+[[v11-2-43]]
+
+^<<v11-2-43,43>>^ Então por que não guardou o juramento que fez perante Jeová e a ordem que lhe dei?”
+
+[[v11-2-44]]
+
+^<<v11-2-44,44>>^ O rei disse então a Simei: “No seu coração você sabe muito bem todo o mal que fez a Davi, meu pai; e Jeová fará o mal que você causou recair sobre a sua própria cabeça.
+
+[[v11-2-45]]
+
+^<<v11-2-45,45>>^ Mas o rei Salomão será abençoado, e o trono de Davi ficará firmemente estabelecido perante Jeová para sempre.”
+
+[[v11-2-46]]
+
+^<<v11-2-46,46>>^ E o rei deu ordem a Benaia, filho de Jeoiada, que saiu e golpeou Simei, e ele morreu.
+Assim, o reino ficou firmemente estabelecido nas mãos de Salomão.
+
+'''
+
+xref:011-1-reis/011-1-reis-001.adoc#v11-1-0[&#60; Capítulo Anterior] | <<v11-2-0,Topo>> | xref:011-1-reis/011-1-reis-003.adoc#v11-3-0[Próximo Capítulo &#62;]

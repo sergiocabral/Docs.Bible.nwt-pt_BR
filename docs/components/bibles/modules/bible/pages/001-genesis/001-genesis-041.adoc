@@ -1,0 +1,294 @@
+include::./index.adoc[]
+
+[[v1-41-0]]
+=== Gênesis, 41
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v1-41-1]]
+
+^<<v1-41-1,1>>^ Ao fim de dois anos completos, Faraó sonhou que estava em pé junto ao rio Nilo.
+
+[[v1-41-2]]
+
+^<<v1-41-2,2>>^ Ele viu sete vacas belas e gordas subir do rio, e elas ficaram pastando na relva do Nilo.
+
+[[v1-41-3]]
+
+^<<v1-41-3,3>>^ Outras sete vacas, feias e magras, subiram do Nilo depois delas e ficaram ao lado das vacas gordas na margem do Nilo.
+
+[[v1-41-4]]
+
+^<<v1-41-4,4>>^ E as vacas feias e magras começaram a devorar as sete vacas belas e gordas. Nisto Faraó acordou.
+
+[[v1-41-5]]
+
+^<<v1-41-5,5>>^ Então ele voltou a dormir e teve um segundo sonho. Numa única haste estavam crescendo sete espigas de cereal, cheias e boas.
+
+[[v1-41-6]]
+
+^<<v1-41-6,6>>^ Depois delas cresceram sete espigas mirradas e ressecadas pelo vento leste.
+
+[[v1-41-7]]
+
+^<<v1-41-7,7>>^ E as espigas mirradas começaram a engolir as sete espigas cheias e boas. Nisto Faraó acordou e viu que tinha sido um sonho.
+
+[[v1-41-8]]
+
+^<<v1-41-8,8>>^ Mas de manhã o seu espírito ficou agitado, de modo que mandou chamar todos os sacerdotes-magos e todos os sábios do Egito. Faraó relatou-lhes os seus sonhos, mas ninguém conseguia interpretá-los a Faraó.
+
+[[v1-41-9]]
+
+^<<v1-41-9,9>>^ Com isso, o chefe dos copeiros disse a Faraó: “Confesso hoje os meus pecados.
+
+[[v1-41-10]]
+
+^<<v1-41-10,10>>^ Faraó estava indignado com os seus servos. Assim, mandou me prender na cadeia da casa do chefe da guarda, tanto a mim como ao chefe dos padeiros.
+
+[[v1-41-11]]
+
+^<<v1-41-11,11>>^ Depois disso ambos tivemos sonhos na mesma noite. Tanto eu como ele tivemos um sonho, cada um com a sua própria interpretação.
+
+[[v1-41-12]]
+
+^<<v1-41-12,12>>^ Havia ali conosco um jovem hebreu, servo do chefe da guarda. Quando relatamos os nossos sonhos a ele, ele os interpretou a nós e deu o significado de cada sonho.
+
+[[v1-41-13]]
+
+^<<v1-41-13,13>>^ E tudo aconteceu exatamente como ele tinha interpretado: eu fui restituído ao cargo, mas o outro homem foi pendurado num madeiro.”
+
+[[v1-41-14]]
+
+^<<v1-41-14,14>>^ Então Faraó mandou chamar José, e o trouxeram rapidamente da prisão.^&#42;1^ Ele se barbeou, trocou as suas roupas e se apresentou a Faraó.
+
+[NOTE]
+====
+. Lit.: “cisterna; cova”.
+====
+
+[[v1-41-15]]
+
+^<<v1-41-15,15>>^ Faraó disse então a José: “Tive um sonho, mas não há quem o interprete. Ouvi dizer que você pode ouvir um sonho e interpretá-lo.”
+
+[[v1-41-16]]
+
+^<<v1-41-16,16>>^ José respondeu a Faraó: “Quem sou eu? É Deus que falará sobre o bem-estar de Faraó.”
+
+[[v1-41-17]]
+
+^<<v1-41-17,17>>^ Faraó disse a José: “No meu sonho, eu estava em pé na margem do rio Nilo.
+
+[[v1-41-18]]
+
+^<<v1-41-18,18>>^ E vi sete vacas belas e gordas subir do Nilo, e elas começaram a pastar na relva do Nilo.
+
+[[v1-41-19]]
+
+^<<v1-41-19,19>>^ Outras sete vacas, desnutridas, de aspecto muito ruim e magras, subiram depois delas. Nunca vi vacas de aspecto tão ruim em toda a terra do Egito.
+
+[[v1-41-20]]
+
+^<<v1-41-20,20>>^ E as vacas magras e de mau aspecto começaram a devorar as primeiras sete vacas, as gordas.
+
+[[v1-41-21]]
+
+^<<v1-41-21,21>>^ Mas, depois que as comeram, ninguém podia perceber que as haviam comido, visto que a sua aparência era tão ruim como no início. Nisto acordei.
+
+[[v1-41-22]]
+
+^<<v1-41-22,22>>^ “Depois, vi no meu sonho que numa única haste estavam crescendo sete espigas de cereal, cheias e boas.
+
+[[v1-41-23]]
+
+^<<v1-41-23,23>>^ Depois delas cresceram sete espigas murchas, mirradas, ressecadas pelo vento leste.
+
+[[v1-41-24]]
+
+^<<v1-41-24,24>>^ E as espigas mirradas começaram a engolir as sete espigas boas. Eu contei isso aos sacerdotes-magos, mas ninguém foi capaz de me dar uma explicação.”
+
+[[v1-41-25]]
+
+^<<v1-41-25,25>>^ José disse então a Faraó: “Os sonhos de Faraó têm apenas um significado. O verdadeiro Deus informou a Faraó o que vai fazer.
+
+[[v1-41-26]]
+
+^<<v1-41-26,26>>^ As sete vacas boas são sete anos. Igualmente, as sete espigas boas são sete anos. Os sonhos têm apenas um significado.
+
+[[v1-41-27]]
+
+^<<v1-41-27,27>>^ As sete vacas magras e de mau aspecto, que subiram depois das outras, são sete anos; e as sete espigas vazias, ressecadas pelo vento leste, serão sete anos de fome.
+
+[[v1-41-28]]
+
+^<<v1-41-28,28>>^ É como eu disse a Faraó: o verdadeiro Deus fez Faraó ver o que Ele vai fazer.
+
+[[v1-41-29]]
+
+^<<v1-41-29,29>>^ “Haverá sete anos de grande fartura em toda a terra do Egito.
+
+[[v1-41-30]]
+
+^<<v1-41-30,30>>^ Mas após eles certamente virão sete anos de fome, e toda a fartura na terra do Egito será esquecida, e a fome consumirá o país.
+
+[[v1-41-31]]
+
+^<<v1-41-31,31>>^ A fartura que houve antes no país não mais será lembrada, por causa da fome que se seguirá, pois esta será muito severa.
+
+[[v1-41-32]]
+
+^<<v1-41-32,32>>^ O sonho foi dado duas vezes a Faraó porque a questão ficou bem estabelecida pelo verdadeiro Deus, e o verdadeiro Deus logo a realizará.
+
+[[v1-41-33]]
+
+^<<v1-41-33,33>>^ “Portanto, que Faraó procure agora um homem prudente e sábio, e o encarregue da terra do Egito.
+
+[[v1-41-34]]
+
+^<<v1-41-34,34>>^ Que Faraó tome ação e designe superintendentes no país, e recolha um quinto da produção do Egito durante os sete anos de fartura.
+
+[[v1-41-35]]
+
+^<<v1-41-35,35>>^ E que eles recolham todo o alimento produzido nesses anos bons que virão e, sob a autoridade de Faraó, façam reservas de cereais, que serão armazenados como mantimentos e guardados nas cidades.
+
+[[v1-41-36]]
+
+^<<v1-41-36,36>>^ Os alimentos deverão servir de suprimento para o país durante os sete anos de fome que haverá na terra do Egito, para que o país não seja arruinado pela fome.”
+
+[[v1-41-37]]
+
+^<<v1-41-37,37>>^ A proposta agradou a Faraó e a todos os seus servos.
+
+[[v1-41-38]]
+
+^<<v1-41-38,38>>^ Assim, Faraó disse aos seus servos: “Pode-se achar outro homem como este, em quem está o espírito de Deus?”
+
+[[v1-41-39]]
+
+^<<v1-41-39,39>>^ Faraó disse então a José: “Visto que Deus o fez saber de tudo isso, não há ninguém tão prudente e sábio como você.
+
+[[v1-41-40]]
+
+^<<v1-41-40,40>>^ Você mesmo ficará encarregado da minha casa, e todo o meu povo lhe obedecerá sem reservas. Somente na posição de rei^&#42;1^ serei maior do que você.”
+
+[NOTE]
+====
+. Ou: “Somente com respeito ao trono”.
+====
+
+[[v1-41-41]]
+
+^<<v1-41-41,41>>^ E Faraó acrescentou a José: “Agora eu o encarrego de toda a terra do Egito.”
+
+[[v1-41-42]]
+
+^<<v1-41-42,42>>^ Então Faraó tirou o anel de selar que usava na mão e o pôs na mão de José, vestiu-o com roupas de linho fino e colocou-lhe um colar de ouro no pescoço.
+
+[[v1-41-43]]
+
+^<<v1-41-43,43>>^ Além disso, ele o fez andar no seu segundo carro de honra, e clamavam à frente dele: “Avrékh!”^&#42;1^ Assim ele foi encarregado de toda a terra do Egito.
+
+[NOTE]
+====
+. Aparentemente um termo que convocava outros a conferir honra e dignidade a alguém.
+====
+
+[[v1-41-44]]
+
+^<<v1-41-44,44>>^ Faraó disse mais a José: “Eu sou Faraó, mas sem a sua autorização ninguém poderá fazer absolutamente nada^&#42;1^ em toda a terra do Egito.”
+
+[NOTE]
+====
+. Lit.: “erguer a mão ou o pé”.
+====
+
+[[v1-41-45]]
+
+^<<v1-41-45,45>>^ Depois, Faraó deu a José o nome de Zafenate-Paneia e lhe deu como esposa Asenate, filha de Potífera, sacerdote de Om.^&#42;1^ E José passou a administrar a^&#42;2^ terra do Egito.
+
+[NOTE]
+====
+. Isto é, Heliópolis.
+. Ou: “viajar pela”.
+====
+
+[[v1-41-46]]
+
+^<<v1-41-46,46>>^ José tinha 30 anos de idade quando compareceu perante^&#42;1^ Faraó, rei do Egito.
+José se retirou então da presença de Faraó e viajou por toda a terra do Egito.
+
+[NOTE]
+====
+. Ou: “quando entrou para o serviço de”.
+====
+
+[[v1-41-47]]
+
+^<<v1-41-47,47>>^ E durante os sete anos de fartura a terra produzia abundantemente.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “de mãos cheias”.
+====
+
+[[v1-41-48]]
+
+^<<v1-41-48,48>>^ José continuou recolhendo todo alimento produzido na terra do Egito nos sete anos de fartura, e ele fazia reservas de alimento nas cidades. Em cada cidade, ele armazenava os alimentos produzidos nos campos que a rodeavam.
+
+[[v1-41-49]]
+
+^<<v1-41-49,49>>^ Ele continuava a fazer reservas de cereal em quantidades muito grandes, como a areia do mar, até que por fim desistiram de contá-lo porque era incalculável.
+
+[[v1-41-50]]
+
+^<<v1-41-50,50>>^ Antes de chegar o ano da fome, José se tornou pai de dois filhos, que lhe foram dados por Asenate, filha de Potífera, sacerdote de Om.^&#42;1^
+
+[NOTE]
+====
+. Isto é, Heliópolis.
+====
+
+[[v1-41-51]]
+
+^<<v1-41-51,51>>^ José deu ao primogênito o nome de Manassés,^&#42;1^ pois disse: “Deus me fez esquecer toda a minha desgraça e toda a casa de meu pai.”
+
+[NOTE]
+====
+. Que significa “aquele que torna esquecidiço; aquele que faz esquecer”.
+====
+
+[[v1-41-52]]
+
+^<<v1-41-52,52>>^ E ao segundo ele deu o nome de Efraim,^&#42;1^ pois disse: “Deus me deu filhos na terra da minha aflição.”
+
+[NOTE]
+====
+. Que significa “duplamente fértil”.
+====
+
+[[v1-41-53]]
+
+^<<v1-41-53,53>>^ Então acabaram os sete anos de fartura na terra do Egito,
+
+[[v1-41-54]]
+
+^<<v1-41-54,54>>^ e começaram os sete anos de fome, assim como José tinha dito. Havia fome em todas as terras, mas em toda a terra do Egito havia pão.^&#42;1^
+
+[NOTE]
+====
+. Ou: “comida”.
+====
+
+[[v1-41-55]]
+
+^<<v1-41-55,55>>^ Por fim, toda a terra do Egito começou a passar fome, e o povo começou a clamar a Faraó por pão. Faraó disse então a todos os egípcios: “Vão a José e façam o que ele lhes disser.”
+
+[[v1-41-56]]
+
+^<<v1-41-56,56>>^ A fome continuou em toda a face da terra. Então José começou a abrir todos os armazéns de cereais que havia entre eles e a vender aos egípcios, visto que a fome se havia apoderado da terra do Egito.
+
+[[v1-41-57]]
+
+^<<v1-41-57,57>>^ Além disso, pessoas de toda a terra iam ao Egito para comprar de José, porque a fome se havia apoderado de toda a terra.
+
+'''
+
+xref:001-genesis/001-genesis-040.adoc#v1-40-0[&#60; Capítulo Anterior] | <<v1-41-0,Topo>> | xref:001-genesis/001-genesis-042.adoc#v1-42-0[Próximo Capítulo &#62;]

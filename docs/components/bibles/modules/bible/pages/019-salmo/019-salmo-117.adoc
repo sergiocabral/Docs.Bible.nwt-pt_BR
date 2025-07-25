@@ -1,0 +1,30 @@
+include::./index.adoc[]
+
+[[v19-117-0]]
+=== Salmos, 117
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v19-117-1]]
+
+^<<v19-117-1,1>>^ Louvem a Jeová, todas as nações;
+Glorifiquem-no, todos os povos.^&#42;1^
+
+[NOTE]
+====
+. Ou: “clãs”.
+====
+
+[[v19-117-2]]
+
+^<<v19-117-2,2>>^ Porque é grande o seu amor leal por nós;
+A fidelidade de Jeová dura para sempre.
+Louvem a Jah!^&#42;1^
+
+[NOTE]
+====
+. Ou: “Aleluia!” “Jah” é uma forma reduzida do nome Jeová.
+====
+
+'''
+
+xref:019-salmo/019-salmo-116.adoc#v19-116-0[&#60; Capítulo Anterior] | <<v19-117-0,Topo>> | xref:019-salmo/019-salmo-118.adoc#v19-118-0[Próximo Capítulo &#62;]

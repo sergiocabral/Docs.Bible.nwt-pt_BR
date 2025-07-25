@@ -1,0 +1,16 @@
+include::../index.adoc[]
+
+[[v49-0-0]]
+== Efésios
+
+[cols="8*^"]
+|===
+| xref:049-efesios/049-efesios-001.adoc#v49-1-0[1]
+| xref:049-efesios/049-efesios-002.adoc#v49-2-0[2]
+| xref:049-efesios/049-efesios-003.adoc#v49-3-0[3]
+| xref:049-efesios/049-efesios-004.adoc#v49-4-0[4]
+| xref:049-efesios/049-efesios-005.adoc#v49-5-0[5]
+| xref:049-efesios/049-efesios-006.adoc#v49-6-0[6]
+|
+|
+|===

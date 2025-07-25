@@ -1,0 +1,186 @@
+include::./index.adoc[]
+
+[[v7-8-0]]
+=== Juízes, 8
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v7-8-1]]
+
+^<<v7-8-1,1>>^ Os homens de Efraim disseram-lhe então: “O que foi isso que você fez? Por que não nos chamou quando foi lutar contra Midiã?” E discutiram fortemente com ele.
+
+[[v7-8-2]]
+
+^<<v7-8-2,2>>^ Mas ele lhes disse: “O que foi que eu fiz em comparação com vocês? Não são as sobras de Efraim melhores do que a colheita de uvas de Abiezer?
+
+[[v7-8-3]]
+
+^<<v7-8-3,3>>^ Foi nas mãos de vocês que Deus entregou Orebe e Zeebe, os príncipes de Midiã, e o que eu fiz em comparação com vocês?” Quando ele disse isso,^&#42;1^ eles se acalmaram.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “essa palavra”.
+. Lit.: “o espírito deles se abrandou para com ele”.
+====
+
+[[v7-8-4]]
+
+^<<v7-8-4,4>>^ Então Gideão chegou ao Jordão e o atravessou. Ele e os 300 homens que o acompanhavam estavam cansados, mas continuaram perseguindo os inimigos.
+
+[[v7-8-5]]
+
+^<<v7-8-5,5>>^ Por isso ele disse aos homens de Sucote: “Por favor, deem pães aos homens que me acompanham, pois estão cansados e eu estou perseguindo Zeba e Zalmuna, os reis de Midiã.”
+
+[[v7-8-6]]
+
+^<<v7-8-6,6>>^ Mas os príncipes de Sucote disseram: “Por acaso Zeba e Zalmuna^&#42;1^ já estão em seu poder, para que tenhamos de dar pão ao seu exército?”
+
+[NOTE]
+====
+. Lit.: “a palma de Zeba e de Zalmuna”.
+====
+
+[[v7-8-7]]
+
+^<<v7-8-7,7>>^ Gideão respondeu: “Por causa disso, quando Jeová entregar Zeba e Zalmuna nas minhas mãos, darei uma surra em vocês com os espinhos e os abrolhos do deserto.”
+
+[[v7-8-8]]
+
+^<<v7-8-8,8>>^ E dali subiu a Penuel e fez o mesmo pedido, mas os homens de Penuel lhe deram a mesma resposta que os homens de Sucote.
+
+[[v7-8-9]]
+
+^<<v7-8-9,9>>^ Por isso, ele disse também aos homens de Penuel: “Quando eu voltar em paz, demolirei esta torre.”
+
+[[v7-8-10]]
+
+^<<v7-8-10,10>>^ Zeba e Zalmuna estavam em Carcor com os seus exércitos, cerca de 15.000 homens. Esses eram todos os que tinham restado do exército inteiro dos orientais, pois 120.000 homens armados com espadas tinham sido mortos.
+
+[[v7-8-11]]
+
+^<<v7-8-11,11>>^ Gideão continuou subindo pelo caminho dos que moravam em tendas, ao leste de Noba e de Jogbeá, e atacou o acampamento, que estava desprevenido.
+
+[[v7-8-12]]
+
+^<<v7-8-12,12>>^ Quando Zeba e Zalmuna fugiram, ele perseguiu e capturou os dois reis midianitas, Zeba e Zalmuna, deixando todo o acampamento em pânico.
+
+[[v7-8-13]]
+
+^<<v7-8-13,13>>^ Então Gideão, filho de Joás, voltou da guerra pela subida de Heres.
+
+[[v7-8-14]]
+
+^<<v7-8-14,14>>^ No caminho, ele capturou e interrogou um jovem de Sucote. E o jovem deu por escrito os nomes dos príncipes e dos anciãos de Sucote, 77 homens.
+
+[[v7-8-15]]
+
+^<<v7-8-15,15>>^ Ele foi então até os homens de Sucote e disse: “Aqui estão Zeba e Zalmuna, por causa de quem vocês zombaram de mim, dizendo: ‘Por acaso Zeba e Zalmuna^&#42;1^ já estão em seu poder, para que tenhamos de dar pão aos seus homens exaustos?’”
+
+[NOTE]
+====
+. Lit.: “a palma de Zeba e de Zalmuna”.
+====
+
+[[v7-8-16]]
+
+^<<v7-8-16,16>>^ Então ele pegou os anciãos da cidade e, com espinhos e abrolhos do deserto, deu uma lição nos homens de Sucote.
+
+[[v7-8-17]]
+
+^<<v7-8-17,17>>^ Também demoliu a torre de Penuel e matou os homens da cidade.
+
+[[v7-8-18]]
+
+^<<v7-8-18,18>>^ Ele perguntou a Zeba e a Zalmuna: “Como eram os homens que vocês mataram em Tabor?” Eles responderam: “Eles eram como você. Cada um deles parecia filho de um rei.”
+
+[[v7-8-19]]
+
+^<<v7-8-19,19>>^ Então ele disse: “Eram meus irmãos, filhos da minha mãe. Tão certo como Jeová vive, se vocês tivessem poupado a vida deles, eu não teria de matar vocês.”
+
+[[v7-8-20]]
+
+^<<v7-8-20,20>>^ E ele disse a Jeter, seu primogênito: “Vamos, mate-os!” Mas o jovem não puxou a espada; ele ficou com medo, pois ainda era jovem.
+
+[[v7-8-21]]
+
+^<<v7-8-21,21>>^ De modo que Zeba e Zalmuna disseram: “Mate-nos você mesmo, pois um homem é julgado pela sua força.”^&#42;1^ Portanto, Gideão matou Zeba e Zalmuna, e pegou os enfeites em forma de meia-lua que havia no pescoço dos camelos deles.
+
+[NOTE]
+====
+. Ou: “pois como é o homem, assim é a sua força”.
+====
+
+[[v7-8-22]]
+
+^<<v7-8-22,22>>^ Mais tarde, os homens de Israel disseram a Gideão: “Reine sobre nós, tanto você como seu filho, e seu neto, pois você nos salvou das mãos de Midiã.”
+
+[[v7-8-23]]
+
+^<<v7-8-23,23>>^ Mas Gideão lhes disse: “Eu não reinarei sobre vocês, nem meu filho reinará sobre vocês. Jeová é quem reinará sobre vocês.”
+
+[[v7-8-24]]
+
+^<<v7-8-24,24>>^ Gideão acrescentou: “Vou lhes fazer um pedido: que cada um de vocês me dê do seu despojo uma argola para o nariz.” (Pois os ismaelitas usavam argolas de ouro para o nariz.)
+
+[[v7-8-25]]
+
+^<<v7-8-25,25>>^ Eles disseram: “Certamente as daremos.” Então estenderam uma túnica, e cada homem lançou nela uma argola para o nariz tirada do seu despojo.
+
+[[v7-8-26]]
+
+^<<v7-8-26,26>>^ O peso das argolas de ouro para o nariz pedidas por ele foi de 1.700 siclos^&#42;1^ de ouro, sem contar os enfeites em forma de meia-lua, os brincos, as roupas de lã roxa usadas pelos reis de Midiã e os colares dos camelos.
+
+[NOTE]
+====
+. Um siclo equivalia a 11,4 g. Veja Ap. B14.
+====
+
+[[v7-8-27]]
+
+^<<v7-8-27,27>>^ Gideão usou aquele ouro para fazer um éfode e o expôs na sua cidade, em Ofra; e todo o Israel cometeu prostituição espiritual ali com o éfode, e ele serviu de laço para Gideão e para a sua casa.
+
+[[v7-8-28]]
+
+^<<v7-8-28,28>>^ Assim, Midiã foi subjugado diante dos israelitas, e eles não os ameaçaram^&#42;1^ mais; e a terra teve descanso^&#42;2^ por 40 anos nos dias de Gideão.
+
+[NOTE]
+====
+. Lit.: “não levantaram a sua cabeça”.
+. Ou: “paz”.
+====
+
+[[v7-8-29]]
+
+^<<v7-8-29,29>>^ Então Jerubaal, filho de Joás, voltou para a sua casa e permaneceu ali.
+
+[[v7-8-30]]
+
+^<<v7-8-30,30>>^ Gideão se tornou pai de 70 filhos,^&#42;1^ pois teve muitas esposas.
+
+[NOTE]
+====
+. Lit.: “teve 70 filhos que saíram da sua coxa”.
+====
+
+[[v7-8-31]]
+
+^<<v7-8-31,31>>^ Sua concubina em Siquém também lhe deu um filho, e ele o chamou de Abimeleque.
+
+[[v7-8-32]]
+
+^<<v7-8-32,32>>^ E Gideão, filho de Joás, morreu numa boa velhice e foi enterrado no túmulo de Joás, seu pai, em Ofra dos abiezritas.
+
+[[v7-8-33]]
+
+^<<v7-8-33,33>>^ Logo depois da morte de Gideão, os israelitas voltaram a cometer prostituição espiritual com os baalins e designaram Baal-Berite como seu deus.
+
+[[v7-8-34]]
+
+^<<v7-8-34,34>>^ Os israelitas não se lembraram de Jeová, seu Deus, que os havia livrado das mãos de todos os inimigos ao redor deles,
+
+[[v7-8-35]]
+
+^<<v7-8-35,35>>^ nem demonstraram amor leal para com os da casa de Jerubaal, isto é, Gideão, em retribuição por todo o bem que ele havia feito a Israel.
+
+'''
+
+xref:007-juizes/007-juizes-007.adoc#v7-7-0[&#60; Capítulo Anterior] | <<v7-8-0,Topo>> | xref:007-juizes/007-juizes-009.adoc#v7-9-0[Próximo Capítulo &#62;]

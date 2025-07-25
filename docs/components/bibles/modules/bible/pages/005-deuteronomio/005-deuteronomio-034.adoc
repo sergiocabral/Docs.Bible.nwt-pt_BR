@@ -1,0 +1,73 @@
+include::./index.adoc[]
+
+[[v5-34-0]]
+=== Deuteronômio, 34
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v5-34-1]]
+
+^<<v5-34-1,1>>^ Então Moisés subiu das planícies desérticas de Moabe ao monte Nebo, ao alto do Pisga, que fica em frente a Jericó. E Jeová lhe mostrou toda a terra: de Gileade até Dã,
+
+[[v5-34-2]]
+
+^<<v5-34-2,2>>^ todo o Naftali, a terra de Efraim e Manassés, toda a terra de Judá até o mar ocidental,^&#42;1^
+
+[NOTE]
+====
+. Isto é, o Grande Mar, o Mediterrâneo.
+====
+
+[[v5-34-3]]
+
+^<<v5-34-3,3>>^ o Neguebe e o Distrito,^&#42;1^ incluindo o vale^&#42;2^ de Jericó, a cidade das palmeiras, até Zoar.
+
+[NOTE]
+====
+. Pelo visto, o distrito do Jordão.
+. Lit.: “a planície de vale”.
+====
+
+[[v5-34-4]]
+
+^<<v5-34-4,4>>^ Então Jeová lhe disse: “Esta é a terra a respeito da qual jurei a Abraão, a Isaque e a Jacó, dizendo: ‘Eu a darei à sua descendência.’^&#42;1^ Estou deixando que você a veja com os seus próprios olhos, mas você não passará para lá.”
+
+[NOTE]
+====
+. Lit.: “semente”.
+====
+
+[[v5-34-5]]
+
+^<<v5-34-5,5>>^ Depois Moisés, o servo de Jeová, morreu ali na terra de Moabe, assim como Jeová havia falado.
+
+[[v5-34-6]]
+
+^<<v5-34-6,6>>^ Ele o enterrou no vale que fica na terra de Moabe, em frente a Bete-Peor, e até hoje ninguém sabe onde está sua sepultura.
+
+[[v5-34-7]]
+
+^<<v5-34-7,7>>^ Moisés tinha 120 anos de idade quando morreu. Sua vista não tinha enfraquecido, e ele não tinha perdido o seu vigor.
+
+[[v5-34-8]]
+
+^<<v5-34-8,8>>^ O povo de Israel chorou por Moisés nas planícies desérticas de Moabe por 30 dias. Então terminaram os dias de choro e luto por Moisés.
+
+[[v5-34-9]]
+
+^<<v5-34-9,9>>^ Josué, filho de Num, estava cheio do espírito de sabedoria, pois Moisés tinha posto sua mão sobre ele; e os israelitas começaram a escutá-lo, e fizeram assim como Jeová havia ordenado a Moisés.
+
+[[v5-34-10]]
+
+^<<v5-34-10,10>>^ Mas nunca mais surgiu em Israel um profeta semelhante a Moisés, a quem Jeová conhecia face a face.
+
+[[v5-34-11]]
+
+^<<v5-34-11,11>>^ Ele realizou todos os sinais e milagres que Jeová o tinha enviado para fazer na terra do Egito, a Faraó, a todos os seus servos e a toda a sua terra.
+
+[[v5-34-12]]
+
+^<<v5-34-12,12>>^ Além disso, Moisés agiu com mão poderosa e poder espantoso diante dos olhos de todo o Israel.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-033.adoc#v5-33-0[&#60; Capítulo Anterior] | <<v5-34-0,Topo>> | xref:006-josue/006-josue-001.adoc#v6-1-0[Próximo Capítulo &#62;]

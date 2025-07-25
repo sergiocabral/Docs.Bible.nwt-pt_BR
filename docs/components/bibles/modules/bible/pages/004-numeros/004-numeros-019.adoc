@@ -1,0 +1,141 @@
+include::./index.adoc[]
+
+[[v4-19-0]]
+=== Números, 19
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v4-19-1]]
+
+^<<v4-19-1,1>>^ Jeová disse mais a Moisés e a Arão:
+
+[[v4-19-2]]
+
+^<<v4-19-2,2>>^ “Este é um decreto da lei que Jeová ordenou: ‘Diga aos israelitas que lhe tragam uma vaca vermelha, sadia, que não tenha defeito e sobre a qual nunca tenha sido colocado um jugo.
+
+[[v4-19-3]]
+
+^<<v4-19-3,3>>^ Vocês devem entregá-la a Eleazar, o sacerdote; ele a levará para fora do acampamento, e ela será abatida diante dele.
+
+[[v4-19-4]]
+
+^<<v4-19-4,4>>^ Então Eleazar, o sacerdote, molhará o dedo no sangue dela e o aspergirá sete vezes em direção à entrada da tenda de reunião.
+
+[[v4-19-5]]
+
+^<<v4-19-5,5>>^ E a vaca será queimada diante dele. O couro, a carne e o sangue junto com o excremento serão queimados.
+
+[[v4-19-6]]
+
+^<<v4-19-6,6>>^ E o sacerdote pegará madeira de cedro, hissopo e tecido escarlate e os lançará no fogo onde a vaca estiver sendo queimada.
+
+[[v4-19-7]]
+
+^<<v4-19-7,7>>^ Então o sacerdote lavará as suas vestes e se banhará^&#42;1^ em água; depois poderá entrar no acampamento, mas o sacerdote continuará impuro até o anoitecer.
+
+[NOTE]
+====
+. Lit.: “banhará sua carne”.
+====
+
+[[v4-19-8]]
+
+^<<v4-19-8,8>>^ “‘Aquele que queimou a vaca lavará suas roupas em água e se banhará^&#42;1^ em água, e continuará impuro até o anoitecer.
+
+[NOTE]
+====
+. Lit.: “banhará sua carne”.
+====
+
+[[v4-19-9]]
+
+^<<v4-19-9,9>>^ “‘Um homem que estiver puro recolherá as cinzas da vaca e as colocará num lugar puro fora do acampamento, e elas devem ser guardadas pela assembleia de Israel para preparar a água que será usada para purificação. É uma oferta pelo pecado.
+
+[[v4-19-10]]
+
+^<<v4-19-10,10>>^ Quem ajuntar as cinzas da vaca lavará suas roupas e ficará impuro até o anoitecer.
+“‘Isto será um decreto permanente para os israelitas e para o estrangeiro que mora entre eles.
+
+[[v4-19-11]]
+
+^<<v4-19-11,11>>^ Quem tocar num morto^&#42;1^ ficará impuro por sete dias.
+
+[NOTE]
+====
+. Ou: “no cadáver de qualquer alma humana”. Veja o Glossário, “Alma”.
+====
+
+[[v4-19-12]]
+
+^<<v4-19-12,12>>^ Ele deve se purificar com a água da purificação^&#42;1^ no terceiro dia, e no sétimo dia ficará puro. Mas, se não se purificar no terceiro dia, não ficará puro no sétimo dia.
+
+[NOTE]
+====
+. Lit.: “com ela”.
+====
+
+[[v4-19-13]]
+
+^<<v4-19-13,13>>^ Todo aquele que tocar no cadáver de uma pessoa^&#42;1^ e não se purificar estará profanando o tabernáculo de Jeová, e ele será eliminado^&#42;2^ de Israel.^&#42;3^ Ele continua impuro, visto que a água da purificação não foi aspergida sobre ele. Ele permanece no seu estado impuro.
+
+[NOTE]
+====
+. Ou: “num cadáver, na alma de qualquer humano que morreu”. Veja o Glossário, “Alma”.
+. Ou: “essa alma será eliminada”.
+. Isto é, será morto.
+====
+
+[[v4-19-14]]
+
+^<<v4-19-14,14>>^ “‘Esta é a lei que se aplica quando um homem morre numa tenda: quem entrar na tenda e quem já estiver na tenda ficará impuro por sete dias.
+
+[[v4-19-15]]
+
+^<<v4-19-15,15>>^ Todo recipiente aberto, sem uma tampa amarrada, ficará impuro.
+
+[[v4-19-16]]
+
+^<<v4-19-16,16>>^ Quem no campo aberto tocar em alguém que foi morto à espada, ou num cadáver ou osso humano, ou numa sepultura, ficará impuro por sete dias.
+
+[[v4-19-17]]
+
+^<<v4-19-17,17>>^ Deve-se pegar para o impuro um pouco das cinzas da oferta pelo pecado que foi queimada, colocar num recipiente e derramar sobre elas água tirada de uma fonte.
+
+[[v4-19-18]]
+
+^<<v4-19-18,18>>^ Então um homem que estiver puro pegará hissopo, o mergulhará na água e aspergirá a água sobre a tenda, sobre todos os recipientes, sobre as pessoas^&#42;1^ que estavam lá e sobre aquele que tocou num osso, num homem que foi morto, num cadáver ou numa sepultura.
+
+[NOTE]
+====
+. Ou: “almas”.
+====
+
+[[v4-19-19]]
+
+^<<v4-19-19,19>>^ Aquele que estiver puro aspergirá a água sobre aquele que estiver impuro, no terceiro e no sétimo dia; e no sétimo dia o purificará de pecado. Então o impuro deve lavar suas roupas e se banhar em água, e ao anoitecer ficará puro.
+
+[[v4-19-20]]
+
+^<<v4-19-20,20>>^ “‘Mas o homem que estiver impuro e que não se purificar, esse homem será eliminado^&#42;1^ da congregação,^&#42;2^ visto que profanou o santuário de Jeová. A água da purificação não foi aspergida sobre ele, por isso ele está impuro.
+
+[NOTE]
+====
+. Ou: “essa alma será eliminada”.
+. Isto é, será morto.
+====
+
+[[v4-19-21]]
+
+^<<v4-19-21,21>>^ “‘Isto será um decreto permanente para eles: aquele que aspergir a água da purificação deverá lavar suas roupas, e aquele que tocar na água da purificação ficará impuro até o anoitecer.
+
+[[v4-19-22]]
+
+^<<v4-19-22,22>>^ Qualquer coisa em que o impuro tocar ficará impura, e a pessoa^&#42;1^ que tocar nela ficará impura até o anoitecer.’”
+
+[NOTE]
+====
+. Ou: “alma”.
+====
+
+'''
+
+xref:004-numeros/004-numeros-018.adoc#v4-18-0[&#60; Capítulo Anterior] | <<v4-19-0,Topo>> | xref:004-numeros/004-numeros-020.adoc#v4-20-0[Próximo Capítulo &#62;]

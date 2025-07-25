@@ -1,0 +1,143 @@
+include::./index.adoc[]
+
+[[v13-5-0]]
+=== O Primeiro das Crônicas, 5
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v13-5-1]]
+
+^<<v13-5-1,1>>^ Estes são os filhos de Rubem, primogênito de Israel. (Ele era o primogênito, mas, por desonrar^&#42;1^ o leito do seu pai, o seu direito de primogênito foi dado aos filhos de José, filho de Israel, de modo que ele não foi alistado nos registros genealógicos como tendo o direito de primogênito.
+
+[NOTE]
+====
+. Ou: “profanar”.
+====
+
+[[v13-5-2]]
+
+^<<v13-5-2,2>>^ Embora Judá fosse superior aos seus irmãos, e dele tenha vindo aquele que se tornou líder, o direito de primogênito era de José.)
+
+[[v13-5-3]]
+
+^<<v13-5-3,3>>^ Os filhos de Rubem, primogênito de Israel, foram Hanoque, Palu, Esrom e Carmi.
+
+[[v13-5-4]]
+
+^<<v13-5-4,4>>^ Os filhos de Joel foram Semaías, seu filho; Gogue, seu filho; Simei, seu filho;
+
+[[v13-5-5]]
+
+^<<v13-5-5,5>>^ Mica, seu filho; Reaías, seu filho; Baal, seu filho;
+
+[[v13-5-6]]
+
+^<<v13-5-6,6>>^ e Beerá, seu filho, que foi levado para o exílio por Tilgate-Pilneser, rei da Assíria. Beerá era maioral dos rubenitas.
+
+[[v13-5-7]]
+
+^<<v13-5-7,7>>^ Os irmãos dele, segundo as suas famílias alistadas no registro genealógico, segundo as suas linhagens, foram Jeiel, o cabeça, Zacarias
+
+[[v13-5-8]]
+
+^<<v13-5-8,8>>^ e Bela (filho de Azaz, filho de Sema, filho de Joel), que morava na região que vai de Aroer até Nebo e Baal-Meom.
+
+[[v13-5-9]]
+
+^<<v13-5-9,9>>^ Ao leste, ele ocupou o território que se estendia até o início do deserto^&#42;1^ que fica junto ao rio Eufrates, pois os seus rebanhos haviam aumentado muito na terra de Gileade.
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v13-5-10]]
+
+^<<v13-5-10,10>>^ Nos dias de Saul eles travaram guerra contra os agarenos e os derrotaram, passando a morar nas tendas que eram deles em todo o território ao leste de Gileade.
+
+[[v13-5-11]]
+
+^<<v13-5-11,11>>^ Os descendentes de Gade moravam ao lado deles na terra de Basã, no território que ia até Salcá.
+
+[[v13-5-12]]
+
+^<<v13-5-12,12>>^ Em Basã, Joel era o cabeça, Safão era o segundo, e havia também Janai e Safate.
+
+[[v13-5-13]]
+
+^<<v13-5-13,13>>^ E os irmãos deles, que pertenciam às suas casas paternas, eram Micael, Mesulão, Seba, Jorai, Jacã, Zia e Éber, sete ao todo.
+
+[[v13-5-14]]
+
+^<<v13-5-14,14>>^ Esses eram os filhos de Abiail, filho de Huri, filho de Jaroa, filho de Gileade, filho de Micael, filho de Jesisai, filho de Jado, filho de Buz.
+
+[[v13-5-15]]
+
+^<<v13-5-15,15>>^ Aí, filho de Abdiel, filho de Guni, era o cabeça da casa paterna deles.
+
+[[v13-5-16]]
+
+^<<v13-5-16,16>>^ Eles moravam em Gileade, em Basã e nas suas aldeias dependentes,^&#42;1^ e em todas as pastagens de Sarom, até onde se estendiam.
+
+[NOTE]
+====
+. Ou: “ao redor”.
+====
+
+[[v13-5-17]]
+
+^<<v13-5-17,17>>^ Todos eles foram alistados nos registros genealógicos nos dias de Jotão, rei de Judá, e nos dias de Jeroboão,^&#42;1^ rei de Israel.
+
+[NOTE]
+====
+. Isto é, Jeroboão II.
+====
+
+[[v13-5-18]]
+
+^<<v13-5-18,18>>^ Os rubenitas, os gaditas e a meia tribo de Manassés tinham 44.760 guerreiros valentes no seu exército, que portavam escudos e espadas e estavam armados com arcos;^&#42;1^ eles eram treinados para a guerra.
+
+[NOTE]
+====
+. Lit.: “e pisavam o arco”.
+====
+
+[[v13-5-19]]
+
+^<<v13-5-19,19>>^ Eles guerrearam contra os agarenos, Jetur, Nafis e Nodabe.
+
+[[v13-5-20]]
+
+^<<v13-5-20,20>>^ Visto que clamaram a Deus por socorro nessa guerra e confiaram nele, ele atendeu às suas súplicas e eles foram ajudados na batalha, de modo que os agarenos e todos os que estavam com eles foram entregues nas suas mãos.
+
+[[v13-5-21]]
+
+^<<v13-5-21,21>>^ Eles capturaram os seus rebanhos — 50.000 camelos, 250.000 ovelhas e 2.000 jumentos — além de 100.000 pessoas.^&#42;1^
+
+[NOTE]
+====
+. Ou: “almas humanas”.
+====
+
+[[v13-5-22]]
+
+^<<v13-5-22,22>>^ Muitos foram mortos, pois a guerra era do verdadeiro Deus. Depois eles passaram a morar no território que era daquele povo, até o tempo do exílio.
+
+[[v13-5-23]]
+
+^<<v13-5-23,23>>^ Os descendentes da meia tribo de Manassés moravam na região que vai desde Basã até Baal-Hermom, Senir e o monte Hermom. Eles eram numerosos.
+
+[[v13-5-24]]
+
+^<<v13-5-24,24>>^ Estes foram os cabeças das suas casas paternas: Efer, Isi, Eliel, Azriel, Jeremias, Hodavias e Jadiel. Eles eram guerreiros valentes, homens de fama e cabeças das suas casas paternas.
+
+[[v13-5-25]]
+
+^<<v13-5-25,25>>^ Mas eles foram infiéis ao Deus dos seus antepassados e cometeram prostituição com os deuses dos povos do país, os quais Deus tinha exterminado de diante deles.
+
+[[v13-5-26]]
+
+^<<v13-5-26,26>>^ Por isso, o Deus de Israel instigou contra eles o espírito de Pul, rei da Assíria (isto é, Tilgate-Pilneser, rei da Assíria), de modo que ele levou para o exílio os rubenitas, os gaditas e os da meia tribo de Manassés. Ele os levou para Hala, para Habor, para Hara e para a região do rio Gozã, onde permanecem até hoje.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-004.adoc#v13-4-0[&#60; Capítulo Anterior] | <<v13-5-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-006.adoc#v13-6-0[Próximo Capítulo &#62;]

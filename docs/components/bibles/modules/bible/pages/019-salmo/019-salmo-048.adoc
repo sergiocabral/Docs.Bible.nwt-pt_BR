@@ -1,0 +1,109 @@
+include::./index.adoc[]
+
+[[v19-48-0]]
+=== Salmos, 48
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Cântico. Salmo dos filhos de Corá._
+
+[[v19-48-1]]
+
+^<<v19-48-1,1>>^ Jeová é grande e digno de todo louvor
+Na cidade do nosso Deus, no seu santo monte.
+
+[[v19-48-2]]
+
+^<<v19-48-2,2>>^ Belo por sua altura, a alegria da terra inteira,
+É o monte Sião no extremo norte,
+A cidade do Grandioso Rei.
+
+[[v19-48-3]]
+
+^<<v19-48-3,3>>^ Nas torres fortificadas da cidade,
+Deus se deu a conhecer como um refúgio seguro.^&#42;1^
+
+[NOTE]
+====
+. Ou: “refúgio num lugar alto”.
+====
+
+[[v19-48-4]]
+
+^<<v19-48-4,4>>^ Vejam! Reis se reuniram;^&#42;1^
+Avançaram juntos.
+
+[NOTE]
+====
+. Ou: “se encontraram conforme combinaram”.
+====
+
+[[v19-48-5]]
+
+^<<v19-48-5,5>>^ Quando viram a cidade, ficaram perplexos.
+Entraram em pânico e fugiram apavorados.
+
+[[v19-48-6]]
+
+^<<v19-48-6,6>>^ Ali o tremor se apoderou deles,
+Uma angústia como a da mulher que está dando à luz.
+
+[[v19-48-7]]
+
+^<<v19-48-7,7>>^ Com um vento leste destroças os navios de Társis.
+
+[[v19-48-8]]
+
+^<<v19-48-8,8>>^ Aquilo de que ouvimos falar, agora vimos por nós mesmos
+Na cidade de Jeová dos exércitos, na cidade do nosso Deus.
+Deus a fará firme para sempre. (Selá)
+
+[[v19-48-9]]
+
+^<<v19-48-9,9>>^ Meditamos no teu amor leal, ó Deus,
+Dentro do teu templo.
+
+[[v19-48-10]]
+
+^<<v19-48-10,10>>^ Como o teu nome, ó Deus, o teu louvor
+Alcança os confins da terra.
+Tua mão direita está cheia de justiça.
+
+[[v19-48-11]]
+
+^<<v19-48-11,11>>^ Que o monte Sião se alegre,
+Que as cidades^&#42;1^ de Judá fiquem alegres por causa dos teus julgamentos.
+
+[NOTE]
+====
+. Lit.: “filhas”.
+====
+
+[[v19-48-12]]
+
+^<<v19-48-12,12>>^ Marchem ao redor de Sião; andem em volta dela;
+Contem as suas torres.
+
+[[v19-48-13]]
+
+^<<v19-48-13,13>>^ Contemplem a sua escarpa.^&#42;1^
+Inspecionem as suas torres fortificadas,
+Para que possam falar sobre isso às gerações futuras.
+
+[NOTE]
+====
+. Ou: “Fixem o coração nas suas muralhas fortificadas.”
+====
+
+[[v19-48-14]]
+
+^<<v19-48-14,14>>^ Pois este Deus é o nosso Deus para todo o sempre.
+Ele nos guiará eternamente.^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “até morrermos”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-047.adoc#v19-47-0[&#60; Capítulo Anterior] | <<v19-48-0,Topo>> | xref:019-salmo/019-salmo-049.adoc#v19-49-0[Próximo Capítulo &#62;]

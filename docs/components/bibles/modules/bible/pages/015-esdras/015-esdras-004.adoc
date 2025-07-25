@@ -1,0 +1,168 @@
+include::./index.adoc[]
+
+[[v15-4-0]]
+=== Esdras, 4
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v15-4-1]]
+
+^<<v15-4-1,1>>^ Quando os inimigos de Judá e de Benjamim souberam que os que tinham voltado do exílio estavam construindo um templo para Jeová, o Deus de Israel,
+
+[[v15-4-2]]
+
+^<<v15-4-2,2>>^ dirigiram-se imediatamente a Zorobabel e aos cabeças das casas paternas, e lhes disseram: “Deixem-nos construir com vocês; pois, assim como vocês, adoramos^&#42;1^ o seu Deus e a ele temos oferecido sacrifícios desde os dias de Esar-Hadom, rei da Assíria, que nos trouxe para cá.”
+
+[NOTE]
+====
+. Lit.: “buscamos”.
+====
+
+[[v15-4-3]]
+
+^<<v15-4-3,3>>^ No entanto, Zorobabel e Jesua, e os outros cabeças das casas paternas de Israel, lhes disseram: “Vocês não participarão conosco em construir uma casa para o nosso Deus, pois nós construiremos sozinhos uma casa para Jeová, o Deus de Israel, assim como nos ordenou Ciro, rei da Pérsia.”
+
+[[v15-4-4]]
+
+^<<v15-4-4,4>>^ Em vista disso, os povos das terras ao redor desanimavam constantemente o^&#42;1^ povo de Judá e tentavam fazê-los desistir da construção.
+
+[NOTE]
+====
+. Lit.: “enfraqueciam as mãos do”.
+====
+
+[[v15-4-5]]
+
+^<<v15-4-5,5>>^ Eles contratavam conselheiros para frustrar seus planos durante todos os dias de Ciro, rei da Pérsia, até o reinado de Dario, rei da Pérsia.
+
+[[v15-4-6]]
+
+^<<v15-4-6,6>>^ No início do reinado de Assuero, escreveram uma acusação contra os habitantes de Judá e de Jerusalém.
+
+[[v15-4-7]]
+
+^<<v15-4-7,7>>^ E, nos dias de Artaxerxes, rei da Pérsia, foi escrita uma carta por Bislão, Mitredate, Tabeel e o restante dos seus colegas, dirigida ao rei Artaxerxes. Eles traduziram a carta para o aramaico, usando caracteres aramaicos.^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “A carta foi escrita em aramaico e depois traduzida.”
+====
+
+[[v15-4-8]]
+
+^<<v15-4-8,8>>^ ^&#42;1^ Reum, o principal oficial do governo, e Sinsai, o escrivão, escreveram uma carta contra Jerusalém ao rei Artaxerxes, conforme segue:
+
+[NOTE]
+====
+. Esdras 4:8 até 6:18 foi originalmente escrito em aramaico.
+====
+
+[[v15-4-9]]
+
+^<<v15-4-9,9>>^ (A carta era de Reum, o principal oficial do governo, de Sinsai, o escrivão, e do restante dos colegas deles — os juízes e os subgovernadores, os secretários, o povo de Ereque, os babilônios, os habitantes de Susa, isto é, os elamitas,
+
+[[v15-4-10]]
+
+^<<v15-4-10,10>>^ e as outras nações que o grande e ilustre Asnapar levou para o exílio e estabeleceu nas cidades de Samaria e em outras partes da região ao oeste do rio Eufrates.^&#42;1^ E agora
+
+[NOTE]
+====
+. Ou: “região Além do Rio; região do Transeufrates”.
+====
+
+[[v15-4-11]]
+
+^<<v15-4-11,11>>^ segue o texto da carta que eles lhe enviaram.)
+“Ao rei Artaxerxes, dos seus servos, os homens da região ao oeste do rio Eufrates:^&#42;1^
+
+[NOTE]
+====
+. Ou: “região Além do Rio; região do Transeufrates”.
+====
+
+[[v15-4-12]]
+
+^<<v15-4-12,12>>^ Seja do conhecimento do rei que os judeus que vieram daí para o nosso território chegaram a Jerusalém. Estão reconstruindo a cidade rebelde e má, terminando os muros e consertando os alicerces.
+
+[[v15-4-13]]
+
+^<<v15-4-13,13>>^ Seja do conhecimento do rei que, se essa cidade for reconstruída e seus muros terminados, eles não pagarão imposto, nem tributo, nem pedágio, e isso trará prejuízo ao tesouro dos reis.
+
+[[v15-4-14]]
+
+^<<v15-4-14,14>>^ Visto que comemos o sal do palácio,^&#42;1^ e que não seria correto ficarmos parados enquanto vemos os interesses do rei serem prejudicados, enviamos ao rei essas informações,
+
+[NOTE]
+====
+. Ou: “recebemos nosso salário do palácio”.
+====
+
+[[v15-4-15]]
+
+^<<v15-4-15,15>>^ para que se faça uma investigação no livro dos registros dos seus antepassados. O senhor descobrirá no livro dos registros que essa cidade é uma cidade rebelde, que causa prejuízo aos reis e às províncias,^&#42;1^ e que, desde os tempos antigos, sempre houve nela instigadores de rebelião. É por isso que essa cidade foi destruída.
+
+[NOTE]
+====
+. Ou: “aos distritos jurisdicionais”.
+====
+
+[[v15-4-16]]
+
+^<<v15-4-16,16>>^ Queremos informar ao rei que, se essa cidade for reconstruída e seus muros terminados, o senhor não terá mais nenhum controle^&#42;1^ da região ao oeste do rio Eufrates.”^&#42;2^
+
+[NOTE]
+====
+. Ou: “nenhuma parte”.
+. Ou: “região Além do Rio; região do Transeufrates”.
+====
+
+[[v15-4-17]]
+
+^<<v15-4-17,17>>^ O rei enviou a seguinte resposta a Reum, o principal oficial do governo, e a Sinsai, o escrivão, e ao restante dos colegas deles que moravam em Samaria e nas outras partes da região ao oeste do rio Eufrates:^&#42;1^
+“Saudações!
+
+[NOTE]
+====
+. Ou: “região Além do Rio; região do Transeufrates”.
+====
+
+[[v15-4-18]]
+
+^<<v15-4-18,18>>^ O documento oficial que vocês nos enviaram foi lido de modo claro^&#42;1^ na minha presença.
+
+[NOTE]
+====
+. Ou, possivelmente: “foi traduzido e lido”.
+====
+
+[[v15-4-19]]
+
+^<<v15-4-19,19>>^ Ordenei que se fizesse uma investigação e descobriu-se que essa cidade já há muito tempo tem se levantado contra os reis, e nela tem havido rebeliões e revoltas.
+
+[[v15-4-20]]
+
+^<<v15-4-20,20>>^ Havia reis poderosos sobre Jerusalém que governavam toda a região ao oeste do rio Eufrates,^&#42;1^ aos quais se pagavam imposto, tributo e pedágio.
+
+[NOTE]
+====
+. Ou: “região Além do Rio; região do Transeufrates”.
+====
+
+[[v15-4-21]]
+
+^<<v15-4-21,21>>^ Portanto, deem ordem para que esses homens parem a obra, a fim de que não se reconstrua essa cidade até que eu ordene.
+
+[[v15-4-22]]
+
+^<<v15-4-22,22>>^ Não permitam que haja negligência em cuidar desse assunto, para que os interesses do rei não sejam ainda mais prejudicados.”
+
+[[v15-4-23]]
+
+^<<v15-4-23,23>>^ Então, depois de se ter lido a cópia do documento oficial do rei Artaxerxes na presença de Reum e de Sinsai, o escrivão, e de seus colegas, eles foram imediatamente aos judeus em Jerusalém e usaram a força para interromper a obra.
+
+[[v15-4-24]]
+
+^<<v15-4-24,24>>^ Foi então que as obras da casa de Deus em Jerusalém pararam, e continuaram paradas até o segundo ano do reinado de Dario, rei da Pérsia.
+
+'''
+
+xref:015-esdras/015-esdras-003.adoc#v15-3-0[&#60; Capítulo Anterior] | <<v15-4-0,Topo>> | xref:015-esdras/015-esdras-005.adoc#v15-5-0[Próximo Capítulo &#62;]

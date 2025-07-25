@@ -1,0 +1,142 @@
+include::./index.adoc[]
+
+[[v13-26-0]]
+=== O Primeiro das Crônicas, 26
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v13-26-1]]
+
+^<<v13-26-1,1>>^ Estas eram as turmas dos porteiros. Dos coraítas, havia Meselemias, filho de Coré, dos filhos de Asafe.
+
+[[v13-26-2]]
+
+^<<v13-26-2,2>>^ Os filhos de Meselemias foram Zacarias, o primogênito; Jediael, o segundo; Zebadias, o terceiro; Jatniel, o quarto;
+
+[[v13-26-3]]
+
+^<<v13-26-3,3>>^ Elão, o quinto; Jeoanã, o sexto; e Elioenai, o sétimo.
+
+[[v13-26-4]]
+
+^<<v13-26-4,4>>^ E os filhos de Obede-Edom foram Semaías, o primogênito; Jeozabade, o segundo; Joá, o terceiro; Sacar, o quarto; Netanel, o quinto;
+
+[[v13-26-5]]
+
+^<<v13-26-5,5>>^ Amiel, o sexto; Issacar, o sétimo; e Peuletai, o oitavo; pois Deus o havia abençoado.
+
+[[v13-26-6]]
+
+^<<v13-26-6,6>>^ Semaías, seu filho, teve filhos que foram cabeças das suas casas paternas, pois eram homens fortes e capazes.
+
+[[v13-26-7]]
+
+^<<v13-26-7,7>>^ Os filhos de Semaías foram Otni, Refael, Obede e Elzabade; e os irmãos dele, Eliú e Semaquias, também eram homens capazes.
+
+[[v13-26-8]]
+
+^<<v13-26-8,8>>^ Todos esses eram filhos de Obede-Edom. Eles, seus filhos e seus irmãos eram homens capazes e qualificados para o serviço; havia 62 de Obede-Edom.
+
+[[v13-26-9]]
+
+^<<v13-26-9,9>>^ Meselemias teve filhos e irmãos, 18 homens capazes.
+
+[[v13-26-10]]
+
+^<<v13-26-10,10>>^ E os filhos de Hosa, dos filhos de Merari, foram Sinri, o cabeça (embora ele não fosse o primogênito, seu pai o designou como cabeça);
+
+[[v13-26-11]]
+
+^<<v13-26-11,11>>^ Hilquias, o segundo; Tebalias, o terceiro; e Zacarias, o quarto. Os filhos e os irmãos de Hosa foram 13.
+
+[[v13-26-12]]
+
+^<<v13-26-12,12>>^ Os cabeças dessas turmas de porteiros tinham deveres a cumprir no serviço da casa de Jeová, assim como seus irmãos.
+
+[[v13-26-13]]
+
+^<<v13-26-13,13>>^ Lançaram então sortes entre as casas paternas, tanto as pequenas como as grandes, para determinar quem ficaria em cada portão.
+
+[[v13-26-14]]
+
+^<<v13-26-14,14>>^ A sorte referente ao lado leste caiu para Selemias. Então lançaram sortes para seu filho Zacarias, um sábio conselheiro, e ele recebeu o lado norte.
+
+[[v13-26-15]]
+
+^<<v13-26-15,15>>^ Obede-Edom ficou com o lado sul, e os seus filhos foram designados para os depósitos.
+
+[[v13-26-16]]
+
+^<<v13-26-16,16>>^ Supim e Hosa ficaram com o lado oeste, perto do Portão Salequete, junto à estrada que sobe; um grupo de guardas ficava ao lado de outro grupo de guardas.
+
+[[v13-26-17]]
+
+^<<v13-26-17,17>>^ Havia seis levitas ao leste, e diariamente havia quatro levitas ao norte e quatro ao sul. Nos depósitos, ficavam dois guardas perto de outros dois.
+
+[[v13-26-18]]
+
+^<<v13-26-18,18>>^ No pórtico, ao oeste, havia quatro levitas junto à estrada e dois junto ao pórtico.
+
+[[v13-26-19]]
+
+^<<v13-26-19,19>>^ Essas eram as turmas dos porteiros dos filhos dos coraítas e dos meraritas.
+
+[[v13-26-20]]
+
+^<<v13-26-20,20>>^ Dentre os levitas, Aías estava encarregado dos tesouros da casa do verdadeiro Deus e dos tesouros das coisas tornadas sagradas.^&#42;1^
+
+[NOTE]
+====
+. Ou: “das coisas dedicadas”.
+====
+
+[[v13-26-21]]
+
+^<<v13-26-21,21>>^ Os filhos de Ladã: dos filhos dos gersonitas que descendiam de Ladã, os cabeças das casas paternas de Ladã, o gersonita, havia Jeieli
+
+[[v13-26-22]]
+
+^<<v13-26-22,22>>^ e os filhos de Jeieli, Zetão e seu irmão Joel. Eles estavam encarregados dos tesouros da casa de Jeová.
+
+[[v13-26-23]]
+
+^<<v13-26-23,23>>^ Dentre os anramitas, izaritas, hebronitas e uzielitas,
+
+[[v13-26-24]]
+
+^<<v13-26-24,24>>^ Sebuel, filho de Gérson, filho de Moisés, estava encarregado dos depósitos.
+
+[[v13-26-25]]
+
+^<<v13-26-25,25>>^ Quanto aos seus irmãos, de Eliézer, havia Reabias, seu filho; Jesaías, seu filho; Jorão, seu filho; Zicri, seu filho; e Selomote, seu filho.
+
+[[v13-26-26]]
+
+^<<v13-26-26,26>>^ Esse Selomote e seus irmãos estavam encarregados de todos os tesouros das coisas tornadas sagradas, as quais o rei Davi, os cabeças das casas paternas, os chefes de mil, os chefes de cem e os chefes do exército tinham tornado sagradas.
+
+[[v13-26-27]]
+
+^<<v13-26-27,27>>^ Eles tinham tornado sagrada parte dos despojos de guerra para a manutenção da casa de Jeová;
+
+[[v13-26-28]]
+
+^<<v13-26-28,28>>^ havia também tudo o que Samuel, o vidente, Saul, filho de Quis, Abner, filho de Ner, e Joabe, filho de Zeruia, tinham tornado sagrado. Tudo o que alguém tornasse sagrado ficava aos cuidados de Selomite e dos seus irmãos.
+
+[[v13-26-29]]
+
+^<<v13-26-29,29>>^ Dos izaritas, Quenanias e seus filhos foram designados para as tarefas administrativas externas, como oficiais e como juízes sobre Israel.
+
+[[v13-26-30]]
+
+^<<v13-26-30,30>>^ Dos hebronitas havia Hasabias e seus irmãos, 1.700 homens capazes. Eles tinham a seu cargo a administração de Israel na região ao oeste do Jordão, no que se refere a todo o serviço de Jeová e ao serviço do rei.
+
+[[v13-26-31]]
+
+^<<v13-26-31,31>>^ Dos hebronitas, Jerias era o cabeça dos hebronitas de acordo com a linhagem da casa paterna deles. No quadragésimo ano do reinado de Davi, foi feita uma pesquisa, e foram encontrados entre eles homens fortes e capazes em Jázer, na terra de Gileade.
+
+[[v13-26-32]]
+
+^<<v13-26-32,32>>^ Seus irmãos eram 2.700 homens capazes, cabeças das casas paternas. De modo que o rei Davi lhes deu autoridade sobre os rubenitas, sobre os gaditas e sobre a meia tribo dos manassitas para cuidar de todos os assuntos referentes ao verdadeiro Deus e referentes ao rei.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-025.adoc#v13-25-0[&#60; Capítulo Anterior] | <<v13-26-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-027.adoc#v13-27-0[Próximo Capítulo &#62;]

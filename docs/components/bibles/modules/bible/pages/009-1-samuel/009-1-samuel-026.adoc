@@ -1,0 +1,130 @@
+include::./index.adoc[]
+
+[[v9-26-0]]
+=== O Primeiro de Samuel, 26
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v9-26-1]]
+
+^<<v9-26-1,1>>^ Com o tempo, os homens de Zife foram até Saul, em Gibeá, e disseram: “Davi está escondido na colina de Haquilá, que fica em frente a Jesimom.”^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “ao deserto; ao ermo”.
+====
+
+[[v9-26-2]]
+
+^<<v9-26-2,2>>^ Então Saul desceu ao deserto de Zife com 3.000 dos melhores soldados de Israel para procurar Davi.
+
+[[v9-26-3]]
+
+^<<v9-26-3,3>>^ Saul acampou na colina de Haquilá, que fica em frente a Jesimom, perto da estrada. Davi estava então morando no deserto e ficou sabendo que Saul tinha vindo atrás dele no deserto.
+
+[[v9-26-4]]
+
+^<<v9-26-4,4>>^ Portanto, Davi enviou espiões para verificar se Saul realmente tinha vindo.
+
+[[v9-26-5]]
+
+^<<v9-26-5,5>>^ Mais tarde, Davi foi ao lugar onde Saul estava acampado e viu onde Saul e Abner, filho de Ner, chefe do seu exército, estavam dormindo. Saul dormia no acampamento, e os soldados estavam acampados em volta dele.
+
+[[v9-26-6]]
+
+^<<v9-26-6,6>>^ Então Davi perguntou a Aimeleque, o hitita, e a Abisai, filho de Zeruia e irmão de Joabe: “Quem vai comigo ao acampamento, até Saul?” Abisai respondeu: “Eu vou com você.”
+
+[[v9-26-7]]
+
+^<<v9-26-7,7>>^ Assim, Davi e Abisai entraram no acampamento de noite e encontraram Saul dormindo, com a lança fincada no chão perto da sua cabeça; Abner e os soldados estavam deitados em volta dele.
+
+[[v9-26-8]]
+
+^<<v9-26-8,8>>^ Abisai disse então a Davi: “Hoje Deus entregou o seu inimigo nas suas mãos. E agora, deixe-me cravá-lo no chão com a lança. Darei um só golpe, não precisarei de outro.”
+
+[[v9-26-9]]
+
+^<<v9-26-9,9>>^ No entanto, Davi disse a Abisai: “Não faça nenhum mal a ele, pois quem pode levantar a mão contra o ungido de Jeová e ficar inocente?”
+
+[[v9-26-10]]
+
+^<<v9-26-10,10>>^ Davi acrescentou: “Tão certo como Jeová vive, o próprio Jeová o matará, ou virá o dia em que ele morrerá, ou então irá para uma batalha e será morto.
+
+[[v9-26-11]]
+
+^<<v9-26-11,11>>^ Em respeito a Jeová, eu jamais levantaria a minha mão contra o ungido de Jeová! Portanto, peguemos agora a lança e o jarro de água que estão perto da cabeça dele e vamos embora.”
+
+[[v9-26-12]]
+
+^<<v9-26-12,12>>^ Assim, Davi pegou a lança e o jarro de água que estavam perto da cabeça de Saul, e eles foram embora. Ninguém os viu nem percebeu a sua presença, nem acordou. Todos estavam dormindo, porque Jeová havia feito com que eles caíssem num sono profundo.
+
+[[v9-26-13]]
+
+^<<v9-26-13,13>>^ Então Davi foi para o outro lado e ficou de pé no cume do monte, a uma boa distância deles.
+
+[[v9-26-14]]
+
+^<<v9-26-14,14>>^ Davi gritou aos soldados e a Abner, filho de Ner: “Abner, você está me ouvindo?” Abner respondeu: “Quem é que está gritando para o rei?”
+
+[[v9-26-15]]
+
+^<<v9-26-15,15>>^ Davi disse a Abner: “Você não é homem? E quem é igual a você em Israel? Então por que não vigiou o seu senhor, o rei? Pois um dos soldados entrou no acampamento para matar o seu senhor, o rei.
+
+[[v9-26-16]]
+
+^<<v9-26-16,16>>^ O que você fez não é bom. Tão certo como Jeová vive, vocês merecem morrer, porque não vigiaram o seu senhor, o ungido de Jeová. Agora olhe em volta! Onde estão a lança do rei e o jarro de água que estavam perto da cabeça dele?”
+
+[[v9-26-17]]
+
+^<<v9-26-17,17>>^ Então Saul reconheceu a voz de Davi e perguntou: “É você, meu filho Davi?” Davi respondeu: “Sim, sou eu, meu senhor, o rei.”
+
+[[v9-26-18]]
+
+^<<v9-26-18,18>>^ Ele acrescentou: “Por que o senhor está perseguindo o seu servo? O que foi que eu fiz? Sou culpado de quê?
+
+[[v9-26-19]]
+
+^<<v9-26-19,19>>^ Por favor, meu senhor, o rei, escute as palavras do seu servo: Se foi Jeová quem o instigou contra mim, que ele aceite^&#42;1^ a minha oferta de cereais. Mas, se foram homens que o instigaram, malditos sejam eles perante Jeová, porque me expulsaram, não me permitindo participar da herança de Jeová, e disseram: ‘Vá, sirva a outros deuses!’
+
+[NOTE]
+====
+. Lit.: “cheire”.
+====
+
+[[v9-26-20]]
+
+^<<v9-26-20,20>>^ E agora, não permita que o meu sangue seja derramado no chão, longe da presença de Jeová, pois o rei de Israel saiu à procura de uma simples pulga, como se estivesse caçando uma perdiz nos montes.”
+
+[[v9-26-21]]
+
+^<<v9-26-21,21>>^ Então Saul disse: “Pequei. Volte, meu filho Davi, não lhe farei mais nenhum mal, porque hoje você considerou preciosa a minha vida.^&#42;1^ Eu realmente agi como um tolo e cometi um grande erro.”
+
+[NOTE]
+====
+. Ou: “alma”.
+====
+
+[[v9-26-22]]
+
+^<<v9-26-22,22>>^ Davi disse: “Aqui está a lança do rei. Mande um dos homens vir buscá-la.
+
+[[v9-26-23]]
+
+^<<v9-26-23,23>>^ É Jeová quem retribuirá a cada um a sua justiça e a sua fidelidade, pois Jeová o entregou hoje nas minhas mãos, mas eu não quis levantar a minha mão contra o ungido de Jeová.
+
+[[v9-26-24]]
+
+^<<v9-26-24,24>>^ Assim como hoje considerei a sua vida^&#42;1^ preciosa, que Jeová também considere a minha vida^&#42;2^ preciosa, e me livre de toda a aflição.”
+
+[NOTE]
+====
+. Ou: “alma”.
+. Ou: “alma”.
+====
+
+[[v9-26-25]]
+
+^<<v9-26-25,25>>^ Saul respondeu a Davi: “Que você seja abençoado, meu filho Davi. Você certamente fará grandes coisas e será bem-sucedido.” Depois Davi seguiu seu caminho, e Saul voltou para casa.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-025.adoc#v9-25-0[&#60; Capítulo Anterior] | <<v9-26-0,Topo>> | xref:009-1-samuel/009-1-samuel-027.adoc#v9-27-0[Próximo Capítulo &#62;]

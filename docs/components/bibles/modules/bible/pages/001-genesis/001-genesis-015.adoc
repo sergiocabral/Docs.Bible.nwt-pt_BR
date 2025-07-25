@@ -1,0 +1,129 @@
+include::./index.adoc[]
+
+[[v1-15-0]]
+=== Gênesis, 15
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v1-15-1]]
+
+^<<v1-15-1,1>>^ Depois disso, Abrão teve uma visão em que ouviu a palavra de Jeová: “Não tenha medo, Abrão. Eu sou um escudo para você. Sua recompensa será muito grande.”
+
+[[v1-15-2]]
+
+^<<v1-15-2,2>>^ Abrão disse: “Soberano Senhor Jeová, o que me darás, visto que continuo sem filhos e o herdeiro da minha casa é um homem de Damasco, Eliézer?”
+
+[[v1-15-3]]
+
+^<<v1-15-3,3>>^ Abrão acrescentou: “Tu não me deste descendência,^&#42;1^ e um servo^&#42;2^ da minha casa será meu herdeiro.”
+
+[NOTE]
+====
+. Lit.: “semente”.
+. Lit.: “filho”.
+====
+
+[[v1-15-4]]
+
+^<<v1-15-4,4>>^ Mas a resposta de Jeová a ele foi: “Esse homem não será seu herdeiro; seu próprio filho^&#42;1^ é que será seu herdeiro.”
+
+[NOTE]
+====
+. Lit.: “alguém que sai das suas partes internas”.
+====
+
+[[v1-15-5]]
+
+^<<v1-15-5,5>>^ Ele o levou então para fora e disse: “Olhe para os céus, por favor, e conte as estrelas, se puder.” Então acrescentou: “Assim se tornará a sua descendência.”^&#42;1^
+
+[NOTE]
+====
+. Lit.: “semente”.
+====
+
+[[v1-15-6]]
+
+^<<v1-15-6,6>>^ E Abrão depositou fé em Jeová, e Ele lhe creditou isso como justiça.^&#42;1^
+
+[NOTE]
+====
+. Ou: “Ele o considerou justo”.
+====
+
+[[v1-15-7]]
+
+^<<v1-15-7,7>>^ Ele disse então: “Eu sou Jeová, que o tirei de Ur dos caldeus para lhe dar esta terra como propriedade.”
+
+[[v1-15-8]]
+
+^<<v1-15-8,8>>^ Com isso, ele disse: “Soberano Senhor Jeová, como posso saber que tomarei posse dela?”
+
+[[v1-15-9]]
+
+^<<v1-15-9,9>>^ Ele lhe respondeu: “Pegue para mim uma novilha de três anos, uma cabra de três anos, um carneiro de três anos, uma rola e um pombo novo.”
+
+[[v1-15-10]]
+
+^<<v1-15-10,10>>^ Abrão pegou todos esses animais e os cortou em dois, e pôs cada metade de frente para a outra;^&#42;1^ mas não cortou as aves.
+
+[NOTE]
+====
+. Ou: “pôs cada parte deles de modo que correspondesse à outra”.
+====
+
+[[v1-15-11]]
+
+^<<v1-15-11,11>>^ Então as aves de rapina começaram a descer sobre os animais mortos, mas Abrão as enxotava.
+
+[[v1-15-12]]
+
+^<<v1-15-12,12>>^ Quando o sol estava para se pôr, Abrão caiu num sono profundo, e lhe sobreveio uma grande e assustadora escuridão.
+
+[[v1-15-13]]
+
+^<<v1-15-13,13>>^ E Ele disse a Abrão: “Tenha certeza de que os seus descendentes^&#42;1^ serão estrangeiros numa terra que não é deles, e o povo ali os escravizará e afligirá por 400 anos.
+
+[NOTE]
+====
+. Lit.: “a sua semente”.
+====
+
+[[v1-15-14]]
+
+^<<v1-15-14,14>>^ Mas eu vou julgar a nação a que eles servirão, e depois disso eles sairão com muitos bens.
+
+[[v1-15-15]]
+
+^<<v1-15-15,15>>^ Quanto a você, irá em paz para os seus antepassados; será enterrado numa boa velhice.
+
+[[v1-15-16]]
+
+^<<v1-15-16,16>>^ Mas, na quarta geração, eles voltarão para cá, porque o erro dos amorreus ainda não atingiu a plena medida.”
+
+[[v1-15-17]]
+
+^<<v1-15-17,17>>^ Depois que o sol se pôs e tudo ficou muito escuro, apareceu uma fornalha fumegante, e uma tocha acesa passou entre os pedaços dos animais.
+
+[[v1-15-18]]
+
+^<<v1-15-18,18>>^ Naquele dia Jeová fez um pacto com Abrão, dizendo: “À sua descendência^&#42;1^ darei esta terra, do rio do Egito até o grande rio, o rio Eufrates:
+
+[NOTE]
+====
+. Lit.: “semente”.
+====
+
+[[v1-15-19]]
+
+^<<v1-15-19,19>>^ a terra dos queneus, dos quenizeus, dos cadmoneus,
+
+[[v1-15-20]]
+
+^<<v1-15-20,20>>^ dos hititas, dos perizeus, dos refains,
+
+[[v1-15-21]]
+
+^<<v1-15-21,21>>^ dos amorreus, dos cananeus, dos girgaseus e dos jebuseus.”
+
+'''
+
+xref:001-genesis/001-genesis-014.adoc#v1-14-0[&#60; Capítulo Anterior] | <<v1-15-0,Topo>> | xref:001-genesis/001-genesis-016.adoc#v1-16-0[Próximo Capítulo &#62;]

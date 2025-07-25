@@ -1,0 +1,171 @@
+include::./index.adoc[]
+
+[[v23-2-0]]
+=== Isaías, 2
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v23-2-1]]
+
+^<<v23-2-1,1>>^ Foi isto que Isaías, filho de Amoz, viu a respeito de Judá e Jerusalém:
+
+[[v23-2-2]]
+
+^<<v23-2-2,2>>^ Na parte final dos dias,^&#42;1^
+O monte da casa de Jeová
+Ficará firmemente estabelecido acima do cume dos montes,
+E será elevado acima das colinas,
+E todas as nações afluirão a ele.
+
+[NOTE]
+====
+. Ou: “Nos últimos dias”.
+====
+
+[[v23-2-3]]
+
+^<<v23-2-3,3>>^ E muitos povos irão e dirão:
+“Venham, subamos ao monte de Jeová,
+À casa do Deus de Jacó.
+Ele nos instruirá sobre os seus caminhos,
+E nós andaremos nas suas veredas.”
+Pois de Sião sairá a lei,^&#42;1^
+E de Jerusalém a palavra de Jeová.
+
+[NOTE]
+====
+. Ou: “instrução”.
+====
+
+[[v23-2-4]]
+
+^<<v23-2-4,4>>^ Ele fará julgamento entre as nações
+E resolverá^&#42;1^ as questões referentes a muitos povos.
+Eles transformarão as suas espadas em arados,^&#42;2^
+E as suas lanças em podadeiras.
+Nação não levantará espada contra nação,
+Nem aprenderão mais a guerra.
+
+[NOTE]
+====
+. Ou: “corrigirá”.
+. Lit.: “relhas de arado”.
+====
+
+[[v23-2-5]]
+
+^<<v23-2-5,5>>^ Venha, ó casa de Jacó,
+Andemos na luz de Jeová.
+
+[[v23-2-6]]
+
+^<<v23-2-6,6>>^ Pois abandonaste o teu povo, a casa de Jacó,
+Porque a sua terra ficou cheia das coisas do Oriente;
+Eles praticam a magia, como os filisteus,
+E há muitos filhos de estrangeiros entre eles.
+
+[[v23-2-7]]
+
+^<<v23-2-7,7>>^ Sua terra está cheia de prata e de ouro,
+E não há limite para os seus tesouros.
+Sua terra está cheia de cavalos,
+E não há limite para os seus carros de guerra.
+
+[[v23-2-8]]
+
+^<<v23-2-8,8>>^ Sua terra está cheia de deuses que nada valem.
+Curvam-se diante do trabalho das suas próprias mãos,
+Diante do que os seus próprios dedos fizeram.
+
+[[v23-2-9]]
+
+^<<v23-2-9,9>>^ Assim os homens se rebaixam e são humilhados,
+E não é possível que os perdoes.
+
+[[v23-2-10]]
+
+^<<v23-2-10,10>>^ Entre na rocha e esconda-se no pó
+Por causa da presença atemorizante de Jeová
+E do esplendor da sua majestade.
+
+[[v23-2-11]]
+
+^<<v23-2-11,11>>^ Os olhos dos arrogantes serão humilhados,
+E os homens orgulhosos serão rebaixados.
+Somente Jeová será enaltecido naquele dia.
+
+[[v23-2-12]]
+
+^<<v23-2-12,12>>^ Porque é o dia que pertence a Jeová dos exércitos.
+Vem sobre todos os orgulhosos e altivos,
+Sobre todos, tanto os de condição elevada como os humildes,
+
+[[v23-2-13]]
+
+^<<v23-2-13,13>>^ Sobre todos os cedros do Líbano, que são altivos e elevados,
+E sobre todos os carvalhos de Basã,
+
+[[v23-2-14]]
+
+^<<v23-2-14,14>>^ Sobre todos os montes altivos
+E sobre todas as colinas elevadas,
+
+[[v23-2-15]]
+
+^<<v23-2-15,15>>^ Sobre toda torre alta e toda muralha fortificada,
+
+[[v23-2-16]]
+
+^<<v23-2-16,16>>^ Sobre todos os navios de Társis
+E sobre todos os barcos desejáveis.
+
+[[v23-2-17]]
+
+^<<v23-2-17,17>>^ Os homens orgulhosos serão rebaixados,
+E os homens arrogantes serão humilhados.
+Somente Jeová será enaltecido naquele dia.
+
+[[v23-2-18]]
+
+^<<v23-2-18,18>>^ Os deuses que nada valem desaparecerão completamente.
+
+[[v23-2-19]]
+
+^<<v23-2-19,19>>^ E as pessoas entrarão nas cavernas das rochas
+E nos buracos no chão,
+Por causa da presença atemorizante de Jeová
+E do esplendor da sua majestade,
+Quando ele se levantar para fazer a terra tremer de medo.
+
+[[v23-2-20]]
+
+^<<v23-2-20,20>>^ Naquele dia, os homens pegarão seus deuses de prata e de ouro que nada valem,
+Que fizeram para se curvar diante deles,
+E os lançarão aos ratos^&#42;1^ e aos morcegos,
+
+[NOTE]
+====
+. Ou: “musaranhos”, isto é, pequenos mamíferos vorazes.
+====
+
+[[v23-2-21]]
+
+^<<v23-2-21,21>>^ E entrarão nos buracos das rochas
+E nas fendas dos rochedos,
+Por causa da presença atemorizante de Jeová
+E do esplendor da sua majestade,
+Quando ele se levantar para fazer a terra tremer de medo.
+
+[[v23-2-22]]
+
+^<<v23-2-22,22>>^ Para seu próprio bem, parem de confiar no mero homem,
+Que é apenas o fôlego de suas narinas.^&#42;1^
+Por que ele deveria ser levado em conta?
+
+[NOTE]
+====
+. Ou: “Cujo fôlego está nas suas narinas”.
+====
+
+'''
+
+xref:023-isaias/023-isaias-001.adoc#v23-1-0[&#60; Capítulo Anterior] | <<v23-2-0,Topo>> | xref:023-isaias/023-isaias-003.adoc#v23-3-0[Próximo Capítulo &#62;]

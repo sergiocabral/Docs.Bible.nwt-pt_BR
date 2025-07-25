@@ -1,0 +1,300 @@
+include::./index.adoc[]
+
+[[v46-15-0]]
+=== A Primeira aos Coríntios, 15
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v46-15-1]]
+
+^<<v46-15-1,1>>^ Agora, irmãos, quero lembrá-los das boas novas que lhes declarei, que vocês aceitaram e a favor das quais tomaram sua firme posição.
+
+[[v46-15-2]]
+
+^<<v46-15-2,2>>^ Por meio delas vocês também estão sendo salvos, desde que se apeguem firmemente às boas novas que lhes declarei; a menos que vocês tenham se tornado crentes em vão.
+
+[[v46-15-3]]
+
+^<<v46-15-3,3>>^ Pois entre as primeiras coisas que lhes transmiti estava aquilo que também recebi: que Cristo morreu pelos nossos pecados, segundo as Escrituras;
+
+[[v46-15-4]]
+
+^<<v46-15-4,4>>^ que foi sepultado e que foi levantado no terceiro dia, segundo as Escrituras;
+
+[[v46-15-5]]
+
+^<<v46-15-5,5>>^ e que apareceu a Cefas,^&#42;1^ depois aos Doze.
+
+[NOTE]
+====
+. Também chamado de Pedro.
+====
+
+[[v46-15-6]]
+
+^<<v46-15-6,6>>^ Depois disso ele apareceu a mais de 500 irmãos de uma só vez, a maioria dos quais ainda está conosco, embora alguns já tenham adormecido na morte.
+
+[[v46-15-7]]
+
+^<<v46-15-7,7>>^ Depois apareceu a Tiago e, então, a todos os apóstolos.
+
+[[v46-15-8]]
+
+^<<v46-15-8,8>>^ Mas, por último de todos, apareceu também a mim, como a alguém nascido prematuramente.
+
+[[v46-15-9]]
+
+^<<v46-15-9,9>>^ Pois eu sou o menos importante dos apóstolos, e não sou digno de ser chamado apóstolo, porque persegui a congregação de Deus.
+
+[[v46-15-10]]
+
+^<<v46-15-10,10>>^ Mas, pela bondade imerecida de Deus, sou o que sou. E a bondade imerecida dele para comigo não foi em vão. Pelo contrário, trabalhei mais do que todos eles; contudo, não fui eu, mas a bondade imerecida de Deus que está comigo.
+
+[[v46-15-11]]
+
+^<<v46-15-11,11>>^ Portanto, seja eu ou sejam eles, desse modo nós pregamos, e desse modo vocês creram.
+
+[[v46-15-12]]
+
+^<<v46-15-12,12>>^ Ora, se pregamos que Cristo foi levantado dentre os mortos, como é que alguns entre vocês dizem que não há ressurreição dos mortos?
+
+[[v46-15-13]]
+
+^<<v46-15-13,13>>^ Se, de fato, não há ressurreição dos mortos, então Cristo não foi levantado.
+
+[[v46-15-14]]
+
+^<<v46-15-14,14>>^ Mas, se Cristo não foi levantado, a nossa pregação certamente é vã, e a fé que vocês têm também é vã.
+
+[[v46-15-15]]
+
+^<<v46-15-15,15>>^ Além disso, acabamos também sendo falsas testemunhas de Deus, porque damos testemunho contra Deus, dizendo que ele levantou o Cristo, a quem ele não levantou, se é verdade que os mortos não serão levantados.
+
+[[v46-15-16]]
+
+^<<v46-15-16,16>>^ Pois, se os mortos não serão levantados, Cristo também não foi levantado.
+
+[[v46-15-17]]
+
+^<<v46-15-17,17>>^ E, se Cristo não foi levantado, a fé que vocês têm é inútil; vocês continuam em seus pecados.
+
+[[v46-15-18]]
+
+^<<v46-15-18,18>>^ Então também os que adormeceram na morte em união com Cristo estão perdidos para sempre.^&#42;1^
+
+[NOTE]
+====
+. Ou: “pereceram”.
+====
+
+[[v46-15-19]]
+
+^<<v46-15-19,19>>^ Se somente para esta^&#42;1^ vida temos esperado em Cristo, somos mais dignos de pena do que qualquer outra pessoa.
+
+[NOTE]
+====
+. Ou: “somente nesta”.
+====
+
+[[v46-15-20]]
+
+^<<v46-15-20,20>>^ Mas o fato é que Cristo foi levantado dentre os mortos, sendo as primícias dos que adormeceram na morte.
+
+[[v46-15-21]]
+
+^<<v46-15-21,21>>^ Pois, visto que a morte veio por meio de um homem, a ressurreição dos mortos também vem por meio de um homem.
+
+[[v46-15-22]]
+
+^<<v46-15-22,22>>^ Porque, assim como em Adão todos morrem, assim também em Cristo todos receberão vida.
+
+[[v46-15-23]]
+
+^<<v46-15-23,23>>^ Mas cada um na sua própria ordem: como primícias, Cristo; depois os que pertencem a Cristo, durante a sua presença.
+
+[[v46-15-24]]
+
+^<<v46-15-24,24>>^ A seguir, o fim, quando ele entregar o Reino ao seu Deus e Pai, depois de ter reduzido a nada todo governo, toda autoridade e poder.
+
+[[v46-15-25]]
+
+^<<v46-15-25,25>>^ Pois ele tem de reinar até que Deus lhe tenha posto todos os inimigos debaixo dos pés.
+
+[[v46-15-26]]
+
+^<<v46-15-26,26>>^ E o último inimigo a ser reduzido a nada é a morte.
+
+[[v46-15-27]]
+
+^<<v46-15-27,27>>^ Pois Deus “lhe sujeitou todas as coisas debaixo dos pés”. Mas, quando ele diz que ‘todas as coisas foram sujeitas’, é claro que isso não inclui Aquele que lhe sujeitou todas as coisas.
+
+[[v46-15-28]]
+
+^<<v46-15-28,28>>^ No entanto, quando todas as coisas lhe tiverem sido sujeitas, então o próprio Filho também se sujeitará Àquele que lhe sujeitou todas as coisas, para que Deus seja todas as coisas para com todos.
+
+[[v46-15-29]]
+
+^<<v46-15-29,29>>^ Senão, o que farão os que estão sendo batizados com o objetivo de ser mortos? Se os mortos realmente não serão levantados, por que, então, eles estão sendo batizados com esse objetivo?
+
+[[v46-15-30]]
+
+^<<v46-15-30,30>>^ Por que nós, também, estamos toda hora^&#42;1^ em perigo?
+
+[NOTE]
+====
+. Ou: “o tempo todo”.
+====
+
+[[v46-15-31]]
+
+^<<v46-15-31,31>>^ Eu enfrento a morte diariamente. Isso é tão certo quanto o orgulho que tenho de vocês, irmãos, em Cristo Jesus, nosso Senhor.
+
+[[v46-15-32]]
+
+^<<v46-15-32,32>>^ Se, como outros homens,^&#42;1^ eu lutei com feras em Éfeso, de que me adianta isso? Se os mortos não serão levantados, “comamos e bebamos, pois amanhã morreremos”.
+
+[NOTE]
+====
+. Ou, possivelmente: “do ponto de vista humano”.
+====
+
+[[v46-15-33]]
+
+^<<v46-15-33,33>>^ Não se deixem enganar. Más companhias estragam bons hábitos.^&#42;1^
+
+[NOTE]
+====
+. Ou: “corrompem a boa moral”.
+====
+
+[[v46-15-34]]
+
+^<<v46-15-34,34>>^ Recuperem o bom senso fazendo o que é justo e não pratiquem o pecado, pois alguns não têm conhecimento de Deus. Estou falando para induzi-los à vergonha.
+
+[[v46-15-35]]
+
+^<<v46-15-35,35>>^ Mas alguém dirá: “Como é que os mortos serão levantados? Sim, com que tipo de corpo virão?”
+
+[[v46-15-36]]
+
+^<<v46-15-36,36>>^ Insensato! Aquilo que você semeia não passa a viver a menos que primeiro morra.
+
+[[v46-15-37]]
+
+^<<v46-15-37,37>>^ E o que você semeia não é o corpo que se desenvolverá, mas apenas um simples grão, seja de trigo, seja de algum outro tipo de semente;
+
+[[v46-15-38]]
+
+^<<v46-15-38,38>>^ mas Deus dá à semente um corpo conforme lhe agrada, e dá a cada uma delas um corpo próprio.
+
+[[v46-15-39]]
+
+^<<v46-15-39,39>>^ Nem toda carne é igual, mas existe a carne dos homens, e existe também a carne dos bois, a carne das aves e a dos peixes.
+
+[[v46-15-40]]
+
+^<<v46-15-40,40>>^ E há corpos celestiais e corpos terrenos, mas a glória dos corpos celestiais é de um tipo e a dos corpos terrenos é de outro.
+
+[[v46-15-41]]
+
+^<<v46-15-41,41>>^ A glória do sol é de um tipo, a glória da lua é de outro, e a glória das estrelas é de outro; de fato, uma estrela difere de outra estrela em glória.
+
+[[v46-15-42]]
+
+^<<v46-15-42,42>>^ O mesmo se dá com a ressurreição dos mortos. Semeado perecível, o corpo é levantado imperecível.
+
+[[v46-15-43]]
+
+^<<v46-15-43,43>>^ Semeado em desonra, é levantado em glória. Semeado em fraqueza, é levantado em poder.
+
+[[v46-15-44]]
+
+^<<v46-15-44,44>>^ Semeado corpo físico, é levantado corpo espiritual. Se há corpo físico, há também um espiritual.
+
+[[v46-15-45]]
+
+^<<v46-15-45,45>>^ Assim está escrito: “O primeiro homem, Adão, se tornou um ser^&#42;1^ vivente.” O último Adão se tornou um espírito que dá vida.
+
+[NOTE]
+====
+. Ou: “uma alma”.
+====
+
+[[v46-15-46]]
+
+^<<v46-15-46,46>>^ No entanto, não é o espiritual que vem primeiro. O que vem primeiro é o físico, e depois vem o espiritual.
+
+[[v46-15-47]]
+
+^<<v46-15-47,47>>^ O primeiro homem vem da terra e é feito do pó; o segundo homem vem do céu.
+
+[[v46-15-48]]
+
+^<<v46-15-48,48>>^ Como aquele feito do pó, assim são também os que são feitos do pó; e, como o celestial, assim são também os que são celestiais.
+
+[[v46-15-49]]
+
+^<<v46-15-49,49>>^ E, assim como levamos a imagem daquele feito do pó, levaremos também a imagem do celestial.
+
+[[v46-15-50]]
+
+^<<v46-15-50,50>>^ Mas eu lhes digo o seguinte, irmãos: carne e sangue não podem herdar o Reino de Deus, nem pode o que é perecível herdar o imperecível.
+
+[[v46-15-51]]
+
+^<<v46-15-51,51>>^ Escutem, vou lhes contar um segredo sagrado: Nem todos adormeceremos na morte, mas todos seremos transformados,
+
+[[v46-15-52]]
+
+^<<v46-15-52,52>>^ num momento, num piscar de olhos, durante o toque da última trombeta. Pois a trombeta soará, e os mortos serão levantados imperecíveis, e nós seremos transformados.
+
+[[v46-15-53]]
+
+^<<v46-15-53,53>>^ Pois isto que é perecível tem de se revestir do que é imperecível,^&#42;1^ e isto que é mortal tem de se revestir do que é imortal.^&#42;2^
+
+[NOTE]
+====
+. Ou: “de imperecibilidade”.
+. Ou: “de imortalidade”.
+====
+
+[[v46-15-54]]
+
+^<<v46-15-54,54>>^ Mas, quando isto que é perecível se revestir do que é imperecível,^&#42;1^ e isto que é mortal se revestir do que é imortal,^&#42;2^ então se cumprirá a declaração que está escrita: “A morte foi eliminada^&#42;3^ para sempre.”
+
+[NOTE]
+====
+. Ou: “de imperecibilidade”.
+. Ou: “de imortalidade”.
+. Lit.: “engolida”.
+====
+
+[[v46-15-55]]
+
+^<<v46-15-55,55>>^ “Morte, onde está a sua vitória? Morte, onde está o seu aguilhão?”^&#42;1^
+
+[NOTE]
+====
+. Ou: “ferrão”.
+====
+
+[[v46-15-56]]
+
+^<<v46-15-56,56>>^ O aguilhão^&#42;1^ que produz a morte é o pecado, e a força do pecado é a Lei.^&#42;2^
+
+[NOTE]
+====
+. Ou: “ferrão”.
+. Ou: “e a Lei dá força ao pecado”.
+====
+
+[[v46-15-57]]
+
+^<<v46-15-57,57>>^ Mas graças sejam dadas a Deus, pois ele nos dá a vitória por meio do nosso Senhor Jesus Cristo!
+
+[[v46-15-58]]
+
+^<<v46-15-58,58>>^ Portanto, meus amados irmãos, sejam firmes, inabaláveis, e tenham sempre bastante para fazer na obra do Senhor, sabendo que o seu trabalho árduo no Senhor não é em vão.
+
+'''
+
+xref:046-1-corintios/046-1-corintios-014.adoc#v46-14-0[&#60; Capítulo Anterior] | <<v46-15-0,Topo>> | xref:046-1-corintios/046-1-corintios-016.adoc#v46-16-0[Próximo Capítulo &#62;]

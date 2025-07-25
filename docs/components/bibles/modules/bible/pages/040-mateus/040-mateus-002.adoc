@@ -1,0 +1,147 @@
+include::./index.adoc[]
+
+[[v40-2-0]]
+=== Segundo Mateus, 2
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v40-2-1]]
+
+^<<v40-2-1,1>>^ Depois que Jesus nasceu em Belém da Judeia, nos dias do rei Herodes,^&#42;1^ astrólogos^&#42;2^ vindos do Oriente chegaram a Jerusalém,
+
+[NOTE]
+====
+. Veja o Glossário.
+. Ou: “magos”.
+====
+
+[[v40-2-2]]
+
+^<<v40-2-2,2>>^ dizendo: “Onde está aquele que nasceu para ser rei dos judeus? Pois vimos a sua estrela quando estávamos no Oriente e viemos lhe prestar homenagem.”^&#42;1^
+
+[NOTE]
+====
+. Ou: “nos curvar diante dele”.
+====
+
+[[v40-2-3]]
+
+^<<v40-2-3,3>>^ Ao ouvir isso, o rei Herodes ficou agitado e, com ele, toda a cidade de Jerusalém.
+
+[[v40-2-4]]
+
+^<<v40-2-4,4>>^ Ele convocou então todos os principais sacerdotes e os escribas do povo e perguntou a eles onde o Cristo^&#42;1^ nasceria.
+
+[NOTE]
+====
+. Ou: “o Messias; o Ungido”.
+====
+
+[[v40-2-5]]
+
+^<<v40-2-5,5>>^ Disseram-lhe: “Em Belém da Judeia, pois é assim que se escreveu por meio do profeta:
+
+[[v40-2-6]]
+
+^<<v40-2-6,6>>^ ‘E você, ó Belém da terra de Judá, de modo algum é a cidade mais insignificante entre os governadores de Judá, pois de você sairá um governante que pastoreará o meu povo, Israel.’”
+
+[[v40-2-7]]
+
+^<<v40-2-7,7>>^ Então, Herodes convocou secretamente os astrólogos e procurou saber deles o tempo exato do aparecimento da estrela.
+
+[[v40-2-8]]
+
+^<<v40-2-8,8>>^ Ao enviá-los a Belém, ele disse: “Vão, procurem cuidadosamente a criancinha e, quando a encontrarem, avisem-me, para que eu também possa ir e lhe prestar homenagem.”
+
+[[v40-2-9]]
+
+^<<v40-2-9,9>>^ Depois de ouvirem o rei, partiram, e observaram que a estrela que tinham visto quando estavam no Oriente ia adiante deles, até que parou sobre o lugar onde estava a criancinha.
+
+[[v40-2-10]]
+
+^<<v40-2-10,10>>^ Quando viram a estrela, ficaram cheios de alegria.
+
+[[v40-2-11]]
+
+^<<v40-2-11,11>>^ Ao entrarem na casa, viram a criancinha com Maria, sua mãe, e, prostrando-se, prestaram homenagem à^&#42;1^ criancinha. Abriram também seus tesouros e lhe deram presentes: ouro, olíbano e mirra.
+
+[NOTE]
+====
+. Ou: “curvaram-se diante da”.
+====
+
+[[v40-2-12]]
+
+^<<v40-2-12,12>>^ No entanto, visto que receberam em sonho um aviso divino para não voltarem a Herodes, partiram para a sua terra por outro caminho.
+
+[[v40-2-13]]
+
+^<<v40-2-13,13>>^ Depois que eles partiram, o anjo de Jeová^&#42;1^ apareceu a José num sonho, dizendo: “Levante-se, pegue a criancinha e a mãe dela, fuja para o Egito e fique ali até eu avisá-lo, porque Herodes está prestes a procurar a criancinha para matá-la.”
+
+[NOTE]
+====
+. Veja Ap. A5.
+====
+
+[[v40-2-14]]
+
+^<<v40-2-14,14>>^ Assim, José se levantou, pegou a criancinha e a mãe dela à noite e foi para o Egito.
+
+[[v40-2-15]]
+
+^<<v40-2-15,15>>^ Ele ficou lá até a morte de Herodes. Isso cumpriu o que Jeová^&#42;1^ tinha dito por meio do seu profeta: “Do Egito chamei o meu filho.”
+
+[NOTE]
+====
+. Veja Ap. A5.
+====
+
+[[v40-2-16]]
+
+^<<v40-2-16,16>>^ Vendo então que tinha sido enganado pelos astrólogos, Herodes ficou furioso e mandou matar, em Belém e nos arredores, todos os meninos de dois anos de idade para baixo, segundo o tempo exato que tinha verificado com os astrólogos.
+
+[[v40-2-17]]
+
+^<<v40-2-17,17>>^ Cumpriram-se assim as palavras de Jeremias, o profeta, que disse:
+
+[[v40-2-18]]
+
+^<<v40-2-18,18>>^ “Ouviu-se uma voz em Ramá, choro e muito lamento. Era Raquel chorando por seus filhos, e ela não queria ser consolada, porque eles já não existem.”
+
+[[v40-2-19]]
+
+^<<v40-2-19,19>>^ Após a morte de Herodes, o anjo de Jeová^&#42;1^ apareceu a José num sonho, no Egito,
+
+[NOTE]
+====
+. Veja Ap. A5.
+====
+
+[[v40-2-20]]
+
+^<<v40-2-20,20>>^ e disse: “Levante-se, pegue a criancinha e a mãe dela, e vá para a terra de Israel, porque os que procuravam tirar a vida^&#42;1^ da criancinha já morreram.”
+
+[NOTE]
+====
+. Ou: “procuravam a alma”.
+====
+
+[[v40-2-21]]
+
+^<<v40-2-21,21>>^ Então ele se levantou, pegou a criancinha e a mãe dela, e entrou na terra de Israel.
+
+[[v40-2-22]]
+
+^<<v40-2-22,22>>^ Mas, ao ouvir que Arquelau reinava na Judeia no lugar de seu pai, Herodes, José ficou com medo de ir para lá. Além disso, após receber em sonho um aviso divino, partiu para o território da Galileia.
+
+[[v40-2-23]]
+
+^<<v40-2-23,23>>^ E ele foi morar numa cidade chamada Nazaré, para que se cumprissem as palavras dos profetas: “Ele será chamado Nazareno.”^&#42;1^
+
+[NOTE]
+====
+. Provavelmente vem da expressão hebraica que significa “renovo”.
+====
+
+'''
+
+xref:040-mateus/040-mateus-001.adoc#v40-1-0[&#60; Capítulo Anterior] | <<v40-2-0,Topo>> | xref:040-mateus/040-mateus-003.adoc#v40-3-0[Próximo Capítulo &#62;]

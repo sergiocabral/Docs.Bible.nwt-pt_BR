@@ -1,0 +1,52 @@
+include::./index.adoc[]
+
+[[v19-67-0]]
+=== Salmos, 67
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Ao regente; para ser acompanhado com instrumentos de cordas. Salmo. Cântico._
+
+[[v19-67-1]]
+
+^<<v19-67-1,1>>^ Deus nos mostrará favor e nos abençoará,
+Fará a sua face brilhar sobre nós, (Selá)
+
+[[v19-67-2]]
+
+^<<v19-67-2,2>>^ Para que o teu caminho seja conhecido em toda a terra;
+Teus atos de salvação, entre todas as nações.
+
+[[v19-67-3]]
+
+^<<v19-67-3,3>>^ Que os povos te louvem, ó Deus;
+Que todos os povos te louvem.
+
+[[v19-67-4]]
+
+^<<v19-67-4,4>>^ Que as nações exultem e gritem de alegria,
+Pois julgarás os povos com justiça.
+Tu guiarás as nações da terra. (Selá)
+
+[[v19-67-5]]
+
+^<<v19-67-5,5>>^ Que os povos te louvem, ó Deus;
+Que todos os povos te louvem.
+
+[[v19-67-6]]
+
+^<<v19-67-6,6>>^ A terra dará a sua produção;
+Deus, nosso Deus, nos abençoará.
+
+[[v19-67-7]]
+
+^<<v19-67-7,7>>^ Deus nos abençoará,
+E todos os confins da terra o temerão.^&#42;1^
+
+[NOTE]
+====
+. Ou: “honrarão”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-066.adoc#v19-66-0[&#60; Capítulo Anterior] | <<v19-67-0,Topo>> | xref:019-salmo/019-salmo-068.adoc#v19-68-0[Próximo Capítulo &#62;]

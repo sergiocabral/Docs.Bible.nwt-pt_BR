@@ -1,0 +1,54 @@
+include::./index.adoc[]
+
+[[v2-11-0]]
+=== Êxodo, 11
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v2-11-1]]
+
+^<<v2-11-1,1>>^ Então Jeová disse a Moisés: “Vou trazer mais uma praga sobre Faraó e sobre o Egito. Depois ele os mandará embora daqui. Quando os mandar embora, ele literalmente os expulsará daqui.
+
+[[v2-11-2]]
+
+^<<v2-11-2,2>>^ Agora diga ao povo que tanto os homens como as mulheres devem pedir aos seus vizinhos artigos de prata e artigos de ouro.”
+
+[[v2-11-3]]
+
+^<<v2-11-3,3>>^ E Jeová deu ao povo favor aos olhos dos egípcios. Além disso, o próprio Moisés tinha se tornado muito respeitado na terra do Egito, tanto entre os servos de Faraó como entre o povo.
+
+[[v2-11-4]]
+
+^<<v2-11-4,4>>^ Então Moisés disse: “Assim disse Jeová: ‘Por volta da meia-noite passarei pelo Egito,
+
+[[v2-11-5]]
+
+^<<v2-11-5,5>>^ e todo primogênito na terra do Egito morrerá, desde o primogênito do Faraó que está sentado no trono até o primogênito da escrava que trabalha no moinho manual; morrerão também todos os primogênitos dos rebanhos.
+
+[[v2-11-6]]
+
+^<<v2-11-6,6>>^ Em toda a terra do Egito haverá um grande clamor, como nunca houve nem jamais haverá.
+
+[[v2-11-7]]
+
+^<<v2-11-7,7>>^ Mas nem sequer um cão latirá^&#42;1^ contra os israelitas, seja contra os homens, seja contra os seus rebanhos, para que vocês saibam que Jeová pode fazer distinção entre os egípcios e os israelitas.’
+
+[NOTE]
+====
+. Lit.: “afiará sua língua”.
+====
+
+[[v2-11-8]]
+
+^<<v2-11-8,8>>^ Todos os seus servos certamente virão a mim e se prostrarão diante de mim, dizendo: ‘Vá, você e todo o povo que o segue.’ E depois disso eu sairei.” Com isso ele se retirou da presença de Faraó com grande ira.
+
+[[v2-11-9]]
+
+^<<v2-11-9,9>>^ Então Jeová disse a Moisés: “Faraó não os escutará, para que os meus milagres se multipliquem na terra do Egito.”
+
+[[v2-11-10]]
+
+^<<v2-11-10,10>>^ Moisés e Arão realizaram todos esses milagres diante de Faraó, mas Jeová deixou o coração de Faraó ficar endurecido, de modo que ele não deixou os israelitas sair do país.
+
+'''
+
+xref:002-exodo/002-exodo-010.adoc#v2-10-0[&#60; Capítulo Anterior] | <<v2-11-0,Topo>> | xref:002-exodo/002-exodo-012.adoc#v2-12-0[Próximo Capítulo &#62;]

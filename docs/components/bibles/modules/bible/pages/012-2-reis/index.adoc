@@ -1,0 +1,40 @@
+include::../index.adoc[]
+
+[[v12-0-0]]
+== 2 Reis
+
+[cols="8*^"]
+|===
+| xref:012-2-reis/012-2-reis-001.adoc#v12-1-0[1]
+| xref:012-2-reis/012-2-reis-002.adoc#v12-2-0[2]
+| xref:012-2-reis/012-2-reis-003.adoc#v12-3-0[3]
+| xref:012-2-reis/012-2-reis-004.adoc#v12-4-0[4]
+| xref:012-2-reis/012-2-reis-005.adoc#v12-5-0[5]
+| xref:012-2-reis/012-2-reis-006.adoc#v12-6-0[6]
+| xref:012-2-reis/012-2-reis-007.adoc#v12-7-0[7]
+| xref:012-2-reis/012-2-reis-008.adoc#v12-8-0[8]
+| xref:012-2-reis/012-2-reis-009.adoc#v12-9-0[9]
+| xref:012-2-reis/012-2-reis-010.adoc#v12-10-0[10]
+| xref:012-2-reis/012-2-reis-011.adoc#v12-11-0[11]
+| xref:012-2-reis/012-2-reis-012.adoc#v12-12-0[12]
+| xref:012-2-reis/012-2-reis-013.adoc#v12-13-0[13]
+| xref:012-2-reis/012-2-reis-014.adoc#v12-14-0[14]
+| xref:012-2-reis/012-2-reis-015.adoc#v12-15-0[15]
+| xref:012-2-reis/012-2-reis-016.adoc#v12-16-0[16]
+| xref:012-2-reis/012-2-reis-017.adoc#v12-17-0[17]
+| xref:012-2-reis/012-2-reis-018.adoc#v12-18-0[18]
+| xref:012-2-reis/012-2-reis-019.adoc#v12-19-0[19]
+| xref:012-2-reis/012-2-reis-020.adoc#v12-20-0[20]
+| xref:012-2-reis/012-2-reis-021.adoc#v12-21-0[21]
+| xref:012-2-reis/012-2-reis-022.adoc#v12-22-0[22]
+| xref:012-2-reis/012-2-reis-023.adoc#v12-23-0[23]
+| xref:012-2-reis/012-2-reis-024.adoc#v12-24-0[24]
+| xref:012-2-reis/012-2-reis-025.adoc#v12-25-0[25]
+|
+|
+|
+|
+|
+|
+|
+|===

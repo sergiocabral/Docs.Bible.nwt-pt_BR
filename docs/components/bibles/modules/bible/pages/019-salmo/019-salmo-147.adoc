@@ -1,0 +1,133 @@
+include::./index.adoc[]
+
+[[v19-147-0]]
+=== Salmos, 147
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v19-147-1]]
+
+^<<v19-147-1,1>>^ Louvem a Jah!^&#42;1^
+É bom cantar louvores^&#42;2^ ao nosso Deus;
+Como é agradável e apropriado louvá-lo!
+
+[NOTE]
+====
+. Ou: “Aleluia!” “Jah” é uma forma reduzida do nome Jeová.
+. Ou: “fazer música”.
+====
+
+[[v19-147-2]]
+
+^<<v19-147-2,2>>^ Jeová está construindo Jerusalém;
+Está reunindo os dispersos de Israel.
+
+[[v19-147-3]]
+
+^<<v19-147-3,3>>^ Ele cura os que têm coração quebrantado;
+Trata das suas feridas.
+
+[[v19-147-4]]
+
+^<<v19-147-4,4>>^ Ele conta o número das estrelas;
+Chama a todas elas por nome.
+
+[[v19-147-5]]
+
+^<<v19-147-5,5>>^ Nosso Senhor é grande e muito poderoso;
+É impossível medir o seu entendimento.
+
+[[v19-147-6]]
+
+^<<v19-147-6,6>>^ Jeová levanta os mansos,
+Mas lança os maus ao chão.
+
+[[v19-147-7]]
+
+^<<v19-147-7,7>>^ Cantem a Jeová com agradecimentos;
+Ao acompanhamento da harpa, cantem louvores ao nosso Deus,
+
+[[v19-147-8]]
+
+^<<v19-147-8,8>>^ Aquele que cobre os céus com nuvens,
+Aquele que fornece chuva para a terra,
+Aquele que faz brotar a relva nos montes.
+
+[[v19-147-9]]
+
+^<<v19-147-9,9>>^ Ele dá alimento aos animais
+E aos filhotes de corvo que gritam de fome.
+
+[[v19-147-10]]
+
+^<<v19-147-10,10>>^ Ele não tem prazer na força do cavalo
+Nem se impressiona com as fortes pernas do homem.
+
+[[v19-147-11]]
+
+^<<v19-147-11,11>>^ Jeová tem prazer nos que o temem,
+Nos que esperam em seu amor leal.
+
+[[v19-147-12]]
+
+^<<v19-147-12,12>>^ Glorifique a Jeová, ó Jerusalém.
+Louve o seu Deus, ó Sião.
+
+[[v19-147-13]]
+
+^<<v19-147-13,13>>^ Ele reforça as trancas dos seus portões
+E abençoa seus filhos, que moram ali.
+
+[[v19-147-14]]
+
+^<<v19-147-14,14>>^ Traz a paz ao seu território
+E sacia você com o melhor^&#42;1^ trigo.
+
+[NOTE]
+====
+. Lit.: “a gordura do”.
+====
+
+[[v19-147-15]]
+
+^<<v19-147-15,15>>^ Ele envia sua ordem à terra;
+Sua palavra corre veloz.
+
+[[v19-147-16]]
+
+^<<v19-147-16,16>>^ Ele faz cair a neve como lã
+E espalha a geada como cinza.
+
+[[v19-147-17]]
+
+^<<v19-147-17,17>>^ Lança para baixo o granizo^&#42;1^ como migalhas de pão.
+Quem pode resistir ao seu frio?
+
+[NOTE]
+====
+. Ou: “gelo”.
+====
+
+[[v19-147-18]]
+
+^<<v19-147-18,18>>^ Ele envia a sua palavra, e eles derretem.
+Faz soprar o seu vento, e as águas correm.
+
+[[v19-147-19]]
+
+^<<v19-147-19,19>>^ Ele declara sua palavra a Jacó,
+Seus decretos e seus julgamentos a Israel.
+
+[[v19-147-20]]
+
+^<<v19-147-20,20>>^ Não fez isso com nenhuma outra nação;
+Elas não sabem nada sobre os seus julgamentos.
+Louvem a Jah!^&#42;1^
+
+[NOTE]
+====
+. Ou: “Aleluia!” “Jah” é uma forma reduzida do nome Jeová.
+====
+
+'''
+
+xref:019-salmo/019-salmo-146.adoc#v19-146-0[&#60; Capítulo Anterior] | <<v19-147-0,Topo>> | xref:019-salmo/019-salmo-148.adoc#v19-148-0[Próximo Capítulo &#62;]

@@ -1,0 +1,149 @@
+include::./index.adoc[]
+
+[[v22-5-0]]
+=== O Cântico de Salomão, 5
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v22-5-1]]
+
+^<<v22-5-1,1>>^ “Entrei no meu jardim,
+Ó minha irmã, minha noiva.
+Colhi a minha mirra e o meu bálsamo.^&#42;1^
+Comi o meu favo e o meu mel;
+Bebi o meu vinho e o meu leite.”
+“Comam, caros amigos!
+Bebam e fiquem inebriados com expressões de amor!”
+
+[NOTE]
+====
+. Ou: “as minhas especiarias”.
+====
+
+[[v22-5-2]]
+
+^<<v22-5-2,2>>^ “Estou adormecida, mas o meu coração está acordado.
+Ouço o som do meu querido batendo!
+‘Abra, ó minha irmã, minha amada,
+Minha pomba sem defeito!
+Pois a minha cabeça está molhada de orvalho;
+Os cachos do meu cabelo, do sereno da noite.’
+
+[[v22-5-3]]
+
+^<<v22-5-3,3>>^ Tirei a minha túnica;
+Devo vesti-la outra vez?
+Lavei os pés;
+Devo sujá-los novamente?
+
+[[v22-5-4]]
+
+^<<v22-5-4,4>>^ Meu querido retirou a mão do buraco da porta,
+E o meu coração estremeceu por causa dele.
+
+[[v22-5-5]]
+
+^<<v22-5-5,5>>^ Eu me levantei para abrir a porta ao meu querido;
+Minhas mãos gotejavam mirra;
+E meus dedos, óleo de mirra
+Na maçaneta da fechadura.
+
+[[v22-5-6]]
+
+^<<v22-5-6,6>>^ Abri a porta ao meu querido,
+Mas o meu querido tinha se afastado, ido embora.
+Fiquei aflita^&#42;1^ quando ele partiu.^&#42;2^
+Eu o procurei, mas não o encontrei.
+Eu o chamei, mas ele não me respondeu.
+
+[NOTE]
+====
+. Ou: “Minha alma saiu”.
+. Ou, possivelmente: “Minha alma me deixou quando ele falou.”
+====
+
+[[v22-5-7]]
+
+^<<v22-5-7,7>>^ Os vigias que faziam a ronda na cidade me acharam.
+Eles me bateram, eles me feriram.
+Os vigias das muralhas arrancaram o meu xale.^&#42;1^
+
+[NOTE]
+====
+. Ou: “véu”.
+====
+
+[[v22-5-8]]
+
+^<<v22-5-8,8>>^ Eu as ponho sob juramento, ó filhas de Jerusalém:
+Se acharem o meu querido,
+Digam a ele que estou desfalecendo de amor.”
+
+[[v22-5-9]]
+
+^<<v22-5-9,9>>^ “O que faz o seu querido ser melhor do que qualquer outro,
+Ó mais bela das mulheres?
+O que faz o seu querido ser melhor do que qualquer outro,
+A ponto de nos fazer jurar assim?”
+
+[[v22-5-10]]
+
+^<<v22-5-10,10>>^ “Meu querido é deslumbrante e corado,
+Ele se destaca entre dez mil.
+
+[[v22-5-11]]
+
+^<<v22-5-11,11>>^ Sua cabeça é ouro, o mais puro ouro.
+Os cachos do seu cabelo balançam como folhas de palmeira,^&#42;1^
+São negros como o corvo.
+
+[NOTE]
+====
+. Ou, possivelmente: “são como cachos de tâmaras”.
+====
+
+[[v22-5-12]]
+
+^<<v22-5-12,12>>^ Seus olhos são como pombas junto a correntes de água,
+Banhando-se em leite,
+Repousando nas margens de uma lagoa repleta de água.^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “nas beiradas de uma fonte”.
+====
+
+[[v22-5-13]]
+
+^<<v22-5-13,13>>^ Suas faces são como um canteiro de bálsamo,^&#42;1^
+Montes de ervas aromáticas.
+Seus lábios são lírios, gotejando óleo de mirra.
+
+[NOTE]
+====
+. Ou: “especiarias”.
+====
+
+[[v22-5-14]]
+
+^<<v22-5-14,14>>^ Suas mãos são cilindros de ouro, incrustados de crisólitos.
+Seu abdômen é marfim polido, coberto de safiras.
+
+[[v22-5-15]]
+
+^<<v22-5-15,15>>^ Suas pernas são colunas de mármore fixadas em bases do mais puro ouro.
+Sua aparência é como o Líbano, inigualável como os cedros.
+
+[[v22-5-16]]
+
+^<<v22-5-16,16>>^ Sua boca^&#42;1^ é a própria doçura,
+E tudo nele é desejável.
+Esse é o meu querido, esse é o meu amado, ó filhas de Jerusalém.”
+
+[NOTE]
+====
+. Lit.: “Seu palato”.
+====
+
+'''
+
+xref:022-cantico-de-salomao/022-cantico-de-salomao-004.adoc#v22-4-0[&#60; Capítulo Anterior] | <<v22-5-0,Topo>> | xref:022-cantico-de-salomao/022-cantico-de-salomao-006.adoc#v22-6-0[Próximo Capítulo &#62;]

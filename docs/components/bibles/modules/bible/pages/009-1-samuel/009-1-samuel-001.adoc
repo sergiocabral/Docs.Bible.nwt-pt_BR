@@ -1,0 +1,192 @@
+include::./index.adoc[]
+
+[[v9-1-0]]
+=== O Primeiro de Samuel, 1
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v9-1-1]]
+
+^<<v9-1-1,1>>^ Havia um homem de Ramataim-Zofim,^&#42;1^ da região montanhosa de Efraim, cujo nome era Elcana. Ele era filho de Jeroão, filho de Eliú, filho de Toú, filho de Zufe, efraimita.
+
+[NOTE]
+====
+. Ou: “de Ramá, um zufita”.
+====
+
+[[v9-1-2]]
+
+^<<v9-1-2,2>>^ Ele tinha duas esposas: uma se chamava Ana, e a outra Penina. Penina tinha filhos, mas Ana não tinha nenhum.
+
+[[v9-1-3]]
+
+^<<v9-1-3,3>>^ Todos os anos, esse homem subia da sua cidade até Silo para adorar^&#42;1^ e oferecer sacrifícios a Jeová dos exércitos. Era ali que Hofni e Fineias, os dois filhos de Eli, serviam como sacerdotes de Jeová.
+
+[NOTE]
+====
+. Ou: “curvar-se”.
+====
+
+[[v9-1-4]]
+
+^<<v9-1-4,4>>^ Certo dia, quando Elcana ofereceu um sacrifício, ele deu porções à sua esposa Penina e a todos os filhos e filhas dela,
+
+[[v9-1-5]]
+
+^<<v9-1-5,5>>^ mas a Ana ele deu uma porção especial, porque era a Ana que ele amava. No entanto, Jeová não tinha dado filhos a ela.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “Jeová tinha fechado o ventre dela”.
+====
+
+[[v9-1-6]]
+
+^<<v9-1-6,6>>^ E sua rival a provocava continuamente, para fazê-la se sentir aflita por Jeová não lhe ter dado filhos.
+
+[[v9-1-7]]
+
+^<<v9-1-7,7>>^ Era assim que Penina fazia todos os anos. Sempre que Ana subia à casa de Jeová, sua rival a provocava tanto que ela chorava e não comia.
+
+[[v9-1-8]]
+
+^<<v9-1-8,8>>^ Então Elcana, seu marido, lhe disse: “Ana, por que você está chorando e por que não come? Por que está tão triste?^&#42;1^ Será que eu não sou para você melhor do que dez filhos?”
+
+[NOTE]
+====
+. Ou: “Por que o seu coração se sente mal?”
+====
+
+[[v9-1-9]]
+
+^<<v9-1-9,9>>^ Depois Ana se levantou, quando terminaram de comer e beber em Silo. E Eli, o sacerdote, estava sentado na cadeira junto à lateral^&#42;1^ da porta do templo^&#42;2^ de Jeová.
+
+[NOTE]
+====
+. Ou: “ombreira”.
+. Isto é, do tabernáculo.
+====
+
+[[v9-1-10]]
+
+^<<v9-1-10,10>>^ Ana estava muito angustiada,^&#42;1^ e começou a orar a Jeová e a chorar sem parar.
+
+[NOTE]
+====
+. Ou: “com a alma amargurada”.
+====
+
+[[v9-1-11]]
+
+^<<v9-1-11,11>>^ E ela fez o seguinte voto: “Ó Jeová dos exércitos, se olhares para a aflição da tua serva e te lembrares de mim, e não te esqueceres da tua serva e deres à tua serva um filho, um menino, eu o entregarei a Jeová por todos os dias da sua vida, e não se passará navalha na sua cabeça.”
+
+[[v9-1-12]]
+
+^<<v9-1-12,12>>^ Enquanto ela fazia uma longa oração a Jeová, Eli observava os seus lábios.
+
+[[v9-1-13]]
+
+^<<v9-1-13,13>>^ Ana estava falando no seu coração; somente os seus lábios se mexiam, mas não se ouvia a sua voz. Por isso, Eli achou que ela estava bêbada,
+
+[[v9-1-14]]
+
+^<<v9-1-14,14>>^ e lhe disse: “Até quando você ficará embriagada? Pare de beber vinho.”
+
+[[v9-1-15]]
+
+^<<v9-1-15,15>>^ Ana respondeu: “Não, meu senhor! Sou uma mulher muito angustiada;^&#42;1^ não bebi vinho nem outra bebida alcoólica, mas derramo a minha alma^&#42;2^ perante Jeová.
+
+[NOTE]
+====
+. Ou: “muito pressionada no espírito”.
+. Veja o Glossário.
+====
+
+[[v9-1-16]]
+
+^<<v9-1-16,16>>^ Não pense que a sua serva é uma mulher imprestável, pois estou orando até agora por estar muito angustiada e aflita.”
+
+[[v9-1-17]]
+
+^<<v9-1-17,17>>^ Então Eli disse: “Vá em paz, e que o Deus de Israel lhe conceda o pedido que fez a ele.”
+
+[[v9-1-18]]
+
+^<<v9-1-18,18>>^ Ela respondeu: “Que a sua serva ache favor aos seus olhos.” E a mulher foi embora e comeu, e não estava mais com o rosto abatido.
+
+[[v9-1-19]]
+
+^<<v9-1-19,19>>^ Então se levantaram de manhã cedo e se curvaram perante Jeová; depois voltaram à sua casa em Ramá. Elcana teve então relações com sua esposa Ana, e Jeová voltou sua atenção para ela.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “se lembrou dela”.
+====
+
+[[v9-1-20]]
+
+^<<v9-1-20,20>>^ Dentro de um ano,^&#42;1^ Ana ficou grávida e deu à luz um filho, e o chamou de Samuel,^&#42;2^ porque, como ela disse: “Eu o pedi a Jeová.”
+
+[NOTE]
+====
+. Ou, possivelmente: “No tempo devido”.
+. Que significa “nome de Deus”.
+====
+
+[[v9-1-21]]
+
+^<<v9-1-21,21>>^ No devido tempo Elcana subiu com todos os da sua casa para oferecer o sacrifício anual a Jeová e apresentar a sua oferta em cumprimento de um voto.
+
+[[v9-1-22]]
+
+^<<v9-1-22,22>>^ Mas Ana não subiu, pois disse a seu marido: “Assim que o menino for desmamado, eu o levarei; então ele comparecerá perante Jeová e ficará lá definitivamente.”
+
+[[v9-1-23]]
+
+^<<v9-1-23,23>>^ Então Elcana, seu marido, lhe disse: “Faça o que achar melhor.^&#42;1^ Fique em casa até que o tenha desmamado. Que Jeová cumpra o que você disse.” Assim, a mulher ficou em casa e cuidou do seu filho até o desmamar.
+
+[NOTE]
+====
+. Lit.: “o que for bom aos seus olhos”.
+====
+
+[[v9-1-24]]
+
+^<<v9-1-24,24>>^ Assim que o tinha desmamado, levou-o a Silo, junto com um novilho de três anos, uma efa^&#42;1^ de farinha e um grande jarro de vinho, e chegou com o menino à casa de Jeová, em Silo.
+
+[NOTE]
+====
+. Cerca de 22 l. Veja Ap. B14.
+====
+
+[[v9-1-25]]
+
+^<<v9-1-25,25>>^ Abateram então o novilho e levaram o menino a Eli.
+
+[[v9-1-26]]
+
+^<<v9-1-26,26>>^ Assim, ela disse: “Com licença, meu senhor. Tão certo como o senhor vive,^&#42;1^ eu sou a mulher que esteve aqui com o senhor, orando a Jeová.
+
+[NOTE]
+====
+. Ou: “Pela vida da sua alma”.
+====
+
+[[v9-1-27]]
+
+^<<v9-1-27,27>>^ Foi este menino que eu pedi em oração, e Jeová atendeu ao meu pedido.
+
+[[v9-1-28]]
+
+^<<v9-1-28,28>>^ Por isso, eu o entrego^&#42;1^ a Jeová. Ele pertencerá^&#42;2^ a Jeová por toda a sua vida.”
+E ele^&#42;3^ se curvou ali perante Jeová.
+
+[NOTE]
+====
+. Lit.: “empresto”.
+. Ou: “será alguém emprestado”.
+. Pelo visto se refere a Elcana.
+====
+
+'''
+
+xref:008-rute/008-rute-004.adoc#v8-4-0[&#60; Capítulo Anterior] | <<v9-1-0,Topo>> | xref:009-1-samuel/009-1-samuel-002.adoc#v9-2-0[Próximo Capítulo &#62;]

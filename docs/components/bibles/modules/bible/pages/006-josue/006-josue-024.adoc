@@ -1,0 +1,195 @@
+include::./index.adoc[]
+
+[[v6-24-0]]
+=== Josué, 24
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v6-24-1]]
+
+^<<v6-24-1,1>>^ Josué então reuniu todas as tribos de Israel em Siquém e convocou os anciãos de Israel, os cabeças, os juízes e os oficiais, e eles compareceram perante o verdadeiro Deus.
+
+[[v6-24-2]]
+
+^<<v6-24-2,2>>^ Josué disse a todo o povo: “Assim diz Jeová, o Deus de Israel: ‘Seus antepassados, incluindo Tera, pai de Abraão e pai de Naor, moraram há muito tempo no outro lado do rio Eufrates^&#42;1^ e eles serviam a outros deuses.
+
+[NOTE]
+====
+. Lit.: “do Rio”.
+====
+
+[[v6-24-3]]
+
+^<<v6-24-3,3>>^ “‘Com o tempo tirei seu antepassado Abraão do outro lado do rio Eufrates^&#42;1^ e o fiz percorrer toda a terra de Canaã, e multipliquei a sua descendência.^&#42;2^ Eu lhe dei Isaque,
+
+[NOTE]
+====
+. Lit.: “do Rio”.
+. Lit.: “semente”.
+====
+
+[[v6-24-4]]
+
+^<<v6-24-4,4>>^ e a Isaque dei Jacó e Esaú. Depois dei a região montanhosa de Seir a Esaú como sua propriedade; e Jacó e seus filhos desceram ao Egito.
+
+[[v6-24-5]]
+
+^<<v6-24-5,5>>^ Mais tarde enviei Moisés e Arão e feri o Egito com pragas; então tirei vocês de lá.
+
+[[v6-24-6]]
+
+^<<v6-24-6,6>>^ Quando tirei os seus pais do Egito e vocês chegaram ao mar, os egípcios perseguiram seus pais com carros de guerra e cavaleiros até o mar Vermelho.
+
+[[v6-24-7]]
+
+^<<v6-24-7,7>>^ E seus antepassados começaram a clamar a Jeová; então coloquei^&#42;1^ escuridão entre vocês e os egípcios, e trouxe o mar sobre eles, cobrindo-os; e seus próprios olhos viram o que fiz ao Egito. Depois vocês moraram no deserto por muitos anos.^&#42;2^
+
+[NOTE]
+====
+. Ou: “ele colocou”.
+. Lit.: “dias”.
+====
+
+[[v6-24-8]]
+
+^<<v6-24-8,8>>^ “‘E levei vocês à terra dos amorreus que moravam do outro lado^&#42;1^ do Jordão, e eles lutaram contra vocês. Mas eu os entreguei nas suas mãos para que vocês pudessem tomar posse da terra deles, e eu os exterminei de diante de vocês.
+
+[NOTE]
+====
+. Isto é, do lado leste.
+====
+
+[[v6-24-9]]
+
+^<<v6-24-9,9>>^ Então Balaque, filho de Zipor e rei de Moabe, se levantou e lutou contra Israel. Ele convocou Balaão, filho de Beor, para amaldiçoar vocês.
+
+[[v6-24-10]]
+
+^<<v6-24-10,10>>^ Mas eu não quis escutar Balaão. Assim, ele os abençoou repetidamente, e eu os livrei das mãos deles.
+
+[[v6-24-11]]
+
+^<<v6-24-11,11>>^ “‘Então vocês atravessaram o Jordão e chegaram a Jericó. E os líderes^&#42;1^ de Jericó, assim como os amorreus, os perizeus, os cananeus, os hititas, os girgaseus, os heveus e os jebuseus lutaram contra vocês, mas eu os entreguei nas suas mãos.
+
+[NOTE]
+====
+. Ou, possivelmente: “os proprietários de terras”.
+====
+
+[[v6-24-12]]
+
+^<<v6-24-12,12>>^ Enviei na sua frente o sentimento de desânimo,^&#42;1^ e este os expulsou de diante de vocês, assim como havia feito com os dois reis dos amorreus. Isso não foi feito nem com a espada nem com o arco de vocês.
+
+[NOTE]
+====
+. Ou, possivelmente: “pânico; terror”.
+====
+
+[[v6-24-13]]
+
+^<<v6-24-13,13>>^ Assim lhes entreguei uma terra pela qual vocês não trabalharam e cidades que não construíram, e vocês se estabeleceram nelas. Vocês estão comendo de vinhedos e de olivais que não plantaram.’
+
+[[v6-24-14]]
+
+^<<v6-24-14,14>>^ “Portanto, temam a Jeová e sirvam-no com integridade^&#42;1^ e fidelidade;^&#42;2^ eliminem do seu meio os deuses a que seus antepassados serviram do outro lado do rio Eufrates^&#42;3^ e no Egito, e sirvam a Jeová.
+
+[NOTE]
+====
+. Ou: “de modo irrepreensível”.
+. Ou: “em verdade”.
+. Lit.: “do Rio”.
+====
+
+[[v6-24-15]]
+
+^<<v6-24-15,15>>^ Agora, se vocês não acham bom servir a Jeová, escolham hoje a quem servirão, se aos deuses a quem serviram os seus antepassados que estavam do outro lado do rio Eufrates,^&#42;1^ ou aos deuses dos amorreus em cuja terra vocês estão morando. Mas, quanto a mim e aos da minha casa, serviremos a Jeová.”
+
+[NOTE]
+====
+. Lit.: “do Rio”.
+====
+
+[[v6-24-16]]
+
+^<<v6-24-16,16>>^ Então o povo disse: “Jamais abandonaremos a Jeová para servir a outros deuses.
+
+[[v6-24-17]]
+
+^<<v6-24-17,17>>^ Foi Jeová, nosso Deus, quem tirou a nós e a nossos pais da terra do Egito, a terra da escravidão,^&#42;1^ e quem realizou esses grandes sinais diante dos nossos olhos e quem nos protegeu em todo o caminho em que andamos e entre todos os povos pelos quais passamos.
+
+[NOTE]
+====
+. Lit.: “casa dos escravos”.
+====
+
+[[v6-24-18]]
+
+^<<v6-24-18,18>>^ Jeová expulsou todos os povos, incluindo os amorreus, que moraram nesta terra antes de nós. Por isso, nós também serviremos a Jeová, porque ele é o nosso Deus.”
+
+[[v6-24-19]]
+
+^<<v6-24-19,19>>^ Josué disse então ao povo: “Vocês não são capazes de servir a Jeová, pois ele é um Deus santo; ele é um Deus que exige devoção exclusiva. Não perdoará as suas transgressões^&#42;1^ e os seus pecados.
+
+[NOTE]
+====
+. Ou: “a sua rebelião”.
+====
+
+[[v6-24-20]]
+
+^<<v6-24-20,20>>^ Se vocês abandonarem a Jeová e servirem a deuses estrangeiros, ele se voltará contra vocês e os exterminará, depois de lhes ter feito o bem.”
+
+[[v6-24-21]]
+
+^<<v6-24-21,21>>^ Mas o povo disse a Josué: “Não, é a Jeová que serviremos!”
+
+[[v6-24-22]]
+
+^<<v6-24-22,22>>^ Então Josué disse ao povo: “Vocês são testemunhas contra si mesmos de que, de sua própria iniciativa, escolheram servir a Jeová.” Eles responderam: “Somos testemunhas!”
+
+[[v6-24-23]]
+
+^<<v6-24-23,23>>^ “Portanto, removam os deuses estrangeiros que há entre vocês e inclinem o coração para Jeová, o Deus de Israel.”
+
+[[v6-24-24]]
+
+^<<v6-24-24,24>>^ O povo disse a Josué: “Serviremos a Jeová, nosso Deus, e obedeceremos à sua voz!”
+
+[[v6-24-25]]
+
+^<<v6-24-25,25>>^ Assim, naquele dia Josué fez um pacto com o povo e estabeleceu para eles uma lei e um decreto em Siquém.
+
+[[v6-24-26]]
+
+^<<v6-24-26,26>>^ Então Josué escreveu essas palavras no livro da Lei de Deus. Depois pegou uma grande pedra e a colocou debaixo da árvore grande que fica junto ao santuário de Jeová.
+
+[[v6-24-27]]
+
+^<<v6-24-27,27>>^ Josué disse ainda a todo o povo: “Vejam! Esta pedra servirá de testemunho contra nós, porque ela ouviu tudo o que Jeová nos disse; e ela servirá de testemunho contra vocês, para que não neguem o seu Deus.”
+
+[[v6-24-28]]
+
+^<<v6-24-28,28>>^ Com isso Josué dispensou o povo, e cada um foi para a sua herança.
+
+[[v6-24-29]]
+
+^<<v6-24-29,29>>^ Depois dessas coisas Josué, filho de Num, o servo de Jeová, morreu com 110 anos de idade.
+
+[[v6-24-30]]
+
+^<<v6-24-30,30>>^ E eles o enterraram no território da sua herança, em Timnate-Sera, que fica na região montanhosa de Efraim, ao norte do monte Gaás.
+
+[[v6-24-31]]
+
+^<<v6-24-31,31>>^ Israel continuou servindo a Jeová durante todos os dias de Josué e durante todos os dias dos anciãos que continuaram vivos depois de Josué e que tinham conhecido todos os atos de Jeová a favor de Israel.
+
+[[v6-24-32]]
+
+^<<v6-24-32,32>>^ Os ossos de José, que os israelitas haviam trazido do Egito, foram enterrados em Siquém, no pedaço do campo que Jacó havia adquirido dos filhos de Hamor, pai de Siquém, por 100 peças de dinheiro; e ele se tornou a herança dos filhos de José.
+
+[[v6-24-33]]
+
+^<<v6-24-33,33>>^ Também morreu Eleazar, filho de Arão. E o enterraram na colina de Fineias, seu filho, a colina que tinha sido dada a ele na região montanhosa de Efraim.
+
+'''
+
+xref:006-josue/006-josue-023.adoc#v6-23-0[&#60; Capítulo Anterior] | <<v6-24-0,Topo>> | xref:007-juizes/007-juizes-001.adoc#v7-1-0[Próximo Capítulo &#62;]

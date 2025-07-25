@@ -1,0 +1,222 @@
+include::./index.adoc[]
+
+[[v20-13-0]]
+=== Provérbios, 13
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v20-13-1]]
+
+^<<v20-13-1,1>>^ O filho sábio aceita a disciplina do pai,
+Mas o zombador não dá ouvidos à repreensão.^&#42;1^
+
+[NOTE]
+====
+. Ou: “correção”.
+====
+
+[[v20-13-2]]
+
+^<<v20-13-2,2>>^ Dos frutos das suas palavras^&#42;1^ o homem comerá o que é bom,
+Mas o desejo^&#42;2^ dos traiçoeiros é a violência.
+
+[NOTE]
+====
+. Ou: “da sua boca”.
+. Ou: “a alma”.
+====
+
+[[v20-13-3]]
+
+^<<v20-13-3,3>>^ Quem vigia a boca^&#42;1^ protege sua vida.^&#42;2^
+Quem não fecha^&#42;3^ os lábios será arruinado.
+
+[NOTE]
+====
+. Ou: “o que fala”.
+. Ou: “alma”.
+. Ou: “Quem abre bem”.
+====
+
+[[v20-13-4]]
+
+^<<v20-13-4,4>>^ O preguiçoso muito deseja e nada tem,^&#42;1^
+Mas o diligente^&#42;2^ será plenamente satisfeito.^&#42;3^
+
+[NOTE]
+====
+. Ou: “e sua alma nada tem”.
+. Ou: “a alma diligente”.
+. Lit.: “será engordado”.
+====
+
+[[v20-13-5]]
+
+^<<v20-13-5,5>>^ O justo odeia mentiras,
+Mas as ações de quem é mau causam vergonha e desonra.
+
+[[v20-13-6]]
+
+^<<v20-13-6,6>>^ A justiça protege quem anda no caminho da inocência,
+Mas a maldade arruína o pecador.
+
+[[v20-13-7]]
+
+^<<v20-13-7,7>>^ Alguns fingem ser ricos, mas não têm nada;
+Outros fingem ser pobres, mas têm muitas riquezas.
+
+[[v20-13-8]]
+
+^<<v20-13-8,8>>^ As riquezas servem de resgate pela vida^&#42;1^ de um homem,
+Mas os pobres nem são ameaçados.^&#42;2^
+
+[NOTE]
+====
+. Ou: “alma”.
+. Lit.: “não escutam repreensão”.
+====
+
+[[v20-13-9]]
+
+^<<v20-13-9,9>>^ A luz dos justos brilha intensamente,^&#42;1^
+Mas a lâmpada dos maus será apagada.
+
+[NOTE]
+====
+. Lit.: “se alegra”.
+====
+
+[[v20-13-10]]
+
+^<<v20-13-10,10>>^ A presunção só causa briga,
+Mas a sabedoria está com os que buscam conselho.^&#42;1^
+
+[NOTE]
+====
+. Ou: “que se consultam”.
+====
+
+[[v20-13-11]]
+
+^<<v20-13-11,11>>^ A riqueza obtida rapidamente^&#42;1^ vai diminuir,
+Mas a riqueza de quem ajunta aos poucos^&#42;2^ vai aumentar.
+
+[NOTE]
+====
+. Ou: “A riqueza vinda da vaidade”.
+. Lit.: “ajunta com a mão”.
+====
+
+[[v20-13-12]]
+
+^<<v20-13-12,12>>^ A expectativa^&#42;1^ adiada faz adoecer o coração,
+Mas o desejo realizado é árvore de vida.
+
+[NOTE]
+====
+. Ou: “esperança”.
+====
+
+[[v20-13-13]]
+
+^<<v20-13-13,13>>^ Quem despreza instrução^&#42;1^ será punido,
+Mas quem respeita o mandamento será recompensado.
+
+[NOTE]
+====
+. Ou: “a palavra”.
+====
+
+[[v20-13-14]]
+
+^<<v20-13-14,14>>^ O ensinamento^&#42;1^ do sábio é fonte de vida
+E desvia dos laços da morte.
+
+[NOTE]
+====
+. Ou: “A lei”.
+====
+
+[[v20-13-15]]
+
+^<<v20-13-15,15>>^ O profundo entendimento traz favor,
+Mas o caminho dos traiçoeiros é difícil.
+
+[[v20-13-16]]
+
+^<<v20-13-16,16>>^ O homem prudente age com conhecimento,
+Mas o tolo expõe sua própria tolice.
+
+[[v20-13-17]]
+
+^<<v20-13-17,17>>^ O mensageiro perverso cai em desgraça,
+Mas o enviado fiel traz cura.
+
+[[v20-13-18]]
+
+^<<v20-13-18,18>>^ Quem rejeita a disciplina acaba em pobreza e desonra,
+Mas aquele que aceita correção^&#42;1^ será glorificado.
+
+[NOTE]
+====
+. Ou: “repreensão”.
+====
+
+[[v20-13-19]]
+
+^<<v20-13-19,19>>^ O desejo realizado é doce para a alma,^&#42;1^
+Mas o tolo odeia se desviar do mal.
+
+[NOTE]
+====
+. Ou: “pessoa”. Veja o Glossário, “Alma”.
+====
+
+[[v20-13-20]]
+
+^<<v20-13-20,20>>^ Quem anda com sábios se tornará sábio,
+Mas quem se junta com tolos acabará mal.
+
+[[v20-13-21]]
+
+^<<v20-13-21,21>>^ A calamidade persegue os pecadores,
+Mas a prosperidade recompensa os justos.
+
+[[v20-13-22]]
+
+^<<v20-13-22,22>>^ A pessoa boa deixa uma herança para os netos,
+Mas a riqueza do pecador está reservada para o justo.
+
+[[v20-13-23]]
+
+^<<v20-13-23,23>>^ A lavoura do pobre produz muito alimento,
+Mas ela pode ser arrasada^&#42;1^ pela injustiça.
+
+[NOTE]
+====
+. Ou: “ele pode ser arrasado”.
+====
+
+[[v20-13-24]]
+
+^<<v20-13-24,24>>^ Quem refreia a vara^&#42;1^ odeia seu filho,
+Mas aquele que o ama não deixa de discipliná-lo.^&#42;2^
+
+[NOTE]
+====
+. Ou: “disciplina; punição”.
+. Ou, possivelmente: “que o ama o disciplina prontamente”.
+====
+
+[[v20-13-25]]
+
+^<<v20-13-25,25>>^ O justo come e fica satisfeito,^&#42;1^
+Mas a barriga dos maus fica vazia.
+
+[NOTE]
+====
+. Ou: “satisfaz sua alma”.
+====
+
+'''
+
+xref:020-proverbios/020-proverbios-012.adoc#v20-12-0[&#60; Capítulo Anterior] | <<v20-13-0,Topo>> | xref:020-proverbios/020-proverbios-014.adoc#v20-14-0[Próximo Capítulo &#62;]

@@ -1,0 +1,76 @@
+include::./index.adoc[]
+
+[[v19-142-0]]
+=== Salmos, 142
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Masquil.^&#42;1^ De Davi, quando estava na caverna. Oração._
+
+[[v19-142-1]]
+
+^<<v19-142-1,1>>^ Com a minha voz clamo a Jeová por ajuda;
+Com a minha voz suplico o favor de Jeová.
+
+[[v19-142-2]]
+
+^<<v19-142-2,2>>^ Diante dele derramo a minha preocupação;
+Diante dele exponho a minha aflição
+
+[[v19-142-3]]
+
+^<<v19-142-3,3>>^ Quando desfalece o espírito^&#42;1^ dentro de mim.
+Então tu vigias o meu caminho.
+Na vereda em que ando,
+Escondem uma armadilha para me apanhar.
+
+[NOTE]
+====
+. Ou: “a força”.
+====
+
+[[v19-142-4]]
+
+^<<v19-142-4,4>>^ Olha à minha direita e vê
+Que ninguém se importa comigo.^&#42;1^
+Não há lugar para onde eu possa fugir;
+Ninguém se preocupa comigo.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “me reconhece”.
+. Ou: “com a minha alma”.
+====
+
+[[v19-142-5]]
+
+^<<v19-142-5,5>>^ Clamo a ti por ajuda, ó Jeová.
+Digo: “Tu és meu refúgio,
+Tudo que tenho^&#42;1^ na terra dos vivos.”
+
+[NOTE]
+====
+. Lit.: “Minha porção”.
+====
+
+[[v19-142-6]]
+
+^<<v19-142-6,6>>^ Presta atenção ao meu clamor por ajuda,
+Pois fiquei muito abatido.
+Livra-me dos que me perseguem,
+Pois são mais fortes do que eu.
+
+[[v19-142-7]]
+
+^<<v19-142-7,7>>^ Tira-me^&#42;1^ do calabouço
+Para que eu louve o teu nome.
+Que os justos se ajuntem em volta de mim,
+Pois ages bondosamente comigo.
+
+[NOTE]
+====
+. Ou: “Tira minha alma”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-141.adoc#v19-141-0[&#60; Capítulo Anterior] | <<v19-142-0,Topo>> | xref:019-salmo/019-salmo-143.adoc#v19-143-0[Próximo Capítulo &#62;]

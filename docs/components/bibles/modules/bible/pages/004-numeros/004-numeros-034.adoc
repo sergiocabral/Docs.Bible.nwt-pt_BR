@@ -1,0 +1,151 @@
+include::./index.adoc[]
+
+[[v4-34-0]]
+=== Números, 34
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v4-34-1]]
+
+^<<v4-34-1,1>>^ E Jeová falou mais a Moisés:
+
+[[v4-34-2]]
+
+^<<v4-34-2,2>>^ “Dê as seguintes instruções aos israelitas: ‘Quando vocês entrarem na terra de Canaã, receberão esta terra como herança, a terra de Canaã segundo os seus limites.
+
+[[v4-34-3]]
+
+^<<v4-34-3,3>>^ “‘Seu limite sul se estenderá a partir do deserto de Zim, junto a Edom. Ao leste, o limite sul do seu território começará na extremidade do mar Salgado.^&#42;1^
+
+[NOTE]
+====
+. Isto é, o mar Morto.
+====
+
+[[v4-34-4]]
+
+^<<v4-34-4,4>>^ O limite mudará de direção para passar ao sul da subida de Acrabim e continuará até Zim, e sua extremidade será ao sul de Cades-Barneia. Depois se estenderá até Hazar-Adar e continuará até Azmom.
+
+[[v4-34-5]]
+
+^<<v4-34-5,5>>^ De Azmom, o limite irá em direção à torrente^&#42;1^ do Egito, e sua extremidade será o mar.^&#42;2^
+
+[NOTE]
+====
+. Ou: “ao uádi”. Veja o Glossário.
+. Isto é, o Grande Mar, o Mediterrâneo.
+====
+
+[[v4-34-6]]
+
+^<<v4-34-6,6>>^ “‘O limite oeste do seu território será o Grande Mar^&#42;1^ e a costa. Esse será o limite oeste.
+
+[NOTE]
+====
+. Isto é, o Mediterrâneo.
+====
+
+[[v4-34-7]]
+
+^<<v4-34-7,7>>^ “‘Este será o limite norte do seu território: desde o Grande Mar vocês demarcarão o seu limite até o monte Hor.
+
+[[v4-34-8]]
+
+^<<v4-34-8,8>>^ Do monte Hor, demarcarão o limite até Lebo-Hamate,^&#42;1^ e o limite terminará em Zedade.
+
+[NOTE]
+====
+. Ou: “a entrada de Hamate”.
+====
+
+[[v4-34-9]]
+
+^<<v4-34-9,9>>^ E o limite passará por Zifrom e terminará em Hazar-Enã. Esse será o limite norte do seu território.
+
+[[v4-34-10]]
+
+^<<v4-34-10,10>>^ “‘Então vocês devem demarcar o limite do seu território ao leste, desde Hazar-Enã até Sefão.
+
+[[v4-34-11]]
+
+^<<v4-34-11,11>>^ O limite irá de Sefão até Ribla, ao leste de Aim, e descerá a encosta ao leste do mar de Quinerete.^&#42;1^
+
+[NOTE]
+====
+. Isto é, o lago de Genesaré, ou mar da Galileia.
+====
+
+[[v4-34-12]]
+
+^<<v4-34-12,12>>^ Então o limite chegará ao Jordão e terminará no mar Salgado. Essa será a sua terra e os limites ao redor dela.’”
+
+[[v4-34-13]]
+
+^<<v4-34-13,13>>^ Assim, Moisés instruiu os israelitas, dizendo: “Essa é a terra que vocês distribuirão por sortes como sua propriedade, assim como Jeová mandou que se desse às nove tribos e meia.
+
+[[v4-34-14]]
+
+^<<v4-34-14,14>>^ Pois a tribo dos rubenitas, de acordo com a sua casa paterna, a tribo dos gaditas, de acordo com a sua casa paterna, e a meia tribo de Manassés já tomaram posse da sua herança.
+
+[[v4-34-15]]
+
+^<<v4-34-15,15>>^ As duas tribos e meia já tomaram posse da sua herança ao leste da região do Jordão, junto a Jericó, do lado do nascente.”
+
+[[v4-34-16]]
+
+^<<v4-34-16,16>>^ Jeová falou mais a Moisés:
+
+[[v4-34-17]]
+
+^<<v4-34-17,17>>^ “Estes são os nomes dos homens que dividirão a terra entre vocês como propriedade: Eleazar, o sacerdote, e Josué, filho de Num.
+
+[[v4-34-18]]
+
+^<<v4-34-18,18>>^ E vocês chamarão um maioral de cada tribo para dividir a terra como sua herança.
+
+[[v4-34-19]]
+
+^<<v4-34-19,19>>^ Estes são os nomes dos homens: da tribo de Judá, Calebe, filho de Jefuné;
+
+[[v4-34-20]]
+
+^<<v4-34-20,20>>^ da tribo dos filhos de Simeão, Semuel, filho de Amiúde;
+
+[[v4-34-21]]
+
+^<<v4-34-21,21>>^ da tribo de Benjamim, Elidade, filho de Quislom;
+
+[[v4-34-22]]
+
+^<<v4-34-22,22>>^ da tribo dos filhos de Dã, um maioral, Buqui, filho de Jogli;
+
+[[v4-34-23]]
+
+^<<v4-34-23,23>>^ dos filhos de José, da tribo dos filhos de Manassés, um maioral, Haniel, filho de Éfode;
+
+[[v4-34-24]]
+
+^<<v4-34-24,24>>^ da tribo dos filhos de Efraim, um maioral, Quemuel, filho de Siftã;
+
+[[v4-34-25]]
+
+^<<v4-34-25,25>>^ da tribo dos filhos de Zebulão, um maioral, Elizafã, filho de Parnaque;
+
+[[v4-34-26]]
+
+^<<v4-34-26,26>>^ da tribo dos filhos de Issacar, um maioral, Paltiel, filho de Azã;
+
+[[v4-34-27]]
+
+^<<v4-34-27,27>>^ da tribo dos filhos de Aser, um maioral, Aiude, filho de Selomi;
+
+[[v4-34-28]]
+
+^<<v4-34-28,28>>^ da tribo dos filhos de Naftali, um maioral, Pedael, filho de Amiúde.”
+
+[[v4-34-29]]
+
+^<<v4-34-29,29>>^ Jeová mandou que esses homens distribuíssem a terra aos israelitas na terra de Canaã.
+
+'''
+
+xref:004-numeros/004-numeros-033.adoc#v4-33-0[&#60; Capítulo Anterior] | <<v4-34-0,Topo>> | xref:004-numeros/004-numeros-035.adoc#v4-35-0[Próximo Capítulo &#62;]

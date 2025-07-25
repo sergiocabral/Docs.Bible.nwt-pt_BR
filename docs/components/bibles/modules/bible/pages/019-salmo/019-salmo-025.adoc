@@ -1,0 +1,201 @@
+include::./index.adoc[]
+
+[[v19-25-0]]
+=== Salmos, 25
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_De Davi._
+
+_א [álefe]_
+
+[[v19-25-1]]
+
+^<<v19-25-1,1>>^ A ti, ó Jeová, eu recorro.^&#42;1^
+
+[NOTE]
+====
+. Ou: “elevo a minha alma”.
+====
+
+_ב [bete]_
+
+[[v19-25-2]]
+
+^<<v19-25-2,2>>^ Meu Deus, em ti confio;
+Não deixes que eu seja envergonhado.
+Não deixes que os meus inimigos se alegrem às minhas custas.
+
+_ג [guímel]_
+
+[[v19-25-3]]
+
+^<<v19-25-3,3>>^ Certamente, ninguém que espera em ti será envergonhado;
+Envergonhados serão aqueles que, sem motivo, agem traiçoeiramente.
+
+_ד [dálete]_
+
+[[v19-25-4]]
+
+^<<v19-25-4,4>>^ Faz-me saber os teus caminhos, ó Jeová;
+Ensina-me as tuas veredas.
+
+_ה [hê]_
+
+[[v19-25-5]]
+
+^<<v19-25-5,5>>^ Faz-me andar na tua verdade e ensina-me,
+Pois tu és o Deus da minha salvação.
+
+_ו [vau]_
+
+Em ti espero o dia inteiro.
+
+_ז [zaine]_
+
+[[v19-25-6]]
+
+^<<v19-25-6,6>>^ Lembra-te da tua misericórdia, ó Jeová, e do teu amor leal,
+Os quais sempre tens demonstrado.^&#42;1^
+
+[NOTE]
+====
+. Ou: “Que são desde os tempos antigos”.
+====
+
+_ח [hete]_
+
+[[v19-25-7]]
+
+^<<v19-25-7,7>>^ Não te lembres dos pecados da minha juventude e das minhas transgressões.
+Lembra-te de mim de acordo com o teu amor leal,
+Por causa da tua bondade, ó Jeová.
+
+_ט [tete]_
+
+[[v19-25-8]]
+
+^<<v19-25-8,8>>^ Bom e reto é Jeová.
+Por isso ele instrui os pecadores no caminho a seguir.
+
+_י [iode]_
+
+[[v19-25-9]]
+
+^<<v19-25-9,9>>^ Guiará os mansos no que é certo,^&#42;1^
+E ensinará aos mansos o Seu caminho.
+
+[NOTE]
+====
+. Lit.: “em julgamento”.
+====
+
+_כ [cafe]_
+
+[[v19-25-10]]
+
+^<<v19-25-10,10>>^ Todas as veredas de Jeová são amor leal e fidelidade
+Para os que guardam o seu pacto e as suas advertências.^&#42;1^
+
+[NOTE]
+====
+. “Advertência” refere-se a um lembrete do que é necessário fazer.
+====
+
+_ל [lâmede]_
+
+[[v19-25-11]]
+
+^<<v19-25-11,11>>^ Por causa do teu nome, ó Jeová,
+Perdoa o meu erro, embora ele seja grande.
+
+_מ [meme]_
+
+[[v19-25-12]]
+
+^<<v19-25-12,12>>^ Quem é o homem que teme a Jeová?
+Ele o instruirá sobre o caminho que deve escolher.
+
+_נ [nune]_
+
+[[v19-25-13]]
+
+^<<v19-25-13,13>>^ Ele^&#42;1^ experimentará coisas boas,
+E seus descendentes tomarão^&#42;2^ posse da terra.
+
+[NOTE]
+====
+. Ou: “Sua alma”.
+. Lit.: “sua semente tomará”.
+====
+
+_ס [sâmeque]_
+
+[[v19-25-14]]
+
+^<<v19-25-14,14>>^ A amizade íntima com Jeová pertence aos que o temem,
+E ele lhes dá a conhecer o seu pacto.
+
+_ע [aine]_
+
+[[v19-25-15]]
+
+^<<v19-25-15,15>>^ Meus olhos estão sempre voltados para Jeová,
+Pois ele livrará meus pés da rede.
+
+_פ [pê]_
+
+[[v19-25-16]]
+
+^<<v19-25-16,16>>^ Volta a tua face para mim e mostra-me favor,
+Pois estou sozinho e desamparado.
+
+_צ [tsadê]_
+
+[[v19-25-17]]
+
+^<<v19-25-17,17>>^ As aflições do meu coração se multiplicaram;
+Liberta-me da minha angústia.
+
+_ר [rexe]_
+
+[[v19-25-18]]
+
+^<<v19-25-18,18>>^ Vê a minha aflição e o meu sofrimento,
+E perdoa todos os meus pecados.
+
+[[v19-25-19]]
+
+^<<v19-25-19,19>>^ Vê como são numerosos os meus inimigos
+E como é grande o ódio deles por mim.
+
+_ש [chim]_
+
+[[v19-25-20]]
+
+^<<v19-25-20,20>>^ Guarda a minha vida^&#42;1^ e salva-me.
+Não deixes que eu seja envergonhado, pois tenho me refugiado em ti.
+
+[NOTE]
+====
+. Ou: “alma”.
+====
+
+_ת [tau]_
+
+[[v19-25-21]]
+
+^<<v19-25-21,21>>^ Que a integridade e a retidão me protejam,
+Pois a minha esperança está em ti.
+
+[[v19-25-22]]
+
+^<<v19-25-22,22>>^ Ó Deus, livra^&#42;1^ Israel de todas as suas aflições.
+
+[NOTE]
+====
+. Lit.: “resgata”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-024.adoc#v19-24-0[&#60; Capítulo Anterior] | <<v19-25-0,Topo>> | xref:019-salmo/019-salmo-026.adoc#v19-26-0[Próximo Capítulo &#62;]

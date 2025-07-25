@@ -1,0 +1,145 @@
+include::./index.adoc[]
+
+[[v19-72-0]]
+=== Salmos, 72
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_A respeito de Salomão._
+
+[[v19-72-1]]
+
+^<<v19-72-1,1>>^ Ó Deus, concede ao rei as tuas decisões judiciais,
+E ao filho do rei a tua retidão.
+
+[[v19-72-2]]
+
+^<<v19-72-2,2>>^ Que ele defenda a causa do teu povo com retidão;
+E a dos teus humildes, com justiça.
+
+[[v19-72-3]]
+
+^<<v19-72-3,3>>^ Que os montes tragam paz ao povo,
+E as colinas justiça.
+
+[[v19-72-4]]
+
+^<<v19-72-4,4>>^ Que ele defenda^&#42;1^ os humildes do povo,
+Que salve os filhos dos pobres
+E esmague aquele que os explora.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “julgue”.
+. Ou: “defrauda”.
+====
+
+[[v19-72-5]]
+
+^<<v19-72-5,5>>^ Eles temerão a ti enquanto houver sol
+E enquanto existir lua,
+Geração após geração.
+
+[[v19-72-6]]
+
+^<<v19-72-6,6>>^ Ele será como a chuva que cai sobre o campo ceifado,
+Como chuvas abundantes que regam a terra.
+
+[[v19-72-7]]
+
+^<<v19-72-7,7>>^ Nos seus dias o justo florescerá,^&#42;1^
+E haverá abundância de paz até que não haja mais lua.
+
+[NOTE]
+====
+. Lit.: “brotará”.
+====
+
+[[v19-72-8]]
+
+^<<v19-72-8,8>>^ Ele terá súditos^&#42;1^ de mar a mar,
+E desde o rio^&#42;2^ até os confins da terra.
+
+[NOTE]
+====
+. Ou: “governará”.
+. Isto é, o rio Eufrates.
+====
+
+[[v19-72-9]]
+
+^<<v19-72-9,9>>^ Os habitantes do deserto se curvarão diante dele,
+E os seus inimigos lamberão o pó.
+
+[[v19-72-10]]
+
+^<<v19-72-10,10>>^ Os reis de Társis e das ilhas pagarão tributo.
+Os reis de Sabá e de Sebá trarão presentes.
+
+[[v19-72-11]]
+
+^<<v19-72-11,11>>^ Todos os reis se curvarão diante dele,
+E todas as nações o servirão.
+
+[[v19-72-12]]
+
+^<<v19-72-12,12>>^ Pois ele livrará o pobre que clama por socorro,
+E também o humilde e todo aquele que não tem quem o ajude.
+
+[[v19-72-13]]
+
+^<<v19-72-13,13>>^ Terá pena do humilde e do pobre,
+E salvará a vida^&#42;1^ dos pobres.
+
+[NOTE]
+====
+. Ou: “alma”.
+====
+
+[[v19-72-14]]
+
+^<<v19-72-14,14>>^ Ele os livrará^&#42;1^ da opressão e da violência,
+E o sangue deles será precioso aos seus olhos.
+
+[NOTE]
+====
+. Ou: “Ele resgatará a sua alma”.
+====
+
+[[v19-72-15]]
+
+^<<v19-72-15,15>>^ Que o rei tenha vida longa e receba o ouro de Sabá.
+Que sejam feitas orações a seu favor sem cessar;
+Seja ele abençoado o dia inteiro.
+
+[[v19-72-16]]
+
+^<<v19-72-16,16>>^ Haverá fartura de cereal na terra,
+E superabundância no cume das montanhas.
+Os frutos do rei crescerão como no Líbano,
+E nas cidades as pessoas florescerão como a vegetação da terra.
+
+[[v19-72-17]]
+
+^<<v19-72-17,17>>^ Que o seu nome permaneça para sempre,
+Que sua fama dure tanto quanto o sol.
+Que as pessoas obtenham para si uma bênção por meio do rei;
+Que todas as nações o proclamem feliz.
+
+[[v19-72-18]]
+
+^<<v19-72-18,18>>^ Louvado seja Jeová Deus, o Deus de Israel,
+O único que faz coisas maravilhosas.
+
+[[v19-72-19]]
+
+^<<v19-72-19,19>>^ Que o seu glorioso nome seja louvado para sempre
+E a sua glória encha a terra inteira.
+Amém e amém!
+
+[[v19-72-20]]
+
+^<<v19-72-20,20>>^ Aqui terminam as orações de Davi, filho de Jessé.
+
+'''
+
+xref:019-salmo/019-salmo-071.adoc#v19-71-0[&#60; Capítulo Anterior] | <<v19-72-0,Topo>> | xref:019-salmo/019-salmo-073.adoc#v19-73-0[Próximo Capítulo &#62;]

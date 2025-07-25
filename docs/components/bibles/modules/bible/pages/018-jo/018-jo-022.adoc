@@ -1,0 +1,205 @@
+include::./index.adoc[]
+
+[[v18-22-0]]
+=== Jó, 22
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v18-22-1]]
+
+^<<v18-22-1,1>>^ Elifaz, o temanita, disse em resposta:
+
+[[v18-22-2]]
+
+^<<v18-22-2,2>>^ “Pode um homem ser útil para Deus?
+Pode alguém com perspicácia ser de algum proveito para ele?
+
+[[v18-22-3]]
+
+^<<v18-22-3,3>>^ Será que o Todo-Poderoso se importa^&#42;1^ que você seja justo,
+Ou será que ele ganha alguma coisa por você ser íntegro?
+
+[NOTE]
+====
+. Ou: “Será que é do agrado do Todo-Poderoso”.
+====
+
+[[v18-22-4]]
+
+^<<v18-22-4,4>>^ Por acaso ele o punirá
+E entrará em juízo contra você por temer a ele?
+
+[[v18-22-5]]
+
+^<<v18-22-5,5>>^ Não é porque sua maldade é muito grande
+E não há fim dos seus erros?
+
+[[v18-22-6]]
+
+^<<v18-22-6,6>>^ Pois você exige uma garantia dos seus irmãos sem nenhum motivo,
+E fica com a roupa de outros, deixando-os nus.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “tira roupas dos nus”.
+====
+
+[[v18-22-7]]
+
+^<<v18-22-7,7>>^ Não dá água ao cansado
+E nega pão ao faminto.
+
+[[v18-22-8]]
+
+^<<v18-22-8,8>>^ A terra pertence ao homem poderoso,
+E quem é favorecido mora nela.
+
+[[v18-22-9]]
+
+^<<v18-22-9,9>>^ Mas você mandou as viúvas embora de mãos vazias,
+E quebrou os braços dos órfãos.^&#42;1^
+
+[NOTE]
+====
+. Ou: “órfãos de pai”.
+====
+
+[[v18-22-10]]
+
+^<<v18-22-10,10>>^ É por isso que você está cercado de armadilhas,^&#42;1^
+E terrores repentinos o assustam;
+
+[NOTE]
+====
+. Lit.: “armadilhas para pássaros”.
+====
+
+[[v18-22-11]]
+
+^<<v18-22-11,11>>^ É por isso que a escuridão não o deixa ver,
+E uma enxurrada o cobre.
+
+[[v18-22-12]]
+
+^<<v18-22-12,12>>^ Não está Deus no mais alto dos céus?
+E veja como são altas todas as estrelas.
+
+[[v18-22-13]]
+
+^<<v18-22-13,13>>^ Mas você disse: ‘O que é que Deus realmente sabe?
+Será que ele pode julgar através de densas trevas?
+
+[[v18-22-14]]
+
+^<<v18-22-14,14>>^ As nuvens o encobrem para que ele não veja,
+Enquanto ele anda sobre a abóbada^&#42;1^ do céu.’
+
+[NOTE]
+====
+. Ou: “o círculo”.
+====
+
+[[v18-22-15]]
+
+^<<v18-22-15,15>>^ Por acaso você seguirá os antigos caminhos
+Por onde andaram os maus,
+
+[[v18-22-16]]
+
+^<<v18-22-16,16>>^ Homens que foram levados^&#42;1^ antes do tempo,
+Cujo alicerce foi levado embora por uma enxurrada?^&#42;2^
+
+[NOTE]
+====
+. Ou: “cujas vidas foram abreviadas”.
+. Lit.: “um rio”.
+====
+
+[[v18-22-17]]
+
+^<<v18-22-17,17>>^ Eles diziam ao verdadeiro Deus: ‘Deixa-nos em paz!
+O que o Todo-Poderoso pode fazer contra nós?’
+
+[[v18-22-18]]
+
+^<<v18-22-18,18>>^ Contudo, foi ele quem encheu a casa deles de coisas boas.
+(Esse pensamento mau está longe de mim.)
+
+[[v18-22-19]]
+
+^<<v18-22-19,19>>^ Os justos verão a destruição deles e se alegrarão,
+E o inocente zombará deles, dizendo:
+
+[[v18-22-20]]
+
+^<<v18-22-20,20>>^ ‘Nossos adversários foram destruídos,
+E um fogo consumirá o que sobrou deles.’
+
+[[v18-22-21]]
+
+^<<v18-22-21,21>>^ Conheça a Ele e você ficará em paz,
+Assim lhe sobrevirão coisas boas.
+
+[[v18-22-22]]
+
+^<<v18-22-22,22>>^ Aceite a lei procedente da sua boca,
+E guarde as suas declarações no coração.
+
+[[v18-22-23]]
+
+^<<v18-22-23,23>>^ Se você voltar ao Todo-Poderoso, será restabelecido.
+Se afastar a injustiça da sua tenda,
+
+[[v18-22-24]]
+
+^<<v18-22-24,24>>^ Se lançar seu ouro^&#42;1^ no pó
+E o ouro de Ofir entre as rochas dos vales,^&#42;2^
+
+[NOTE]
+====
+. Ou: “suas pepitas de ouro”.
+. Ou: “uádis”.
+====
+
+[[v18-22-25]]
+
+^<<v18-22-25,25>>^ Então o Todo-Poderoso será o seu ouro^&#42;1^
+E a sua prata mais seleta.
+
+[NOTE]
+====
+. Ou: “as suas pepitas de ouro”.
+====
+
+[[v18-22-26]]
+
+^<<v18-22-26,26>>^ Pois você terá alegria no Todo-Poderoso
+E levantará seu rosto para Deus.
+
+[[v18-22-27]]
+
+^<<v18-22-27,27>>^ Você lhe fará súplicas, e ele o ouvirá;
+E você cumprirá os seus votos.
+
+[[v18-22-28]]
+
+^<<v18-22-28,28>>^ O que você decidir fazer será bem-sucedido,
+E a luz brilhará sobre o seu caminho.
+
+[[v18-22-29]]
+
+^<<v18-22-29,29>>^ Pois quem falar com arrogância será humilhado,
+Mas ele salvará o humilde.^&#42;1^
+
+[NOTE]
+====
+. Ou: “aquele que olha para baixo”.
+====
+
+[[v18-22-30]]
+
+^<<v18-22-30,30>>^ Ele salvará os inocentes;
+Assim, se suas mãos forem limpas, você certamente será salvo.”
+
+'''
+
+xref:018-jo/018-jo-021.adoc#v18-21-0[&#60; Capítulo Anterior] | <<v18-22-0,Topo>> | xref:018-jo/018-jo-023.adoc#v18-23-0[Próximo Capítulo &#62;]

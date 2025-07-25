@@ -1,0 +1,88 @@
+include::./index.adoc[]
+
+[[v4-12-0]]
+=== Números, 12
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v4-12-1]]
+
+^<<v4-12-1,1>>^ Miriã e Arão começaram então a falar contra Moisés por causa da esposa cuchita com quem ele havia se casado, pois ele havia tomado uma esposa cuchita.
+
+[[v4-12-2]]
+
+^<<v4-12-2,2>>^ Eles diziam: “Será que Jeová falou somente por meio de Moisés? Não falou também por meio de nós?” E Jeová estava escutando.
+
+[[v4-12-3]]
+
+^<<v4-12-3,3>>^ Ora, Moisés era de longe o mais manso de todos os homens^&#42;1^ na face da terra.
+
+[NOTE]
+====
+. Ou: “era muito humilde (de temperamento brando), mais do que qualquer outro homem”.
+====
+
+[[v4-12-4]]
+
+^<<v4-12-4,4>>^ De repente, Jeová disse a Moisés, a Arão e a Miriã: “Saiam, vocês três, para a tenda de reunião.” De modo que os três saíram.
+
+[[v4-12-5]]
+
+^<<v4-12-5,5>>^ E Jeová desceu na coluna de nuvem, ficou à entrada da tenda e chamou Arão e Miriã. Ambos se aproximaram.
+
+[[v4-12-6]]
+
+^<<v4-12-6,6>>^ Então ele disse: “Ouçam as minhas palavras, por favor. Se houvesse um profeta de Jeová entre vocês, eu me daria a conhecer a ele numa visão e lhe falaria num sonho.
+
+[[v4-12-7]]
+
+^<<v4-12-7,7>>^ Mas com o meu servo Moisés é diferente! A ele foi confiada toda a minha casa.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “Em toda a minha casa, ele está se mostrando fiel.”
+====
+
+[[v4-12-8]]
+
+^<<v4-12-8,8>>^ Falo com ele face a face,^&#42;1^ abertamente, não por enigmas; e ele vê a aparência de Jeová. Por que, então, vocês não temeram falar contra o meu servo, contra Moisés?”
+
+[NOTE]
+====
+. Lit.: “boca a boca”.
+====
+
+[[v4-12-9]]
+
+^<<v4-12-9,9>>^ Portanto, a ira de Jeová se acendeu contra eles, e ele os deixou.
+
+[[v4-12-10]]
+
+^<<v4-12-10,10>>^ A nuvem se retirou de cima da tenda, e, no mesmo instante, Miriã foi atacada de lepra branca como a neve. Quando Arão olhou para Miriã, viu que ela estava com lepra.
+
+[[v4-12-11]]
+
+^<<v4-12-11,11>>^ Arão disse imediatamente a Moisés: “Eu lhe imploro, meu senhor! Por favor, não leve em conta esse pecado! Agimos como tolos ao fazer isso.
+
+[[v4-12-12]]
+
+^<<v4-12-12,12>>^ Por favor, não a deixe continuar como alguém que já nasceu morto e com a metade da sua carne consumida!”
+
+[[v4-12-13]]
+
+^<<v4-12-13,13>>^ E Moisés começou a clamar a Jeová: “Ó Deus, por favor! Cura-a, por favor!”
+
+[[v4-12-14]]
+
+^<<v4-12-14,14>>^ Jeová disse a Moisés: “Se o pai dela lhe cuspisse no rosto, não ficaria ela humilhada por sete dias? Que ela seja posta em isolamento por sete dias fora do acampamento; depois ela pode ser trazida de volta.”
+
+[[v4-12-15]]
+
+^<<v4-12-15,15>>^ Assim, Miriã foi posta em isolamento por sete dias fora do acampamento, e o povo não partiu enquanto Miriã não foi trazida de volta.
+
+[[v4-12-16]]
+
+^<<v4-12-16,16>>^ Então o povo partiu de Hazerote e acampou no deserto de Parã.
+
+'''
+
+xref:004-numeros/004-numeros-011.adoc#v4-11-0[&#60; Capítulo Anterior] | <<v4-12-0,Topo>> | xref:004-numeros/004-numeros-013.adoc#v4-13-0[Próximo Capítulo &#62;]

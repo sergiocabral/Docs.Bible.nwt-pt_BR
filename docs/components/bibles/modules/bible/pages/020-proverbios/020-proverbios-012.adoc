@@ -1,0 +1,205 @@
+include::./index.adoc[]
+
+[[v20-12-0]]
+=== Provérbios, 12
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v20-12-1]]
+
+^<<v20-12-1,1>>^ Quem ama a disciplina ama o conhecimento,
+Mas quem odeia a repreensão é insensato.^&#42;1^
+
+[NOTE]
+====
+. Ou: “irracional”.
+====
+
+[[v20-12-2]]
+
+^<<v20-12-2,2>>^ A pessoa boa obtém a aprovação de Jeová,
+Mas ele condena o homem que planeja o mal.
+
+[[v20-12-3]]
+
+^<<v20-12-3,3>>^ Ninguém consegue segurança por meio da maldade,
+Mas os justos nunca serão desarraigados.
+
+[[v20-12-4]]
+
+^<<v20-12-4,4>>^ A esposa capaz^&#42;1^ é uma coroa para o seu marido,
+Mas a esposa que age de modo vergonhoso é como podridão nos ossos dele.
+
+[NOTE]
+====
+. Ou: “boa esposa”.
+====
+
+[[v20-12-5]]
+
+^<<v20-12-5,5>>^ Os pensamentos dos justos são corretos,
+Mas as orientações dos maus são enganosas.
+
+[[v20-12-6]]
+
+^<<v20-12-6,6>>^ As palavras dos maus são uma emboscada mortal,^&#42;1^
+Mas a boca dos justos os salva.
+
+[NOTE]
+====
+. Lit.: “estão de emboscada por sangue”.
+====
+
+[[v20-12-7]]
+
+^<<v20-12-7,7>>^ Quando os maus são derrubados, deixam de existir,
+Mas a casa dos justos permanecerá.
+
+[[v20-12-8]]
+
+^<<v20-12-8,8>>^ O homem que fala com prudência é elogiado,
+Mas o de coração tortuoso será tratado com desprezo.
+
+[[v20-12-9]]
+
+^<<v20-12-9,9>>^ Melhor ser uma pessoa comum e ter um servo
+Do que glorificar a si mesmo e não ter o que comer.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “pão”.
+====
+
+[[v20-12-10]]
+
+^<<v20-12-10,10>>^ O justo cuida dos seus animais domésticos,^&#42;1^
+Mas até a misericórdia dos maus é cruel.
+
+[NOTE]
+====
+. Ou: “da alma do seu animal doméstico”.
+====
+
+[[v20-12-11]]
+
+^<<v20-12-11,11>>^ Quem cultiva a sua terra terá fartura de alimento,
+Mas quem se empenha por coisas sem valor não tem bom senso.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “não tem coração”.
+====
+
+[[v20-12-12]]
+
+^<<v20-12-12,12>>^ O perverso tem inveja do que outros homens maus caçam,
+Mas a raiz dos justos produz frutos.
+
+[[v20-12-13]]
+
+^<<v20-12-13,13>>^ A pessoa má é enlaçada pela sua própria conversa pecaminosa,
+Mas o justo escapa da aflição.
+
+[[v20-12-14]]
+
+^<<v20-12-14,14>>^ Dos frutos das suas palavras^&#42;1^ o homem se satisfaz com o que é bom,
+E pelo trabalho das suas mãos ele será recompensado.
+
+[NOTE]
+====
+. Ou: “da sua boca”.
+====
+
+[[v20-12-15]]
+
+^<<v20-12-15,15>>^ O caminho do tolo é certo aos seus próprios olhos,
+Mas o sábio aceita conselho.
+
+[[v20-12-16]]
+
+^<<v20-12-16,16>>^ O tolo demonstra a sua irritação imediatamente,^&#42;1^
+Mas o homem prudente deixa passar^&#42;2^ o insulto.
+
+[NOTE]
+====
+. Ou: “no mesmo dia”.
+. Lit.: “cobre”.
+====
+
+[[v20-12-17]]
+
+^<<v20-12-17,17>>^ A testemunha fiel fala a verdade,^&#42;1^
+Mas a testemunha falsa fala mentiras.
+
+[NOTE]
+====
+. Lit.: “o que é justo”.
+====
+
+[[v20-12-18]]
+
+^<<v20-12-18,18>>^ Palavras impensadas são como os golpes de uma espada,
+Mas a língua dos sábios é uma cura.
+
+[[v20-12-19]]
+
+^<<v20-12-19,19>>^ Os lábios que dizem a verdade permanecerão para sempre,
+Mas a língua mentirosa durará apenas um instante.
+
+[[v20-12-20]]
+
+^<<v20-12-20,20>>^ Há engano no coração dos que tramam a maldade,
+Mas os que promovem a^&#42;1^ paz têm alegria.
+
+[NOTE]
+====
+. Lit.: “os que são conselheiros de”.
+====
+
+[[v20-12-21]]
+
+^<<v20-12-21,21>>^ Nenhum mal atingirá o justo,
+Mas os maus sofrerão muitas calamidades.
+
+[[v20-12-22]]
+
+^<<v20-12-22,22>>^ Lábios mentirosos são detestáveis para Jeová,
+Mas quem age fielmente é um prazer para ele.
+
+[[v20-12-23]]
+
+^<<v20-12-23,23>>^ O homem prudente esconde o que sabe,
+Mas o coração dos tolos deixa escapar sua tolice.
+
+[[v20-12-24]]
+
+^<<v20-12-24,24>>^ A mão diligente governará,
+Mas a mão preguiçosa fará trabalhos forçados.
+
+[[v20-12-25]]
+
+^<<v20-12-25,25>>^ A ansiedade sobrecarrega o coração do homem,^&#42;1^
+Mas a boa palavra alegra o coração.
+
+[NOTE]
+====
+. Ou: “A ansiedade no coração do homem o deprime”.
+====
+
+[[v20-12-26]]
+
+^<<v20-12-26,26>>^ O justo explora seus pastos,
+Mas o proceder dos maus os desencaminha.
+
+[[v20-12-27]]
+
+^<<v20-12-27,27>>^ O preguiçoso não vai atrás da caça,
+Mas a diligência é um tesouro precioso para o homem.
+
+[[v20-12-28]]
+
+^<<v20-12-28,28>>^ O caminho da justiça conduz à vida;
+Nessa vereda não há morte.
+
+'''
+
+xref:020-proverbios/020-proverbios-011.adoc#v20-11-0[&#60; Capítulo Anterior] | <<v20-12-0,Topo>> | xref:020-proverbios/020-proverbios-013.adoc#v20-13-0[Próximo Capítulo &#62;]

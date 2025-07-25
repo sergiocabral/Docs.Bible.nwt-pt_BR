@@ -1,0 +1,234 @@
+include::./index.adoc[]
+
+[[v40-10-0]]
+=== Segundo Mateus, 10
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v40-10-1]]
+
+^<<v40-10-1,1>>^ Então ele convocou os seus 12 discípulos e lhes deu autoridade sobre espíritos impuros, para os expulsarem e para curarem todo tipo de doenças e todo tipo de enfermidades.
+
+[[v40-10-2]]
+
+^<<v40-10-2,2>>^ Os nomes dos 12 apóstolos são estes: primeiro, Simão, o chamado Pedro, e André, seu irmão; Tiago, filho de Zebedeu, e João, seu irmão;
+
+[[v40-10-3]]
+
+^<<v40-10-3,3>>^ Filipe e Bartolomeu; Tomé e Mateus, o cobrador de impostos; Tiago, filho de Alfeu; e Tadeu;
+
+[[v40-10-4]]
+
+^<<v40-10-4,4>>^ Simão, o Cananita;^&#42;1^ e Judas Iscariotes, que mais tarde o traiu.
+
+[NOTE]
+====
+. Ou: “o zeloso”.
+====
+
+[[v40-10-5]]
+
+^<<v40-10-5,5>>^ Jesus enviou esses 12, dando-lhes as seguintes instruções: “Não se desviem para a estrada das nações e não entrem em cidade samaritana;
+
+[[v40-10-6]]
+
+^<<v40-10-6,6>>^ mas, em vez disso, vão somente às ovelhas perdidas da casa de Israel.
+
+[[v40-10-7]]
+
+^<<v40-10-7,7>>^ Ao irem, preguem, dizendo: ‘O Reino dos céus está próximo.’
+
+[[v40-10-8]]
+
+^<<v40-10-8,8>>^ Curem os doentes, ressuscitem os mortos, purifiquem os leprosos, expulsem os demônios. Vocês receberam de graça, portanto deem de graça.
+
+[[v40-10-9]]
+
+^<<v40-10-9,9>>^ Não adquiram ouro, nem prata, nem cobre para o seu cinto,^&#42;1^
+
+[NOTE]
+====
+. Isto é, um cinto que tinha um lugar para colocar dinheiro.
+====
+
+[[v40-10-10]]
+
+^<<v40-10-10,10>>^ nem bolsa de provisões para a viagem, nem roupa extra,^&#42;1^ nem sandálias, nem bastão, pois o trabalhador merece o seu alimento.
+
+[NOTE]
+====
+. Lit.: “duas túnicas”.
+====
+
+[[v40-10-11]]
+
+^<<v40-10-11,11>>^ “Em qualquer cidade ou aldeia em que entrarem, procurem nela quem é merecedor e fiquem ali até partirem.
+
+[[v40-10-12]]
+
+^<<v40-10-12,12>>^ Ao entrarem na casa, cumprimentem a família.
+
+[[v40-10-13]]
+
+^<<v40-10-13,13>>^ Se a casa for merecedora, venha sobre ela a paz que lhe desejam; mas, se ela não for merecedora, que a paz volte a vocês.
+
+[[v40-10-14]]
+
+^<<v40-10-14,14>>^ Onde quer que alguém não os receber nem ouvir as suas palavras, ao saírem daquela casa ou daquela cidade, sacudam o pó dos seus pés.
+
+[[v40-10-15]]
+
+^<<v40-10-15,15>>^ Digo-lhes a verdade: No Dia do Julgamento será mais suportável para a terra de Sodoma e Gomorra do que para aquela cidade.
+
+[[v40-10-16]]
+
+^<<v40-10-16,16>>^ “Eu os envio como ovelhas no meio de lobos. Portanto, sejam cautelosos como as serpentes, mas inocentes como as pombas.
+
+[[v40-10-17]]
+
+^<<v40-10-17,17>>^ Tenham cuidado com os homens, pois eles os entregarão aos tribunais locais e os açoitarão nas sinagogas deles.
+
+[[v40-10-18]]
+
+^<<v40-10-18,18>>^ E vocês serão levados diante de governadores e reis, por minha causa, para darem testemunho a eles e às nações.
+
+[[v40-10-19]]
+
+^<<v40-10-19,19>>^ No entanto, quando entregarem vocês, não fiquem preocupados^&#42;1^ com o que falar ou como falar, porque naquela hora lhes será dado o que falar.
+
+[NOTE]
+====
+. Ou: “ansiosos”.
+====
+
+[[v40-10-20]]
+
+^<<v40-10-20,20>>^ Pois quem fala não são apenas vocês, mas é o espírito do seu Pai que fala por meio de vocês.
+
+[[v40-10-21]]
+
+^<<v40-10-21,21>>^ Além disso, irmão entregará irmão à morte, e o pai ao seu filho, e os filhos se levantarão contra os pais e farão com que sejam mortos.
+
+[[v40-10-22]]
+
+^<<v40-10-22,22>>^ E vocês serão odiados por todos, por causa do meu nome. Mas quem perseverar^&#42;1^ até o fim será salvo.
+
+[NOTE]
+====
+. Ou: “persevera”.
+====
+
+[[v40-10-23]]
+
+^<<v40-10-23,23>>^ Quando os perseguirem numa cidade, fujam para outra; pois eu lhes digo a verdade: Vocês de modo algum percorrerão todas as^&#42;1^ cidades de Israel antes de chegar o Filho do Homem.
+
+[NOTE]
+====
+. Ou: “completarão o circuito das”.
+====
+
+[[v40-10-24]]
+
+^<<v40-10-24,24>>^ “O aluno não está acima do seu instrutor, nem o escravo acima do seu senhor.
+
+[[v40-10-25]]
+
+^<<v40-10-25,25>>^ Basta que o aluno se torne como o seu instrutor, e o escravo como o seu senhor. Se chamaram de Belzebu^&#42;1^ ao dono da casa, quanto mais aos da sua casa!
+
+[NOTE]
+====
+. Um nome usado para Satanás, o príncipe, ou governante, dos demônios.
+====
+
+[[v40-10-26]]
+
+^<<v40-10-26,26>>^ Portanto, não tenham medo deles, pois não há nada encoberto que não venha a ser descoberto, e não há nada secreto que não se torne conhecido.
+
+[[v40-10-27]]
+
+^<<v40-10-27,27>>^ O que eu lhes digo na escuridão, digam na luz; e o que é sussurrado em seus ouvidos, preguem dos terraços das casas.
+
+[[v40-10-28]]
+
+^<<v40-10-28,28>>^ E não fiquem com medo dos que matam o corpo, mas não podem matar a alma;^&#42;1^ em vez disso, temam aquele que pode destruir na Geena^&#42;2^ tanto a alma como o corpo.
+
+[NOTE]
+====
+. Ou: “vida”, isto é, a perspectiva de vida.
+. Veja o Glossário.
+====
+
+[[v40-10-29]]
+
+^<<v40-10-29,29>>^ Não se vendem dois pardais por uma moeda de pequeno valor?^&#42;1^ Contudo, nem mesmo um deles cairá no chão sem o conhecimento do Pai de vocês.
+
+[NOTE]
+====
+. Lit.: “por um assário”. Veja Ap. B14.
+====
+
+[[v40-10-30]]
+
+^<<v40-10-30,30>>^ Mas até mesmo os cabelos da cabeça de vocês estão todos contados.
+
+[[v40-10-31]]
+
+^<<v40-10-31,31>>^ Portanto, não tenham medo; vocês valem mais do que muitos pardais.
+
+[[v40-10-32]]
+
+^<<v40-10-32,32>>^ “Então, todo aquele que declarar diante dos homens que está em união comigo, eu também declararei diante do meu Pai, que está nos céus, estar em união com ele.
+
+[[v40-10-33]]
+
+^<<v40-10-33,33>>^ Mas quem me negar diante dos homens, eu também o negarei diante do meu Pai, que está nos céus.
+
+[[v40-10-34]]
+
+^<<v40-10-34,34>>^ Não pensem que vim trazer paz à terra; vim trazer não a paz, mas a espada.
+
+[[v40-10-35]]
+
+^<<v40-10-35,35>>^ Pois vim causar divisão: o homem contra o pai, a filha contra a mãe, e a nora contra a sogra.
+
+[[v40-10-36]]
+
+^<<v40-10-36,36>>^ Realmente, os inimigos do homem serão os da sua própria casa.
+
+[[v40-10-37]]
+
+^<<v40-10-37,37>>^ Quem ama o pai ou a mãe mais do que a mim não é digno de mim; e quem ama o filho ou a filha mais do que a mim não é digno de mim.
+
+[[v40-10-38]]
+
+^<<v40-10-38,38>>^ E quem não aceita a sua estaca de tortura^&#42;1^ e não me segue não é digno de mim.
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v40-10-39]]
+
+^<<v40-10-39,39>>^ Quem achar a sua vida^&#42;1^ a perderá, e quem perder a sua vida^&#42;2^ por minha causa a achará.
+
+[NOTE]
+====
+. Ou: “alma”.
+. Ou: “alma”.
+====
+
+[[v40-10-40]]
+
+^<<v40-10-40,40>>^ “Quem recebe vocês, recebe também a mim, e quem me recebe, recebe também Aquele que me enviou.
+
+[[v40-10-41]]
+
+^<<v40-10-41,41>>^ Quem receber um profeta porque ele é profeta receberá a recompensa de um profeta, e quem receber um homem justo porque ele é homem justo receberá a recompensa de um homem justo.
+
+[[v40-10-42]]
+
+^<<v40-10-42,42>>^ E quem der a um destes pequenos ainda que seja um copo de água fria para beber, porque ele é discípulo, garanto a vocês que de modo algum perderá a sua recompensa.”
+
+'''
+
+xref:040-mateus/040-mateus-009.adoc#v40-9-0[&#60; Capítulo Anterior] | <<v40-10-0,Topo>> | xref:040-mateus/040-mateus-011.adoc#v40-11-0[Próximo Capítulo &#62;]

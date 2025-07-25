@@ -1,0 +1,82 @@
+include::./index.adoc[]
+
+[[v19-76-0]]
+=== Salmos, 76
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Ao regente; para ser acompanhado com instrumentos de cordas. Salmo de Asafe. Cântico._
+
+[[v19-76-1]]
+
+^<<v19-76-1,1>>^ Deus é conhecido em Judá;
+Em Israel seu nome é grande.
+
+[[v19-76-2]]
+
+^<<v19-76-2,2>>^ Seu abrigo está em Salém,
+E sua morada em Sião.
+
+[[v19-76-3]]
+
+^<<v19-76-3,3>>^ Ali destroçou as flechas ardentes do arco,
+O escudo, a espada e as armas de guerra. (Selá)
+
+[[v19-76-4]]
+
+^<<v19-76-4,4>>^ Resplandeces gloriosamente;^&#42;1^
+És mais majestoso do que montanhas cheias de caça.
+
+[NOTE]
+====
+. Ou: “Estás coberto de luz”.
+====
+
+[[v19-76-5]]
+
+^<<v19-76-5,5>>^ Os valentes de coração foram saqueados.
+Eles caíram no sono;
+Todos os guerreiros ficaram indefesos.
+
+[[v19-76-6]]
+
+^<<v19-76-6,6>>^ Diante da tua censura, ó Deus de Jacó,
+Tanto os condutores dos carros como os cavalos caíram num sono profundo.
+
+[[v19-76-7]]
+
+^<<v19-76-7,7>>^ Somente tu és atemorizante.
+Quem pode resistir à tua forte ira?
+
+[[v19-76-8]]
+
+^<<v19-76-8,8>>^ Do céu pronunciaste a sentença;
+A terra ficou com medo e em silêncio
+
+[[v19-76-9]]
+
+^<<v19-76-9,9>>^ Quando Deus se levantou para executar o julgamento,
+Para salvar todos os mansos da terra. (Selá)
+
+[[v19-76-10]]
+
+^<<v19-76-10,10>>^ Pois o furor do homem resultará em louvor para ti;
+A última expressão de furor deles te servirá de adorno.
+
+[[v19-76-11]]
+
+^<<v19-76-11,11>>^ Façam seus votos a Jeová, seu Deus, e cumpram-nos; 
+Que todos os que estão em volta dele tragam sua dádiva com temor.
+
+[[v19-76-12]]
+
+^<<v19-76-12,12>>^ Ele rebaixará o orgulho^&#42;1^ de líderes;
+Ele inspira medo nos reis da terra.
+
+[NOTE]
+====
+. Lit.: “espírito”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-075.adoc#v19-75-0[&#60; Capítulo Anterior] | <<v19-76-0,Topo>> | xref:019-salmo/019-salmo-077.adoc#v19-77-0[Próximo Capítulo &#62;]

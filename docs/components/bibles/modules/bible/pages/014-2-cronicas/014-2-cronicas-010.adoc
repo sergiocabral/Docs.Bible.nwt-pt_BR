@@ -1,0 +1,110 @@
+include::./index.adoc[]
+
+[[v14-10-0]]
+=== O Segundo das Crônicas, 10
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v14-10-1]]
+
+^<<v14-10-1,1>>^ Roboão foi a Siquém, pois todo o Israel tinha ido a Siquém para fazê-lo rei.
+
+[[v14-10-2]]
+
+^<<v14-10-2,2>>^ Quando Jeroboão, filho de Nebate, ficou sabendo disso, voltou imediatamente do Egito (Jeroboão ainda estava no Egito, pois havia fugido por causa do rei Salomão).
+
+[[v14-10-3]]
+
+^<<v14-10-3,3>>^ Então mandaram chamá-lo; e Jeroboão e todo o Israel foram a Roboão e disseram:
+
+[[v14-10-4]]
+
+^<<v14-10-4,4>>^ “Seu pai tornou duro o nosso jugo. Mas, se o senhor aliviar o serviço duro e tornar mais leve o jugo pesado^&#42;1^ que o seu pai colocou sobre nós, nós serviremos o senhor.”
+
+[NOTE]
+====
+. Ou: “opressivo”.
+====
+
+[[v14-10-5]]
+
+^<<v14-10-5,5>>^ Então ele lhes disse: “Voltem a mim daqui a três dias.” Portanto, o povo foi embora.
+
+[[v14-10-6]]
+
+^<<v14-10-6,6>>^ O rei Roboão consultou então os homens mais velhos^&#42;1^ que haviam servido como conselheiros de Salomão, seu pai, durante a sua vida. Ele perguntou: “O que aconselham que eu responda a este povo?”
+
+[NOTE]
+====
+. Ou: “os anciãos”.
+====
+
+[[v14-10-7]]
+
+^<<v14-10-7,7>>^ Eles responderam: “Se o senhor for bom com este povo, fizer o que eles querem e lhes der uma resposta favorável, eles sempre serão seus servos.”
+
+[[v14-10-8]]
+
+^<<v14-10-8,8>>^ No entanto, ele rejeitou o conselho dos homens mais velhos^&#42;1^ e consultou os jovens que haviam crescido com ele e que agora eram seus ajudantes.
+
+[NOTE]
+====
+. Ou: “dos anciãos”.
+====
+
+[[v14-10-9]]
+
+^<<v14-10-9,9>>^ Ele lhes perguntou: “Que conselho vocês me dão? Como devemos responder a este povo que me disse: ‘Torne mais leve o jugo que o seu pai colocou sobre nós’?”
+
+[[v14-10-10]]
+
+^<<v14-10-10,10>>^ Os jovens que haviam crescido com ele responderam: “Ao povo que lhe disse: ‘Seu pai tornou pesado o nosso jugo, mas o senhor deve torná-lo mais leve para nós’, o senhor deve dizer o seguinte: ‘Meu dedo mínimo será mais grosso do que a cintura do meu pai.
+
+[[v14-10-11]]
+
+^<<v14-10-11,11>>^ Meu pai lhes impôs um jugo pesado, mas eu o tornarei ainda mais pesado. Meu pai castigou vocês com chicotes, mas eu o farei com chicotes farpados.’”
+
+[[v14-10-12]]
+
+^<<v14-10-12,12>>^ Jeroboão e todo o povo foram a Roboão no terceiro dia, assim como o rei tinha dito: “Voltem a mim daqui a três dias.”
+
+[[v14-10-13]]
+
+^<<v14-10-13,13>>^ Mas o rei lhes deu uma resposta dura. Assim, o rei Roboão rejeitou o conselho dos homens mais velhos.^&#42;1^
+
+[NOTE]
+====
+. Ou: “dos anciãos”.
+====
+
+[[v14-10-14]]
+
+^<<v14-10-14,14>>^ Seguindo o conselho dos jovens, ele disse: “Eu tornarei mais pesado o seu jugo, sim, eu o tornarei ainda mais pesado. Meu pai castigou vocês com chicotes, mas eu o farei com chicotes farpados.”
+
+[[v14-10-15]]
+
+^<<v14-10-15,15>>^ Assim, o rei não escutou o povo, porque o que estava acontecendo era da parte do verdadeiro Deus, a fim de que se cumprisse a palavra que Jeová tinha falado por meio de Aías, o silonita, a Jeroboão, filho de Nebate.
+
+[[v14-10-16]]
+
+^<<v14-10-16,16>>^ Visto que o rei não quis escutar o povo, todo o Israel disse ao rei: “Que parte nós temos com Davi? Não temos herança com o filho de Jessé! Cada um para os seus deuses, ó Israel! Agora cuide da sua própria casa, ó Davi!” Com isso todo o Israel voltou para as suas casas.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “tendas”.
+====
+
+[[v14-10-17]]
+
+^<<v14-10-17,17>>^ Mas Roboão continuou a reinar sobre os israelitas que moravam nas cidades de Judá.
+
+[[v14-10-18]]
+
+^<<v14-10-18,18>>^ Então o rei Roboão lhes enviou Hadorão, que supervisionava os convocados para trabalho obrigatório, mas os israelitas o apedrejaram até a morte. O rei Roboão conseguiu subir no seu carro de guerra e fugiu para Jerusalém.
+
+[[v14-10-19]]
+
+^<<v14-10-19,19>>^ Assim os israelitas se rebelaram contra a casa de Davi e continuam assim até hoje.
+
+'''
+
+xref:014-2-cronicas/014-2-cronicas-009.adoc#v14-9-0[&#60; Capítulo Anterior] | <<v14-10-0,Topo>> | xref:014-2-cronicas/014-2-cronicas-011.adoc#v14-11-0[Próximo Capítulo &#62;]

@@ -1,0 +1,62 @@
+include::./index.adoc[]
+
+[[v19-14-0]]
+=== Salmos, 14
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Ao regente. De Davi._
+
+[[v19-14-1]]
+
+^<<v19-14-1,1>>^ O tolo^&#42;1^ diz no coração:
+“Não há Jeová.”
+Suas ações são corruptas, e sua conduta é detestável;
+Não há quem faça o bem.
+
+[NOTE]
+====
+. Ou: “insensato”.
+====
+
+[[v19-14-2]]
+
+^<<v19-14-2,2>>^ Mas Jeová olha para baixo, desde o céu, para os filhos dos homens,
+Para ver se alguém tem entendimento,^&#42;1^ se alguém está buscando a Jeová.
+
+[NOTE]
+====
+. Ou: “perspicácia”.
+====
+
+[[v19-14-3]]
+
+^<<v19-14-3,3>>^ Todos se desviaram;
+Todos são corruptos.
+Não há quem faça o bem,
+Nem sequer um.
+
+[[v19-14-4]]
+
+^<<v19-14-4,4>>^ Será que nenhum dos malfeitores entende?
+Eles devoram o meu povo como se comessem pão.
+Não invocam a Jeová.
+
+[[v19-14-5]]
+
+^<<v19-14-5,5>>^ Mas eles ficarão tomados de terror,
+Pois Jeová está com a geração dos justos.
+
+[[v19-14-6]]
+
+^<<v19-14-6,6>>^ Vocês, malfeitores, tentam frustrar os planos do humilde,
+Mas Jeová é o refúgio dele.
+
+[[v19-14-7]]
+
+^<<v19-14-7,7>>^ Que a salvação de Israel venha de Sião!
+Quando Jeová trouxer de volta seu povo cativo,
+Que Jacó exulte, que Israel se alegre.
+
+'''
+
+xref:019-salmo/019-salmo-013.adoc#v19-13-0[&#60; Capítulo Anterior] | <<v19-14-0,Topo>> | xref:019-salmo/019-salmo-015.adoc#v19-15-0[Próximo Capítulo &#62;]

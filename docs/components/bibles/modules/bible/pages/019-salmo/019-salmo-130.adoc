@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v19-130-0]]
+=== Salmos, 130
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Cântico das Subidas._
+
+[[v19-130-1]]
+
+^<<v19-130-1,1>>^ Das profundezas clamo a ti, ó Jeová.
+
+[[v19-130-2]]
+
+^<<v19-130-2,2>>^ Ó Jeová, ouve a minha voz.
+Que os teus ouvidos prestem atenção às minhas súplicas por ajuda.
+
+[[v19-130-3]]
+
+^<<v19-130-3,3>>^ Se vigiasses^&#42;1^ os erros, ó Jah,^&#42;2^
+Quem, ó Jeová, poderia ficar de pé?
+
+[NOTE]
+====
+. Ou: “registrasses”.
+. “Jah” é uma forma reduzida do nome Jeová.
+====
+
+[[v19-130-4]]
+
+^<<v19-130-4,4>>^ Pois contigo está o verdadeiro perdão,
+Para que sejas reverenciado.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “sejas temido”.
+====
+
+[[v19-130-5]]
+
+^<<v19-130-5,5>>^ Tenho esperança em Jeová, todo o meu ser^&#42;1^ tem esperança nele;
+Eu espero pela palavra dele.
+
+[NOTE]
+====
+. Ou: “minha alma”.
+====
+
+[[v19-130-6]]
+
+^<<v19-130-6,6>>^ Espero^&#42;1^ ansiosamente por Jeová,
+Mais do que os vigias esperam pelo amanhecer,
+Sim, mais do que os vigias pelo amanhecer.
+
+[NOTE]
+====
+. Ou: “Minha alma espera”.
+====
+
+[[v19-130-7]]
+
+^<<v19-130-7,7>>^ Que Israel continue esperando por Jeová,
+Pois Jeová é leal no seu amor
+E tem grande poder de redenção.
+
+[[v19-130-8]]
+
+^<<v19-130-8,8>>^ Ele remirá^&#42;1^ Israel de todos os seus erros.
+
+[NOTE]
+====
+. Ou: “livrará”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-129.adoc#v19-129-0[&#60; Capítulo Anterior] | <<v19-130-0,Topo>> | xref:019-salmo/019-salmo-131.adoc#v19-131-0[Próximo Capítulo &#62;]

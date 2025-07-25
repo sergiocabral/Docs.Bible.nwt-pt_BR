@@ -1,0 +1,143 @@
+include::./index.adoc[]
+
+[[v23-21-0]]
+=== Isaías, 21
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v23-21-1]]
+
+^<<v23-21-1,1>>^ Proclamação contra o deserto do mar:^&#42;1^
+Como os vendavais que varrem o sul, uma calamidade está chegando,
+Do deserto, de uma terra assustadora.
+
+[NOTE]
+====
+. Aparentemente se refere à região da antiga Babilônia.
+====
+
+[[v23-21-2]]
+
+^<<v23-21-2,2>>^ Foi-me revelada uma visão dura:
+A nação traiçoeira age traiçoeiramente,
+E a nação destruidora destrói.
+Avance, ó Elão! Feche o cerco, ó Média!
+Porei fim a todos os gemidos que ela causou.
+
+[[v23-21-3]]
+
+^<<v23-21-3,3>>^ Por causa dessa visão, estou muito angustiado.^&#42;1^
+Fui tomado de dores,
+Como as dores de uma mulher que está dando à luz.
+Estou aflito demais para ouvir;
+Estou perturbado demais para ver.
+
+[NOTE]
+====
+. Lit.: “meus quadris estão cheios de dor”.
+====
+
+[[v23-21-4]]
+
+^<<v23-21-4,4>>^ Meu coração está palpitando; tremo de medo.
+O anoitecer, que eu tanto esperava, me faz tremer.
+
+[[v23-21-5]]
+
+^<<v23-21-5,5>>^ Ponham a mesa e arrumem os assentos!
+Comam e bebam! 
+Levantem-se, ó príncipes, unjam o^&#42;1^ escudo!
+
+[NOTE]
+====
+. Ou: “passem óleo no”.
+====
+
+[[v23-21-6]]
+
+^<<v23-21-6,6>>^ Pois assim me disse Jeová:
+“Vá, coloque um vigia para que informe o que vê.”
+
+[[v23-21-7]]
+
+^<<v23-21-7,7>>^ E ele viu um carro de guerra puxado por dois cavalos,
+Um carro de guerra puxado por jumentos,
+Um carro de guerra puxado por camelos.
+Ele prestou atenção, muita atenção.
+
+[[v23-21-8]]
+
+^<<v23-21-8,8>>^ Então ele clamou como um leão:
+“Ó Jeová, sobre a torre de vigia estou de pé continuamente durante o dia,
+E estou no meu posto de vigilância todas as noites.
+
+[[v23-21-9]]
+
+^<<v23-21-9,9>>^ Vejam o que está chegando:
+Homens num carro de guerra puxado por dois cavalos!”
+Então ele disse:
+“Ela caiu! Babilônia caiu!
+Todas as imagens esculpidas dos seus deuses estão despedaçadas no chão!”
+
+[[v23-21-10]]
+
+^<<v23-21-10,10>>^ Ó meu povo, que foi debulhado,
+Produto^&#42;1^ da minha eira,
+Eu lhes comuniquei o que ouvi da parte de Jeová dos exércitos, o Deus de Israel.
+
+[NOTE]
+====
+. Lit.: “Filho”.
+====
+
+[[v23-21-11]]
+
+^<<v23-21-11,11>>^ Proclamação contra Dumá:^&#42;1^
+Alguém grita para mim lá de Seir:
+“Vigia, como está a noite?
+Vigia, como está a noite?”
+
+[NOTE]
+====
+. Que significa “silêncio”.
+====
+
+[[v23-21-12]]
+
+^<<v23-21-12,12>>^ O vigia diz:
+“A manhã está chegando, e a noite também.
+Se quiserem perguntar, perguntem.
+Venham outra vez!”
+
+[[v23-21-13]]
+
+^<<v23-21-13,13>>^ Proclamação contra a planície desértica:
+Vocês passarão a noite num bosque na planície desértica,
+Ó caravanas de Dedã.
+
+[[v23-21-14]]
+
+^<<v23-21-14,14>>^ Ó habitantes da terra de Tema,
+Levem água para o sedento,
+E levem pão para aquele que foge.
+
+[[v23-21-15]]
+
+^<<v23-21-15,15>>^ Pois eles fugiram da espada, da espada desembainhada,
+Do arco pronto para atirar, e da crueldade da batalha.
+
+[[v23-21-16]]
+
+^<<v23-21-16,16>>^ Pois assim me disse Jeová: “Dentro de um ano, como os anos de um trabalhador contratado,^&#42;1^ toda a glória de Quedar chegará ao fim.
+
+[NOTE]
+====
+. Ou: “contado meticulosamente, como faz um trabalhador contratado”; isto é, em exatamente um ano.
+====
+
+[[v23-21-17]]
+
+^<<v23-21-17,17>>^ Os arqueiros que restarem dentre os guerreiros de Quedar serão poucos, pois Jeová, o Deus de Israel, falou isso.”
+
+'''
+
+xref:023-isaias/023-isaias-020.adoc#v23-20-0[&#60; Capítulo Anterior] | <<v23-21-0,Topo>> | xref:023-isaias/023-isaias-022.adoc#v23-22-0[Próximo Capítulo &#62;]

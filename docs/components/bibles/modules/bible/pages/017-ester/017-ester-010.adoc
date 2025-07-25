@@ -1,0 +1,27 @@
+include::./index.adoc[]
+
+[[v17-10-0]]
+=== Ester, 10
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v17-10-1]]
+
+^<<v17-10-1,1>>^ O rei Assuero impôs trabalhos forçados no continente e nas ilhas do mar.
+
+[[v17-10-2]]
+
+^<<v17-10-2,2>>^ Quanto a todas as suas grandes e poderosas realizações, assim como o relato detalhado da grandeza com que o rei exaltou a Mordecai, não estão escritos no livro da história da época dos reis da Média e da Pérsia?
+
+[[v17-10-3]]
+
+^<<v17-10-3,3>>^ Pois Mordecai, o judeu, era o segundo no reino, abaixo apenas do rei Assuero. Ele era considerado grande^&#42;1^ entre os judeus e era respeitado por todos os seus irmãos. Trabalhava para o bem do seu povo e promovia o bem-estar de^&#42;2^ todos os descendentes deles.
+
+[NOTE]
+====
+. Ou: “era muito bem conceituado”.
+. Lit.: “e falava paz em favor de”.
+====
+
+'''
+
+xref:017-ester/017-ester-009.adoc#v17-9-0[&#60; Capítulo Anterior] | <<v17-10-0,Topo>> | xref:018-jo/018-jo-001.adoc#v18-1-0[Próximo Capítulo &#62;]

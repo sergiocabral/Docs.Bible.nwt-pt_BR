@@ -1,0 +1,86 @@
+include::./index.adoc[]
+
+[[v9-21-0]]
+=== O Primeiro de Samuel, 21
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v9-21-1]]
+
+^<<v9-21-1,1>>^ Mais tarde, Davi foi a Nobe, a Aimeleque, o sacerdote. Ao se encontrar com Davi, Aimeleque começou a tremer de medo e lhe perguntou: “Por que você está sozinho? Por que não veio ninguém com você?”
+
+[[v9-21-2]]
+
+^<<v9-21-2,2>>^ Davi disse a Aimeleque, o sacerdote: “O rei me instruiu a fazer algo, mas disse: ‘Não deixe ninguém ficar sabendo de nada sobre a missão para a qual estou lhe enviando nem sobre as instruções que lhe dei.’ Por isso, combinei com meus homens para nos encontrar em determinado lugar.
+
+[[v9-21-3]]
+
+^<<v9-21-3,3>>^ Agora, se o senhor tiver cinco pães ou qualquer outra coisa, entregue-os a mim.”
+
+[[v9-21-4]]
+
+^<<v9-21-4,4>>^ Mas o sacerdote disse a Davi: “Não tenho pão comum, apenas pão sagrado; podem comê-lo, desde que os seus homens não tenham tido contato com mulheres.”^&#42;1^
+
+[NOTE]
+====
+. Ou: “não tenham tido relações sexuais”.
+====
+
+[[v9-21-5]]
+
+^<<v9-21-5,5>>^ Davi disse ao sacerdote: “Pode ter certeza de que as mulheres foram mantidas longe de nós como das outras vezes, quando saímos em campanhas militares. Se os homens se mantêm puros mesmo quando a missão é comum, quanto mais hoje!”
+
+[[v9-21-6]]
+
+^<<v9-21-6,6>>^ Assim, o sacerdote lhe deu os pães sagrados, pois só havia ali os pães da proposição, que tinham sido tirados da presença de Jeová e substituídos por pão fresco no dia em que se tiravam os pães.
+
+[[v9-21-7]]
+
+^<<v9-21-7,7>>^ Naquele dia, um dos servos de Saul estava ali, retido perante Jeová. Seu nome era Doegue, o edomita, chefe dos pastores de Saul.
+
+[[v9-21-8]]
+
+^<<v9-21-8,8>>^ Davi perguntou então a Aimeleque: “O senhor não tem aqui uma lança ou uma espada? Eu não trouxe nem minha espada nem minhas armas, visto que a missão do rei era urgente.”
+
+[[v9-21-9]]
+
+^<<v9-21-9,9>>^ O sacerdote respondeu: “Tenho a espada de Golias, o filisteu, que você matou no vale^&#42;1^ de Elá. Está aqui, enrolada num pano, atrás do éfode. Se quiser pegá-la para você, pegue, porque é a única que há aqui.” Davi disse: “Dê-me essa espada, pois não existe outra igual a ela.”
+
+[NOTE]
+====
+. Ou: “na baixada”.
+====
+
+[[v9-21-10]]
+
+^<<v9-21-10,10>>^ Naquele dia, Davi partiu e continuou a fugir de Saul, e por fim chegou ao território de Aquis, rei de Gate.
+
+[[v9-21-11]]
+
+^<<v9-21-11,11>>^ Os servos de Aquis disseram a ele: “Esse não é Davi, rei da terra de Israel? Não foi sobre ele que cantavam nas danças, dizendo:
+‘Saul matou milhares,
+E Davi dezenas de milhares’?”
+
+[[v9-21-12]]
+
+^<<v9-21-12,12>>^ Pensando no que eles disseram, Davi ficou com muito medo de Aquis, rei de Gate.
+
+[[v9-21-13]]
+
+^<<v9-21-13,13>>^ Portanto, na presença deles, disfarçou a sua sanidade e agiu como louco no meio deles.^&#42;1^ Ele rabiscava os portões e deixava escorrer saliva sobre a barba.
+
+[NOTE]
+====
+. Lit.: “na mão deles”.
+====
+
+[[v9-21-14]]
+
+^<<v9-21-14,14>>^ Por fim, Aquis disse aos seus servos: “Não estão vendo que este homem é louco? Por que o trouxeram a mim?
+
+[[v9-21-15]]
+
+^<<v9-21-15,15>>^ Já não tenho loucos o bastante para vocês me trazerem mais um? Deveria este homem entrar na minha casa?”
+
+'''
+
+xref:009-1-samuel/009-1-samuel-020.adoc#v9-20-0[&#60; Capítulo Anterior] | <<v9-21-0,Topo>> | xref:009-1-samuel/009-1-samuel-022.adoc#v9-22-0[Próximo Capítulo &#62;]

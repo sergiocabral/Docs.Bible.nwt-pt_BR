@@ -1,0 +1,287 @@
+include::./index.adoc[]
+
+[[v19-105-0]]
+=== Salmos, 105
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v19-105-1]]
+
+^<<v19-105-1,1>>^ Agradeçam a Jeová, invoquem o seu nome,
+Tornem os seus feitos conhecidos entre os povos!
+
+[[v19-105-2]]
+
+^<<v19-105-2,2>>^ Cantem a ele, cantem louvores^&#42;1^ a ele,
+Meditem em^&#42;2^ todos os seus atos maravilhosos.
+
+[NOTE]
+====
+. Ou: “façam música”.
+. Ou, possivelmente: “Falem sobre”.
+====
+
+[[v19-105-3]]
+
+^<<v19-105-3,3>>^ Falem com orgulho do Seu santo nome.
+Que se alegre o coração dos que procuram a Jeová.
+
+[[v19-105-4]]
+
+^<<v19-105-4,4>>^ Busquem a Jeová e a sua força.
+Procurem constantemente a sua face.^&#42;1^
+
+[NOTE]
+====
+. Ou: “presença”.
+====
+
+[[v19-105-5]]
+
+^<<v19-105-5,5>>^ Lembrem-se dos atos maravilhosos que ele realizou,
+Dos seus milagres e dos julgamentos que proferiu,
+
+[[v19-105-6]]
+
+^<<v19-105-6,6>>^ Ó descendência^&#42;1^ de Abraão, servo de Deus,
+Ó filhos de Jacó, Seus escolhidos.
+
+[NOTE]
+====
+. Ou: “descendentes”. Lit.: “semente”.
+====
+
+[[v19-105-7]]
+
+^<<v19-105-7,7>>^ Ele é Jeová, nosso Deus.
+Seus julgamentos estão em toda a terra.
+
+[[v19-105-8]]
+
+^<<v19-105-8,8>>^ Ele se lembra do seu pacto para sempre;
+Por mil gerações, da promessa que fez;^&#42;1^
+
+[NOTE]
+====
+. Lit.: “da palavra que ordenou”.
+====
+
+[[v19-105-9]]
+
+^<<v19-105-9,9>>^ Do pacto que fez com Abraão,
+Do juramento que fez a Isaque,
+
+[[v19-105-10]]
+
+^<<v19-105-10,10>>^ Juramento que ele estabeleceu como decreto para Jacó
+E como pacto permanente para Israel,
+
+[[v19-105-11]]
+
+^<<v19-105-11,11>>^ Dizendo: “Darei a você a terra de Canaã,
+Como sua herança designada.”
+
+[[v19-105-12]]
+
+^<<v19-105-12,12>>^ Isso aconteceu quando eles eram poucos em número,
+Sim, muito poucos, e eram estrangeiros naquela terra.
+
+[[v19-105-13]]
+
+^<<v19-105-13,13>>^ Eles andaram de nação em nação,
+De reino em reino.
+
+[[v19-105-14]]
+
+^<<v19-105-14,14>>^ Ele não permitiu que nenhum homem os oprimisse,
+Mas por causa deles repreendeu reis,
+
+[[v19-105-15]]
+
+^<<v19-105-15,15>>^ Dizendo: “Não toquem nos meus ungidos,
+Não façam nada de mau aos meus profetas.”
+
+[[v19-105-16]]
+
+^<<v19-105-16,16>>^ Mandou vir uma fome sobre a terra;
+Cortou o seu suprimento de pão.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “Quebrou todos os bastões de pão”. Possivelmente se refere aos bastões em que se penduravam pães em forma de anel.
+====
+
+[[v19-105-17]]
+
+^<<v19-105-17,17>>^ Enviou na frente deles um homem
+Que foi vendido como escravo, José.
+
+[[v19-105-18]]
+
+^<<v19-105-18,18>>^ Seus pés foram presos^&#42;1^ com correntes,
+Puseram-lhe ferros no pescoço;^&#42;2^
+
+[NOTE]
+====
+. Lit.: “afligidos”.
+. Ou: “Sua alma entrou em ferros”.
+====
+
+[[v19-105-19]]
+
+^<<v19-105-19,19>>^ Até o tempo em que a sua palavra se cumpriu,
+A declaração de Jeová é que o refinou.
+
+[[v19-105-20]]
+
+^<<v19-105-20,20>>^ O rei mandou soltá-lo;
+O governante dos povos o libertou.
+
+[[v19-105-21]]
+
+^<<v19-105-21,21>>^ Ele o constituiu senhor da sua casa,
+Administrador de todos os seus bens,
+
+[[v19-105-22]]
+
+^<<v19-105-22,22>>^ Para que exercesse autoridade sobre^&#42;1^ os seus príncipes conforme quisesse,^&#42;2^
+E ensinasse sabedoria aos seus anciãos.
+
+[NOTE]
+====
+. Lit.: “Para prender”.
+. Ou: “ao agrado da sua alma”.
+====
+
+[[v19-105-23]]
+
+^<<v19-105-23,23>>^ Então Israel entrou no Egito;
+Jacó viveu como estrangeiro na terra de Cã.
+
+[[v19-105-24]]
+
+^<<v19-105-24,24>>^ Deus tornou seu povo muito numeroso;
+Tornou-o mais forte do que os seus adversários,
+
+[[v19-105-25]]
+
+^<<v19-105-25,25>>^ E deixou o coração destes mudar para que odiassem o seu povo
+E tramassem contra os seus servos.
+
+[[v19-105-26]]
+
+^<<v19-105-26,26>>^ Enviou seu servo Moisés,
+E Arão, a quem tinha escolhido;
+
+[[v19-105-27]]
+
+^<<v19-105-27,27>>^ Realizaram os Seus sinais entre eles,
+Seus milagres na terra de Cã.
+
+[[v19-105-28]]
+
+^<<v19-105-28,28>>^ Deus enviou escuridão, e aquela terra ficou escura;
+Eles não se rebelaram contra as suas palavras.
+
+[[v19-105-29]]
+
+^<<v19-105-29,29>>^ Transformou as suas águas em sangue
+E matou os seus peixes.
+
+[[v19-105-30]]
+
+^<<v19-105-30,30>>^ A terra deles ficou infestada de rãs,
+Até nos aposentos reais.
+
+[[v19-105-31]]
+
+^<<v19-105-31,31>>^ Ele mandou que moscões
+E mosquitos invadissem todos os seus territórios.
+
+[[v19-105-32]]
+
+^<<v19-105-32,32>>^ Transformou a chuva deles em granizo
+E enviou raios^&#42;1^ à sua terra.
+
+[NOTE]
+====
+. Ou: “chamas de fogo”.
+====
+
+[[v19-105-33]]
+
+^<<v19-105-33,33>>^ Atingiu suas videiras e suas figueiras
+E destroçou as árvores do seu território.
+
+[[v19-105-34]]
+
+^<<v19-105-34,34>>^ Ele mandou uma invasão de gafanhotos,
+Gafanhotos jovens, sem número.
+
+[[v19-105-35]]
+
+^<<v19-105-35,35>>^ Eles devoraram toda a vegetação daquela terra
+E devoraram a produção do solo.
+
+[[v19-105-36]]
+
+^<<v19-105-36,36>>^ Então ele matou todos os primogênitos da terra deles,
+Os primeiros frutos da sua faculdade reprodutiva.
+
+[[v19-105-37]]
+
+^<<v19-105-37,37>>^ Fez o seu povo sair com prata e ouro;
+E ninguém entre as suas tribos tropeçou.
+
+[[v19-105-38]]
+
+^<<v19-105-38,38>>^ O Egito se alegrou quando saíram,
+Pois havia caído sobre eles o pavor de Israel.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “deles”.
+====
+
+[[v19-105-39]]
+
+^<<v19-105-39,39>>^ Deus estendeu uma nuvem para protegê-los,
+E com um fogo iluminava-os à noite.
+
+[[v19-105-40]]
+
+^<<v19-105-40,40>>^ Eles pediram, e ele lhes mandou codornizes;
+Ele continuou a saciá-los com o pão do céu.
+
+[[v19-105-41]]
+
+^<<v19-105-41,41>>^ Abriu uma rocha, e águas fluíram,
+Correram pelo deserto como um rio.
+
+[[v19-105-42]]
+
+^<<v19-105-42,42>>^ Pois ele se lembrou da santa promessa que havia feito a Abraão, seu servo.
+
+[[v19-105-43]]
+
+^<<v19-105-43,43>>^ Então fez seu povo sair com exultação;
+Seus escolhidos, com gritos de alegria.
+
+[[v19-105-44]]
+
+^<<v19-105-44,44>>^ Ele lhes deu as terras das nações;
+Eles herdaram o fruto do trabalho árduo de outros povos,
+
+[[v19-105-45]]
+
+^<<v19-105-45,45>>^ A fim de que guardassem os Seus decretos
+E obedecessem às Suas leis.
+Louvem a Jah!^&#42;1^
+
+[NOTE]
+====
+. Ou: “Aleluia!” “Jah” é uma forma reduzida do nome Jeová.
+====
+
+'''
+
+xref:019-salmo/019-salmo-104.adoc#v19-104-0[&#60; Capítulo Anterior] | <<v19-105-0,Topo>> | xref:019-salmo/019-salmo-106.adoc#v19-106-0[Próximo Capítulo &#62;]

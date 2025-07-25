@@ -1,0 +1,16 @@
+include::../index.adoc[]
+
+[[v31-0-0]]
+== Obadias
+
+[cols="8*^"]
+|===
+| xref:031-obadias/031-obadias-001.adoc#v31-1-0[1]
+|
+|
+|
+|
+|
+|
+|
+|===

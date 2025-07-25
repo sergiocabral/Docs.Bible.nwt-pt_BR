@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v46-3-0]]
+=== A Primeira aos Coríntios, 3
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v46-3-1]]
+
+^<<v46-3-1,1>>^ Assim, irmãos, não lhes pude falar como a homens espirituais, mas como a homens carnais, como a criancinhas em Cristo.
+
+[[v46-3-2]]
+
+^<<v46-3-2,2>>^ Eu os alimentei com leite, não com alimento sólido, pois vocês ainda não eram fortes o suficiente. De fato, nem mesmo agora são fortes o suficiente,
+
+[[v46-3-3]]
+
+^<<v46-3-3,3>>^ pois ainda são carnais. Visto que há entre vocês ciúme e brigas, não é verdade que são carnais e estão andando como homens?
+
+[[v46-3-4]]
+
+^<<v46-3-4,4>>^ Pois, quando um diz: “Eu pertenço a Paulo”, mas outro diz: “Eu a Apolo”, será que vocês não estão agindo como simples homens?
+
+[[v46-3-5]]
+
+^<<v46-3-5,5>>^ O que, então, é Apolo? Sim, o que é Paulo? Ministros por meio de quem vocês se tornaram crentes, assim como o Senhor concedeu a cada um.
+
+[[v46-3-6]]
+
+^<<v46-3-6,6>>^ Eu plantei, Apolo regou, mas Deus fazia crescer,
+
+[[v46-3-7]]
+
+^<<v46-3-7,7>>^ de modo que nem o que planta nem o que rega são alguma coisa, mas sim Deus, que faz crescer.
+
+[[v46-3-8]]
+
+^<<v46-3-8,8>>^ Quem planta e quem rega são um só,^&#42;1^ mas cada um receberá a sua própria recompensa, segundo o seu próprio trabalho.
+
+[NOTE]
+====
+. Ou: “têm um só propósito”.
+====
+
+[[v46-3-9]]
+
+^<<v46-3-9,9>>^ Pois somos colaboradores de Deus. Vocês são lavoura de Deus, edifício de Deus.
+
+[[v46-3-10]]
+
+^<<v46-3-10,10>>^ Segundo a bondade imerecida de Deus que me foi concedida, eu lancei um alicerce como construtor perito,^&#42;1^ mas outro constrói sobre ele. Que cada um, porém, preste atenção a como constrói sobre ele.
+
+[NOTE]
+====
+. Ou: “como sábio diretor de obras”.
+====
+
+[[v46-3-11]]
+
+^<<v46-3-11,11>>^ Pois ninguém pode lançar outro alicerce, a não ser o que já foi lançado, que é Jesus Cristo.
+
+[[v46-3-12]]
+
+^<<v46-3-12,12>>^ Ora, se alguém construir sobre o alicerce com ouro, prata, pedras preciosas, ou com madeira, feno, palha,
+
+[[v46-3-13]]
+
+^<<v46-3-13,13>>^ a qualidade da obra de cada um ficará evidente,^&#42;1^ pois o dia a porá à mostra; porque será revelada por meio de fogo, e o próprio fogo mostrará que tipo de obra cada um realizou.
+
+[NOTE]
+====
+. Lit.: “será tornada manifesta”.
+====
+
+[[v46-3-14]]
+
+^<<v46-3-14,14>>^ Se a obra que alguém construiu sobre o alicerce permanecer, ele receberá uma recompensa;
+
+[[v46-3-15]]
+
+^<<v46-3-15,15>>^ caso se queime a obra de alguém, ele sofrerá perda, mas ele mesmo será salvo; contudo, nesse caso, será como que através do fogo.
+
+[[v46-3-16]]
+
+^<<v46-3-16,16>>^ Vocês não sabem que são templo de Deus e que o espírito de Deus mora em vocês?
+
+[[v46-3-17]]
+
+^<<v46-3-17,17>>^ Se alguém destruir o templo de Deus, Deus o destruirá; pois o templo de Deus é santo, e vocês são esse templo.
+
+[[v46-3-18]]
+
+^<<v46-3-18,18>>^ Que ninguém engane a si mesmo: se alguém entre vocês pensa que é sábio neste sistema de coisas,^&#42;1^ torne-se tolo, para que se torne sábio.
+
+[NOTE]
+====
+. Ou: “nesta época”. Veja o Glossário.
+====
+
+[[v46-3-19]]
+
+^<<v46-3-19,19>>^ Porque a sabedoria deste mundo é tolice perante Deus, pois está escrito: “Ele apanha os sábios na sua própria astúcia.”
+
+[[v46-3-20]]
+
+^<<v46-3-20,20>>^ E também: “Jeová^&#42;1^ sabe que os raciocínios dos sábios são fúteis.”
+
+[NOTE]
+====
+. Veja Ap. A5.
+====
+
+[[v46-3-21]]
+
+^<<v46-3-21,21>>^ Assim, que ninguém ponha seu orgulho nos homens; porque a vocês pertence tudo:
+
+[[v46-3-22]]
+
+^<<v46-3-22,22>>^ quer Paulo, quer Apolo, quer Cefas,^&#42;1^ quer o mundo, quer a vida, quer a morte, quer as coisas presentes, quer as coisas por vir, tudo pertence a vocês;
+
+[NOTE]
+====
+. Também chamado de Pedro.
+====
+
+[[v46-3-23]]
+
+^<<v46-3-23,23>>^ vocês, por sua vez, pertencem a Cristo; Cristo, por sua vez, pertence a Deus.
+
+'''
+
+xref:046-1-corintios/046-1-corintios-002.adoc#v46-2-0[&#60; Capítulo Anterior] | <<v46-3-0,Topo>> | xref:046-1-corintios/046-1-corintios-004.adoc#v46-4-0[Próximo Capítulo &#62;]

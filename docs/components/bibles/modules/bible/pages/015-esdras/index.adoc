@@ -1,0 +1,24 @@
+include::../index.adoc[]
+
+[[v15-0-0]]
+== Esdras
+
+[cols="8*^"]
+|===
+| xref:015-esdras/015-esdras-001.adoc#v15-1-0[1]
+| xref:015-esdras/015-esdras-002.adoc#v15-2-0[2]
+| xref:015-esdras/015-esdras-003.adoc#v15-3-0[3]
+| xref:015-esdras/015-esdras-004.adoc#v15-4-0[4]
+| xref:015-esdras/015-esdras-005.adoc#v15-5-0[5]
+| xref:015-esdras/015-esdras-006.adoc#v15-6-0[6]
+| xref:015-esdras/015-esdras-007.adoc#v15-7-0[7]
+| xref:015-esdras/015-esdras-008.adoc#v15-8-0[8]
+| xref:015-esdras/015-esdras-009.adoc#v15-9-0[9]
+| xref:015-esdras/015-esdras-010.adoc#v15-10-0[10]
+|
+|
+|
+|
+|
+|
+|===

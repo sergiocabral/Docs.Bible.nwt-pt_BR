@@ -1,0 +1,304 @@
+include::./index.adoc[]
+
+[[v2-12-0]]
+=== Êxodo, 12
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v2-12-1]]
+
+^<<v2-12-1,1>>^ Então Jeová disse a Moisés e a Arão na terra do Egito:
+
+[[v2-12-2]]
+
+^<<v2-12-2,2>>^ “Este mês será o começo dos meses; será o primeiro mês do ano para vocês.
+
+[[v2-12-3]]
+
+^<<v2-12-3,3>>^ Diga a toda a assembleia de Israel: ‘No dia dez deste mês, cada um deve pegar um cordeiro para a sua família,^&#42;1^ um cordeiro por casa.
+
+[NOTE]
+====
+. Lit.: “casa de pais”.
+====
+
+[[v2-12-4]]
+
+^<<v2-12-4,4>>^ Mas, se a família for pequena demais para comer o cordeiro, eles o comerão^&#42;1^ na sua casa junto com o seu vizinho mais próximo, de acordo com o número de pessoas.^&#42;2^ Ao fazer o cálculo, determinem quanto do cordeiro cada um comerá.
+
+[NOTE]
+====
+. Ou: “ele o comerá”.
+. Ou: “almas”.
+====
+
+[[v2-12-5]]
+
+^<<v2-12-5,5>>^ O animal deve ser sadio, macho de um ano. Podem escolher um carneirinho ou um cabrito.
+
+[[v2-12-6]]
+
+^<<v2-12-6,6>>^ Ele será guardado até o dia 14 deste mês, e toda a congregação de Israel^&#42;1^ o abaterá entre o pôr do sol e a noite.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “toda a congregação da assembleia de Israel”.
+. Lit.: “entre os dois anoiteceres”.
+====
+
+[[v2-12-7]]
+
+^<<v2-12-7,7>>^ Pegarão um pouco do sangue e o aspergirão nas laterais^&#42;1^ e na viga superior da entrada das casas em que o comerem.
+
+[NOTE]
+====
+. Ou: “ombreiras”.
+====
+
+[[v2-12-8]]
+
+^<<v2-12-8,8>>^ “‘Naquela noite comerão a carne. Devem assá-la no fogo e comê-la com pães sem fermento e ervas amargas.
+
+[[v2-12-9]]
+
+^<<v2-12-9,9>>^ Não comam nada dessa carne nem crua nem cozida em água. Assem o animal inteiro no fogo, incluindo a cabeça, as pernas e as vísceras.
+
+[[v2-12-10]]
+
+^<<v2-12-10,10>>^ Não guardem nada para a manhã seguinte; mas, se sobrar alguma coisa na manhã seguinte, deve ser queimada no fogo.
+
+[[v2-12-11]]
+
+^<<v2-12-11,11>>^ É deste modo que devem comê-lo: com o cinto na cintura,^&#42;1^ as sandálias nos pés e o bastão na mão; e devem comê-lo às pressas. É a Páscoa de Jeová.
+
+[NOTE]
+====
+. Lit.: “com os seus quadris cingidos”.
+====
+
+[[v2-12-12]]
+
+^<<v2-12-12,12>>^ Pois naquela noite passarei pela terra do Egito e matarei todo primogênito na terra do Egito, desde homens até animais; e executarei o julgamento contra todos os deuses do Egito. Eu sou Jeová.
+
+[[v2-12-13]]
+
+^<<v2-12-13,13>>^ O sangue servirá de sinal para vocês nas casas em que estiverem; eu verei o sangue e passarei vocês por alto, e a praga não virá sobre vocês para destruí-los quando eu golpear a terra do Egito.
+
+[[v2-12-14]]
+
+^<<v2-12-14,14>>^ “‘Esse dia será para vocês um dia de recordação. Celebrem-no como festividade para Jeová por todas as suas gerações. Vocês devem celebrá-lo, pois é um decreto permanente.
+
+[[v2-12-15]]
+
+^<<v2-12-15,15>>^ Vocês devem comer pães sem fermento por sete dias. Sim, no primeiro dia devem retirar o fermento das suas casas, pois a pessoa^&#42;1^ que comer algo que tenha fermento, do primeiro ao sétimo dia, será eliminada de Israel.^&#42;2^
+
+[NOTE]
+====
+. Ou: “alma”.
+. Isto é, será morta.
+====
+
+[[v2-12-16]]
+
+^<<v2-12-16,16>>^ No primeiro dia realizarão um santo congresso, e no sétimo dia outro santo congresso. Não se deve fazer nenhum trabalho nesses dias. Só poderão preparar o que cada um^&#42;1^ precisar para comer.
+
+[NOTE]
+====
+. Ou: “cada alma”.
+====
+
+[[v2-12-17]]
+
+^<<v2-12-17,17>>^ “‘Celebrem a Festividade dos Pães sem Fermento, pois nesse mesmo dia tirarei as suas multidões^&#42;1^ da terra do Egito. E guardem esse dia por todas as suas gerações. Isso é um decreto permanente.
+
+[NOTE]
+====
+. Lit.: “os seus exércitos”.
+====
+
+[[v2-12-18]]
+
+^<<v2-12-18,18>>^ Vocês devem comer pães sem fermento no primeiro mês, do anoitecer do dia 14 do mês até o anoitecer do dia 21 do mês.
+
+[[v2-12-19]]
+
+^<<v2-12-19,19>>^ Por sete dias não se deve achar nenhum fermento nas suas casas, porque a pessoa^&#42;1^ que comer algo que tenha fermento, seja estrangeiro, seja israelita de nascimento, será eliminada da assembleia de Israel.^&#42;2^
+
+[NOTE]
+====
+. Ou: “alma”.
+. Isto é, será morta.
+====
+
+[[v2-12-20]]
+
+^<<v2-12-20,20>>^ Vocês não devem comer nada que tenha fermento. Em todas as casas devem comer pães sem fermento.’”
+
+[[v2-12-21]]
+
+^<<v2-12-21,21>>^ Moisés chamou prontamente todos os anciãos de Israel e lhes disse: “Escolham um animal do rebanho^&#42;1^ para cada família, e abatam o sacrifício pascoal.
+
+[NOTE]
+====
+. Isto é, um cordeiro ou um cabrito.
+====
+
+[[v2-12-22]]
+
+^<<v2-12-22,22>>^ Depois mergulhem um feixe de hissopo no sangue que estiver na bacia e marquem com o sangue a viga superior e as duas laterais da entrada^&#42;1^ da casa; e nenhum de vocês deve sair de casa até o amanhecer.
+
+[NOTE]
+====
+. Ou: “ombreiras”.
+====
+
+[[v2-12-23]]
+
+^<<v2-12-23,23>>^ Então, quando Jeová passar para ferir os egípcios e vir o sangue na viga superior e nas laterais da entrada,^&#42;1^ Jeová certamente passará por alto a entrada e não permitirá que a praga da morte^&#42;2^ entre nas suas casas.
+
+[NOTE]
+====
+. Ou: “ombreiras”.
+. Lit.: “a ruína”.
+====
+
+[[v2-12-24]]
+
+^<<v2-12-24,24>>^ “Celebrem essa ocasião; isso é um decreto permanente para vocês e para os seus filhos.
+
+[[v2-12-25]]
+
+^<<v2-12-25,25>>^ Quando vocês entrarem na terra que Jeová lhes dará, assim como ele declarou, realizem essa celebração.
+
+[[v2-12-26]]
+
+^<<v2-12-26,26>>^ E, quando os seus filhos lhes perguntarem: ‘O que significa esta celebração para vocês?’,
+
+[[v2-12-27]]
+
+^<<v2-12-27,27>>^ respondam: ‘É o sacrifício da Páscoa para Jeová, que passou por alto as casas dos israelitas no Egito, quando feriu os egípcios, mas poupou as nossas casas.’”
+Então o povo se curvou e se prostrou.
+
+[[v2-12-28]]
+
+^<<v2-12-28,28>>^ E os israelitas fizeram assim como Jeová havia ordenado a Moisés e a Arão. Fizeram exatamente assim.
+
+[[v2-12-29]]
+
+^<<v2-12-29,29>>^ Então, à meia-noite, Jeová matou todo primogênito na terra do Egito, desde o primogênito do Faraó que estava sentado no trono até o primogênito do cativo que se achava na prisão,^&#42;1^ e todo primogênito dos animais.
+
+[NOTE]
+====
+. Lit.: “casa da cisterna”.
+====
+
+[[v2-12-30]]
+
+^<<v2-12-30,30>>^ Naquela noite, Faraó se levantou, assim como todos os seus servos e todos os outros egípcios, e houve um grande clamor entre os egípcios, pois não havia casa em que não houvesse um morto.
+
+[[v2-12-31]]
+
+^<<v2-12-31,31>>^ Ele chamou imediatamente Moisés e Arão à noite e disse: “Saiam já do meio do meu povo, tanto vocês como os outros israelitas. Vão e sirvam a Jeová, assim como disseram.
+
+[[v2-12-32]]
+
+^<<v2-12-32,32>>^ Levem também os seus rebanhos de ovelhas e de bois, assim como disseram. Mas abençoem também a mim.”
+
+[[v2-12-33]]
+
+^<<v2-12-33,33>>^ E os egípcios começaram a pressionar o povo para que saíssem depressa do país, pois diziam: “A bem dizer já estamos todos mortos!”
+
+[[v2-12-34]]
+
+^<<v2-12-34,34>>^ Então o povo levou a massa de pão ainda sem fermento, e sobre os ombros levou as amassadeiras^&#42;1^ embrulhadas em suas roupas.
+
+[NOTE]
+====
+. Ou: “tigelas”.
+====
+
+[[v2-12-35]]
+
+^<<v2-12-35,35>>^ Os israelitas fizeram o que Moisés lhes havia falado e pediram aos egípcios artigos de prata e de ouro, bem como roupas.
+
+[[v2-12-36]]
+
+^<<v2-12-36,36>>^ Jeová deu ao povo favor aos olhos dos egípcios, de modo que estes lhes deram o que pediram; e eles despojaram os egípcios.
+
+[[v2-12-37]]
+
+^<<v2-12-37,37>>^ Os israelitas partiram então de Ramessés para Sucote, cerca de 600.000 homens a pé, além das crianças.
+
+[[v2-12-38]]
+
+^<<v2-12-38,38>>^ E com eles foi também um grande número de não israelitas,^&#42;1^ bem como grandes rebanhos de ovelhas e de bois.
+
+[NOTE]
+====
+. Ou: “uma vasta mistura de gente”. Isto é, um grande número de estrangeiros, incluindo egípcios.
+====
+
+[[v2-12-39]]
+
+^<<v2-12-39,39>>^ Com a massa que levaram do Egito, eles começaram a assar pães redondos sem fermento. Eram sem fermento porque eles haviam sido expulsos do Egito tão de repente que não tiveram tempo de preparar provisões para si.
+
+[[v2-12-40]]
+
+^<<v2-12-40,40>>^ O tempo de morada dos israelitas, que moraram no Egito, foi de 430 anos.
+
+[[v2-12-41]]
+
+^<<v2-12-41,41>>^ No dia em que se completaram os 430 anos, todas as multidões^&#42;1^ de Jeová saíram da terra do Egito.
+
+[NOTE]
+====
+. Lit.: “todos os exércitos”.
+====
+
+[[v2-12-42]]
+
+^<<v2-12-42,42>>^ Essa é uma noite em que celebrarão o fato de que Jeová os tirou da terra do Egito. É uma noite que todo o povo de Israel deve celebrar para Jeová, por todas as suas gerações.
+
+[[v2-12-43]]
+
+^<<v2-12-43,43>>^ Jeová disse a Moisés e a Arão: “Esta é a lei referente à Páscoa: nenhum estrangeiro pode comer da refeição pascoal.
+
+[[v2-12-44]]
+
+^<<v2-12-44,44>>^ Mas, se alguém tiver um escravo que foi comprado com dinheiro, este deve ser circuncidado. Só então ele poderá comer dela.
+
+[[v2-12-45]]
+
+^<<v2-12-45,45>>^ O colono e o trabalhador contratado não podem comer dela.
+
+[[v2-12-46]]
+
+^<<v2-12-46,46>>^ O cordeiro deve ser comido numa única casa. Não leve nada da carne para fora da casa, nem quebrem nenhum dos ossos.
+
+[[v2-12-47]]
+
+^<<v2-12-47,47>>^ Toda a assembleia de Israel deve celebrar a Páscoa.
+
+[[v2-12-48]]
+
+^<<v2-12-48,48>>^ Se um estrangeiro que mora entre vocês quiser celebrar a Páscoa para Jeová, todos os do sexo masculino da casa dele deverão ser circuncidados. Só então ele poderá se aproximar para participar da celebração, e ele se tornará como um israelita de nascimento. Mas nenhum incircunciso pode comer dela.
+
+[[v2-12-49]]
+
+^<<v2-12-49,49>>^ A mesma lei será aplicada tanto ao israelita como ao estrangeiro que mora entre vocês.”
+
+[[v2-12-50]]
+
+^<<v2-12-50,50>>^ Portanto, todos os israelitas fizeram assim como Jeová havia ordenado a Moisés e a Arão. Fizeram exatamente assim.
+
+[[v2-12-51]]
+
+^<<v2-12-51,51>>^ Naquele mesmo dia, Jeová tirou os israelitas e as suas multidões^&#42;1^ da terra do Egito.
+
+[NOTE]
+====
+. Lit.: “os seus exércitos”.
+====
+
+'''
+
+xref:002-exodo/002-exodo-011.adoc#v2-11-0[&#60; Capítulo Anterior] | <<v2-12-0,Topo>> | xref:002-exodo/002-exodo-013.adoc#v2-13-0[Próximo Capítulo &#62;]

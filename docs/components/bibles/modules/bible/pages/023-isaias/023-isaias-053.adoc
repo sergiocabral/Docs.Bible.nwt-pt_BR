@@ -1,0 +1,142 @@
+include::./index.adoc[]
+
+[[v23-53-0]]
+=== Isaías, 53
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v23-53-1]]
+
+^<<v23-53-1,1>>^ Quem depositou fé no que falamos?^&#42;1^
+E a quem foi revelado o braço de Jeová?
+
+[NOTE]
+====
+. Ou: “na coisa ouvida de nós”. Ou, possivelmente: “no que ouvimos”.
+====
+
+[[v23-53-2]]
+
+^<<v23-53-2,2>>^ Ele^&#42;1^ surgirá como um ramo novo perante ele,^&#42;2^ como uma raiz numa terra árida.
+Ele não tem uma figura imponente nem esplendor;
+E, aos nossos olhos, a sua aparência não é atraente.^&#42;3^
+
+[NOTE]
+====
+. Isto é, o “servo” mencionado em Isaías 52:13.
+. “Ele” pode se referir a um observador qualquer ou a Deus.
+. Ou: “não há nenhuma aparência especial para que o desejemos”.
+====
+
+[[v23-53-3]]
+
+^<<v23-53-3,3>>^ Ele foi desprezado e evitado pelos homens,
+Era um homem que sofreria^&#42;1^ a dor e que estava familiarizado com a doença.
+Era como se o seu rosto estivesse escondido de nós.^&#42;2^
+Ele foi desprezado e não o levamos em conta.
+
+[NOTE]
+====
+. Ou: “entendia”.
+. Ou, possivelmente: “Ele era como alguém de quem as pessoas desviavam o rosto.”
+====
+
+[[v23-53-4]]
+
+^<<v23-53-4,4>>^ Na verdade, ele mesmo carregou as nossas doenças
+E levou sobre si as nossas dores.
+Mas nós o considerávamos afligido, golpeado por Deus e atribulado.
+
+[[v23-53-5]]
+
+^<<v23-53-5,5>>^ No entanto, ele foi traspassado pelas nossas transgressões,
+Foi esmagado pelos nossos erros.
+Ele sofreu punição para que tivéssemos paz;
+E, por causa das suas feridas, fomos curados.
+
+[[v23-53-6]]
+
+^<<v23-53-6,6>>^ Todos nós andávamos como ovelhas perdidas,
+Cada um de nós seguia o seu próprio caminho;
+E Jeová fez com que os erros de todos nós recaíssem sobre ele.
+
+[[v23-53-7]]
+
+^<<v23-53-7,7>>^ Ele foi oprimido e deixou-se atribular,
+Mas não abriu a boca.
+Foi levado como um cordeiro ao abate,
+Como uma ovelha que fica em silêncio diante dos seus tosquiadores;
+E ele não abriu a boca.
+
+[[v23-53-8]]
+
+^<<v23-53-8,8>>^ Por causa de um julgamento injusto,^&#42;1^ ele foi levado embora;
+Quem se preocupará com os detalhes da sua geração?^&#42;2^
+Pois ele foi cortado da terra dos vivos;
+Por causa da transgressão do meu povo, ele sofreu o golpe.^&#42;3^
+
+[NOTE]
+====
+. Lit.: “da opressão e do julgamento”.
+. Ou: “do seu modo de vida”.
+. Ou: “foi ferido fatalmente”.
+====
+
+[[v23-53-9]]
+
+^<<v23-53-9,9>>^ Ele recebeu uma sepultura^&#42;1^ entre os maus;
+Ao morrer, foi enterrado entre os ricos,^&#42;2^
+Apesar de não ter feito nada de errado^&#42;3^
+E não ter havido falsidade na sua boca.
+
+[NOTE]
+====
+. Ou: “Alguém dará a sua sepultura”.
+. Lit.: “com um rico”.
+. Ou: “nenhuma violência”.
+====
+
+[[v23-53-10]]
+
+^<<v23-53-10,10>>^ Mas foi da vontade de Jeová^&#42;1^ esmagá-lo, ele o deixou adoecer.^&#42;2^
+Se tu apresentares a vida^&#42;3^ dele como oferta pela culpa,
+Ele verá a sua descendência,^&#42;4^ prolongará os seus dias
+E por meio dele será realizado o que agrada a^&#42;5^ Jeová.
+
+[NOTE]
+====
+. Ou: “Mas Jeová se agradou em”.
+. Ou: “sofrer”.
+. Ou: “alma”.
+. Lit.: “semente”.
+. Ou: “será realizada a vontade de”.
+====
+
+[[v23-53-11]]
+
+^<<v23-53-11,11>>^ Por causa da sua angústia,^&#42;1^ ele ficará satisfeito com o que verá.
+Por meio do seu conhecimento, o justo, meu servo,
+Trará uma posição justa a muitos,
+E ele levará os erros deles.
+
+[NOTE]
+====
+. Ou: “da aflição da sua alma”.
+====
+
+[[v23-53-12]]
+
+^<<v23-53-12,12>>^ Por isso lhe darei uma porção entre os muitos,
+E ele repartirá o despojo com os poderosos,
+Porque derramou a sua vida^&#42;1^ até a morte,
+E foi contado entre os transgressores;
+Ele carregou o pecado de muitos
+E intercedeu pelos transgressores.
+
+[NOTE]
+====
+. Ou: “alma”.
+====
+
+'''
+
+xref:023-isaias/023-isaias-052.adoc#v23-52-0[&#60; Capítulo Anterior] | <<v23-53-0,Topo>> | xref:023-isaias/023-isaias-054.adoc#v23-54-0[Próximo Capítulo &#62;]

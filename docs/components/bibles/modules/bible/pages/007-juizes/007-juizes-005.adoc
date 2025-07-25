@@ -1,0 +1,269 @@
+include::./index.adoc[]
+
+[[v7-5-0]]
+=== Juízes, 5
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v7-5-1]]
+
+^<<v7-5-1,1>>^ Naquele dia, Débora e Baraque, filho de Abinoão, cantaram este cântico:
+
+[[v7-5-2]]
+
+^<<v7-5-2,2>>^ “Por causa dos cabelos soltos^&#42;1^ em Israel,
+Por causa do povo que se ofereceu voluntariamente,
+Louvem a Jeová!
+
+[NOTE]
+====
+. Ou: “dos guerreiros com cabelos soltos”.
+====
+
+[[v7-5-3]]
+
+^<<v7-5-3,3>>^ Escutem, ó reis! Deem ouvidos, ó governantes!
+Eu cantarei a Jeová.
+Cantarei louvores^&#42;1^ a Jeová, o Deus de Israel.
+
+[NOTE]
+====
+. Ou: “Farei música”.
+====
+
+[[v7-5-4]]
+
+^<<v7-5-4,4>>^ Jeová, quando saíste de Seir,
+Quando marchaste desde o território de Edom,
+A terra tremeu, e chuvas caíram dos céus,
+As nuvens derramaram água.
+
+[[v7-5-5]]
+
+^<<v7-5-5,5>>^ Montes derreteram^&#42;1^ diante da face de Jeová,
+Até mesmo o Sinai, diante da face de Jeová, o Deus de Israel.
+
+[NOTE]
+====
+. Ou, possivelmente: “tremeram”.
+====
+
+[[v7-5-6]]
+
+^<<v7-5-6,6>>^ Nos dias de Sangar, filho de Anate,
+Nos dias de Jael, as estradas estavam desertas;
+Os viajantes usavam desvios.
+
+[[v7-5-7]]
+
+^<<v7-5-7,7>>^ Os camponeses em Israel não existiam mais;^&#42;1^
+Não existiam mais, até que eu, Débora, me levantei,
+Até que me levantei como mãe em Israel.
+
+[NOTE]
+====
+. Ou: “desapareceram”.
+====
+
+[[v7-5-8]]
+
+^<<v7-5-8,8>>^ Eles escolheram novos deuses;
+Então houve guerra nos portões.
+Não se via nem escudo nem lança
+No meio de quarenta mil em Israel.
+
+[[v7-5-9]]
+
+^<<v7-5-9,9>>^ Meu coração está com os comandantes de Israel,
+Que se apresentaram como voluntários junto com o povo.
+Louvem a Jeová!
+
+[[v7-5-10]]
+
+^<<v7-5-10,10>>^ Vocês que cavalgam em jumentos castanhos,
+Vocês que estão sentados em tapetes finos,
+E vocês que andam pela estrada,
+Considerem isto!
+
+[[v7-5-11]]
+
+^<<v7-5-11,11>>^ As vozes dos que tiram água foram ouvidas junto aos bebedouros;
+Ali falaram dos atos justos de Jeová,
+Dos atos justos dos camponeses de Israel.
+Então o povo de Jeová desceu até os portões.
+
+[[v7-5-12]]
+
+^<<v7-5-12,12>>^ Desperte, desperte, ó Débora!
+Desperte, desperte, cante um cântico!
+Levante-se, Baraque! Leve embora os seus cativos, ó filho de Abinoão!
+
+[[v7-5-13]]
+
+^<<v7-5-13,13>>^ Então os que restaram desceram até os nobres;
+O povo de Jeová veio até mim contra os poderosos.
+
+[[v7-5-14]]
+
+^<<v7-5-14,14>>^ Eram de Efraim os que estavam no vale;^&#42;1^
+Eles estavam com você, ó Benjamim, entre os seus soldados.
+De Maquir desceram os comandantes,
+E de Zebulão os que usam o bastão daquele que recruta.^&#42;2^
+
+[NOTE]
+====
+. Ou: “na baixada”.
+. Ou, possivelmente: “os que usam o equipamento de um escriba”.
+====
+
+[[v7-5-15]]
+
+^<<v7-5-15,15>>^ Os príncipes de Issacar estavam com Débora,
+Assim como estavam Issacar e Baraque.
+Ele foi enviado a pé ao vale.^&#42;1^
+Entre as divisões de Rubem havia profunda reflexão.
+
+[NOTE]
+====
+. Ou: “à baixada”.
+====
+
+[[v7-5-16]]
+
+^<<v7-5-16,16>>^ Por que você se sentou debaixo das duas cargas,^&#42;1^
+Escutando os pastores tocar flauta para os rebanhos?
+Entre as divisões de Rubem havia profunda reflexão.
+
+[NOTE]
+====
+. Isto é, cargas de um animal de carga.
+====
+
+[[v7-5-17]]
+
+^<<v7-5-17,17>>^ Gileade permaneceu no outro lado do Jordão;
+E Dã, por que ele ficou junto aos navios?
+Aser ficou sentado ocioso à beira do mar,
+E permaneceu junto aos seus portos.^&#42;1^
+
+[NOTE]
+====
+. Ou: “locais de desembarque”.
+====
+
+[[v7-5-18]]
+
+^<<v7-5-18,18>>^ Zebulão era um povo que arriscava a vida^&#42;1^ a ponto de enfrentar a morte;
+Também Naftali, nos lugares altos.
+
+[NOTE]
+====
+. Ou: “desprezava sua alma”.
+====
+
+[[v7-5-19]]
+
+^<<v7-5-19,19>>^ Vieram reis, eles lutaram;
+Então os reis de Canaã lutaram
+Em Taanaque, junto às águas de Megido.
+Não levaram despojo de prata.
+
+[[v7-5-20]]
+
+^<<v7-5-20,20>>^ Desde o céu as estrelas lutaram;
+Desde as suas órbitas lutaram contra Sísera.
+
+[[v7-5-21]]
+
+^<<v7-5-21,21>>^ A torrente de^&#42;1^ Quisom os arrastou,
+A antiga torrente,^&#42;2^ a torrente de^&#42;3^ Quisom.
+Ó minha alma,^&#42;4^ você pisoteou os poderosos.
+
+[NOTE]
+====
+. Ou: “O rio”.
+. Ou: “O antigo rio”.
+. Ou: “o rio”.
+. Veja o Glossário.
+====
+
+[[v7-5-22]]
+
+^<<v7-5-22,22>>^ Então os cascos dos cavalos fizeram o chão tremer,
+Enquanto seus garanhões galoparam furiosamente.
+
+[[v7-5-23]]
+
+^<<v7-5-23,23>>^ ‘Amaldiçoem a Meroz’, disse o anjo de Jeová,
+‘Sim, amaldiçoem os seus habitantes,
+Pois não vieram em auxílio de Jeová,
+Em auxílio de Jeová, com os guerreiros’.
+
+[[v7-5-24]]
+
+^<<v7-5-24,24>>^ A mais abençoada das mulheres é Jael,
+A esposa de Héber, o queneu;
+Ela é a mais abençoada das mulheres que moram em tendas.
+
+[[v7-5-25]]
+
+^<<v7-5-25,25>>^ Ele pediu água; ela lhe deu leite.
+Numa majestosa taça de banquete, ela ofereceu leite coalhado.^&#42;1^
+
+[NOTE]
+====
+. Ou: “ofereceu nata”.
+====
+
+[[v7-5-26]]
+
+^<<v7-5-26,26>>^ Estendeu a mão e pegou a estaca de tenda,
+Com a mão direita pegou o martelo dos trabalhadores.
+Martelou Sísera, esmagou a sua cabeça,
+Rachou e traspassou as suas têmporas.
+
+[[v7-5-27]]
+
+^<<v7-5-27,27>>^ Ele tombou aos seus pés; caiu e ali ficou.
+Tombou aos seus pés e caiu;
+Onde tombou, ali caiu derrotado.
+
+[[v7-5-28]]
+
+^<<v7-5-28,28>>^ Uma mulher olhava pela janela,
+A mãe de Sísera observava pela treliça:
+‘Por que o carro dele está demorando?
+Por que a batida dos cascos dos seus cavalos demora tanto?’
+
+[[v7-5-29]]
+
+^<<v7-5-29,29>>^ A mais sábia das suas damas lhe respondia;
+Sim, ela também repetia para si mesma:
+
+[[v7-5-30]]
+
+^<<v7-5-30,30>>^ ‘Eles devem estar repartindo o despojo que encontraram:
+Uma moça,^&#42;1^ duas moças^&#42;2^ para cada guerreiro;
+Despojo de panos tingidos para Sísera, despojo de panos tingidos;
+Uma roupa bordada, pano tingido, duas roupas bordadas
+Para o pescoço dos saqueadores.’
+
+[NOTE]
+====
+. Lit.: “Um ventre”.
+. Lit.: “dois ventres”.
+====
+
+[[v7-5-31]]
+
+^<<v7-5-31,31>>^ Assim, que todos os teus inimigos morram, ó Jeová,
+Mas sejam os que te amam como o sol nascente na sua glória.”
+E a terra teve descanso^&#42;1^ por 40 anos.
+
+[NOTE]
+====
+. Ou: “paz”.
+====
+
+'''
+
+xref:007-juizes/007-juizes-004.adoc#v7-4-0[&#60; Capítulo Anterior] | <<v7-5-0,Topo>> | xref:007-juizes/007-juizes-006.adoc#v7-6-0[Próximo Capítulo &#62;]

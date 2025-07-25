@@ -1,0 +1,201 @@
+include::./index.adoc[]
+
+[[v7-11-0]]
+=== Juízes, 11
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v7-11-1]]
+
+^<<v7-11-1,1>>^ Jefté, o gileadita, era um guerreiro valente. Ele era filho de uma prostituta, e Gileade era o pai de Jefté.
+
+[[v7-11-2]]
+
+^<<v7-11-2,2>>^ Mas a esposa de Gileade também lhe deu filhos. Quando os filhos da sua esposa cresceram, expulsaram Jefté e lhe disseram: “Você não terá herança na casa do nosso pai, pois é filho de outra mulher.”
+
+[[v7-11-3]]
+
+^<<v7-11-3,3>>^ Assim, Jefté fugiu dos seus irmãos e se estabeleceu na terra de Tobe. E homens desocupados se juntaram a Jefté e o seguiram.
+
+[[v7-11-4]]
+
+^<<v7-11-4,4>>^ Depois de algum tempo, os amonitas lutaram contra Israel.
+
+[[v7-11-5]]
+
+^<<v7-11-5,5>>^ E, quando os amonitas começaram a lutar contra Israel, os anciãos de Gileade foram imediatamente buscar Jefté na terra de Tobe.
+
+[[v7-11-6]]
+
+^<<v7-11-6,6>>^ Eles disseram a Jefté: “Venha e seja nosso comandante, para que possamos lutar contra os amonitas.”
+
+[[v7-11-7]]
+
+^<<v7-11-7,7>>^ Mas Jefté disse aos anciãos de Gileade: “Não foram vocês que me odiaram tanto a ponto de me expulsar da casa do meu pai? Por que vocês vêm a mim agora que estão em aflição?”
+
+[[v7-11-8]]
+
+^<<v7-11-8,8>>^ Então os anciãos de Gileade disseram a Jefté: “É por isso que agora viemos a você. Se você vier conosco e lutar contra os amonitas, você se tornará nosso líder sobre todos os habitantes de Gileade.”
+
+[[v7-11-9]]
+
+^<<v7-11-9,9>>^ De modo que Jefté disse aos anciãos de Gileade: “Se vocês me levarem de volta para lutar contra os amonitas e Jeová os derrotar para mim, então certamente me tornarei o líder de vocês!”
+
+[[v7-11-10]]
+
+^<<v7-11-10,10>>^ Os anciãos de Gileade disseram a Jefté: “Que Jeová seja testemunha^&#42;1^ entre nós se não fizermos conforme você diz.”
+
+[NOTE]
+====
+. Lit.: “aquele que escuta”.
+====
+
+[[v7-11-11]]
+
+^<<v7-11-11,11>>^ Assim, Jefté foi com os anciãos de Gileade, e o povo fez dele seu líder e comandante. E Jefté repetiu em Mispá tudo o que tinha dito perante Jeová.
+
+[[v7-11-12]]
+
+^<<v7-11-12,12>>^ Jefté enviou então mensageiros ao rei dos amonitas para dizer: “O que você tem contra mim^&#42;1^ para atacar a minha terra?”
+
+[NOTE]
+====
+. Lit.: “O que para mim e para você”.
+====
+
+[[v7-11-13]]
+
+^<<v7-11-13,13>>^ O rei dos amonitas disse aos mensageiros de Jefté: “É porque Israel tomou a minha terra quando saiu do Egito, desde o Arnom até o Jaboque e o Jordão. Agora devolva-a pacificamente.”
+
+[[v7-11-14]]
+
+^<<v7-11-14,14>>^ Mas Jefté enviou mensageiros de volta ao rei dos amonitas
+
+[[v7-11-15]]
+
+^<<v7-11-15,15>>^ para lhe dizer:
+“Assim diz Jefté: ‘Israel não tomou a terra dos moabitas, nem a terra dos amonitas,
+
+[[v7-11-16]]
+
+^<<v7-11-16,16>>^ pois, quando saiu do Egito, Israel andou pelo deserto até o mar Vermelho e chegou a Cades.
+
+[[v7-11-17]]
+
+^<<v7-11-17,17>>^ Israel enviou então mensageiros ao rei de Edom para dizer: “Por favor, deixe-nos passar pela sua terra”, mas o rei de Edom não escutou. Eles fizeram o mesmo pedido ao rei de Moabe, mas ele não concordou. Então Israel ficou morando em Cades.
+
+[[v7-11-18]]
+
+^<<v7-11-18,18>>^ Ao continuarem andando pelo deserto, contornaram a terra de Edom e a terra de Moabe. Passaram ao leste da terra de Moabe e acamparam na região do Arnom; eles não entraram no território de Moabe, pois o Arnom era o limite do território de Moabe.
+
+[[v7-11-19]]
+
+^<<v7-11-19,19>>^ “‘Depois Israel enviou mensageiros a Siom, rei dos amorreus, rei de Hesbom. Israel lhe disse: “Por favor, deixe-nos passar pela sua terra para irmos ao lugar que nos pertence.”
+
+[[v7-11-20]]
+
+^<<v7-11-20,20>>^ Mas Siom não confiou em Israel para deixá-los passar pelo seu território. Assim, Siom ajuntou todo o seu povo, acampou em Jaaz e lutou contra Israel.
+
+[[v7-11-21]]
+
+^<<v7-11-21,21>>^ Em vista disso, Jeová, o Deus de Israel, entregou Siom e todo o seu povo nas mãos de Israel, de modo que estes os derrotaram, e Israel tomou posse de toda a terra dos amorreus, os habitantes daquela terra.
+
+[[v7-11-22]]
+
+^<<v7-11-22,22>>^ Assim, tomaram posse de todo o território dos amorreus, desde o Arnom até o Jaboque, e desde o deserto até o Jordão.
+
+[[v7-11-23]]
+
+^<<v7-11-23,23>>^ “‘Foi Jeová, o Deus de Israel, quem expulsou os amorreus de diante do seu povo, Israel, e agora você quer expulsar Israel?
+
+[[v7-11-24]]
+
+^<<v7-11-24,24>>^ Você não toma posse de tudo que o seu deus, Quemós, lhe dá? Assim, nós expulsaremos todos os que Jeová, nosso Deus, expulsar de diante de nós.
+
+[[v7-11-25]]
+
+^<<v7-11-25,25>>^ Será que você é melhor do que Balaque, filho de Zipor, rei de Moabe? Alguma vez ele entrou em conflito com Israel ou lutou contra eles?
+
+[[v7-11-26]]
+
+^<<v7-11-26,26>>^ Enquanto Israel morava em Hesbom e nas suas aldeias dependentes,^&#42;1^ em Aroer e nas suas aldeias dependentes, e em todas as cidades que ficam nas margens do Arnom, por 300 anos, por que vocês nunca tentaram tomá-las de volta durante esse tempo?
+
+[NOTE]
+====
+. Ou: “ao redor”.
+====
+
+[[v7-11-27]]
+
+^<<v7-11-27,27>>^ Não pequei contra você, mas você está errado em me atacar. Que Jeová, o Juiz, julgue hoje entre o povo de Israel e o povo de Amom.’”
+
+[[v7-11-28]]
+
+^<<v7-11-28,28>>^ Mas o rei dos amonitas não quis ouvir a mensagem que Jefté lhe enviou.
+
+[[v7-11-29]]
+
+^<<v7-11-29,29>>^ O espírito de Jeová veio sobre Jefté, e ele atravessou Gileade e Manassés para ir a Mispa de Gileade, e de Mispa de Gileade continuou até os amonitas.
+
+[[v7-11-30]]
+
+^<<v7-11-30,30>>^ Então Jefté fez um voto a Jeová, dizendo: “Se entregares os amonitas nas minhas mãos,
+
+[[v7-11-31]]
+
+^<<v7-11-31,31>>^ então aquele que sair da porta da minha casa ao meu encontro, quando eu voltar em paz da guerra contra os amonitas, se tornará de Jeová, e eu o oferecerei como oferta queimada.”
+
+[[v7-11-32]]
+
+^<<v7-11-32,32>>^ Assim, Jefté foi lutar contra os amonitas, e Jeová os entregou nas suas mãos.
+
+[[v7-11-33]]
+
+^<<v7-11-33,33>>^ Ele os atingiu com uma matança muito grande, desde Aroer até Minite — 20 cidades — e até Abel-Queramim. Assim os amonitas foram subjugados diante dos israelitas.
+
+[[v7-11-34]]
+
+^<<v7-11-34,34>>^ Finalmente, Jefté chegou à sua casa em Mispá, e lá vinha sua filha ao seu encontro, tocando pandeiro e dançando! Ela era sua filha única; além dela, ele não tinha nem filho nem filha.
+
+[[v7-11-35]]
+
+^<<v7-11-35,35>>^ Quando ele a viu, rasgou suas roupas e disse: “Ai, minha filha! Você partiu meu coração,^&#42;1^ pois se tornou aquela que eu bani. Fiz um voto^&#42;2^ a Jeová e não posso voltar atrás.”
+
+[NOTE]
+====
+. Lit.: “Você me deixou prostrado”.
+. Lit.: “Abri a minha boca”.
+====
+
+[[v7-11-36]]
+
+^<<v7-11-36,36>>^ Mas ela lhe disse: “Meu pai, se o senhor fez um voto a Jeová, faça comigo conforme prometeu, visto que Jeová executou para o senhor vingança sobre os seus inimigos, os amonitas.”
+
+[[v7-11-37]]
+
+^<<v7-11-37,37>>^ Ela disse então ao seu pai: “Só peço uma coisa: deixe-me ir aos montes por dois meses para chorar a minha virgindade, apenas eu e as minhas amigas.”^&#42;1^
+
+[NOTE]
+====
+. Ou: “chorar com as minhas amigas porque nunca me casarei”.
+====
+
+[[v7-11-38]]
+
+^<<v7-11-38,38>>^ Então ele disse: “Vá!” Assim, deixou-a ir por dois meses; e ela foi para os montes junto com as suas amigas para chorar a sua virgindade.
+
+[[v7-11-39]]
+
+^<<v7-11-39,39>>^ Passados os dois meses, ela voltou ao seu pai, e ele cumpriu o voto que havia feito com respeito a ela. Ela nunca teve relações sexuais com nenhum homem. E surgiu o seguinte costume^&#42;1^ em Israel:
+
+[NOTE]
+====
+. Ou: “regulamento”.
+====
+
+[[v7-11-40]]
+
+^<<v7-11-40,40>>^ de ano em ano, durante quatro dias no ano, as jovens de Israel iam visitar a filha de Jefté, o gileadita, para elogiá-la.
+
+'''
+
+xref:007-juizes/007-juizes-010.adoc#v7-10-0[&#60; Capítulo Anterior] | <<v7-11-0,Topo>> | xref:007-juizes/007-juizes-012.adoc#v7-12-0[Próximo Capítulo &#62;]

@@ -1,0 +1,92 @@
+include::./index.adoc[]
+
+[[v58-5-0]]
+=== Aos Hebreus, 5
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v58-5-1]]
+
+^<<v58-5-1,1>>^ Pois todo sumo sacerdote escolhido dentre os homens é designado em benefício deles para cuidar das coisas referentes a Deus, a fim de oferecer dádivas e sacrifícios pelos pecados.
+
+[[v58-5-2]]
+
+^<<v58-5-2,2>>^ Ele é capaz de lidar de modo compassivo^&#42;1^ com os que não têm conhecimento e erram,^&#42;2^ visto que ele também tem de enfrentar^&#42;3^ suas próprias fraquezas,
+
+[NOTE]
+====
+. Ou: “brando; ponderado”.
+. Ou: “com os rebeldes”.
+. Ou: “está sujeito às”.
+====
+
+[[v58-5-3]]
+
+^<<v58-5-3,3>>^ e por causa disso deve fazer ofertas pelos seus próprios pecados assim como faz pelos do povo.
+
+[[v58-5-4]]
+
+^<<v58-5-4,4>>^ Ninguém assume essa honra por iniciativa própria, mas a recebe apenas quando é chamado por Deus, como Arão foi.
+
+[[v58-5-5]]
+
+^<<v58-5-5,5>>^ Do mesmo modo, o Cristo não glorificou a si mesmo fazendo-se sumo sacerdote, mas foi glorificado por Aquele que lhe disse: “Você é meu filho; hoje eu me tornei seu pai.”
+
+[[v58-5-6]]
+
+^<<v58-5-6,6>>^ Como ele diz também em outra passagem: “Você é sacerdote para sempre à maneira de Melquisedeque.”
+
+[[v58-5-7]]
+
+^<<v58-5-7,7>>^ Durante sua vida na terra,^&#42;1^ Cristo fez pedidos e súplicas, com fortes clamores e lágrimas, Àquele que era capaz de salvá-lo da morte, e ele foi ouvido por causa do seu temor de Deus.
+
+[NOTE]
+====
+. Lit.: “Nos dias da sua carne”.
+====
+
+[[v58-5-8]]
+
+^<<v58-5-8,8>>^ Embora fosse filho, aprendeu a obediência por meio das coisas que sofreu.
+
+[[v58-5-9]]
+
+^<<v58-5-9,9>>^ E, depois de ter sido aperfeiçoado, tornou-se responsável pela salvação eterna de todos os que lhe obedecem,
+
+[[v58-5-10]]
+
+^<<v58-5-10,10>>^ porque ele foi designado por Deus como sumo sacerdote à maneira de Melquisedeque.
+
+[[v58-5-11]]
+
+^<<v58-5-11,11>>^ Temos muito a dizer a respeito dele, mas é difícil explicar, porque vocês se tornaram lentos em entender.^&#42;1^
+
+[NOTE]
+====
+. Ou: “obtusos no ouvir”.
+====
+
+[[v58-5-12]]
+
+^<<v58-5-12,12>>^ Pois, embora a essa altura^&#42;1^ vocês devessem ser instrutores, precisam novamente que alguém lhes ensine desde o princípio as coisas elementares das proclamações sagradas de Deus, e voltaram a precisar de leite, não de alimento sólido.
+
+[NOTE]
+====
+. Lit.: “em vista do tempo”.
+====
+
+[[v58-5-13]]
+
+^<<v58-5-13,13>>^ Pois todo aquele que continua a tomar leite desconhece a palavra da justiça, porque é criancinha.
+
+[[v58-5-14]]
+
+^<<v58-5-14,14>>^ Mas o alimento sólido é para as pessoas maduras, para aqueles que pelo uso têm sua capacidade de discernimento^&#42;1^ treinada para saber distinguir tanto o certo como o errado.
+
+[NOTE]
+====
+. Ou: “capacidade perceptiva”.
+====
+
+'''
+
+xref:058-hebreus/058-hebreus-004.adoc#v58-4-0[&#60; Capítulo Anterior] | <<v58-5-0,Topo>> | xref:058-hebreus/058-hebreus-006.adoc#v58-6-0[Próximo Capítulo &#62;]

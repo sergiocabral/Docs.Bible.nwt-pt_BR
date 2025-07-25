@@ -1,0 +1,146 @@
+include::./index.adoc[]
+
+[[v26-14-0]]
+=== Ezequiel, 14
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v26-14-1]]
+
+^<<v26-14-1,1>>^ E alguns dos anciãos de Israel vieram e se sentaram diante de mim.
+
+[[v26-14-2]]
+
+^<<v26-14-2,2>>^ Então recebi a seguinte palavra de Jeová:
+
+[[v26-14-3]]
+
+^<<v26-14-3,3>>^ “Filho do homem, esses homens estão determinados a seguir seus ídolos repugnantes^&#42;1^ e puseram diante das pessoas uma pedra de tropeço que as leva a pecar. Será que eu deveria permitir que eles me consultassem?
+
+[NOTE]
+====
+. O termo hebraico talvez esteja relacionado a uma palavra para “esterco” e é usado como expressão de desprezo.
+====
+
+[[v26-14-4]]
+
+^<<v26-14-4,4>>^ Portanto, diga a eles: ‘Assim diz o Soberano Senhor Jeová: “Se um israelita estiver determinado a seguir seus ídolos repugnantes e puser diante das pessoas uma pedra de tropeço que as leve a pecar, e depois for consultar um profeta, eu, Jeová, lhe responderei como ele merece pelos seus muitos ídolos repugnantes.
+
+[[v26-14-5]]
+
+^<<v26-14-5,5>>^ Pois encherei de terror o coração da casa de Israel,^&#42;1^ visto que todos eles se afastaram de mim e seguiram seus ídolos repugnantes.”’
+
+[NOTE]
+====
+. Lit.: “agarrarei a casa de Israel no seu coração”.
+====
+
+[[v26-14-6]]
+
+^<<v26-14-6,6>>^ “Portanto, diga à casa de Israel: ‘Assim diz o Soberano Senhor Jeová: “Voltem, abandonem os seus ídolos repugnantes e rejeitem^&#42;1^ todas as suas práticas detestáveis.
+
+[NOTE]
+====
+. Ou: “desviem o rosto de”.
+====
+
+[[v26-14-7]]
+
+^<<v26-14-7,7>>^ Pois, se algum israelita ou residente estrangeiro que mora em Israel se separar de mim, estiver determinado a seguir seus ídolos repugnantes e puser diante das pessoas uma pedra de tropeço que as leve a pecar, e depois for consultar o meu profeta, eu, Jeová, lhe responderei pessoalmente.
+
+[[v26-14-8]]
+
+^<<v26-14-8,8>>^ Eu me voltarei^&#42;1^ contra tal homem, farei dele um sinal de aviso e um assunto de provérbios, e o eliminarei do meu povo; e vocês terão de saber que eu sou Jeová.”’
+
+[NOTE]
+====
+. Ou: “Porei minha face”.
+====
+
+[[v26-14-9]]
+
+^<<v26-14-9,9>>^ “‘Mas, se o profeta for enganado e der uma resposta, terei sido eu, Jeová, quem enganou esse profeta. Então vou estender a mão contra ele e vou exterminá-lo do meu povo Israel.
+
+[[v26-14-10]]
+
+^<<v26-14-10,10>>^ Ambos terão de sofrer as consequências do seu erro; o erro de quem consulta o profeta será considerado igual ao erro do profeta,
+
+[[v26-14-11]]
+
+^<<v26-14-11,11>>^ a fim de que a casa de Israel pare de se desviar de mim e de se tornar impura com todas as suas transgressões. Eles se tornarão o meu povo, e eu me tornarei o seu Deus’, diz o Soberano Senhor Jeová.”
+
+[[v26-14-12]]
+
+^<<v26-14-12,12>>^ Então recebi novamente a palavra de Jeová:
+
+[[v26-14-13]]
+
+^<<v26-14-13,13>>^ “Filho do homem, se um país pecar contra mim, agindo de modo infiel, eu estenderei a mão contra ele e cortarei o seu suprimento de alimento,^&#42;1^ enviarei contra ele a fome e eliminarei dele homens e animais.
+
+[NOTE]
+====
+. Lit.: “quebrarei o seu bastão de pão”. Possivelmente se refere aos bastões em que se penduravam pães em forma de anel.
+====
+
+[[v26-14-14]]
+
+^<<v26-14-14,14>>^ ‘Mesmo que estes três homens — Noé, Daniel e Jó — estivessem nele, eles, com a sua justiça, conseguiriam salvar apenas a si mesmos’,^&#42;1^ diz o Soberano Senhor Jeová.”
+
+[NOTE]
+====
+. Ou: “as suas almas”.
+====
+
+[[v26-14-15]]
+
+^<<v26-14-15,15>>^ “‘Ou suponhamos que eu enviasse contra o país animais selvagens, e eles o despovoassem^&#42;1^ e o tornassem um deserto, sem que ninguém passasse por ele por causa dos animais selvagens.
+
+[NOTE]
+====
+. Ou: “privassem de filhos”.
+====
+
+[[v26-14-16]]
+
+^<<v26-14-16,16>>^ Tão certo como eu vivo’, diz o Soberano Senhor Jeová, ‘mesmo que esses três homens estivessem nele, não salvariam nem seus filhos nem suas filhas; salvariam apenas a si mesmos, e o país ficaria desolado’.”
+
+[[v26-14-17]]
+
+^<<v26-14-17,17>>^ “‘Ou suponhamos que eu trouxesse uma espada contra aquele país, dizendo: “Que a espada passe pelo país”, e eliminasse dele tanto homens como animais.
+
+[[v26-14-18]]
+
+^<<v26-14-18,18>>^ Tão certo como eu vivo’, diz o Soberano Senhor Jeová, ‘mesmo que esses três homens estivessem nele, não salvariam nem seus filhos nem suas filhas; salvariam apenas a si mesmos’.”
+
+[[v26-14-19]]
+
+^<<v26-14-19,19>>^ “‘Ou suponhamos que eu enviasse uma peste contra aquele país e despejasse sobre ele o meu furor com derramamento de sangue, para eliminar dele homens e animais.
+
+[[v26-14-20]]
+
+^<<v26-14-20,20>>^ Tão certo como eu vivo’, diz o Soberano Senhor Jeová, ‘mesmo que Noé, Daniel e Jó estivessem nele, não salvariam nem seus filhos nem suas filhas; com a sua justiça, salvariam apenas a si mesmos’.”^&#42;1^
+
+[NOTE]
+====
+. Ou: “as suas almas”.
+====
+
+[[v26-14-21]]
+
+^<<v26-14-21,21>>^ “Pois assim diz o Soberano Senhor Jeová: ‘Assim será quando eu enviar contra Jerusalém as minhas quatro punições^&#42;1^ — a espada, a fome, os animais selvagens e a peste — para eliminar dela homens e animais.
+
+[NOTE]
+====
+. Ou: “os meus quatro terríveis julgamentos”.
+====
+
+[[v26-14-22]]
+
+^<<v26-14-22,22>>^ No entanto, alguns que restarem nela sobreviverão e serão levados para fora, tanto filhos como filhas. Eles estão vindo ao seu encontro; quando vocês virem os caminhos e as ações deles, vocês certamente serão consolados com relação à calamidade que eu trouxe sobre Jerusalém, sim, com relação a tudo o que eu fiz contra ela.’”
+
+[[v26-14-23]]
+
+^<<v26-14-23,23>>^ “‘Eles os consolarão quando vocês virem os caminhos e as ações deles, e vocês saberão que não foi sem motivo que eu fiz o que tinha de fazer contra ela’, diz o Soberano Senhor Jeová.”
+
+'''
+
+xref:026-ezequiel/026-ezequiel-013.adoc#v26-13-0[&#60; Capítulo Anterior] | <<v26-14-0,Topo>> | xref:026-ezequiel/026-ezequiel-015.adoc#v26-15-0[Próximo Capítulo &#62;]

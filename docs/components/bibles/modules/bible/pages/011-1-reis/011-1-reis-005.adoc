@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v11-5-0]]
+=== O Primeiro dos Reis, 5
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v11-5-1]]
+
+^<<v11-5-1,1>>^ Quando Hirão, rei de Tiro, ficou sabendo que Salomão havia sido ungido rei como sucessor do seu pai, enviou seus servos a Salomão, pois Hirão sempre tinha sido amigo de^&#42;1^ Davi.
+
+[NOTE]
+====
+. Ou: “sempre tinha amado”.
+====
+
+[[v11-5-2]]
+
+^<<v11-5-2,2>>^ Então Salomão mandou dizer a Hirão:
+
+[[v11-5-3]]
+
+^<<v11-5-3,3>>^ “Sem dúvida, você sabe que Davi, meu pai, não pôde construir uma casa para o nome de Jeová, seu Deus, por causa das guerras travadas contra ele de todos os lados, até que Jeová colocou os seus inimigos debaixo da sola dos seus pés.
+
+[[v11-5-4]]
+
+^<<v11-5-4,4>>^ Mas agora, Jeová, meu Deus, me deu descanso de todos os lados. Não há ninguém que se oponha a mim, e não acontece nada de mau.
+
+[[v11-5-5]]
+
+^<<v11-5-5,5>>^ Por isso pretendo construir uma casa para o nome de Jeová, meu Deus, assim como Jeová prometeu a Davi, meu pai, dizendo: ‘Seu filho, a quem farei sentar no trono no seu lugar, é quem construirá uma casa para o meu nome.’
+
+[[v11-5-6]]
+
+^<<v11-5-6,6>>^ Agora ordene que seu povo corte para mim cedros do Líbano; os meus servos trabalharão com os seus servos, e eu pagarei o salário dos seus servos conforme o valor que você determinar. Pois você sabe muito bem que nós não sabemos cortar árvores como os sidônios.”
+
+[[v11-5-7]]
+
+^<<v11-5-7,7>>^ Quando Hirão ouviu as palavras de Salomão, alegrou-se muito e disse: “Que hoje Jeová seja louvado, por ter dado a Davi um filho sábio para governar este grande^&#42;1^ povo!”
+
+[NOTE]
+====
+. Ou: “numeroso”.
+====
+
+[[v11-5-8]]
+
+^<<v11-5-8,8>>^ E Hirão mandou dizer a Salomão: “Ouvi a mensagem que me enviou. Farei tudo o que você desejar, providenciando madeira de cedro e madeira de junípero.
+
+[[v11-5-9]]
+
+^<<v11-5-9,9>>^ Meus servos as levarão para baixo, do Líbano até o mar, e eu farei delas jangadas para seguirem por mar até o lugar que você me indicar. Lá eu as desmancharei, e você poderá levar a madeira embora. Em troca, você providenciará o alimento que eu pedir para os da minha casa.”
+
+[[v11-5-10]]
+
+^<<v11-5-10,10>>^ Assim, Hirão forneceu toda a madeira de cedro e de junípero que Salomão quis.
+
+[[v11-5-11]]
+
+^<<v11-5-11,11>>^ Em troca, Salomão deu a Hirão 20.000 coros^&#42;1^ de trigo como alimento para os da sua casa e 20 coros de azeite de oliva puro.^&#42;2^ Isso era o que Salomão dava a Hirão todo ano.
+
+[NOTE]
+====
+. Um coro equivalia a 220 l. Veja Ap. B14.
+. Lit.: “azeite batido”.
+====
+
+[[v11-5-12]]
+
+^<<v11-5-12,12>>^ Jeová deu sabedoria a Salomão, assim como lhe tinha prometido; e havia paz entre Hirão e Salomão, e os dois fizeram um acordo.^&#42;1^
+
+[NOTE]
+====
+. Ou: “pacto”.
+====
+
+[[v11-5-13]]
+
+^<<v11-5-13,13>>^ O rei Salomão convocou homens de todo o Israel para trabalho obrigatório; 30.000 homens foram convocados.
+
+[[v11-5-14]]
+
+^<<v11-5-14,14>>^ Ele os enviava ao Líbano em grupos de 10.000 por mês. Eles ficavam um mês no Líbano e dois meses em casa. E Adonirão supervisionava os convocados para trabalho obrigatório.
+
+[[v11-5-15]]
+
+^<<v11-5-15,15>>^ Salomão tinha 70.000 trabalhadores comuns^&#42;1^ e 80.000 cortadores de pedras nos montes,
+
+[NOTE]
+====
+. Ou: “carregadores”.
+====
+
+[[v11-5-16]]
+
+^<<v11-5-16,16>>^ além de 3.300 encarregados que serviam como capatazes para supervisionar os trabalhadores.
+
+[[v11-5-17]]
+
+^<<v11-5-17,17>>^ Às ordens do rei, eles extraíram grandes pedras, pedras caras, para que o alicerce da casa fosse lançado com pedras lavradas.
+
+[[v11-5-18]]
+
+^<<v11-5-18,18>>^ Portanto, os construtores de Salomão e os construtores de Hirão, bem como os gebalitas, cortavam as pedras e preparavam as madeiras e as pedras para a construção da casa.
+
+'''
+
+xref:011-1-reis/011-1-reis-004.adoc#v11-4-0[&#60; Capítulo Anterior] | <<v11-5-0,Topo>> | xref:011-1-reis/011-1-reis-006.adoc#v11-6-0[Próximo Capítulo &#62;]

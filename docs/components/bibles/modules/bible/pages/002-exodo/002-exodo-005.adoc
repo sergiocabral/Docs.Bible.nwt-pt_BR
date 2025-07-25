@@ -1,0 +1,132 @@
+include::./index.adoc[]
+
+[[v2-5-0]]
+=== Êxodo, 5
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v2-5-1]]
+
+^<<v2-5-1,1>>^ Depois disso, Moisés e Arão se apresentaram diante de Faraó e disseram: “Assim diz Jeová, o Deus de Israel: ‘Deixe meu povo ir, para que celebrem uma festividade para mim no deserto.’”
+
+[[v2-5-2]]
+
+^<<v2-5-2,2>>^ Mas Faraó disse: “Quem é Jeová, que eu deva obedecer à sua voz para deixar Israel ir? Não conheço Jeová e, ainda mais, não deixarei Israel ir.”
+
+[[v2-5-3]]
+
+^<<v2-5-3,3>>^ No entanto, eles disseram: “O Deus dos hebreus falou conosco. Por favor, queremos fazer uma viagem de três dias pelo deserto e oferecer sacrifícios a Jeová, nosso Deus; senão ele nos atingirá com doenças ou com a espada.”
+
+[[v2-5-4]]
+
+^<<v2-5-4,4>>^ O rei do Egito lhes disse: “Moisés e Arão, por que vocês estão tirando o povo do seu trabalho? Voltem às suas tarefas!”^&#42;1^
+
+[NOTE]
+====
+. Ou: “aos seus fardos”.
+====
+
+[[v2-5-5]]
+
+^<<v2-5-5,5>>^ E Faraó continuou: “Esse povo^&#42;1^ já é tão numeroso, e vocês ainda querem que eles parem de trabalhar!”
+
+[NOTE]
+====
+. Lit.: “povo da terra”.
+====
+
+[[v2-5-6]]
+
+^<<v2-5-6,6>>^ Naquele mesmo dia Faraó ordenou aos feitores e aos capatazes escolhidos dentre os israelitas:
+
+[[v2-5-7]]
+
+^<<v2-5-7,7>>^ “Não forneçam mais palha ao povo para fazer tijolos. Que eles vão e ajuntem palha para si.
+
+[[v2-5-8]]
+
+^<<v2-5-8,8>>^ Mas exijam deles a mesma cota de tijolos que antes. Não reduzam a cota, pois eles estão ficando preguiçosos.^&#42;1^ É por isso que clamam: ‘Queremos ir, queremos oferecer sacrifícios ao nosso Deus!’
+
+[NOTE]
+====
+. Ou: “estão relaxando”.
+====
+
+[[v2-5-9]]
+
+^<<v2-5-9,9>>^ Façam-nos trabalhar mais e mantenham-nos ocupados, para que eles não deem atenção a mentiras.”
+
+[[v2-5-10]]
+
+^<<v2-5-10,10>>^ Assim, os feitores e os capatazes foram dizer ao povo: “Assim disse Faraó: ‘Não mais lhes darei palha.
+
+[[v2-5-11]]
+
+^<<v2-5-11,11>>^ Vão vocês mesmos buscar palha onde quer que a encontrarem, mas em nada se reduzirá o seu serviço.’”
+
+[[v2-5-12]]
+
+^<<v2-5-12,12>>^ Assim, o povo se espalhou por toda a terra do Egito para ajuntar a palha que sobrava da colheita.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “ajuntar restolho para palha”.
+====
+
+[[v2-5-13]]
+
+^<<v2-5-13,13>>^ E os feitores os pressionavam, dizendo: “Terminem cada um de vocês o trabalho de cada dia, assim como faziam quando a palha lhes era fornecida.”
+
+[[v2-5-14]]
+
+^<<v2-5-14,14>>^ Além disso, os capatazes israelitas, que haviam sido designados pelos feitores de Faraó para supervisionar o povo, foram espancados. Os feitores lhes perguntaram: “Por que vocês não atingiram nem ontem nem hoje a cota de tijolos que produziam antes?”
+
+[[v2-5-15]]
+
+^<<v2-5-15,15>>^ Então os capatazes israelitas foram se queixar a Faraó: “Por que o senhor trata os seus servos assim?
+
+[[v2-5-16]]
+
+^<<v2-5-16,16>>^ Não se dá palha aos seus servos e ainda assim estão nos dizendo: ‘Façam tijolos!’ Seus servos estão sendo espancados, mas o seu próprio povo é culpado.”
+
+[[v2-5-17]]
+
+^<<v2-5-17,17>>^ Porém ele disse: “Vocês estão ficando preguiçosos,^&#42;1^ sim, preguiçosos!^&#42;2^ É por isso que dizem: ‘Queremos ir, queremos oferecer sacrifícios a Jeová.’
+
+[NOTE]
+====
+. Ou: “estão relaxando”.
+. Ou: “estão relaxando”.
+====
+
+[[v2-5-18]]
+
+^<<v2-5-18,18>>^ E agora vão, voltem ao trabalho! Vocês não receberão palha, mas ainda assim devem produzir a mesma cota de tijolos.”
+
+[[v2-5-19]]
+
+^<<v2-5-19,19>>^ Os capatazes israelitas se viram então numa situação muito difícil por causa da ordem que tinham recebido: “Não reduzam em nada a cota diária de tijolos.”
+
+[[v2-5-20]]
+
+^<<v2-5-20,20>>^ Depois disso, quando saíram da presença de Faraó, eles se encontraram com Moisés e Arão, que estavam ali à sua espera;
+
+[[v2-5-21]]
+
+^<<v2-5-21,21>>^ e, imediatamente, lhes disseram: “Que Jeová olhe para vocês e os julgue, visto que nos fizeram objeto de desprezo^&#42;1^ perante Faraó e perante os seus servos, e puseram uma espada na mão deles para nos matarem.”
+
+[NOTE]
+====
+. Ou: “nos fizeram cheirar mal”.
+====
+
+[[v2-5-22]]
+
+^<<v2-5-22,22>>^ Então Moisés se voltou para Jeová e disse: “Jeová, por que causaste aflição a este povo? Por que me enviaste?
+
+[[v2-5-23]]
+
+^<<v2-5-23,23>>^ Desde que me apresentei a Faraó para falar em teu nome, ele tem tratado este povo pior do que antes, e tu certamente não livraste teu povo.”
+
+'''
+
+xref:002-exodo/002-exodo-004.adoc#v2-4-0[&#60; Capítulo Anterior] | <<v2-5-0,Topo>> | xref:002-exodo/002-exodo-006.adoc#v2-6-0[Próximo Capítulo &#62;]

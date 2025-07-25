@@ -1,0 +1,172 @@
+include::./index.adoc[]
+
+[[v19-44-0]]
+=== Salmos, 44
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Ao regente. Dos filhos de Corá. Masquil.^&#42;1^_
+
+[[v19-44-1]]
+
+^<<v19-44-1,1>>^ Ó Deus, ouvimos com nossos próprios ouvidos,
+Nossos antepassados nos relataram
+Os atos que realizaste nos dias deles,
+Nos dias da antiguidade.
+
+[[v19-44-2]]
+
+^<<v19-44-2,2>>^ Com a tua mão expulsaste nações,
+E estabeleceste os nossos antepassados ali.
+Subjugaste nações e as mandaste embora.
+
+[[v19-44-3]]
+
+^<<v19-44-3,3>>^ Não foi com a sua própria espada que eles tomaram posse desta terra,
+Nem foi o próprio braço deles que lhes trouxe vitória.
+Na verdade, foi pela tua mão direita, pelo teu braço e pela luz da tua face,
+Pois te agradaste deles.
+
+[[v19-44-4]]
+
+^<<v19-44-4,4>>^ Tu és o meu Rei, ó Deus;
+Ordena^&#42;1^ uma completa vitória^&#42;2^ para Jacó.
+
+[NOTE]
+====
+. Ou: “Concede”.
+. Ou: “grandiosa salvação”.
+====
+
+[[v19-44-5]]
+
+^<<v19-44-5,5>>^ Pelo teu poder poremos em fuga os nossos adversários;
+Em teu nome pisotearemos os que se levantam contra nós.
+
+[[v19-44-6]]
+
+^<<v19-44-6,6>>^ Pois não confio no meu arco,
+E a minha espada não pode me salvar.
+
+[[v19-44-7]]
+
+^<<v19-44-7,7>>^ Foste tu que nos salvaste dos nossos adversários,
+Que humilhaste os que nos odeiam.
+
+[[v19-44-8]]
+
+^<<v19-44-8,8>>^ A Deus daremos louvor o dia inteiro,
+E daremos graças ao teu nome para sempre. (Selá)
+
+[[v19-44-9]]
+
+^<<v19-44-9,9>>^ Mas agora nos rejeitas e humilhas,
+E não acompanhas os nossos exércitos.
+
+[[v19-44-10]]
+
+^<<v19-44-10,10>>^ Tu nos fazes recuar diante do nosso adversário;
+Os que nos odeiam nos saqueiam à vontade.
+
+[[v19-44-11]]
+
+^<<v19-44-11,11>>^ Tu nos entregas para sermos devorados como ovelhas;
+Tu nos espalhas entre as nações.
+
+[[v19-44-12]]
+
+^<<v19-44-12,12>>^ Vendes o teu povo por quase nada;
+Nada lucras com a venda.^&#42;1^
+
+[NOTE]
+====
+. Ou: “com o preço por eles”.
+====
+
+[[v19-44-13]]
+
+^<<v19-44-13,13>>^ Fazes com que sejamos alvo do desprezo de nossos vizinhos,
+Objeto de zombaria e desdém para os que estão à nossa volta.
+
+[[v19-44-14]]
+
+^<<v19-44-14,14>>^ Fazes de nós um alvo de escárnio^&#42;1^ entre as nações,
+Algo diante do qual os povos balançam a cabeça.
+
+[NOTE]
+====
+. Lit.: “um provérbio”.
+====
+
+[[v19-44-15]]
+
+^<<v19-44-15,15>>^ Sinto-me humilhado o dia inteiro,
+Estou coberto de vergonha
+
+[[v19-44-16]]
+
+^<<v19-44-16,16>>^ Por causa do som das afrontas e insultos deles,
+Por causa do nosso inimigo, que busca vingança.
+
+[[v19-44-17]]
+
+^<<v19-44-17,17>>^ Tudo isso nos sobreveio, e ainda assim não te esquecemos,
+Nem violamos o teu pacto.
+
+[[v19-44-18]]
+
+^<<v19-44-18,18>>^ Nosso coração não se desviou;
+Nossos passos não se afastaram do teu caminho.
+
+[[v19-44-19]]
+
+^<<v19-44-19,19>>^ Mas tu nos esmagas onde os chacais vivem;
+Tu nos cobres com densas trevas.
+
+[[v19-44-20]]
+
+^<<v19-44-20,20>>^ Se tivermos esquecido o nome do nosso Deus,
+Ou estendido as mãos em oração a um deus estrangeiro,
+
+[[v19-44-21]]
+
+^<<v19-44-21,21>>^ Será que Deus não descobrirá isso?
+Ele conhece os segredos do coração.
+
+[[v19-44-22]]
+
+^<<v19-44-22,22>>^ Por tua causa, o dia inteiro somos entregues à morte;
+Somos considerados como ovelhas destinadas ao abate.
+
+[[v19-44-23]]
+
+^<<v19-44-23,23>>^ Ó Jeová, desperta! Por que continuas dormindo?
+Acorda! Não nos rejeites para sempre.
+
+[[v19-44-24]]
+
+^<<v19-44-24,24>>^ Por que escondes a tua face?
+Por que te esqueces da nossa aflição e da nossa opressão?
+
+[[v19-44-25]]
+
+^<<v19-44-25,25>>^ Pois fomos rebaixados^&#42;1^ até o pó;
+Nosso corpo está colado no chão.
+
+[NOTE]
+====
+. Ou: “nossa alma foi rebaixada”.
+====
+
+[[v19-44-26]]
+
+^<<v19-44-26,26>>^ Levanta-te em nosso auxílio!
+Livra-nos^&#42;1^ por causa do teu amor leal.
+
+[NOTE]
+====
+. Lit.: “Resgata-nos”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-043.adoc#v19-43-0[&#60; Capítulo Anterior] | <<v19-44-0,Topo>> | xref:019-salmo/019-salmo-045.adoc#v19-45-0[Próximo Capítulo &#62;]

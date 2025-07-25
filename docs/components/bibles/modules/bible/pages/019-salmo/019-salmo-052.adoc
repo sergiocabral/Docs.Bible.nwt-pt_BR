@@ -1,0 +1,66 @@
+include::./index.adoc[]
+
+[[v19-52-0]]
+=== Salmos, 52
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Ao regente. Masquil.^&#42;1^ De Davi. Quando Doegue, o edomita, contou a Saul que Davi tinha ido à casa de Aimeleque._
+
+[[v19-52-1]]
+
+^<<v19-52-1,1>>^ Por que você se gaba das suas más ações, ó poderoso?
+O amor leal de Deus dura o dia inteiro.
+
+[[v19-52-2]]
+
+^<<v19-52-2,2>>^ Sua língua, afiada como uma navalha,
+Planeja fazer o mal e age de modo enganoso.
+
+[[v19-52-3]]
+
+^<<v19-52-3,3>>^ Você gosta mais do mal do que do bem;
+Prefere mentir a falar o que é certo. (Selá)
+
+[[v19-52-4]]
+
+^<<v19-52-4,4>>^ Você ama toda palavra destrutiva,
+Ó língua enganosa!
+
+[[v19-52-5]]
+
+^<<v19-52-5,5>>^ É por isso que Deus o abaterá de uma vez para sempre;
+Ele o apanhará e o arrancará da sua tenda;
+Ele o desarraigará da terra dos vivos. (Selá)
+
+[[v19-52-6]]
+
+^<<v19-52-6,6>>^ Os justos verão isso e ficarão admirados,
+E rirão dele:
+
+[[v19-52-7]]
+
+^<<v19-52-7,7>>^ “Aqui está um homem que não fez de Deus o seu refúgio,^&#42;1^
+Mas confiou na sua grande riqueza
+E pôs a sua confiança^&#42;2^ nas suas próprias tramas malignas.”^&#42;3^
+
+[NOTE]
+====
+. Ou: “a sua fortaleza”.
+. Ou: “buscou abrigo”.
+. Lit.: “adversidades por ele”.
+====
+
+[[v19-52-8]]
+
+^<<v19-52-8,8>>^ Mas eu serei como uma oliveira frondosa na casa de Deus;
+Minha confiança é no amor leal de Deus, para todo o sempre.
+
+[[v19-52-9]]
+
+^<<v19-52-9,9>>^ Vou louvar-te para sempre, pois agiste;
+Na presença dos teus leais
+Esperarei no teu nome, pois ele é bom.
+
+'''
+
+xref:019-salmo/019-salmo-051.adoc#v19-51-0[&#60; Capítulo Anterior] | <<v19-52-0,Topo>> | xref:019-salmo/019-salmo-053.adoc#v19-53-0[Próximo Capítulo &#62;]

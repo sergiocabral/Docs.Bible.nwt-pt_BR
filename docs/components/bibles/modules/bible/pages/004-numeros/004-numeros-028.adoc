@@ -1,0 +1,181 @@
+include::./index.adoc[]
+
+[[v4-28-0]]
+=== Números, 28
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v4-28-1]]
+
+^<<v4-28-1,1>>^ Depois Jeová disse a Moisés:
+
+[[v4-28-2]]
+
+^<<v4-28-2,2>>^ “Ordene aos israelitas: ‘Vocês devem cuidar em me apresentar a minha oferta, o meu pão. Minhas ofertas feitas por fogo, como aroma agradável^&#42;1^ para mim, devem ser oferecidas nas épocas determinadas.’
+
+[NOTE]
+====
+. Ou: “apaziguador; calmante”. Lit.: “repousante”.
+====
+
+[[v4-28-3]]
+
+^<<v4-28-3,3>>^ “Diga-lhes: ‘Esta é a oferta feita por fogo que vocês apresentarão a Jeová: todo dia, dois cordeiros sadios de um ano, como oferta queimada a ser feita regularmente.
+
+[[v4-28-4]]
+
+^<<v4-28-4,4>>^ Você oferecerá um cordeiro pela manhã e o outro cordeiro entre o pôr do sol e a noite,^&#42;1^
+
+[NOTE]
+====
+. Lit.: “entre os dois anoiteceres”.
+====
+
+[[v4-28-5]]
+
+^<<v4-28-5,5>>^ junto com uma oferta de cereais de um décimo de uma efa^&#42;1^ de farinha fina, misturada com um quarto de um him^&#42;2^ de azeite de oliva puro.
+
+[NOTE]
+====
+. A décima parte de uma efa equivalia a 2,2 l. Veja Ap. B14.
+. Um him equivalia a 3,67 l. Veja Ap. B14.
+====
+
+[[v4-28-6]]
+
+^<<v4-28-6,6>>^ Trata-se de uma oferta queimada regular, que foi instituída no monte Sinai como aroma agradável,^&#42;1^ uma oferta feita por fogo a Jeová.
+
+[NOTE]
+====
+. Ou: “apaziguador; calmante”. Lit.: “repousante”.
+====
+
+[[v4-28-7]]
+
+^<<v4-28-7,7>>^ A oferta de bebida será de um quarto de um him para cada cordeiro. Derrame a bebida alcoólica no lugar santo como uma oferta de bebida para Jeová.
+
+[[v4-28-8]]
+
+^<<v4-28-8,8>>^ E o outro cordeiro você oferecerá entre o pôr do sol e a noite.^&#42;1^ Você o apresentará junto com uma oferta de cereais e a correspondente oferta de bebida, iguais às que foram feitas de manhã, como oferta feita por fogo, como aroma agradável^&#42;2^ para Jeová.
+
+[NOTE]
+====
+. Lit.: “entre os dois anoiteceres”.
+. Ou: “apaziguador; calmante”. Lit.: “repousante”.
+====
+
+[[v4-28-9]]
+
+^<<v4-28-9,9>>^ “‘Mas no dia de sábado a oferta deve ser de dois cordeiros sadios de um ano e dois décimos de uma efa de farinha fina misturada com azeite, como oferta de cereais, junto com a correspondente oferta de bebida.
+
+[[v4-28-10]]
+
+^<<v4-28-10,10>>^ Essa é a oferta queimada do sábado, além da oferta queimada regular e a correspondente oferta de bebida.
+
+[[v4-28-11]]
+
+^<<v4-28-11,11>>^ “‘No começo de cada mês,^&#42;1^ vocês apresentarão a Jeová como oferta queimada dois novilhos, um carneiro e sete cordeiros sadios de um ano.
+
+[NOTE]
+====
+. Lit.: “de seus meses”.
+====
+
+[[v4-28-12]]
+
+^<<v4-28-12,12>>^ E apresentarão três décimos de farinha fina misturada com azeite, como oferta de cereais para cada novilho, dois décimos de farinha fina misturada com azeite, como oferta de cereais para o carneiro,
+
+[[v4-28-13]]
+
+^<<v4-28-13,13>>^ e um décimo de farinha fina misturada com azeite, como oferta de cereais para cada cordeiro. É uma oferta queimada, um aroma agradável,^&#42;1^ uma oferta feita por fogo a Jeová.
+
+[NOTE]
+====
+. Ou: “apaziguador; calmante”. Lit.: “repousante”.
+====
+
+[[v4-28-14]]
+
+^<<v4-28-14,14>>^ E as ofertas de bebida devem ser de meio him de vinho por novilho, um terço de him para o carneiro e um quarto de him por cordeiro. Essa é a oferta queimada mensal, para cada mês do ano.
+
+[[v4-28-15]]
+
+^<<v4-28-15,15>>^ Também se deve oferecer a Jeová um cabrito como oferta pelo pecado, além da oferta queimada regular e a correspondente oferta de bebida.
+
+[[v4-28-16]]
+
+^<<v4-28-16,16>>^ “‘No primeiro mês, no dia 14 do mês, haverá a Páscoa de Jeová.
+
+[[v4-28-17]]
+
+^<<v4-28-17,17>>^ E, no dia 15 desse mês, haverá uma festividade. Por sete dias se comerão pães sem fermento.
+
+[[v4-28-18]]
+
+^<<v4-28-18,18>>^ No primeiro dia, haverá um santo congresso. Vocês não devem fazer nenhum trabalho árduo.
+
+[[v4-28-19]]
+
+^<<v4-28-19,19>>^ Vocês apresentarão como oferta queimada feita por fogo a Jeová dois novilhos, um carneiro e sete cordeiros de um ano. Vocês devem oferecer animais sadios.
+
+[[v4-28-20]]
+
+^<<v4-28-20,20>>^ Devem oferecê-los com as correspondentes ofertas de cereais de farinha fina misturada com azeite: três décimos por novilho, dois décimos para o carneiro
+
+[[v4-28-21]]
+
+^<<v4-28-21,21>>^ e um décimo para cada um dos sete cordeiros.
+
+[[v4-28-22]]
+
+^<<v4-28-22,22>>^ Vocês também devem oferecer um bode como oferta pelo pecado, para fazer expiação por vocês.
+
+[[v4-28-23]]
+
+^<<v4-28-23,23>>^ Vocês apresentarão essas ofertas além da oferta queimada da manhã, que faz parte da oferta queimada regular.
+
+[[v4-28-24]]
+
+^<<v4-28-24,24>>^ Vocês as oferecerão do mesmo modo todos os dias, durante os sete dias, como alimento,^&#42;1^ uma oferta feita por fogo, como aroma agradável^&#42;2^ para Jeová. Ela deve ser oferecida além da oferta queimada regular e da acompanhante oferta de bebida.
+
+[NOTE]
+====
+. Lit.: “pão”.
+. Ou: “apaziguador; calmante”. Lit.: “repousante”.
+====
+
+[[v4-28-25]]
+
+^<<v4-28-25,25>>^ No sétimo dia, vocês devem realizar um santo congresso. Não devem fazer nenhum trabalho árduo.
+
+[[v4-28-26]]
+
+^<<v4-28-26,26>>^ “‘No dia dos primeiros frutos maduros, quando apresentarem a Jeová uma oferta de cereais novos, vocês devem realizar um santo congresso na sua Festividade das Semanas. Não devem fazer nenhum trabalho árduo.
+
+[[v4-28-27]]
+
+^<<v4-28-27,27>>^ Vocês apresentarão como oferta queimada de aroma agradável^&#42;1^ para Jeová dois novilhos, um carneiro e sete cordeiros de um ano.
+
+[NOTE]
+====
+. Ou: “apaziguador; calmante”. Lit.: “repousante”.
+====
+
+[[v4-28-28]]
+
+^<<v4-28-28,28>>^ E, como oferta de cereais de farinha fina misturada com azeite, três décimos para cada novilho, dois décimos para o carneiro
+
+[[v4-28-29]]
+
+^<<v4-28-29,29>>^ e um décimo para cada um dos sete cordeiros.
+
+[[v4-28-30]]
+
+^<<v4-28-30,30>>^ Além disso, apresentarão um cabrito para fazer expiação por vocês.
+
+[[v4-28-31]]
+
+^<<v4-28-31,31>>^ Vocês apresentarão essas ofertas além da oferta queimada regular e da correspondente oferta de cereais. Os animais devem ser sadios e apresentados junto com as correspondentes ofertas de bebida.
+
+'''
+
+xref:004-numeros/004-numeros-027.adoc#v4-27-0[&#60; Capítulo Anterior] | <<v4-28-0,Topo>> | xref:004-numeros/004-numeros-029.adoc#v4-29-0[Próximo Capítulo &#62;]

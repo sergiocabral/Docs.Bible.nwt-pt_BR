@@ -1,0 +1,100 @@
+include::./index.adoc[]
+
+[[v19-108-0]]
+=== Salmos, 108
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Cântico. Salmo de Davi._
+
+[[v19-108-1]]
+
+^<<v19-108-1,1>>^ Meu coração está firme, ó Deus.
+Vou tocar e cantar louvores com todo o meu ser.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “até com a minha glória”.
+====
+
+[[v19-108-2]]
+
+^<<v19-108-2,2>>^ Desperte, ó instrumento de cordas; também você, ó harpa.
+Vou despertar a aurora.
+
+[[v19-108-3]]
+
+^<<v19-108-3,3>>^ Eu te louvarei entre os povos, ó Jeová,
+E cantarei louvores^&#42;1^ a ti entre as nações.
+
+[NOTE]
+====
+. Ou: “farei música”.
+====
+
+[[v19-108-4]]
+
+^<<v19-108-4,4>>^ Pois o teu amor leal é grande, alcança os céus,
+E a tua fidelidade atinge as nuvens.
+
+[[v19-108-5]]
+
+^<<v19-108-5,5>>^ Que sejas exaltado acima dos céus, ó Deus;
+Que a tua glória esteja sobre toda a terra.
+
+[[v19-108-6]]
+
+^<<v19-108-6,6>>^ A fim de que os teus amados sejam livrados,
+Salva-nos com a tua mão direita e responde-me.
+
+[[v19-108-7]]
+
+^<<v19-108-7,7>>^ Deus disse na sua santidade:^&#42;1^
+“Vou me alegrar, vou distribuir Siquém como herança
+E vou medir o vale^&#42;2^ de Sucote.
+
+[NOTE]
+====
+. Ou, possivelmente: “no seu lugar santo”.
+. Ou: “a baixada”.
+====
+
+[[v19-108-8]]
+
+^<<v19-108-8,8>>^ Gileade pertence a mim, assim como Manassés,
+E Efraim é o capacete^&#42;1^ da minha cabeça;
+Judá é o meu bastão de governante.
+
+[NOTE]
+====
+. Lit.: “a fortaleza”.
+====
+
+[[v19-108-9]]
+
+^<<v19-108-9,9>>^ Moabe é a bacia em que me lavo.
+Sobre Edom lançarei minha sandália.
+Sobre a Filístia gritarei em triunfo.”
+
+[[v19-108-10]]
+
+^<<v19-108-10,10>>^ Quem me conduzirá à cidade fortificada?
+Quem me guiará até Edom?
+
+[[v19-108-11]]
+
+^<<v19-108-11,11>>^ Quem, senão tu, ó Deus, aquele que nos rejeitou,
+O nosso Deus, aquele que não acompanha mais os nossos exércitos?
+
+[[v19-108-12]]
+
+^<<v19-108-12,12>>^ Ajuda-nos na nossa aflição,
+Pois a salvação pelos humanos não vale nada.
+
+[[v19-108-13]]
+
+^<<v19-108-13,13>>^ Por meio de Deus teremos força,
+E ele pisoteará os nossos adversários.
+
+'''
+
+xref:019-salmo/019-salmo-107.adoc#v19-107-0[&#60; Capítulo Anterior] | <<v19-108-0,Topo>> | xref:019-salmo/019-salmo-109.adoc#v19-109-0[Próximo Capítulo &#62;]

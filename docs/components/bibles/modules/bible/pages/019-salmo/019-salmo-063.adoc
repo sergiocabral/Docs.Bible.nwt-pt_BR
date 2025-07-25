@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v19-63-0]]
+=== Salmos, 63
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Salmo de Davi, quando ele estava no deserto de Judá._
+
+[[v19-63-1]]
+
+^<<v19-63-1,1>>^ Ó Deus, tu és o meu Deus, continuo à tua procura.
+Estou sedento^&#42;1^ de ti.
+Estou fraco^&#42;2^ de tanto ansiar por ti
+Numa terra seca e esgotada, onde não há água.
+
+[NOTE]
+====
+. Ou: “Minha alma está sedenta”.
+. Ou: “Minha carne está fraca”.
+====
+
+[[v19-63-2]]
+
+^<<v19-63-2,2>>^ Assim, eu te contemplei no lugar santo;
+Vi a tua força e a tua glória.
+
+[[v19-63-3]]
+
+^<<v19-63-3,3>>^ O teu amor leal é melhor do que a vida,
+Por isso meus lábios te glorificarão.
+
+[[v19-63-4]]
+
+^<<v19-63-4,4>>^ Portanto eu te louvarei por toda a minha vida;
+Ao teu nome levantarei minhas mãos.
+
+[[v19-63-5]]
+
+^<<v19-63-5,5>>^ Estou satisfeito^&#42;1^ com a melhor parte, a mais seleta;^&#42;2^
+Por isso minha boca te louvará com lábios alegres.
+
+[NOTE]
+====
+. Ou: “Minha alma está satisfeita”.
+. Lit.: “como com a parte gorda e a gordura”.
+====
+
+[[v19-63-6]]
+
+^<<v19-63-6,6>>^ Eu me lembro de ti quando estou deitado;
+Medito em ti durante as vigílias da noite.
+
+[[v19-63-7]]
+
+^<<v19-63-7,7>>^ Pois tu és o meu ajudador,
+E eu grito de alegria na sombra das tuas asas.
+
+[[v19-63-8]]
+
+^<<v19-63-8,8>>^ Eu me apego^&#42;1^ a ti;
+Tua mão direita me segura com firmeza.
+
+[NOTE]
+====
+. Ou: “Minha alma se apega”.
+====
+
+[[v19-63-9]]
+
+^<<v19-63-9,9>>^ Mas os que buscam destruir a minha vida^&#42;1^
+Descerão às profundezas da terra.
+
+[NOTE]
+====
+. Ou: “destruir a minha alma; me matar”.
+====
+
+[[v19-63-10]]
+
+^<<v19-63-10,10>>^ Serão entregues ao poder da espada;
+Eles se tornarão comida para os chacais.^&#42;1^
+
+[NOTE]
+====
+. Ou: “as raposas”.
+====
+
+[[v19-63-11]]
+
+^<<v19-63-11,11>>^ Mas o rei se alegrará em Deus.
+Todo aquele que jurar por Ele exultará,^&#42;1^
+Pois a boca dos que falam mentiras será silenciada.
+
+[NOTE]
+====
+. Ou: “se orgulhará”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-062.adoc#v19-62-0[&#60; Capítulo Anterior] | <<v19-63-0,Topo>> | xref:019-salmo/019-salmo-064.adoc#v19-64-0[Próximo Capítulo &#62;]

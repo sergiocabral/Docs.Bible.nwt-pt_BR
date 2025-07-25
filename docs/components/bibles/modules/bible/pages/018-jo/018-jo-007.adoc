@@ -1,0 +1,154 @@
+include::./index.adoc[]
+
+[[v18-7-0]]
+=== Jó, 7
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v18-7-1]]
+
+^<<v18-7-1,1>>^ “Não é a vida do homem mortal na terra como o trabalho obrigatório,
+E não são os seus dias como os de um trabalhador contratado?
+
+[[v18-7-2]]
+
+^<<v18-7-2,2>>^ Como um escravo, ele anseia pela sombra,
+E como um trabalhador contratado, ele espera por seu salário.
+
+[[v18-7-3]]
+
+^<<v18-7-3,3>>^ Assim, designaram-me meses de futilidade
+E deram-me noites de aflição.
+
+[[v18-7-4]]
+
+^<<v18-7-4,4>>^ Ao deitar-me, eu me pergunto: ‘Quando me levantarei?’
+Mas, enquanto a noite se arrasta, eu me viro na cama até o raiar do dia.^&#42;1^
+
+[NOTE]
+====
+. Ou: “até o crepúsculo da manhã”.
+====
+
+[[v18-7-5]]
+
+^<<v18-7-5,5>>^ Meu corpo está coberto^&#42;1^ de vermes e de crostas de pó;
+Minha pele está cheia de feridas e de pus.
+
+[NOTE]
+====
+. Ou: “Minha carne está coberta”.
+====
+
+[[v18-7-6]]
+
+^<<v18-7-6,6>>^ Meus dias passam mais rápido do que a lançadeira do tecelão,
+E se acabam sem esperança.
+
+[[v18-7-7]]
+
+^<<v18-7-7,7>>^ Lembra-te de que a minha vida é como o vento,
+De que os meus olhos nunca mais verão a felicidade.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “o bem”.
+====
+
+[[v18-7-8]]
+
+^<<v18-7-8,8>>^ Os olhos que me veem agora não me verão mais;
+Teus olhos procurarão por mim, mas já não existirei.
+
+[[v18-7-9]]
+
+^<<v18-7-9,9>>^ Como a nuvem que se desfaz e desaparece,
+Quem desce à Sepultura^&#42;1^ não voltará.
+
+[NOTE]
+====
+. Ou: “ao Seol”, isto é, a sepultura comum da humanidade. Veja o Glossário.
+====
+
+[[v18-7-10]]
+
+^<<v18-7-10,10>>^ Não retornará mais à sua casa,
+E o seu lugar não o conhecerá mais.
+
+[[v18-7-11]]
+
+^<<v18-7-11,11>>^ Portanto, não ficarei calado.
+Vou falar na angústia do meu espírito;
+Vou me queixar na minha amargura.^&#42;1^
+
+[NOTE]
+====
+. Ou: “com a amargura da minha alma”.
+====
+
+[[v18-7-12]]
+
+^<<v18-7-12,12>>^ Por acaso sou o mar ou um monstro marinho,
+Para que coloques um vigia sobre mim?
+
+[[v18-7-13]]
+
+^<<v18-7-13,13>>^ Quando eu digo: ‘Meu leito me consolará;
+Minha cama ajudará a aliviar meu sofrimento’,
+
+[[v18-7-14]]
+
+^<<v18-7-14,14>>^ Tu me aterrorizas com sonhos,
+E me assustas com visões,
+
+[[v18-7-15]]
+
+^<<v18-7-15,15>>^ De modo que eu prefiro morrer sufocado,^&#42;1^
+Sim, prefiro morrer, a viver com este corpo.^&#42;2^
+
+[NOTE]
+====
+. Ou: “minha alma prefere morrer sufocada”.
+. Ou: “com os meus ossos”.
+====
+
+[[v18-7-16]]
+
+^<<v18-7-16,16>>^ Detesto a minha vida, não quero mais viver.
+Deixa-me em paz, pois os meus dias são como um sopro.
+
+[[v18-7-17]]
+
+^<<v18-7-17,17>>^ O que é o homem mortal, para que te preocupes com ele
+E fixes tua atenção^&#42;1^ nele?
+
+[NOTE]
+====
+. Lit.: “fixes teu coração”.
+====
+
+[[v18-7-18]]
+
+^<<v18-7-18,18>>^ Por que o examinas a cada manhã
+E o provas a cada instante?
+
+[[v18-7-19]]
+
+^<<v18-7-19,19>>^ Será que não desviarás o teu olhar de mim
+E não me darás tempo nem mesmo para eu engolir a minha saliva?
+
+[[v18-7-20]]
+
+^<<v18-7-20,20>>^ Se pequei, como eu poderia prejudicar a ti, o Observador da humanidade?
+Por que fizeste de mim o teu alvo?
+Será que me tornei um fardo para ti?
+
+[[v18-7-21]]
+
+^<<v18-7-21,21>>^ Por que não perdoas a minha transgressão
+E não deixas passar o meu erro?
+Pois logo me deitarei no pó;
+Tu me procurarás e não mais existirei.”
+
+'''
+
+xref:018-jo/018-jo-006.adoc#v18-6-0[&#60; Capítulo Anterior] | <<v18-7-0,Topo>> | xref:018-jo/018-jo-008.adoc#v18-8-0[Próximo Capítulo &#62;]

@@ -1,0 +1,164 @@
+include::./index.adoc[]
+
+[[v19-49-0]]
+=== Salmos, 49
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Ao regente. Salmo dos filhos de Corá._
+
+[[v19-49-1]]
+
+^<<v19-49-1,1>>^ Ouçam isto, todos os povos.
+Prestem atenção, todos os que vivem no mundo,^&#42;1^
+
+[NOTE]
+====
+. Ou: “sistema de coisas”.
+====
+
+[[v19-49-2]]
+
+^<<v19-49-2,2>>^ Tanto pequenos como grandes,^&#42;1^
+Tanto ricos como pobres.
+
+[NOTE]
+====
+. Lit.: “Tanto filhos da humanidade como filhos de homem”.
+====
+
+[[v19-49-3]]
+
+^<<v19-49-3,3>>^ Minha boca falará com sabedoria,
+E as reflexões do meu coração revelarão entendimento.
+
+[[v19-49-4]]
+
+^<<v19-49-4,4>>^ Prestarei atenção em um provérbio;
+Explicarei o meu enigma com a harpa.
+
+[[v19-49-5]]
+
+^<<v19-49-5,5>>^ Por que deverei ficar com medo em tempos de aflição,
+Quando estiver cercado pela maldade^&#42;1^ dos que tentam me derrubar?
+
+[NOTE]
+====
+. Ou: “pelo erro”.
+====
+
+[[v19-49-6]]
+
+^<<v19-49-6,6>>^ Aqueles que confiam na sua fortuna
+E se gabam das suas muitas riquezas,
+
+[[v19-49-7]]
+
+^<<v19-49-7,7>>^ Nenhum deles pode jamais remir^&#42;1^ um irmão
+Nem dar a Deus um resgate por ele
+
+[NOTE]
+====
+. Ou: “salvar”.
+====
+
+[[v19-49-8]]
+
+^<<v19-49-8,8>>^ (O preço de resgate^&#42;1^ pela sua vida^&#42;2^ é tão alto
+Que estará sempre além do alcance deles),
+
+[NOTE]
+====
+. Ou: “redenção”.
+. Ou: “alma”.
+====
+
+[[v19-49-9]]
+
+^<<v19-49-9,9>>^ Para que ele viva para sempre e não veja a cova.^&#42;1^
+
+[NOTE]
+====
+. Ou: “sepultura”.
+====
+
+[[v19-49-10]]
+
+^<<v19-49-10,10>>^ O homem vê que até mesmo os sábios morrem;
+O tolo e o insensato perecem juntos,
+Deixando sua riqueza para outros.
+
+[[v19-49-11]]
+
+^<<v19-49-11,11>>^ No íntimo, o desejo deles é que suas casas durem para sempre;
+Suas tendas, geração após geração.
+Eles deram seu nome às suas propriedades.
+
+[[v19-49-12]]
+
+^<<v19-49-12,12>>^ Mas o homem, mesmo que tenha prestígio, não permanecerá;
+Ele não é melhor que os animais, que morrem.
+
+[[v19-49-13]]
+
+^<<v19-49-13,13>>^ Esse é o caminho dos tolos
+E dos que os seguem, que têm prazer em suas palavras vazias. (Selá)
+
+[[v19-49-14]]
+
+^<<v19-49-14,14>>^ Como ovelhas, foram condenados à Sepultura.^&#42;1^
+A morte os pastoreará;
+De manhã, aqueles que são retos dominarão sobre eles.
+Todo vestígio deles desaparecerá;
+A Sepultura,^&#42;2^ e não um palácio, será a sua morada.
+
+[NOTE]
+====
+. Ou: “ao Seol”, isto é, a sepultura comum da humanidade. Veja o Glossário.
+. Ou: “O Seol”.
+====
+
+[[v19-49-15]]
+
+^<<v19-49-15,15>>^ Mas Deus me resgatará^&#42;1^ do poder^&#42;2^ da Sepultura,^&#42;3^
+Pois de lá ele me tomará. (Selá)
+
+[NOTE]
+====
+. Ou: “resgatará a minha alma”.
+. Lit.: “da mão”.
+. Ou: “do Seol”.
+====
+
+[[v19-49-16]]
+
+^<<v19-49-16,16>>^ Não tenha medo quando um homem enriquece,
+Quando o esplendor da sua casa aumenta,
+
+[[v19-49-17]]
+
+^<<v19-49-17,17>>^ Pois, quando ele morrer, não poderá levar nada consigo;
+Seu esplendor não descerá com ele.
+
+[[v19-49-18]]
+
+^<<v19-49-18,18>>^ Pois durante a sua vida ele felicita a si mesmo^&#42;1^
+(As pessoas elogiam você, quando prospera),
+
+[NOTE]
+====
+. Ou: “felicita a sua alma”.
+====
+
+[[v19-49-19]]
+
+^<<v19-49-19,19>>^ Mas por fim ele se junta à geração dos seus antepassados.
+Eles nunca mais verão a luz.
+
+[[v19-49-20]]
+
+^<<v19-49-20,20>>^ O homem que não entende isso, mesmo que tenha prestígio,
+Não é melhor que os animais, que morrem.
+
+'''
+
+xref:019-salmo/019-salmo-048.adoc#v19-48-0[&#60; Capítulo Anterior] | <<v19-49-0,Topo>> | xref:019-salmo/019-salmo-050.adoc#v19-50-0[Próximo Capítulo &#62;]

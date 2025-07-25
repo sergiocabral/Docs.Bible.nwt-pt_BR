@@ -1,0 +1,167 @@
+include::./index.adoc[]
+
+[[v42-15-0]]
+=== Segundo Lucas, 15
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v42-15-1]]
+
+^<<v42-15-1,1>>^ Todos os cobradores de impostos e os pecadores se juntavam em volta dele para ouvi-lo.
+
+[[v42-15-2]]
+
+^<<v42-15-2,2>>^ E tanto os fariseus como os escribas resmungavam: “Este homem acolhe pecadores e come com eles.”
+
+[[v42-15-3]]
+
+^<<v42-15-3,3>>^ Então ele lhes contou a seguinte ilustração:
+
+[[v42-15-4]]
+
+^<<v42-15-4,4>>^ “Que homem entre vocês que, tendo 100 ovelhas e perdendo uma delas, não deixa as 99 para trás no deserto e vai em busca da perdida, até achá-la?
+
+[[v42-15-5]]
+
+^<<v42-15-5,5>>^ E, quando a acha, ele a põe nos ombros e se alegra.
+
+[[v42-15-6]]
+
+^<<v42-15-6,6>>^ E, ao chegar em casa, ele reúne seus amigos e seus vizinhos, e diz a eles: ‘Alegrem-se comigo, porque achei a minha ovelha que estava perdida.’
+
+[[v42-15-7]]
+
+^<<v42-15-7,7>>^ Eu lhes digo que, da mesma forma, haverá mais alegria no céu por causa de um pecador que se arrepende do que por causa de 99 justos que não precisam de arrependimento.
+
+[[v42-15-8]]
+
+^<<v42-15-8,8>>^ “Ou que mulher que, tendo dez dracmas^&#42;1^ e perdendo uma dracma, não acende uma lâmpada, varre a casa e procura cuidadosamente até achá-la?
+
+[NOTE]
+====
+. Veja Ap. B14.
+====
+
+[[v42-15-9]]
+
+^<<v42-15-9,9>>^ E, quando a acha, ela reúne as suas amigas e vizinhas, e diz: ‘Alegrem-se comigo, porque achei a dracma^&#42;1^ que havia perdido.’
+
+[NOTE]
+====
+. Veja Ap. B14.
+====
+
+[[v42-15-10]]
+
+^<<v42-15-10,10>>^ Eu lhes digo que, da mesma forma, há alegria entre os anjos de Deus por causa de um pecador que se arrepende.”
+
+[[v42-15-11]]
+
+^<<v42-15-11,11>>^ Ele disse então: “Um homem tinha dois filhos.
+
+[[v42-15-12]]
+
+^<<v42-15-12,12>>^ E o mais novo disse ao seu pai: ‘Pai, dê-me a parte dos bens a que tenho direito.’ Então ele dividiu os seus bens entre eles.
+
+[[v42-15-13]]
+
+^<<v42-15-13,13>>^ Poucos dias depois, o filho mais novo juntou tudo que tinha e viajou para um país distante, e ali esbanjou os seus bens levando uma vida devassa.^&#42;1^
+
+[NOTE]
+====
+. Ou: “de desperdício; irresponsável”.
+====
+
+[[v42-15-14]]
+
+^<<v42-15-14,14>>^ Quando já tinha gastado tudo, ocorreu uma fome severa em todo aquele país, e ele começou a passar necessidade.
+
+[[v42-15-15]]
+
+^<<v42-15-15,15>>^ Ele até mesmo se pôs a serviço de um dos cidadãos daquele país, que o enviou aos seus campos para cuidar de porcos.
+
+[[v42-15-16]]
+
+^<<v42-15-16,16>>^ E ele desejava matar a fome com as alfarrobas que os porcos comiam, mas ninguém lhe dava nada.
+
+[[v42-15-17]]
+
+^<<v42-15-17,17>>^ “Quando caiu em si, ele disse: ‘Quantos empregados do meu pai têm fartura de pão, enquanto eu estou aqui morrendo de fome!
+
+[[v42-15-18]]
+
+^<<v42-15-18,18>>^ Vou partir e voltar para a casa do meu pai e lhe dizer: “Pai, pequei contra o céu e contra o senhor.
+
+[[v42-15-19]]
+
+^<<v42-15-19,19>>^ Não sou mais digno de ser chamado seu filho. Trate-me como um dos seus empregados.”’
+
+[[v42-15-20]]
+
+^<<v42-15-20,20>>^ Assim, levantou-se e foi ao encontro do seu pai. Enquanto ele ainda estava longe, seu pai o avistou e teve pena; então correu, e o abraçou^&#42;1^ e beijou ternamente.
+
+[NOTE]
+====
+. Lit.: “se lançou ao pescoço dele”.
+====
+
+[[v42-15-21]]
+
+^<<v42-15-21,21>>^ O filho lhe disse então: ‘Pai, pequei contra o céu e contra o senhor. Não sou mais digno de ser chamado seu filho.’
+
+[[v42-15-22]]
+
+^<<v42-15-22,22>>^ Mas o pai disse aos seus escravos: ‘Depressa! Tragam uma veste comprida, a melhor, e vistam-no com ela, e ponham-lhe um anel na mão e sandálias nos pés.
+
+[[v42-15-23]]
+
+^<<v42-15-23,23>>^ Tragam também o bezerro gordo, abatam-no, e vamos comer e festejar,
+
+[[v42-15-24]]
+
+^<<v42-15-24,24>>^ porque este meu filho estava morto e voltou a viver, estava perdido e foi achado.’ E começaram a festejar.
+
+[[v42-15-25]]
+
+^<<v42-15-25,25>>^ “O filho mais velho estava no campo e, ao voltar, quando se aproximava da casa, ouviu o som de música e dança.
+
+[[v42-15-26]]
+
+^<<v42-15-26,26>>^ De modo que chamou um dos servos e perguntou o que estava acontecendo.
+
+[[v42-15-27]]
+
+^<<v42-15-27,27>>^ Este lhe disse: ‘Seu irmão chegou, e seu pai abateu o bezerro gordo porque o recebeu de volta com boa saúde.’^&#42;1^
+
+[NOTE]
+====
+. Ou: “em segurança”.
+====
+
+[[v42-15-28]]
+
+^<<v42-15-28,28>>^ Mas ele ficou irado e se recusou a entrar. Então seu pai saiu e começou a lhe suplicar que entrasse.
+
+[[v42-15-29]]
+
+^<<v42-15-29,29>>^ Em resposta, ele disse ao pai: ‘Trabalhei tantos anos como escravo para o senhor e nunca desobedeci às suas ordens. Mesmo assim, nem uma vez o senhor me deu um cabrito para eu festejar com os meus amigos.
+
+[[v42-15-30]]
+
+^<<v42-15-30,30>>^ Mas assim que chegou esse seu filho, que esbanjou^&#42;1^ os bens do senhor com as prostitutas, o senhor abateu o bezerro gordo para ele.’
+
+[NOTE]
+====
+. Lit.: “devorou”.
+====
+
+[[v42-15-31]]
+
+^<<v42-15-31,31>>^ Ele lhe disse então: ‘Meu filho, você sempre esteve comigo e todas as minhas coisas são suas.
+
+[[v42-15-32]]
+
+^<<v42-15-32,32>>^ Mas nós simplesmente tivemos de festejar e nos alegrar, porque seu irmão estava morto e voltou a viver, estava perdido e foi achado.’”
+
+'''
+
+xref:042-lucas/042-lucas-014.adoc#v42-14-0[&#60; Capítulo Anterior] | <<v42-15-0,Topo>> | xref:042-lucas/042-lucas-016.adoc#v42-16-0[Próximo Capítulo &#62;]

@@ -1,0 +1,225 @@
+include::./index.adoc[]
+
+[[v42-4-0]]
+=== Segundo Lucas, 4
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v42-4-1]]
+
+^<<v42-4-1,1>>^ Então Jesus, cheio de espírito santo, se afastou do Jordão e foi conduzido pelo espírito, no deserto,
+
+[[v42-4-2]]
+
+^<<v42-4-2,2>>^ por 40 dias, e foi tentado pelo Diabo. Ele não comeu nada naqueles dias; assim, quando terminaram, ele sentiu fome.
+
+[[v42-4-3]]
+
+^<<v42-4-3,3>>^ O Diabo lhe disse então: “Se você é filho de Deus, diga a esta pedra que se transforme em pão.”
+
+[[v42-4-4]]
+
+^<<v42-4-4,4>>^ Mas Jesus lhe respondeu: “Está escrito: ‘O homem não deve viver somente de pão.’”
+
+[[v42-4-5]]
+
+^<<v42-4-5,5>>^ Assim ele o levou para cima e lhe mostrou todos os reinos da terra habitada, num instante.
+
+[[v42-4-6]]
+
+^<<v42-4-6,6>>^ Então, o Diabo lhe disse: “Eu lhe darei toda esta autoridade, bem como a glória destes reinos, porque ela me foi entregue e a dou a quem eu quiser.
+
+[[v42-4-7]]
+
+^<<v42-4-7,7>>^ Portanto, se você fizer um ato de adoração diante de mim, tudo será seu.”
+
+[[v42-4-8]]
+
+^<<v42-4-8,8>>^ Em resposta, Jesus lhe disse: “Está escrito: ‘Adore a Jeová,^&#42;1^ seu Deus, e preste serviço sagrado apenas a ele.’”
+
+[NOTE]
+====
+. Veja Ap. A5.
+====
+
+[[v42-4-9]]
+
+^<<v42-4-9,9>>^ Ele o levou então a Jerusalém, colocou-o sobre o parapeito^&#42;1^ do templo e lhe disse: “Se você é filho de Deus, jogue-se daqui para baixo,
+
+[NOTE]
+====
+. Ou: “ponto mais alto”.
+====
+
+[[v42-4-10]]
+
+^<<v42-4-10,10>>^ pois está escrito: ‘Ele dará aos seus anjos uma ordem referente a você, para protegê-lo’,
+
+[[v42-4-11]]
+
+^<<v42-4-11,11>>^ e: ‘Eles o carregarão nas mãos, para que não bata com o pé numa pedra.’”
+
+[[v42-4-12]]
+
+^<<v42-4-12,12>>^ Em resposta, Jesus lhe disse: “Foi dito: ‘Não ponha Jeová,^&#42;1^ seu Deus, à prova.’”
+
+[NOTE]
+====
+. Veja Ap. A5.
+====
+
+[[v42-4-13]]
+
+^<<v42-4-13,13>>^ Assim, depois de terminar toda a tentação, o Diabo o deixou até outra ocasião conveniente.
+
+[[v42-4-14]]
+
+^<<v42-4-14,14>>^ Jesus voltou então no poder do espírito para a Galileia. E boas notícias sobre ele se espalharam por toda a região ao redor.
+
+[[v42-4-15]]
+
+^<<v42-4-15,15>>^ Também, ele começou a ensinar nas sinagogas deles, e era honrado por todos.
+
+[[v42-4-16]]
+
+^<<v42-4-16,16>>^ Então ele foi para Nazaré, onde tinha sido criado, e, segundo o seu costume no dia de sábado, entrou na sinagoga e se levantou para ler.
+
+[[v42-4-17]]
+
+^<<v42-4-17,17>>^ Assim, foi-lhe entregue o rolo do profeta Isaías, e ele abriu o rolo e achou o lugar onde estava escrito:
+
+[[v42-4-18]]
+
+^<<v42-4-18,18>>^ “O espírito de Jeová^&#42;1^ está sobre mim, porque Ele me ungiu para declarar boas novas aos pobres. Enviou-me para proclamar liberdade aos cativos e recuperação da visão aos cegos, para dar livramento aos esmagados,
+
+[NOTE]
+====
+. Veja Ap. A5.
+====
+
+[[v42-4-19]]
+
+^<<v42-4-19,19>>^ para pregar o ano aceitável de Jeová.”^&#42;1^
+
+[NOTE]
+====
+. Veja Ap. A5.
+====
+
+[[v42-4-20]]
+
+^<<v42-4-20,20>>^ Com isso, enrolou o rolo, entregou-o de volta ao assistente e se sentou; e os olhos de todos na sinagoga estavam atentamente fixos nele.
+
+[[v42-4-21]]
+
+^<<v42-4-21,21>>^ Então ele começou a lhes dizer: “Hoje se cumpriu essa passagem das Escrituras que vocês acabam de ouvir.”
+
+[[v42-4-22]]
+
+^<<v42-4-22,22>>^ E todos começaram a falar bem dele e a se maravilhar com as palavras cativantes que saíam da sua boca, e diziam: “Não é este o filho de José?”
+
+[[v42-4-23]]
+
+^<<v42-4-23,23>>^ Em vista disso, ele lhes disse: “Sem dúvida vocês aplicarão a mim o seguinte ditado: ‘Médico, cure a si mesmo’, e dirão: ‘Faça também aqui na sua própria cidade^&#42;1^ as coisas que ouvimos dizer que foram feitas em Cafarnaum.’”
+
+[NOTE]
+====
+. Ou: “no seu próprio território”.
+====
+
+[[v42-4-24]]
+
+^<<v42-4-24,24>>^ Então ele disse: “Eu lhes digo a verdade: Nenhum profeta é aceito na sua própria terra.
+
+[[v42-4-25]]
+
+^<<v42-4-25,25>>^ Garanto a vocês que havia muitas viúvas em Israel nos dias de Elias, quando o céu se fechou por três anos e seis meses e houve uma grande fome em toda aquela terra.
+
+[[v42-4-26]]
+
+^<<v42-4-26,26>>^ Mesmo assim, Elias não foi enviado a nenhuma dessas mulheres, mas apenas a uma viúva de Sarefá, na terra de Sídon.
+
+[[v42-4-27]]
+
+^<<v42-4-27,27>>^ Havia também muitos leprosos em Israel no tempo de Eliseu, o profeta; contudo, nenhum deles foi purificado,^&#42;1^ mas apenas Naamã, o sírio.”
+
+[NOTE]
+====
+. Ou: “curado”.
+====
+
+[[v42-4-28]]
+
+^<<v42-4-28,28>>^ E todos os que ouviam essas coisas na sinagoga ficaram cheios de ira,
+
+[[v42-4-29]]
+
+^<<v42-4-29,29>>^ e se levantaram, o conduziram às pressas para fora da cidade e o levaram à beira da montanha em que a sua cidade se situava, a fim de lançá-lo para baixo.
+
+[[v42-4-30]]
+
+^<<v42-4-30,30>>^ Mas ele passou pelo meio deles e seguiu caminho.
+
+[[v42-4-31]]
+
+^<<v42-4-31,31>>^ Ele desceu então a Cafarnaum, uma cidade da Galileia. Ele os estava ensinando no sábado,
+
+[[v42-4-32]]
+
+^<<v42-4-32,32>>^ e eles estavam maravilhados com o seu modo de ensinar, porque ele falava com autoridade.
+
+[[v42-4-33]]
+
+^<<v42-4-33,33>>^ Havia na sinagoga um homem com um espírito, um demônio impuro, e ele gritou bem alto:
+
+[[v42-4-34]]
+
+^<<v42-4-34,34>>^ “Ah! o que você quer conosco,^&#42;1^ Jesus Nazareno? Veio nos destruir? Eu sei exatamente quem você é: o Santo de Deus.”
+
+[NOTE]
+====
+. Ou: “o que nós temos a ver com você”.
+====
+
+[[v42-4-35]]
+
+^<<v42-4-35,35>>^ Mas Jesus o censurou, dizendo: “Cale-se e saia dele.” Assim, depois de lançar o homem no chão no meio deles, o demônio saiu dele sem feri-lo.
+
+[[v42-4-36]]
+
+^<<v42-4-36,36>>^ Em vista disso, todos ficaram pasmados e começaram a dizer uns aos outros: “Que palavras são essas? Pois ele dá ordens aos espíritos impuros, com autoridade e poder, e eles saem!”
+
+[[v42-4-37]]
+
+^<<v42-4-37,37>>^ De modo que as notícias sobre ele se espalhavam por todos os lugares da região ao redor.
+
+[[v42-4-38]]
+
+^<<v42-4-38,38>>^ Depois de sair da sinagoga, ele entrou na casa de Simão. A sogra de Simão estava sofrendo, com uma febre alta, e pediram a ele que a ajudasse.
+
+[[v42-4-39]]
+
+^<<v42-4-39,39>>^ Então ele se inclinou sobre ela e censurou a febre, que a deixou. Ela se levantou no mesmo instante e começou a servi-los.
+
+[[v42-4-40]]
+
+^<<v42-4-40,40>>^ Mas, ao pôr do sol, todos os que tinham consigo doentes, com as mais variadas enfermidades, os levaram a ele. Ele punha as mãos sobre cada um deles e os curava.
+
+[[v42-4-41]]
+
+^<<v42-4-41,41>>^ Demônios também saíam de muitos, gritando: “Você é o Filho de Deus.” Mas ele os censurava e não permitia que falassem, pois sabiam que ele era o Cristo.
+
+[[v42-4-42]]
+
+^<<v42-4-42,42>>^ No entanto, quando o dia amanheceu, ele saiu e foi para um lugar isolado. As multidões, porém, começaram a procurar por ele e chegaram até onde ele estava, e tentaram impedir que ele as deixasse.
+
+[[v42-4-43]]
+
+^<<v42-4-43,43>>^ Mas ele lhes disse: “Tenho de declarar as boas novas do Reino de Deus também a outras cidades, porque fui enviado para isso.”
+
+[[v42-4-44]]
+
+^<<v42-4-44,44>>^ Assim, ele seguiu pregando nas sinagogas da Judeia.
+
+'''
+
+xref:042-lucas/042-lucas-003.adoc#v42-3-0[&#60; Capítulo Anterior] | <<v42-4-0,Topo>> | xref:042-lucas/042-lucas-005.adoc#v42-5-0[Próximo Capítulo &#62;]

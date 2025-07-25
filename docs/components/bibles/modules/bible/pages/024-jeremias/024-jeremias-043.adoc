@@ -1,0 +1,84 @@
+include::./index.adoc[]
+
+[[v24-43-0]]
+=== Jeremias, 43
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v24-43-1]]
+
+^<<v24-43-1,1>>^ Quando Jeremias acabou de falar a todo o povo todas as palavras de Jeová, seu Deus, sim, cada palavra que Jeová, seu Deus, o havia mandado dizer-lhes,
+
+[[v24-43-2]]
+
+^<<v24-43-2,2>>^ Azarias, filho de Osaías; Joanã, filho de Careá; e todos os homens presunçosos disseram a Jeremias: “O que você está dizendo é mentira! Jeová, nosso Deus, não o enviou para dizer: ‘Não vão para o Egito para morar lá.’
+
+[[v24-43-3]]
+
+^<<v24-43-3,3>>^ Mas é Baruque, filho de Nerias, que está instigando você contra nós para nos entregar aos caldeus a fim de sermos mortos ou levados para o exílio em Babilônia.”
+
+[[v24-43-4]]
+
+^<<v24-43-4,4>>^ Assim Joanã, filho de Careá, todos os chefes do exército e todo o povo desobedeceram à ordem de Jeová de permanecer na terra de Judá.
+
+[[v24-43-5]]
+
+^<<v24-43-5,5>>^ Em vez disso, Joanã, filho de Careá, e todos os chefes do exército levaram embora todo o restante de Judá que tinha voltado para morar na terra de Judá, vindo de todas as nações às quais tinha sido espalhado.
+
+[[v24-43-6]]
+
+^<<v24-43-6,6>>^ Levaram embora os homens, as mulheres, as crianças, as filhas do rei e todos aqueles^&#42;1^ que Nebuzaradã, chefe da guarda, havia deixado com Gedalias, filho de Aicão, filho de Safã; levaram também o profeta Jeremias e Baruque, filho de Nerias.
+
+[NOTE]
+====
+. Ou: “toda alma”.
+====
+
+[[v24-43-7]]
+
+^<<v24-43-7,7>>^ E eles foram para a terra do Egito, pois não obedeceram à voz de Jeová, e foram até Tafnes.
+
+[[v24-43-8]]
+
+^<<v24-43-8,8>>^ Então Jeremias recebeu em Tafnes a seguinte palavra de Jeová:
+
+[[v24-43-9]]
+
+^<<v24-43-9,9>>^ “Pegue algumas pedras grandes e, diante dos olhos dos judeus, esconda-as na argamassa do pátio de tijolos que fica na entrada da casa de Faraó, em Tafnes.
+
+[[v24-43-10]]
+
+^<<v24-43-10,10>>^ E diga a eles: ‘Assim diz Jeová dos exércitos, o Deus de Israel: “Estou convocando Nabucodonosor,^&#42;1^ rei de Babilônia, meu servo, e vou colocar o seu trono bem em cima destas pedras que escondi, e ele armará a sua tenda real sobre elas.
+
+[NOTE]
+====
+. Lit.: “Nabucodorosor”, grafia variante.
+====
+
+[[v24-43-11]]
+
+^<<v24-43-11,11>>^ Ele virá e atacará a terra do Egito. Quem tiver de ser morto pela praga mortífera, será morto pela praga mortífera; quem tiver de ir para o cativeiro, irá para o cativeiro; quem tiver de ser morto pela espada, será morto pela espada.
+
+[[v24-43-12]]
+
+^<<v24-43-12,12>>^ E eu porei fogo nas casas^&#42;1^ dos deuses do Egito; ele as queimará e os levará cativos. Ele se cobrirá com a terra do Egito, assim como o pastor se cobre com a sua roupa, e sairá de lá ileso.^&#42;2^
+
+[NOTE]
+====
+. Ou: “nos templos”.
+. Lit.: “em paz”.
+====
+
+[[v24-43-13]]
+
+^<<v24-43-13,13>>^ E destroçará as colunas^&#42;1^ de Bete-Semes^&#42;2^ na terra do Egito e queimará com fogo as casas^&#42;3^ dos deuses do Egito.”’”
+
+[NOTE]
+====
+. Ou: “os obeliscos”.
+. Ou: “da Casa (do Templo) do Sol”, isto é, Heliópolis.
+. Ou: “os templos”.
+====
+
+'''
+
+xref:024-jeremias/024-jeremias-042.adoc#v24-42-0[&#60; Capítulo Anterior] | <<v24-43-0,Topo>> | xref:024-jeremias/024-jeremias-044.adoc#v24-44-0[Próximo Capítulo &#62;]

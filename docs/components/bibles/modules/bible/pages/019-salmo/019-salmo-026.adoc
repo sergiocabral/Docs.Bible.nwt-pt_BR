@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v19-26-0]]
+=== Salmos, 26
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_De Davi._
+
+[[v19-26-1]]
+
+^<<v19-26-1,1>>^ Julga-me, ó Jeová, porque tenho andado na minha integridade;
+Em Jeová eu tenho confiado, sem vacilar.
+
+[[v19-26-2]]
+
+^<<v19-26-2,2>>^ Examina-me, ó Jeová, e põe-me à prova;
+Refina meus pensamentos mais íntimos^&#42;1^ e meu coração.
+
+[NOTE]
+====
+. Ou: “minhas emoções mais profundas”. Lit.: “meus rins”.
+====
+
+[[v19-26-3]]
+
+^<<v19-26-3,3>>^ Pois o teu amor leal está sempre diante de mim,
+E eu ando na tua verdade.
+
+[[v19-26-4]]
+
+^<<v19-26-4,4>>^ Não tenho convivência^&#42;1^ com homens mentirosos
+E evito os que escondem o que são.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “me sento”.
+. Ou: “não me misturo com hipócritas”.
+====
+
+[[v19-26-5]]
+
+^<<v19-26-5,5>>^ Odeio a companhia dos malfeitores
+E me recuso a andar^&#42;1^ com pessoas más.
+
+[NOTE]
+====
+. Lit.: “não me sento”.
+====
+
+[[v19-26-6]]
+
+^<<v19-26-6,6>>^ Lavarei as mãos na inocência
+E vou marchar ao redor do teu altar, ó Jeová,
+
+[[v19-26-7]]
+
+^<<v19-26-7,7>>^ Para fazer que seja ouvido o som de agradecimentos
+E para declarar todos os teus atos maravilhosos.
+
+[[v19-26-8]]
+
+^<<v19-26-8,8>>^ Jeová, eu amo a casa onde habitas,
+O lugar onde a tua glória reside.
+
+[[v19-26-9]]
+
+^<<v19-26-9,9>>^ Não me elimines^&#42;1^ com os pecadores
+Nem tires a minha vida com a de homens violentos,^&#42;2^
+
+[NOTE]
+====
+. Ou: “Não elimines a minha alma”.
+. Ou: “homens culpados de sangue”.
+====
+
+[[v19-26-10]]
+
+^<<v19-26-10,10>>^ Cujas mãos se ocupam com conduta vergonhosa
+E cuja mão direita está cheia de suborno.
+
+[[v19-26-11]]
+
+^<<v19-26-11,11>>^ Quanto a mim, andarei na minha integridade.
+Livra-me^&#42;1^ e mostra-me favor.
+
+[NOTE]
+====
+. Lit.: “Resgata-me”.
+====
+
+[[v19-26-12]]
+
+^<<v19-26-12,12>>^ Meu pé está num terreno plano;
+Na grande congregação,^&#42;1^ louvarei a Jeová.
+
+[NOTE]
+====
+. Lit.: “Em assembleias”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-025.adoc#v19-25-0[&#60; Capítulo Anterior] | <<v19-26-0,Topo>> | xref:019-salmo/019-salmo-027.adoc#v19-27-0[Próximo Capítulo &#62;]

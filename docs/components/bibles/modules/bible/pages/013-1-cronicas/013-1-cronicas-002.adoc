@@ -1,0 +1,275 @@
+include::./index.adoc[]
+
+[[v13-2-0]]
+=== O Primeiro das Crônicas, 2
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v13-2-1]]
+
+^<<v13-2-1,1>>^ Estes foram os filhos de Israel: Rubem, Simeão, Levi, Judá, Issacar, Zebulão,
+
+[[v13-2-2]]
+
+^<<v13-2-2,2>>^ Dã, José, Benjamim, Naftali, Gade e Aser.
+
+[[v13-2-3]]
+
+^<<v13-2-3,3>>^ Os filhos de Judá foram Er, Onã e Selá. Ele teve esses três filhos com a filha de Sua, a cananeia. Mas Er, o primogênito de Judá, desagradava a Jeová, por isso Ele o entregou à morte.
+
+[[v13-2-4]]
+
+^<<v13-2-4,4>>^ Tamar, a nora de Judá, lhe deu estes filhos: Peres e Zerá. Judá teve ao todo cinco filhos.
+
+[[v13-2-5]]
+
+^<<v13-2-5,5>>^ Os filhos de Peres foram Esrom e Hamul.
+
+[[v13-2-6]]
+
+^<<v13-2-6,6>>^ Os filhos de Zerá foram Zinri, Etã, Hemã, Calcol e Dara; cinco filhos ao todo.
+
+[[v13-2-7]]
+
+^<<v13-2-7,7>>^ O filho^&#42;1^ de Carmi foi Acar,^&#42;2^ que trouxe calamidade^&#42;3^ sobre Israel quando foi infiel com respeito ao que havia sido condenado à destruição.^&#42;4^
+
+[NOTE]
+====
+. Lit.: “Os filhos”.
+. Que significa “aquele que traz calamidade; aquele que traz ostracismo”, isto é, exclusão. Também chamado de Acã em Josué 7:1.
+. Ou: “dificuldade; ostracismo”, isto é, exclusão.
+. Ou: “devotado à destruição”. Veja o Glossário.
+====
+
+[[v13-2-8]]
+
+^<<v13-2-8,8>>^ O filho^&#42;1^ de Etã foi Azarias.
+
+[NOTE]
+====
+. Lit.: “Os filhos”.
+====
+
+[[v13-2-9]]
+
+^<<v13-2-9,9>>^ Os filhos que nasceram a Esrom foram Jerameel, Rão e Quelubai.^&#42;1^
+
+[NOTE]
+====
+. Também chamado de Calebe nos vv. 18, 19 e 42.
+====
+
+[[v13-2-10]]
+
+^<<v13-2-10,10>>^ Rão tornou-se pai de Aminadabe. Aminadabe tornou-se pai de Nasom, maioral dos descendentes de Judá.
+
+[[v13-2-11]]
+
+^<<v13-2-11,11>>^ Nasom tornou-se pai de Salma. Salma tornou-se pai de Boaz.
+
+[[v13-2-12]]
+
+^<<v13-2-12,12>>^ Boaz tornou-se pai de Obede. Obede tornou-se pai de Jessé.
+
+[[v13-2-13]]
+
+^<<v13-2-13,13>>^ Jessé tornou-se pai de Eliabe, seu primogênito; de Abinadabe, o segundo; de Simeia, o terceiro;
+
+[[v13-2-14]]
+
+^<<v13-2-14,14>>^ de Netanel, o quarto; de Radai, o quinto;
+
+[[v13-2-15]]
+
+^<<v13-2-15,15>>^ de Ozém, o sexto; e de Davi, o sétimo.
+
+[[v13-2-16]]
+
+^<<v13-2-16,16>>^ As irmãs deles foram Zeruia e Abigail. Os três filhos de Zeruia foram: Abisai, Joabe e Asael.
+
+[[v13-2-17]]
+
+^<<v13-2-17,17>>^ Abigail deu à luz Amasa. O pai de Amasa foi Jeter, o ismaelita.
+
+[[v13-2-18]]
+
+^<<v13-2-18,18>>^ Calebe,^&#42;1^ filho de Esrom, teve filhos com Azuba, sua esposa, e com Jeriote; e os filhos dela foram: Jeser, Sobabe e Ardom.
+
+[NOTE]
+====
+. Também chamado de Quelubai no v. 9.
+====
+
+[[v13-2-19]]
+
+^<<v13-2-19,19>>^ Depois que Azuba morreu, Calebe se casou com Efrate, e ela lhe deu um filho chamado Hur.
+
+[[v13-2-20]]
+
+^<<v13-2-20,20>>^ Hur tornou-se pai de Uri. E Uri tornou-se pai de Bezalel.
+
+[[v13-2-21]]
+
+^<<v13-2-21,21>>^ Depois Esrom teve relações com a filha de Maquir, pai de Gileade. Ele tinha 60 anos quando se casou com ela, e ela lhe deu um filho chamado Segube.
+
+[[v13-2-22]]
+
+^<<v13-2-22,22>>^ Segube tornou-se pai de Jair, que teve 23 cidades na terra de Gileade.
+
+[[v13-2-23]]
+
+^<<v13-2-23,23>>^ (Mais tarde, Gesur e a Síria tomaram deles Havote-Jair, junto com Quenate e suas aldeias dependentes,^&#42;1^ 60 cidades.) Todos esses foram descendentes de Maquir, pai de Gileade.
+
+[NOTE]
+====
+. Ou: “ao redor”.
+====
+
+[[v13-2-24]]
+
+^<<v13-2-24,24>>^ Depois da morte de Esrom, em Calebe-Efrata, Abias, esposa de Esrom, deu-lhe um filho chamado Assur, pai de Tecoa.^&#42;1^
+
+[NOTE]
+====
+. Alguns nomes neste capítulo talvez se refiram a lugares em vez de a pessoas. Nesses casos, “pai” possivelmente significa “fundador”.
+====
+
+[[v13-2-25]]
+
+^<<v13-2-25,25>>^ Os filhos de Jerameel, primogênito de Esrom, foram Rão, o primogênito, Buna, Orém, Ozém e Aías.
+
+[[v13-2-26]]
+
+^<<v13-2-26,26>>^ Jerameel teve outra esposa, chamada Atara. Ela foi a mãe de Onão.
+
+[[v13-2-27]]
+
+^<<v13-2-27,27>>^ Os filhos de Rão, primogênito de Jerameel, foram Maaz, Jamim e Equer.
+
+[[v13-2-28]]
+
+^<<v13-2-28,28>>^ Os filhos de Onão foram Samai e Jada. Os filhos de Samai foram Nadabe e Abisur.
+
+[[v13-2-29]]
+
+^<<v13-2-29,29>>^ O nome da esposa de Abisur era Abiail, que lhe deu estes filhos: Abã e Molide.
+
+[[v13-2-30]]
+
+^<<v13-2-30,30>>^ Os filhos de Nadabe foram Selede e Apaim. Mas Selede morreu sem filhos.
+
+[[v13-2-31]]
+
+^<<v13-2-31,31>>^ O filho^&#42;1^ de Apaim foi Isi; o filho^&#42;2^ de Isi foi Sesã; e o filho^&#42;3^ de Sesã, Alai.
+
+[NOTE]
+====
+. Lit.: “filhos”.
+. Lit.: “filhos”.
+. Lit.: “filhos”.
+====
+
+[[v13-2-32]]
+
+^<<v13-2-32,32>>^ Os filhos de Jada, irmão de Samai, foram Jeter e Jonatã. Mas Jeter morreu sem filhos.
+
+[[v13-2-33]]
+
+^<<v13-2-33,33>>^ Os filhos de Jonatã foram Pelete e Zaza. Esses foram os descendentes de Jerameel.
+
+[[v13-2-34]]
+
+^<<v13-2-34,34>>^ Sesã não teve filhos, apenas filhas. Sesã tinha um servo egípcio chamado Jara.
+
+[[v13-2-35]]
+
+^<<v13-2-35,35>>^ Sesã deu sua filha como esposa ao seu servo Jara, e ela lhe deu um filho chamado Atai.
+
+[[v13-2-36]]
+
+^<<v13-2-36,36>>^ Atai tornou-se pai de Natã. Natã tornou-se pai de Zabade.
+
+[[v13-2-37]]
+
+^<<v13-2-37,37>>^ Zabade tornou-se pai de Eflal. Eflal tornou-se pai de Obede.
+
+[[v13-2-38]]
+
+^<<v13-2-38,38>>^ Obede tornou-se pai de Jeú. Jeú tornou-se pai de Azarias.
+
+[[v13-2-39]]
+
+^<<v13-2-39,39>>^ Azarias tornou-se pai de Helez. Helez tornou-se pai de Eleasá.
+
+[[v13-2-40]]
+
+^<<v13-2-40,40>>^ Eleasá tornou-se pai de Sismai. Sismai tornou-se pai de Salum.
+
+[[v13-2-41]]
+
+^<<v13-2-41,41>>^ Salum tornou-se pai de Jecamias. Jecamias tornou-se pai de Elisama.
+
+[[v13-2-42]]
+
+^<<v13-2-42,42>>^ Os filhos de Calebe,^&#42;1^ irmão de Jerameel, foram Mesa, seu primogênito, que foi o pai de Zife, e os filhos de Maressa, pai de Hebrom.
+
+[NOTE]
+====
+. Também chamado de Quelubai no v. 9.
+====
+
+[[v13-2-43]]
+
+^<<v13-2-43,43>>^ Os filhos de Hebrom foram Corá, Tapua, Requém e Sema.
+
+[[v13-2-44]]
+
+^<<v13-2-44,44>>^ Sema tornou-se pai de Raão, pai de Jorqueão. Requém tornou-se pai de Samai.
+
+[[v13-2-45]]
+
+^<<v13-2-45,45>>^ O filho de Samai foi Maom. Maom foi o pai de Bete-Zur.
+
+[[v13-2-46]]
+
+^<<v13-2-46,46>>^ Efá, concubina de Calebe, deu à luz Harã, Moza e Gazez. Harã tornou-se pai de Gazez.
+
+[[v13-2-47]]
+
+^<<v13-2-47,47>>^ Os filhos de Jadai foram Regém, Jotão, Gesã, Pelete, Efá e Saafe.
+
+[[v13-2-48]]
+
+^<<v13-2-48,48>>^ Maacá, concubina de Calebe, deu à luz Seber e Tirana.
+
+[[v13-2-49]]
+
+^<<v13-2-49,49>>^ Ela também deu à luz Saafe, pai de Madmana, e Seva, pai de Macbena e de Gibeá. Acsa foi filha de Calebe.
+
+[[v13-2-50]]
+
+^<<v13-2-50,50>>^ Esses foram os descendentes de Calebe.
+Os filhos de Hur, primogênito de Efrata, foram Sobal, pai de Quiriate-Jearim;
+
+[[v13-2-51]]
+
+^<<v13-2-51,51>>^ Salma, pai de Belém; e Harefe, pai de Bete-Gader.
+
+[[v13-2-52]]
+
+^<<v13-2-52,52>>^ Sobal, pai de Quiriate-Jearim, teve filhos: Haroé e metade dos menuotes.
+
+[[v13-2-53]]
+
+^<<v13-2-53,53>>^ As famílias de Quiriate-Jearim foram os itritas, os putitas, os sumatitas e os misraítas. Dessas famílias vieram os zoratitas e os estaolitas.
+
+[[v13-2-54]]
+
+^<<v13-2-54,54>>^ Os filhos de Salma foram: Belém, os netofatitas, Atrote-Bete-Joabe, metade dos manaatitas e os zoritas.
+
+[[v13-2-55]]
+
+^<<v13-2-55,55>>^ As famílias dos escribas que moravam em Jabez foram os tiratitas, os simeatitas e os sucatitas. Esses foram os queneus, que vieram de Hamate, pai da casa de Recabe.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-001.adoc#v13-1-0[&#60; Capítulo Anterior] | <<v13-2-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-003.adoc#v13-3-0[Próximo Capítulo &#62;]

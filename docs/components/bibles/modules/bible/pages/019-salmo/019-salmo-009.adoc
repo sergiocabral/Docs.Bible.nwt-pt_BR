@@ -1,0 +1,158 @@
+include::./index.adoc[]
+
+[[v19-9-0]]
+=== Salmos, 9
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Ao regente; sobre mute-labém.^&#42;1^ Salmo de Davi._
+
+_א [álefe]_
+
+[[v19-9-1]]
+
+^<<v19-9-1,1>>^ Vou louvar-te de todo o meu coração, ó Jeová;
+Vou relatar todas as tuas obras maravilhosas.
+
+[[v19-9-2]]
+
+^<<v19-9-2,2>>^ Vou alegrar-me e exultar em ti;
+Vou cantar louvores^&#42;1^ ao teu nome, ó Altíssimo.
+
+[NOTE]
+====
+. Ou: “fazer música”.
+====
+
+_ב [bete]_
+
+[[v19-9-3]]
+
+^<<v19-9-3,3>>^ Quando os meus inimigos recuarem,
+Tropeçarão e morrerão diante de ti.
+
+[[v19-9-4]]
+
+^<<v19-9-4,4>>^ Pois tu defendes a minha causa justa;
+Sentas no teu trono, julgando com justiça.
+
+_ג [guímel]_
+
+[[v19-9-5]]
+
+^<<v19-9-5,5>>^ Censuraste nações e destruíste os maus
+Apagando para todo o sempre o nome deles.
+
+[[v19-9-6]]
+
+^<<v19-9-6,6>>^ Os inimigos sofreram destruição eterna;
+Desarraigaste as cidades deles,
+E toda lembrança deles desaparecerá.
+
+_ה [hê]_
+
+[[v19-9-7]]
+
+^<<v19-9-7,7>>^ Mas Jeová está no seu trono para sempre;
+Ele estabeleceu firmemente o seu trono para fazer justiça.
+
+[[v19-9-8]]
+
+^<<v19-9-8,8>>^ Ele julgará a terra habitada^&#42;1^ com retidão;
+Pronunciará sentenças justas para as nações.
+
+[NOTE]
+====
+. Ou: “terra produtiva”.
+====
+
+_ו [vau]_
+
+[[v19-9-9]]
+
+^<<v19-9-9,9>>^ Jeová se tornará um refúgio seguro^&#42;1^ para os oprimidos,
+Um refúgio seguro em tempos de aflição.
+
+[NOTE]
+====
+. Ou: “refúgio num lugar alto”.
+====
+
+[[v19-9-10]]
+
+^<<v19-9-10,10>>^ Os que conhecem o teu nome confiarão em ti;
+Nunca abandonarás os que te buscam, ó Jeová.
+
+_ז [zaine]_
+
+[[v19-9-11]]
+
+^<<v19-9-11,11>>^ Cantem louvores a Jeová, que mora em Sião;
+Tornem conhecidos entre os povos os seus feitos.
+
+[[v19-9-12]]
+
+^<<v19-9-12,12>>^ Pois Aquele que vinga o sangue dos aflitos se lembra deles;
+Não se esquecerá do seu clamor.
+
+_ח [hete]_
+
+[[v19-9-13]]
+
+^<<v19-9-13,13>>^ Mostra-me favor, ó Jeová; vê a minha aflição, causada pelos que me odeiam,
+Tu, que me ergues dos portões da morte,
+
+[[v19-9-14]]
+
+^<<v19-9-14,14>>^ Para que eu declare os teus atos louváveis nos portões da filha de Sião
+E me alegre com os teus atos de salvação.
+
+_ט [tete]_
+
+[[v19-9-15]]
+
+^<<v19-9-15,15>>^ As nações caíram na cova que fizeram;
+Seu próprio pé ficou preso na rede que esconderam.
+
+[[v19-9-16]]
+
+^<<v19-9-16,16>>^ Jeová é conhecido pelos julgamentos que executa.
+Os maus foram enlaçados pela obra das suas próprias mãos.
+Higaiom.^&#42;1^ (Selá)
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+_י [iode]_
+
+[[v19-9-17]]
+
+^<<v19-9-17,17>>^ Os maus recuarão em direção à Sepultura,^&#42;1^
+Todas as nações que se esquecem de Deus.
+
+[NOTE]
+====
+. Ou: “ao Seol”, isto é, a sepultura comum da humanidade. Veja o Glossário.
+====
+
+[[v19-9-18]]
+
+^<<v19-9-18,18>>^ Mas os pobres não ficarão esquecidos para sempre,
+E a esperança dos mansos jamais acabará.
+
+_כ [cafe]_
+
+[[v19-9-19]]
+
+^<<v19-9-19,19>>^ Levanta-te, ó Jeová! Não deixes que o homem mortal prevaleça.
+Que as nações sejam julgadas na tua presença.
+
+[[v19-9-20]]
+
+^<<v19-9-20,20>>^ Enche-as de medo, ó Jeová;
+Que as nações saibam que são apenas homens mortais. (Selá)
+
+'''
+
+xref:019-salmo/019-salmo-008.adoc#v19-8-0[&#60; Capítulo Anterior] | <<v19-9-0,Topo>> | xref:019-salmo/019-salmo-010.adoc#v19-10-0[Próximo Capítulo &#62;]

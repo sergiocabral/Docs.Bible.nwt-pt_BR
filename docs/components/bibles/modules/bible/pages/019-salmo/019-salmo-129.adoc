@@ -1,0 +1,52 @@
+include::./index.adoc[]
+
+[[v19-129-0]]
+=== Salmos, 129
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Cântico das Subidas._
+
+[[v19-129-1]]
+
+^<<v19-129-1,1>>^ “Desde a minha juventude eles me atacam constantemente”,
+— Diga então Israel —
+
+[[v19-129-2]]
+
+^<<v19-129-2,2>>^ “Desde a minha juventude eles me atacam constantemente,
+Mas não me derrotaram.
+
+[[v19-129-3]]
+
+^<<v19-129-3,3>>^ Passaram o arado nas minhas costas;
+Fizeram longos sulcos.”
+
+[[v19-129-4]]
+
+^<<v19-129-4,4>>^ Mas Jeová é justo;
+Ele retalhou as cordas dos maus.
+
+[[v19-129-5]]
+
+^<<v19-129-5,5>>^ Serão envergonhados e baterão em retirada, desonrados,
+Todos os que odeiam a Sião.
+
+[[v19-129-6]]
+
+^<<v19-129-6,6>>^ Eles se tornarão como a erva que cresce no alto dos telhados,
+Que seca antes de ser arrancada,
+
+[[v19-129-7]]
+
+^<<v19-129-7,7>>^ Que não enche as mãos do ceifeiro
+Nem os braços daquele que recolhe feixes.
+
+[[v19-129-8]]
+
+^<<v19-129-8,8>>^ Ninguém que passar dirá:
+“Que a bênção de Jeová esteja sobre vocês,
+Nós os abençoamos em nome de Jeová.”
+
+'''
+
+xref:019-salmo/019-salmo-128.adoc#v19-128-0[&#60; Capítulo Anterior] | <<v19-129-0,Topo>> | xref:019-salmo/019-salmo-130.adoc#v19-130-0[Próximo Capítulo &#62;]

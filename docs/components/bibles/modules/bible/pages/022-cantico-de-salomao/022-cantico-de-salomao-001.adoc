@@ -1,0 +1,151 @@
+include::./index.adoc[]
+
+[[v22-1-0]]
+=== O Cântico de Salomão, 1
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v22-1-1]]
+
+^<<v22-1-1,1>>^ O cântico dos cânticos,^&#42;1^ de Salomão:
+
+[NOTE]
+====
+. Ou: “O cântico superlativo”.
+====
+
+[[v22-1-2]]
+
+^<<v22-1-2,2>>^ “Beije-me com os beijos dos seus lábios,
+Pois as suas expressões de amor são melhores do que o vinho.
+
+[[v22-1-3]]
+
+^<<v22-1-3,3>>^ Agradável é a fragrância dos seus perfumes;
+Seu nome é como óleo aromático derramado.
+É por isso que as moças o amam.
+
+[[v22-1-4]]
+
+^<<v22-1-4,4>>^ Leve-me com você,^&#42;1^ e corramos.
+O rei me trouxe ao seu aposento reservado!
+Alegremo-nos e exultemos juntos.
+Celebremos^&#42;2^ suas expressões de amor, que são melhores do que o vinho.
+É com razão que elas^&#42;3^ o amam!
+
+[NOTE]
+====
+. Lit.: “Arraste-me após você”.
+. Ou: “Relatemos”.
+. Isto é, as moças.
+====
+
+[[v22-1-5]]
+
+^<<v22-1-5,5>>^ Sou morena,^&#42;1^ mas bela, ó filhas de Jerusalém,
+Como as tendas de Quedar, como os panos da tenda de Salomão.
+
+[NOTE]
+====
+. Lit.: “preta”.
+====
+
+[[v22-1-6]]
+
+^<<v22-1-6,6>>^ Não fiquem me olhando por eu ser morena,
+Pois o sol fixou em mim o seu olhar.
+Os filhos de minha mãe zangaram-se comigo;
+Mandaram-me guardar os vinhedos,
+Mas o meu próprio vinhedo eu não pude guardar.
+
+[[v22-1-7]]
+
+^<<v22-1-7,7>>^ Diga-me, você a quem eu tanto amo,^&#42;1^
+Aonde leva seu rebanho para pastar?
+Onde o faz deitar ao meio-dia?
+Por que eu deveria ser como uma mulher coberta com um véu^&#42;2^
+Entre os rebanhos dos seus amigos?”
+
+[NOTE]
+====
+. Ou: “minha alma tanto ama”.
+. Ou: “um véu de luto”.
+====
+
+[[v22-1-8]]
+
+^<<v22-1-8,8>>^ “Se você não sabe, ó mais bela das mulheres,
+Siga o rastro do rebanho
+E leve seus cabritos para pastar junto às tendas dos pastores.”
+
+[[v22-1-9]]
+
+^<<v22-1-9,9>>^ “Eu comparo você, minha amada, a uma^&#42;1^ égua dos carros de Faraó.
+
+[NOTE]
+====
+. Ou: “à minha”.
+====
+
+[[v22-1-10]]
+
+^<<v22-1-10,10>>^ Belas são as suas faces com adornos,^&#42;1^
+Também seu pescoço, com colares de contas.
+
+[NOTE]
+====
+. Ou, possivelmente: “entre as tranças do seu cabelo”.
+====
+
+[[v22-1-11]]
+
+^<<v22-1-11,11>>^ Nós lhe faremos enfeites^&#42;1^ de ouro
+Incrustados de prata.”
+
+[NOTE]
+====
+. Ou: “argolas”.
+====
+
+[[v22-1-12]]
+
+^<<v22-1-12,12>>^ “Enquanto o rei está à sua mesa,
+Meu perfume^&#42;1^ exala a sua fragrância.
+
+[NOTE]
+====
+. Lit.: “nardo”.
+====
+
+[[v22-1-13]]
+
+^<<v22-1-13,13>>^ Meu querido é para mim como uma pequena bolsa de mirra perfumada,
+Que passa a noite entre os meus seios.
+
+[[v22-1-14]]
+
+^<<v22-1-14,14>>^ Meu querido é para mim como um ramalhete de hena
+Entre os vinhedos de En-Gedi.”
+
+[[v22-1-15]]
+
+^<<v22-1-15,15>>^ “Como você é bela, minha amada!
+Como você é bela! Seus olhos são como os das pombas.”
+
+[[v22-1-16]]
+
+^<<v22-1-16,16>>^ “Como você é belo, meu querido! Como você é encantador!
+Nossa cama está entre as folhagens.
+
+[[v22-1-17]]
+
+^<<v22-1-17,17>>^ As vigas da nossa casa^&#42;1^ são cedros,
+Os caibros do nosso telhado são juníperos.
+
+[NOTE]
+====
+. Ou: “grandiosa casa”.
+====
+
+'''
+
+xref:021-eclesiastes/021-eclesiastes-012.adoc#v21-12-0[&#60; Capítulo Anterior] | <<v22-1-0,Topo>> | xref:022-cantico-de-salomao/022-cantico-de-salomao-002.adoc#v22-2-0[Próximo Capítulo &#62;]

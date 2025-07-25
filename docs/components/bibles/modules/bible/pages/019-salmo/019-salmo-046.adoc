@@ -1,0 +1,78 @@
+include::./index.adoc[]
+
+[[v19-46-0]]
+=== Salmos, 46
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Ao regente. Dos filhos de Corá. De acordo com o estilo alamote.^&#42;1^ Cântico._
+
+[[v19-46-1]]
+
+^<<v19-46-1,1>>^ Deus é nosso refúgio e nossa força,
+Uma ajuda encontrada prontamente em tempos de aflição.
+
+[[v19-46-2]]
+
+^<<v19-46-2,2>>^ Por isso é que não teremos medo, ainda que a terra se transforme,
+Ainda que os montes caiam nas profundezas do mar,
+
+[[v19-46-3]]
+
+^<<v19-46-3,3>>^ Ainda que as águas do mar façam estrondos e espumem,
+Ainda que a sua turbulência faça os montes tremer. (Selá)
+
+[[v19-46-4]]
+
+^<<v19-46-4,4>>^ Há um rio cujos canais alegram a cidade de Deus,
+O santo e grandioso tabernáculo do Altíssimo.
+
+[[v19-46-5]]
+
+^<<v19-46-5,5>>^ Deus está na cidade, ela não pode ser destruída.
+Deus virá em seu auxílio no raiar do dia.
+
+[[v19-46-6]]
+
+^<<v19-46-6,6>>^ As nações ficaram agitadas, os reinos foram derrubados;
+Ele ergueu a sua voz, e a terra se derreteu.
+
+[[v19-46-7]]
+
+^<<v19-46-7,7>>^ Jeová dos exércitos está conosco;
+O Deus de Jacó é nosso refúgio seguro.^&#42;1^ (Selá)
+
+[NOTE]
+====
+. Ou: “refúgio num lugar alto”.
+====
+
+[[v19-46-8]]
+
+^<<v19-46-8,8>>^ Venham testemunhar os atos de Jeová,
+Como ele faz coisas espantosas na terra.
+
+[[v19-46-9]]
+
+^<<v19-46-9,9>>^ Ele põe fim às guerras em toda a terra.
+Quebra o arco e despedaça a lança,
+Queima as carroças militares^&#42;1^ no fogo.
+
+[NOTE]
+====
+. Ou, possivelmente: “os escudos”.
+====
+
+[[v19-46-10]]
+
+^<<v19-46-10,10>>^ “Rendam-se e saibam que eu sou Deus.
+Serei exaltado entre as nações;
+Serei exaltado na terra.”
+
+[[v19-46-11]]
+
+^<<v19-46-11,11>>^ Jeová dos exércitos está conosco;
+O Deus de Jacó é um refúgio seguro para nós. (Selá)
+
+'''
+
+xref:019-salmo/019-salmo-045.adoc#v19-45-0[&#60; Capítulo Anterior] | <<v19-46-0,Topo>> | xref:019-salmo/019-salmo-047.adoc#v19-47-0[Próximo Capítulo &#62;]

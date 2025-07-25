@@ -1,0 +1,118 @@
+include::./index.adoc[]
+
+[[v24-42-0]]
+=== Jeremias, 42
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v24-42-1]]
+
+^<<v24-42-1,1>>^ Então todos os chefes do exército, incluindo Joanã, filho de Careá; Jezanias, filho de Osaías; e todo o povo, desde o menor até o maior, se aproximaram
+
+[[v24-42-2]]
+
+^<<v24-42-2,2>>^ e disseram ao profeta Jeremias: “Por favor, ouça o nosso pedido de favor e ore por nós a Jeová, seu Deus, sim, por todo este restante, pois dos muitos só restaram poucos, como você pode ver.
+
+[[v24-42-3]]
+
+^<<v24-42-3,3>>^ Que Jeová, seu Deus, nos diga o caminho que devemos seguir e o que devemos fazer.”
+
+[[v24-42-4]]
+
+^<<v24-42-4,4>>^ O profeta Jeremias lhes respondeu: “Está bem. Vou orar a Jeová, seu Deus, conforme vocês pediram; e lhes contarei cada palavra que Jeová mandar responder a vocês. Não esconderei nenhuma palavra de vocês.”
+
+[[v24-42-5]]
+
+^<<v24-42-5,5>>^ Eles disseram a Jeremias: “Que Jeová seja testemunha verdadeira e fiel contra nós, se não fizermos exatamente como Jeová, seu Deus, nos instruir por meio de você.
+
+[[v24-42-6]]
+
+^<<v24-42-6,6>>^ Quer a sua palavra seja boa quer má, obedeceremos à voz de Jeová, nosso Deus, a quem enviamos você, para que sejamos bem-sucedidos, visto que obedeceremos à voz de Jeová, nosso Deus.”
+
+[[v24-42-7]]
+
+^<<v24-42-7,7>>^ Depois de dez dias, Jeremias recebeu a palavra de Jeová.
+
+[[v24-42-8]]
+
+^<<v24-42-8,8>>^ Então ele chamou Joanã, filho de Careá, todos os chefes do exército que estavam com ele, e todo o povo, desde o menor até o maior,
+
+[[v24-42-9]]
+
+^<<v24-42-9,9>>^ e disse a eles: “Assim diz Jeová, o Deus de Israel, a quem vocês me enviaram para apresentar o seu pedido de favor:
+
+[[v24-42-10]]
+
+^<<v24-42-10,10>>^ ‘Se vocês realmente permanecerem nesta terra, vou edificá-los e não os derrubarei, e vou plantá-los e não os arrancarei, pois lamentarei a^&#42;1^ calamidade que lhes causei.
+
+[NOTE]
+====
+. Ou: “sentirei pesar por causa da”.
+====
+
+[[v24-42-11]]
+
+^<<v24-42-11,11>>^ Não tenham medo do rei de Babilônia, a quem vocês temem.’
+“‘Não tenham medo dele’, diz Jeová, ‘pois estou com vocês para salvá-los e livrá-los das mãos dele.
+
+[[v24-42-12]]
+
+^<<v24-42-12,12>>^ Eu lhes mostrarei misericórdia, e ele terá misericórdia de vocês e os fará voltar à terra de vocês.
+
+[[v24-42-13]]
+
+^<<v24-42-13,13>>^ “‘Mas, se vocês disserem: “Não, nós não vamos ficar nesta terra!” e desobedecerem à voz de Jeová, seu Deus,
+
+[[v24-42-14]]
+
+^<<v24-42-14,14>>^ dizendo: “Não, é para a terra do Egito que nós iremos, onde não veremos guerras, nem ouviremos o som da buzina, nem passaremos fome; lá é que moraremos”,
+
+[[v24-42-15]]
+
+^<<v24-42-15,15>>^ então ouçam a palavra de Jeová, ó restante de Judá. Assim diz Jeová dos exércitos, o Deus de Israel: “Se vocês estiverem firmemente decididos a ir para o Egito e forem morar^&#42;1^ lá,
+
+[NOTE]
+====
+. Ou: “morar por um tempo”.
+====
+
+[[v24-42-16]]
+
+^<<v24-42-16,16>>^ a mesma espada de que vocês têm medo os alcançará lá na terra do Egito, e a mesma fome que vocês temem os seguirá até o Egito, e lá vocês morrerão.
+
+[[v24-42-17]]
+
+^<<v24-42-17,17>>^ E todos os homens que estiverem decididos a ir morar no Egito morrerão pela espada, pela fome e pela peste.^&#42;1^ Nenhum deles sobreviverá nem escapará da calamidade que vou trazer sobre eles.”’
+
+[NOTE]
+====
+. Ou: “doença”.
+====
+
+[[v24-42-18]]
+
+^<<v24-42-18,18>>^ “Pois assim diz Jeová dos exércitos, o Deus de Israel: ‘Assim como derramei a minha ira e o meu furor sobre os habitantes de Jerusalém, assim derramarei sobre vocês o meu furor se vocês forem para o Egito, e vocês se tornarão um objeto de maldição, um motivo de terror, e um alvo de desprezo e de insultos, e vocês nunca mais verão este lugar.’
+
+[[v24-42-19]]
+
+^<<v24-42-19,19>>^ “Jeová falou contra vocês, ó restante de Judá. Não vão para o Egito. Tenham bem em mente que eu os avisei hoje
+
+[[v24-42-20]]
+
+^<<v24-42-20,20>>^ que o seu erro custará a sua vida.^&#42;1^ Pois vocês mesmos me enviaram a Jeová, seu Deus, dizendo: ‘Ore por nós a Jeová, nosso Deus, e diga-nos tudo o que Jeová, nosso Deus, disser, e nós o faremos.’
+
+[NOTE]
+====
+. Ou: “alma”.
+====
+
+[[v24-42-21]]
+
+^<<v24-42-21,21>>^ E hoje eu lhes disse essas palavras, mas vocês não obedecerão à voz de Jeová, seu Deus, nem farão nada do que ele me mandou dizer a vocês.
+
+[[v24-42-22]]
+
+^<<v24-42-22,22>>^ Por isso, estejam certos de que vocês morrerão pela espada, pela fome e pela peste no lugar em que desejam ir morar.”
+
+'''
+
+xref:024-jeremias/024-jeremias-041.adoc#v24-41-0[&#60; Capítulo Anterior] | <<v24-42-0,Topo>> | xref:024-jeremias/024-jeremias-043.adoc#v24-43-0[Próximo Capítulo &#62;]

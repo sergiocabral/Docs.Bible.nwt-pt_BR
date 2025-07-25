@@ -1,0 +1,109 @@
+include::./index.adoc[]
+
+[[v18-42-0]]
+=== Jó, 42
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v18-42-1]]
+
+^<<v18-42-1,1>>^ Então Jó disse em resposta a Jeová:
+
+[[v18-42-2]]
+
+^<<v18-42-2,2>>^ “Agora sei que és capaz de fazer todas as coisas
+E que nada que tens em mente é impossível para ti.
+
+[[v18-42-3]]
+
+^<<v18-42-3,3>>^ Tu disseste: ‘Quem é este que está obscurecendo os meus propósitos^&#42;1^ sem ter conhecimento?’
+É verdade, eu falei sem entendimento
+Sobre coisas maravilhosas demais para mim, que eu não conheço.
+
+[NOTE]
+====
+. Ou: “o meu conselho”.
+====
+
+[[v18-42-4]]
+
+^<<v18-42-4,4>>^ Tu disseste: ‘Ouça, por favor, e eu falarei.
+Eu lhe farei perguntas, e você me informará.’
+
+[[v18-42-5]]
+
+^<<v18-42-5,5>>^ Ouvi falar a teu respeito,
+Mas agora te vejo com os meus próprios olhos.
+
+[[v18-42-6]]
+
+^<<v18-42-6,6>>^ É por isso que retiro o que eu disse,^&#42;1^
+E me arrependo em pó e cinzas.”
+
+[NOTE]
+====
+. Ou: “faço uma retratação”.
+====
+
+[[v18-42-7]]
+
+^<<v18-42-7,7>>^ Depois de Jeová ter falado essas palavras a Jó, Jeová disse a Elifaz, o temanita:
+“Minha ira está acesa contra você e contra seus dois amigos, pois vocês não falaram a verdade a meu respeito, assim como fez o meu servo Jó.
+
+[[v18-42-8]]
+
+^<<v18-42-8,8>>^ Agora peguem sete novilhos e sete carneiros, vão ao meu servo Jó e ofereçam um sacrifício queimado a favor de si mesmos. E o meu servo Jó orará por vocês. Eu certamente atenderei ao pedido dele,^&#42;1^ de não lidar com vocês de acordo com a sua tolice, pois não falaram a verdade a meu respeito, assim como fez o meu servo Jó.”
+
+[NOTE]
+====
+. Lit.: “Certamente eu levantarei a face dele”.
+====
+
+[[v18-42-9]]
+
+^<<v18-42-9,9>>^ Então Elifaz, o temanita, Bildade, o suíta, e Zofar, o naamatita, foram e fizeram o que Jeová lhes tinha ordenado. E Jeová ouviu a oração de Jó.
+
+[[v18-42-10]]
+
+^<<v18-42-10,10>>^ Depois de Jó ter orado pelos seus amigos, Jeová acabou com a tribulação de Jó e restaurou a sua prosperidade.^&#42;1^ Jeová lhe deu o dobro de tudo o que ele tinha antes.
+
+[NOTE]
+====
+. Lit.: “Jeová fez recuar o cativeiro de Jó”.
+====
+
+[[v18-42-11]]
+
+^<<v18-42-11,11>>^ Todos os seus irmãos e suas irmãs, e todos os seus antigos amigos foram visitá-lo e tomaram uma refeição com ele na sua casa. Eles se compadeceram dele e o consolaram por causa de toda a calamidade que Jeová tinha deixado vir sobre ele. Cada um lhe deu uma peça de dinheiro e uma argola de ouro.
+
+[[v18-42-12]]
+
+^<<v18-42-12,12>>^ Assim, Jeová abençoou a última parte da vida de Jó mais do que a primeira, e Jó veio a ter 14.000 ovelhas, 6.000 camelos, 1.000 juntas de bois e 1.000 jumentas.
+
+[[v18-42-13]]
+
+^<<v18-42-13,13>>^ Ele também teve mais sete filhos e mais três filhas.
+
+[[v18-42-14]]
+
+^<<v18-42-14,14>>^ Ele chamou a primeira filha de Jemima, a segunda de Quezia, e a terceira de Querém-Hapuque.
+
+[[v18-42-15]]
+
+^<<v18-42-15,15>>^ Em todo o país não havia mulheres tão lindas como as filhas de Jó; e o pai delas lhes deu uma herança junto com os seus irmãos.
+
+[[v18-42-16]]
+
+^<<v18-42-16,16>>^ Depois disso, Jó viveu 140 anos, e viu seus filhos e seus netos, até a quarta geração.
+
+[[v18-42-17]]
+
+^<<v18-42-17,17>>^ Por fim, Jó morreu, depois de uma vida longa e satisfatória.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “idoso e cheio de dias”.
+====
+
+'''
+
+xref:018-jo/018-jo-041.adoc#v18-41-0[&#60; Capítulo Anterior] | <<v18-42-0,Topo>> | xref:019-salmo/019-salmo-001.adoc#v19-1-0[Próximo Capítulo &#62;]

@@ -1,0 +1,126 @@
+include::./index.adoc[]
+
+[[v14-36-0]]
+=== O Segundo das Crônicas, 36
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v14-36-1]]
+
+^<<v14-36-1,1>>^ Então o povo da terra tomou Jeoacaz, filho de Josias, e o fez rei em Jerusalém no lugar do seu pai.
+
+[[v14-36-2]]
+
+^<<v14-36-2,2>>^ Jeoacaz tinha 23 anos de idade quando se tornou rei, e reinou por três meses em Jerusalém.
+
+[[v14-36-3]]
+
+^<<v14-36-3,3>>^ Mas o rei do Egito o depôs em Jerusalém e obrigou o país a pagar um tributo de cem talentos^&#42;1^ de prata e um talento de ouro.
+
+[NOTE]
+====
+. Um talento equivalia a 34,2 kg. Veja Ap. B14.
+====
+
+[[v14-36-4]]
+
+^<<v14-36-4,4>>^ Além disso, o rei do Egito fez Eliaquim, irmão de Jeoacaz, rei sobre Judá e sobre Jerusalém, e mudou o nome dele para Jeoiaquim; mas Neco pegou o irmão dele, Jeoacaz, e o levou para o Egito.
+
+[[v14-36-5]]
+
+^<<v14-36-5,5>>^ Jeoiaquim tinha 25 anos de idade quando se tornou rei, e reinou por 11 anos em Jerusalém. Ele fazia o que era mau aos olhos de Jeová, seu Deus.
+
+[[v14-36-6]]
+
+^<<v14-36-6,6>>^ Nabucodonosor, rei de Babilônia, veio contra ele para prendê-lo com duas correntes de cobre, a fim de levá-lo para Babilônia.
+
+[[v14-36-7]]
+
+^<<v14-36-7,7>>^ E Nabucodonosor levou alguns dos utensílios da casa de Jeová para Babilônia e os pôs no seu palácio em Babilônia.
+
+[[v14-36-8]]
+
+^<<v14-36-8,8>>^ Os outros acontecimentos da história de Jeoiaquim, as coisas detestáveis que ele fez e todas as coisas más a respeito dele, estão escritos no Livro dos Reis de Israel e de Judá. E Joaquim, seu filho, tornou-se rei no seu lugar.
+
+[[v14-36-9]]
+
+^<<v14-36-9,9>>^ Joaquim tinha 18 anos de idade quando se tornou rei, e reinou por três meses e dez dias em Jerusalém; e ele fazia o que era mau aos olhos de Jeová.
+
+[[v14-36-10]]
+
+^<<v14-36-10,10>>^ No início do ano,^&#42;1^ o rei Nabucodonosor mandou trazê-lo a Babilônia, junto com objetos valiosos da casa de Jeová. E fez Zedequias, seu tio paterno, rei sobre Judá e Jerusalém.
+
+[NOTE]
+====
+. Possivelmente na primavera.
+====
+
+[[v14-36-11]]
+
+^<<v14-36-11,11>>^ Zedequias tinha 21 anos de idade quando se tornou rei, e reinou por 11 anos em Jerusalém.
+
+[[v14-36-12]]
+
+^<<v14-36-12,12>>^ Ele fazia o que era mau aos olhos de Jeová, seu Deus. Não se humilhou diante do profeta Jeremias, que falou por ordem de Jeová.
+
+[[v14-36-13]]
+
+^<<v14-36-13,13>>^ Além disso, ele se rebelou contra o rei Nabucodonosor, que o tinha feito jurar por Deus, e continuou obstinado,^&#42;1^ endureceu seu coração e não quis voltar para Jeová, o Deus de Israel.
+
+[NOTE]
+====
+. Lit.: “ele endureceu sua cerviz”.
+====
+
+[[v14-36-14]]
+
+^<<v14-36-14,14>>^ Todos os chefes dos sacerdotes e também o povo eram extremamente infiéis, praticando todas as coisas detestáveis feitas pelas nações, e profanaram a casa de Jeová, que Ele havia santificado em Jerusalém.
+
+[[v14-36-15]]
+
+^<<v14-36-15,15>>^ Jeová, o Deus dos seus antepassados, avisava-os por meio dos seus mensageiros; ele os avisava vez após vez, porque tinha compaixão do seu povo e do seu lugar de morada.
+
+[[v14-36-16]]
+
+^<<v14-36-16,16>>^ Mas eles caçoavam dos mensageiros do verdadeiro Deus, desprezavam as Suas palavras e zombavam dos seus profetas, até que o furor de Jeová veio contra o seu povo e não havia mais remédio.
+
+[[v14-36-17]]
+
+^<<v14-36-17,17>>^ Portanto, ele fez vir contra eles o rei dos caldeus, que matou os seus jovens à espada no santuário; ele não teve compaixão nem dos rapazes nem das moças,^&#42;1^ nem dos idosos nem dos doentes. Deus entregou tudo nas mãos dele.
+
+[NOTE]
+====
+. Ou: “virgens”.
+====
+
+[[v14-36-18]]
+
+^<<v14-36-18,18>>^ Todos os utensílios da casa do verdadeiro Deus, grandes e pequenos, bem como os tesouros da casa de Jeová e os tesouros do rei e dos seus príncipes — tudo ele levou para Babilônia.
+
+[[v14-36-19]]
+
+^<<v14-36-19,19>>^ Ele queimou a casa do verdadeiro Deus, demoliu a muralha de Jerusalém, queimou com fogo todas as suas torres fortificadas e destruiu tudo que era de valor.
+
+[[v14-36-20]]
+
+^<<v14-36-20,20>>^ Ele levou cativos para Babilônia os que escaparam da espada, e eles se tornaram servos dele e dos seus filhos até que o reino^&#42;1^ da Pérsia começou a dominar.
+
+[NOTE]
+====
+. Ou: “a realeza”.
+====
+
+[[v14-36-21]]
+
+^<<v14-36-21,21>>^ Isso aconteceu para que se cumprisse a palavra de Jeová falada por Jeremias, até que a terra tivesse saldado os seus sábados. Durante todo o tempo em que ficou desolada, ela guardou o sábado, até cumprir 70 anos.
+
+[[v14-36-22]]
+
+^<<v14-36-22,22>>^ No primeiro ano de Ciro, rei da Pérsia, a fim de que se cumprisse a palavra de Jeová falada por Jeremias, Jeová despertou o espírito de Ciro, rei da Pérsia, para que ele fizesse em todo o seu reino uma proclamação, que ele também registrou por escrito. Dizia o seguinte:
+
+[[v14-36-23]]
+
+^<<v14-36-23,23>>^ “Assim diz Ciro, rei da Pérsia: ‘Jeová, o Deus dos céus, deu-me todos os reinos da terra, e ele me designou para lhe construir uma casa em Jerusalém, que fica em Judá. Quem entre vocês pertence ao povo dele? Que Jeová, seu Deus, esteja com ele. Portanto, que ele suba para lá!’”
+
+'''
+
+xref:014-2-cronicas/014-2-cronicas-035.adoc#v14-35-0[&#60; Capítulo Anterior] | <<v14-36-0,Topo>> | xref:015-esdras/015-esdras-001.adoc#v15-1-0[Próximo Capítulo &#62;]

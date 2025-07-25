@@ -1,0 +1,150 @@
+include::./index.adoc[]
+
+[[v23-32-0]]
+=== Isaías, 32
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v23-32-1]]
+
+^<<v23-32-1,1>>^ Vejam! Um rei reinará com^&#42;1^ retidão,
+E príncipes governarão com^&#42;2^ justiça.
+
+[NOTE]
+====
+. Ou: “para a”.
+. Ou: “para a”.
+====
+
+[[v23-32-2]]
+
+^<<v23-32-2,2>>^ E cada um deles será como abrigo contra o vento,
+Como esconderijo^&#42;1^ contra o temporal,
+Como correntes de água numa terra árida,
+Como a sombra de um enorme rochedo num deserto.
+
+[NOTE]
+====
+. Ou: “refúgio”.
+====
+
+[[v23-32-3]]
+
+^<<v23-32-3,3>>^ Então os olhos dos que veem não mais ficarão fechados,
+E os ouvidos dos que ouvem prestarão atenção.
+
+[[v23-32-4]]
+
+^<<v23-32-4,4>>^ O coração dos precipitados meditará no conhecimento,
+E a língua dos que gaguejam falará de modo claro e fluente.
+
+[[v23-32-5]]
+
+^<<v23-32-5,5>>^ O insensato não será mais chamado de generoso,
+E o homem sem princípios não será chamado de nobre;
+
+[[v23-32-6]]
+
+^<<v23-32-6,6>>^ Pois o insensato falará insensatez,
+E o seu coração tramará o que é mau,
+Para promover a apostasia^&#42;1^ e falar mentiras contra Jeová,
+Para deixar o faminto^&#42;2^ sem alimento
+E para negar água ao sedento.
+
+[NOTE]
+====
+. Ou: “agir de modo irreverente”.
+. Ou: “a alma do faminto”.
+====
+
+[[v23-32-7]]
+
+^<<v23-32-7,7>>^ As tramas do homem sem princípios são más;
+Ele promove uma conduta vergonhosa,
+Para prejudicar o necessitado com mentiras,
+Mesmo quando o pobre tem razão.
+
+[[v23-32-8]]
+
+^<<v23-32-8,8>>^ Mas o generoso tem intenções generosas,
+E persevera em demonstrar generosidade.^&#42;1^
+
+[NOTE]
+====
+. Ou: “nobreza”.
+====
+
+[[v23-32-9]]
+
+^<<v23-32-9,9>>^ “Levantem-se e escutem a minha voz, mulheres despreocupadas!
+Prestem atenção ao que eu digo, filhas acomodadas!
+
+[[v23-32-10]]
+
+^<<v23-32-10,10>>^ Em pouco mais de um ano vocês que são acomodadas ficarão abaladas,
+Porque nenhum fruto terá sido colhido quando terminar a época da colheita das uvas.
+
+[[v23-32-11]]
+
+^<<v23-32-11,11>>^ Tremam, mulheres despreocupadas!
+Fiquem abaladas, vocês que são acomodadas!
+Tirem a roupa
+E coloquem pano de saco na cintura.
+
+[[v23-32-12]]
+
+^<<v23-32-12,12>>^ Batam no peito e chorem
+Pelos campos desejáveis e pela videira frutífera.
+
+[[v23-32-13]]
+
+^<<v23-32-13,13>>^ Pois o solo do meu povo ficará coberto de espinhos e abrolhos;
+Eles cobrirão todas as casas em que havia alegria,
+Sim, a cidade que festejava.
+
+[[v23-32-14]]
+
+^<<v23-32-14,14>>^ Pois a torre fortificada será abandonada;
+A cidade barulhenta ficará vazia.
+Ofel e a torre de vigia ficarão permanentemente desoladas,
+Uma alegria para os jumentos selvagens,
+Um pasto para os rebanhos,
+
+[[v23-32-15]]
+
+^<<v23-32-15,15>>^ Até que o espírito seja despejado sobre nós do alto,
+E o deserto se torne um pomar,
+E o pomar seja considerado uma floresta.
+
+[[v23-32-16]]
+
+^<<v23-32-16,16>>^ Então a justiça residirá no deserto,
+E a retidão morará no pomar.
+
+[[v23-32-17]]
+
+^<<v23-32-17,17>>^ O resultado da verdadeira justiça será a paz,
+E o fruto da verdadeira justiça será tranquilidade e segurança permanentes.
+
+[[v23-32-18]]
+
+^<<v23-32-18,18>>^ Meu povo morará num lugar pacífico,
+Em moradias seguras e em locais tranquilos, sem perturbação.
+
+[[v23-32-19]]
+
+^<<v23-32-19,19>>^ Mas a chuva de granizo destruirá a floresta,
+E a cidade será completamente arrasada.
+
+[[v23-32-20]]
+
+^<<v23-32-20,20>>^ Felizes são vocês, que semeiam junto a todas as águas,
+Que deixam soltos^&#42;1^ o touro e o jumento.”
+
+[NOTE]
+====
+. Ou: “enviam”.
+====
+
+'''
+
+xref:023-isaias/023-isaias-031.adoc#v23-31-0[&#60; Capítulo Anterior] | <<v23-32-0,Topo>> | xref:023-isaias/023-isaias-033.adoc#v23-33-0[Próximo Capítulo &#62;]

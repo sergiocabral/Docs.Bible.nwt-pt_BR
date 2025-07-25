@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v19-36-0]]
+=== Salmos, 36
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Ao regente. Do servo de Jeová, Davi._
+
+[[v19-36-1]]
+
+^<<v19-36-1,1>>^ No fundo do coração do perverso, a transgressão lhe fala;
+Não há temor de Deus diante dos seus olhos.
+
+[[v19-36-2]]
+
+^<<v19-36-2,2>>^ Pois aos seus próprios olhos ele é tão importante
+Que não percebe nem odeia o seu erro.
+
+[[v19-36-3]]
+
+^<<v19-36-3,3>>^ As palavras da sua boca ferem e enganam;
+Ele não tem entendimento^&#42;1^ para fazer o bem.
+
+[NOTE]
+====
+. Ou: “perspicácia”.
+====
+
+[[v19-36-4]]
+
+^<<v19-36-4,4>>^ Até na sua cama faz planos maldosos.
+Ele se decidiu por um caminho que não é bom;
+Não rejeita o mal.
+
+[[v19-36-5]]
+
+^<<v19-36-5,5>>^ Ó Jeová, teu amor leal alcança os céus;
+Tua fidelidade, as nuvens.
+
+[[v19-36-6]]
+
+^<<v19-36-6,6>>^ Tua justiça é como montanhas majestosas;^&#42;1^
+Teus julgamentos são como vastas águas profundas.
+Preservas^&#42;2^ o homem e o animal, ó Jeová.
+
+[NOTE]
+====
+. Lit.: “como montanhas de Deus”.
+. Ou: “Salvas”.
+====
+
+[[v19-36-7]]
+
+^<<v19-36-7,7>>^ Como é precioso teu amor leal, ó Deus!
+Os filhos dos homens se refugiam na sombra das tuas asas.
+
+[[v19-36-8]]
+
+^<<v19-36-8,8>>^ Saciam-se da fartura^&#42;1^ da tua casa,
+E tu os fazes beber da torrente das tuas delícias.
+
+[NOTE]
+====
+. Lit.: “gordura”.
+====
+
+[[v19-36-9]]
+
+^<<v19-36-9,9>>^ Contigo está a fonte da vida;
+Graças à tua luz podemos ver a luz.
+
+[[v19-36-10]]
+
+^<<v19-36-10,10>>^ Continua a mostrar teu amor leal aos que te conhecem,
+E a tua justiça aos retos de coração.
+
+[[v19-36-11]]
+
+^<<v19-36-11,11>>^ Não deixes que os pés dos arrogantes me pisem;
+Nem que as mãos dos maus me expulsem.
+
+[[v19-36-12]]
+
+^<<v19-36-12,12>>^ Lá estão os malfeitores, caídos;
+Foram derrubados e não podem se levantar.
+
+'''
+
+xref:019-salmo/019-salmo-035.adoc#v19-35-0[&#60; Capítulo Anterior] | <<v19-36-0,Topo>> | xref:019-salmo/019-salmo-037.adoc#v19-37-0[Próximo Capítulo &#62;]

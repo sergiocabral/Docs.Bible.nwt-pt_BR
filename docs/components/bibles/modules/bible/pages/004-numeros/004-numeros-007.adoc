@@ -1,0 +1,391 @@
+include::./index.adoc[]
+
+[[v4-7-0]]
+=== Números, 7
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v4-7-1]]
+
+^<<v4-7-1,1>>^ No dia em que Moisés acabou de armar o tabernáculo, ele o ungiu e santificou, junto com todos os seus móveis, o altar, e todos os seus utensílios. Depois de ungir e santificar essas coisas,
+
+[[v4-7-2]]
+
+^<<v4-7-2,2>>^ os maiorais de Israel, os cabeças das casas paternas, fizeram uma oferta. Esses maiorais das tribos, que tinham supervisionado o registro,
+
+[[v4-7-3]]
+
+^<<v4-7-3,3>>^ levaram sua oferta perante Jeová: seis carroças cobertas e doze touros; uma carroça para cada dois maiorais e um touro^&#42;1^ para cada um deles; e os apresentaram diante do tabernáculo.
+
+[NOTE]
+====
+. Ou: “boi não castrado”.
+====
+
+[[v4-7-4]]
+
+^<<v4-7-4,4>>^ Jeová disse a Moisés:
+
+[[v4-7-5]]
+
+^<<v4-7-5,5>>^ “Aceite deles essas coisas, visto que serão usadas no serviço da tenda de reunião, e você deve dá-las aos levitas, a cada um conforme for necessário para cumprir os seus deveres.”
+
+[[v4-7-6]]
+
+^<<v4-7-6,6>>^ Portanto, Moisés aceitou as carroças e os touros, e os deu aos levitas.
+
+[[v4-7-7]]
+
+^<<v4-7-7,7>>^ Deu duas carroças e quatro touros aos filhos de Gérson, conforme era necessário para cumprirem os seus deveres,
+
+[[v4-7-8]]
+
+^<<v4-7-8,8>>^ e deu quatro carroças e oito touros aos filhos de Merari, conforme era necessário para cumprirem os seus deveres. Todas essas coisas estavam sob a direção de Itamar, filho de Arão, o sacerdote.
+
+[[v4-7-9]]
+
+^<<v4-7-9,9>>^ Mas ele não deu nada aos filhos de Coate, visto que os seus deveres envolviam o serviço do lugar santo e eles carregavam as coisas sagradas nos ombros.
+
+[[v4-7-10]]
+
+^<<v4-7-10,10>>^ Os maiorais fizeram sua oferta na inauguração^&#42;1^ do altar, no dia em que este foi ungido. Quando os maiorais apresentaram sua oferta diante do altar,
+
+[NOTE]
+====
+. Ou: “dedicação”.
+====
+
+[[v4-7-11]]
+
+^<<v4-7-11,11>>^ Jeová disse a Moisés: “Cada dia um dos maiorais apresentará sua oferta para a inauguração do altar.”
+
+[[v4-7-12]]
+
+^<<v4-7-12,12>>^ Quem apresentou sua oferta no primeiro dia foi Nasom, filho de Aminadabe, da tribo de Judá.
+
+[[v4-7-13]]
+
+^<<v4-7-13,13>>^ Sua oferta foi um prato de prata que pesava 130 siclos^&#42;1^ e uma tigela de prata que pesava 70 siclos, segundo o siclo-padrão do lugar santo,^&#42;2^ ambos cheios de farinha fina misturada com azeite, para uma oferta de cereais;
+
+[NOTE]
+====
+. Um siclo equivalia a 11,4 g. Veja Ap. B14.
+. Ou: “segundo o siclo sagrado”.
+====
+
+[[v4-7-14]]
+
+^<<v4-7-14,14>>^ uma pequena tigela^&#42;1^ de ouro que pesava 10 siclos, cheia de incenso;
+
+[NOTE]
+====
+. Ou: “taça”.
+====
+
+[[v4-7-15]]
+
+^<<v4-7-15,15>>^ um novilho, um carneiro e um cordeiro no primeiro ano de vida, para uma oferta queimada;
+
+[[v4-7-16]]
+
+^<<v4-7-16,16>>^ um cabrito para uma oferta pelo pecado;
+
+[[v4-7-17]]
+
+^<<v4-7-17,17>>^ e, para um sacrifício de participação em comum, dois touros, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferta de Nasom, filho de Aminadabe.
+
+[[v4-7-18]]
+
+^<<v4-7-18,18>>^ No segundo dia, o maioral de Issacar, Netanel, filho de Zuar, fez sua oferta.
+
+[[v4-7-19]]
+
+^<<v4-7-19,19>>^ Ele apresentou como oferta um prato de prata que pesava 130 siclos e uma tigela de prata que pesava 70 siclos, segundo o siclo-padrão do lugar santo, ambos cheios de farinha fina misturada com azeite, para uma oferta de cereais;
+
+[[v4-7-20]]
+
+^<<v4-7-20,20>>^ uma pequena tigela de ouro que pesava 10 siclos, cheia de incenso;
+
+[[v4-7-21]]
+
+^<<v4-7-21,21>>^ um novilho, um carneiro e um cordeiro no primeiro ano de vida, para uma oferta queimada;
+
+[[v4-7-22]]
+
+^<<v4-7-22,22>>^ um cabrito para uma oferta pelo pecado;
+
+[[v4-7-23]]
+
+^<<v4-7-23,23>>^ e, para um sacrifício de participação em comum, dois touros, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferta de Netanel, filho de Zuar.
+
+[[v4-7-24]]
+
+^<<v4-7-24,24>>^ No terceiro dia, o maioral dos filhos de Zebulão, Eliabe, filho de Helom,
+
+[[v4-7-25]]
+
+^<<v4-7-25,25>>^ fez sua oferta: um prato de prata que pesava 130 siclos e uma tigela de prata que pesava 70 siclos, segundo o siclo-padrão do lugar santo, ambos cheios de farinha fina misturada com azeite, para uma oferta de cereais;
+
+[[v4-7-26]]
+
+^<<v4-7-26,26>>^ uma pequena tigela de ouro que pesava 10 siclos, cheia de incenso;
+
+[[v4-7-27]]
+
+^<<v4-7-27,27>>^ um novilho, um carneiro e um cordeiro no primeiro ano de vida, para uma oferta queimada;
+
+[[v4-7-28]]
+
+^<<v4-7-28,28>>^ um cabrito para uma oferta pelo pecado;
+
+[[v4-7-29]]
+
+^<<v4-7-29,29>>^ e, para um sacrifício de participação em comum, dois touros, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferta de Eliabe, filho de Helom.
+
+[[v4-7-30]]
+
+^<<v4-7-30,30>>^ No quarto dia, o maioral dos filhos de Rubem, Elizur, filho de Sedeur,
+
+[[v4-7-31]]
+
+^<<v4-7-31,31>>^ fez sua oferta: um prato de prata que pesava 130 siclos e uma tigela de prata que pesava 70 siclos, segundo o siclo-padrão do lugar santo, ambos cheios de farinha fina misturada com azeite, para uma oferta de cereais;
+
+[[v4-7-32]]
+
+^<<v4-7-32,32>>^ uma pequena tigela de ouro que pesava 10 siclos, cheia de incenso;
+
+[[v4-7-33]]
+
+^<<v4-7-33,33>>^ um novilho, um carneiro e um cordeiro no primeiro ano de vida, para uma oferta queimada;
+
+[[v4-7-34]]
+
+^<<v4-7-34,34>>^ um cabrito para uma oferta pelo pecado;
+
+[[v4-7-35]]
+
+^<<v4-7-35,35>>^ e, para um sacrifício de participação em comum, dois touros, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferta de Elizur, filho de Sedeur.
+
+[[v4-7-36]]
+
+^<<v4-7-36,36>>^ No quinto dia, o maioral dos filhos de Simeão, Selumiel, filho de Zurisadai,
+
+[[v4-7-37]]
+
+^<<v4-7-37,37>>^ fez sua oferta: um prato de prata que pesava 130 siclos e uma tigela de prata que pesava 70 siclos, segundo o siclo-padrão do lugar santo, ambos cheios de farinha fina misturada com azeite, para uma oferta de cereais;
+
+[[v4-7-38]]
+
+^<<v4-7-38,38>>^ uma pequena tigela de ouro que pesava 10 siclos, cheia de incenso;
+
+[[v4-7-39]]
+
+^<<v4-7-39,39>>^ um novilho, um carneiro e um cordeiro no primeiro ano de vida, para uma oferta queimada;
+
+[[v4-7-40]]
+
+^<<v4-7-40,40>>^ um cabrito para uma oferta pelo pecado;
+
+[[v4-7-41]]
+
+^<<v4-7-41,41>>^ e, para um sacrifício de participação em comum, dois touros, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferta de Selumiel, filho de Zurisadai.
+
+[[v4-7-42]]
+
+^<<v4-7-42,42>>^ No sexto dia, o maioral dos filhos de Gade, Eliasafe, filho de Deuel,
+
+[[v4-7-43]]
+
+^<<v4-7-43,43>>^ fez sua oferta: um prato de prata que pesava 130 siclos e uma tigela de prata que pesava 70 siclos, segundo o siclo-padrão do lugar santo, ambos cheios de farinha fina misturada com azeite, para uma oferta de cereais;
+
+[[v4-7-44]]
+
+^<<v4-7-44,44>>^ uma pequena tigela de ouro que pesava 10 siclos, cheia de incenso;
+
+[[v4-7-45]]
+
+^<<v4-7-45,45>>^ um novilho, um carneiro e um cordeiro no primeiro ano de vida, para uma oferta queimada;
+
+[[v4-7-46]]
+
+^<<v4-7-46,46>>^ um cabrito para uma oferta pelo pecado;
+
+[[v4-7-47]]
+
+^<<v4-7-47,47>>^ e, para um sacrifício de participação em comum, dois touros, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferta de Eliasafe, filho de Deuel.
+
+[[v4-7-48]]
+
+^<<v4-7-48,48>>^ No sétimo dia, o maioral dos filhos de Efraim, Elisama, filho de Amiúde,
+
+[[v4-7-49]]
+
+^<<v4-7-49,49>>^ fez sua oferta: um prato de prata que pesava 130 siclos e uma tigela de prata que pesava 70 siclos, segundo o siclo-padrão do lugar santo, ambos cheios de farinha fina misturada com azeite, para uma oferta de cereais;
+
+[[v4-7-50]]
+
+^<<v4-7-50,50>>^ uma pequena tigela de ouro que pesava 10 siclos, cheia de incenso;
+
+[[v4-7-51]]
+
+^<<v4-7-51,51>>^ um novilho, um carneiro e um cordeiro no primeiro ano de vida, para uma oferta queimada;
+
+[[v4-7-52]]
+
+^<<v4-7-52,52>>^ um cabrito para uma oferta pelo pecado;
+
+[[v4-7-53]]
+
+^<<v4-7-53,53>>^ e, para um sacrifício de participação em comum, dois touros, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferta de Elisama, filho de Amiúde.
+
+[[v4-7-54]]
+
+^<<v4-7-54,54>>^ No oitavo dia, o maioral dos filhos de Manassés, Gamaliel, filho de Pedazur,
+
+[[v4-7-55]]
+
+^<<v4-7-55,55>>^ fez sua oferta: um prato de prata que pesava 130 siclos e uma tigela de prata que pesava 70 siclos, segundo o siclo-padrão do lugar santo, ambos cheios de farinha fina misturada com azeite, para uma oferta de cereais;
+
+[[v4-7-56]]
+
+^<<v4-7-56,56>>^ uma pequena tigela de ouro que pesava 10 siclos, cheia de incenso;
+
+[[v4-7-57]]
+
+^<<v4-7-57,57>>^ um novilho, um carneiro e um cordeiro no primeiro ano de vida para uma oferta queimada;
+
+[[v4-7-58]]
+
+^<<v4-7-58,58>>^ um cabrito para uma oferta pelo pecado;
+
+[[v4-7-59]]
+
+^<<v4-7-59,59>>^ e, para um sacrifício de participação em comum, dois touros, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferta de Gamaliel, filho de Pedazur.
+
+[[v4-7-60]]
+
+^<<v4-7-60,60>>^ No nono dia, o maioral dos filhos de Benjamim, Abidã, filho de Gideoni,
+
+[[v4-7-61]]
+
+^<<v4-7-61,61>>^ fez sua oferta: um prato de prata que pesava 130 siclos e uma tigela de prata que pesava 70 siclos, segundo o siclo-padrão do lugar santo, ambos cheios de farinha fina misturada com azeite, para uma oferta de cereais;
+
+[[v4-7-62]]
+
+^<<v4-7-62,62>>^ uma pequena tigela de ouro que pesava 10 siclos, cheia de incenso;
+
+[[v4-7-63]]
+
+^<<v4-7-63,63>>^ um novilho, um carneiro e um cordeiro no primeiro ano de vida, para uma oferta queimada;
+
+[[v4-7-64]]
+
+^<<v4-7-64,64>>^ um cabrito para uma oferta pelo pecado;
+
+[[v4-7-65]]
+
+^<<v4-7-65,65>>^ e, para um sacrifício de participação em comum, dois touros, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferta de Abidã, filho de Gideoni.
+
+[[v4-7-66]]
+
+^<<v4-7-66,66>>^ No décimo dia, o maioral dos filhos de Dã, Aiezer, filho de Amisadai,
+
+[[v4-7-67]]
+
+^<<v4-7-67,67>>^ fez sua oferta: um prato de prata que pesava 130 siclos e uma tigela de prata que pesava 70 siclos, segundo o siclo-padrão do lugar santo, ambos cheios de farinha fina misturada com azeite, para uma oferta de cereais;
+
+[[v4-7-68]]
+
+^<<v4-7-68,68>>^ uma pequena tigela de ouro que pesava 10 siclos, cheia de incenso;
+
+[[v4-7-69]]
+
+^<<v4-7-69,69>>^ um novilho, um carneiro e um cordeiro no primeiro ano de vida, para uma oferta queimada;
+
+[[v4-7-70]]
+
+^<<v4-7-70,70>>^ um cabrito para uma oferta pelo pecado;
+
+[[v4-7-71]]
+
+^<<v4-7-71,71>>^ e, para um sacrifício de participação em comum, dois touros, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferta de Aiezer, filho de Amisadai.
+
+[[v4-7-72]]
+
+^<<v4-7-72,72>>^ No décimo primeiro dia, o maioral dos filhos de Aser, Pagiel, filho de Ocrã,
+
+[[v4-7-73]]
+
+^<<v4-7-73,73>>^ fez sua oferta: um prato de prata que pesava 130 siclos e uma tigela de prata que pesava 70 siclos, segundo o siclo-padrão do lugar santo, ambos cheios de farinha fina misturada com azeite, para uma oferta de cereais;
+
+[[v4-7-74]]
+
+^<<v4-7-74,74>>^ uma pequena tigela de ouro que pesava 10 siclos, cheia de incenso;
+
+[[v4-7-75]]
+
+^<<v4-7-75,75>>^ um novilho, um carneiro e um cordeiro no primeiro ano de vida, para uma oferta queimada;
+
+[[v4-7-76]]
+
+^<<v4-7-76,76>>^ um cabrito para uma oferta pelo pecado;
+
+[[v4-7-77]]
+
+^<<v4-7-77,77>>^ e, para um sacrifício de participação em comum, dois touros, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferta de Pagiel, filho de Ocrã.
+
+[[v4-7-78]]
+
+^<<v4-7-78,78>>^ No décimo segundo dia, o maioral dos filhos de Naftali, Aira, filho de Enã,
+
+[[v4-7-79]]
+
+^<<v4-7-79,79>>^ fez sua oferta: um prato de prata que pesava 130 siclos e uma tigela de prata que pesava 70 siclos, segundo o siclo-padrão do lugar santo, ambos cheios de farinha fina misturada com azeite, para uma oferta de cereais;
+
+[[v4-7-80]]
+
+^<<v4-7-80,80>>^ uma pequena tigela de ouro que pesava 10 siclos, cheia de incenso;
+
+[[v4-7-81]]
+
+^<<v4-7-81,81>>^ um novilho, um carneiro e um cordeiro no primeiro ano de vida, para uma oferta queimada;
+
+[[v4-7-82]]
+
+^<<v4-7-82,82>>^ um cabrito para uma oferta pelo pecado;
+
+[[v4-7-83]]
+
+^<<v4-7-83,83>>^ e, para um sacrifício de participação em comum, dois touros, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferta de Aira, filho de Enã.
+
+[[v4-7-84]]
+
+^<<v4-7-84,84>>^ Esta foi a oferta de inauguração do altar feita pelos maiorais de Israel quando o altar foi ungido: 12 pratos de prata, 12 tigelas de prata e 12 pequenas tigelas de ouro.
+
+[[v4-7-85]]
+
+^<<v4-7-85,85>>^ Cada prato de prata pesava 130 siclos, e cada tigela pesava 70 siclos, de modo que o peso de toda a prata dos recipientes foi de 2.400 siclos, segundo o siclo-padrão do lugar santo.
+
+[[v4-7-86]]
+
+^<<v4-7-86,86>>^ As 12 pequenas tigelas de ouro cheias de incenso pesavam 10 siclos cada uma, segundo o siclo-padrão do lugar santo, de modo que o peso de todo o ouro das pequenas tigelas foi de 120 siclos.
+
+[[v4-7-87]]
+
+^<<v4-7-87,87>>^ Os animais usados para a oferta queimada foram 12 novilhos, 12 carneiros, 12 cordeiros de um ano, junto com as correspondentes ofertas de cereais, e 12 cabritos para uma oferta pelo pecado.
+
+[[v4-7-88]]
+
+^<<v4-7-88,88>>^ E os animais usados para o sacrifício de participação em comum foram 24 touros, 60 carneiros, 60 bodes e 60 cordeiros de um ano. Essa foi a oferta de inauguração do altar depois de este ter sido ungido.
+
+[[v4-7-89]]
+
+^<<v4-7-89,89>>^ Sempre que Moisés entrava na tenda de reunião para falar com Deus,^&#42;1^ ouvia a voz lhe falando de cima da tampa da Arca do Testemunho, do meio dos dois querubins; e Deus falava com ele.
+
+[NOTE]
+====
+. Lit.: “ele”.
+====
+
+'''
+
+xref:004-numeros/004-numeros-006.adoc#v4-6-0[&#60; Capítulo Anterior] | <<v4-7-0,Topo>> | xref:004-numeros/004-numeros-008.adoc#v4-8-0[Próximo Capítulo &#62;]

@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v19-56-0]]
+=== Salmos, 56
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Ao regente; com a melodia de A Pomba Silenciosa Que Está Longe. De Davi. Mictão.^&#42;1^ Quando os filisteus o capturaram em Gate._
+
+[[v19-56-1]]
+
+^<<v19-56-1,1>>^ Mostra-me favor, ó Deus, porque o homem mortal está me atacando.^&#42;1^
+O dia inteiro, eles lutam contra mim e me oprimem.
+
+[NOTE]
+====
+. Ou: “está tentando me devorar”.
+====
+
+[[v19-56-2]]
+
+^<<v19-56-2,2>>^ Meus inimigos me perseguem o dia inteiro;
+Muitos, de modo arrogante, lutam contra mim.
+
+[[v19-56-3]]
+
+^<<v19-56-3,3>>^ Quando fico com medo, ponho minha confiança em ti.
+
+[[v19-56-4]]
+
+^<<v19-56-4,4>>^ Em Deus, cuja palavra eu louvo,
+Em Deus eu ponho a minha confiança; não tenho medo.
+O que me pode fazer um simples homem?^&#42;1^
+
+[NOTE]
+====
+. Lit.: “a carne”.
+====
+
+[[v19-56-5]]
+
+^<<v19-56-5,5>>^ O dia inteiro eles ferem os meus interesses;
+Seu único pensamento é me prejudicar.
+
+[[v19-56-6]]
+
+^<<v19-56-6,6>>^ Eles se escondem para atacar;
+Vigiam todos os meus passos,
+Na esperança de tirar a minha vida.^&#42;1^
+
+[NOTE]
+====
+. Ou: “alma”.
+====
+
+[[v19-56-7]]
+
+^<<v19-56-7,7>>^ Rejeita-os por causa da sua maldade.
+Derruba as nações na tua ira, ó Deus.
+
+[[v19-56-8]]
+
+^<<v19-56-8,8>>^ Tu acompanhas as minhas andanças.
+Por favor, recolhe as minhas lágrimas no teu odre.
+Não estão registradas no teu livro?
+
+[[v19-56-9]]
+
+^<<v19-56-9,9>>^ Meus inimigos baterão em retirada no dia em que eu clamar por ajuda;
+Estou confiante disto: Deus está do meu lado.
+
+[[v19-56-10]]
+
+^<<v19-56-10,10>>^ Em Deus, cuja palavra eu louvo,
+Em Jeová, cuja palavra eu louvo,
+
+[[v19-56-11]]
+
+^<<v19-56-11,11>>^ Em Deus eu ponho a minha confiança; não tenho medo.
+O que me pode fazer um simples homem?
+
+[[v19-56-12]]
+
+^<<v19-56-12,12>>^ Estou debaixo dos votos que fiz a ti, ó Deus;
+Oferecerei expressões de agradecimento a ti.
+
+[[v19-56-13]]
+
+^<<v19-56-13,13>>^ Pois tu me livraste^&#42;1^ da morte
+E impediste meus pés de tropeçar,
+Para que eu andasse diante de Deus na luz dos vivos.
+
+[NOTE]
+====
+. Ou: “livraste a minha alma”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-055.adoc#v19-55-0[&#60; Capítulo Anterior] | <<v19-56-0,Topo>> | xref:019-salmo/019-salmo-057.adoc#v19-57-0[Próximo Capítulo &#62;]

@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v3-2-0]]
+=== Levítico, 2
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v3-2-1]]
+
+^<<v3-2-1,1>>^ “‘Se alguém^&#42;1^ apresentar uma oferta de cereais a Jeová, essa oferta terá de ser de farinha fina; ele deve derramar azeite nela e pôr olíbano sobre ela.
+
+[NOTE]
+====
+. Ou: “uma alma”.
+====
+
+[[v3-2-2]]
+
+^<<v3-2-2,2>>^ Depois ele a levará aos filhos de Arão, os sacerdotes; e o sacerdote apanhará um punhado da farinha fina com o azeite, e todo o olíbano. Ele os fará fumegar no altar como representação da oferta inteira,^&#42;1^ uma oferta feita por fogo, de aroma agradável^&#42;2^ para Jeová.
+
+[NOTE]
+====
+. Ou: “como porção memorial dela”.
+. Ou: “apaziguador; calmante”. Lit.: “repousante”.
+====
+
+[[v3-2-3]]
+
+^<<v3-2-3,3>>^ O que sobrar da oferta de cereais pertencerá a Arão e a seus filhos como algo santíssimo das ofertas feitas por fogo a Jeová.
+
+[[v3-2-4]]
+
+^<<v3-2-4,4>>^ “‘Se você apresentar uma oferta de cereais assada no forno, ela deve ser de farinha fina — pães em forma de anel feitos com azeite e sem fermento, ou pães achatados sem fermento, untados com azeite.
+
+[[v3-2-5]]
+
+^<<v3-2-5,5>>^ “‘Se a sua oferta for uma oferta de cereais preparada na frigideira, deve ser de farinha fina misturada com azeite e sem fermento.
+
+[[v3-2-6]]
+
+^<<v3-2-6,6>>^ Deve ser quebrada em pedaços, e você deve derramar azeite sobre ela. É uma oferta de cereais.
+
+[[v3-2-7]]
+
+^<<v3-2-7,7>>^ “‘Se a sua oferta for uma oferta de cereais preparada numa panela, deve ser feita de farinha fina com azeite.
+
+[[v3-2-8]]
+
+^<<v3-2-8,8>>^ Você deve levar a Jeová a oferta de cereais feita com esses ingredientes, e ela será apresentada ao sacerdote, que a levará para perto do altar.
+
+[[v3-2-9]]
+
+^<<v3-2-9,9>>^ E o sacerdote retirará uma porção da oferta de cereais como representação da oferta inteira^&#42;1^ e a fará fumegar no altar, como oferta feita por fogo, de aroma agradável^&#42;2^ para Jeová.
+
+[NOTE]
+====
+. Ou: “como porção memorial dela”.
+. Ou: “apaziguador; calmante”. Lit.: “repousante”.
+====
+
+[[v3-2-10]]
+
+^<<v3-2-10,10>>^ O que sobrar da oferta de cereais pertencerá a Arão e a seus filhos como algo santíssimo das ofertas feitas por fogo a Jeová.
+
+[[v3-2-11]]
+
+^<<v3-2-11,11>>^ “‘Nenhuma oferta de cereais que vocês apresentarem a Jeová deve ser feita com fermento, pois vocês não devem fazer fumegar fermento nem mel como oferta feita por fogo a Jeová.
+
+[[v3-2-12]]
+
+^<<v3-2-12,12>>^ “‘Vocês podem apresentá-los a Jeová como oferta das primícias, mas eles não devem ser levados ao altar como aroma agradável.^&#42;1^
+
+[NOTE]
+====
+. Ou: “apaziguador; calmante”. Lit.: “repousante”.
+====
+
+[[v3-2-13]]
+
+^<<v3-2-13,13>>^ “‘Toda oferta de cereais que você fizer deve ser temperada com sal; não deixe faltar o sal do pacto do seu Deus na sua oferta de cereais. Você apresentará sal junto com todas as suas ofertas.
+
+[[v3-2-14]]
+
+^<<v3-2-14,14>>^ “‘Se você apresentar a Jeová a oferta de cereais dos primeiros frutos maduros, deve trazer cereais novos^&#42;1^ torrados no fogo, grãos novos esmagados,^&#42;2^ como oferta de cereais dos seus primeiros frutos maduros.
+
+[NOTE]
+====
+. Ou: “trazer espigas verdes”.
+. Isto é, triturados grosseiramente.
+====
+
+[[v3-2-15]]
+
+^<<v3-2-15,15>>^ Você deve pôr azeite e olíbano sobre ela. É uma oferta de cereais.
+
+[[v3-2-16]]
+
+^<<v3-2-16,16>>^ O sacerdote fará fumegar uma porção dos grãos esmagados,^&#42;1^ misturados com azeite, como representação da oferta inteira,^&#42;2^ e todo o olíbano, como uma oferta feita por fogo a Jeová.
+
+[NOTE]
+====
+. Isto é, triturados grosseiramente.
+. Ou: “como porção memorial dela”.
+====
+
+'''
+
+xref:003-levitico/003-levitico-001.adoc#v3-1-0[&#60; Capítulo Anterior] | <<v3-2-0,Topo>> | xref:003-levitico/003-levitico-003.adoc#v3-3-0[Próximo Capítulo &#62;]

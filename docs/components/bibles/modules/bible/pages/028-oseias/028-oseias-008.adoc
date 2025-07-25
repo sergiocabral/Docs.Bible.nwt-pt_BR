@@ -1,0 +1,117 @@
+include::./index.adoc[]
+
+[[v28-8-0]]
+=== Oseias, 8
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v28-8-1]]
+
+^<<v28-8-1,1>>^ “Toque a buzina!
+Vem alguém como águia contra a casa de Jeová,
+Pois eles violaram o meu pacto e transgrediram a minha lei.
+
+[[v28-8-2]]
+
+^<<v28-8-2,2>>^ Eles clamam a mim: ‘Ó meu Deus, nós, Israel, conhecemos a ti!’
+
+[[v28-8-3]]
+
+^<<v28-8-3,3>>^ Israel rejeitou o que é bom.
+Que seja perseguido pelo inimigo.
+
+[[v28-8-4]]
+
+^<<v28-8-4,4>>^ Eles designaram reis, mas sem o meu consentimento.
+Designaram príncipes, mas sem a minha aprovação.
+Com a sua prata e o seu ouro fizeram ídolos,
+Para a sua própria destruição.
+
+[[v28-8-5]]
+
+^<<v28-8-5,5>>^ Seu bezerro foi rejeitado, Samaria.
+Minha ira se acende contra eles.
+Até quando serão incapazes de se purificar?^&#42;1^
+
+[NOTE]
+====
+. Ou: “ser inocentes”.
+====
+
+[[v28-8-6]]
+
+^<<v28-8-6,6>>^ Pois isso vem de Israel.
+Um artesão o fez; ele não é Deus.
+O bezerro de Samaria será completamente despedaçado.
+
+[[v28-8-7]]
+
+^<<v28-8-7,7>>^ Pois estão semeando vento
+E colherão tempestade.
+Nenhuma haste produz espiga madura;
+Aquilo que brota não produz farinha.
+Mesmo que produza, ela será devorada por estrangeiros.^&#42;1^
+
+[NOTE]
+====
+. Ou: “estranhos”.
+====
+
+[[v28-8-8]]
+
+^<<v28-8-8,8>>^ Israel será devorado.
+Agora estarão entre as nações,
+Como um objeto^&#42;1^ indesejável.
+
+[NOTE]
+====
+. Ou: “vaso”.
+====
+
+[[v28-8-9]]
+
+^<<v28-8-9,9>>^ Pois eles subiram à Assíria, como um jumento selvagem que anda sozinho.
+Efraim contratou amantes.
+
+[[v28-8-10]]
+
+^<<v28-8-10,10>>^ Embora eles contratem amantes entre as nações,
+Agora eu os reunirei;
+Eles começarão a sofrer por causa do fardo imposto pelo rei e pelos príncipes.
+
+[[v28-8-11]]
+
+^<<v28-8-11,11>>^ Pois Efraim multiplicou os altares para pecar.
+Eles se tornaram seus altares para o pecado.
+
+[[v28-8-12]]
+
+^<<v28-8-12,12>>^ Eu lhe escrevi as muitas coisas da minha lei,^&#42;1^
+Mas elas foram consideradas como algo estranho.
+
+[NOTE]
+====
+. Ou: “instrução”.
+====
+
+[[v28-8-13]]
+
+^<<v28-8-13,13>>^ Eles me oferecem sacrifícios e comem a carne,
+Mas Jeová não se agrada deles.
+Agora Ele se lembrará do erro deles e os punirá pelos seus pecados.
+Eles voltaram^&#42;1^ para o Egito.
+
+[NOTE]
+====
+. Ou, possivelmente: “voltarão”.
+====
+
+[[v28-8-14]]
+
+^<<v28-8-14,14>>^ Israel se esqueceu Daquele que o fez e construiu templos,
+E Judá multiplicou as cidades fortificadas.
+Mas eu enviarei fogo sobre as suas cidades,
+E o fogo consumirá as torres de cada uma delas.”
+
+'''
+
+xref:028-oseias/028-oseias-007.adoc#v28-7-0[&#60; Capítulo Anterior] | <<v28-8-0,Topo>> | xref:028-oseias/028-oseias-009.adoc#v28-9-0[Próximo Capítulo &#62;]

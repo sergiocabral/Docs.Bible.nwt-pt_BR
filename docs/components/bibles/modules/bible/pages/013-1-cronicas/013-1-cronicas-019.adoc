@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v13-19-0]]
+=== O Primeiro das Crônicas, 19
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v13-19-1]]
+
+^<<v13-19-1,1>>^ Depois disso Naás, rei dos amonitas, morreu, e seu filho se tornou rei no seu lugar.
+
+[[v13-19-2]]
+
+^<<v13-19-2,2>>^ Então Davi disse: “Demonstrarei amor leal a Hanum, filho de Naás, porque o pai dele demonstrou amor leal a mim.” Portanto, Davi enviou seus mensageiros para consolá-lo pela morte do seu pai. Mas, quando os servos de Davi chegaram à terra dos amonitas para consolar Hanum,
+
+[[v13-19-3]]
+
+^<<v13-19-3,3>>^ os príncipes dos amonitas disseram a Hanum: “Acha que foi para honrar seu pai que Davi lhe enviou consoladores? Os servos dele vieram fazer um reconhecimento da terra, espioná-la e arruinar o senhor.”
+
+[[v13-19-4]]
+
+^<<v13-19-4,4>>^ Então Hanum pegou os servos de Davi, raspou a barba deles e cortou suas roupas pela metade, na altura das nádegas; depois os mandou embora.
+
+[[v13-19-5]]
+
+^<<v13-19-5,5>>^ Quando contaram a Davi o que tinha acontecido com os seus servos, ele imediatamente enviou homens ao encontro deles, porque eles tinham sido muito humilhados. O rei lhes disse: “Fiquem em Jericó e voltem quando as suas barbas tiverem crescido.”
+
+[[v13-19-6]]
+
+^<<v13-19-6,6>>^ Com o tempo, os amonitas perceberam que tinham despertado o ódio de^&#42;1^ Davi. Então Hanum e os amonitas enviaram 1.000 talentos^&#42;2^ de prata para contratar carros de guerra e cavaleiros da Mesopotâmia,^&#42;3^ de Arã-Maacá e de Zobá.
+
+[NOTE]
+====
+. Ou: “tinham se tornado um mau cheiro para”.
+. Um talento equivalia a 34,2 kg. Veja Ap. B14.
+. Lit.: “de Arã-Naaraim”.
+====
+
+[[v13-19-7]]
+
+^<<v13-19-7,7>>^ Assim, eles contrataram 32.000 carros de guerra, e também o rei de Maacá e o seu exército.^&#42;1^ Então eles vieram e acamparam diante de Medeba. Os amonitas saíram das suas cidades e se reuniram para a guerra.
+
+[NOTE]
+====
+. Ou: “povo”.
+====
+
+[[v13-19-8]]
+
+^<<v13-19-8,8>>^ Quando Davi ficou sabendo disso, enviou Joabe e todo o exército, incluindo os guerreiros mais valentes.
+
+[[v13-19-9]]
+
+^<<v13-19-9,9>>^ E os amonitas saíram e se puseram em formação de batalha à entrada da cidade, ao passo que os reis que tinham vindo se posicionaram à parte, em campo aberto.
+
+[[v13-19-10]]
+
+^<<v13-19-10,10>>^ Quando Joabe viu que as forças de ataque vinham contra ele pela frente e pela retaguarda, escolheu alguns dos melhores soldados de Israel e os colocou em formação de batalha para enfrentar os sírios.
+
+[[v13-19-11]]
+
+^<<v13-19-11,11>>^ Ele pôs o restante dos homens sob o comando^&#42;1^ do seu irmão Abisai, a fim de colocá-los em formação de batalha para enfrentar os amonitas.
+
+[NOTE]
+====
+. Lit.: “na mão”.
+====
+
+[[v13-19-12]]
+
+^<<v13-19-12,12>>^ Então Joabe disse: “Se os sírios se tornarem fortes demais para mim, venha me ajudar; mas, se os amonitas se tornarem fortes demais para você, eu vou ajudá-lo.
+
+[[v13-19-13]]
+
+^<<v13-19-13,13>>^ Temos de ser fortes e lutar com coragem pelo nosso povo e pelas cidades do nosso Deus, e Jeová fará o que for bom aos Seus olhos.”
+
+[[v13-19-14]]
+
+^<<v13-19-14,14>>^ Então Joabe e os seus homens avançaram para lutar contra os sírios, e estes fugiram de diante dele.
+
+[[v13-19-15]]
+
+^<<v13-19-15,15>>^ Quando os amonitas viram que os sírios tinham fugido, eles também fugiram de Abisai, irmão de Joabe, e entraram na cidade. Depois disso, Joabe voltou a Jerusalém.
+
+[[v13-19-16]]
+
+^<<v13-19-16,16>>^ Quando os sírios viram que tinham sido derrotados por Israel, enviaram mensageiros para convocar os sírios que estavam na região do rio Eufrates^&#42;1^ e que eram comandados por Sofaque, o chefe do exército de Hadadezer.
+
+[NOTE]
+====
+. Lit.: “do Rio”.
+====
+
+[[v13-19-17]]
+
+^<<v13-19-17,17>>^ Ao ser informado disso, Davi reuniu imediatamente todo o Israel, atravessou o Jordão, foi ao encontro deles e se pôs em formação de batalha. Davi se pôs em formação de batalha para enfrentar os sírios, e eles lutaram contra ele.
+
+[[v13-19-18]]
+
+^<<v13-19-18,18>>^ Mas os sírios fugiram de Israel. Davi matou 7.000 condutores de carros de guerra sírios e 40.000 soldados a pé; matou também Sofaque, chefe do exército.
+
+[[v13-19-19]]
+
+^<<v13-19-19,19>>^ Quando os servos de Hadadezer viram que tinham sido derrotados por Israel, fizeram imediatamente paz com Davi e se tornaram seus súditos. E a Síria não quis ajudar novamente os amonitas.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-018.adoc#v13-18-0[&#60; Capítulo Anterior] | <<v13-19-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-020.adoc#v13-20-0[Próximo Capítulo &#62;]

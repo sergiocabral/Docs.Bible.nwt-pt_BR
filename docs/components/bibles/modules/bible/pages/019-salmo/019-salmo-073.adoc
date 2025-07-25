@@ -1,0 +1,196 @@
+include::./index.adoc[]
+
+[[v19-73-0]]
+=== Salmos, 73
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_TERCEIRO LIVRO_
+
+_(Salmos 73-89)_
+
+_Salmo de Asafe._
+
+[[v19-73-1]]
+
+^<<v19-73-1,1>>^ Deus é realmente bom para Israel, para os que têm coração puro.
+
+[[v19-73-2]]
+
+^<<v19-73-2,2>>^ Quanto a mim, meus pés quase se desviaram;
+Por pouco, não escorregaram.
+
+[[v19-73-3]]
+
+^<<v19-73-3,3>>^ Porque fiquei com inveja dos arrogantes,^&#42;1^
+Ao ver a paz dos maus.
+
+[NOTE]
+====
+. Ou: “orgulhosos”.
+====
+
+[[v19-73-4]]
+
+^<<v19-73-4,4>>^ Pois eles não sentem as dores da morte;
+Seu corpo é saudável.^&#42;1^
+
+[NOTE]
+====
+. Ou: “Sua barriga é gorda”.
+====
+
+[[v19-73-5]]
+
+^<<v19-73-5,5>>^ Não têm as preocupações que os outros humanos têm,
+Nem sofrem como os outros homens.
+
+[[v19-73-6]]
+
+^<<v19-73-6,6>>^ Por isso a arrogância é como um colar para eles;
+A violência os cobre como uma roupa.
+
+[[v19-73-7]]
+
+^<<v19-73-7,7>>^ A prosperidade^&#42;1^ deles faz com que seus olhos fiquem salientes;
+São mais bem-sucedidos do que seu coração conseguiria imaginar.
+
+[NOTE]
+====
+. Lit.: “gordura”.
+====
+
+[[v19-73-8]]
+
+^<<v19-73-8,8>>^ Zombam dos outros e falam coisas más;
+De modo arrogante, fazem ameaças de opressão.
+
+[[v19-73-9]]
+
+^<<v19-73-9,9>>^ Falam como se fossem tão elevados quanto o céu,
+E sua língua anda altivamente pela terra.
+
+[[v19-73-10]]
+
+^<<v19-73-10,10>>^ Então o povo de Deus^&#42;1^ se volta para eles
+E bebe das suas águas abundantes.
+
+[NOTE]
+====
+. Ou: “o povo dele”.
+====
+
+[[v19-73-11]]
+
+^<<v19-73-11,11>>^ Dizem: “Como Deus pode saber?
+Será que o Altíssimo tem realmente conhecimento?”
+
+[[v19-73-12]]
+
+^<<v19-73-12,12>>^ Sim, esses são os maus, que estão sempre despreocupados.
+Eles continuam aumentando a sua riqueza.
+
+[[v19-73-13]]
+
+^<<v19-73-13,13>>^ Certamente foi em vão que mantive puro meu coração
+E lavei minhas mãos na inocência.
+
+[[v19-73-14]]
+
+^<<v19-73-14,14>>^ Estive em dificuldades o dia inteiro;
+Era castigado toda manhã.
+
+[[v19-73-15]]
+
+^<<v19-73-15,15>>^ Mas, se eu tivesse dito essas coisas,
+Eu teria traído o teu povo.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “a geração dos teus filhos”.
+====
+
+[[v19-73-16]]
+
+^<<v19-73-16,16>>^ Quando tentei entender tudo isso
+Fiquei perturbado,
+
+[[v19-73-17]]
+
+^<<v19-73-17,17>>^ Até que entrei no grandioso santuário de Deus
+E compreendi o futuro deles.
+
+[[v19-73-18]]
+
+^<<v19-73-18,18>>^ De fato, tu os colocas em terreno escorregadio.
+Tu os fazes cair na ruína.
+
+[[v19-73-19]]
+
+^<<v19-73-19,19>>^ Num instante são destruídos!
+São eliminados repentinamente, num terrível fim!
+
+[[v19-73-20]]
+
+^<<v19-73-20,20>>^ Como um sonho depois do despertar, ó Jeová,
+Quando te levantares farás desaparecer^&#42;1^ a imagem deles.
+
+[NOTE]
+====
+. Lit.: “desprezarás”.
+====
+
+[[v19-73-21]]
+
+^<<v19-73-21,21>>^ Mas meu coração estava amargurado,
+E eu sentia dores agudas no íntimo.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “nos meus rins”.
+====
+
+[[v19-73-22]]
+
+^<<v19-73-22,22>>^ Eu era insensato e não tinha entendimento;
+Era como um animal irracional diante de ti.
+
+[[v19-73-23]]
+
+^<<v19-73-23,23>>^ Mas agora estou sempre contigo;
+Pegaste a minha mão direita.
+
+[[v19-73-24]]
+
+^<<v19-73-24,24>>^ Tu me guias com os teus conselhos,
+E depois me conduzirás à glória.
+
+[[v19-73-25]]
+
+^<<v19-73-25,25>>^ A quem mais tenho nos céus?
+Além de ti, não desejo nada na terra.
+
+[[v19-73-26]]
+
+^<<v19-73-26,26>>^ Meu corpo e meu coração podem enfraquecer,
+Mas Deus é a rocha do meu coração e a minha porção, para sempre.
+
+[[v19-73-27]]
+
+^<<v19-73-27,27>>^ Certamente, os que se mantêm longe de ti morrerão.
+Trarás um fim^&#42;1^ a todos os que de modo imoral^&#42;2^ te abandonam.
+
+[NOTE]
+====
+. Lit.: “Silenciarás”.
+. Ou: “de modo infiel”.
+====
+
+[[v19-73-28]]
+
+^<<v19-73-28,28>>^ Mas, para mim, é bom me achegar a Deus.
+Fiz do Soberano Senhor Jeová o meu refúgio,
+Para declarar todos os teus feitos.
+
+'''
+
+xref:019-salmo/019-salmo-072.adoc#v19-72-0[&#60; Capítulo Anterior] | <<v19-73-0,Topo>> | xref:019-salmo/019-salmo-074.adoc#v19-74-0[Próximo Capítulo &#62;]

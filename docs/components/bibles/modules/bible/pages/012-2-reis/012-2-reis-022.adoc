@@ -1,0 +1,114 @@
+include::./index.adoc[]
+
+[[v12-22-0]]
+=== O Segundo dos Reis, 22
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v12-22-1]]
+
+^<<v12-22-1,1>>^ Josias tinha oito anos de idade quando se tornou rei, e reinou por 31 anos em Jerusalém. O nome da sua mãe era Jedida, filha de Adaías, de Boscate.
+
+[[v12-22-2]]
+
+^<<v12-22-2,2>>^ Ele fez o que era certo aos olhos de Jeová e andou em todos os caminhos de Davi, seu antepassado; não se desviou nem para a direita nem para a esquerda.
+
+[[v12-22-3]]
+
+^<<v12-22-3,3>>^ No décimo oitavo ano do seu reinado, o rei Josias enviou o secretário Safã, filho de Azalias, filho de Mesulão, à casa de Jeová, dizendo:
+
+[[v12-22-4]]
+
+^<<v12-22-4,4>>^ “Vá a Hilquias, o sumo sacerdote, e que ele recolha todo o dinheiro trazido à casa de Jeová, que os porteiros recolheram do povo.
+
+[[v12-22-5]]
+
+^<<v12-22-5,5>>^ Que o dinheiro seja entregue aos que supervisionam a obra na casa de Jeová. Eles, por sua vez, o entregarão aos trabalhadores na casa de Jeová, que deverão consertar a^&#42;1^ casa,
+
+[NOTE]
+====
+. Ou: “consertar as rachaduras na”.
+====
+
+[[v12-22-6]]
+
+^<<v12-22-6,6>>^ isto é, os artesãos, os construtores e os pedreiros. Eles também usarão o dinheiro para comprar madeira e pedras lavradas para o conserto da casa.
+
+[[v12-22-7]]
+
+^<<v12-22-7,7>>^ Mas não se deve exigir deles uma prestação de contas pelo dinheiro que está sendo entregue a eles, porque são de confiança.”
+
+[[v12-22-8]]
+
+^<<v12-22-8,8>>^ Mais tarde Hilquias, o sumo sacerdote, disse a Safã, o secretário: “Achei o livro da Lei na casa de Jeová.” Então Hilquias deu o livro a Safã, que começou a lê-lo.
+
+[[v12-22-9]]
+
+^<<v12-22-9,9>>^ E Safã, o secretário, foi ao rei e lhe disse: “Seus servos recolheram^&#42;1^ o dinheiro que havia na casa e o entregaram aos que supervisionam a obra na casa de Jeová.”
+
+[NOTE]
+====
+. Lit.: “derramaram”.
+====
+
+[[v12-22-10]]
+
+^<<v12-22-10,10>>^ Safã, o secretário, disse também ao rei: “Hilquias, o sacerdote, me deu um livro.” E Safã começou a lê-lo perante o rei.
+
+[[v12-22-11]]
+
+^<<v12-22-11,11>>^ Assim que o rei ouviu as palavras do livro da Lei, rasgou a sua roupa.
+
+[[v12-22-12]]
+
+^<<v12-22-12,12>>^ Então o rei deu a seguinte ordem a Hilquias, o sacerdote, a Aicão, filho de Safã, a Acbor, filho de Micaías, a Safã, o secretário, e a Asaías, servo do rei:
+
+[[v12-22-13]]
+
+^<<v12-22-13,13>>^ “Vão, consultem a Jeová por mim, pelo povo e por todo o Judá a respeito das palavras deste livro que foi achado, pois o furor de Jeová que se acendeu contra nós é grande, visto que os nossos antepassados não obedeceram às palavras deste livro nem fizeram tudo o que está escrito para nós.”
+
+[[v12-22-14]]
+
+^<<v12-22-14,14>>^ Assim, Hilquias, o sacerdote, Aicão, Acbor, Safã e Asaías foram até Hulda, a profetisa. Ela era esposa de Salum, que era encarregado do vestiário e filho de Ticvá, filho de Harás. Ela morava em Jerusalém, na Cidade Nova,^&#42;1^ e ali eles falaram com ela.
+
+[NOTE]
+====
+. Ou: “no Segundo Bairro”.
+====
+
+[[v12-22-15]]
+
+^<<v12-22-15,15>>^ Ela lhes disse: “Assim diz Jeová, o Deus de Israel: ‘Digam ao homem que os enviou a mim:
+
+[[v12-22-16]]
+
+^<<v12-22-16,16>>^ “Assim diz Jeová: ‘Trarei sobre este lugar e seus habitantes uma calamidade, todas as palavras do livro que o rei de Judá leu.
+
+[[v12-22-17]]
+
+^<<v12-22-17,17>>^ Visto que eles me abandonaram e fazem fumegar sacrifícios a outros deuses para me ofender com todo o trabalho das suas mãos, o meu furor se acenderá contra este lugar e não se apagará.’”
+
+[[v12-22-18]]
+
+^<<v12-22-18,18>>^ Mas vocês devem dizer o seguinte ao rei de Judá, que os mandou consultar a Jeová: “Assim diz Jeová, o Deus de Israel: ‘No que se refere às palavras que você ouviu,
+
+[[v12-22-19]]
+
+^<<v12-22-19,19>>^ visto que o seu coração foi receptivo^&#42;1^ e você se humilhou perante Jeová quando ouviu o que falei contra este lugar e os seus habitantes — que eles se tornariam um motivo de terror e objeto de maldição — e você rasgou a sua roupa e chorou diante de mim, eu o ouvi’, diz Jeová.
+
+[NOTE]
+====
+. Lit.: “mole”.
+====
+
+[[v12-22-20]]
+
+^<<v12-22-20,20>>^ ‘É por isso que eu o reunirei aos seus antepassados,^&#42;1^ e você descansará em paz na sua sepultura, de modo que os seus olhos não verão toda a calamidade que trarei sobre este lugar.’”’” Então eles levaram a resposta ao rei.
+
+[NOTE]
+====
+. Expressão poética que se refere à morte.
+====
+
+'''
+
+xref:012-2-reis/012-2-reis-021.adoc#v12-21-0[&#60; Capítulo Anterior] | <<v12-22-0,Topo>> | xref:012-2-reis/012-2-reis-023.adoc#v12-23-0[Próximo Capítulo &#62;]

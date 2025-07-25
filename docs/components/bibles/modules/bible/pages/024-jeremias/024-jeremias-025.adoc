@@ -1,0 +1,230 @@
+include::./index.adoc[]
+
+[[v24-25-0]]
+=== Jeremias, 25
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v24-25-1]]
+
+^<<v24-25-1,1>>^ No quarto ano de Jeoiaquim, filho de Josias e rei de Judá, isto é, no primeiro ano de Nabucodonosor,^&#42;1^ rei de Babilônia, Jeremias recebeu uma palavra a respeito de todo o povo de Judá.
+
+[NOTE]
+====
+. Lit.: “Nabucodorosor”, grafia variante.
+====
+
+[[v24-25-2]]
+
+^<<v24-25-2,2>>^ Isto é o que o profeta Jeremias disse sobre^&#42;1^ todo o povo de Judá e todos os habitantes de Jerusalém:
+
+[NOTE]
+====
+. Ou: “a”.
+====
+
+[[v24-25-3]]
+
+^<<v24-25-3,3>>^ “Desde o décimo terceiro ano de Josias, filho de Amom e rei de Judá, até hoje, durante estes 23 anos, eu tenho recebido a palavra de Jeová. Tenho falado com vocês vez após vez,^&#42;1^ mas vocês não escutam.
+
+[NOTE]
+====
+. Lit.: “com vocês, levantando cedo e falando”.
+====
+
+[[v24-25-4]]
+
+^<<v24-25-4,4>>^ E Jeová lhes enviava todos os seus servos, os profetas, enviava-os vez após vez,^&#42;1^ mas vocês não escutavam nem prestavam atenção.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “os profetas, levantando cedo e enviando”.
+. Ou: “nem inclinavam seu ouvido”.
+====
+
+[[v24-25-5]]
+
+^<<v24-25-5,5>>^ Eles diziam: ‘Por favor, recuem cada um do seu mau caminho e das suas más ações; então vocês continuarão morando por muito tempo na terra que Jeová deu há muito tempo a vocês e aos seus antepassados.
+
+[[v24-25-6]]
+
+^<<v24-25-6,6>>^ Não sigam outros deuses, nem os sirvam, nem se curvem diante deles, ofendendo-me com o trabalho das suas mãos, senão eu vou trazer calamidade sobre vocês.’
+
+[[v24-25-7]]
+
+^<<v24-25-7,7>>^ “‘Mas vocês não me escutavam’, diz Jeová. ‘Em vez disso, vocês me ofendiam com o trabalho das suas mãos, para a sua própria calamidade.’
+
+[[v24-25-8]]
+
+^<<v24-25-8,8>>^ “Portanto, assim diz Jeová dos exércitos: ‘“Visto que vocês não obedeceram às minhas palavras,
+
+[[v24-25-9]]
+
+^<<v24-25-9,9>>^ estou convocando todos os povos^&#42;1^ do norte”, diz Jeová, “estou convocando o meu servo Nabucodonosor,^&#42;2^ rei de Babilônia, e vou trazê-los contra esta terra, contra os seus habitantes e contra todas as nações ao redor. Eu os entregarei à destruição^&#42;3^ e farei deles um motivo de terror, um alvo de assobios e uma ruína permanente.
+
+[NOTE]
+====
+. Ou: “todas as famílias”.
+. Lit.: “Nabucodorosor”, grafia variante.
+. Ou: “devotarei à destruição”. Veja o Glossário.
+====
+
+[[v24-25-10]]
+
+^<<v24-25-10,10>>^ Porei fim ao som de exultação e ao som de alegria entre eles, à voz do noivo e à voz da noiva, ao som do moinho manual e à luz da lâmpada.
+
+[[v24-25-11]]
+
+^<<v24-25-11,11>>^ E toda esta terra será reduzida a ruínas e se tornará um motivo de terror, e essas nações terão de servir ao rei de Babilônia por 70 anos.”’
+
+[[v24-25-12]]
+
+^<<v24-25-12,12>>^ “‘Mas, quando se completarem 70 anos, ajustarei contas com^&#42;1^ o rei de Babilônia e aquela nação por causa dos seus erros’, diz Jeová, ‘e farei da terra dos caldeus um deserto desolado para sempre.
+
+[NOTE]
+====
+. Ou: “punirei”.
+====
+
+[[v24-25-13]]
+
+^<<v24-25-13,13>>^ Vou trazer sobre aquela terra todas as palavras que falei contra ela, todas as coisas que Jeremias profetizou contra todas as nações e que estão escritas neste livro.
+
+[[v24-25-14]]
+
+^<<v24-25-14,14>>^ Pois muitas nações e reis poderosos os escravizarão; eu lhes retribuirei conforme as suas ações e as obras das suas próprias mãos.’”
+
+[[v24-25-15]]
+
+^<<v24-25-15,15>>^ Pois assim me disse Jeová, o Deus de Israel: “Pegue da minha mão este cálice com o vinho do meu furor e faça com que todas as nações às quais envio você bebam dele.
+
+[[v24-25-16]]
+
+^<<v24-25-16,16>>^ Elas beberão, ficarão cambaleando e agirão como loucos por causa da espada que estou enviando contra elas.”
+
+[[v24-25-17]]
+
+^<<v24-25-17,17>>^ Então peguei o cálice da mão de Jeová e fiz com que bebessem dele todas as nações às quais Jeová tinha me enviado:
+
+[[v24-25-18]]
+
+^<<v24-25-18,18>>^ começando com Jerusalém e as cidades de Judá, seus reis e seus príncipes — para que se tornassem uma ruína, um motivo de terror, um alvo de assobios e um exemplo de maldição, assim como se vê hoje —;
+
+[[v24-25-19]]
+
+^<<v24-25-19,19>>^ também Faraó, rei do Egito, seus servos, seus príncipes, todo o seu povo
+
+[[v24-25-20]]
+
+^<<v24-25-20,20>>^ e todos os diferentes povos entre eles; todos os reis da terra de Uz; todos os reis da terra dos filisteus: Ascalom, Gaza, Ecrom e os que restaram de Asdode;
+
+[[v24-25-21]]
+
+^<<v24-25-21,21>>^ Edom, Moabe e os amonitas;
+
+[[v24-25-22]]
+
+^<<v24-25-22,22>>^ todos os reis de Tiro, todos os reis de Sídon e os reis da ilha do mar;
+
+[[v24-25-23]]
+
+^<<v24-25-23,23>>^ Dedã, Tema, Buz e todos os que têm o cabelo cortado nas têmporas;
+
+[[v24-25-24]]
+
+^<<v24-25-24,24>>^ todos os reis dos árabes e todos os reis dos diferentes povos que moram no deserto;
+
+[[v24-25-25]]
+
+^<<v24-25-25,25>>^ todos os reis de Zinri, todos os reis de Elão e todos os reis dos medos;
+
+[[v24-25-26]]
+
+^<<v24-25-26,26>>^ todos os reis do norte, os de perto e os de longe, um após outro, e todos os outros reinos que há na face da terra; e o rei de Sesaque^&#42;1^ beberá depois deles.
+
+[NOTE]
+====
+. Esse parece ser um criptograma para Babel (Babilônia).
+====
+
+[[v24-25-27]]
+
+^<<v24-25-27,27>>^ “Diga a eles: ‘Assim diz Jeová dos exércitos, o Deus de Israel: “Bebam, embriaguem-se, vomitem e caiam sem poder se levantar, por causa da espada que estou enviando contra vocês.”’
+
+[[v24-25-28]]
+
+^<<v24-25-28,28>>^ E, se eles se negarem a pegar o cálice da sua mão para beber, diga a eles: ‘Assim diz Jeová dos exércitos: “Vocês têm de beber!
+
+[[v24-25-29]]
+
+^<<v24-25-29,29>>^ Pois, se a calamidade que estou trazendo começa com a cidade que leva o meu nome, deveriam vocês ficar impunes?”’
+“‘Vocês não ficarão impunes, pois estou convocando uma espada contra todos os habitantes da terra’, diz Jeová dos exércitos.
+
+[[v24-25-30]]
+
+^<<v24-25-30,30>>^ “E você deve profetizar para eles todas estas palavras, dizendo:
+‘Lá do alto Jeová rugirá,
+E da sua santa morada fará ouvir a sua voz.
+Ele rugirá alto contra a sua habitação.
+Gritando como os que pisam uvas no lagar,
+Ele cantará triunfantemente contra todos os habitantes da terra.’
+
+[[v24-25-31]]
+
+^<<v24-25-31,31>>^ ‘Um barulho ressoará até os confins da terra,
+Pois Jeová tem uma causa contra as nações.
+Ele julgará pessoalmente toda a humanidade.^&#42;1^
+E entregará os maus à espada’, diz Jeová.
+
+[NOTE]
+====
+. Lit.: “toda carne”.
+====
+
+[[v24-25-32]]
+
+^<<v24-25-32,32>>^ Assim diz Jeová dos exércitos:
+‘Vejam! Uma calamidade está se espalhando de nação em nação,
+E uma grande tempestade será solta desde as partes mais distantes da terra.
+
+[[v24-25-33]]
+
+^<<v24-25-33,33>>^ “‘E naquele dia os mortos por Jeová ficarão espalhados de uma extremidade da terra à outra extremidade da terra. Não serão lamentados, nem recolhidos, nem enterrados. Eles se tornarão como estrume sobre o solo.’
+
+[[v24-25-34]]
+
+^<<v24-25-34,34>>^ Lamentem, pastores, e clamem!
+Rolem no chão, majestosos do rebanho,
+Porque já chegou o dia para vocês serem abatidos e espalhados;
+Vocês cairão como um vaso precioso!
+
+[[v24-25-35]]
+
+^<<v24-25-35,35>>^ Os pastores não têm para onde fugir,
+Nem os majestosos do rebanho para onde escapar.
+
+[[v24-25-36]]
+
+^<<v24-25-36,36>>^ Escutem! É o grito dos pastores
+E o lamento dos majestosos do rebanho,
+Pois Jeová está devastando o pasto deles.
+
+[[v24-25-37]]
+
+^<<v24-25-37,37>>^ As moradas tranquilas ficaram sem vida
+Por causa da ira ardente de Jeová.
+
+[[v24-25-38]]
+
+^<<v24-25-38,38>>^ Ele saiu do seu esconderijo como um leão novo,^&#42;1^
+E a terra deles se tornou um motivo de terror
+Por causa da espada cruel
+E da sua ira ardente.”
+
+[NOTE]
+====
+. Ou: “leão novo jubado”.
+====
+
+'''
+
+xref:024-jeremias/024-jeremias-024.adoc#v24-24-0[&#60; Capítulo Anterior] | <<v24-25-0,Topo>> | xref:024-jeremias/024-jeremias-026.adoc#v24-26-0[Próximo Capítulo &#62;]

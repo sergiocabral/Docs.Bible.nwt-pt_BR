@@ -1,0 +1,197 @@
+include::./index.adoc[]
+
+[[v19-31-0]]
+=== Salmos, 31
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Ao regente. Salmo de Davi._
+
+[[v19-31-1]]
+
+^<<v19-31-1,1>>^ Em ti me refugiei, ó Jeová.
+Que eu nunca seja envergonhado.
+Livra-me por causa da tua justiça.
+
+[[v19-31-2]]
+
+^<<v19-31-2,2>>^ Inclina para mim o teu ouvido.^&#42;1^
+Vem livrar-me depressa.
+Torna-te para mim uma fortaleza na montanha,
+Um lugar fortificado para me salvar.
+
+[NOTE]
+====
+. Ou: “Abaixa-te e ouve-me.”
+====
+
+[[v19-31-3]]
+
+^<<v19-31-3,3>>^ Pois tu és meu rochedo e minha fortaleza;
+Por causa do teu nome, tu me guiarás e conduzirás.
+
+[[v19-31-4]]
+
+^<<v19-31-4,4>>^ Tu me livrarás da rede que esconderam para me apanhar,
+Pois tu és minha fortaleza.
+
+[[v19-31-5]]
+
+^<<v19-31-5,5>>^ Às tuas mãos confio o meu espírito.
+Tu me resgataste, ó Jeová, Deus da verdade.^&#42;1^
+
+[NOTE]
+====
+. Ou: “o Deus fiel”.
+====
+
+[[v19-31-6]]
+
+^<<v19-31-6,6>>^ Odeio os devotados a ídolos vãos, fúteis;
+Eu, porém, confio em Jeová.
+
+[[v19-31-7]]
+
+^<<v19-31-7,7>>^ Terei grande alegria com o teu amor leal,
+Pois tu vês a minha aflição;
+Tu conheces a minha profunda angústia.^&#42;1^
+
+[NOTE]
+====
+. Ou: “as aflições da minha alma”.
+====
+
+[[v19-31-8]]
+
+^<<v19-31-8,8>>^ Não me entregaste nas mãos do inimigo,
+Mas tu me colocaste num lugar seguro.^&#42;1^
+
+[NOTE]
+====
+. Ou: “espaçoso”.
+====
+
+[[v19-31-9]]
+
+^<<v19-31-9,9>>^ Mostra-me favor, ó Jeová, pois estou em aflição.
+A angústia enfraqueceu os meus olhos e também todo o meu corpo.^&#42;1^
+
+[NOTE]
+====
+. Ou: “também minha alma e meu ventre”.
+====
+
+[[v19-31-10]]
+
+^<<v19-31-10,10>>^ Minha vida se consome em tristeza,
+E meus anos em gemidos.
+Minhas forças se esgotam por causa do meu erro;
+Meus ossos ficam fracos.
+
+[[v19-31-11]]
+
+^<<v19-31-11,11>>^ Todos os meus adversários zombam de mim,
+Principalmente os meus vizinhos.
+E os meus conhecidos têm pavor de mim;
+Ao me verem em público, fogem.
+
+[[v19-31-12]]
+
+^<<v19-31-12,12>>^ Eu fui tirado do coração^&#42;1^ deles e fui esquecido, como se estivesse morto;
+Sou como um vaso quebrado.
+
+[NOTE]
+====
+. Ou: “da mente”.
+====
+
+[[v19-31-13]]
+
+^<<v19-31-13,13>>^ Ouvi as coisas más que muitos estão dizendo;
+O terror me rodeia.
+Quando se reúnem contra mim,
+Tramam tirar a minha vida.^&#42;1^
+
+[NOTE]
+====
+. Ou: “alma”.
+====
+
+[[v19-31-14]]
+
+^<<v19-31-14,14>>^ Eu, porém, confio em ti, ó Jeová.
+E declaro: “Tu és o meu Deus.”
+
+[[v19-31-15]]
+
+^<<v19-31-15,15>>^ Meus dias^&#42;1^ estão nas tuas mãos.
+Livra-me das mãos dos meus inimigos e dos que me perseguem.
+
+[NOTE]
+====
+. Lit.: “tempos”.
+====
+
+[[v19-31-16]]
+
+^<<v19-31-16,16>>^ Faz a tua face brilhar sobre o teu servo.
+Salva-me pelo teu amor leal.
+
+[[v19-31-17]]
+
+^<<v19-31-17,17>>^ Ó Jeová, que eu não seja envergonhado ao invocar a ti.
+Que os maus sejam envergonhados;
+Que sejam silenciados na Sepultura.^&#42;1^
+
+[NOTE]
+====
+. Ou: “no Seol”, isto é, a sepultura comum da humanidade. Veja o Glossário.
+====
+
+[[v19-31-18]]
+
+^<<v19-31-18,18>>^ Fiquem mudos os lábios mentirosos,
+Lábios que falam contra o justo de modo insolente, com arrogância e desprezo.
+
+[[v19-31-19]]
+
+^<<v19-31-19,19>>^ Como é grande a tua bondade!
+Tu a reservaste para os que te temem,
+E a demonstraste diante de todos os homens, em favor dos que se refugiam em ti.
+
+[[v19-31-20]]
+
+^<<v19-31-20,20>>^ No lugar secreto da tua presença, tu os esconderás
+Das intrigas dos homens;
+No teu abrigo, tu os protegerás
+De críticas maldosas.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “Das línguas que discutem”.
+====
+
+[[v19-31-21]]
+
+^<<v19-31-21,21>>^ Jeová seja louvado,
+Pois, de maneira maravilhosa, mostrou amor leal a mim numa cidade sitiada.
+
+[[v19-31-22]]
+
+^<<v19-31-22,22>>^ Quanto a mim, entrei em pânico e disse:
+“Serei eliminado de diante de ti.”
+Mas ouviste as minhas súplicas quando clamei a ti por ajuda.
+
+[[v19-31-23]]
+
+^<<v19-31-23,23>>^ Amem a Jeová, todos os que lhe são leais!
+Jeová protege os fiéis,
+Mas retribui severamente àquele que é arrogante.
+
+[[v19-31-24]]
+
+^<<v19-31-24,24>>^ Sejam corajosos, e que o seu coração seja forte,
+Todos vocês que esperam em Jeová.
+
+'''
+
+xref:019-salmo/019-salmo-030.adoc#v19-30-0[&#60; Capítulo Anterior] | <<v19-31-0,Topo>> | xref:019-salmo/019-salmo-032.adoc#v19-32-0[Próximo Capítulo &#62;]

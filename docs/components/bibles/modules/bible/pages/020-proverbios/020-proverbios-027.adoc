@@ -1,0 +1,223 @@
+include::./index.adoc[]
+
+[[v20-27-0]]
+=== Provérbios, 27
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v20-27-1]]
+
+^<<v20-27-1,1>>^ Não se gabe do amanhã,
+Pois você não sabe o que cada dia trará.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “dará à luz”.
+====
+
+[[v20-27-2]]
+
+^<<v20-27-2,2>>^ Que outros,^&#42;1^ não a sua própria boca, façam elogios a você;
+Que outra pessoa^&#42;2^ faça isso, não os seus próprios lábios.
+
+[NOTE]
+====
+. Lit.: “um estranho”.
+. Lit.: “um estrangeiro”.
+====
+
+[[v20-27-3]]
+
+^<<v20-27-3,3>>^ A pedra é pesada, e a areia é uma carga,
+Mas a irritação causada por um tolo é mais pesada do que as duas.
+
+[[v20-27-4]]
+
+^<<v20-27-4,4>>^ O furor é cruel, e a ira é como uma enxurrada,
+Mas quem pode resistir ao ciúme?
+
+[[v20-27-5]]
+
+^<<v20-27-5,5>>^ Melhor a repreensão feita abertamente do que o amor escondido.
+
+[[v20-27-6]]
+
+^<<v20-27-6,6>>^ Leais são os ferimentos causados por um amigo,
+Mas muitos^&#42;1^ são os beijos do inimigo.
+
+[NOTE]
+====
+. Ou, possivelmente: “falsos; forçados”.
+====
+
+[[v20-27-7]]
+
+^<<v20-27-7,7>>^ Quem está com o apetite saciado^&#42;1^ recusa^&#42;2^ o mel dos favos;
+Mas, para quem está faminto,^&#42;3^ até o amargo é doce.
+
+[NOTE]
+====
+. Ou: “A alma saciada”.
+. Lit.: “pisa”.
+. Ou: “para a alma faminta”.
+====
+
+[[v20-27-8]]
+
+^<<v20-27-8,8>>^ Como um pássaro afastado^&#42;1^ do ninho
+É o homem afastado do seu lar.
+
+[NOTE]
+====
+. Ou: “que foge”.
+====
+
+[[v20-27-9]]
+
+^<<v20-27-9,9>>^ Óleo e incenso alegram o coração,
+Bem como a doce amizade que nasce de um conselho sincero.^&#42;1^
+
+[NOTE]
+====
+. Ou: “conselho da alma”.
+====
+
+[[v20-27-10]]
+
+^<<v20-27-10,10>>^ Não abandone o seu amigo ou o amigo do seu pai,
+E não vá à casa do seu irmão quando você sofrer uma calamidade;
+Melhor um vizinho perto do que um irmão longe.
+
+[[v20-27-11]]
+
+^<<v20-27-11,11>>^ Seja sábio, meu filho, e alegre meu coração,
+Para que eu possa dar uma resposta àquele que me desafia.^&#42;1^
+
+[NOTE]
+====
+. Ou: “me escarnece; zomba de mim”.
+====
+
+[[v20-27-12]]
+
+^<<v20-27-12,12>>^ A pessoa prudente vê o perigo e se esconde,
+Mas os inexperientes vão em frente e sofrem as consequências.^&#42;1^
+
+[NOTE]
+====
+. Ou: “a punição”.
+====
+
+[[v20-27-13]]
+
+^<<v20-27-13,13>>^ Tome a roupa do homem que se tornou fiador de um estranho,
+E tome dele uma garantia caso ele seja fiador de uma mulher estrangeira.^&#42;1^
+
+[NOTE]
+====
+. Ou: “um estrangeiro”.
+====
+
+[[v20-27-14]]
+
+^<<v20-27-14,14>>^ Quando alguém abençoa seu próximo com voz bem alta, de manhã cedo,
+Isso é encarado por ele como maldição.
+
+[[v20-27-15]]
+
+^<<v20-27-15,15>>^ A esposa briguenta^&#42;1^ é como uma goteira que pinga sem parar num dia de chuva.
+
+[NOTE]
+====
+. Ou: “que vive resmungando”.
+====
+
+[[v20-27-16]]
+
+^<<v20-27-16,16>>^ Quem consegue detê-la, consegue deter o vento
+E consegue pegar óleo com a mão direita.
+
+[[v20-27-17]]
+
+^<<v20-27-17,17>>^ Assim como o ferro afia o ferro,
+Assim o homem afia o seu amigo.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “a face do seu amigo”.
+====
+
+[[v20-27-18]]
+
+^<<v20-27-18,18>>^ Quem cuida da figueira comerá do seu fruto,
+E quem cuida do seu senhor será honrado.
+
+[[v20-27-19]]
+
+^<<v20-27-19,19>>^ Assim como a água reflete o rosto de um homem,
+Assim o coração de um homem reflete o de outro.
+
+[[v20-27-20]]
+
+^<<v20-27-20,20>>^ A Sepultura e o lugar de destruição^&#42;1^ nunca se saciam,
+Assim também os olhos do homem são insaciáveis.
+
+[NOTE]
+====
+. Ou: “O Seol e o Abadon”.
+====
+
+[[v20-27-21]]
+
+^<<v20-27-21,21>>^ Assim como o cadinho^&#42;1^ é para a prata e o forno de fundição para o ouro,
+Assim a pessoa é testada pelo elogio que recebe.^&#42;2^
+
+[NOTE]
+====
+. Recipiente de barro usado para refinar metais.
+. Ou: “Assim é um homem, de acordo com o seu elogio”.
+====
+
+[[v20-27-22]]
+
+^<<v20-27-22,22>>^ Mesmo que você triture o tolo
+Como grãos no pilão,
+Sua tolice não se afastará dele.
+
+[[v20-27-23]]
+
+^<<v20-27-23,23>>^ Você deve conhecer bem a aparência do seu rebanho.
+Cuide bem das^&#42;1^ suas ovelhas,
+
+[NOTE]
+====
+. Ou: “Fixe o coração nas; Preste atenção nas”.
+====
+
+[[v20-27-24]]
+
+^<<v20-27-24,24>>^ Pois as riquezas não duram para sempre,
+Nem a coroa^&#42;1^ por todas as gerações.
+
+[NOTE]
+====
+. Ou: “o diadema”.
+====
+
+[[v20-27-25]]
+
+^<<v20-27-25,25>>^ A relva verde desaparece, e aparece a relva nova,
+E é recolhida a vegetação dos montes.
+
+[[v20-27-26]]
+
+^<<v20-27-26,26>>^ Os carneirinhos fornecem a sua roupa,
+E os bodes fornecem o preço de um campo.
+
+[[v20-27-27]]
+
+^<<v20-27-27,27>>^ Também há bastante leite de cabra para alimentar você,
+Para alimentar os da sua casa e para sustentar as suas servas.
+
+'''
+
+xref:020-proverbios/020-proverbios-026.adoc#v20-26-0[&#60; Capítulo Anterior] | <<v20-27-0,Topo>> | xref:020-proverbios/020-proverbios-028.adoc#v20-28-0[Próximo Capítulo &#62;]

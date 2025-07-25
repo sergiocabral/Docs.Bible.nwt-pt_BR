@@ -1,0 +1,226 @@
+include::./index.adoc[]
+
+[[v40-23-0]]
+=== Segundo Mateus, 23
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v40-23-1]]
+
+^<<v40-23-1,1>>^ Jesus disse então às multidões e aos seus discípulos:
+
+[[v40-23-2]]
+
+^<<v40-23-2,2>>^ “Os escribas e os fariseus se sentaram no lugar de Moisés.
+
+[[v40-23-3]]
+
+^<<v40-23-3,3>>^ Portanto, façam e cumpram tudo o que eles dizem a vocês, mas não ajam como eles, pois falam, mas não praticam o que dizem.
+
+[[v40-23-4]]
+
+^<<v40-23-4,4>>^ Amarram cargas pesadas e as põem nos ombros dos homens, mas eles mesmos não estão dispostos nem a movê-las com o dedo.^&#42;1^
+
+[NOTE]
+====
+. Possivelmente se refere ao fato de não estarem dispostos a aliviar a carga de outros.
+====
+
+[[v40-23-5]]
+
+^<<v40-23-5,5>>^ Fazem todas as suas obras para serem vistos pelos homens, pois ampliam as caixinhas com textos que usam como proteção^&#42;1^ e alongam as franjas das suas roupas.
+
+[NOTE]
+====
+. Ou: “ampliam seus filactérios”.
+====
+
+[[v40-23-6]]
+
+^<<v40-23-6,6>>^ Gostam do lugar mais destacado nos banquetes, dos primeiros^&#42;1^ assentos nas sinagogas,
+
+[NOTE]
+====
+. Ou: “melhores”.
+====
+
+[[v40-23-7]]
+
+^<<v40-23-7,7>>^ dos cumprimentos nas praças públicas e de ser chamados ‘Rabi’^&#42;1^ pelos homens.
+
+[NOTE]
+====
+. Ou: “Instrutor”.
+====
+
+[[v40-23-8]]
+
+^<<v40-23-8,8>>^ Mas vocês não sejam chamados ‘Rabi’, pois um só é o seu Instrutor, e todos vocês são irmãos.
+
+[[v40-23-9]]
+
+^<<v40-23-9,9>>^ Além disso, não chamem a ninguém na terra de seu pai, pois um só é o seu Pai, o celestial.
+
+[[v40-23-10]]
+
+^<<v40-23-10,10>>^ Nem sejam chamados de líderes, pois o seu Líder é um só, o Cristo.
+
+[[v40-23-11]]
+
+^<<v40-23-11,11>>^ Mas o maior entre vocês tem de ser o seu servo.^&#42;1^
+
+[NOTE]
+====
+. Ou: “ministro”.
+====
+
+[[v40-23-12]]
+
+^<<v40-23-12,12>>^ Quem se enaltecer será humilhado, e quem se humilhar será enaltecido.
+
+[[v40-23-13]]
+
+^<<v40-23-13,13>>^ “Ai de vocês, escribas e fariseus, hipócritas! Porque fecham o Reino dos céus diante dos homens; pois vocês mesmos não entram, nem deixam entrar os que estão a caminho para entrar.
+
+[[v40-23-14]]
+
+^<<v40-23-14,14>>^ ^&#42;1^——
+
+[NOTE]
+====
+. Veja Ap. A3.
+====
+
+[[v40-23-15]]
+
+^<<v40-23-15,15>>^ “Ai de vocês, escribas e fariseus, hipócritas! Porque percorrem o mar e a terra para fazer um prosélito^&#42;1^ e, quando conseguem, fazem dele merecedor da Geena^&#42;2^ duas vezes mais do que vocês.
+
+[NOTE]
+====
+. Ou: “convertido”.
+. Veja o Glossário.
+====
+
+[[v40-23-16]]
+
+^<<v40-23-16,16>>^ “Ai de vocês, guias cegos, que dizem: ‘Se alguém jurar pelo templo, isso não é nada; mas, se alguém jurar pelo ouro do templo, ele está sob obrigação.’
+
+[[v40-23-17]]
+
+^<<v40-23-17,17>>^ Tolos e cegos! Na verdade, o que é maior: o ouro ou o templo que santifica o ouro?
+
+[[v40-23-18]]
+
+^<<v40-23-18,18>>^ Além disso, vocês dizem: ‘Se alguém jurar pelo altar, isso não é nada; mas, se alguém jurar pela dádiva nele, ele está sob obrigação.’
+
+[[v40-23-19]]
+
+^<<v40-23-19,19>>^ Cegos! Na verdade, o que é maior: a dádiva ou o altar que santifica a dádiva?
+
+[[v40-23-20]]
+
+^<<v40-23-20,20>>^ Portanto, quem jura pelo altar está jurando por ele e por todas as coisas sobre ele;
+
+[[v40-23-21]]
+
+^<<v40-23-21,21>>^ e quem jura pelo templo está jurando por ele e por Aquele que habita nele;
+
+[[v40-23-22]]
+
+^<<v40-23-22,22>>^ e quem jura pelo céu está jurando pelo trono de Deus e por Aquele que está sentado nele.
+
+[[v40-23-23]]
+
+^<<v40-23-23,23>>^ “Ai de vocês, escribas e fariseus, hipócritas! Porque dão o décimo da hortelã, do endro e do cominho, mas desconsideram as questões mais importantes da Lei, isto é, a justiça, a misericórdia e a fidelidade. Essas eram as coisas que precisavam ser feitas, mas sem desconsiderar as outras.
+
+[[v40-23-24]]
+
+^<<v40-23-24,24>>^ Guias cegos, que coam o mosquito, mas engolem o camelo!
+
+[[v40-23-25]]
+
+^<<v40-23-25,25>>^ “Ai de vocês, escribas e fariseus, hipócritas! Porque limpam por fora o copo e o prato, mas por dentro eles estão cheios de ganância^&#42;1^ e de imoderação.
+
+[NOTE]
+====
+. Ou: “saque”.
+====
+
+[[v40-23-26]]
+
+^<<v40-23-26,26>>^ Fariseu cego, limpe primeiro a parte de dentro do copo e do prato, para que a parte de fora também fique limpa.
+
+[[v40-23-27]]
+
+^<<v40-23-27,27>>^ “Ai de vocês, escribas e fariseus, hipócritas! Porque são como sepulcros caiados, que por fora realmente parecem belos, mas por dentro estão cheios de ossos de mortos e de todo tipo de impureza.
+
+[[v40-23-28]]
+
+^<<v40-23-28,28>>^ Do mesmo modo, por fora vocês parecem justos aos homens, mas por dentro estão cheios de hipocrisia e do que é contra a lei.
+
+[[v40-23-29]]
+
+^<<v40-23-29,29>>^ “Ai de vocês, escribas e fariseus, hipócritas! Porque constroem os sepulcros dos profetas e decoram os túmulos^&#42;1^ dos justos,
+
+[NOTE]
+====
+. Ou: “túmulos memoriais”.
+====
+
+[[v40-23-30]]
+
+^<<v40-23-30,30>>^ e dizem: ‘Se nós tivéssemos vivido nos dias dos nossos antepassados, não teríamos participado com eles em derramar o sangue dos profetas.’
+
+[[v40-23-31]]
+
+^<<v40-23-31,31>>^ Portanto, vocês dão testemunho contra si mesmos de que são filhos daqueles que assassinaram os profetas.
+
+[[v40-23-32]]
+
+^<<v40-23-32,32>>^ Pois bem, completem a medida dos seus antepassados.
+
+[[v40-23-33]]
+
+^<<v40-23-33,33>>^ “Serpentes, descendência de víboras, como fugirão do julgamento da Geena?^&#42;1^
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v40-23-34]]
+
+^<<v40-23-34,34>>^ É por essa razão que eu estou lhes enviando profetas, sábios e instrutores públicos. A alguns deles vocês matarão e pregarão em estacas, e a outros açoitarão nas suas sinagogas e perseguirão de cidade em cidade,
+
+[[v40-23-35]]
+
+^<<v40-23-35,35>>^ para que venha sobre vocês todo o sangue justo derramado na terra, desde o sangue do justo Abel até o sangue de Zacarias, filho de Baraquias, a quem vocês assassinaram entre o santuário e o altar.
+
+[[v40-23-36]]
+
+^<<v40-23-36,36>>^ Eu garanto a vocês: Todas essas coisas virão sobre esta geração.
+
+[[v40-23-37]]
+
+^<<v40-23-37,37>>^ “Jerusalém, Jerusalém, que mata os profetas e apedreja os que lhe são enviados . . . Quantas vezes eu quis ajuntar seus filhos, assim como a galinha ajunta seus pintinhos debaixo das asas! Mas vocês não quiseram.
+
+[[v40-23-38]]
+
+^<<v40-23-38,38>>^ Agora a sua casa ficará abandonada.^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “lhes será deixada deserta”.
+====
+
+[[v40-23-39]]
+
+^<<v40-23-39,39>>^ Pois eu lhes digo: De agora em diante, vocês de modo algum me verão, até que digam: ‘Bendito é aquele que vem em nome de Jeová!’”^&#42;1^
+
+[NOTE]
+====
+. Veja Ap. A5.
+====
+
+'''
+
+xref:040-mateus/040-mateus-022.adoc#v40-22-0[&#60; Capítulo Anterior] | <<v40-23-0,Topo>> | xref:040-mateus/040-mateus-024.adoc#v40-24-0[Próximo Capítulo &#62;]

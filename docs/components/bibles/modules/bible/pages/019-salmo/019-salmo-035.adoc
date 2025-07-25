@@ -1,0 +1,223 @@
+include::./index.adoc[]
+
+[[v19-35-0]]
+=== Salmos, 35
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_De Davi._
+
+[[v19-35-1]]
+
+^<<v19-35-1,1>>^ Ó Jeová, defende a minha causa contra os meus oponentes;
+Luta contra os que lutam comigo.
+
+[[v19-35-2]]
+
+^<<v19-35-2,2>>^ Pega os escudos, o pequeno^&#42;1^ e o grande,
+E vem me defender.
+
+[NOTE]
+====
+. Ou: “broquel”, pequeno escudo geralmente usado por arqueiros.
+====
+
+[[v19-35-3]]
+
+^<<v19-35-3,3>>^ Ergue a tua lança e o teu machado de guerra^&#42;1^ contra os que me perseguem.
+Diz-me:^&#42;2^ “Sou a sua salvação.”
+
+[NOTE]
+====
+. Ou: “a tua acha bipene”.
+. Ou: “Diz à minha alma”.
+====
+
+[[v19-35-4]]
+
+^<<v19-35-4,4>>^ Sejam desonrados e humilhados os que procuram tirar-me a vida.^&#42;1^
+Que recuem envergonhados os que tramam a minha destruição.
+
+[NOTE]
+====
+. Ou: “alma”.
+====
+
+[[v19-35-5]]
+
+^<<v19-35-5,5>>^ Tornem-se como a palha^&#42;1^ levada pelo vento;
+Que o anjo de Jeová os expulse.
+
+[NOTE]
+====
+. Ou: “pragana”.
+====
+
+[[v19-35-6]]
+
+^<<v19-35-6,6>>^ Que o caminho deles seja escuro e escorregadio,
+Quando o anjo de Jeová os perseguir.
+
+[[v19-35-7]]
+
+^<<v19-35-7,7>>^ Pois sem nenhum motivo esconderam uma rede para me apanhar;
+Sem nenhum motivo abriram uma cova para mim.^&#42;1^
+
+[NOTE]
+====
+. Ou: “minha alma”.
+====
+
+[[v19-35-8]]
+
+^<<v19-35-8,8>>^ Que o desastre venha sobre eles de surpresa;
+Sejam apanhados pela própria rede que esconderam;
+Caiam nela e sejam destruídos.
+
+[[v19-35-9]]
+
+^<<v19-35-9,9>>^ Mas eu me alegrarei^&#42;1^ em Jeová,
+Exultarei nos seus atos de salvação.
+
+[NOTE]
+====
+. Ou: “minha alma se alegrará”.
+====
+
+[[v19-35-10]]
+
+^<<v19-35-10,10>>^ Todos os meus ossos dirão:
+“Ó Jeová, quem é semelhante a ti?
+Tu livras o desamparado daqueles que são mais fortes,
+O desamparado e o pobre daqueles que os roubam.”
+
+[[v19-35-11]]
+
+^<<v19-35-11,11>>^ Testemunhas maldosas se apresentam,
+Perguntando-me coisas de que nada sei.
+
+[[v19-35-12]]
+
+^<<v19-35-12,12>>^ Retribuem-me o bem com o mal,
+Fazendo-me sentir desolado.^&#42;1^
+
+[NOTE]
+====
+. Ou: “Fazendo minha alma se sentir desolada”.
+====
+
+[[v19-35-13]]
+
+^<<v19-35-13,13>>^ Mas, quando estavam doentes, eu me vestia com pano de saco;
+Eu me afligia^&#42;1^ com jejum,
+E, quando a minha oração retornava sem resposta,^&#42;2^
+
+[NOTE]
+====
+. Ou: “Eu afligia minha alma”.
+. Ou: “voltava sobre o meu peito”.
+====
+
+[[v19-35-14]]
+
+^<<v19-35-14,14>>^ Andava chorando, como por um amigo ou um irmão;
+Eu me encurvava de tristeza, como alguém que está de luto pela mãe.
+
+[[v19-35-15]]
+
+^<<v19-35-15,15>>^ Mas, quando eu tropecei, eles se alegraram e se uniram.
+Uniram-se para me atacar numa emboscada;
+Dilaceraram-me e não ficaram calados.
+
+[[v19-35-16]]
+
+^<<v19-35-16,16>>^ Os ímpios zombam de mim com desprezo;^&#42;1^
+Rangem os dentes contra mim.
+
+[NOTE]
+====
+. Ou, possivelmente: “Os ímpios zombam por um pão”.
+====
+
+[[v19-35-17]]
+
+^<<v19-35-17,17>>^ Ó Jeová, até quando ficarás apenas olhando?
+Livra-me^&#42;1^ dos ataques deles,
+Livra dos leões novos^&#42;2^ a minha preciosa vida.^&#42;3^
+
+[NOTE]
+====
+. Ou: “Livra minha alma”.
+. Ou: “leões novos jubados”.
+. Lit.: “minha única”, refere-se à sua alma, ou vida.
+====
+
+[[v19-35-18]]
+
+^<<v19-35-18,18>>^ Então eu te agradecerei na grande congregação;
+Eu te louvarei no meio de multidões de pessoas.
+
+[[v19-35-19]]
+
+^<<v19-35-19,19>>^ Não deixes que se alegrem com a minha desgraça aqueles que são meus inimigos sem razão,
+Não deixes que pisquem os olhos maldosamente os que me odeiam sem motivo.
+
+[[v19-35-20]]
+
+^<<v19-35-20,20>>^ Pois não dizem palavras de paz;
+Mas, de modo falso, tramam contra os pacíficos da terra.
+
+[[v19-35-21]]
+
+^<<v19-35-21,21>>^ Abrem a boca para me acusar,
+Dizendo: “Ah! Ah! vimos com os nossos próprios olhos.”
+
+[[v19-35-22]]
+
+^<<v19-35-22,22>>^ Tu viste isso, ó Jeová. Não fiques calado.
+Ó Jeová, não fiques longe de mim.
+
+[[v19-35-23]]
+
+^<<v19-35-23,23>>^ Desperta e vem em minha defesa,
+Ó meu Deus Jeová, defende a minha causa.
+
+[[v19-35-24]]
+
+^<<v19-35-24,24>>^ Julga-me em harmonia com a tua justiça, ó Jeová, meu Deus;
+Não deixes que se alegrem com a minha desgraça.
+
+[[v19-35-25]]
+
+^<<v19-35-25,25>>^ Que eles nunca digam para si mesmos: “Ah! conseguimos o que queríamos.”^&#42;1^
+Que nunca digam: “Nós o devoramos.”
+
+[NOTE]
+====
+. Ou: “Ah! nossa alma.”
+====
+
+[[v19-35-26]]
+
+^<<v19-35-26,26>>^ Que todos eles sejam envergonhados e desonrados,
+Os que se alegram com a minha calamidade.
+Que se vistam de vergonha e humilhação os que me tratam com arrogância.
+
+[[v19-35-27]]
+
+^<<v19-35-27,27>>^ Mas gritem de alegria os que se agradam da minha retidão;
+Que digam sempre:
+“Magnificado seja Jeová, aquele que se agrada da paz do seu servo.”
+
+[[v19-35-28]]
+
+^<<v19-35-28,28>>^ Então a minha língua falará sobre a^&#42;1^ tua justiça
+E te louvará o dia inteiro.
+
+[NOTE]
+====
+. Ou: “meditará na”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-034.adoc#v19-34-0[&#60; Capítulo Anterior] | <<v19-35-0,Topo>> | xref:019-salmo/019-salmo-036.adoc#v19-36-0[Próximo Capítulo &#62;]

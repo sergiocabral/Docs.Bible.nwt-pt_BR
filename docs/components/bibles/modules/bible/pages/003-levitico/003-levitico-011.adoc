@@ -1,0 +1,233 @@
+include::./index.adoc[]
+
+[[v3-11-0]]
+=== Levítico, 11
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v3-11-1]]
+
+^<<v3-11-1,1>>^ Então Jeová disse a Moisés e a Arão:
+
+[[v3-11-2]]
+
+^<<v3-11-2,2>>^ “Digam aos israelitas: ‘Dos animais terrestres, estes são os que vocês podem comer:
+
+[[v3-11-3]]
+
+^<<v3-11-3,3>>^ todos os animais de casco fendido e dividido em dois, e que ruminam, podem ser comidos.
+
+[[v3-11-4]]
+
+^<<v3-11-4,4>>^ “‘Mas não comam os seguintes animais dentre os que ruminam ou que têm casco fendido: o camelo, que é ruminante, mas não tem casco fendido. É impuro para vocês.
+
+[[v3-11-5]]
+
+^<<v3-11-5,5>>^ Também o procávia,^&#42;1^ porque é ruminante, mas não tem casco fendido. É impuro para vocês.
+
+[NOTE]
+====
+. Animal semelhante ao coelho e que vive em lugares rochosos. Também é chamado de hírace (hírax) ou daimão.
+====
+
+[[v3-11-6]]
+
+^<<v3-11-6,6>>^ Também a lebre, porque é ruminante, mas não tem casco fendido. É impura para vocês.
+
+[[v3-11-7]]
+
+^<<v3-11-7,7>>^ Também o porco, porque tem casco fendido e dividido em dois, mas não é ruminante. É impuro para vocês.
+
+[[v3-11-8]]
+
+^<<v3-11-8,8>>^ Não comam nada da carne desses animais nem toquem no seu cadáver. São impuros para vocês.
+
+[[v3-11-9]]
+
+^<<v3-11-9,9>>^ “‘Isto é o que vocês podem comer de tudo o que há nas águas: vocês podem comer tudo nas águas que tem barbatanas e escamas, seja nos mares, seja nos rios.
+
+[[v3-11-10]]
+
+^<<v3-11-10,10>>^ Mas tudo o que há nos mares e nos rios que não tem barbatanas ou escamas, quer dentre todas as pequenas criaturas que fervilham nas águas, quer dentre todas as outras criaturas^&#42;1^ que há nas águas, é algo repugnante para vocês.
+
+[NOTE]
+====
+. Ou: “almas”.
+====
+
+[[v3-11-11]]
+
+^<<v3-11-11,11>>^ Sim, esses devem ser repugnantes para vocês; não comam nada da sua carne. Tenham repugnância do cadáver deles.
+
+[[v3-11-12]]
+
+^<<v3-11-12,12>>^ Tudo nas águas que não tem barbatanas ou escamas é algo repugnante para vocês.
+
+[[v3-11-13]]
+
+^<<v3-11-13,13>>^ “‘Estas são as criaturas voadoras que vocês devem considerar repugnantes; elas não devem ser comidas, pois são repugnantes: a águia, a águia-pesqueira, o abutre-fusco,
+
+[[v3-11-14]]
+
+^<<v3-11-14,14>>^ o milhafre-real e todos os tipos de milhafre-preto,
+
+[[v3-11-15]]
+
+^<<v3-11-15,15>>^ toda espécie de corvo,
+
+[[v3-11-16]]
+
+^<<v3-11-16,16>>^ o avestruz, a coruja, a gaivota, toda espécie de falcão,
+
+[[v3-11-17]]
+
+^<<v3-11-17,17>>^ o mocho-galego, o corvo-marinho, o bufo-pequeno,
+
+[[v3-11-18]]
+
+^<<v3-11-18,18>>^ o cisne, o pelicano, o abutre,
+
+[[v3-11-19]]
+
+^<<v3-11-19,19>>^ a cegonha, toda espécie de garça, a poupa e o morcego.
+
+[[v3-11-20]]
+
+^<<v3-11-20,20>>^ Também, todas as pequenas criaturas voadoras que fervilham sobre a terra e andam de quatro^&#42;1^ são algo repugnante para vocês.
+
+[NOTE]
+====
+. Ou: “todos os insetos que andam de quatro”.
+====
+
+[[v3-11-21]]
+
+^<<v3-11-21,21>>^ “‘Das pequenas criaturas voadoras que fervilham sobre a terra e andam de quatro, vocês só podem comer aquelas que têm um par de pernas articuladas, mais compridas do que as outras pernas, para saltar do chão.
+
+[[v3-11-22]]
+
+^<<v3-11-22,22>>^ Dessas, vocês podem comer: diversas espécies de gafanhotos migratórios, outros tipos de gafanhotos comestíveis, grilos e gafanhotos comuns.
+
+[[v3-11-23]]
+
+^<<v3-11-23,23>>^ Todas as outras pequenas criaturas voadoras que fervilham sobre a terra e que têm quatro patas são algo repugnante para vocês.
+
+[[v3-11-24]]
+
+^<<v3-11-24,24>>^ Por meio delas vocês se tornariam impuros. Todo aquele que tocar numa delas que estiver morta ficará impuro até o anoitecer.
+
+[[v3-11-25]]
+
+^<<v3-11-25,25>>^ Quem transportar uma dessas criaturas que esteja morta deve lavar suas roupas; ele ficará impuro até o anoitecer.
+
+[[v3-11-26]]
+
+^<<v3-11-26,26>>^ “‘Qualquer animal que tem casco fendido, mas não dividido em dois, e que não é ruminante, é impuro para vocês. Todo aquele que tocar nesses animais ficará impuro.
+
+[[v3-11-27]]
+
+^<<v3-11-27,27>>^ Todos os animais quadrúpedes que andam sobre a planta dos pés^&#42;1^ são impuros para vocês. Todo aquele que tocar no cadáver deles ficará impuro até o anoitecer.
+
+[NOTE]
+====
+. Ou: “que não têm casco”.
+====
+
+[[v3-11-28]]
+
+^<<v3-11-28,28>>^ Quem transportar o cadáver deles deve lavar suas roupas, e ficará impuro até o anoitecer. Eles são impuros para vocês.
+
+[[v3-11-29]]
+
+^<<v3-11-29,29>>^ “‘Estas são as criaturas que fervilham sobre a terra que são impuras para vocês: o rato-toupeira, o rato comum, toda espécie de lagarto,
+
+[[v3-11-30]]
+
+^<<v3-11-30,30>>^ a lagartixa, o lagarto grande, a salamandra, o lagarto-da-areia e o camaleão.
+
+[[v3-11-31]]
+
+^<<v3-11-31,31>>^ Essas criaturas que fervilham sobre a terra são impuras para vocês. Todo aquele que tocar em seus cadáveres ficará impuro até o anoitecer.
+
+[[v3-11-32]]
+
+^<<v3-11-32,32>>^ “‘Qualquer objeto sobre o qual esses animais caírem ao morrer ficará impuro — quer seja um utensílio de madeira, uma roupa, um couro, quer um pano de saco. Qualquer objeto, não importa para que seja usado, deve ser imerso em água, e ficará impuro até o anoitecer; então ficará puro.
+
+[[v3-11-33]]
+
+^<<v3-11-33,33>>^ Se caírem num recipiente de barro, vocês devem quebrá-lo, e tudo o que estava nele será impuro.
+
+[[v3-11-34]]
+
+^<<v3-11-34,34>>^ Qualquer tipo de alimento que entrar em contato com água procedente desse recipiente ficará impuro, e qualquer líquido que se possa beber que estiver nesse recipiente ficará impuro.
+
+[[v3-11-35]]
+
+^<<v3-11-35,35>>^ Tudo aquilo em que cair o cadáver deles ficará impuro; quer seja um forno, quer um fogão, deve ser destruído. São impuros e permanecerão impuros para vocês.
+
+[[v3-11-36]]
+
+^<<v3-11-36,36>>^ No entanto, se cair numa fonte ou numa cisterna onde se armazena água, elas continuarão puras, mas quem tocar no cadáver deles ficará impuro.
+
+[[v3-11-37]]
+
+^<<v3-11-37,37>>^ Se o cadáver deles cair sobre uma semente a ser plantada, ela permanecerá pura.
+
+[[v3-11-38]]
+
+^<<v3-11-38,38>>^ Mas, caso se molhe uma semente, e parte do cadáver deles caia sobre ela, a semente será impura para vocês.
+
+[[v3-11-39]]
+
+^<<v3-11-39,39>>^ “‘Se um animal que lhes serve para alimento morrer, quem tocar no animal morto ficará impuro até o anoitecer.
+
+[[v3-11-40]]
+
+^<<v3-11-40,40>>^ Quem comer alguma parte do animal morto deve lavar suas roupas, e ficará impuro até o anoitecer. Quem transportar o animal morto deve lavar suas roupas, e ficará impuro até o anoitecer.
+
+[[v3-11-41]]
+
+^<<v3-11-41,41>>^ Todas as pequenas criaturas que fervilham sobre a terra são algo repugnante. Não devem ser comidas.
+
+[[v3-11-42]]
+
+^<<v3-11-42,42>>^ Não comam nenhum animal que rasteja sobre o ventre, nenhuma criatura que anda de quatro nem qualquer de todas as pequenas criaturas que fervilham sobre a terra e que têm um grande número de patas, pois são algo repugnante.
+
+[[v3-11-43]]
+
+^<<v3-11-43,43>>^ Não tornem a si mesmos^&#42;1^ repugnantes por meio de nenhuma das pequenas criaturas que fervilham sobre a terra, não se aviltem nem se tornem impuros por meio delas.
+
+[NOTE]
+====
+. Ou: “as suas almas”.
+====
+
+[[v3-11-44]]
+
+^<<v3-11-44,44>>^ Pois eu sou Jeová, seu Deus; santifiquem-se e tornem-se santos, porque eu sou santo. Assim, não tornem a si mesmos impuros^&#42;1^ por meio de nenhuma dessas pequenas criaturas que fervilham na terra e se movem sobre ela.
+
+[NOTE]
+====
+. Ou: “as suas almas impuras”.
+====
+
+[[v3-11-45]]
+
+^<<v3-11-45,45>>^ Pois eu sou Jeová, que os tirou da terra do Egito a fim de ser o seu Deus; sejam santos, porque eu sou santo.
+
+[[v3-11-46]]
+
+^<<v3-11-46,46>>^ “‘Essa é a lei a respeito dos animais, das criaturas voadoras e de todas as criaturas^&#42;1^ que se movem nas águas, e a respeito de todas as criaturas^&#42;2^ que fervilham sobre a terra,
+
+[NOTE]
+====
+. Ou: “almas”.
+. Ou: “almas”.
+====
+
+[[v3-11-47]]
+
+^<<v3-11-47,47>>^ a fim de se fazer diferença entre o que é puro e o que é impuro, e entre os animais que podem ser comidos e os que não podem ser comidos.’”
+
+'''
+
+xref:003-levitico/003-levitico-010.adoc#v3-10-0[&#60; Capítulo Anterior] | <<v3-11-0,Topo>> | xref:003-levitico/003-levitico-012.adoc#v3-12-0[Próximo Capítulo &#62;]

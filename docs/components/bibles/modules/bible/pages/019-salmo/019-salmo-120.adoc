@@ -1,0 +1,61 @@
+include::./index.adoc[]
+
+[[v19-120-0]]
+=== Salmos, 120
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Cântico das Subidas.^&#42;1^_
+
+[[v19-120-1]]
+
+^<<v19-120-1,1>>^ Clamei a Jeová na minha aflição,
+E ele me respondeu.
+
+[[v19-120-2]]
+
+^<<v19-120-2,2>>^ Ó Jeová, livra-me^&#42;1^ dos lábios mentirosos
+E da língua falsa.
+
+[NOTE]
+====
+. Ou: “livra a minha alma”.
+====
+
+[[v19-120-3]]
+
+^<<v19-120-3,3>>^ O que Ele fará com você, e como a punirá,^&#42;1^
+Ó língua falsa?
+
+[NOTE]
+====
+. Lit.: “e o que Ele lhe acrescentará”.
+====
+
+[[v19-120-4]]
+
+^<<v19-120-4,4>>^ Com flechas afiadas de um guerreiro
+E brasas vivas de giestas.
+
+[[v19-120-5]]
+
+^<<v19-120-5,5>>^ Ai de mim, pois tenho vivido como estrangeiro em Meseque!
+Tenho morado entre as tendas de Quedar.
+
+[[v19-120-6]]
+
+^<<v19-120-6,6>>^ Faz muito tempo que moro^&#42;1^
+Entre os que odeiam a paz.
+
+[NOTE]
+====
+. Ou: “minha alma mora”.
+====
+
+[[v19-120-7]]
+
+^<<v19-120-7,7>>^ Eu sou pela paz; mas, quando falo,
+Eles são pela guerra.
+
+'''
+
+xref:019-salmo/019-salmo-119.adoc#v19-119-0[&#60; Capítulo Anterior] | <<v19-120-0,Topo>> | xref:019-salmo/019-salmo-121.adoc#v19-121-0[Próximo Capítulo &#62;]

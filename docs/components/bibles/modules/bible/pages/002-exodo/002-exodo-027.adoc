@@ -1,0 +1,123 @@
+include::./index.adoc[]
+
+[[v2-27-0]]
+=== Êxodo, 27
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v2-27-1]]
+
+^<<v2-27-1,1>>^ “Você fará o altar de madeira de acácia; o altar deve ser quadrado, com cinco côvados^&#42;1^ de comprimento e cinco côvados de largura, e deve ter três côvados de altura.
+
+[NOTE]
+====
+. Um côvado equivalia a 44,5 cm. Veja Ap. B14.
+====
+
+[[v2-27-2]]
+
+^<<v2-27-2,2>>^ Você fará chifres nos quatro cantos dele; os chifres serão parte do altar, e você revestirá de cobre o altar.
+
+[[v2-27-3]]
+
+^<<v2-27-3,3>>^ Você fará recipientes para retirar as cinzas,^&#42;1^ e também fará pás, tigelas, garfos e braseiros; fará de cobre todos os utensílios do altar.
+
+[NOTE]
+====
+. Ou: “cinzas gordurosas”, isto é, cinzas impregnadas da gordura dos sacrifícios.
+====
+
+[[v2-27-4]]
+
+^<<v2-27-4,4>>^ Você fará uma grade para o altar — uma rede de cobre — e quatro argolas de cobre na rede, uma em cada um dos quatro cantos.
+
+[[v2-27-5]]
+
+^<<v2-27-5,5>>^ Colocará a rede abaixo da borda do altar, e ela deve ficar a meia altura do altar.
+
+[[v2-27-6]]
+
+^<<v2-27-6,6>>^ Você fará varais de madeira de acácia para o altar e os revestirá de cobre.
+
+[[v2-27-7]]
+
+^<<v2-27-7,7>>^ Os varais serão introduzidos nas argolas de modo que os varais fiquem nos dois lados do altar quando este for carregado.
+
+[[v2-27-8]]
+
+^<<v2-27-8,8>>^ Você fará o altar oco, de tábuas; deve ser feito assim como Ele lhe mostrou no monte.
+
+[[v2-27-9]]
+
+^<<v2-27-9,9>>^ “Você fará o pátio do tabernáculo. No lado sul, voltado para o sul, o pátio terá um cortinado de linho fino retorcido, com cem côvados de extensão desse lado.
+
+[[v2-27-10]]
+
+^<<v2-27-10,10>>^ Haverá 20 colunas e 20 bases de cobre com encaixe. Os ganchos das colunas e suas peças de conexão^&#42;1^ serão de prata.
+
+[NOTE]
+====
+. Ou: “seus anéis; suas argolas; suas faixas”, para fazer conexões.
+====
+
+[[v2-27-11]]
+
+^<<v2-27-11,11>>^ O lado norte também terá um cortinado com cem côvados de extensão. E terá 20 colunas e 20 bases de cobre com encaixe, e ganchos e peças de conexão^&#42;1^ de prata para as colunas.
+
+[NOTE]
+====
+. Ou: “anéis; argolas; faixas”, para fazer conexões.
+====
+
+[[v2-27-12]]
+
+^<<v2-27-12,12>>^ No lado oeste deve haver um cortinado para os 50 côvados de largura do pátio, com dez colunas e dez bases com encaixe.
+
+[[v2-27-13]]
+
+^<<v2-27-13,13>>^ A largura do pátio, do lado leste, o lado do nascente, será de 50 côvados;
+
+[[v2-27-14]]
+
+^<<v2-27-14,14>>^ de um lado da entrada haverá um cortinado de 15 côvados, com três colunas e três bases com encaixe;
+
+[[v2-27-15]]
+
+^<<v2-27-15,15>>^ e do outro lado da entrada haverá um cortinado de 15 côvados, com três colunas e três bases com encaixe.
+
+[[v2-27-16]]
+
+^<<v2-27-16,16>>^ “A entrada do pátio deve ter uma cortina^&#42;1^ de 20 côvados de extensão, tecida com linha azul, lã roxa, fio escarlate e linho fino retorcido, e deve ter quatro colunas com quatro bases com encaixe.
+
+[NOTE]
+====
+. Ou: “um reposteiro”.
+====
+
+[[v2-27-17]]
+
+^<<v2-27-17,17>>^ Todas as colunas ao redor do pátio terão peças de conexão de prata e ganchos de prata, mas as suas bases com encaixe serão de cobre.
+
+[[v2-27-18]]
+
+^<<v2-27-18,18>>^ O pátio deve ter cem côvados de comprimento, cinquenta côvados de largura e cinco côvados de altura. Será feito de linho fino retorcido, e as suas bases com encaixe devem ser de cobre.
+
+[[v2-27-19]]
+
+^<<v2-27-19,19>>^ Todos os utensílios e objetos usados no serviço do tabernáculo, bem como suas estacas de fixação e todas as estacas de fixação do pátio, devem ser de cobre.
+
+[[v2-27-20]]
+
+^<<v2-27-20,20>>^ “Você deve ordenar aos israelitas que lhe tragam azeite de oliva puro^&#42;1^ para a iluminação, a fim de manter as lâmpadas sempre acesas.
+
+[NOTE]
+====
+. Ou: “azeite puro de olivas batidas”.
+====
+
+[[v2-27-21]]
+
+^<<v2-27-21,21>>^ Na tenda de reunião, do lado de fora da cortina que está junto ao Testemunho, Arão e seus filhos providenciarão que as lâmpadas fiquem acesas diante de Jeová, desde o anoitecer até a manhã seguinte. Esse é um decreto permanente a ser cumprido pelos israelitas, por todas as suas gerações.
+
+'''
+
+xref:002-exodo/002-exodo-026.adoc#v2-26-0[&#60; Capítulo Anterior] | <<v2-27-0,Topo>> | xref:002-exodo/002-exodo-028.adoc#v2-28-0[Próximo Capítulo &#62;]

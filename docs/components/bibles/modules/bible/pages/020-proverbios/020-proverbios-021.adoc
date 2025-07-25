@@ -1,0 +1,249 @@
+include::./index.adoc[]
+
+[[v20-21-0]]
+=== Provérbios, 21
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v20-21-1]]
+
+^<<v20-21-1,1>>^ O coração do rei é como correntes de água nas mãos de Jeová.
+Ele o direciona para onde quiser.
+
+[[v20-21-2]]
+
+^<<v20-21-2,2>>^ O homem pensa que todos os seus caminhos são certos,
+Mas Jeová examina os corações.^&#42;1^
+
+[NOTE]
+====
+. Ou: “a motivação”.
+====
+
+[[v20-21-3]]
+
+^<<v20-21-3,3>>^ Fazer o que é correto e justo
+É mais agradável a Jeová do que um sacrifício.
+
+[[v20-21-4]]
+
+^<<v20-21-4,4>>^ Olhos arrogantes e um coração orgulhoso;
+A lâmpada que guia os maus é o pecado.
+
+[[v20-21-5]]
+
+^<<v20-21-5,5>>^ Os planos do diligente certamente dão bons resultados,^&#42;1^
+Mas todos os precipitados acabarão na pobreza.
+
+[NOTE]
+====
+. Ou: “resultam em vantagem”.
+====
+
+[[v20-21-6]]
+
+^<<v20-21-6,6>>^ Tesouros obtidos com uma língua mentirosa
+São como uma neblina passageira, uma armadilha mortal.^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “neblina passageira para os que procuram a morte”.
+====
+
+[[v20-21-7]]
+
+^<<v20-21-7,7>>^ A violência dos maus os destruirá,
+Pois eles se negam a praticar a justiça.
+
+[[v20-21-8]]
+
+^<<v20-21-8,8>>^ O caminho do homem culpado é tortuoso,
+Mas as ações do homem puro são retas.
+
+[[v20-21-9]]
+
+^<<v20-21-9,9>>^ Melhor morar num canto do terraço
+Do que com uma esposa briguenta,^&#42;1^ na mesma casa.
+
+[NOTE]
+====
+. Ou: “esposa que vive resmungando”.
+====
+
+[[v20-21-10]]
+
+^<<v20-21-10,10>>^ O homem perverso^&#42;1^ anseia o que é mau;
+Ele não mostra favor ao seu próximo.
+
+[NOTE]
+====
+. Ou: “A alma do perverso”.
+====
+
+[[v20-21-11]]
+
+^<<v20-21-11,11>>^ Quando o zombador é punido, o inexperiente obtém sabedoria;
+Quando o sábio recebe instrução,^&#42;1^ obtém conhecimento.^&#42;2^
+
+[NOTE]
+====
+. Ou: “perspicácia”.
+. Ou: “sabe o que fazer”.
+====
+
+[[v20-21-12]]
+
+^<<v20-21-12,12>>^ O Justo observa a casa de quem é mau,
+E faz os maus cair na ruína.
+
+[[v20-21-13]]
+
+^<<v20-21-13,13>>^ Quem tapa o ouvido ao clamor do pobre,
+Também clamará e não terá resposta.
+
+[[v20-21-14]]
+
+^<<v20-21-14,14>>^ Um presente dado em segredo abranda a ira;
+E o suborno dado às escondidas,^&#42;1^ o forte furor.
+
+[NOTE]
+====
+. Lit.: “um suborno no peito”.
+====
+
+[[v20-21-15]]
+
+^<<v20-21-15,15>>^ Agir com justiça é uma alegria para o justo,
+Mas é algo terrível para os que praticam a maldade.
+
+[[v20-21-16]]
+
+^<<v20-21-16,16>>^ O homem que se desvia do caminho do entendimento^&#42;1^
+Descansará na companhia dos impotentes na morte.
+
+[NOTE]
+====
+. Ou: “da perspicácia”.
+====
+
+[[v20-21-17]]
+
+^<<v20-21-17,17>>^ Quem ama a diversão^&#42;1^ ficará pobre;
+Quem ama o vinho e o azeite não ficará rico.
+
+[NOTE]
+====
+. Ou: “os prazeres”.
+====
+
+[[v20-21-18]]
+
+^<<v20-21-18,18>>^ O perverso serve de resgate para o justo;
+E o traiçoeiro, para os íntegros.
+
+[[v20-21-19]]
+
+^<<v20-21-19,19>>^ Melhor morar no deserto
+Do que com uma esposa briguenta^&#42;1^ e geniosa.
+
+[NOTE]
+====
+. Ou: “esposa que vive resmungando”.
+====
+
+[[v20-21-20]]
+
+^<<v20-21-20,20>>^ Há tesouro precioso e azeite na casa do sábio,
+Mas o tolo desperdiça^&#42;1^ o que tem.
+
+[NOTE]
+====
+. Lit.: “engole”.
+====
+
+[[v20-21-21]]
+
+^<<v20-21-21,21>>^ Quem se empenha pela justiça e pelo amor leal
+Achará vida, justiça e glória.
+
+[[v20-21-22]]
+
+^<<v20-21-22,22>>^ O sábio pode escalar a muralha da^&#42;1^ cidade dos valentes
+E minar a força em que eles confiam.
+
+[NOTE]
+====
+. Ou: “conquistar a”.
+====
+
+[[v20-21-23]]
+
+^<<v20-21-23,23>>^ Quem vigia sua boca e sua língua
+Fica livre^&#42;1^ de problemas.
+
+[NOTE]
+====
+. Ou: “Livra sua alma”.
+====
+
+[[v20-21-24]]
+
+^<<v20-21-24,24>>^ Chama-se de zombador^&#42;1^ presunçoso e arrogante
+Quem age com excessiva presunção.
+
+[NOTE]
+====
+. Ou: “fanfarrão”.
+====
+
+[[v20-21-25]]
+
+^<<v20-21-25,25>>^ O desejo do preguiçoso o matará,
+Pois suas mãos se negam a trabalhar.
+
+[[v20-21-26]]
+
+^<<v20-21-26,26>>^ Ele passa o dia desejando avidamente,
+Mas o justo dá sem reservas.
+
+[[v20-21-27]]
+
+^<<v20-21-27,27>>^ O sacrifício dos maus é detestável.
+Quanto mais quando o oferecem com más intenções!^&#42;1^
+
+[NOTE]
+====
+. Ou: “com uma conduta vergonhosa”.
+====
+
+[[v20-21-28]]
+
+^<<v20-21-28,28>>^ A testemunha mentirosa morrerá,
+Mas o homem que sabe escutar será bem-sucedido em seu testemunho.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “falará para sempre”.
+====
+
+[[v20-21-29]]
+
+^<<v20-21-29,29>>^ O perverso mostra no rosto a sua insolência,
+Mas é o justo que tem o caminho seguro.^&#42;1^
+
+[NOTE]
+====
+. Ou: “torna o seu caminho seguro”.
+====
+
+[[v20-21-30]]
+
+^<<v20-21-30,30>>^ Não há sabedoria, nem discernimento, nem conselho que possam se opor a Jeová.
+
+[[v20-21-31]]
+
+^<<v20-21-31,31>>^ O cavalo é preparado para o dia da batalha,
+Mas a salvação pertence a Jeová.
+
+'''
+
+xref:020-proverbios/020-proverbios-020.adoc#v20-20-0[&#60; Capítulo Anterior] | <<v20-21-0,Topo>> | xref:020-proverbios/020-proverbios-022.adoc#v20-22-0[Próximo Capítulo &#62;]

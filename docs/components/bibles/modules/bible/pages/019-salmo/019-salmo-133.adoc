@@ -1,0 +1,30 @@
+include::./index.adoc[]
+
+[[v19-133-0]]
+=== Salmos, 133
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Cântico das Subidas. De Davi._
+
+[[v19-133-1]]
+
+^<<v19-133-1,1>>^ Vejam! Como é bom, como é agradável
+Irmãos viverem juntos em união!
+
+[[v19-133-2]]
+
+^<<v19-133-2,2>>^ É como óleo precioso derramado sobre a cabeça,
+Que desce pela barba,
+A barba de Arão,
+E desce até a gola da sua veste.
+
+[[v19-133-3]]
+
+^<<v19-133-3,3>>^ É como o orvalho do Hermom,
+Que desce sobre as montanhas de Sião.
+É ali que Jeová decretou que estivesse a sua bênção:
+A vida eterna.
+
+'''
+
+xref:019-salmo/019-salmo-132.adoc#v19-132-0[&#60; Capítulo Anterior] | <<v19-133-0,Topo>> | xref:019-salmo/019-salmo-134.adoc#v19-134-0[Próximo Capítulo &#62;]

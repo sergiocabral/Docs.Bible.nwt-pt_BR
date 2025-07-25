@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v19-58-0]]
+=== Salmos, 58
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Ao regente; com a melodia de Não Destruas. De Davi. Mictão.^&#42;1^_
+
+[[v19-58-1]]
+
+^<<v19-58-1,1>>^ Será que vocês podem falar de justiça, quando ficam em silêncio?
+Será que podem julgar com retidão, ó filhos dos homens?
+
+[[v19-58-2]]
+
+^<<v19-58-2,2>>^ Em vez disso, vocês planejam a injustiça no coração,
+E as suas mãos distribuem violência no país.
+
+[[v19-58-3]]
+
+^<<v19-58-3,3>>^ Os maus se desviam^&#42;1^ desde o nascimento;^&#42;2^
+São rebeldes e mentirosos desde o ventre.
+
+[NOTE]
+====
+. Ou: “são corruptos”.
+. Lit.: “desde o ventre”.
+====
+
+[[v19-58-4]]
+
+^<<v19-58-4,4>>^ O veneno deles é como o veneno de serpentes;
+São surdos como a naja que tapa os ouvidos.
+
+[[v19-58-5]]
+
+^<<v19-58-5,5>>^ Ela não escutará a voz dos encantadores,
+Mesmo que façam os mais hábeis encantamentos.
+
+[[v19-58-6]]
+
+^<<v19-58-6,6>>^ Ó Deus, quebra-lhes os dentes na boca!
+Despedaça a mandíbula desses leões,^&#42;1^ ó Jeová!
+
+[NOTE]
+====
+. Ou: “leões novos jubados”.
+====
+
+[[v19-58-7]]
+
+^<<v19-58-7,7>>^ Que eles desapareçam como águas que se escoam;
+Que Ele arme o arco e os faça cair pelas suas flechas.
+
+[[v19-58-8]]
+
+^<<v19-58-8,8>>^ Que eles sejam como uma lesma que se derrete pelo caminho,
+Como uma criança que nasce morta, que nunca verá o sol.
+
+[[v19-58-9]]
+
+^<<v19-58-9,9>>^ Antes que as panelas de vocês sintam o calor dos espinheiros,
+Ele levará embora os ramos verdes e os em chamas, como num vendaval.
+
+[[v19-58-10]]
+
+^<<v19-58-10,10>>^ O justo se alegrará por ter visto a vingança;
+Seus pés serão banhados no sangue dos maus.
+
+[[v19-58-11]]
+
+^<<v19-58-11,11>>^ Então os homens dirão: “Certamente há uma recompensa para o justo.
+Há realmente um Deus que faz justiça na terra.”
+
+'''
+
+xref:019-salmo/019-salmo-057.adoc#v19-57-0[&#60; Capítulo Anterior] | <<v19-58-0,Topo>> | xref:019-salmo/019-salmo-059.adoc#v19-59-0[Próximo Capítulo &#62;]

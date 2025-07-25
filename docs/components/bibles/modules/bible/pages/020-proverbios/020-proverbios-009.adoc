@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v20-9-0]]
+=== Provérbios, 9
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v20-9-1]]
+
+^<<v20-9-1,1>>^ A verdadeira sabedoria construiu a sua casa;
+Talhou as suas sete colunas.
+
+[[v20-9-2]]
+
+^<<v20-9-2,2>>^ Providenciou muita carne,^&#42;1^
+Misturou o seu vinho
+E também pôs a mesa.
+
+[NOTE]
+====
+. Lit.: “Abateu seu abate”.
+====
+
+[[v20-9-3]]
+
+^<<v20-9-3,3>>^ Enviou as suas servas
+Para que clamassem dos lugares altos da cidade:
+
+[[v20-9-4]]
+
+^<<v20-9-4,4>>^ “Todos os inexperientes, venham para cá!”
+Ela diz aos que não têm bom senso:^&#42;1^
+
+[NOTE]
+====
+. Lit.: “não têm coração”.
+====
+
+[[v20-9-5]]
+
+^<<v20-9-5,5>>^ “Venham, comam o meu pão
+E bebam o meu vinho misturado.
+
+[[v20-9-6]]
+
+^<<v20-9-6,6>>^ Deixem para trás sua inexperiência^&#42;1^ e vocês viverão;
+Sigam em frente no caminho do entendimento.”
+
+[NOTE]
+====
+. Ou: “os inexperientes”.
+====
+
+[[v20-9-7]]
+
+^<<v20-9-7,7>>^ Quem corrige o zombador procura desonra,
+E quem repreende aquele que é mau prejudica a si mesmo.
+
+[[v20-9-8]]
+
+^<<v20-9-8,8>>^ Não repreenda o zombador, senão ele o odiará.
+Repreenda o sábio, e ele o amará.
+
+[[v20-9-9]]
+
+^<<v20-9-9,9>>^ Dê instrução ao sábio, e ele se tornará mais sábio.
+Ensine o justo, e ele aumentará em conhecimento.
+
+[[v20-9-10]]
+
+^<<v20-9-10,10>>^ O temor de Jeová é o início da sabedoria,
+E conhecer o Santíssimo é entendimento.
+
+[[v20-9-11]]
+
+^<<v20-9-11,11>>^ Pois, por meu intermédio, seus dias serão muitos,
+E anos serão acrescentados à sua vida.
+
+[[v20-9-12]]
+
+^<<v20-9-12,12>>^ Se você for sábio, isso será para o seu próprio bem;
+Mas, se você for zombador, só você sofrerá as consequências.
+
+[[v20-9-13]]
+
+^<<v20-9-13,13>>^ A mulher tola é escandalosa.
+É ignorante e não sabe absolutamente nada.
+
+[[v20-9-14]]
+
+^<<v20-9-14,14>>^ Ela se senta à entrada da sua casa,
+Numa cadeira, num lugar alto da cidade,
+
+[[v20-9-15]]
+
+^<<v20-9-15,15>>^ E chama os que passam pela estrada,
+Os que estão seguindo o seu caminho:
+
+[[v20-9-16]]
+
+^<<v20-9-16,16>>^ “Todos os inexperientes, venham para cá!”
+Ela diz aos que não têm bom senso:^&#42;1^
+
+[NOTE]
+====
+. Lit.: “não têm coração”.
+====
+
+[[v20-9-17]]
+
+^<<v20-9-17,17>>^ “As águas roubadas são doces,
+E o pão comido às escondidas é saboroso.”
+
+[[v20-9-18]]
+
+^<<v20-9-18,18>>^ Mas eles não sabem que os impotentes na morte estão ali,
+Que os convidados dela estão nas profundezas da Sepultura.^&#42;1^
+
+[NOTE]
+====
+. Ou: “do Seol”, isto é, a sepultura comum da humanidade. Veja o Glossário.
+====
+
+'''
+
+xref:020-proverbios/020-proverbios-008.adoc#v20-8-0[&#60; Capítulo Anterior] | <<v20-9-0,Topo>> | xref:020-proverbios/020-proverbios-010.adoc#v20-10-0[Próximo Capítulo &#62;]

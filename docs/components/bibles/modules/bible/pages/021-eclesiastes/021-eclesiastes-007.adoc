@@ -1,0 +1,164 @@
+include::./index.adoc[]
+
+[[v21-7-0]]
+=== Eclesiastes, 7
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v21-7-1]]
+
+^<<v21-7-1,1>>^ Um bom nome^&#42;1^ é melhor do que um bom óleo, e o dia da morte é melhor do que o dia do nascimento.
+
+[NOTE]
+====
+. Ou: “Uma boa reputação”. Lit.: “Um nome”.
+====
+
+[[v21-7-2]]
+
+^<<v21-7-2,2>>^ Melhor é ir a uma casa onde há luto do que ir a uma casa onde há festa, pois a morte é o fim de todo homem, e quem está vivo deve refletir sobre isso.
+
+[[v21-7-3]]
+
+^<<v21-7-3,3>>^ Melhor a tristeza do que o riso, pois um rosto triste torna melhor o coração.
+
+[[v21-7-4]]
+
+^<<v21-7-4,4>>^ O coração dos sábios está na casa onde há luto, mas o coração dos tolos está na casa onde há alegria.^&#42;1^
+
+[NOTE]
+====
+. Ou: “diversão”.
+====
+
+[[v21-7-5]]
+
+^<<v21-7-5,5>>^ Melhor é ouvir a censura de um sábio do que ouvir a canção dos tolos.
+
+[[v21-7-6]]
+
+^<<v21-7-6,6>>^ Pois, igual ao estalar de espinhos queimando debaixo da panela, assim é o riso do tolo; e isso também é vaidade.
+
+[[v21-7-7]]
+
+^<<v21-7-7,7>>^ Mas a opressão pode levar o sábio à loucura, e o suborno corrompe o coração.
+
+[[v21-7-8]]
+
+^<<v21-7-8,8>>^ Melhor é o fim de uma coisa do que o seu começo. Melhor é ser paciente do que ter um espírito arrogante.
+
+[[v21-7-9]]
+
+^<<v21-7-9,9>>^ Não fique ofendido facilmente,^&#42;1^ pois é o coração dos tolos que fica ofendido.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “Não se apresse no seu espírito em ficar ofendido”.
+. Ou, possivelmente: “ficar ofendido é a marca dos tolos”.
+====
+
+[[v21-7-10]]
+
+^<<v21-7-10,10>>^ Não diga: “Por que os tempos antigos eram melhores do que os atuais?” Pois não é a sabedoria que o faz perguntar isso.
+
+[[v21-7-11]]
+
+^<<v21-7-11,11>>^ A sabedoria acompanhada de uma herança é algo bom, e é uma vantagem para os que veem a luz do dia.^&#42;1^
+
+[NOTE]
+====
+. Isto é, para os que estão vivos.
+====
+
+[[v21-7-12]]
+
+^<<v21-7-12,12>>^ Pois a sabedoria é uma proteção, assim como o dinheiro é uma proteção. Mas a vantagem do conhecimento é esta: a sabedoria preserva a vida de quem a possui.
+
+[[v21-7-13]]
+
+^<<v21-7-13,13>>^ Considere o trabalho do verdadeiro Deus: quem pode endireitar o que ele fez torto?
+
+[[v21-7-14]]
+
+^<<v21-7-14,14>>^ Num dia bom seja bom também; mas, num dia de dificuldades,^&#42;1^ lembre-se de que o verdadeiro Deus fez tanto um como o outro, de modo que os homens não podem ter certeza de^&#42;2^ nada do que lhes acontecerá no futuro.
+
+[NOTE]
+====
+. Ou: “calamidade”.
+. Ou: “descobrir”.
+====
+
+[[v21-7-15]]
+
+^<<v21-7-15,15>>^ Durante a minha vida vã, vi de tudo: pessoas justas que morrem na sua justiça e pessoas más que vivem muito tempo, apesar da sua maldade.
+
+[[v21-7-16]]
+
+^<<v21-7-16,16>>^ Não seja justo demais nem excessivamente sábio. Por que deveria causar ruína a si mesmo?
+
+[[v21-7-17]]
+
+^<<v21-7-17,17>>^ Não seja excessivamente mau, nem seja tolo. Por que deveria morrer antes do seu tempo?
+
+[[v21-7-18]]
+
+^<<v21-7-18,18>>^ É melhor seguir um dos conselhos, mas não desconsiderar o outro; pois quem teme a Deus acatará a ambos.
+
+[[v21-7-19]]
+
+^<<v21-7-19,19>>^ A sabedoria faz com que o sábio seja mais poderoso do que dez homens fortes numa cidade.
+
+[[v21-7-20]]
+
+^<<v21-7-20,20>>^ Pois não há nenhum homem justo na terra que sempre faça o que é bom e nunca peque.
+
+[[v21-7-21]]
+
+^<<v21-7-21,21>>^ Também, não dê atenção^&#42;1^ a todas as palavras que as pessoas dizem, senão você poderia ouvir seu servo amaldiçoá-lo;^&#42;2^
+
+[NOTE]
+====
+. Ou: “não entregue o coração”.
+. Ou: “falar mal de você”.
+====
+
+[[v21-7-22]]
+
+^<<v21-7-22,22>>^ pois você, no íntimo, bem sabe que você mesmo, muitas vezes, amaldiçoou a outros.
+
+[[v21-7-23]]
+
+^<<v21-7-23,23>>^ Tudo isso eu examinei com sabedoria, e eu disse: “Vou me tornar sábio.” Mas isso estava fora do meu alcance.
+
+[[v21-7-24]]
+
+^<<v21-7-24,24>>^ O que já aconteceu é inatingível e insondável. Quem o pode entender?
+
+[[v21-7-25]]
+
+^<<v21-7-25,25>>^ Eu voltei meu coração para conhecer, investigar e procurar a sabedoria e a razão por trás das coisas, e para entender a maldade da insensatez e a tolice da loucura.
+
+[[v21-7-26]]
+
+^<<v21-7-26,26>>^ Então descobri que mais amarga do que a morte é a mulher que é como uma rede de caça, cujo coração é como redes de arrasto e cujas mãos são como correntes. Aquele que agrada ao verdadeiro Deus escapará dela, mas o pecador é capturado por ela.
+
+[[v21-7-27]]
+
+^<<v21-7-27,27>>^ “Veja, isto é o que eu descobri”, diz o congregante. “Investiguei uma coisa após outra para tirar uma conclusão,
+
+[[v21-7-28]]
+
+^<<v21-7-28,28>>^ mas, o que busquei^&#42;1^ continuamente, não encontrei. Entre mil, achei um homem,^&#42;2^ mas não achei nenhuma mulher.
+
+[NOTE]
+====
+. Ou: “minha alma buscou”.
+. Ou: “homem justo”.
+====
+
+[[v21-7-29]]
+
+^<<v21-7-29,29>>^ O que descobri se resume nisto: o verdadeiro Deus fez a humanidade reta, mas eles seguiram seus próprios planos.”
+
+'''
+
+xref:021-eclesiastes/021-eclesiastes-006.adoc#v21-6-0[&#60; Capítulo Anterior] | <<v21-7-0,Topo>> | xref:021-eclesiastes/021-eclesiastes-008.adoc#v21-8-0[Próximo Capítulo &#62;]

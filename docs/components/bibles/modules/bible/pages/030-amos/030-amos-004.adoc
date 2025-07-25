@@ -1,0 +1,117 @@
+include::./index.adoc[]
+
+[[v30-4-0]]
+=== Amós, 4
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v30-4-1]]
+
+^<<v30-4-1,1>>^ “Ouçam esta palavra, ó vacas de Basã,
+Que estão no monte de Samaria;
+Vocês, mulheres que exploram^&#42;1^ os humildes e esmagam os pobres,
+Que dizem aos seus maridos:^&#42;2^ ‘Tragam-nos algo para beber!’
+
+[NOTE]
+====
+. Ou: “defraudam”.
+. Ou: “senhores”.
+====
+
+[[v30-4-2]]
+
+^<<v30-4-2,2>>^ O Soberano Senhor Jeová jurou pela sua santidade:
+‘“Vejam! Virão para vocês os dias em que serão levantadas com ganchos de açougueiro;
+E as que restarem, com anzóis.
+
+[[v30-4-3]]
+
+^<<v30-4-3,3>>^ Vocês sairão pelas brechas da muralha, cada uma pela brecha logo à sua frente;
+E serão expulsas para Harmom”, diz Jeová.’
+
+[[v30-4-4]]
+
+^<<v30-4-4,4>>^ ‘Venham a Betel e cometam transgressões;^&#42;1^
+A Gilgal, e cometam ainda mais transgressões!
+Tragam seus sacrifícios de manhã,
+E seus dízimos^&#42;2^ no terceiro dia.
+
+[NOTE]
+====
+. Ou: “rebelem-se”.
+. Ou: “suas décimas partes”.
+====
+
+[[v30-4-5]]
+
+^<<v30-4-5,5>>^ Queimem como sacrifício de agradecimento pão feito com fermento;
+Proclamem em voz bem alta suas ofertas voluntárias!
+Pois é isso que vocês amam fazer, ó povo de Israel’, diz o Soberano Senhor Jeová.
+
+[[v30-4-6]]
+
+^<<v30-4-6,6>>^ ‘Quanto a mim, fiz com que os seus dentes ficassem limpos, sem comida,^&#42;1^ em todas as suas cidades,
+E fiz com que faltasse pão em todas as suas casas;
+Mas vocês não voltaram para mim’, diz Jeová.
+
+[NOTE]
+====
+. Ou: “Quanto a mim, não lhes dei o que comer”.
+====
+
+[[v30-4-7]]
+
+^<<v30-4-7,7>>^ ‘Eu também os privei de chuvas três meses antes da colheita;
+Fazia chover numa cidade, mas não em outra cidade.
+Um campo tinha chuva,
+Mas outro campo, que não tinha chuva, secava.
+
+[[v30-4-8]]
+
+^<<v30-4-8,8>>^ Pessoas de duas ou três cidades iam cambaleando a outra cidade para beber água,
+E mesmo assim não se saciavam;
+Mas vocês não voltaram para mim’, diz Jeová.
+
+[[v30-4-9]]
+
+^<<v30-4-9,9>>^ ‘Atingi as suas safras^&#42;1^ com calor abrasador^&#42;2^ e com bolor.
+Vocês multiplicavam os seus jardins e vinhedos,
+Mas o gafanhoto devorava as suas figueiras e oliveiras;
+Mesmo assim, vocês não voltaram para mim’, diz Jeová.
+
+[NOTE]
+====
+. Ou: “vocês”.
+. Ou: “crestamento”.
+====
+
+[[v30-4-10]]
+
+^<<v30-4-10,10>>^ ‘Enviei contra vocês uma peste como a do Egito.
+Com a espada, matei os jovens e capturei os cavalos.
+Fiz o mau cheiro dos seus acampamentos subir ao seu nariz;
+Mas vocês não voltaram para mim’, diz Jeová.
+
+[[v30-4-11]]
+
+^<<v30-4-11,11>>^ ‘Causei uma devastação entre vocês,
+Como a devastação de Sodoma e Gomorra, causada por Deus.
+E vocês eram como um pedaço de madeira tirado do fogo;
+Mas não voltaram para mim’, diz Jeová.
+
+[[v30-4-12]]
+
+^<<v30-4-12,12>>^ Então, isso é o que farei a você, ó Israel.
+Visto que lhe farei isso,
+Prepare-se para se encontrar com o seu Deus, ó Israel.
+
+[[v30-4-13]]
+
+^<<v30-4-13,13>>^ Pois, veja! Ele é quem formou os montes e criou o vento;
+Ele diz ao homem quais são os Seus pensamentos,
+Transforma a aurora em escuridão
+E pisa nos lugares altos da terra;
+Seu nome é Jeová, o Deus dos exércitos.”
+
+'''
+
+xref:030-amos/030-amos-003.adoc#v30-3-0[&#60; Capítulo Anterior] | <<v30-4-0,Topo>> | xref:030-amos/030-amos-005.adoc#v30-5-0[Próximo Capítulo &#62;]

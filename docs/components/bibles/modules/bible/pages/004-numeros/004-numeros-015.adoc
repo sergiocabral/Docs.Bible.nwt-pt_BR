@@ -1,0 +1,235 @@
+include::./index.adoc[]
+
+[[v4-15-0]]
+=== Números, 15
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v4-15-1]]
+
+^<<v4-15-1,1>>^ Jeová disse mais a Moisés:
+
+[[v4-15-2]]
+
+^<<v4-15-2,2>>^ “Diga aos israelitas: ‘Quando por fim vocês entrarem na terra que lhes dou para morar
+
+[[v4-15-3]]
+
+^<<v4-15-3,3>>^ e apresentarem uma oferta feita por fogo a Jeová dentre os bois ou dentre as ovelhas e as cabras — uma oferta queimada ou um sacrifício, para cumprir um voto especial, ou uma oferta voluntária, ou uma oferta durante as suas festividades periódicas — a fim de fazer subir um aroma agradável^&#42;1^ para Jeová,
+
+[NOTE]
+====
+. Ou: “apaziguador; calmante”. Lit.: “repousante”.
+====
+
+[[v4-15-4]]
+
+^<<v4-15-4,4>>^ aquele que apresentar a sua oferta também terá de apresentar a Jeová uma oferta de cereais de farinha fina, de um décimo de uma efa,^&#42;1^ misturada com um quarto de um him^&#42;2^ de azeite.
+
+[NOTE]
+====
+. A décima parte de uma efa equivalia a 2,2 l. Veja Ap. B14.
+. Um him equivalia a 3,67 l. Veja Ap. B14.
+====
+
+[[v4-15-5]]
+
+^<<v4-15-5,5>>^ Você também deve oferecer um quarto de um him de vinho como oferta de bebida, junto com a oferta queimada ou o sacrifício de cada cordeiro.
+
+[[v4-15-6]]
+
+^<<v4-15-6,6>>^ Para um carneiro, você deve fazer uma oferta de cereais de dois décimos de uma efa de farinha fina, misturada com um terço de um him de azeite.
+
+[[v4-15-7]]
+
+^<<v4-15-7,7>>^ E deve apresentar um terço de um him de vinho como oferta de bebida, como aroma agradável^&#42;1^ para Jeová.
+
+[NOTE]
+====
+. Ou: “apaziguador; calmante”. Lit.: “repousante”.
+====
+
+[[v4-15-8]]
+
+^<<v4-15-8,8>>^ “‘Mas, se você oferecer um novilho como oferta queimada ou como sacrifício, para cumprir um voto especial, ou como sacrifício de participação em comum a Jeová,
+
+[[v4-15-9]]
+
+^<<v4-15-9,9>>^ também deve apresentar junto com o novilho uma oferta de cereais de três décimos de uma efa de farinha fina, misturada com meio him de azeite.
+
+[[v4-15-10]]
+
+^<<v4-15-10,10>>^ Deve apresentar também meio him de vinho como oferta de bebida, como oferta feita por fogo, como aroma agradável^&#42;1^ para Jeová.
+
+[NOTE]
+====
+. Ou: “apaziguador; calmante”. Lit.: “repousante”.
+====
+
+[[v4-15-11]]
+
+^<<v4-15-11,11>>^ Isso deve ser feito para cada touro, cada carneiro, cada cordeiro e cada bode.
+
+[[v4-15-12]]
+
+^<<v4-15-12,12>>^ Qualquer que seja o número que oferecerem, isso é o que devem fazer para cada um, de acordo com o número deles.
+
+[[v4-15-13]]
+
+^<<v4-15-13,13>>^ É assim que todo israelita de nascimento deve apresentar uma oferta feita por fogo, como aroma agradável^&#42;1^ para Jeová.
+
+[NOTE]
+====
+. Ou: “apaziguador; calmante”. Lit.: “repousante”.
+====
+
+[[v4-15-14]]
+
+^<<v4-15-14,14>>^ “‘Se um estrangeiro que mora entre vocês ou alguém que esteja no seu meio já por muitas gerações também apresentar uma oferta feita por fogo, como aroma agradável^&#42;1^ para Jeová, ele deve fazer do mesmo modo que vocês.
+
+[NOTE]
+====
+. Ou: “apaziguador; calmante”. Lit.: “repousante”.
+====
+
+[[v4-15-15]]
+
+^<<v4-15-15,15>>^ Vocês que são da congregação e o estrangeiro que mora entre vocês terão um só decreto. Será um decreto permanente para todas as suas gerações. O residente estrangeiro deve ser igual a vocês perante Jeová.
+
+[[v4-15-16]]
+
+^<<v4-15-16,16>>^ Deve haver uma só lei e uma só decisão judicial para vocês e para o estrangeiro que mora entre vocês.’”
+
+[[v4-15-17]]
+
+^<<v4-15-17,17>>^ Jeová disse a Moisés:
+
+[[v4-15-18]]
+
+^<<v4-15-18,18>>^ “Diga aos israelitas: ‘Quando vocês entrarem na terra para a qual os estou levando
+
+[[v4-15-19]]
+
+^<<v4-15-19,19>>^ e comerem do pão^&#42;1^ da terra, devem fazer uma contribuição a Jeová.
+
+[NOTE]
+====
+. Ou: “alimento”.
+====
+
+[[v4-15-20]]
+
+^<<v4-15-20,20>>^ Devem fazer uma contribuição das primícias da sua farinha grossa, oferecendo pães em forma de anel. Vocês devem contribuí-las do mesmo modo como fazem a contribuição da eira.
+
+[[v4-15-21]]
+
+^<<v4-15-21,21>>^ Por todas as suas gerações, vocês devem dar das primícias da sua farinha grossa uma contribuição a Jeová.
+
+[[v4-15-22]]
+
+^<<v4-15-22,22>>^ “‘Se vocês cometerem um erro e deixarem de obedecer a todos estes mandamentos que Jeová falou a Moisés
+
+[[v4-15-23]]
+
+^<<v4-15-23,23>>^ — tudo o que Jeová lhes ordenou por meio de Moisés, desde o dia em que Jeová ordenou em diante, por todas as suas gerações —,
+
+[[v4-15-24]]
+
+^<<v4-15-24,24>>^ e se isso foi feito por engano e sem que a assembleia se desse conta disso, então toda a assembleia oferecerá um novilho como oferta queimada de aroma agradável^&#42;1^ para Jeová, junto com a correspondente oferta de cereais e de bebida, segundo o procedimento normal, e um cabrito como oferta pelo pecado.
+
+[NOTE]
+====
+. Ou: “apaziguador; calmante”. Lit.: “repousante”.
+====
+
+[[v4-15-25]]
+
+^<<v4-15-25,25>>^ O sacerdote fará expiação por toda a assembleia de Israel, e eles serão perdoados. Pois foi um engano, e eles trouxeram a sua oferta: uma oferta feita por fogo a Jeová e uma oferta pelo pecado perante Jeová, pelo seu engano.
+
+[[v4-15-26]]
+
+^<<v4-15-26,26>>^ Toda a assembleia de Israel e o estrangeiro que mora entre eles serão perdoados, porque foi um engano da parte de todo o povo.
+
+[[v4-15-27]]
+
+^<<v4-15-27,27>>^ “‘Se uma pessoa^&#42;1^ pecar sem querer, terá de apresentar uma cabra no primeiro ano de vida como oferta pelo pecado.
+
+[NOTE]
+====
+. Ou: “alma”.
+====
+
+[[v4-15-28]]
+
+^<<v4-15-28,28>>^ E o sacerdote fará expiação pela pessoa^&#42;1^ que cometeu um erro por pecar sem querer perante Jeová; ele fará expiação pelo erro, e este será perdoado.
+
+[NOTE]
+====
+. Ou: “alma”.
+====
+
+[[v4-15-29]]
+
+^<<v4-15-29,29>>^ Deve haver uma só lei para quem faz algo sem querer, tanto para os israelitas de nascimento como para o estrangeiro que mora entre eles.
+
+[[v4-15-30]]
+
+^<<v4-15-30,30>>^ “‘Mas a pessoa^&#42;1^ que faz algo de propósito, quer seja israelita de nascimento quer residente estrangeiro, está blasfemando contra Jeová e será eliminada dentre seu povo.^&#42;2^
+
+[NOTE]
+====
+. Ou: “alma”.
+. Isto é, será morta.
+====
+
+[[v4-15-31]]
+
+^<<v4-15-31,31>>^ Visto que desprezou a palavra de Jeová e violou o seu mandamento, essa pessoa^&#42;1^ sem falta deve ser eliminada. Ela responderá pelo seu erro.’”
+
+[NOTE]
+====
+. Ou: “alma”.
+====
+
+[[v4-15-32]]
+
+^<<v4-15-32,32>>^ Enquanto os israelitas estavam no deserto, encontraram um homem apanhando lenha no dia de sábado.
+
+[[v4-15-33]]
+
+^<<v4-15-33,33>>^ Os que o encontraram apanhando lenha o levaram a Moisés e a Arão, e a toda a assembleia.
+
+[[v4-15-34]]
+
+^<<v4-15-34,34>>^ Então o puseram em detenção, porque não se tinha determinado o que deveriam fazer com ele.
+
+[[v4-15-35]]
+
+^<<v4-15-35,35>>^ E Jeová disse a Moisés: “O homem sem falta deve ser morto; toda a assembleia deve apedrejá-lo fora do acampamento.”
+
+[[v4-15-36]]
+
+^<<v4-15-36,36>>^ Portanto, toda a assembleia o levou para fora do acampamento e atirou pedras nele, de modo que morreu, assim como Jeová havia ordenado a Moisés.
+
+[[v4-15-37]]
+
+^<<v4-15-37,37>>^ Jeová disse o seguinte a Moisés:
+
+[[v4-15-38]]
+
+^<<v4-15-38,38>>^ “Diga aos israelitas que eles devem fazer franjas na barra das suas roupas, por todas as suas gerações, e que devem pôr um cordão azul por cima das franjas da barra.
+
+[[v4-15-39]]
+
+^<<v4-15-39,39>>^ ‘Vocês devem ter essas franjas nas suas roupas para que, ao vê-las, se lembrem de todos os mandamentos de Jeová e lhes obedeçam. Vocês não devem seguir o seu coração e os seus olhos, que estão levando vocês à prostituição espiritual.
+
+[[v4-15-40]]
+
+^<<v4-15-40,40>>^ Isso os ajudará a se lembrar de todos os meus mandamentos, e vocês lhes obedecerão e serão santos para o seu Deus.
+
+[[v4-15-41]]
+
+^<<v4-15-41,41>>^ Eu sou Jeová, seu Deus, que os tirou da terra do Egito, para ser o seu Deus. Eu sou Jeová, seu Deus.’”
+
+'''
+
+xref:004-numeros/004-numeros-014.adoc#v4-14-0[&#60; Capítulo Anterior] | <<v4-15-0,Topo>> | xref:004-numeros/004-numeros-016.adoc#v4-16-0[Próximo Capítulo &#62;]

@@ -1,0 +1,102 @@
+include::./index.adoc[]
+
+[[v19-146-0]]
+=== Salmos, 146
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v19-146-1]]
+
+^<<v19-146-1,1>>^ Louvem a Jah!^&#42;1^
+Que todo o meu ser^&#42;2^ louve a Jeová.
+
+[NOTE]
+====
+. Ou: “Aleluia!” “Jah” é uma forma reduzida do nome Jeová.
+. Ou: “Que minha alma”.
+====
+
+[[v19-146-2]]
+
+^<<v19-146-2,2>>^ Vou louvar a Jeová por toda a minha vida.
+Vou cantar louvores^&#42;1^ ao meu Deus enquanto eu existir.
+
+[NOTE]
+====
+. Ou: “fazer música”.
+====
+
+[[v19-146-3]]
+
+^<<v19-146-3,3>>^ Não confiem nos príncipes^&#42;1^
+Nem nos filhos dos homens, que não podem trazer salvação.
+
+[NOTE]
+====
+. Ou: “nobres”.
+====
+
+[[v19-146-4]]
+
+^<<v19-146-4,4>>^ Seu espírito^&#42;1^ sai, e eles voltam ao solo;
+Nesse mesmo dia os seus pensamentos se acabam.
+
+[NOTE]
+====
+. Ou: “fôlego”.
+====
+
+[[v19-146-5]]
+
+^<<v19-146-5,5>>^ Feliz o homem que tem o Deus de Jacó como seu ajudador,
+Que deposita a sua esperança em Jeová, seu Deus,
+
+[[v19-146-6]]
+
+^<<v19-146-6,6>>^ Aquele que fez o céu e a terra,
+O mar e tudo o que há neles,
+Aquele que é sempre fiel,
+
+[[v19-146-7]]
+
+^<<v19-146-7,7>>^ Aquele que faz justiça aos explorados,^&#42;1^
+Aquele que dá pão aos famintos.
+Jeová solta os prisioneiros.^&#42;2^
+
+[NOTE]
+====
+. Ou: “defraudados”.
+. Lit.: “os amarrados”.
+====
+
+[[v19-146-8]]
+
+^<<v19-146-8,8>>^ Jeová abre os olhos dos cegos;
+Jeová levanta os encurvados;
+Jeová ama os justos.
+
+[[v19-146-9]]
+
+^<<v19-146-9,9>>^ Jeová protege os residentes estrangeiros;
+Ampara o órfão^&#42;1^ e a viúva,
+Mas frustra os planos dos maus.^&#42;2^
+
+[NOTE]
+====
+. Ou: “órfão de pai”.
+. Ou: “entorta o caminho dos maus”.
+====
+
+[[v19-146-10]]
+
+^<<v19-146-10,10>>^ Jeová será Rei para sempre;
+Seu Deus, ó Sião, reinará por geração após geração.
+Louvem a Jah!^&#42;1^
+
+[NOTE]
+====
+. Ou: “Aleluia!” “Jah” é uma forma reduzida do nome Jeová.
+====
+
+'''
+
+xref:019-salmo/019-salmo-145.adoc#v19-145-0[&#60; Capítulo Anterior] | <<v19-146-0,Topo>> | xref:019-salmo/019-salmo-147.adoc#v19-147-0[Próximo Capítulo &#62;]

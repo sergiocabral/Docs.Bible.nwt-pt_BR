@@ -1,0 +1,201 @@
+include::./index.adoc[]
+
+[[v1-26-0]]
+=== Gênesis, 26
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v1-26-1]]
+
+^<<v1-26-1,1>>^ Houve uma fome naquela terra, além da fome que tinha ocorrido nos dias de Abraão, de modo que Isaque se dirigiu a Abimeleque, rei dos filisteus, em Gerar.
+
+[[v1-26-2]]
+
+^<<v1-26-2,2>>^ Jeová lhe apareceu então e disse: “Não desça ao Egito. More na terra que eu lhe indicar.
+
+[[v1-26-3]]
+
+^<<v1-26-3,3>>^ More como estrangeiro nesta terra, e eu continuarei com você e o abençoarei, porque darei todas estas terras a você e à sua descendência,^&#42;1^ e cumprirei o juramento que fiz a Abraão, seu pai:
+
+[NOTE]
+====
+. Lit.: “semente”.
+====
+
+[[v1-26-4]]
+
+^<<v1-26-4,4>>^ ‘Multiplicarei a sua descendência^&#42;1^ como as estrelas dos céus; e darei todas estas terras à sua descendência;^&#42;2^ e todas as nações da terra obterão para si uma bênção por meio da sua descendência’,^&#42;3^
+
+[NOTE]
+====
+. Lit.: “semente”.
+. Lit.: “semente”.
+. Lit.: “semente”.
+====
+
+[[v1-26-5]]
+
+^<<v1-26-5,5>>^ visto que Abraão escutou a minha voz e continuou a cumprir meus requisitos, minhas ordens, meus decretos e minhas leis.”
+
+[[v1-26-6]]
+
+^<<v1-26-6,6>>^ Assim, Isaque continuou morando em Gerar.
+
+[[v1-26-7]]
+
+^<<v1-26-7,7>>^ Quando os homens do lugar lhe perguntavam sobre sua esposa, ele respondia: “Ela é minha irmã.” Ele tinha medo de dizer: “Ela é minha esposa”, pois pensava: “Os homens do lugar podem me matar por causa de Rebeca”, porque ela era muito bonita.
+
+[[v1-26-8]]
+
+^<<v1-26-8,8>>^ Passado algum tempo, Abimeleque, rei dos filisteus, estava olhando pela janela quando viu Isaque fazendo carinho em^&#42;1^ Rebeca, sua esposa.
+
+[NOTE]
+====
+. Ou: “abraçando”.
+====
+
+[[v1-26-9]]
+
+^<<v1-26-9,9>>^ Abimeleque chamou imediatamente Isaque e disse: “Na verdade, ela é sua esposa! Por que é que você disse: ‘Ela é minha irmã’?” Isaque lhe respondeu: “Eu disse isso para não ser morto por causa dela.”
+
+[[v1-26-10]]
+
+^<<v1-26-10,10>>^ Mas Abimeleque continuou: “O que você nos fez? Alguém do povo poderia facilmente ter se deitado com a sua esposa, e você teria trazido culpa sobre nós!”
+
+[[v1-26-11]]
+
+^<<v1-26-11,11>>^ Abimeleque ordenou então a todo o povo: “Quem tocar neste homem e na sua esposa certamente será morto!”
+
+[[v1-26-12]]
+
+^<<v1-26-12,12>>^ E Isaque começou a semear naquela terra, e naquele ano ele colheu cem vezes o que tinha semeado, pois Jeová o abençoava.
+
+[[v1-26-13]]
+
+^<<v1-26-13,13>>^ O homem ficou rico, e ele continuou a prosperar até que se tornou muito rico.
+
+[[v1-26-14]]
+
+^<<v1-26-14,14>>^ Ele adquiriu rebanhos de ovelhas e de bois e um grande grupo de servos, e os filisteus começaram a invejá-lo.
+
+[[v1-26-15]]
+
+^<<v1-26-15,15>>^ Assim, os filisteus taparam com terra todos os poços que os servos de Abraão, seu pai, tinham cavado nos dias dele.
+
+[[v1-26-16]]
+
+^<<v1-26-16,16>>^ Abimeleque disse então a Isaque: “Mude-se da nossa vizinhança, pois você ficou muito mais forte do que nós.”
+
+[[v1-26-17]]
+
+^<<v1-26-17,17>>^ Portanto, Isaque se mudou dali e acampou no vale^&#42;1^ de Gerar, e passou a morar ali.
+
+[NOTE]
+====
+. Ou: “uádi”.
+====
+
+[[v1-26-18]]
+
+^<<v1-26-18,18>>^ Isaque cavou novamente os poços que tinham sido cavados nos dias de Abraão, seu pai, mas que os filisteus haviam tapado depois da morte de Abraão, e lhes deu os nomes que seu pai tinha lhes dado.
+
+[[v1-26-19]]
+
+^<<v1-26-19,19>>^ Quando os servos de Isaque estavam cavando no vale,^&#42;1^ acharam um poço em que havia uma nascente de água.
+
+[NOTE]
+====
+. Ou: “uádi”.
+====
+
+[[v1-26-20]]
+
+^<<v1-26-20,20>>^ E os pastores de Gerar começaram a discutir com os pastores de Isaque, dizendo: “A água é nossa!” Assim, Isaque deu ao poço o nome de Eseque,^&#42;1^ porque haviam discutido com Isaque.
+
+[NOTE]
+====
+. Que significa “briga”.
+====
+
+[[v1-26-21]]
+
+^<<v1-26-21,21>>^ E cavaram outro poço, e começaram a discutir também por causa dele. Então lhe deu o nome de Sitna.^&#42;1^
+
+[NOTE]
+====
+. Que significa “acusação”.
+====
+
+[[v1-26-22]]
+
+^<<v1-26-22,22>>^ Mais tarde ele se mudou dali e cavou outro poço, mas eles não discutiram por causa dele. Por isso lhe deu o nome de Reobote,^&#42;1^ e disse: “É porque agora Jeová nos deu amplo espaço e nos fez numerosos nesta terra.”
+
+[NOTE]
+====
+. Que significa “lugares amplos”.
+====
+
+[[v1-26-23]]
+
+^<<v1-26-23,23>>^ Dali subiu então para Berseba.
+
+[[v1-26-24]]
+
+^<<v1-26-24,24>>^ Naquela noite Jeová lhe apareceu e disse: “Eu sou o Deus de Abraão, seu pai. Não tenha medo, pois estou com você, e vou abençoá-lo e multiplicar a sua descendência^&#42;1^ por causa de Abraão, meu servo.”
+
+[NOTE]
+====
+. Lit.: “semente”.
+====
+
+[[v1-26-25]]
+
+^<<v1-26-25,25>>^ Portanto, ele construiu ali um altar e invocou o nome de Jeová. E Isaque armou a sua tenda naquele lugar, e seus servos cavaram um poço ali.
+
+[[v1-26-26]]
+
+^<<v1-26-26,26>>^ Mais tarde, dirigiu-se a ele Abimeleque, vindo de Gerar, com Ausate, seu conselheiro pessoal, e Ficol, chefe do seu exército.
+
+[[v1-26-27]]
+
+^<<v1-26-27,27>>^ Então Isaque lhes perguntou: “Por que vieram a mim, já que vocês me odeiam e me mandaram embora da sua vizinhança?”
+
+[[v1-26-28]]
+
+^<<v1-26-28,28>>^ Responderam-lhe então: “Vimos claramente que Jeová está com você. Por isso dissemos: ‘Que haja um juramento entre nós e você, e permita-nos fazer com você um pacto:
+
+[[v1-26-29]]
+
+^<<v1-26-29,29>>^ você não fará nada de mau contra nós assim como nós não lhe fizemos nenhum mal, pois apenas o bem lhe fizemos, mandando-o embora em paz. Você agora é o abençoado de Jeová.’”
+
+[[v1-26-30]]
+
+^<<v1-26-30,30>>^ Ele fez então um banquete para eles, e comeram e beberam.
+
+[[v1-26-31]]
+
+^<<v1-26-31,31>>^ Na manhã seguinte, levantaram-se cedo e fizeram um juramento mútuo. Depois Isaque os despediu, e eles partiram em paz.
+
+[[v1-26-32]]
+
+^<<v1-26-32,32>>^ Naquele dia, os servos de Isaque foram informá-lo a respeito do poço que haviam cavado, e disseram-lhe: “Encontramos água!”
+
+[[v1-26-33]]
+
+^<<v1-26-33,33>>^ Assim, ele deu ao poço o nome de Siba. É por isso que o nome da cidade é Berseba, até o dia de hoje.
+
+[[v1-26-34]]
+
+^<<v1-26-34,34>>^ Quando Esaú tinha 40 anos de idade, ele tomou como esposa Judite, filha de Beeri, o hitita, e também Basemate, filha de Elom, o hitita.
+
+[[v1-26-35]]
+
+^<<v1-26-35,35>>^ Elas eram uma fonte de grande amargura^&#42;1^ para Isaque e Rebeca.
+
+[NOTE]
+====
+. Lit.: “amargura de espírito”.
+====
+
+'''
+
+xref:001-genesis/001-genesis-025.adoc#v1-25-0[&#60; Capítulo Anterior] | <<v1-26-0,Topo>> | xref:001-genesis/001-genesis-027.adoc#v1-27-0[Próximo Capítulo &#62;]

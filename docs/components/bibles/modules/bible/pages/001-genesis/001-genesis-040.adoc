@@ -1,0 +1,126 @@
+include::./index.adoc[]
+
+[[v1-40-0]]
+=== Gênesis, 40
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v1-40-1]]
+
+^<<v1-40-1,1>>^ Depois disso, o chefe dos copeiros do rei do Egito e o chefe dos padeiros pecaram contra o seu senhor, o rei do Egito.
+
+[[v1-40-2]]
+
+^<<v1-40-2,2>>^ Então Faraó ficou indignado com os seus dois funcionários, o chefe dos copeiros e o chefe dos padeiros,
+
+[[v1-40-3]]
+
+^<<v1-40-3,3>>^ e ele mandou prendê-los na cadeia da casa do chefe da guarda, no lugar onde José estava preso.
+
+[[v1-40-4]]
+
+^<<v1-40-4,4>>^ E o chefe da guarda determinou que José ficasse com eles e cuidasse deles, e eles ficaram algum tempo^&#42;1^ na cadeia.
+
+[NOTE]
+====
+. Lit.: “estiveram dias”.
+====
+
+[[v1-40-5]]
+
+^<<v1-40-5,5>>^ Certa noite, tanto o copeiro como o padeiro do rei do Egito, que estavam detidos na prisão, tiveram um sonho, e cada sonho tinha a sua própria interpretação.
+
+[[v1-40-6]]
+
+^<<v1-40-6,6>>^ Na manhã seguinte, quando José foi vê-los, percebeu que eles estavam abatidos.
+
+[[v1-40-7]]
+
+^<<v1-40-7,7>>^ Então perguntou aos funcionários de Faraó, que estavam presos com ele na casa do seu senhor: “Por que vocês estão com o rosto triste hoje?”
+
+[[v1-40-8]]
+
+^<<v1-40-8,8>>^ Eles responderam: “Ambos tivemos sonhos, mas não há aqui quem os interprete.” José lhes disse: “Não pertencem a Deus as interpretações? Relatem os sonhos a mim, por favor.”
+
+[[v1-40-9]]
+
+^<<v1-40-9,9>>^ O chefe dos copeiros relatou o seu sonho a José; ele disse: “No meu sonho, havia uma videira diante de mim.
+
+[[v1-40-10]]
+
+^<<v1-40-10,10>>^ Na videira havia três raminhos e, ao brotar, ela florescia; e os seus cachos deram uvas maduras.
+
+[[v1-40-11]]
+
+^<<v1-40-11,11>>^ O copo de Faraó estava na minha mão, e eu peguei as uvas e as espremi no copo de Faraó. Depois disso dei o copo a Faraó.”
+
+[[v1-40-12]]
+
+^<<v1-40-12,12>>^ José lhe disse então: “Esta é a interpretação do sonho: os três raminhos são três dias.
+
+[[v1-40-13]]
+
+^<<v1-40-13,13>>^ Daqui a três dias, Faraó levará você para fora^&#42;1^ e o restituirá ao seu cargo, e você dará o copo a Faraó, como fazia antes, quando era seu copeiro.
+
+[NOTE]
+====
+. Lit.: “levantará a sua cabeça”.
+====
+
+[[v1-40-14]]
+
+^<<v1-40-14,14>>^ Mas, quando as coisas estiverem bem com você, lembre-se de mim. Por favor, demonstre-me amor leal e fale sobre mim a Faraó, para me tirar deste lugar.
+
+[[v1-40-15]]
+
+^<<v1-40-15,15>>^ Na verdade, fui raptado da terra dos hebreus, e não fiz nada aqui para que me pusessem na prisão.”^&#42;1^
+
+[NOTE]
+====
+. Lit.: “cisterna; cova”.
+====
+
+[[v1-40-16]]
+
+^<<v1-40-16,16>>^ Então, quando o chefe dos padeiros viu que a interpretação era favorável, disse a José: “Eu também estava no meu sonho, e havia três cestos de pão branco sobre a minha cabeça,
+
+[[v1-40-17]]
+
+^<<v1-40-17,17>>^ e no cesto que estava por cima havia todo tipo de alimentos assados que os padeiros fazem para Faraó, e havia aves que comiam desse cesto, que estava sobre a minha cabeça.”
+
+[[v1-40-18]]
+
+^<<v1-40-18,18>>^ José respondeu: “Esta é a interpretação do sonho: os três cestos são três dias.
+
+[[v1-40-19]]
+
+^<<v1-40-19,19>>^ Daqui a três dias, Faraó cortará a sua cabeça^&#42;1^ e pendurará você num madeiro, e as aves comerão a sua carne.”
+
+[NOTE]
+====
+. Lit.: “levantará a sua cabeça de cima de você”.
+====
+
+[[v1-40-20]]
+
+^<<v1-40-20,20>>^ O terceiro dia era o aniversário de Faraó, e ele deu um banquete a todos os seus servos; ele trouxe para fora o^&#42;1^ chefe dos copeiros e o chefe dos padeiros, diante dos seus servos.
+
+[NOTE]
+====
+. Lit.: “levantou a cabeça do”.
+====
+
+[[v1-40-21]]
+
+^<<v1-40-21,21>>^ E ele restituiu o chefe dos copeiros ao seu posto de copeiro, e ele continuou a servir o copo a Faraó.
+
+[[v1-40-22]]
+
+^<<v1-40-22,22>>^ Mas Faraó pendurou o chefe dos padeiros num madeiro, assim como José havia interpretado.
+
+[[v1-40-23]]
+
+^<<v1-40-23,23>>^ O chefe dos copeiros, porém, não se lembrou de José; esqueceu-se dele.
+
+'''
+
+xref:001-genesis/001-genesis-039.adoc#v1-39-0[&#60; Capítulo Anterior] | <<v1-40-0,Topo>> | xref:001-genesis/001-genesis-041.adoc#v1-41-0[Próximo Capítulo &#62;]

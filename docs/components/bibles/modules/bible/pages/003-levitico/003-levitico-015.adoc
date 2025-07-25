@@ -1,0 +1,151 @@
+include::./index.adoc[]
+
+[[v3-15-0]]
+=== Levítico, 15
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v3-15-1]]
+
+^<<v3-15-1,1>>^ Jeová disse ainda a Moisés e a Arão:
+
+[[v3-15-2]]
+
+^<<v3-15-2,2>>^ “Digam aos israelitas: ‘Se um homem tem um corrimento do órgão genital,^&#42;1^ esse corrimento o torna impuro.
+
+[NOTE]
+====
+. Lit.: “da sua carne”.
+====
+
+[[v3-15-3]]
+
+^<<v3-15-3,3>>^ Ele está impuro por causa do seu corrimento; quer o corrimento continue a sair do seu órgão genital, quer este tenha ficado obstruído, o homem está impuro.
+
+[[v3-15-4]]
+
+^<<v3-15-4,4>>^ “‘Qualquer cama em que se deitar aquele que tem um corrimento ficará impura, e qualquer objeto em que ele se sentar ficará impuro.
+
+[[v3-15-5]]
+
+^<<v3-15-5,5>>^ Aquele que tocar na cama dele terá de lavar suas roupas e se banhar em água, e ficará impuro até o anoitecer.
+
+[[v3-15-6]]
+
+^<<v3-15-6,6>>^ Quem se sentar num objeto em que se sentou aquele que tem um corrimento deve lavar suas roupas e se banhar em água, e ficará impuro até o anoitecer.
+
+[[v3-15-7]]
+
+^<<v3-15-7,7>>^ Quem tocar no corpo daquele que tem um corrimento deve lavar suas roupas e se banhar em água, e ficará impuro até o anoitecer.
+
+[[v3-15-8]]
+
+^<<v3-15-8,8>>^ Se aquele que tem um corrimento cuspir em alguém puro, este terá de lavar suas roupas e se banhar em água, e ficará impuro até o anoitecer.
+
+[[v3-15-9]]
+
+^<<v3-15-9,9>>^ Qualquer sela em que cavalgar aquele que tem um corrimento ficará impura.
+
+[[v3-15-10]]
+
+^<<v3-15-10,10>>^ Quem tocar em algo em que ele se sentou ficará impuro até o anoitecer, e quem transportar esses objetos lavará suas roupas e se banhará em água, e ficará impuro até o anoitecer.
+
+[[v3-15-11]]
+
+^<<v3-15-11,11>>^ Se aquele que tem um corrimento tocar em uma pessoa sem ter lavado as mãos com água, essa pessoa terá de lavar suas roupas e se banhar em água, e ficará impura até o anoitecer.
+
+[[v3-15-12]]
+
+^<<v3-15-12,12>>^ O recipiente de barro que for tocado por aquele que tem um corrimento deve ser quebrado, e qualquer recipiente de madeira deve ser lavado com água.
+
+[[v3-15-13]]
+
+^<<v3-15-13,13>>^ “‘Quando aquele que tem o corrimento ficar limpo do seu corrimento, ele contará sete dias para a sua purificação; e terá de lavar as suas roupas e se banhar em água tirada de uma fonte, e ele ficará puro.
+
+[[v3-15-14]]
+
+^<<v3-15-14,14>>^ No oitavo dia, ele deve pegar duas rolas ou dois pombos novos e comparecer perante Jeová, à entrada da tenda de reunião, e entregar as aves ao sacerdote.
+
+[[v3-15-15]]
+
+^<<v3-15-15,15>>^ E o sacerdote as oferecerá, uma como oferta pelo pecado e a outra como oferta queimada; o sacerdote fará expiação por ele, perante Jeová, por causa do seu corrimento.
+
+[[v3-15-16]]
+
+^<<v3-15-16,16>>^ “‘Se um homem tiver uma emissão de sêmen, ele deve banhar todo o seu corpo em água, e ficará impuro até o anoitecer.
+
+[[v3-15-17]]
+
+^<<v3-15-17,17>>^ Ele terá de lavar com água a roupa e qualquer objeto feito de couro em que haja sêmen, e esses ficarão impuros até o anoitecer.
+
+[[v3-15-18]]
+
+^<<v3-15-18,18>>^ “‘Quando um homem se deita com uma mulher e tem uma emissão de sêmen, eles devem se banhar em água, e ficarão impuros até o anoitecer.
+
+[[v3-15-19]]
+
+^<<v3-15-19,19>>^ “‘Quando uma mulher tem um fluxo de sangue do seu órgão genital,^&#42;1^ ela ficará impura por sete dias por causa da sua menstruação. Quem tocar nela ficará impuro até o anoitecer.
+
+[NOTE]
+====
+. Lit.: “na sua carne”.
+====
+
+[[v3-15-20]]
+
+^<<v3-15-20,20>>^ Tudo em que ela se deitar enquanto estiver impura por causa da sua menstruação ficará impuro, e tudo em que ela se sentar ficará impuro.
+
+[[v3-15-21]]
+
+^<<v3-15-21,21>>^ Quem tocar na cama dela deve lavar suas roupas e se banhar em água, e ficará impuro até o anoitecer.
+
+[[v3-15-22]]
+
+^<<v3-15-22,22>>^ Quem tocar em qualquer objeto em que ela se sentou deve lavar suas roupas e se banhar em água, e ficará impuro até o anoitecer.
+
+[[v3-15-23]]
+
+^<<v3-15-23,23>>^ Se ela se sentou na cama ou em outro objeto, aquele que tocar neles ficará impuro até o anoitecer.
+
+[[v3-15-24]]
+
+^<<v3-15-24,24>>^ Se um homem se deitar com ela e tiver contato com sua impureza menstrual, ele ficará impuro por sete dias, e qualquer cama em que ele se deitar ficará impura.
+
+[[v3-15-25]]
+
+^<<v3-15-25,25>>^ “‘Se uma mulher tiver um fluxo de sangue por muitos dias, fora do seu período normal de menstruação, ou se seu fluxo continuar além do período normal da menstruação, ela ficará impura durante todos os dias do seu fluxo, assim como nos dias da sua impureza menstrual.
+
+[[v3-15-26]]
+
+^<<v3-15-26,26>>^ Qualquer cama em que ela se deitar durante os dias do seu fluxo se tornará impura, como a sua cama durante a sua impureza menstrual, e qualquer objeto em que ela se sentar se tornará impuro, como acontece durante a sua impureza menstrual.
+
+[[v3-15-27]]
+
+^<<v3-15-27,27>>^ Quem tocar neles ficará impuro, e terá de lavar suas roupas e se banhar em água, e ficará impuro até o anoitecer.
+
+[[v3-15-28]]
+
+^<<v3-15-28,28>>^ “‘No entanto, se o fluxo tiver parado, ela contará sete dias e depois ficará pura.
+
+[[v3-15-29]]
+
+^<<v3-15-29,29>>^ No oitavo dia, ela deve pegar duas rolas ou dois pombos novos, e levará as aves ao sacerdote, à entrada da tenda de reunião.
+
+[[v3-15-30]]
+
+^<<v3-15-30,30>>^ Com uma delas, o sacerdote fará uma oferta pelo pecado e, com a outra, uma oferta queimada; e o sacerdote fará expiação por ela perante Jeová, por causa do seu fluxo impuro.
+
+[[v3-15-31]]
+
+^<<v3-15-31,31>>^ “‘Dessa maneira, mantenham os israelitas afastados das impurezas, para que, na sua impureza, não morram por profanarem o meu tabernáculo, que está entre eles.
+
+[[v3-15-32]]
+
+^<<v3-15-32,32>>^ “‘Essa é a lei sobre o homem que tem um corrimento, sobre o homem que fica impuro por ter uma emissão de sêmen,
+
+[[v3-15-33]]
+
+^<<v3-15-33,33>>^ sobre a mulher que estiver impura por causa da sua menstruação, sobre o homem ou a mulher que padece de um fluxo, e sobre o homem que se deitar com uma mulher que está impura.’”
+
+'''
+
+xref:003-levitico/003-levitico-014.adoc#v3-14-0[&#60; Capítulo Anterior] | <<v3-15-0,Topo>> | xref:003-levitico/003-levitico-016.adoc#v3-16-0[Próximo Capítulo &#62;]

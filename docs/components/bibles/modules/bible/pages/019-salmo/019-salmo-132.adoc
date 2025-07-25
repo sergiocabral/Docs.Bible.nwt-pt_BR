@@ -1,0 +1,146 @@
+include::./index.adoc[]
+
+[[v19-132-0]]
+=== Salmos, 132
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Cântico das Subidas._
+
+[[v19-132-1]]
+
+^<<v19-132-1,1>>^ Ó Jeová, lembra-te de Davi
+E de todo o seu sofrimento,
+
+[[v19-132-2]]
+
+^<<v19-132-2,2>>^ De como ele jurou a Jeová
+E fez um voto ao Poderoso de Jacó:
+
+[[v19-132-3]]
+
+^<<v19-132-3,3>>^ “Não entrarei na minha tenda, na minha casa.
+Não me deitarei no meu leito, na minha cama;
+
+[[v19-132-4]]
+
+^<<v19-132-4,4>>^ Não deixarei que os meus olhos durmam
+Nem que as minhas pálpebras descansem,
+
+[[v19-132-5]]
+
+^<<v19-132-5,5>>^ Até que eu encontre um lugar para Jeová,
+Uma morada excelente^&#42;1^ para o Poderoso de Jacó.”
+
+[NOTE]
+====
+. Ou: “Um grandioso tabernáculo”.
+====
+
+[[v19-132-6]]
+
+^<<v19-132-6,6>>^ Ouvimos falar dela^&#42;1^ em Efrata;
+Nós a encontramos na região da floresta.^&#42;2^
+
+[NOTE]
+====
+. Pelo visto se refere à Arca.
+. Ou: “nos campos da floresta”.
+====
+
+[[v19-132-7]]
+
+^<<v19-132-7,7>>^ Entremos na morada^&#42;1^ dele;
+Curvemo-nos diante do apoio para os seus pés.
+
+[NOTE]
+====
+. Ou: “no grandioso tabernáculo”.
+====
+
+[[v19-132-8]]
+
+^<<v19-132-8,8>>^ Levanta-te, ó Jeová, e vem para o teu lugar de descanso,
+Tu e a Arca do teu poder.
+
+[[v19-132-9]]
+
+^<<v19-132-9,9>>^ Que os teus sacerdotes se vistam de justiça,
+E os teus leais gritem de alegria.
+
+[[v19-132-10]]
+
+^<<v19-132-10,10>>^ Por causa de Davi, teu servo,
+Não rejeites o^&#42;1^ teu ungido.
+
+[NOTE]
+====
+. Lit.: “Não voltes para trás a face do”.
+====
+
+[[v19-132-11]]
+
+^<<v19-132-11,11>>^ Jeová jurou a Davi;
+Ele certamente não voltará atrás na sua palavra:
+“Porei no seu trono
+Um dos seus descendentes.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “do fruto do seu ventre”.
+====
+
+[[v19-132-12]]
+
+^<<v19-132-12,12>>^ Se os seus filhos guardarem o meu pacto
+E acatarem os preceitos^&#42;1^ que lhes ensino,
+Os filhos deles também
+Sentarão no seu trono para sempre.”
+
+[NOTE]
+====
+. Ou: “as advertências”.
+====
+
+[[v19-132-13]]
+
+^<<v19-132-13,13>>^ Pois Jeová escolheu Sião;
+Ele a desejou como sua morada, e disse:
+
+[[v19-132-14]]
+
+^<<v19-132-14,14>>^ “Este é o meu lugar de descanso para sempre;
+Aqui habitarei, pois esse é o meu desejo.
+
+[[v19-132-15]]
+
+^<<v19-132-15,15>>^ Eu a abençoarei grandemente com provisões;
+Fartarei de pão os seus pobres.
+
+[[v19-132-16]]
+
+^<<v19-132-16,16>>^ Seus sacerdotes, vestirei de salvação;
+E os seus leais gritarão de alegria.
+
+[[v19-132-17]]
+
+^<<v19-132-17,17>>^ Ali farei crescer o poder^&#42;1^ de Davi.
+Preparei uma lâmpada para o meu ungido.
+
+[NOTE]
+====
+. Lit.: “chifre”.
+====
+
+[[v19-132-18]]
+
+^<<v19-132-18,18>>^ Vestirei de vergonha os inimigos dele;
+Mas, em sua cabeça, a coroa^&#42;1^ florescerá.”
+
+[NOTE]
+====
+. Ou: “o diadema”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-131.adoc#v19-131-0[&#60; Capítulo Anterior] | <<v19-132-0,Topo>> | xref:019-salmo/019-salmo-133.adoc#v19-133-0[Próximo Capítulo &#62;]

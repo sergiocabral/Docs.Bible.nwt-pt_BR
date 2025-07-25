@@ -1,0 +1,158 @@
+include::./index.adoc[]
+
+[[v19-116-0]]
+=== Salmos, 116
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v19-116-1]]
+
+^<<v19-116-1,1>>^ Eu amo a Jeová,
+Porque ele ouve^&#42;1^ a minha voz, as minhas súplicas por ajuda.
+
+[NOTE]
+====
+. Ou, possivelmente: “Eu amo, porque Jeová ouve”.
+====
+
+[[v19-116-2]]
+
+^<<v19-116-2,2>>^ Pois ele inclina o seu ouvido para mim,^&#42;1^
+E eu o invocarei enquanto eu viver.^&#42;2^
+
+[NOTE]
+====
+. Ou: “se abaixa para me ouvir”.
+. Lit.: “nos meus dias”.
+====
+
+[[v19-116-3]]
+
+^<<v19-116-3,3>>^ Cercaram-me as cordas da morte;
+A Sepultura se apoderou de mim.^&#42;1^
+Fui dominado por aflição e tristeza.
+
+[NOTE]
+====
+. Lit.: “As aflições do Seol me encontraram”.
+====
+
+[[v19-116-4]]
+
+^<<v19-116-4,4>>^ Mas invoquei o nome de Jeová:
+“Ó Jeová, livra-me!”^&#42;1^
+
+[NOTE]
+====
+. Ou: “livra a minha alma”.
+====
+
+[[v19-116-5]]
+
+^<<v19-116-5,5>>^ Jeová é compassivo^&#42;1^ e justo;
+Nosso Deus é misericordioso.
+
+[NOTE]
+====
+. Ou: “benevolente”.
+====
+
+[[v19-116-6]]
+
+^<<v19-116-6,6>>^ Jeová guarda os inexperientes.
+Eu estava sem forças, e ele me salvou.
+
+[[v19-116-7]]
+
+^<<v19-116-7,7>>^ Que a minha alma^&#42;1^ descanse novamente,
+Pois Jeová agiu bondosamente comigo.
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v19-116-8]]
+
+^<<v19-116-8,8>>^ Tu me livraste^&#42;1^ da morte,
+Os meus olhos das lágrimas, o meu pé do tropeço.
+
+[NOTE]
+====
+. Ou: “Tu livraste a minha alma”.
+====
+
+[[v19-116-9]]
+
+^<<v19-116-9,9>>^ Andarei diante de Jeová na terra dos vivos.
+
+[[v19-116-10]]
+
+^<<v19-116-10,10>>^ Tive fé, pois falei;
+Eu estava muito aflito.
+
+[[v19-116-11]]
+
+^<<v19-116-11,11>>^ Entrei em pânico e disse:
+“Todo homem é mentiroso.”
+
+[[v19-116-12]]
+
+^<<v19-116-12,12>>^ Como vou retribuir a Jeová
+Todo o bem que me tem feito?
+
+[[v19-116-13]]
+
+^<<v19-116-13,13>>^ Levantarei o cálice da salvação,^&#42;1^
+E invocarei o nome de Jeová.
+
+[NOTE]
+====
+. Ou: “grandiosa salvação”.
+====
+
+[[v19-116-14]]
+
+^<<v19-116-14,14>>^ Cumprirei os meus votos a Jeová
+Na presença de todo o seu povo.
+
+[[v19-116-15]]
+
+^<<v19-116-15,15>>^ Dolorosa^&#42;1^ aos olhos de Jeová
+É a morte dos que lhe são leais.
+
+[NOTE]
+====
+. Lit.: “Preciosa”.
+====
+
+[[v19-116-16]]
+
+^<<v19-116-16,16>>^ Suplico a ti, ó Jeová,
+Pois sou teu servo.
+Sou teu servo, filho da tua escrava.
+Soltaste-me das minhas correntes.
+
+[[v19-116-17]]
+
+^<<v19-116-17,17>>^ Oferecerei a ti o sacrifício de agradecimento;
+Invocarei o nome de Jeová.
+
+[[v19-116-18]]
+
+^<<v19-116-18,18>>^ Cumprirei os meus votos a Jeová
+Na presença de todo o seu povo,
+
+[[v19-116-19]]
+
+^<<v19-116-19,19>>^ Nos pátios da casa de Jeová,
+No seu meio, ó Jerusalém.
+Louvem a Jah!^&#42;1^
+
+[NOTE]
+====
+. Ou: “Aleluia!” “Jah” é uma forma reduzida do nome Jeová.
+====
+
+'''
+
+xref:019-salmo/019-salmo-115.adoc#v19-115-0[&#60; Capítulo Anterior] | <<v19-116-0,Topo>> | xref:019-salmo/019-salmo-117.adoc#v19-117-0[Próximo Capítulo &#62;]
