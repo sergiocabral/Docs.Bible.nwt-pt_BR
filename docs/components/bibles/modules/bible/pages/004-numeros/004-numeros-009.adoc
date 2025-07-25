@@ -1,0 +1,137 @@
+include::./index.adoc[]
+
+[[v4-9-0]]
+=== Números, 9
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v4-9-1]]
+
+^<<v4-9-1,1>>^ Jeová falou a Moisés no deserto do Sinai, no primeiro mês do segundo ano depois que eles saíram da terra do Egito. Ele disse:
+
+[[v4-9-2]]
+
+^<<v4-9-2,2>>^ “Os israelitas devem preparar o sacrifício pascoal no tempo determinado.
+
+[[v4-9-3]]
+
+^<<v4-9-3,3>>^ Vocês devem prepará-lo no tempo determinado, no dia 14 deste mês, entre o pôr do sol e a noite.^&#42;1^ Devem prepará-lo segundo todas as leis e todo o procedimento estabelecido referentes à Páscoa.”
+
+[NOTE]
+====
+. Lit.: “entre os dois anoiteceres”.
+====
+
+[[v4-9-4]]
+
+^<<v4-9-4,4>>^ Então Moisés disse aos israelitas que preparassem o sacrifício pascoal.
+
+[[v4-9-5]]
+
+^<<v4-9-5,5>>^ E eles prepararam o sacrifício pascoal no dia 14 do primeiro mês, entre o pôr do sol e a noite,^&#42;1^ no deserto do Sinai. Os israelitas fizeram tudo o que Jeová havia ordenado a Moisés.
+
+[NOTE]
+====
+. Lit.: “entre os dois anoiteceres”.
+====
+
+[[v4-9-6]]
+
+^<<v4-9-6,6>>^ Mas havia alguns homens que tinham ficado impuros por terem tocado num cadáver,^&#42;1^ de modo que não puderam preparar o sacrifício pascoal naquele dia. Por isso, esses homens compareceram perante Moisés e Arão naquele dia
+
+[NOTE]
+====
+. Ou: “por uma alma humana”.
+====
+
+[[v4-9-7]]
+
+^<<v4-9-7,7>>^ e lhe disseram: “Ficamos impuros por ter tocado num cadáver.^&#42;1^ Por que devíamos ser impedidos de apresentar a Jeová a oferta no tempo determinado, junto com os outros israelitas?”
+
+[NOTE]
+====
+. Ou: “por causa de uma alma humana”.
+====
+
+[[v4-9-8]]
+
+^<<v4-9-8,8>>^ Então Moisés lhes disse: “Esperem ali, e eu ouvirei o que Jeová ordenará a respeito de vocês.”
+
+[[v4-9-9]]
+
+^<<v4-9-9,9>>^ Jeová disse então a Moisés:
+
+[[v4-9-10]]
+
+^<<v4-9-10,10>>^ “Diga aos israelitas: ‘Mesmo que alguém entre vocês ou das suas futuras gerações fique impuro por ter tocado num cadáver^&#42;1^ ou esteja numa viagem distante, ainda assim deve preparar o sacrifício pascoal para Jeová.
+
+[NOTE]
+====
+. Ou: “por uma alma”.
+====
+
+[[v4-9-11]]
+
+^<<v4-9-11,11>>^ Devem prepará-lo no segundo mês, no dia 14, entre o pôr do sol e a noite.^&#42;1^ Devem comê-lo com pães sem fermento e ervas amargas.
+
+[NOTE]
+====
+. Lit.: “entre os dois anoiteceres”.
+====
+
+[[v4-9-12]]
+
+^<<v4-9-12,12>>^ Não deixarão sobrar nada dele até a manhã seguinte nem devem quebrar nenhum osso dele. Devem prepará-lo segundo toda a lei referente à Páscoa.
+
+[[v4-9-13]]
+
+^<<v4-9-13,13>>^ Mas, se um homem estava limpo ou não estava em viagem, e não preparou o sacrifício pascoal, essa pessoa^&#42;1^ será eliminada do seu povo,^&#42;2^ porque não apresentou a oferta de Jeová no tempo determinado. Esse homem responderá pelo seu pecado.
+
+[NOTE]
+====
+. Ou: “alma”.
+. Isto é, será morta.
+====
+
+[[v4-9-14]]
+
+^<<v4-9-14,14>>^ “‘E, se um residente estrangeiro estiver morando entre vocês, ele também deve preparar o sacrifício pascoal para Jeová. Deve fazer isso segundo a lei referente à Páscoa e o procedimento estabelecido. Deve haver uma só lei para vocês, tanto para o residente estrangeiro como para o israelita de nascimento.’”
+
+[[v4-9-15]]
+
+^<<v4-9-15,15>>^ No dia em que o tabernáculo foi armado, a nuvem cobriu o tabernáculo — a tenda do Testemunho —, mas à noite algo que parecia ser fogo ficou sobre o tabernáculo até a manhã seguinte.
+
+[[v4-9-16]]
+
+^<<v4-9-16,16>>^ Isto é o que sempre acontecia: a nuvem o cobria de dia; e o que parecia ser fogo, de noite.
+
+[[v4-9-17]]
+
+^<<v4-9-17,17>>^ Sempre que a nuvem se elevava de cima da tenda, os israelitas partiam prontamente, e, no lugar onde a nuvem ficava parada, ali os israelitas acampavam.
+
+[[v4-9-18]]
+
+^<<v4-9-18,18>>^ Os israelitas partiam segundo a ordem de Jeová e acampavam segundo a ordem de Jeová. Enquanto a nuvem ficava sobre o tabernáculo, eles permaneciam acampados.
+
+[[v4-9-19]]
+
+^<<v4-9-19,19>>^ Quando a nuvem permanecia sobre o tabernáculo por muitos dias, os israelitas obedeciam a Jeová e não partiam.
+
+[[v4-9-20]]
+
+^<<v4-9-20,20>>^ Às vezes, a nuvem ficava poucos dias sobre o tabernáculo. Eles permaneciam acampados segundo a ordem de Jeová e partiam segundo a ordem de Jeová.
+
+[[v4-9-21]]
+
+^<<v4-9-21,21>>^ Às vezes, a nuvem ficava parada apenas do anoitecer até o amanhecer, e, quando a nuvem se elevava de manhã, eles partiam. Quer a nuvem se elevasse de dia quer de noite, eles partiam.
+
+[[v4-9-22]]
+
+^<<v4-9-22,22>>^ Enquanto a nuvem permanecesse sobre o tabernáculo, quer por dois dias, quer por um mês, quer por mais tempo, os israelitas permaneciam acampados e não partiam. Mas, quando ela se elevava, eles partiam.
+
+[[v4-9-23]]
+
+^<<v4-9-23,23>>^ Eles acampavam segundo a ordem de Jeová e partiam segundo a ordem de Jeová. Cumpriam a sua obrigação para com Jeová, segundo a ordem de Jeová dada por meio de Moisés.
+
+'''
+
+xref:004-numeros/004-numeros-008.adoc#v4-8-0[&#60; Capítulo Anterior] | <<v4-9-0,Topo>> | xref:004-numeros/004-numeros-010.adoc#v4-10-0[Próximo Capítulo &#62;]

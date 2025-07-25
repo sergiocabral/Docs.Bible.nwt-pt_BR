@@ -1,0 +1,134 @@
+include::./index.adoc[]
+
+[[v14-4-0]]
+=== O Segundo das Crônicas, 4
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v14-4-1]]
+
+^<<v14-4-1,1>>^ Então ele fez o altar de cobre, com 20 côvados de comprimento, 20 côvados de largura e 10 côvados de altura.
+
+[[v14-4-2]]
+
+^<<v14-4-2,2>>^ Depois fez o Mar,^&#42;1^ de metal fundido. Ele era circular, com 10 côvados de uma borda à outra e 5 côvados de altura, e era necessário uma corda de medir de 30 côvados para dar a volta nele.
+
+[NOTE]
+====
+. Ou: “reservatório”.
+====
+
+[[v14-4-3]]
+
+^<<v14-4-3,3>>^ Abaixo da borda, em toda a sua volta, havia enfeites em forma de cabaças, dez por côvado, circundando todo o Mar. As cabaças estavam em duas fileiras e tinham sido fundidas com ele numa só peça.
+
+[[v14-4-4]]
+
+^<<v14-4-4,4>>^ O Mar ficava sobre 12 touros, três voltados para o norte, três para o oeste, três para o sul, e três para o leste; o Mar ficava em cima deles, e a parte traseira deles estava voltada para o centro do Mar.
+
+[[v14-4-5]]
+
+^<<v14-4-5,5>>^ Ele tinha a espessura da largura da mão;^&#42;1^ a sua borda foi feita como a borda de um cálice, com o formato de uma flor de lírio. O reservatório tinha capacidade para 3.000 batos.^&#42;2^
+
+[NOTE]
+====
+. Cerca de 7,4 cm. Veja Ap. B14.
+. Um bato equivalia a 22 l. Veja Ap. B14.
+====
+
+[[v14-4-6]]
+
+^<<v14-4-6,6>>^ Além disso, ele fez dez bacias e pôs cinco do lado direito da casa e cinco do lado esquerdo. Nelas se lavava e enxaguava tudo que era usado para a oferta queimada. Mas a água do Mar era para os sacerdotes se lavarem.
+
+[[v14-4-7]]
+
+^<<v14-4-7,7>>^ Então ele fez dez candelabros de ouro de acordo com as especificações e os colocou no templo, cinco à direita e cinco à esquerda.
+
+[[v14-4-8]]
+
+^<<v14-4-8,8>>^ Fez também dez mesas e as colocou no templo, cinco à direita e cinco à esquerda; e fez cem tigelas de ouro.
+
+[[v14-4-9]]
+
+^<<v14-4-9,9>>^ Ele fez então o pátio dos sacerdotes e o pátio^&#42;1^ grande, bem como as portas do pátio grande; e revestiu de cobre as suas portas.
+
+[NOTE]
+====
+. Ou: “cercado”.
+====
+
+[[v14-4-10]]
+
+^<<v14-4-10,10>>^ E pôs o Mar do lado direito da casa, ao sudeste.
+
+[[v14-4-11]]
+
+^<<v14-4-11,11>>^ Hirão também fez os recipientes, as pás e as tigelas.
+Assim, Hirão terminou o trabalho que fez para o rei Salomão com respeito à casa do verdadeiro Deus:
+
+[[v14-4-12]]
+
+^<<v14-4-12,12>>^ as duas colunas e os capitéis em forma de tigela que ficavam no topo das duas colunas; as duas redes para cobrir os dois capitéis em forma de tigela que ficavam no topo das colunas;
+
+[[v14-4-13]]
+
+^<<v14-4-13,13>>^ as 400 romãs para as duas redes — duas fileiras de romãs para cada rede — para cobrir os dois capitéis em forma de tigela que ficavam nas colunas;
+
+[[v14-4-14]]
+
+^<<v14-4-14,14>>^ os dez carrinhos^&#42;1^ e as dez bacias nos carrinhos;
+
+[NOTE]
+====
+. Ou: “carrinhos de água”.
+====
+
+[[v14-4-15]]
+
+^<<v14-4-15,15>>^ o Mar e os 12 touros debaixo dele;
+
+[[v14-4-16]]
+
+^<<v14-4-16,16>>^ e os recipientes, as pás, os garfos e todos os utensílios relacionados. Hirão-Abi^&#42;1^ fez todas essas coisas de cobre polido para o rei Salomão, para a casa de Jeová.
+
+[NOTE]
+====
+. Lit.: “Hirão-Abive”, grafia variante.
+====
+
+[[v14-4-17]]
+
+^<<v14-4-17,17>>^ O rei as fundiu no distrito do Jordão, em argila grossa, entre Sucote e Zereda.
+
+[[v14-4-18]]
+
+^<<v14-4-18,18>>^ Salomão fez todos esses utensílios em grande quantidade; o peso do cobre não foi calculado.
+
+[[v14-4-19]]
+
+^<<v14-4-19,19>>^ Salomão fez os móveis e todos os utensílios para a casa do verdadeiro Deus: o altar de ouro; as mesas onde ficavam os pães da proposição;
+
+[[v14-4-20]]
+
+^<<v14-4-20,20>>^ os candelabros e suas lâmpadas, de ouro puro, para que ficassem acesas diante do compartimento interno, de acordo com as exigências;
+
+[[v14-4-21]]
+
+^<<v14-4-21,21>>^ as flores, as lâmpadas e os apagadores,^&#42;1^ de ouro, o ouro mais puro;
+
+[NOTE]
+====
+. Ou: “as tenazes”.
+====
+
+[[v14-4-22]]
+
+^<<v14-4-22,22>>^ os cortadores de pavio, as tigelas, as taças e os braseiros, de ouro puro; e a entrada da casa, as portas internas para o Santíssimo e as portas do templo,^&#42;1^ tudo de ouro.
+
+[NOTE]
+====
+. Ou: “da casa do templo”. Aqui se refere ao Santo.
+====
+
+'''
+
+xref:014-2-cronicas/014-2-cronicas-003.adoc#v14-3-0[&#60; Capítulo Anterior] | <<v14-4-0,Topo>> | xref:014-2-cronicas/014-2-cronicas-005.adoc#v14-5-0[Próximo Capítulo &#62;]

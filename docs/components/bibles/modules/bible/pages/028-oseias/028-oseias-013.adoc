@@ -1,0 +1,136 @@
+include::./index.adoc[]
+
+[[v28-13-0]]
+=== Oseias, 13
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v28-13-1]]
+
+^<<v28-13-1,1>>^ “Quando Efraim falava, causava tremor;
+Ele era importante em Israel.
+Mas se tornou culpado por adorar a Baal e morreu.
+
+[[v28-13-2]]
+
+^<<v28-13-2,2>>^ Agora pecam ainda mais
+E com a sua prata fazem estátuas de metal;^&#42;1^
+Com habilidade fazem ídolos, todos estes trabalho de artesãos.
+E dizem: ‘Que os homens que oferecem sacrifícios beijem os bezerros.’
+
+[NOTE]
+====
+. Ou: “estátuas fundidas”.
+====
+
+[[v28-13-3]]
+
+^<<v28-13-3,3>>^ Por isso se tornarão como a neblina da manhã,
+Como o orvalho que logo cedo desaparece,
+Como a palha^&#42;1^ levada da eira por um vendaval,
+E como a fumaça que sai pela chaminé.
+
+[NOTE]
+====
+. Ou: “pragana”.
+====
+
+[[v28-13-4]]
+
+^<<v28-13-4,4>>^ Mas eu sou Jeová, seu Deus, desde a terra do Egito.
+Você não conheceu outro Deus além de mim,
+E não há outro salvador, a não ser eu.
+
+[[v28-13-5]]
+
+^<<v28-13-5,5>>^ Conheci você no deserto, na terra da seca.
+
+[[v28-13-6]]
+
+^<<v28-13-6,6>>^ Eles ficaram satisfeitos com seus pastos,
+Ficaram satisfeitos e seu coração se tornou orgulhoso.
+E assim se esqueceram de mim.
+
+[[v28-13-7]]
+
+^<<v28-13-7,7>>^ Eu me tornarei para eles como um leão novo,
+Como um leopardo à espreita na beira do caminho.
+
+[[v28-13-8]]
+
+^<<v28-13-8,8>>^ Vou encontrá-los como uma ursa que perdeu seus filhotes,
+E vou rasgar o seu peito.^&#42;1^
+Ali os devorarei como um leão;
+Um animal selvagem os dilacerará.
+
+[NOTE]
+====
+. Lit.: “o envoltório do seu coração”.
+====
+
+[[v28-13-9]]
+
+^<<v28-13-9,9>>^ Visto que você se voltou contra mim, seu ajudador,
+Isso destruirá você, Israel.
+
+[[v28-13-10]]
+
+^<<v28-13-10,10>>^ Então, onde está o seu rei, para salvá-lo em todas as suas cidades,
+E seus governantes,^&#42;1^ sobre os quais você disse:
+‘Dá-me um rei e príncipes’?
+
+[NOTE]
+====
+. Lit.: “juízes”.
+====
+
+[[v28-13-11]]
+
+^<<v28-13-11,11>>^ Eu lhe dei um rei na minha ira,
+E na minha fúria o tirarei.
+
+[[v28-13-12]]
+
+^<<v28-13-12,12>>^ O erro de Efraim está guardado;^&#42;1^
+Seu pecado está armazenado.
+
+[NOTE]
+====
+. Ou: “embrulhado; preservado”.
+====
+
+[[v28-13-13]]
+
+^<<v28-13-13,13>>^ As dores de parto chegarão para ele.
+Mas ele é um filho insensato;
+Ele não se apresenta quando é hora de nascer.
+
+[[v28-13-14]]
+
+^<<v28-13-14,14>>^ Do poder da Sepultura^&#42;1^ os livrarei;
+Da morte os resgatarei.
+Onde estão os seus aguilhões, ó Morte?
+Onde está o seu poder de destruição, ó Sepultura?
+A compaixão ficará escondida dos meus olhos.
+
+[NOTE]
+====
+. Ou: “do Seol”, isto é, a sepultura comum da humanidade. Veja o Glossário.
+====
+
+[[v28-13-15]]
+
+^<<v28-13-15,15>>^ Mesmo que ele floresça entre os juncos,
+Virá um vento leste, o vento de Jeová;
+Ele virá do deserto para secar sua fonte e esgotar sua nascente.
+Ele saqueará seu tesouro, todas as suas coisas preciosas.
+
+[[v28-13-16]]
+
+^<<v28-13-16,16>>^ Samaria será considerada culpada, pois se rebelou contra o seu Deus.
+Eles cairão à espada.
+Seus filhos serão despedaçados,
+E o ventre das mulheres grávidas será rasgado.”
+
+'''
+
+xref:028-oseias/028-oseias-012.adoc#v28-12-0[&#60; Capítulo Anterior] | <<v28-13-0,Topo>> | xref:028-oseias/028-oseias-014.adoc#v28-14-0[Próximo Capítulo &#62;]

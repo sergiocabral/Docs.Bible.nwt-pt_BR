@@ -1,0 +1,207 @@
+include::./index.adoc[]
+
+[[v20-26-0]]
+=== Provérbios, 26
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v20-26-1]]
+
+^<<v20-26-1,1>>^ Como a neve no verão e a chuva na colheita,
+Assim a honra não é própria para o tolo.
+
+[[v20-26-2]]
+
+^<<v20-26-2,2>>^ Assim como o pássaro tem motivo para fugir e a andorinha para voar,
+Assim a maldição não vem sem nenhum motivo.^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “Assim a maldição injusta não se cumpre”.
+====
+
+[[v20-26-3]]
+
+^<<v20-26-3,3>>^ O chicote é para o cavalo, o freio é para o jumento,
+E a vara é para as costas dos tolos.
+
+[[v20-26-4]]
+
+^<<v20-26-4,4>>^ Não responda ao tolo de acordo com a tolice dele,
+Para que você não se iguale a ele.^&#42;1^
+
+[NOTE]
+====
+. Ou: “Para que você não se ponha no nível dele”.
+====
+
+[[v20-26-5]]
+
+^<<v20-26-5,5>>^ Responda ao tolo de acordo com a tolice dele,
+Para que ele não pense que é sábio.
+
+[[v20-26-6]]
+
+^<<v20-26-6,6>>^ Como alguém que mutila os próprios pés e prejudica a si mesmo,^&#42;1^
+Assim é quem confia seus assuntos ao tolo.
+
+[NOTE]
+====
+. Lit.: “bebe violência”.
+====
+
+[[v20-26-7]]
+
+^<<v20-26-7,7>>^ Como as pernas fracas^&#42;1^ de um manco,
+Assim é um provérbio na boca dos tolos.
+
+[NOTE]
+====
+. Ou: “frouxas”.
+====
+
+[[v20-26-8]]
+
+^<<v20-26-8,8>>^ Como amarrar uma pedra na funda,
+Assim é dar glória a um tolo.
+
+[[v20-26-9]]
+
+^<<v20-26-9,9>>^ Como uma planta espinhosa na mão do bêbado,
+Assim é um provérbio na boca dos tolos.
+
+[[v20-26-10]]
+
+^<<v20-26-10,10>>^ Como um arqueiro que fere ao acaso,^&#42;1^
+Assim é quem contrata o tolo ou qualquer um que passa.
+
+[NOTE]
+====
+. Ou: “fere a todos”.
+====
+
+[[v20-26-11]]
+
+^<<v20-26-11,11>>^ Assim como o cão que volta ao seu vômito,
+Assim o tolo repete a sua tolice.
+
+[[v20-26-12]]
+
+^<<v20-26-12,12>>^ Você já viu um homem que pensa que é sábio?
+Há mais esperança para um tolo do que para ele.
+
+[[v20-26-13]]
+
+^<<v20-26-13,13>>^ O preguiçoso diz: “Há um leão jovem na estrada,
+Há um leão no meio da rua!”^&#42;1^
+
+[NOTE]
+====
+. Ou: “na praça”.
+====
+
+[[v20-26-14]]
+
+^<<v20-26-14,14>>^ A porta gira em suas dobradiças,^&#42;1^
+E o preguiçoso em sua cama.
+
+[NOTE]
+====
+. Ou: “seus pivôs”.
+====
+
+[[v20-26-15]]
+
+^<<v20-26-15,15>>^ O preguiçoso enfia a mão na tigela,
+Mas fica cansado demais para levá-la de volta à boca.
+
+[[v20-26-16]]
+
+^<<v20-26-16,16>>^ O preguiçoso pensa que é mais sábio
+Do que sete pessoas que respondem de modo sensato.
+
+[[v20-26-17]]
+
+^<<v20-26-17,17>>^ Como alguém que agarra as orelhas de um cão
+É quem passa e fica furioso por causa da^&#42;1^ discussão dos outros.
+
+[NOTE]
+====
+. Ou, possivelmente: “e se intromete na”.
+====
+
+[[v20-26-18]]
+
+^<<v20-26-18,18>>^ Como um louco que atira dardos ardentes e flechas mortais,^&#42;1^
+
+[NOTE]
+====
+. Ou: “flechas e morte”.
+====
+
+[[v20-26-19]]
+
+^<<v20-26-19,19>>^ Assim é o homem que engana seu próximo e diz: “Eu só estava brincando!”
+
+[[v20-26-20]]
+
+^<<v20-26-20,20>>^ Onde não há lenha, apaga-se o fogo;
+E onde não há caluniador, acaba-se a discussão.
+
+[[v20-26-21]]
+
+^<<v20-26-21,21>>^ Como o carvão para as brasas e a lenha para o fogo,
+Assim é o homem briguento para atiçar uma discussão.
+
+[[v20-26-22]]
+
+^<<v20-26-22,22>>^ As palavras do caluniador são como petiscos saborosos,^&#42;1^
+Que são engolidos com facilidade e descem direto para o estômago.
+
+[NOTE]
+====
+. Ou: “como coisas a ser engolidas com avidez”.
+====
+
+[[v20-26-23]]
+
+^<<v20-26-23,23>>^ Como a prata que reveste um caco de barro,
+Assim são as palavras carinhosas vindas de^&#42;1^ um coração mau.
+
+[NOTE]
+====
+. Lit.: “os lábios fervorosos com”.
+====
+
+[[v20-26-24]]
+
+^<<v20-26-24,24>>^ Quem odeia outros disfarça isso com os lábios,
+Mas abriga falsidade dentro de si.
+
+[[v20-26-25]]
+
+^<<v20-26-25,25>>^ Apesar de ele falar de modo gentil, não acredite nele,
+Pois há sete coisas detestáveis no seu coração.^&#42;1^
+
+[NOTE]
+====
+. Ou: “Pois seu coração é totalmente detestável”.
+====
+
+[[v20-26-26]]
+
+^<<v20-26-26,26>>^ Embora seu ódio seja escondido pela falsidade,
+Sua maldade será exposta na congregação.
+
+[[v20-26-27]]
+
+^<<v20-26-27,27>>^ Quem cava um buraco cairá nele,
+E quem rola uma pedra será atingido por ela.
+
+[[v20-26-28]]
+
+^<<v20-26-28,28>>^ A língua mentirosa odeia aqueles a quem ela oprime,
+E a boca bajuladora causa ruína.
+
+'''
+
+xref:020-proverbios/020-proverbios-025.adoc#v20-25-0[&#60; Capítulo Anterior] | <<v20-26-0,Topo>> | xref:020-proverbios/020-proverbios-027.adoc#v20-27-0[Próximo Capítulo &#62;]

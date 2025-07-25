@@ -1,0 +1,71 @@
+include::./index.adoc[]
+
+[[v19-149-0]]
+=== Salmos, 149
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v19-149-1]]
+
+^<<v19-149-1,1>>^ Louvem a Jah!^&#42;1^
+Cantem a Jeová um novo cântico;
+Louvem-no na congregação dos leais.
+
+[NOTE]
+====
+. Ou: “Aleluia!” “Jah” é uma forma reduzida do nome Jeová.
+====
+
+[[v19-149-2]]
+
+^<<v19-149-2,2>>^ Alegre-se Israel com o Grandioso que o fez;
+Que os filhos de Sião se alegrem com o seu Rei.
+
+[[v19-149-3]]
+
+^<<v19-149-3,3>>^ Que eles louvem o seu nome com danças
+E lhe cantem louvores,^&#42;1^ ao acompanhamento do pandeiro e da harpa.
+
+[NOTE]
+====
+. Ou: “façam música”.
+====
+
+[[v19-149-4]]
+
+^<<v19-149-4,4>>^ Pois Jeová se agrada do seu povo,
+Adorna os mansos com salvação.
+
+[[v19-149-5]]
+
+^<<v19-149-5,5>>^ Que os leais se alegrem em glória,
+Gritem de alegria na sua cama.
+
+[[v19-149-6]]
+
+^<<v19-149-6,6>>^ Haja nos seus lábios canções de louvor a Deus,
+E na sua mão uma espada de dois gumes,
+
+[[v19-149-7]]
+
+^<<v19-149-7,7>>^ Para executar vingança sobre as nações
+E punição contra os povos,
+
+[[v19-149-8]]
+
+^<<v19-149-8,8>>^ Para prender seus reis com correntes
+E seus nobres com grilhões de ferro,
+
+[[v19-149-9]]
+
+^<<v19-149-9,9>>^ Para executar a sentença que está escrita contra eles.
+Essa honra pertence a todos os que lhe são leais.
+Louvem a Jah!^&#42;1^
+
+[NOTE]
+====
+. Ou: “Aleluia!” “Jah” é uma forma reduzida do nome Jeová.
+====
+
+'''
+
+xref:019-salmo/019-salmo-148.adoc#v19-148-0[&#60; Capítulo Anterior] | <<v19-149-0,Topo>> | xref:019-salmo/019-salmo-150.adoc#v19-150-0[Próximo Capítulo &#62;]

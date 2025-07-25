@@ -1,0 +1,172 @@
+include::./index.adoc[]
+
+[[v20-5-0]]
+=== Provérbios, 5
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v20-5-1]]
+
+^<<v20-5-1,1>>^ Meu filho, preste atenção à minha sabedoria.
+Escute atentamente o^&#42;1^ meu discernimento,
+
+[NOTE]
+====
+. Ou: “Incline seu ouvido ao”.
+====
+
+[[v20-5-2]]
+
+^<<v20-5-2,2>>^ Para que você proteja o seu raciocínio
+E resguarde o conhecimento com os seus lábios.
+
+[[v20-5-3]]
+
+^<<v20-5-3,3>>^ Pois os lábios da mulher imoral^&#42;1^ gotejam como um favo de mel,
+E sua boca é mais suave do que o azeite.
+
+[NOTE]
+====
+. Lit.: “estranha”. Veja Provérbios 2:16.
+====
+
+[[v20-5-4]]
+
+^<<v20-5-4,4>>^ Mas no fim ela é amarga como o absinto
+E afiada como uma espada de dois gumes.
+
+[[v20-5-5]]
+
+^<<v20-5-5,5>>^ Os pés dela descem para a morte.
+Seus passos levam diretamente para a Sepultura.^&#42;1^
+
+[NOTE]
+====
+. Ou: “o Seol”, isto é, a sepultura comum da humanidade. Veja o Glossário.
+====
+
+[[v20-5-6]]
+
+^<<v20-5-6,6>>^ Ela não dá atenção ao caminho da vida.
+Anda sem rumo, sem saber para onde vai.
+
+[[v20-5-7]]
+
+^<<v20-5-7,7>>^ Agora, meus filhos, escutem-me,
+E não se desviem do que eu digo.
+
+[[v20-5-8]]
+
+^<<v20-5-8,8>>^ Fique longe dela;
+Não se aproxime da entrada da sua casa,
+
+[[v20-5-9]]
+
+^<<v20-5-9,9>>^ Para que você não dê a sua dignidade a outros,
+Nem tenha anos de sofrimento;^&#42;1^
+
+[NOTE]
+====
+. Lit.: “E os seus anos ao que é cruel”.
+====
+
+[[v20-5-10]]
+
+^<<v20-5-10,10>>^ Para que estranhos não esgotem os seus recursos,^&#42;1^
+E o fruto do seu trabalho árduo não acabe na casa de um estrangeiro.
+
+[NOTE]
+====
+. Ou: “o seu poder”.
+====
+
+[[v20-5-11]]
+
+^<<v20-5-11,11>>^ Caso contrário, você vai gemer no fim da sua vida,
+Quando a sua carne e o seu corpo definharem,
+
+[[v20-5-12]]
+
+^<<v20-5-12,12>>^ E você disser: “Como eu odiei a disciplina!
+Como o meu coração desprezou a repreensão!
+
+[[v20-5-13]]
+
+^<<v20-5-13,13>>^ Não escutei a voz dos meus instrutores,
+Nem prestei atenção aos meus mestres.
+
+[[v20-5-14]]
+
+^<<v20-5-14,14>>^ Quase caí em completa ruína
+À vista de toda a congregação.”^&#42;1^
+
+[NOTE]
+====
+. Lit.: “No meio da assembleia e da congregação”.
+====
+
+[[v20-5-15]]
+
+^<<v20-5-15,15>>^ Beba a água da sua própria cisterna
+E a água que brota^&#42;1^ do seu próprio poço.
+
+[NOTE]
+====
+. Ou: “água fresca”.
+====
+
+[[v20-5-16]]
+
+^<<v20-5-16,16>>^ Deveriam suas fontes se derramar pelas ruas,
+Suas correntes de água nas praças?
+
+[[v20-5-17]]
+
+^<<v20-5-17,17>>^ Que elas sejam somente para você
+E não repartidas com estranhos.
+
+[[v20-5-18]]
+
+^<<v20-5-18,18>>^ Seja abençoada a sua própria fonte,
+E alegre-se com a esposa da sua juventude,
+
+[[v20-5-19]]
+
+^<<v20-5-19,19>>^ Amável corça, graciosa cabra-montesa.^&#42;1^
+Que os seus seios o satisfaçam^&#42;2^ todo o tempo.
+Que o amor dela sempre o extasie.
+
+[NOTE]
+====
+. Também conhecida como íbex.
+. Ou: “inebriem”.
+====
+
+[[v20-5-20]]
+
+^<<v20-5-20,20>>^ Então, meu filho, por que você se deixaria extasiar por uma mulher devassa,^&#42;1^
+Ou abraçaria o seio de uma mulher imoral?^&#42;2^
+
+[NOTE]
+====
+. Lit.: “estranha”. Veja Provérbios 2:16.
+. Lit.: “estrangeira”. Veja Provérbios 2:16.
+====
+
+[[v20-5-21]]
+
+^<<v20-5-21,21>>^ Pois os caminhos do homem estão diante dos olhos de Jeová;
+Ele examina todas as suas veredas.
+
+[[v20-5-22]]
+
+^<<v20-5-22,22>>^ Quem é mau é enlaçado pelos seus próprios erros,
+E será apanhado nas cordas do seu próprio pecado.
+
+[[v20-5-23]]
+
+^<<v20-5-23,23>>^ Morrerá por falta de disciplina
+E se perderá na sua imensa tolice.
+
+'''
+
+xref:020-proverbios/020-proverbios-004.adoc#v20-4-0[&#60; Capítulo Anterior] | <<v20-5-0,Topo>> | xref:020-proverbios/020-proverbios-006.adoc#v20-6-0[Próximo Capítulo &#62;]

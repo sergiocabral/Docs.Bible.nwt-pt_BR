@@ -1,0 +1,154 @@
+include::./index.adoc[]
+
+[[v18-16-0]]
+=== Jó, 16
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v18-16-1]]
+
+^<<v18-16-1,1>>^ Jó disse em resposta:
+
+[[v18-16-2]]
+
+^<<v18-16-2,2>>^ “Já ouvi muitas coisas como essas.
+Em vez de darem consolo, vocês afligem ainda mais!
+
+[[v18-16-3]]
+
+^<<v18-16-3,3>>^ Será que essas palavras vazias^&#42;1^ não terão fim?
+O que leva você a falar assim?
+
+[NOTE]
+====
+. Ou: “de vento”.
+====
+
+[[v18-16-4]]
+
+^<<v18-16-4,4>>^ Eu também poderia falar como vocês.
+Se estivessem no meu lugar,^&#42;1^
+Eu poderia fazer belos discursos contra vocês
+E balançar a cabeça contra vocês.
+
+[NOTE]
+====
+. Ou: “Se a alma de vocês estivesse no lugar da minha alma”.
+====
+
+[[v18-16-5]]
+
+^<<v18-16-5,5>>^ Mas, em vez de fazer isso, eu os fortaleceria com as palavras da minha boca,
+E o consolo dos meus lábios traria alívio.
+
+[[v18-16-6]]
+
+^<<v18-16-6,6>>^ Se eu falo, minha dor não alivia,
+E, se paro de falar, até que ponto minha dor diminui?
+
+[[v18-16-7]]
+
+^<<v18-16-7,7>>^ Mas agora ele me fez ficar exausto;
+Destruiu todos os da minha casa.^&#42;1^
+
+[NOTE]
+====
+. Ou: “todos os que se reúnem comigo”.
+====
+
+[[v18-16-8]]
+
+^<<v18-16-8,8>>^ Além disso, tu me agarras, e isso dá testemunho contra mim,
+E minha própria magreza se levanta e testemunha contra mim.
+
+[[v18-16-9]]
+
+^<<v18-16-9,9>>^ A ira dele me dilacerou, e ele tem rancor de mim.
+Contra mim, ele range os dentes.
+Meu adversário me traspassa com os olhos.
+
+[[v18-16-10]]
+
+^<<v18-16-10,10>>^ Eles abrem bem a boca para me devorar
+E me dão bofetadas com desprezo;
+Unem-se contra mim em grandes números.
+
+[[v18-16-11]]
+
+^<<v18-16-11,11>>^ Deus me entrega a garotos,
+E me lança nas mãos dos maus.
+
+[[v18-16-12]]
+
+^<<v18-16-12,12>>^ Eu estava tranquilo, mas ele me despedaçou;
+Ele me agarrou pela nuca e me esmagou,
+E fez de mim o seu alvo.
+
+[[v18-16-13]]
+
+^<<v18-16-13,13>>^ Seus arqueiros me cercam;
+Ele traspassa meus rins e não tem compaixão,
+Derrama a minha bílis na terra.
+
+[[v18-16-14]]
+
+^<<v18-16-14,14>>^ Ele avança contra mim abrindo brechas;
+Corre contra mim como um guerreiro.
+
+[[v18-16-15]]
+
+^<<v18-16-15,15>>^ Costurei pano de saco para cobrir minha pele,
+E enterrei minha dignidade^&#42;1^ no pó.
+
+[NOTE]
+====
+. Ou: “minha força”. Lit.: “meu chifre”.
+====
+
+[[v18-16-16]]
+
+^<<v18-16-16,16>>^ Meu rosto está vermelho de tanto chorar,
+E há escuridão^&#42;1^ em volta dos meus olhos.
+
+[NOTE]
+====
+. Ou: “sombra de morte”.
+====
+
+[[v18-16-17]]
+
+^<<v18-16-17,17>>^ No entanto, não há violência nas minhas mãos,
+E minha oração é pura.
+
+[[v18-16-18]]
+
+^<<v18-16-18,18>>^ Ó terra, não cubra o meu sangue!
+E que não haja nenhum lugar de descanso para o meu clamor!
+
+[[v18-16-19]]
+
+^<<v18-16-19,19>>^ Agora mesmo minha testemunha está nos céus;
+Aquele que pode testemunhar a meu favor está nas alturas.
+
+[[v18-16-20]]
+
+^<<v18-16-20,20>>^ Meus amigos zombam de mim,
+Enquanto meus olhos derramam lágrimas^&#42;1^ para Deus.
+
+[NOTE]
+====
+. Ou, possivelmente: “olham sem sono”.
+====
+
+[[v18-16-21]]
+
+^<<v18-16-21,21>>^ Que alguém julgue entre um homem e Deus,
+Assim como acontece entre um homem e seu próximo.
+
+[[v18-16-22]]
+
+^<<v18-16-22,22>>^ Pois os anos que restam são poucos,
+E irei embora pelo caminho que não tem volta.
+
+'''
+
+xref:018-jo/018-jo-015.adoc#v18-15-0[&#60; Capítulo Anterior] | <<v18-16-0,Topo>> | xref:018-jo/018-jo-017.adoc#v18-17-0[Próximo Capítulo &#62;]

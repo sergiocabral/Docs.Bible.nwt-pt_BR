@@ -1,0 +1,248 @@
+include::./index.adoc[]
+
+[[v43-5-0]]
+=== Segundo João, 5
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v43-5-1]]
+
+^<<v43-5-1,1>>^ Depois disso houve uma festividade dos judeus, e Jesus subiu a Jerusalém.
+
+[[v43-5-2]]
+
+^<<v43-5-2,2>>^ Em Jerusalém, junto ao Portão das Ovelhas, há um reservatório com cinco pórticos,^&#42;1^ chamado em hebraico de Betezata.
+
+[NOTE]
+====
+. Ou: “colunatas”.
+====
+
+[[v43-5-3]]
+
+^<<v43-5-3,3>>^ Naquele lugar se deitava uma multidão de doentes, cegos, mancos e pessoas que tinham membros atrofiados.^&#42;1^
+
+[NOTE]
+====
+. Ou: “paralisados”.
+====
+
+[[v43-5-4]]
+
+^<<v43-5-4,4>>^ ^&#42;1^——
+
+[NOTE]
+====
+. Veja Ap. A3.
+====
+
+[[v43-5-5]]
+
+^<<v43-5-5,5>>^ E ali havia um homem que já estava doente por 38 anos.
+
+[[v43-5-6]]
+
+^<<v43-5-6,6>>^ Vendo aquele homem deitado ali, e sabendo que ele já estava doente por muito tempo, Jesus lhe disse: “Você quer ficar bom?”
+
+[[v43-5-7]]
+
+^<<v43-5-7,7>>^ O doente respondeu: “Senhor, não tenho ninguém para me colocar no reservatório quando a água fica agitada; mas, quando eu estou indo, outro desce na minha frente.”
+
+[[v43-5-8]]
+
+^<<v43-5-8,8>>^ Jesus lhe disse: “Levante-se! Pegue a sua esteira^&#42;1^ e ande.”
+
+[NOTE]
+====
+. Ou: “cama”.
+====
+
+[[v43-5-9]]
+
+^<<v43-5-9,9>>^ E o homem ficou imediatamente bom, pegou a sua esteira^&#42;1^ e começou a andar.
+Aquele dia era sábado.
+
+[NOTE]
+====
+. Ou: “cama”.
+====
+
+[[v43-5-10]]
+
+^<<v43-5-10,10>>^ Por isso, os judeus começaram a dizer ao homem que havia sido curado: “Hoje é sábado; não é permitido que você carregue a esteira.”^&#42;1^
+
+[NOTE]
+====
+. Ou: “cama”.
+====
+
+[[v43-5-11]]
+
+^<<v43-5-11,11>>^ Mas ele lhes respondeu: “O mesmo homem que me curou disse: ‘Pegue a sua esteira^&#42;1^ e ande.’”
+
+[NOTE]
+====
+. Ou: “cama”.
+====
+
+[[v43-5-12]]
+
+^<<v43-5-12,12>>^ Eles lhe perguntaram: “Quem é o homem que lhe disse: ‘Pegue-a e ande’?”
+
+[[v43-5-13]]
+
+^<<v43-5-13,13>>^ Mas o homem que havia sido curado não sabia quem ele era, pois Jesus tinha desaparecido no meio da multidão que estava ali.
+
+[[v43-5-14]]
+
+^<<v43-5-14,14>>^ Depois disso, Jesus o encontrou no templo e lhe disse: “Veja, você ficou bom. Não peque mais, para que não lhe aconteça algo pior.”
+
+[[v43-5-15]]
+
+^<<v43-5-15,15>>^ O homem foi embora e disse aos judeus que tinha sido Jesus quem o havia curado.
+
+[[v43-5-16]]
+
+^<<v43-5-16,16>>^ Por isso os judeus perseguiam Jesus, porque ele fazia essas coisas durante o sábado.
+
+[[v43-5-17]]
+
+^<<v43-5-17,17>>^ Ele lhes disse então: “Meu Pai está trabalhando até agora, e eu estou trabalhando.”
+
+[[v43-5-18]]
+
+^<<v43-5-18,18>>^ É por isso que os judeus procuravam ainda mais matá-lo, porque ele não somente violava o sábado, mas também chamava a Deus de seu próprio Pai, fazendo-se igual a Deus.
+
+[[v43-5-19]]
+
+^<<v43-5-19,19>>^ Em vista disso, Jesus lhes disse: “Digo-lhes com toda a certeza: O Filho não pode fazer nem uma única coisa de sua própria iniciativa, mas somente o que ele vê o Pai fazer. Pois as coisas que Ele faz, o Filho também faz da mesma maneira.
+
+[[v43-5-20]]
+
+^<<v43-5-20,20>>^ Pois o Pai ama o^&#42;1^ Filho e lhe mostra todas as coisas que Ele mesmo faz, e lhe mostrará obras maiores do que essas, para que vocês fiquem maravilhados.
+
+[NOTE]
+====
+. Ou: “tem afeição pelo”.
+====
+
+[[v43-5-21]]
+
+^<<v43-5-21,21>>^ Pois, assim como o Pai levanta os mortos e lhes dá vida, assim também o Filho dá vida a quem ele quer.
+
+[[v43-5-22]]
+
+^<<v43-5-22,22>>^ Pois o Pai não julga a ninguém, mas confiou todo o julgamento ao Filho,
+
+[[v43-5-23]]
+
+^<<v43-5-23,23>>^ para que todos honrem o Filho, assim como honram o Pai. Quem não honra o Filho não honra o Pai, que o enviou.
+
+[[v43-5-24]]
+
+^<<v43-5-24,24>>^ Digo-lhes com toda a certeza: Quem ouve as minhas palavras e acredita naquele que me enviou tem vida eterna, e não será julgado, mas passou da morte para a vida.
+
+[[v43-5-25]]
+
+^<<v43-5-25,25>>^ “Digo-lhes com toda a certeza: Vem a hora, e agora é, em que os mortos ouvirão a voz do Filho de Deus, e os que tiverem dado atenção viverão.
+
+[[v43-5-26]]
+
+^<<v43-5-26,26>>^ Pois assim como o Pai tem vida em si mesmo,^&#42;1^ assim concedeu também ao Filho ter vida em si mesmo.
+
+[NOTE]
+====
+. Ou: “tem em si mesmo o dom da vida”.
+====
+
+[[v43-5-27]]
+
+^<<v43-5-27,27>>^ E deu a ele autoridade para julgar, porque ele é o Filho do Homem.
+
+[[v43-5-28]]
+
+^<<v43-5-28,28>>^ Não fiquem admirados com isso, pois vem a hora em que todos os que estão nos túmulos memoriais ouvirão a voz dele
+
+[[v43-5-29]]
+
+^<<v43-5-29,29>>^ e sairão: os que fizeram coisas boas, para uma ressurreição de vida; e os que praticaram coisas ruins, para uma ressurreição de julgamento.
+
+[[v43-5-30]]
+
+^<<v43-5-30,30>>^ Não posso fazer nem uma única coisa de minha própria iniciativa. Assim como ouço, eu julgo, e o meu julgamento é justo, porque não procuro fazer a minha própria vontade, mas a vontade daquele que me enviou.
+
+[[v43-5-31]]
+
+^<<v43-5-31,31>>^ “Se apenas eu der testemunho de mim, o meu testemunho não é verdadeiro.
+
+[[v43-5-32]]
+
+^<<v43-5-32,32>>^ Há outro que dá testemunho de mim, e eu sei que o testemunho que ele dá de mim é verdadeiro.
+
+[[v43-5-33]]
+
+^<<v43-5-33,33>>^ Vocês enviaram homens a João, e ele deu testemunho da verdade.
+
+[[v43-5-34]]
+
+^<<v43-5-34,34>>^ No entanto, não aceito o testemunho de um homem, mas digo essas coisas para que vocês sejam salvos.
+
+[[v43-5-35]]
+
+^<<v43-5-35,35>>^ Aquele homem era uma lâmpada acesa e brilhante, e por pouco tempo vocês estavam dispostos a se alegrar muito na sua luz.
+
+[[v43-5-36]]
+
+^<<v43-5-36,36>>^ Mas eu tenho um testemunho maior do que o de João, porque as próprias obras que o meu Pai me designou para realizar, as obras que eu faço, dão testemunho de que o Pai me enviou.
+
+[[v43-5-37]]
+
+^<<v43-5-37,37>>^ E o próprio Pai, que me enviou, deu testemunho de mim. Vocês jamais ouviram a voz dele nem viram a sua forma,
+
+[[v43-5-38]]
+
+^<<v43-5-38,38>>^ e a palavra dele não reside em vocês, porque vocês não acreditam naquele que ele enviou.
+
+[[v43-5-39]]
+
+^<<v43-5-39,39>>^ “Vocês pesquisam as Escrituras porque pensam que terão vida eterna por meio delas, e são elas mesmas que dão testemunho de mim.
+
+[[v43-5-40]]
+
+^<<v43-5-40,40>>^ Contudo, vocês não querem vir a mim para que possam ter vida.
+
+[[v43-5-41]]
+
+^<<v43-5-41,41>>^ Não aceito glória de homens,
+
+[[v43-5-42]]
+
+^<<v43-5-42,42>>^ mas eu bem sei que vocês não têm dentro de si o amor de^&#42;1^ Deus.
+
+[NOTE]
+====
+. Ou: “a”.
+====
+
+[[v43-5-43]]
+
+^<<v43-5-43,43>>^ Vim em nome do meu Pai, mas vocês não me receberam. Se outro viesse no seu próprio nome, vocês o receberiam.
+
+[[v43-5-44]]
+
+^<<v43-5-44,44>>^ Como vocês podem crer, se aceitam glória uns dos outros e não procuram a glória que vem do único Deus?
+
+[[v43-5-45]]
+
+^<<v43-5-45,45>>^ Não pensem que eu os acusarei perante o Pai; há alguém que os acusa: Moisés, em quem vocês depositaram a sua esperança.
+
+[[v43-5-46]]
+
+^<<v43-5-46,46>>^ De fato, se acreditassem em Moisés, vocês acreditariam em mim, porque ele escreveu a meu respeito.
+
+[[v43-5-47]]
+
+^<<v43-5-47,47>>^ Mas, se vocês não acreditam nos escritos dele, como acreditarão no que eu digo?”
+
+'''
+
+xref:043-joao/043-joao-004.adoc#v43-4-0[&#60; Capítulo Anterior] | <<v43-5-0,Topo>> | xref:043-joao/043-joao-006.adoc#v43-6-0[Próximo Capítulo &#62;]

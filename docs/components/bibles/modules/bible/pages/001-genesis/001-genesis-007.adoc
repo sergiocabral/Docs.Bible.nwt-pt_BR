@@ -1,0 +1,146 @@
+include::./index.adoc[]
+
+[[v1-7-0]]
+=== Gênesis, 7
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v1-7-1]]
+
+^<<v1-7-1,1>>^ Depois disso, Jeová disse a Noé: “Entre na arca, você e todos os da sua casa, porque você é quem eu vi ser justo diante de mim no meio desta geração.
+
+[[v1-7-2]]
+
+^<<v1-7-2,2>>^ De cada tipo de animal puro, leve sete^&#42;1^ com você, machos e fêmeas; e, de cada animal impuro, leve apenas dois, o macho e a fêmea;
+
+[NOTE]
+====
+. Ou, possivelmente: “Leve sete pares de cada animal puro”.
+====
+
+[[v1-7-3]]
+
+^<<v1-7-3,3>>^ também, de cada criatura voadora do céu, leve sete,^&#42;1^ machos e fêmeas, para preservar viva a descendência deles sobre toda a terra.
+
+[NOTE]
+====
+. Ou, possivelmente: “leve sete pares de cada criatura voadora do céu”.
+====
+
+[[v1-7-4]]
+
+^<<v1-7-4,4>>^ Pois, em apenas sete dias, farei que chova sobre a terra por 40 dias e 40 noites, e vou eliminar da face da terra todos os seres vivos que fiz.”
+
+[[v1-7-5]]
+
+^<<v1-7-5,5>>^ Então Noé fez tudo que Jeová lhe havia mandado.
+
+[[v1-7-6]]
+
+^<<v1-7-6,6>>^ Noé tinha 600 anos de idade quando o dilúvio de águas veio sobre a terra.
+
+[[v1-7-7]]
+
+^<<v1-7-7,7>>^ Assim, antes de virem as águas do dilúvio, Noé entrou na arca com seus filhos, sua esposa e as esposas dos seus filhos.
+
+[[v1-7-8]]
+
+^<<v1-7-8,8>>^ De cada animal puro, de cada animal impuro, das criaturas voadoras e de tudo o que se move sobre o solo,
+
+[[v1-7-9]]
+
+^<<v1-7-9,9>>^ os pares foram a Noé dentro da arca, macho e fêmea, assim como Deus havia ordenado a Noé.
+
+[[v1-7-10]]
+
+^<<v1-7-10,10>>^ E sete dias depois vieram as águas do dilúvio sobre a terra.
+
+[[v1-7-11]]
+
+^<<v1-7-11,11>>^ No seiscentésimo ano da vida de Noé, no segundo mês, no dia 17 do mês, nesse dia rebentaram todos os mananciais das vastas águas profundas e abriram-se as comportas dos céus.
+
+[[v1-7-12]]
+
+^<<v1-7-12,12>>^ E a chuva caiu sobre a terra por 40 dias e 40 noites.
+
+[[v1-7-13]]
+
+^<<v1-7-13,13>>^ Nesse mesmo dia, Noé entrou na arca junto com seus filhos, Sem, Cã e Jafé, e com sua esposa e as esposas dos seus três filhos.
+
+[[v1-7-14]]
+
+^<<v1-7-14,14>>^ Eles entraram com todo animal selvagem segundo a sua espécie, todo animal doméstico segundo a sua espécie, todo animal rasteiro da terra segundo a sua espécie e toda criatura voadora segundo a sua espécie, toda ave, toda criatura alada.
+
+[[v1-7-15]]
+
+^<<v1-7-15,15>>^ Eles continuaram a ir a Noé, dentro da arca, de dois em dois, todo tipo de animais^&#42;1^ em que havia o fôlego de vida.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “carne”.
+. Ou: “o espírito de vida”.
+====
+
+[[v1-7-16]]
+
+^<<v1-7-16,16>>^ Assim eles entraram, macho e fêmea de todo tipo de animais,^&#42;1^ como Deus havia ordenado a ele. Depois, Jeová fechou a porta.
+
+[NOTE]
+====
+. Lit.: “carne”.
+====
+
+[[v1-7-17]]
+
+^<<v1-7-17,17>>^ O dilúvio continuou^&#42;1^ por 40 dias sobre a terra, e as águas continuaram a aumentar e começaram a carregar a arca, e ela flutuava nas águas acima da terra.
+
+[NOTE]
+====
+. Ou: “continuou vindo”.
+====
+
+[[v1-7-18]]
+
+^<<v1-7-18,18>>^ As águas prevaleceram e continuaram a aumentar muito sobre a terra, mas a arca flutuava na superfície das águas.
+
+[[v1-7-19]]
+
+^<<v1-7-19,19>>^ As águas inundaram a terra de tal modo que todas as montanhas altas debaixo de todo o céu foram cobertas.
+
+[[v1-7-20]]
+
+^<<v1-7-20,20>>^ As águas subiram até 15 côvados^&#42;1^ acima das montanhas.
+
+[NOTE]
+====
+. Um côvado equivalia a 44,5 cm. Veja Ap. B14.
+====
+
+[[v1-7-21]]
+
+^<<v1-7-21,21>>^ Assim, morreram todas as criaturas viventes que se moviam^&#42;1^ na terra — as criaturas voadoras, os animais domésticos, os animais selvagens, as pequenas criaturas que fervilham na terra e toda a humanidade.
+
+[NOTE]
+====
+. Lit.: “expirou toda carne que se movia”.
+====
+
+[[v1-7-22]]
+
+^<<v1-7-22,22>>^ Morreu tudo que havia no solo seco e que tinha nas narinas o fôlego de vida.^&#42;1^
+
+[NOTE]
+====
+. Ou: “o fôlego do espírito de vida”.
+====
+
+[[v1-7-23]]
+
+^<<v1-7-23,23>>^ Assim Ele exterminou da face da terra todos os seres vivos — os homens, os animais, os animais rasteiros e as criaturas voadoras dos céus. Foram todos eliminados da terra; somente Noé e os que estavam com ele na arca sobreviveram.
+
+[[v1-7-24]]
+
+^<<v1-7-24,24>>^ E as águas prevaleceram sobre a terra por 150 dias.
+
+'''
+
+xref:001-genesis/001-genesis-006.adoc#v1-6-0[&#60; Capítulo Anterior] | <<v1-7-0,Topo>> | xref:001-genesis/001-genesis-008.adoc#v1-8-0[Próximo Capítulo &#62;]

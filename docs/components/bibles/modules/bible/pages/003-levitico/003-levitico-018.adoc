@@ -1,0 +1,175 @@
+include::./index.adoc[]
+
+[[v3-18-0]]
+=== Levítico, 18
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v3-18-1]]
+
+^<<v3-18-1,1>>^ Jeová disse ainda a Moisés:
+
+[[v3-18-2]]
+
+^<<v3-18-2,2>>^ “Diga aos israelitas: ‘Eu sou Jeová, seu Deus.
+
+[[v3-18-3]]
+
+^<<v3-18-3,3>>^ Não se comportem como o povo da terra do Egito, onde vocês moravam, e não façam o que as pessoas fazem na terra de Canaã, a terra para a qual os estou levando. Não andem nos decretos deles.
+
+[[v3-18-4]]
+
+^<<v3-18-4,4>>^ Vocês devem cumprir as minhas decisões judiciais, e devem guardar os meus decretos e andar neles. Eu sou Jeová, seu Deus.
+
+[[v3-18-5]]
+
+^<<v3-18-5,5>>^ Guardem os meus decretos e as minhas decisões judiciais; quem fizer isso viverá por meio deles. Eu sou Jeová.
+
+[[v3-18-6]]
+
+^<<v3-18-6,6>>^ “‘Nenhum de vocês deve se aproximar de um parente próximo para ter relações sexuais com ele.^&#42;1^ Eu sou Jeová.
+
+[NOTE]
+====
+. Lit.: “descobrir a nudez”, neste v. e nas ocorrências seguintes.
+====
+
+[[v3-18-7]]
+
+^<<v3-18-7,7>>^ Não tenha relações sexuais com seu pai nem tenha relações sexuais com sua mãe. Ela é sua mãe; não tenha relações sexuais com ela.
+
+[[v3-18-8]]
+
+^<<v3-18-8,8>>^ “‘Não tenha relações sexuais com a esposa do seu pai. Isso exporia seu pai à vergonha.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “É a nudez do seu pai.”
+====
+
+[[v3-18-9]]
+
+^<<v3-18-9,9>>^ “‘Não tenha relações sexuais com sua irmã, seja ela filha do seu pai, seja filha da sua mãe, quer ela tenha nascido na mesma casa, quer fora dela.
+
+[[v3-18-10]]
+
+^<<v3-18-10,10>>^ “‘Não tenha relações sexuais com a filha do seu filho ou com a filha da sua filha, porque isso seria uma desonra para você.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “eles são sua nudez”.
+====
+
+[[v3-18-11]]
+
+^<<v3-18-11,11>>^ “‘Não tenha relações sexuais com a filha da esposa do seu pai, descendente do seu pai, visto que ela é sua irmã.
+
+[[v3-18-12]]
+
+^<<v3-18-12,12>>^ “‘Não tenha relações sexuais com a irmã do seu pai. Ela é parente consanguínea do seu pai.
+
+[[v3-18-13]]
+
+^<<v3-18-13,13>>^ “‘Não tenha relações sexuais com a irmã da sua mãe, porque ela é parente consanguínea da sua mãe.
+
+[[v3-18-14]]
+
+^<<v3-18-14,14>>^ “‘Não exponha o irmão do seu pai à vergonha^&#42;1^ por ter relações sexuais com a esposa dele. Ela é sua tia.
+
+[NOTE]
+====
+. Lit.: “Não exponha a nudez do irmão do seu pai”.
+====
+
+[[v3-18-15]]
+
+^<<v3-18-15,15>>^ “‘Não tenha relações sexuais com sua nora. Ela é esposa do seu filho; não tenha relações sexuais com ela.
+
+[[v3-18-16]]
+
+^<<v3-18-16,16>>^ “‘Não tenha relações sexuais com a esposa do seu irmão, pois isso exporia seu irmão à vergonha.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “isso é a nudez do seu irmão”.
+====
+
+[[v3-18-17]]
+
+^<<v3-18-17,17>>^ “‘Não tenha relações sexuais com uma mulher e com a filha dela. Não tome a filha do filho dela, nem a filha da filha dela, para ter relações sexuais. Elas são parentes próximos dela; isso é um ato obsceno.^&#42;1^
+
+[NOTE]
+====
+. Ou: “conduta vergonhosa; indecência”.
+====
+
+[[v3-18-18]]
+
+^<<v3-18-18,18>>^ “‘Não tome a irmã da sua esposa como esposa rival para também ter relações sexuais com ela enquanto a sua esposa estiver viva.
+
+[[v3-18-19]]
+
+^<<v3-18-19,19>>^ “‘Não se aproxime de uma mulher para ter relações sexuais com ela enquanto estiver impura por causa da sua menstruação.
+
+[[v3-18-20]]
+
+^<<v3-18-20,20>>^ “‘Não tenha relações sexuais com a esposa do seu próximo,^&#42;1^ tornando-se assim impuro.
+
+[NOTE]
+====
+. Ou: “vizinho; colega”.
+====
+
+[[v3-18-21]]
+
+^<<v3-18-21,21>>^ “‘Não permita que um dos seus descendentes seja oferecido^&#42;1^ a Moloque. Não profane assim o nome do seu Deus. Eu sou Jeová.
+
+[NOTE]
+====
+. Ou: “devotado; sacrificado”.
+====
+
+[[v3-18-22]]
+
+^<<v3-18-22,22>>^ “‘Não tenha relações sexuais com um homem, assim como se costuma ter com uma mulher. É um ato detestável.
+
+[[v3-18-23]]
+
+^<<v3-18-23,23>>^ “‘O homem não deve ter relações sexuais com um animal, tornando-se assim impuro; nem a mulher deve se pôr diante de um animal para ter relações sexuais com ele. É uma violação daquilo que é natural.
+
+[[v3-18-24]]
+
+^<<v3-18-24,24>>^ “‘Não se tornem impuros por meio de nenhuma dessas coisas, pois é por meio de todas essas coisas que se tornaram impuras as nações que expulso de diante de vocês.
+
+[[v3-18-25]]
+
+^<<v3-18-25,25>>^ Portanto, a terra é impura, e eu trarei sobre ela punição pelo seu erro, e a terra vomitará os seus habitantes.
+
+[[v3-18-26]]
+
+^<<v3-18-26,26>>^ Mas vocês, quer o israelita, quer o estrangeiro que mora entre vocês, guardem os meus decretos e as minhas decisões judiciais, e não façam nenhuma dessas coisas detestáveis.
+
+[[v3-18-27]]
+
+^<<v3-18-27,27>>^ Pois todas essas coisas detestáveis foram feitas pelos homens que viveram nessa terra antes de vocês, de modo que a terra agora é impura.
+
+[[v3-18-28]]
+
+^<<v3-18-28,28>>^ Então a terra não precisará vomitar vocês em razão de a terem profanado, assim como vomitou as nações que viveram nela antes de vocês.
+
+[[v3-18-29]]
+
+^<<v3-18-29,29>>^ Caso se faça alguma dessas coisas detestáveis, todos^&#42;1^ que a fizerem serão eliminados dentre seu povo.^&#42;2^
+
+[NOTE]
+====
+. Ou: “as almas”.
+. Isto é, serão mortos.
+====
+
+[[v3-18-30]]
+
+^<<v3-18-30,30>>^ Cumpram a sua obrigação para comigo, não praticando nenhum dos costumes detestáveis que eram praticados antes de vocês, para que não se tornem impuros por meio deles. Eu sou Jeová, seu Deus.’”
+
+'''
+
+xref:003-levitico/003-levitico-017.adoc#v3-17-0[&#60; Capítulo Anterior] | <<v3-18-0,Topo>> | xref:003-levitico/003-levitico-019.adoc#v3-19-0[Próximo Capítulo &#62;]

@@ -1,0 +1,68 @@
+include::./index.adoc[]
+
+[[v19-54-0]]
+=== Salmos, 54
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Ao regente; para ser acompanhado com instrumentos de cordas. Masquil.^&#42;1^ De Davi, quando os zifitas foram dizer a Saul: “Davi está escondido entre nós.”_
+
+[[v19-54-1]]
+
+^<<v19-54-1,1>>^ Ó Deus, salva-me pelo teu nome,
+E defende-me^&#42;1^ com o teu poder.
+
+[NOTE]
+====
+. Ou: “pleiteia a minha causa”.
+====
+
+[[v19-54-2]]
+
+^<<v19-54-2,2>>^ Ó Deus, ouve a minha oração,
+Presta atenção às palavras da minha boca.
+
+[[v19-54-3]]
+
+^<<v19-54-3,3>>^ Pois estranhos levantam-se contra mim,
+E homens cruéis buscam tirar a minha vida.^&#42;1^
+Eles não fazem caso de Deus.^&#42;2^ (Selá)
+
+[NOTE]
+====
+. Ou: “buscam a minha alma”.
+. Ou: “Eles não colocam Deus à sua frente.”
+====
+
+[[v19-54-4]]
+
+^<<v19-54-4,4>>^ Vejam! Deus é meu ajudador;
+Jeová está com os que me apoiam.^&#42;1^
+
+[NOTE]
+====
+. Ou: “apoiam a minha alma”.
+====
+
+[[v19-54-5]]
+
+^<<v19-54-5,5>>^ Ele retribuirá aos meus inimigos com a própria maldade deles.
+Na tua fidelidade, põe um fim^&#42;1^ a eles.
+
+[NOTE]
+====
+. Lit.: “silencia”.
+====
+
+[[v19-54-6]]
+
+^<<v19-54-6,6>>^ Oferecerei sacrifícios a ti voluntariamente.
+Louvarei o teu nome, ó Jeová, pois ele é bom.
+
+[[v19-54-7]]
+
+^<<v19-54-7,7>>^ Pois Ele me salva de toda aflição,
+E eu olharei triunfante para os meus inimigos.
+
+'''
+
+xref:019-salmo/019-salmo-053.adoc#v19-53-0[&#60; Capítulo Anterior] | <<v19-54-0,Topo>> | xref:019-salmo/019-salmo-055.adoc#v19-55-0[Próximo Capítulo &#62;]

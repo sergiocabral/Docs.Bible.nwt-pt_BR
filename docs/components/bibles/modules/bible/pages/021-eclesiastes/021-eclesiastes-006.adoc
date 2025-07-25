@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v21-6-0]]
+=== Eclesiastes, 6
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v21-6-1]]
+
+^<<v21-6-1,1>>^ Há outra desgraça^&#42;1^ que vi debaixo do sol, e ela é comum entre os homens:
+
+[NOTE]
+====
+. Ou: “calamidade”.
+====
+
+[[v21-6-2]]
+
+^<<v21-6-2,2>>^ o verdadeiro Deus dá a um homem riquezas, bens materiais e glória, de modo que não lhe falta nada do que deseja,^&#42;1^ mas o verdadeiro Deus não lhe dá a capacidade de desfrutar o que tem, embora um estranho o possa desfrutar. Isso é vaidade e um grande mal.
+
+[NOTE]
+====
+. Ou: “não lhe falta nada para sua alma”.
+====
+
+[[v21-6-3]]
+
+^<<v21-6-3,3>>^ Se um homem se tornar pai cem vezes, viver muitos anos e chegar à velhice, e mesmo assim não desfrutar^&#42;1^ de suas boas coisas antes de ser sepultado,^&#42;2^ devo dizer que a criança que nasceu morta está em melhor situação do que ele.
+
+[NOTE]
+====
+. Ou: “mesmo assim sua alma não desfrutar”.
+. Ou: “e nem mesmo a sepultura se torna sua”.
+====
+
+[[v21-6-4]]
+
+^<<v21-6-4,4>>^ Pois ela veio em vão e foi embora em escuridão, e a escuridão sepultou o seu nome.
+
+[[v21-6-5]]
+
+^<<v21-6-5,5>>^ Embora nunca tenha visto o sol nem conhecido nada, ela ainda está em melhor situação^&#42;1^ do que aquele homem.
+
+[NOTE]
+====
+. Lit.: “tem mais descanso”.
+====
+
+[[v21-6-6]]
+
+^<<v21-6-6,6>>^ Qual é a vantagem de viver duas vezes mil anos sem experimentar a felicidade? Não vão todos para o mesmo lugar?
+
+[[v21-6-7]]
+
+^<<v21-6-7,7>>^ Todo o trabalho árduo de um homem é para a sua boca; no entanto, ele nunca satisfaz seu apetite.^&#42;1^
+
+[NOTE]
+====
+. Ou: “sua alma”.
+====
+
+[[v21-6-8]]
+
+^<<v21-6-8,8>>^ Pois que vantagem tem o sábio sobre o tolo, e de que adianta o pobre saber enfrentar a vida?^&#42;1^
+
+[NOTE]
+====
+. Lit.: “andar na frente dos vivos”.
+====
+
+[[v21-6-9]]
+
+^<<v21-6-9,9>>^ Melhor é se satisfazer com o que os olhos veem do que ir atrás de desejos.^&#42;1^ Isso também é vaidade, é correr atrás do vento.
+
+[NOTE]
+====
+. Ou: “do que as divagações da alma”.
+====
+
+[[v21-6-10]]
+
+^<<v21-6-10,10>>^ O que existe já recebeu um nome, e o que o homem é, já se sabe; e ele não pode lutar^&#42;1^ com aquele que é mais poderoso do que ele.
+
+[NOTE]
+====
+. Ou: “pleitear sua causa”.
+====
+
+[[v21-6-11]]
+
+^<<v21-6-11,11>>^ Quanto mais palavras,^&#42;1^ mais vaidade; e que vantagem elas trazem para o homem?
+
+[NOTE]
+====
+. Ou, possivelmente: “coisas”.
+====
+
+[[v21-6-12]]
+
+^<<v21-6-12,12>>^ Quem sabe o que é melhor que o homem faça na vida durante os poucos dias da sua vida vã, que passam como a sombra? Quem pode informar ao homem o que acontecerá debaixo do sol depois que ele se for?
+
+'''
+
+xref:021-eclesiastes/021-eclesiastes-005.adoc#v21-5-0[&#60; Capítulo Anterior] | <<v21-6-0,Topo>> | xref:021-eclesiastes/021-eclesiastes-007.adoc#v21-7-0[Próximo Capítulo &#62;]

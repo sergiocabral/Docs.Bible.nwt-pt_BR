@@ -1,0 +1,154 @@
+include::./index.adoc[]
+
+[[v1-47-0]]
+=== Gênesis, 47
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v1-47-1]]
+
+^<<v1-47-1,1>>^ Assim, José foi comunicar a Faraó: “Meu pai, meus irmãos, suas ovelhas, seus bois e tudo o que eles têm vieram da terra de Canaã e estão na terra de Gósen.”
+
+[[v1-47-2]]
+
+^<<v1-47-2,2>>^ Ele escolheu cinco dos seus irmãos e os apresentou a Faraó.
+
+[[v1-47-3]]
+
+^<<v1-47-3,3>>^ Faraó perguntou aos irmãos dele: “Qual é o seu trabalho?” Eles responderam a Faraó: “Seus servos são pastores de ovelhas, assim como os nossos antepassados.”
+
+[[v1-47-4]]
+
+^<<v1-47-4,4>>^ Disseram também a Faraó: “Viemos morar como estrangeiros no país porque não há pasto para as ovelhas dos seus servos na terra de Canaã, pois a fome lá é severa. Então, por favor, deixe que seus servos morem na terra de Gósen.”
+
+[[v1-47-5]]
+
+^<<v1-47-5,5>>^ Faraó disse então a José: “Seu pai e seus irmãos vieram para cá ficar com você.
+
+[[v1-47-6]]
+
+^<<v1-47-6,6>>^ A terra do Egito está à disposição de vocês. Faça com que seu pai e seus irmãos morem na melhor parte do país. Que eles morem na terra de Gósen; e, se você conhece homens capazes entre eles, ponha-os como responsáveis pelos meus rebanhos.”
+
+[[v1-47-7]]
+
+^<<v1-47-7,7>>^ Então José levou Jacó, seu pai, para dentro e o apresentou a Faraó, e Jacó abençoou Faraó.
+
+[[v1-47-8]]
+
+^<<v1-47-8,8>>^ Faraó perguntou a Jacó: “Qual é a sua idade?”
+
+[[v1-47-9]]
+
+^<<v1-47-9,9>>^ Jacó respondeu a Faraó: “Os anos das minhas peregrinações^&#42;1^ são 130. Têm sido poucos e aflitivos os anos da minha vida; não são tantos como os anos de vida dos meus antepassados, de suas peregrinações.”^&#42;2^
+
+[NOTE]
+====
+. Ou: “anos da minha morada temporária; anos em que moro como estrangeiro”.
+. Ou: “de sua morada temporária; em que moraram como estrangeiros”.
+====
+
+[[v1-47-10]]
+
+^<<v1-47-10,10>>^ Depois disso, Jacó abençoou Faraó e se retirou da presença dele.
+
+[[v1-47-11]]
+
+^<<v1-47-11,11>>^ Assim, José instalou seu pai e seus irmãos na terra do Egito e lhes deu uma propriedade na melhor parte da terra, na terra de Ramessés, como Faraó havia ordenado.
+
+[[v1-47-12]]
+
+^<<v1-47-12,12>>^ E José supria de alimento^&#42;1^ seu pai, seus irmãos e todos os da casa de seu pai, de acordo com o número de suas crianças.
+
+[NOTE]
+====
+. Lit.: “pão”.
+====
+
+[[v1-47-13]]
+
+^<<v1-47-13,13>>^ Não havia alimento^&#42;1^ em toda a região, porque a fome era muito severa; a terra do Egito e a terra de Canaã ficaram esgotadas em resultado da fome.
+
+[NOTE]
+====
+. Lit.: “pão”.
+====
+
+[[v1-47-14]]
+
+^<<v1-47-14,14>>^ José recolhia todo o dinheiro que havia na terra do Egito e na terra de Canaã, que as pessoas davam em troca dos cereais que compravam, e José levava o dinheiro à casa de Faraó.
+
+[[v1-47-15]]
+
+^<<v1-47-15,15>>^ Com o tempo, esgotou-se o dinheiro da terra do Egito e da terra de Canaã, e todos os egípcios começaram a ir a José, dizendo: “Dê-nos comida! Será que vai nos deixar morrer porque o nosso dinheiro acabou?”
+
+[[v1-47-16]]
+
+^<<v1-47-16,16>>^ José disse então: “Se o seu dinheiro acabou, entreguem os seus rebanhos, e eu lhes darei comida em troca dos seus rebanhos.”
+
+[[v1-47-17]]
+
+^<<v1-47-17,17>>^ Assim, começaram a levar seus rebanhos a José, e José lhes dava alimento em troca dos seus cavalos, das ovelhas, dos bois e dos jumentos, e os abasteceu de alimento em troca de todos os seus rebanhos durante aquele ano.
+
+[[v1-47-18]]
+
+^<<v1-47-18,18>>^ Quando aquele ano terminou, começaram a ir a ele no ano seguinte e a dizer: “Não esconderemos do meu senhor que o dinheiro e o rebanho de animais domésticos já foram dados ao meu senhor. Não temos mais nada a oferecer ao meu senhor a não ser o nosso corpo e a nossa terra.
+
+[[v1-47-19]]
+
+^<<v1-47-19,19>>^ Será que vai nos deixar morrer junto com a nossa terra? Compre a nós e a nossa terra em troca de comida, e nós, junto com a nossa terra, nos tornaremos escravos de Faraó. Dê-nos sementes para que vivamos e não morramos, e para que a nossa terra não fique desolada.”
+
+[[v1-47-20]]
+
+^<<v1-47-20,20>>^ José comprou então toda a terra dos egípcios para Faraó porque todos os egípcios venderam os seus campos, pois a fome era muito severa; e a terra passou a pertencer a Faraó.
+
+[[v1-47-21]]
+
+^<<v1-47-21,21>>^ Então ele transferiu o povo para as cidades, de uma extremidade do território do Egito até a outra extremidade.
+
+[[v1-47-22]]
+
+^<<v1-47-22,22>>^ Somente não comprou a terra dos sacerdotes, porque o alimento dos sacerdotes vinha de Faraó, e eles viviam do alimento que Faraó lhes dava. É por isso que não venderam sua terra.
+
+[[v1-47-23]]
+
+^<<v1-47-23,23>>^ José disse então ao povo: “Vejam, hoje eu comprei tanto a vocês como a sua terra para Faraó. Aqui há sementes para vocês; semeiem a terra.
+
+[[v1-47-24]]
+
+^<<v1-47-24,24>>^ Quando a terra produzir, deem um quinto a Faraó, mas quatro partes serão de vocês, para semear o campo e para alimentar vocês, suas crianças e os de suas casas.”
+
+[[v1-47-25]]
+
+^<<v1-47-25,25>>^ Assim, eles disseram: “O senhor preservou nossa vida. Que achemos favor aos olhos do meu senhor, e nós nos tornaremos escravos de Faraó.”
+
+[[v1-47-26]]
+
+^<<v1-47-26,26>>^ Então José fez disso um decreto, que é válido até hoje em toda a terra do Egito: um quinto da produção pertence a Faraó. Somente a terra dos sacerdotes não se tornou de Faraó.
+
+[[v1-47-27]]
+
+^<<v1-47-27,27>>^ Israel continuou a morar na terra do Egito, na terra de Gósen, e eles se estabeleceram nela, tiveram filhos e se tornaram muito numerosos.
+
+[[v1-47-28]]
+
+^<<v1-47-28,28>>^ Jacó viveu na terra do Egito por 17 anos, de modo que os dias de vida de Jacó foram 147 anos.
+
+[[v1-47-29]]
+
+^<<v1-47-29,29>>^ Aproximando-se a hora de Israel morrer, ele chamou seu filho José e disse: “Se eu achei favor aos seus olhos, por favor, coloque a mão debaixo da minha coxa, e demonstre amor leal e fidelidade para comigo: por favor, não me enterre no Egito.
+
+[[v1-47-30]]
+
+^<<v1-47-30,30>>^ Quando eu morrer,^&#42;1^ leve-me para fora do Egito e enterre-me na sepultura dos meus antepassados.” Portanto, José disse: “Farei o que o senhor está pedindo.”
+
+[NOTE]
+====
+. Lit.: “me deitar com meus pais”.
+====
+
+[[v1-47-31]]
+
+^<<v1-47-31,31>>^ Então ele disse: “Jure-me.” De modo que lhe jurou. Nisto Israel se curvou junto à cabeceira da sua cama.
+
+'''
+
+xref:001-genesis/001-genesis-046.adoc#v1-46-0[&#60; Capítulo Anterior] | <<v1-47-0,Topo>> | xref:001-genesis/001-genesis-048.adoc#v1-48-0[Próximo Capítulo &#62;]

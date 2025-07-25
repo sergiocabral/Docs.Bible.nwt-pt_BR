@@ -1,0 +1,200 @@
+include::./index.adoc[]
+
+[[v18-24-0]]
+=== Jó, 24
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v18-24-1]]
+
+^<<v18-24-1,1>>^ “Por que o Todo-Poderoso não estabelece um tempo?
+Por que os que o conhecem não discernem o seu dia?^&#42;1^
+
+[NOTE]
+====
+. Isto é, o seu dia de julgamento.
+====
+
+[[v18-24-2]]
+
+^<<v18-24-2,2>>^ Há homens que mudam de lugar os marcos divisórios;
+Apoderam-se de rebanhos e os levam aos seus pastos.
+
+[[v18-24-3]]
+
+^<<v18-24-3,3>>^ Levam embora o jumento dos órfãos^&#42;1^
+E tomam o touro da viúva como garantia de um empréstimo.^&#42;2^
+
+[NOTE]
+====
+. Ou: “órfãos de pai”.
+. Ou: “como penhor”.
+====
+
+[[v18-24-4]]
+
+^<<v18-24-4,4>>^ Obrigam os pobres a sair do caminho;
+Os desamparados da terra precisam se esconder deles.
+
+[[v18-24-5]]
+
+^<<v18-24-5,5>>^ Os pobres vão em busca de comida como jumentos selvagens no ermo;
+No deserto procuram comida para os seus filhos.
+
+[[v18-24-6]]
+
+^<<v18-24-6,6>>^ Precisam colher no campo de outros,^&#42;1^
+E respigam do vinhedo daquele que é mau.
+
+[NOTE]
+====
+. Ou, possivelmente: “colher forragem no campo”.
+====
+
+[[v18-24-7]]
+
+^<<v18-24-7,7>>^ Passam a noite nus, sem roupa;
+Não têm com que se cobrir no frio.
+
+[[v18-24-8]]
+
+^<<v18-24-8,8>>^ Estão encharcados por causa das chuvas das montanhas;
+Abraçam-se às rochas porque não têm abrigo.
+
+[[v18-24-9]]
+
+^<<v18-24-9,9>>^ O órfão é arrancado do peito da mãe;
+E as roupas dos pobres são levadas como garantia de um empréstimo.
+
+[[v18-24-10]]
+
+^<<v18-24-10,10>>^ São obrigados a andar nus, sem roupa,
+E, famintos, carregam os feixes de cereal.
+
+[[v18-24-11]]
+
+^<<v18-24-11,11>>^ No calor do dia, trabalham arduamente junto aos^&#42;1^ muros dos terraços de lavoura;
+Pisam uvas nos lagares, e mesmo assim passam sede.
+
+[NOTE]
+====
+. Ou, possivelmente: “Extraem azeite entre os”.
+====
+
+[[v18-24-12]]
+
+^<<v18-24-12,12>>^ Os que estão morrendo continuam a gemer na cidade;
+Os fatalmente feridos^&#42;1^ clamam por ajuda,
+Mas Deus não considera isso impróprio.^&#42;2^
+
+[NOTE]
+====
+. Ou: “As almas dos feridos”.
+. Ou, possivelmente: “Deus não acusa ninguém de erro”.
+====
+
+[[v18-24-13]]
+
+^<<v18-24-13,13>>^ Há os que se rebelam contra a luz;
+Não reconhecem os caminhos dela,
+Nem seguem as suas veredas.
+
+[[v18-24-14]]
+
+^<<v18-24-14,14>>^ O assassino levanta-se ao amanhecer;
+Mata o desamparado e o pobre,
+E à noite ele rouba.
+
+[[v18-24-15]]
+
+^<<v18-24-15,15>>^ Os olhos do adúltero esperam o anoitecer,
+Ele diz: ‘Ninguém me verá!’
+E cobre seu rosto.
+
+[[v18-24-16]]
+
+^<<v18-24-16,16>>^ Na escuridão, homens invadem^&#42;1^ casas;
+De dia ficam trancados.
+São estranhos para a luz.
+
+[NOTE]
+====
+. Lit.: “cavam”.
+====
+
+[[v18-24-17]]
+
+^<<v18-24-17,17>>^ Para eles a manhã é como as densas trevas;
+Conhecem bem os terrores das densas trevas.
+
+[[v18-24-18]]
+
+^<<v18-24-18,18>>^ Mas são levados rapidamente pelas águas.^&#42;1^
+O terreno deles será amaldiçoado.
+Eles não voltarão para os seus vinhedos.
+
+[NOTE]
+====
+. Lit.: “Ele é ligeiro na superfície das águas.”
+====
+
+[[v18-24-19]]
+
+^<<v18-24-19,19>>^ Assim como a seca e o calor levam embora a neve derretida,
+Assim a Sepultura^&#42;1^ leva embora os que pecaram.
+
+[NOTE]
+====
+. Ou: “o Seol”, isto é, a sepultura comum da humanidade. Veja o Glossário.
+====
+
+[[v18-24-20]]
+
+^<<v18-24-20,20>>^ Sua mãe^&#42;1^ os esquecerá; os vermes os devorarão com gosto.
+Eles não serão mais lembrados.
+E a injustiça será derrubada como uma árvore.
+
+[NOTE]
+====
+. Lit.: “O ventre”.
+====
+
+[[v18-24-21]]
+
+^<<v18-24-21,21>>^ Eles exploram a mulher estéril,
+E maltratam a viúva.
+
+[[v18-24-22]]
+
+^<<v18-24-22,22>>^ Deus^&#42;1^ usará sua força para destruir os poderosos;
+Embora se enalteçam, sua vida é incerta.
+
+[NOTE]
+====
+. Lit.: “Ele”.
+====
+
+[[v18-24-23]]
+
+^<<v18-24-23,23>>^ Deus^&#42;1^ permite que eles se tornem confiantes e se sintam seguros,
+Mas os olhos dele estão sobre tudo que eles fazem.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “Ele”.
+. Lit.: “sobre os caminhos deles”.
+====
+
+[[v18-24-24]]
+
+^<<v18-24-24,24>>^ Eles são enaltecidos por pouco tempo, depois deixam de existir.
+São rebaixados e colhidos como todos os outros;
+São cortados como espigas de cereal.
+
+[[v18-24-25]]
+
+^<<v18-24-25,25>>^ Então quem pode provar que sou um mentiroso
+Ou contestar as minhas palavras?”
+
+'''
+
+xref:018-jo/018-jo-023.adoc#v18-23-0[&#60; Capítulo Anterior] | <<v18-24-0,Topo>> | xref:018-jo/018-jo-025.adoc#v18-25-0[Próximo Capítulo &#62;]

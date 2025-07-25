@@ -1,0 +1,104 @@
+include::./index.adoc[]
+
+[[v9-6-0]]
+=== O Primeiro de Samuel, 6
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v9-6-1]]
+
+^<<v9-6-1,1>>^ A Arca de Jeová ficou no território dos filisteus por sete meses.
+
+[[v9-6-2]]
+
+^<<v9-6-2,2>>^ Os filisteus chamaram os sacerdotes e os adivinhos e perguntaram: “O que devemos fazer com a Arca de Jeová? Digam-nos como devemos enviá-la de volta para o seu lugar.”
+
+[[v9-6-3]]
+
+^<<v9-6-3,3>>^ Eles responderam: “Quando enviarem a Arca do Pacto de Jeová, o Deus de Israel, não a mandem de volta sem uma oferta. Vocês devem sem falta lhe enviar uma oferta pela culpa. Só então serão curados e ficarão sabendo por que a mão dele não se retirava de vocês.”
+
+[[v9-6-4]]
+
+^<<v9-6-4,4>>^ Então os filisteus perguntaram: “Qual é a oferta pela culpa que devemos lhe enviar?” Eles responderam: “Cinco hemorroidas de ouro e cinco ratos de ouro, conforme o número dos governantes dos filisteus, pois cada um de vocês e seus governantes foram atingidos pelo mesmo flagelo.
+
+[[v9-6-5]]
+
+^<<v9-6-5,5>>^ Façam imagens das suas hemorroidas e imagens dos ratos que estão arruinando a terra, e deem honra ao Deus de Israel. Talvez ele alivie o peso da sua mão, que está sobre vocês, sobre o seu deus e sobre a sua terra.
+
+[[v9-6-6]]
+
+^<<v9-6-6,6>>^ Por que endurecer o coração assim como fizeram o Egito e Faraó? Quando Deus os tratou severamente, eles tiveram de deixar os israelitas ir embora, de modo que partiram.
+
+[[v9-6-7]]
+
+^<<v9-6-7,7>>^ Agora arranjem uma carroça nova e duas vacas que deram cria, sobre as quais nunca se colocou nenhum jugo. Então atrelem as vacas à carroça, mas levem os bezerros de volta ao curral, para longe delas.
+
+[[v9-6-8]]
+
+^<<v9-6-8,8>>^ Coloquem a Arca de Jeová na carroça e ponham numa caixa ao lado dela os objetos de ouro que lhe enviarão como oferta pela culpa. Depois mandem-na embora
+
+[[v9-6-9]]
+
+^<<v9-6-9,9>>^ e fiquem observando: se ela subir a estrada que vai para Bete-Semes, para o seu próprio território, então foi ele quem nos causou este grande mal. Mas, se não, saberemos que não foi a mão dele que nos atingiu; o que nos aconteceu foi mero acaso.”
+
+[[v9-6-10]]
+
+^<<v9-6-10,10>>^ Os homens fizeram isso. Pegaram duas vacas que tinham dado cria, atrelaram-nas à carroça e prenderam os bezerros no curral.
+
+[[v9-6-11]]
+
+^<<v9-6-11,11>>^ Depois puseram a Arca de Jeová na carroça, também a caixa com os ratos de ouro e as imagens das suas hemorroidas.
+
+[[v9-6-12]]
+
+^<<v9-6-12,12>>^ E as vacas seguiram diretamente pela estrada que vai para Bete-Semes. Continuaram na mesma estrada, mugindo; não se desviaram nem para a direita nem para a esquerda. Enquanto isso, os governantes dos filisteus andavam atrás delas, e foram até o limite do território de Bete-Semes.
+
+[[v9-6-13]]
+
+^<<v9-6-13,13>>^ O povo de Bete-Semes estava fazendo a colheita do trigo no vale.^&#42;1^ Quando levantaram os olhos e viram a Arca, alegraram-se muito.
+
+[NOTE]
+====
+. Ou: “na baixada”.
+====
+
+[[v9-6-14]]
+
+^<<v9-6-14,14>>^ A carroça entrou no campo de Josué, o bete-semita, e parou ali, perto de uma grande pedra. Então eles cortaram a madeira da carroça e ofereceram as vacas como oferta queimada a Jeová.
+
+[[v9-6-15]]
+
+^<<v9-6-15,15>>^ Os levitas retiraram a Arca de Jeová e a caixa que estava ao lado dela, onde estavam os objetos de ouro, e as puseram sobre a grande pedra. Os homens de Bete-Semes fizeram ofertas queimadas e ofereceram sacrifícios a Jeová naquele dia.
+
+[[v9-6-16]]
+
+^<<v9-6-16,16>>^ Quando os cinco governantes dos filisteus viram isso, voltaram a Ecrom no mesmo dia.
+
+[[v9-6-17]]
+
+^<<v9-6-17,17>>^ As hemorroidas de ouro que os filisteus enviaram a Jeová como oferta pela culpa foram: uma por Asdode, uma por Gaza, uma por Ascalom, uma por Gate e uma por Ecrom.
+
+[[v9-6-18]]
+
+^<<v9-6-18,18>>^ E o número dos ratos de ouro correspondia ao número de todas as cidades dos filisteus pertencentes aos cinco governantes, tanto as cidades fortificadas como as aldeias no campo.
+E a grande pedra onde colocaram a Arca de Jeová está no campo de Josué, o bete-semita, como testemunha até o dia de hoje.
+
+[[v9-6-19]]
+
+^<<v9-6-19,19>>^ Mas Deus matou os homens de Bete-Semes, porque tinham olhado para a Arca de Jeová. Matou dentre o povo 50.070 homens,^&#42;1^ e o povo começou a chorar porque Jeová os havia atingido com uma grande matança.
+
+[NOTE]
+====
+. Lit.: “70 homens, 50.000 homens”.
+====
+
+[[v9-6-20]]
+
+^<<v9-6-20,20>>^ Então os homens de Bete-Semes perguntaram: “Quem poderá ficar diante de Jeová, esse Deus santo? Para quem ele irá, afastando-se de nós?”
+
+[[v9-6-21]]
+
+^<<v9-6-21,21>>^ Enviaram então mensageiros aos habitantes de Quiriate-Jearim para dizer: “Os filisteus devolveram a Arca de Jeová. Venham e levem-na com vocês.”
+
+'''
+
+xref:009-1-samuel/009-1-samuel-005.adoc#v9-5-0[&#60; Capítulo Anterior] | <<v9-6-0,Topo>> | xref:009-1-samuel/009-1-samuel-007.adoc#v9-7-0[Próximo Capítulo &#62;]

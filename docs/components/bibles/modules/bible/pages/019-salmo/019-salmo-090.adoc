@@ -1,0 +1,137 @@
+include::./index.adoc[]
+
+[[v19-90-0]]
+=== Salmos, 90
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_QUARTO LIVRO_
+
+_(Salmos 90-106)_
+
+_Oração de Moisés, o homem do verdadeiro Deus._
+
+[[v19-90-1]]
+
+^<<v19-90-1,1>>^ Ó Jeová, tu tens sido nossa morada^&#42;1^ por todas as gerações.
+
+[NOTE]
+====
+. Ou, possivelmente: “nosso refúgio”.
+====
+
+[[v19-90-2]]
+
+^<<v19-90-2,2>>^ Antes de nascerem os montes
+Ou de teres formado^&#42;1^ a terra e o solo produtivo,
+De eternidade a eternidade,^&#42;2^ tu és Deus.
+
+[NOTE]
+====
+. Ou: “teres produzido como que com dores de parto”.
+. Ou: “Desde sempre e para sempre”.
+====
+
+[[v19-90-3]]
+
+^<<v19-90-3,3>>^ Fazes o homem mortal voltar ao pó;
+Dizes: “Voltem, filhos dos homens.”
+
+[[v19-90-4]]
+
+^<<v19-90-4,4>>^ Pois, aos teus olhos, mil anos são apenas como o ontem que passou,
+Apenas como uma vigília da noite.
+
+[[v19-90-5]]
+
+^<<v19-90-5,5>>^ Tu os levas embora como numa enxurrada; são simplesmente como o sono.
+De manhã são como a relva que brota:
+
+[[v19-90-6]]
+
+^<<v19-90-6,6>>^ De manhã ela floresce e se renova,
+Mas à noite murcha e seca.
+
+[[v19-90-7]]
+
+^<<v19-90-7,7>>^ Pois somos consumidos pela tua ira
+E aterrorizados pelo teu furor.
+
+[[v19-90-8]]
+
+^<<v19-90-8,8>>^ Tu colocas nossos erros diante de ti;^&#42;1^
+Nossos segredos são expostos pela luz da tua face.
+
+[NOTE]
+====
+. Ou: “Tu conheces os nossos erros”.
+====
+
+[[v19-90-9]]
+
+^<<v19-90-9,9>>^ Nossos dias se desvanecem^&#42;1^ por causa da tua fúria;
+E nossos anos se acabam como um suspiro.^&#42;2^
+
+[NOTE]
+====
+. Ou: “Nossa vida se desvanece”.
+. Ou: “um sussurro”.
+====
+
+[[v19-90-10]]
+
+^<<v19-90-10,10>>^ A duração da nossa vida é de setenta anos,
+Ou oitenta, para os mais fortes.^&#42;1^
+Mas esses anos são repletos de dificuldades e tristeza.
+Passam depressa, e logo desaparecemos.^&#42;2^
+
+[NOTE]
+====
+. Ou: “por causa de poder especial”.
+. Ou: “e saímos voando”.
+====
+
+[[v19-90-11]]
+
+^<<v19-90-11,11>>^ Quem pode avaliar o poder da tua ira?
+A tua fúria é tão grande quanto o temor que mereces.
+
+[[v19-90-12]]
+
+^<<v19-90-12,12>>^ Ensina-nos a contar os nossos dias
+Para que possamos adquirir um coração sábio.
+
+[[v19-90-13]]
+
+^<<v19-90-13,13>>^ Volta, ó Jeová! Até quando isso vai durar?
+Tem compaixão dos teus servos.
+
+[[v19-90-14]]
+
+^<<v19-90-14,14>>^ Sacia-nos de manhã com o teu amor leal,
+Para que gritemos de alegria e exultemos, todos os nossos dias.
+
+[[v19-90-15]]
+
+^<<v19-90-15,15>>^ Dá-nos alegria por tantos dias quanto aqueles em que nos afligiste,
+Os anos em que sofremos calamidade.
+
+[[v19-90-16]]
+
+^<<v19-90-16,16>>^ Que os teus servos vejam os teus atos;
+E os filhos deles, o teu esplendor.
+
+[[v19-90-17]]
+
+^<<v19-90-17,17>>^ Que esteja sobre nós o favor de Jeová, nosso Deus;
+Que faças prosperar^&#42;1^ a obra das nossas mãos.
+Sim, faz prosperar^&#42;2^ a obra das nossas mãos.
+
+[NOTE]
+====
+. Ou: “estabeleças firmemente”.
+. Ou: “estabelece firmemente”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-089.adoc#v19-89-0[&#60; Capítulo Anterior] | <<v19-90-0,Topo>> | xref:019-salmo/019-salmo-091.adoc#v19-91-0[Próximo Capítulo &#62;]

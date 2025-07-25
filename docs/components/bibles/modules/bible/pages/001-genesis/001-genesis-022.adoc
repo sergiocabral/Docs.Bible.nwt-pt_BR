@@ -1,0 +1,132 @@
+include::./index.adoc[]
+
+[[v1-22-0]]
+=== Gênesis, 22
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v1-22-1]]
+
+^<<v1-22-1,1>>^ Depois disso, o verdadeiro Deus pôs Abraão à prova e lhe disse: “Abraão!” Abraão respondeu: “Aqui estou!”
+
+[[v1-22-2]]
+
+^<<v1-22-2,2>>^ Então ele disse: “Por favor, pegue o seu filho, seu único filho, a quem você tanto ama, Isaque, vá à terra de Moriá e ofereça-o ali como oferta queimada num dos montes que lhe indicarei.”
+
+[[v1-22-3]]
+
+^<<v1-22-3,3>>^ Assim, Abraão se levantou de manhã cedo, selou o seu jumento e levou consigo dois dos seus servos e seu filho Isaque. Rachou lenha para a oferta queimada e depois partiu para o lugar que o verdadeiro Deus lhe indicou.
+
+[[v1-22-4]]
+
+^<<v1-22-4,4>>^ No terceiro dia Abraão levantou os olhos e viu o lugar à distância.
+
+[[v1-22-5]]
+
+^<<v1-22-5,5>>^ Abraão disse então aos seus servos: “Fiquem aqui com o jumento enquanto eu e o rapaz vamos até lá para adorar; depois retornaremos a vocês.”
+
+[[v1-22-6]]
+
+^<<v1-22-6,6>>^ Abraão pegou a lenha da oferta queimada e a pôs sobre os ombros de Isaque, seu filho. Depois pegou o fogo e a faca,^&#42;1^ e os dois seguiram juntos.
+
+[NOTE]
+====
+. Ou: “o cutelo”.
+====
+
+[[v1-22-7]]
+
+^<<v1-22-7,7>>^ Então Isaque disse a Abraão, seu pai: “Pai!” Ele respondeu: “Sim, meu filho!” E ele continuou: “Aqui estão o fogo e a lenha, mas onde está a ovelha para a oferta queimada?”
+
+[[v1-22-8]]
+
+^<<v1-22-8,8>>^ Abraão respondeu: “Meu filho, o próprio Deus providenciará a ovelha para a oferta queimada.” E os dois prosseguiram, andando juntos.
+
+[[v1-22-9]]
+
+^<<v1-22-9,9>>^ Por fim chegaram ao lugar que o verdadeiro Deus lhe havia indicado; e Abraão construiu ali um altar e arrumou a lenha em cima dele. Ele amarrou as mãos e os pés de Isaque, seu filho, e o colocou no altar, em cima da lenha.
+
+[[v1-22-10]]
+
+^<<v1-22-10,10>>^ Abraão estendeu então a mão e pegou a faca^&#42;1^ para matar seu filho.
+
+[NOTE]
+====
+. Ou: “o cutelo”.
+====
+
+[[v1-22-11]]
+
+^<<v1-22-11,11>>^ Mas o anjo de Jeová o chamou desde os céus e disse: “Abraão, Abraão!” E ele respondeu: “Aqui estou!”
+
+[[v1-22-12]]
+
+^<<v1-22-12,12>>^ Então o anjo disse: “Não fira o rapaz e não lhe faça absolutamente nada, pois agora eu sei que você teme a Deus, porque não me negou o seu filho, seu único filho.”
+
+[[v1-22-13]]
+
+^<<v1-22-13,13>>^ Com isso, Abraão levantou os olhos e viu ali perto um carneiro preso pelos chifres numa moita. De modo que Abraão foi até lá, pegou o carneiro e o ofereceu como oferta queimada em lugar de seu filho.
+
+[[v1-22-14]]
+
+^<<v1-22-14,14>>^ E Abraão deu àquele lugar o nome de Jeová-Jiré.^&#42;1^ É por isso que ainda se diz hoje: “No monte de Jeová se providenciará.”
+
+[NOTE]
+====
+. Que significa “Jeová providenciará; Jeová cuidará disso”.
+====
+
+[[v1-22-15]]
+
+^<<v1-22-15,15>>^ E o anjo de Jeová chamou Abraão pela segunda vez, desde os céus,
+
+[[v1-22-16]]
+
+^<<v1-22-16,16>>^ e disse: “‘Juro por mim mesmo’, diz Jeová, ‘que, visto que você fez isso e não me negou seu filho, seu único filho,
+
+[[v1-22-17]]
+
+^<<v1-22-17,17>>^ certamente abençoarei você e certamente multiplicarei o seu descendente^&#42;1^ como as estrelas dos céus e como os grãos de areia à beira do mar, e o seu descendente^&#42;2^ tomará posse do portão^&#42;3^ dos inimigos dele.
+
+[NOTE]
+====
+. Lit.: “a sua semente”.
+. Lit.: “a sua semente”.
+. Ou: “das cidades”.
+====
+
+[[v1-22-18]]
+
+^<<v1-22-18,18>>^ E todas as nações da terra obterão para si uma bênção por meio do seu descendente,^&#42;1^ porque você escutou a minha voz.’”
+
+[NOTE]
+====
+. Lit.: “da sua semente”.
+====
+
+[[v1-22-19]]
+
+^<<v1-22-19,19>>^ Abraão voltou então aos seus servos, e eles foram embora juntos para Berseba; e Abraão continuou morando em Berseba.
+
+[[v1-22-20]]
+
+^<<v1-22-20,20>>^ Depois disso, Abraão recebeu a notícia: “Milca também deu filhos ao seu irmão Naor:
+
+[[v1-22-21]]
+
+^<<v1-22-21,21>>^ Uz, o primogênito, Buz, irmão deste, Quemuel, pai de Arã,
+
+[[v1-22-22]]
+
+^<<v1-22-22,22>>^ Quesede, Hazo, Pildas, Jidlafe e Betuel.”
+
+[[v1-22-23]]
+
+^<<v1-22-23,23>>^ Betuel tornou-se pai de Rebeca. Milca deu esses oito filhos a Naor, irmão de Abraão.
+
+[[v1-22-24]]
+
+^<<v1-22-24,24>>^ A concubina dele, que se chamava Reumá, também teve filhos: Tebá, Gaã, Taás e Maacá.
+
+'''
+
+xref:001-genesis/001-genesis-021.adoc#v1-21-0[&#60; Capítulo Anterior] | <<v1-22-0,Topo>> | xref:001-genesis/001-genesis-023.adoc#v1-23-0[Próximo Capítulo &#62;]

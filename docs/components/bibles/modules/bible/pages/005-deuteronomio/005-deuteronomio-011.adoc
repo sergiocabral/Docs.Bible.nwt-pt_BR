@@ -1,0 +1,193 @@
+include::./index.adoc[]
+
+[[v5-11-0]]
+=== Deuteronômio, 11
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v5-11-1]]
+
+^<<v5-11-1,1>>^ “Ame a Jeová, seu Deus, e sempre cumpra a sua obrigação para com ele, seus decretos, suas decisões judiciais e seus mandamentos.
+
+[[v5-11-2]]
+
+^<<v5-11-2,2>>^ Vocês sabem que hoje eu me dirijo a vocês, não aos seus filhos, que não conheceram nem viram a disciplina de Jeová, seu Deus, nem sua grandeza, sua mão poderosa e seu braço estendido.
+
+[[v5-11-3]]
+
+^<<v5-11-3,3>>^ Eles não viram os sinais e os atos que ele realizou no Egito contra Faraó, rei do Egito, e contra toda a sua terra,
+
+[[v5-11-4]]
+
+^<<v5-11-4,4>>^ nem o que ele fez aos exércitos do Egito, aos cavalos e aos carros de guerra de Faraó, que foram engolidos pelas águas do mar Vermelho quando eles perseguiam vocês, e Jeová os destruiu de uma vez para sempre.^&#42;1^
+
+[NOTE]
+====
+. Ou: “até o dia de hoje”.
+====
+
+[[v5-11-5]]
+
+^<<v5-11-5,5>>^ Eles não viram o que ele fez por^&#42;1^ vocês no deserto, até que vocês chegaram a este lugar,
+
+[NOTE]
+====
+. Ou: “a”.
+====
+
+[[v5-11-6]]
+
+^<<v5-11-6,6>>^ nem o que fez a Datã e Abirão, filhos de Eliabe, filho de Rubem, quando a terra se abriu diante dos olhos de todo o Israel e engoliu a eles e aos da sua casa, bem como suas tendas e todas as pessoas e animais que estavam com eles.
+
+[[v5-11-7]]
+
+^<<v5-11-7,7>>^ Foram vocês que viram com os seus próprios olhos todos os grandes atos que Jeová realizou.
+
+[[v5-11-8]]
+
+^<<v5-11-8,8>>^ “Guardem todos os mandamentos que hoje lhes dou, para que sejam fortes e atravessem para a terra a fim de tomar posse dela,
+
+[[v5-11-9]]
+
+^<<v5-11-9,9>>^ e para que vivam por muito tempo na terra que Jeová jurou dar aos seus antepassados e à descendência^&#42;1^ deles, uma terra que mana leite e mel.
+
+[NOTE]
+====
+. Lit.: “semente”.
+====
+
+[[v5-11-10]]
+
+^<<v5-11-10,10>>^ “A terra da qual você vai tomar posse não é como a terra do Egito, de onde vocês saíram, onde você semeava a semente e irrigava com o pé,^&#42;1^ como uma horta.
+
+[NOTE]
+====
+. Ou: “regava com o pé”, isto é, usando os pés de alguma maneira, quer para mover uma roda-d’água, quer para formar e abrir canais de água.
+====
+
+[[v5-11-11]]
+
+^<<v5-11-11,11>>^ Mas a terra para a qual vocês estão prestes a atravessar e da qual tomarão posse é uma terra de montes e vales.^&#42;1^ Ela bebe a água da chuva dos céus,
+
+[NOTE]
+====
+. Lit.: “e planícies de vale”.
+====
+
+[[v5-11-12]]
+
+^<<v5-11-12,12>>^ é uma terra da qual Jeová, seu Deus, está cuidando. Os olhos de Jeová, seu Deus, estão sempre sobre ela, do início do ano até o fim do ano.
+
+[[v5-11-13]]
+
+^<<v5-11-13,13>>^ “E, se vocês obedecerem cuidadosamente aos mandamentos que hoje lhes ordeno, amarem a Jeová, seu Deus, e o servirem de todo o seu coração e de toda a sua alma,^&#42;1^
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v5-11-14]]
+
+^<<v5-11-14,14>>^ então darei chuva à sua terra no tempo determinado, a chuva do outono e a chuva da primavera, e você recolherá seus cereais, seu vinho novo e seu azeite.
+
+[[v5-11-15]]
+
+^<<v5-11-15,15>>^ E darei vegetação nos seus campos para os seus rebanhos, e você comerá e ficará satisfeito.
+
+[[v5-11-16]]
+
+^<<v5-11-16,16>>^ Tomem cuidado para que o seu coração não seja tentado a se desviar, adorar outros deuses e se curvar diante deles.
+
+[[v5-11-17]]
+
+^<<v5-11-17,17>>^ Senão a ira de Jeová se acenderá contra vocês, e ele fechará os céus de modo que não choverá e a terra não dará a sua produção, e vocês desaparecerão depressa da boa terra que Jeová lhes dá.
+
+[[v5-11-18]]
+
+^<<v5-11-18,18>>^ “Gravem estas minhas palavras no seu coração e na sua alma,^&#42;1^ e amarrem-nas como uma recordação na sua mão, e elas devem ser como uma faixa na sua testa.^&#42;2^
+
+[NOTE]
+====
+. Veja o Glossário.
+. Lit.: “entre os seus olhos”.
+====
+
+[[v5-11-19]]
+
+^<<v5-11-19,19>>^ Ensinem-nas aos seus filhos, falando delas sentado na sua casa, andando pela estrada, ao se deitar e ao se levantar.
+
+[[v5-11-20]]
+
+^<<v5-11-20,20>>^ Escreva-as nas laterais da entrada^&#42;1^ da sua casa e nos portões da cidade,
+
+[NOTE]
+====
+. Ou: “ombreiras”.
+====
+
+[[v5-11-21]]
+
+^<<v5-11-21,21>>^ para que vocês e seus filhos vivam por muito tempo na terra que Jeová jurou dar aos seus antepassados, pelo tempo em que os céus cobrirem a terra.
+
+[[v5-11-22]]
+
+^<<v5-11-22,22>>^ “Se vocês obedecerem fielmente a estes mandamentos que lhes dou e os cumprirem, amando a Jeová, seu Deus, andando sempre nos seus caminhos e apegando-se a ele,
+
+[[v5-11-23]]
+
+^<<v5-11-23,23>>^ Jeová expulsará todas estas nações de diante de vocês, e vocês tomarão posse da terra de nações maiores e mais numerosas do que vocês.
+
+[[v5-11-24]]
+
+^<<v5-11-24,24>>^ Todo lugar em que pisarem se tornará seu: desde o deserto até o Líbano, e desde o rio, o rio Eufrates, até o mar ocidental.^&#42;1^ Esses serão os limites do seu território.
+
+[NOTE]
+====
+. Isto é, o Grande Mar, o Mediterrâneo.
+====
+
+[[v5-11-25]]
+
+^<<v5-11-25,25>>^ Ninguém resistirá diante de vocês. Jeová, seu Deus, espalhará pavor e medo de vocês em toda a terra por onde andarem, assim como lhes prometeu.
+
+[[v5-11-26]]
+
+^<<v5-11-26,26>>^ “Vejam, ponho hoje diante de vocês uma bênção e uma maldição:
+
+[[v5-11-27]]
+
+^<<v5-11-27,27>>^ a bênção, se obedecerem aos mandamentos de Jeová, seu Deus, que hoje lhes ordeno;
+
+[[v5-11-28]]
+
+^<<v5-11-28,28>>^ e a maldição, se não obedecerem aos mandamentos de Jeová, seu Deus, se vocês se desviarem do caminho que hoje lhes ordeno e se seguirem deuses que vocês não conhecem.
+
+[[v5-11-29]]
+
+^<<v5-11-29,29>>^ “Quando Jeová, seu Deus, o fizer entrar na terra da qual você vai tomar posse, profira^&#42;1^ a bênção junto ao monte Gerizim e a maldição junto ao monte Ebal.
+
+[NOTE]
+====
+. Ou: “dê”.
+====
+
+[[v5-11-30]]
+
+^<<v5-11-30,30>>^ Esses montes estão do outro lado do Jordão, ao oeste,^&#42;1^ na terra dos cananeus que moram no Arabá, em frente a Gilgal, junto às árvores grandes de Moré.
+
+[NOTE]
+====
+. Ou: “poente”.
+====
+
+[[v5-11-31]]
+
+^<<v5-11-31,31>>^ Pois vocês vão atravessar o Jordão para entrar na terra que Jeová, seu Deus, lhes dá e para tomar posse dela. Quando tomarem posse dela e estiverem morando nela,
+
+[[v5-11-32]]
+
+^<<v5-11-32,32>>^ tenham o cuidado de cumprir todos os decretos e as decisões judiciais que hoje ponho diante de vocês.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-010.adoc#v5-10-0[&#60; Capítulo Anterior] | <<v5-11-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-012.adoc#v5-12-0[Próximo Capítulo &#62;]

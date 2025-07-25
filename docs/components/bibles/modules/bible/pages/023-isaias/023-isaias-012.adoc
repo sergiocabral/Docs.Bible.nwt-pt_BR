@@ -1,0 +1,60 @@
+include::./index.adoc[]
+
+[[v23-12-0]]
+=== Isaías, 12
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v23-12-1]]
+
+^<<v23-12-1,1>>^ Naquele dia você certamente dirá:
+“Eu te agradeço, ó Jeová,
+Pois, embora estivesses irado comigo,
+Tua ira passou, e tu me consolaste.
+
+[[v23-12-2]]
+
+^<<v23-12-2,2>>^ Vejam! Deus é a minha salvação.
+Confiarei e não sentirei pavor;
+Pois Jah^&#42;1^ Jeová é a minha força e o meu poder, 
+E ele se tornou a minha salvação.”
+
+[NOTE]
+====
+. “Jah” é uma forma reduzida do nome Jeová.
+====
+
+[[v23-12-3]]
+
+^<<v23-12-3,3>>^ Com alegria vocês tirarão água
+Das fontes de salvação.
+
+[[v23-12-4]]
+
+^<<v23-12-4,4>>^ E naquele dia vocês dirão:
+“Agradeçam a Jeová, invoquem o seu nome,
+Tornem os seus feitos conhecidos entre os povos!
+Proclamem que seu nome é sublime.
+
+[[v23-12-5]]
+
+^<<v23-12-5,5>>^ Cantem louvores^&#42;1^ a Jeová, pois ele fez coisas maravilhosas.
+Seja isso divulgado em toda a terra.
+
+[NOTE]
+====
+. Ou: “Façam música”.
+====
+
+[[v23-12-6]]
+
+^<<v23-12-6,6>>^ “Grite de alegria e exulte, habitante^&#42;1^ de Sião,
+Pois grande no seu meio é o Santo de Israel.”
+
+[NOTE]
+====
+. Lit.: “moradora”, referindo-se à população como uma mulher.
+====
+
+'''
+
+xref:023-isaias/023-isaias-011.adoc#v23-11-0[&#60; Capítulo Anterior] | <<v23-12-0,Topo>> | xref:023-isaias/023-isaias-013.adoc#v23-13-0[Próximo Capítulo &#62;]

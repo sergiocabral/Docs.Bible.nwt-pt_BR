@@ -1,0 +1,138 @@
+include::./index.adoc[]
+
+[[v22-6-0]]
+=== O Cântico de Salomão, 6
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v22-6-1]]
+
+^<<v22-6-1,1>>^ “Onde está o seu querido,
+Ó mais bela das mulheres?
+Em que direção foi o seu querido?
+Vamos procurá-lo com você.”
+
+[[v22-6-2]]
+
+^<<v22-6-2,2>>^ “Meu querido desceu ao seu jardim,
+Aos canteiros de bálsamo,^&#42;1^
+Para pastorear entre os jardins
+E para colher lírios.
+
+[NOTE]
+====
+. Ou: “especiarias”.
+====
+
+[[v22-6-3]]
+
+^<<v22-6-3,3>>^ Eu sou do meu querido,
+E o meu querido é meu.
+Ele pastoreia entre os lírios.”
+
+[[v22-6-4]]
+
+^<<v22-6-4,4>>^ “Você é tão bonita quanto Tirza,^&#42;1^ minha amada,
+Bela como Jerusalém,
+Deslumbrante como exércitos ao redor de suas bandeiras.
+
+[NOTE]
+====
+. Ou: “a Cidade Agradável”.
+====
+
+[[v22-6-5]]
+
+^<<v22-6-5,5>>^ Desvie de mim os seus olhos,
+Pois eles me fascinam.
+Seu cabelo é como um rebanho de cabras
+Que descem as encostas de Gileade.
+
+[[v22-6-6]]
+
+^<<v22-6-6,6>>^ Seus dentes são como um rebanho de ovelhas
+Que acabam de ser lavadas;
+Todas elas com gêmeos,
+E nenhuma perdeu a cria.
+
+[[v22-6-7]]
+
+^<<v22-6-7,7>>^ Como as metades de uma romã
+São as suas faces^&#42;1^ atrás do véu.
+
+[NOTE]
+====
+. Ou: “têmporas”.
+====
+
+[[v22-6-8]]
+
+^<<v22-6-8,8>>^ Pode haver sessenta rainhas,
+Oitenta concubinas
+E inúmeras moças,
+
+[[v22-6-9]]
+
+^<<v22-6-9,9>>^ Mas apenas uma é a minha pomba sem defeito.
+Ela é a única de sua mãe,
+A preferida^&#42;1^ daquela que a deu à luz.
+As moças a veem e a chamam de feliz;
+Rainhas e concubinas a louvam.
+
+[NOTE]
+====
+. Ou: “pura”.
+====
+
+[[v22-6-10]]
+
+^<<v22-6-10,10>>^ ‘Quem é essa que brilha^&#42;1^ como a aurora,
+Bela como a lua cheia,
+Pura como a luz do sol,
+Deslumbrante como exércitos ao redor de suas bandeiras?’”
+
+[NOTE]
+====
+. Lit.: “olha para baixo”.
+====
+
+[[v22-6-11]]
+
+^<<v22-6-11,11>>^ “Eu desci ao pomar das nogueiras
+Para ver o que havia crescido no vale,^&#42;1^
+Para ver se a videira havia brotado,^&#42;2^
+Se as romãzeiras haviam florido.
+
+[NOTE]
+====
+. Ou: “uádi”.
+. Ou: “florescido”.
+====
+
+[[v22-6-12]]
+
+^<<v22-6-12,12>>^ Antes de eu perceber,
+Meu desejo^&#42;1^ me levou
+Para perto dos carros do meu nobre povo.”^&#42;2^
+
+[NOTE]
+====
+. Ou: “Minha alma”.
+. Ou: “meu povo disposto”.
+====
+
+[[v22-6-13]]
+
+^<<v22-6-13,13>>^ “Volte, volte, ó sulamita!
+Volte, volte,
+Para que possamos contemplá-la!”
+“Por que vocês olham com admiração para a sulamita?”
+“Ela é como a dança de dois acampamentos!”^&#42;1^
+
+[NOTE]
+====
+. Ou: “dança de Maanaim”.
+====
+
+'''
+
+xref:022-cantico-de-salomao/022-cantico-de-salomao-005.adoc#v22-5-0[&#60; Capítulo Anterior] | <<v22-6-0,Topo>> | xref:022-cantico-de-salomao/022-cantico-de-salomao-007.adoc#v22-7-0[Próximo Capítulo &#62;]

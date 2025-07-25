@@ -1,0 +1,83 @@
+include::./index.adoc[]
+
+[[v23-15-0]]
+=== Isaías, 15
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v23-15-1]]
+
+^<<v23-15-1,1>>^ Proclamação contra Moabe:
+Visto que foi devastada numa só noite,
+Ar de Moabe foi silenciada.
+Visto que foi devastada numa só noite,
+Quir de Moabe foi silenciada.
+
+[[v23-15-2]]
+
+^<<v23-15-2,2>>^ Ele sobe à Casa^&#42;1^ e a Dibom,
+Aos altos sagrados, para chorar.
+Moabe lamenta por Nebo e por Medeba.
+Todas as cabeças estão raspadas, toda barba está cortada.
+
+[NOTE]
+====
+. Ou: “ao Templo”.
+====
+
+[[v23-15-3]]
+
+^<<v23-15-3,3>>^ Nas suas ruas vestiram-se com pano de saco.
+Nos seus terraços e nas suas praças, todos lamentam;
+Eles descem chorando.
+
+[[v23-15-4]]
+
+^<<v23-15-4,4>>^ Hesbom e Eleale clamam;
+Ouve-se a sua voz até Jaaz.
+Por isso é que os homens armados de Moabe estão gritando.
+Ele^&#42;1^ está tremendo.
+
+[NOTE]
+====
+. Ou: “Sua alma”.
+====
+
+[[v23-15-5]]
+
+^<<v23-15-5,5>>^ Meu coração clama por causa de Moabe.
+Seus fugitivos foram até Zoar e Eglate-Selisia.
+Eles sobem chorando a ladeira de Luíte;
+No caminho para Horonaim clamam por causa da catástrofe.
+
+[[v23-15-6]]
+
+^<<v23-15-6,6>>^ Pois as águas de Ninrim se esgotaram;
+Secou-se a pastagem,
+Acabou-se a relva, não sobrou nada verde.
+
+[[v23-15-7]]
+
+^<<v23-15-7,7>>^ Por isso é que eles estão levando o que restou de suas provisões e de suas riquezas;
+Estão atravessando o vale^&#42;1^ dos choupos.
+
+[NOTE]
+====
+. Ou: “uádi”.
+====
+
+[[v23-15-8]]
+
+^<<v23-15-8,8>>^ Ouve-se o clamor em todo o território de Moabe.
+O lamento chega até Eglaim;
+O lamento chega até Beer-Elim.
+
+[[v23-15-9]]
+
+^<<v23-15-9,9>>^ Pois as águas de Dimom estão cheias de sangue.
+E tenho mais em reserva para Dimom:
+Um leão para os fugitivos de Moabe
+E para os que restam na sua terra.
+
+'''
+
+xref:023-isaias/023-isaias-014.adoc#v23-14-0[&#60; Capítulo Anterior] | <<v23-15-0,Topo>> | xref:023-isaias/023-isaias-016.adoc#v23-16-0[Próximo Capítulo &#62;]

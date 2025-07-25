@@ -1,0 +1,136 @@
+include::./index.adoc[]
+
+[[v5-23-0]]
+=== Deuteronômio, 23
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v5-23-1]]
+
+^<<v5-23-1,1>>^ “Nenhum homem castrado, cujos testículos foram esmagados, ou que teve o órgão masculino decepado pode entrar na congregação de Jeová.
+
+[[v5-23-2]]
+
+^<<v5-23-2,2>>^ “Nenhum filho ilegítimo pode entrar na congregação de Jeová. Nem mesmo na décima geração, nenhum dos seus descendentes poderá entrar na congregação de Jeová.
+
+[[v5-23-3]]
+
+^<<v5-23-3,3>>^ “Nenhum amonita nem moabita pode entrar na congregação de Jeová. Nem mesmo na décima geração, nenhum dos seus descendentes jamais poderá entrar na congregação de Jeová,
+
+[[v5-23-4]]
+
+^<<v5-23-4,4>>^ porque não vieram em seu auxílio com alimento e água quando vocês estavam saindo do Egito, e porque contrataram Balaão, filho de Beor, de Petor, da Mesopotâmia, para amaldiçoá-lo.^&#42;1^
+
+[NOTE]
+====
+. Ou: “invocar o mal sobre você”.
+====
+
+[[v5-23-5]]
+
+^<<v5-23-5,5>>^ Mas Jeová, seu Deus, não quis escutar Balaão. Em vez disso, Jeová, seu Deus, transformou a maldição em bênção para você, porque Jeová, seu Deus, o amava.
+
+[[v5-23-6]]
+
+^<<v5-23-6,6>>^ Você nunca deve buscar o bem-estar e a prosperidade deles, durante todos os seus dias.
+
+[[v5-23-7]]
+
+^<<v5-23-7,7>>^ “Não odeie o edomita, pois ele é seu irmão.
+“Não odeie o egípcio, pois você se tornou residente estrangeiro no país dele.
+
+[[v5-23-8]]
+
+^<<v5-23-8,8>>^ Os filhos deles, a partir da terceira geração, podem entrar na congregação de Jeová.
+
+[[v5-23-9]]
+
+^<<v5-23-9,9>>^ “Quando estiver acampado para guerrear contra os seus inimigos, você deve evitar qualquer impureza.^&#42;1^
+
+[NOTE]
+====
+. Ou: “coisa má”.
+====
+
+[[v5-23-10]]
+
+^<<v5-23-10,10>>^ Se um homem se tornar impuro por causa de uma ejaculação noturna, ele deve sair do acampamento e não poderá voltar ao acampamento.
+
+[[v5-23-11]]
+
+^<<v5-23-11,11>>^ Quando entardecer ele deve se lavar com água, e poderá voltar ao acampamento ao pôr do sol.
+
+[[v5-23-12]]
+
+^<<v5-23-12,12>>^ Deve-se determinar um lugar privativo^&#42;1^ fora do acampamento, e é para lá que você deve ir.
+
+[NOTE]
+====
+. Isto é, uma latrina.
+====
+
+[[v5-23-13]]
+
+^<<v5-23-13,13>>^ Entre os seus equipamentos você deve ter uma estaca pequena. Quando você se abaixar lá fora, deve cavar um buraco com ela e cobrir seu excremento.
+
+[[v5-23-14]]
+
+^<<v5-23-14,14>>^ Pois Jeová, seu Deus, está andando pelo seu acampamento para o livrar e para lhe entregar os seus inimigos. Portanto, seu acampamento deve ser santo, para que ele não veja nada indecente no seu meio e deixe de acompanhá-lo.
+
+[[v5-23-15]]
+
+^<<v5-23-15,15>>^ “Se um escravo fugir do seu senhor e vier até você, você não deve entregá-lo de volta ao senhor dele.
+
+[[v5-23-16]]
+
+^<<v5-23-16,16>>^ Ele poderá morar em seu meio, no lugar que ele escolher numa das suas cidades, onde ele quiser. Não o maltrate.
+
+[[v5-23-17]]
+
+^<<v5-23-17,17>>^ “Nenhuma das filhas de Israel pode se tornar prostituta de templo, e nenhum dos filhos de Israel pode se tornar prostituto de templo.
+
+[[v5-23-18]]
+
+^<<v5-23-18,18>>^ Nem o dinheiro pago a uma prostituta nem o dinheiro pago a^&#42;1^ um prostituto^&#42;2^ devem ser levados à casa de Jeová, seu Deus, para pagar um voto, pois ambos são detestáveis para Jeová, seu Deus.
+
+[NOTE]
+====
+. Ou: “nem os rendimentos de”.
+. Lit.: “cão”.
+====
+
+[[v5-23-19]]
+
+^<<v5-23-19,19>>^ “Você não deve fazer seu irmão pagar juros sobre dinheiro, sobre alimentos ou sobre qualquer coisa pela qual se possa cobrar juros.
+
+[[v5-23-20]]
+
+^<<v5-23-20,20>>^ Você pode fazer o estrangeiro pagar juros, mas não faça seu irmão pagar juros, para que Jeová, seu Deus, o abençoe em tudo que você realizar na terra da qual vai tomar posse.
+
+[[v5-23-21]]
+
+^<<v5-23-21,21>>^ “Se você fizer um voto a Jeová, seu Deus, não demore em cumpri-lo — pois Jeová, seu Deus, certamente o exigirá de você —, senão será um pecado da sua parte.
+
+[[v5-23-22]]
+
+^<<v5-23-22,22>>^ Mas, se você não fizer um voto, não será culpado de pecado.
+
+[[v5-23-23]]
+
+^<<v5-23-23,23>>^ Você deve fazer o que os seus lábios disserem e cumprir o que a sua boca votar como oferta voluntária a Jeová, seu Deus.
+
+[[v5-23-24]]
+
+^<<v5-23-24,24>>^ “Se você entrar no vinhedo do seu próximo, pode comer uvas suficientes para ficar satisfeito,^&#42;1^ mas não deve colocar nenhuma num recipiente.
+
+[NOTE]
+====
+. Ou: “para satisfazer a sua alma”.
+====
+
+[[v5-23-25]]
+
+^<<v5-23-25,25>>^ “Se você entrar na plantação de cereais do seu próximo, pode arrancar com a mão as espigas maduras, mas não deve passar a foice nos cereais do seu próximo.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-022.adoc#v5-22-0[&#60; Capítulo Anterior] | <<v5-23-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-024.adoc#v5-24-0[Próximo Capítulo &#62;]

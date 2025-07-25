@@ -1,0 +1,173 @@
+include::./index.adoc[]
+
+[[v4-5-0]]
+=== Números, 5
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v4-5-1]]
+
+^<<v4-5-1,1>>^ Jeová disse mais a Moisés:
+
+[[v4-5-2]]
+
+^<<v4-5-2,2>>^ “Ordene aos israelitas que ponham para fora do acampamento todo leproso, todo aquele que tem um corrimento e todo aquele que ficou impuro por ter tocado numa pessoa morta.^&#42;1^
+
+[NOTE]
+====
+. Ou: “alma”. Veja o Glossário, “Alma”.
+====
+
+[[v4-5-3]]
+
+^<<v4-5-3,3>>^ Quer homem quer mulher, devem pô-los para fora. Devem pô-los para fora do acampamento, para que não contaminem os acampamentos daqueles entre os quais resido.”
+
+[[v4-5-4]]
+
+^<<v4-5-4,4>>^ Portanto, os israelitas fizeram isso e os puseram para fora do acampamento. Os israelitas fizeram assim como Jeová havia falado a Moisés.
+
+[[v4-5-5]]
+
+^<<v4-5-5,5>>^ Jeová também disse a Moisés:
+
+[[v4-5-6]]
+
+^<<v4-5-6,6>>^ “Diga aos israelitas: ‘Se um homem ou uma mulher cometer um dos pecados comuns à humanidade, agindo de modo infiel para com Jeová, essa pessoa^&#42;1^ se tornará culpada.
+
+[NOTE]
+====
+. Ou: “alma”.
+====
+
+[[v4-5-7]]
+
+^<<v4-5-7,7>>^ Ela deve^&#42;1^ confessar o pecado que cometeu^&#42;2^ e restituir o pleno valor como compensação pela sua culpa, e também deve acrescentar um quinto do valor; deve dar esse valor a quem ela prejudicou.
+
+[NOTE]
+====
+. Lit.: “Eles devem”.
+. Lit.: “eles fizeram”.
+====
+
+[[v4-5-8]]
+
+^<<v4-5-8,8>>^ Mas, se a vítima não tiver um parente próximo para receber a compensação, esta deverá ser dada a Jeová e pertencerá ao sacerdote, além do carneiro da expiação com que ele fará expiação por aquele que cometeu o pecado.
+
+[[v4-5-9]]
+
+^<<v4-5-9,9>>^ “‘Toda contribuição sagrada dos israelitas que for apresentada ao sacerdote deve se tornar dele.
+
+[[v4-5-10]]
+
+^<<v4-5-10,10>>^ As coisas sagradas que cada pessoa apresentar serão dele. Aquilo que cada um der ao sacerdote pertencerá ao sacerdote.’”
+
+[[v4-5-11]]
+
+^<<v4-5-11,11>>^ Jeová disse ainda a Moisés:
+
+[[v4-5-12]]
+
+^<<v4-5-12,12>>^ “Diga aos israelitas: ‘Isto é o que deve ser feito caso a esposa de um homem se desencaminhe e seja infiel a ele,
+
+[[v4-5-13]]
+
+^<<v4-5-13,13>>^ e outro homem tenha relações sexuais com ela, mas isso não chegue ao conhecimento do seu marido e permaneça escondido, de modo que ela tenha se tornado impura, sem que haja testemunhas contra ela e sem que ela tenha sido apanhada:
+
+[[v4-5-14]]
+
+^<<v4-5-14,14>>^ se o marido ficar com ciúme e suspeitar da fidelidade da sua esposa, e ela realmente se tiver tornado impura, ou se ele ficar com ciúme e suspeitar da fidelidade da sua esposa sem que ela tenha se tornado impura,
+
+[[v4-5-15]]
+
+^<<v4-5-15,15>>^ o homem deve levar sua esposa ao sacerdote, junto com uma oferta por ela, um décimo de uma efa^&#42;1^ de farinha de cevada. Ele não deve derramar azeite sobre a oferta nem pôr olíbano sobre ela, porque é uma oferta de cereais referente ao ciúme, uma oferta de cereais que faz lembrar a culpa.
+
+[NOTE]
+====
+. A décima parte de uma efa equivalia a 2,2 l. Veja Ap. B14.
+====
+
+[[v4-5-16]]
+
+^<<v4-5-16,16>>^ “‘O sacerdote trará a mulher para a frente e a fará ficar perante Jeová.
+
+[[v4-5-17]]
+
+^<<v4-5-17,17>>^ O sacerdote pegará água santa num recipiente de barro, e pegará um pouco do pó do chão do tabernáculo e o porá na água.
+
+[[v4-5-18]]
+
+^<<v4-5-18,18>>^ E o sacerdote fará a mulher ficar perante Jeová, soltará o cabelo da mulher e porá nas mãos dela a oferta de cereais que serve de recordação, isto é, a oferta de cereais referente ao ciúme; e o sacerdote terá na sua mão a água amarga que traz maldição.
+
+[[v4-5-19]]
+
+^<<v4-5-19,19>>^ “‘O sacerdote fará então a mulher jurar, dizendo-lhe: “Se nenhum outro homem teve relações sexuais com você enquanto estava sujeita à autoridade do seu marido, e você não se desencaminhou nem se tornou impura, que você fique livre do efeito desta água amarga que traz maldição.
+
+[[v4-5-20]]
+
+^<<v4-5-20,20>>^ Mas, se você tiver se desencaminhado enquanto estava sujeita à autoridade do seu marido, tornando-se impura, e tiver tido relações sexuais com outro homem além do seu marido . . .”
+
+[[v4-5-21]]
+
+^<<v4-5-21,21>>^ Então o sacerdote fará a mulher pronunciar um juramento que inclua uma maldição, e o sacerdote dirá à mulher: “Que Jeová faça de você um exemplo a ser citado em maldições e em juramentos entre o seu povo, por Jeová fazer a sua coxa^&#42;1^ cair^&#42;2^ e a sua barriga inchar.
+
+[NOTE]
+====
+. Pelo visto se refere aos órgãos reprodutivos.
+. Ou: “definhar”. Isso talvez sugira a perda da fertilidade.
+====
+
+[[v4-5-22]]
+
+^<<v4-5-22,22>>^ Esta água que traz maldição entrará nos seus intestinos para fazer a sua barriga inchar e a sua coxa^&#42;1^ cair.”^&#42;2^ E a mulher deve dizer: “Amém! Amém!”^&#42;3^
+
+[NOTE]
+====
+. Pelo visto se refere aos órgãos reprodutivos.
+. Ou: “definhar”. Isso talvez sugira a perda da fertilidade.
+. Ou: “Assim seja! Assim seja!”
+====
+
+[[v4-5-23]]
+
+^<<v4-5-23,23>>^ “‘Então o sacerdote deve escrever essas maldições no livro e as apagar na água amarga.
+
+[[v4-5-24]]
+
+^<<v4-5-24,24>>^ E ele fará a mulher beber a água amarga que traz maldição, e a água que traz maldição entrará nela e resultará em amargura.
+
+[[v4-5-25]]
+
+^<<v4-5-25,25>>^ E o sacerdote deve pegar da mão da mulher a oferta de cereais referente ao ciúme e mover a oferta de cereais para frente e para trás perante Jeová, e ele levará a oferta para o altar.
+
+[[v4-5-26]]
+
+^<<v4-5-26,26>>^ O sacerdote pegará um punhado da oferta de cereais como representação da oferta inteira e o fará fumegar no altar; depois fará a mulher beber a água.
+
+[[v4-5-27]]
+
+^<<v4-5-27,27>>^ Quando ele a fizer beber a água, se ela tiver se tornado impura e tiver cometido um ato de infidelidade contra o seu marido, a água que traz maldição entrará nela e se tornará algo amargo, e a sua barriga inchará e a sua coxa^&#42;1^ cairá;^&#42;2^ e a mulher se tornará um exemplo de maldição entre o seu povo.
+
+[NOTE]
+====
+. Pelo visto se refere aos órgãos reprodutivos.
+. Ou: “definhará”. Isso talvez sugira a perda da fertilidade.
+====
+
+[[v4-5-28]]
+
+^<<v4-5-28,28>>^ No entanto, se a mulher não tiver se tornado impura, mas estiver pura, ela ficará livre dessa punição, e poderá conceber e produzir descendentes.
+
+[[v4-5-29]]
+
+^<<v4-5-29,29>>^ “‘Essa é a lei a respeito do ciúme, caso uma mulher se desencaminhe e se torne impura enquanto estiver sujeita à autoridade do seu marido,
+
+[[v4-5-30]]
+
+^<<v4-5-30,30>>^ ou caso um homem fique com ciúme e suspeite que sua esposa tenha sido infiel. Ele deve fazer sua esposa ficar perante Jeová, e o sacerdote terá de cumprir toda essa lei no caso dela.
+
+[[v4-5-31]]
+
+^<<v4-5-31,31>>^ O homem ficará livre de culpa, mas sua esposa responderá pela sua culpa.’”
+
+'''
+
+xref:004-numeros/004-numeros-004.adoc#v4-4-0[&#60; Capítulo Anterior] | <<v4-5-0,Topo>> | xref:004-numeros/004-numeros-006.adoc#v4-6-0[Próximo Capítulo &#62;]

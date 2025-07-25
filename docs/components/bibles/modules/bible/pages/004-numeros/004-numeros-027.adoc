@@ -1,0 +1,126 @@
+include::./index.adoc[]
+
+[[v4-27-0]]
+=== Números, 27
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v4-27-1]]
+
+^<<v4-27-1,1>>^ Aproximaram-se então as filhas de Zelofeade, filho de Héfer, filho de Gileade, filho de Maquir, filho de Manassés, das famílias de Manassés, filho de José. Os nomes das suas filhas eram Maala, Noa, Hogla, Milca e Tirza.
+
+[[v4-27-2]]
+
+^<<v4-27-2,2>>^ Elas ficaram diante de Moisés, de Eleazar, o sacerdote, dos maiorais e de toda a assembleia à entrada da tenda de reunião, e disseram:
+
+[[v4-27-3]]
+
+^<<v4-27-3,3>>^ “Nosso pai morreu no deserto. Mas ele não estava no grupo que se uniu contra Jeová, os que apoiavam Corá. Ele morreu por causa do seu próprio pecado e não teve filhos.
+
+[[v4-27-4]]
+
+^<<v4-27-4,4>>^ Por que o nome do nosso pai deveria desaparecer da sua família por ele não ter tido um filho? Dê-nos uma propriedade entre os irmãos do nosso pai.”
+
+[[v4-27-5]]
+
+^<<v4-27-5,5>>^ Assim, Moisés apresentou o caso delas perante Jeová.
+
+[[v4-27-6]]
+
+^<<v4-27-6,6>>^ Então Jeová disse o seguinte a Moisés:
+
+[[v4-27-7]]
+
+^<<v4-27-7,7>>^ “As filhas de Zelofeade estão certas. Sem falta, você deve lhes dar uma propriedade como herança entre os irmãos do pai delas e transferir a herança dele para elas.
+
+[[v4-27-8]]
+
+^<<v4-27-8,8>>^ E diga aos israelitas: ‘Se um homem morrer sem ter filho, vocês devem passar a herança dele à sua filha.
+
+[[v4-27-9]]
+
+^<<v4-27-9,9>>^ Se ele não tiver filha, vocês darão a herança dele aos seus irmãos.
+
+[[v4-27-10]]
+
+^<<v4-27-10,10>>^ Se ele não tiver irmãos, vocês darão a herança dele aos irmãos do seu pai.
+
+[[v4-27-11]]
+
+^<<v4-27-11,11>>^ E, se o pai dele não tiver irmãos, vocês darão a herança dele ao seu parente consanguíneo mais próximo na família, e este tomará posse dela. Essa decisão judicial será um decreto para os israelitas, assim como Jeová ordenou a Moisés.’”
+
+[[v4-27-12]]
+
+^<<v4-27-12,12>>^ Então Jeová disse a Moisés: “Suba a este monte da região de Abarim e veja a terra que darei aos israelitas.
+
+[[v4-27-13]]
+
+^<<v4-27-13,13>>^ Depois de vê-la, você também será reunido ao seu povo,^&#42;1^ assim como Arão, seu irmão,
+
+[NOTE]
+====
+. Expressão poética que se refere à morte.
+====
+
+[[v4-27-14]]
+
+^<<v4-27-14,14>>^ visto que, quando a assembleia discutiu comigo no deserto de Zim, vocês se rebelaram contra a minha ordem e não me santificaram diante deles no que se referia às águas. Trata-se das águas de Meribá, em Cades, no deserto de Zim.”
+
+[[v4-27-15]]
+
+^<<v4-27-15,15>>^ Moisés disse então a Jeová:
+
+[[v4-27-16]]
+
+^<<v4-27-16,16>>^ “Que Jeová, o Deus do espírito de todas as pessoas,^&#42;1^ designe sobre a assembleia um homem
+
+[NOTE]
+====
+. Lit.: “dos espíritos de toda carne”.
+====
+
+[[v4-27-17]]
+
+^<<v4-27-17,17>>^ que saia e entre à frente deles e que os faça sair e entrar,^&#42;1^ a fim de que a assembleia de Jeová não fique como ovelhas sem pastor.”
+
+[NOTE]
+====
+. Ou: “que os guiará em todos os assuntos e a quem eles seguirão em todos os assuntos”.
+====
+
+[[v4-27-18]]
+
+^<<v4-27-18,18>>^ Portanto, Jeová disse a Moisés: “Chame Josué, filho de Num, homem competente,^&#42;1^ e ponha sua mão sobre ele.
+
+[NOTE]
+====
+. Lit.: “em quem há espírito”.
+====
+
+[[v4-27-19]]
+
+^<<v4-27-19,19>>^ Então faça-o ficar de pé diante de Eleazar, o sacerdote, e diante de toda a assembleia, e designe-o como líder diante dos olhos deles.
+
+[[v4-27-20]]
+
+^<<v4-27-20,20>>^ Você deve conferir-lhe um pouco da sua autoridade,^&#42;1^ para que toda a assembleia de Israel o escute.
+
+[NOTE]
+====
+. Ou: “dignidade”.
+====
+
+[[v4-27-21]]
+
+^<<v4-27-21,21>>^ Ele se apresentará a Eleazar, o sacerdote, que fará uma consulta a seu favor perante Jeová, por meio da decisão do Urim. À sua ordem, eles sairão; e à sua ordem, eles entrarão, ele e todos os israelitas com ele, e toda a assembleia.”
+
+[[v4-27-22]]
+
+^<<v4-27-22,22>>^ Então Moisés fez assim como Jeová lhe havia ordenado. Chamou Josué e o fez ficar diante de Eleazar, o sacerdote, e diante de toda a assembleia,
+
+[[v4-27-23]]
+
+^<<v4-27-23,23>>^ e pôs as mãos sobre ele e o designou como líder, assim como Jeová havia falado por meio de Moisés.
+
+'''
+
+xref:004-numeros/004-numeros-026.adoc#v4-26-0[&#60; Capítulo Anterior] | <<v4-27-0,Topo>> | xref:004-numeros/004-numeros-028.adoc#v4-28-0[Próximo Capítulo &#62;]

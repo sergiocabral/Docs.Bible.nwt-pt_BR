@@ -1,0 +1,106 @@
+include::./index.adoc[]
+
+[[v23-64-0]]
+=== Isaías, 64
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v23-64-1]]
+
+^<<v23-64-1,1>>^ Quem dera que tivesses rasgado os céus e descido,
+De modo que os montes tremessem por tua causa,
+
+[[v23-64-2]]
+
+^<<v23-64-2,2>>^ Como quando o fogo incendeia gravetos secos
+E faz a água ferver!
+Então os teus adversários conheceriam o teu nome,
+E as nações tremeriam diante de ti!
+
+[[v23-64-3]]
+
+^<<v23-64-3,3>>^ Quando fizeste coisas espantosas, que nem esperávamos,
+Tu desceste e os montes tremeram diante de ti.
+
+[[v23-64-4]]
+
+^<<v23-64-4,4>>^ Desde os tempos antigos ninguém ouviu, nem escutou,
+E nenhum olho viu algum Deus, exceto a ti,
+Que age em favor dos que nele esperam.^&#42;1^
+
+[NOTE]
+====
+. Ou: “que esperam pacientemente por ele”.
+====
+
+[[v23-64-5]]
+
+^<<v23-64-5,5>>^ Foste ao encontro daqueles que se alegram em fazer o que é certo,
+Dos que se lembram de ti e seguem os teus caminhos.
+Mas ficaste indignado quando continuávamos a pecar;
+Fizemos isso por muito tempo.
+Será que agora merecemos ser salvos?
+
+[[v23-64-6]]
+
+^<<v23-64-6,6>>^ E todos nós nos tornamos como alguém impuro,
+E todos os nossos atos de justiça são como um pano de menstruação.
+Todos murcharemos como uma folha,
+E os nossos erros nos levarão embora como o vento.
+
+[[v23-64-7]]
+
+^<<v23-64-7,7>>^ Ninguém invoca o teu nome,
+Ninguém se esforça para apegar-se a ti,
+Pois escondeste de nós a tua face
+E nos fazes definhar^&#42;1^ por causa^&#42;2^ dos nossos erros.
+
+[NOTE]
+====
+. Lit.: “derreter”.
+. Lit.: “pela mão”.
+====
+
+[[v23-64-8]]
+
+^<<v23-64-8,8>>^ Mas agora, ó Jeová, tu és o nosso Pai.
+Somos o barro, e tu és o nosso Oleiro;^&#42;1^
+Todos nós somos trabalho das tuas mãos.
+
+[NOTE]
+====
+. Ou: “Aquele que nos formou”.
+====
+
+[[v23-64-9]]
+
+^<<v23-64-9,9>>^ Não fiques indignado demais, ó Jeová,
+E não te lembres para sempre dos nossos erros.
+Olha para nós, por favor, pois somos todos teu povo.
+
+[[v23-64-10]]
+
+^<<v23-64-10,10>>^ Tuas cidades santas se transformaram num lugar deserto.
+Sião ficou deserta,
+Jerusalém ficou desolada.
+
+[[v23-64-11]]
+
+^<<v23-64-11,11>>^ Nossa casa^&#42;1^ santa e gloriosa,^&#42;2^
+Onde nossos antepassados te louvavam,
+Foi queimada pelo fogo;
+E tudo que amávamos está em ruínas.
+
+[NOTE]
+====
+. Ou: “Nosso templo”.
+. Ou: “bela”.
+====
+
+[[v23-64-12]]
+
+^<<v23-64-12,12>>^ Diante disso, continuarás a refrear-te, ó Jeová?
+Continuarás calado e deixarás que sejamos afligidos tão severamente?
+
+'''
+
+xref:023-isaias/023-isaias-063.adoc#v23-63-0[&#60; Capítulo Anterior] | <<v23-64-0,Topo>> | xref:023-isaias/023-isaias-065.adoc#v23-65-0[Próximo Capítulo &#62;]

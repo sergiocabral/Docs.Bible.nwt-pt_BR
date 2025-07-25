@@ -1,0 +1,265 @@
+include::./index.adoc[]
+
+[[v20-24-0]]
+=== Provérbios, 24
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v20-24-1]]
+
+^<<v20-24-1,1>>^ Não inveje os maus,
+Nem deseje a companhia deles,
+
+[[v20-24-2]]
+
+^<<v20-24-2,2>>^ Pois o coração deles trama^&#42;1^ violência,
+E seus lábios falam de coisas ruins.
+
+[NOTE]
+====
+. Ou: “medita em”.
+====
+
+[[v20-24-3]]
+
+^<<v20-24-3,3>>^ Pela sabedoria se edifica uma casa,^&#42;1^
+E pelo discernimento ela é firmada.
+
+[NOTE]
+====
+. Ou: “os da casa”.
+====
+
+[[v20-24-4]]
+
+^<<v20-24-4,4>>^ Pelo conhecimento seus aposentos ficam cheios
+De todo tipo de tesouros preciosos e agradáveis.
+
+[[v20-24-5]]
+
+^<<v20-24-5,5>>^ O homem sábio é forte,
+E com o conhecimento o homem aumenta a sua força.
+
+[[v20-24-6]]
+
+^<<v20-24-6,6>>^ É com orientação perita^&#42;1^ que você travará a sua guerra,
+E com muitos conselheiros há vitória.^&#42;2^
+
+[NOTE]
+====
+. Ou: “sábia”.
+. Ou: “sucesso; salvação”.
+====
+
+[[v20-24-7]]
+
+^<<v20-24-7,7>>^ A verdadeira sabedoria é inalcançável para o tolo;
+Ele não tem nada a dizer no portão da cidade.
+
+[[v20-24-8]]
+
+^<<v20-24-8,8>>^ Quem trama o mal
+Será chamado de mestre em intrigas.
+
+[[v20-24-9]]
+
+^<<v20-24-9,9>>^ Tramas tolas^&#42;1^ são pecado,
+E as pessoas detestam o zombador.
+
+[NOTE]
+====
+. Ou: “As tramas do tolo”.
+====
+
+[[v20-24-10]]
+
+^<<v20-24-10,10>>^ Se você ficar desanimado no dia da aflição,^&#42;1^
+Sua força será escassa.
+
+[NOTE]
+====
+. Ou: “em tempos de aflição”.
+====
+
+[[v20-24-11]]
+
+^<<v20-24-11,11>>^ Livre os que estão sendo levados para a morte;
+Salve os que estão cambaleando para a matança.
+
+[[v20-24-12]]
+
+^<<v20-24-12,12>>^ Se você disser: “Mas não sabíamos de nada”,
+Será que Aquele que examina os corações^&#42;1^ não discernirá isso?
+Sim, Aquele que observa você^&#42;2^ saberá
+E retribuirá a cada homem segundo as suas ações.
+
+[NOTE]
+====
+. Ou: “as motivações”.
+. Ou: “sua alma”.
+====
+
+[[v20-24-13]]
+
+^<<v20-24-13,13>>^ Meu filho, coma mel, porque é bom;
+O mel dos favos é doce para o paladar.
+
+[[v20-24-14]]
+
+^<<v20-24-14,14>>^ Do mesmo modo, saiba que a sabedoria é boa para você.^&#42;1^
+Se a achar, você terá um bom futuro,
+E a sua esperança não lhe será tirada.^&#42;2^
+
+[NOTE]
+====
+. Ou: “é doce para a sua alma”.
+. Ou: “decepada”.
+====
+
+[[v20-24-15]]
+
+^<<v20-24-15,15>>^ Não fique de emboscada, como um homem perverso, perto da casa do justo;
+Não destrua seu lugar de descanso.
+
+[[v20-24-16]]
+
+^<<v20-24-16,16>>^ Pois, mesmo que o justo caia sete vezes, ele se levantará de novo;
+Mas os maus tropeçarão por causa da calamidade.
+
+[[v20-24-17]]
+
+^<<v20-24-17,17>>^ Quando o seu inimigo cair, não se alegre;
+E, quando ele tropeçar, seu coração não deve exultar;
+
+[[v20-24-18]]
+
+^<<v20-24-18,18>>^ Senão, Jeová verá isso e não ficará satisfeito,
+E fará sua ira recuar dele.^&#42;1^
+
+[NOTE]
+====
+. Isto é, do inimigo.
+====
+
+[[v20-24-19]]
+
+^<<v20-24-19,19>>^ Não fique aborrecido^&#42;1^ por causa dos malfeitores;
+Não inveje os maus.
+
+[NOTE]
+====
+. Ou: “Não se mostre acalorado”.
+====
+
+[[v20-24-20]]
+
+^<<v20-24-20,20>>^ Pois não há futuro para os malfeitores;
+A lâmpada dos maus será apagada.
+
+[[v20-24-21]]
+
+^<<v20-24-21,21>>^ Meu filho, tema a Jeová e ao rei,
+E não se envolva com dissidentes,^&#42;1^
+
+[NOTE]
+====
+. Ou: “os que estão a favor de uma mudança”.
+====
+
+[[v20-24-22]]
+
+^<<v20-24-22,22>>^ Pois o desastre deles ocorrerá repentinamente.
+Quem sabe que ruína os dois^&#42;1^ trarão sobre eles?
+
+[NOTE]
+====
+. Isto é, Jeová e o rei.
+====
+
+[[v20-24-23]]
+
+^<<v20-24-23,23>>^ Estas declarações também são dos sábios:
+Não é bom mostrar parcialidade no julgamento.
+
+[[v20-24-24]]
+
+^<<v20-24-24,24>>^ Quem disser àquele que é mau: “Você é justo”,
+Será amaldiçoado pelos povos e condenado pelas nações.
+
+[[v20-24-25]]
+
+^<<v20-24-25,25>>^ Mas os que o repreendem se sairão bem
+E serão abençoados com coisas boas.
+
+[[v20-24-26]]
+
+^<<v20-24-26,26>>^ As pessoas beijarão os lábios daquele que dá uma resposta sincera.^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “Responder de modo direto é como dar um beijo.”
+====
+
+[[v20-24-27]]
+
+^<<v20-24-27,27>>^ Prepare o seu trabalho lá fora e deixe tudo pronto no campo;
+Depois construa a sua casa.^&#42;1^
+
+[NOTE]
+====
+. Ou: “estabeleça a sua família”.
+====
+
+[[v20-24-28]]
+
+^<<v20-24-28,28>>^ Não testemunhe contra o seu próximo se não tiver base,
+Não use os seus lábios para enganar outros.
+
+[[v20-24-29]]
+
+^<<v20-24-29,29>>^ Não diga: “Farei com ele o mesmo que ele fez comigo;
+Eu lhe retribuirei o que ele fez.”^&#42;1^
+
+[NOTE]
+====
+. Ou: “Vou me vingar dele”.
+====
+
+[[v20-24-30]]
+
+^<<v20-24-30,30>>^ Passei pelo campo do preguiçoso,
+Pelo vinhedo do homem que não tem bom senso.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “não tem coração”.
+====
+
+[[v20-24-31]]
+
+^<<v20-24-31,31>>^ Vi que estava cheio de ervas daninhas;
+O solo estava coberto de urtigas,
+E seu muro de pedras estava em ruínas.
+
+[[v20-24-32]]
+
+^<<v20-24-32,32>>^ Observei isso e fiquei pensando;
+Vi e aprendi a seguinte lição:^&#42;1^
+
+[NOTE]
+====
+. Lit.: “aceitei a disciplina”.
+====
+
+[[v20-24-33]]
+
+^<<v20-24-33,33>>^ Um pouco de sono, um pouco de cochilo,
+Um pouco de cruzar os braços para descansar,
+
+[[v20-24-34]]
+
+^<<v20-24-34,34>>^ E a sua pobreza chegará como um ladrão,
+E a sua carência como um homem armado.
+
+'''
+
+xref:020-proverbios/020-proverbios-023.adoc#v20-23-0[&#60; Capítulo Anterior] | <<v20-24-0,Topo>> | xref:020-proverbios/020-proverbios-025.adoc#v20-25-0[Próximo Capítulo &#62;]

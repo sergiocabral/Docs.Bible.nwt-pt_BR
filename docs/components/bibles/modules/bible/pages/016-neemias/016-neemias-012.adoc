@@ -1,0 +1,238 @@
+include::./index.adoc[]
+
+[[v16-12-0]]
+=== Neemias, 12
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v16-12-1]]
+
+^<<v16-12-1,1>>^ Estes foram os sacerdotes e os levitas que voltaram com Zorobabel, filho de Sealtiel, e com Jesua: Seraías, Jeremias, Esdras,
+
+[[v16-12-2]]
+
+^<<v16-12-2,2>>^ Amarias, Maluque, Hatus,
+
+[[v16-12-3]]
+
+^<<v16-12-3,3>>^ Secanias, Reum, Meremote,
+
+[[v16-12-4]]
+
+^<<v16-12-4,4>>^ Ido, Ginetoi, Abias,
+
+[[v16-12-5]]
+
+^<<v16-12-5,5>>^ Miamim, Maadias, Bilga,
+
+[[v16-12-6]]
+
+^<<v16-12-6,6>>^ Semaías, Joiaribe, Jedaías,
+
+[[v16-12-7]]
+
+^<<v16-12-7,7>>^ Salu, Amoque, Hilquias e Jedaías. Esses eram os cabeças dos sacerdotes e dos seus irmãos nos dias de Jesua.
+
+[[v16-12-8]]
+
+^<<v16-12-8,8>>^ Os levitas eram Jesua, Binui, Cadmiel, Serebias, Judá e Matanias, que conduzia os cânticos de agradecimento junto com seus irmãos.
+
+[[v16-12-9]]
+
+^<<v16-12-9,9>>^ Bacbuquias e Uni, seus irmãos, ficavam de frente para eles, servindo como guardas.^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “durante o serviço de adoração”.
+====
+
+[[v16-12-10]]
+
+^<<v16-12-10,10>>^ Jesua tornou-se pai de Joiaquim, Joiaquim tornou-se pai de Eliasibe, e Eliasibe de Joiada.
+
+[[v16-12-11]]
+
+^<<v16-12-11,11>>^ Joiada tornou-se pai de Jonatã, e Jonatã tornou-se pai de Jadua.
+
+[[v16-12-12]]
+
+^<<v16-12-12,12>>^ Nos dias de Joiaquim, estes eram os sacerdotes, os cabeças de casas paternas: Meraías, da casa de Seraías; Hananias, da casa de Jeremias;
+
+[[v16-12-13]]
+
+^<<v16-12-13,13>>^ Mesulão, da casa de Esdras; Jeoanã, da casa de Amarias;
+
+[[v16-12-14]]
+
+^<<v16-12-14,14>>^ Jonatã, da casa de Maluqui; José, da casa de Sebanias;
+
+[[v16-12-15]]
+
+^<<v16-12-15,15>>^ Adna, da casa de Harim; Helcai, da casa de Meraiote;
+
+[[v16-12-16]]
+
+^<<v16-12-16,16>>^ Zacarias, da casa de Ido; Mesulão, da casa de Ginetom;
+
+[[v16-12-17]]
+
+^<<v16-12-17,17>>^ Zicri, da casa de Abias; . . .,^&#42;1^ da casa de Miniamim; Piltai, da casa de Moadias;
+
+[NOTE]
+====
+. Pelo visto, o texto hebraico omite um nome aqui.
+====
+
+[[v16-12-18]]
+
+^<<v16-12-18,18>>^ Samua, da casa de Bilga; Jeonatã, da casa de Semaías;
+
+[[v16-12-19]]
+
+^<<v16-12-19,19>>^ Matenai, da casa de Joiaribe; Uzi, da casa de Jedaías;
+
+[[v16-12-20]]
+
+^<<v16-12-20,20>>^ Calai, da casa de Salai; Éber, da casa de Amoque;
+
+[[v16-12-21]]
+
+^<<v16-12-21,21>>^ Hasabias, da casa de Hilquias; e Netanel, da casa de Jedaías.
+
+[[v16-12-22]]
+
+^<<v16-12-22,22>>^ Os cabeças das casas paternas dos levitas, bem como dos sacerdotes, foram registrados nos dias de Eliasibe, Joiada, Joanã e Jadua, isto é, até o reinado de Dario, o persa.
+
+[[v16-12-23]]
+
+^<<v16-12-23,23>>^ Os levitas que eram cabeças de casas paternas foram inscritos no livro dos registros históricos até os dias de Joanã, filho de Eliasibe.
+
+[[v16-12-24]]
+
+^<<v16-12-24,24>>^ Os cabeças dos levitas eram Hasabias, Serebias e Jesua, filho de Cadmiel; e seus irmãos ficavam de frente para eles, um grupo de guardas ao lado de outro grupo de guardas, para oferecer louvores e agradecimentos de acordo com as instruções de Davi, o homem do verdadeiro Deus.
+
+[[v16-12-25]]
+
+^<<v16-12-25,25>>^ Matanias, Bacbuquias, Obadias, Mesulão, Talmom e Acube montavam guarda como porteiros, vigiando os depósitos que ficavam junto aos portões.
+
+[[v16-12-26]]
+
+^<<v16-12-26,26>>^ Eles serviram nos dias de Joiaquim, filho de Jesua, filho de Jozadaque, e nos dias de Neemias, o governador, e de Esdras, o sacerdote e copista.^&#42;1^
+
+[NOTE]
+====
+. Ou: “escriba”.
+====
+
+[[v16-12-27]]
+
+^<<v16-12-27,27>>^ Por ocasião da inauguração das muralhas de Jerusalém, procuraram os levitas e os trouxeram a Jerusalém, de todos os lugares onde moravam, para celebrar a inauguração com alegria e cânticos de agradecimento, com címbalos, instrumentos de cordas e harpas.
+
+[[v16-12-28]]
+
+^<<v16-12-28,28>>^ E os filhos dos cantores^&#42;1^ se reuniram, vindo do distrito,^&#42;2^ de todos os arredores de Jerusalém, dos povoados dos netofatitas,
+
+[NOTE]
+====
+. Ou: “E os cantores treinados”.
+. Isto é, do distrito ao redor do Jordão.
+====
+
+[[v16-12-29]]
+
+^<<v16-12-29,29>>^ de Bete-Gilgal, e dos campos de Geba e de Azmavete, pois os cantores tinham construído seus próprios povoados ao redor de Jerusalém.
+
+[[v16-12-30]]
+
+^<<v16-12-30,30>>^ E os sacerdotes e os levitas se purificaram, e purificaram também o povo, os portões e a muralha.
+
+[[v16-12-31]]
+
+^<<v16-12-31,31>>^ Então fiz os príncipes de Judá subir ao alto da muralha. Além disso, organizei dois grandes coros de agradecimento e dois grupos de pessoas para segui-los. Um foi para a direita, pelo alto da muralha, em direção ao Portão dos Montes de Cinzas.
+
+[[v16-12-32]]
+
+^<<v16-12-32,32>>^ Osaías e metade dos príncipes de Judá foram atrás deles,
+
+[[v16-12-33]]
+
+^<<v16-12-33,33>>^ junto com Azarias, Esdras, Mesulão,
+
+[[v16-12-34]]
+
+^<<v16-12-34,34>>^ Judá, Benjamim, Semaías e Jeremias.
+
+[[v16-12-35]]
+
+^<<v16-12-35,35>>^ Com eles estavam alguns dos filhos dos sacerdotes com trombetas: Zacarias, filho de Jonatã, filho de Semaías, filho de Matanias, filho de Micaías, filho de Zacur, filho de Asafe,
+
+[[v16-12-36]]
+
+^<<v16-12-36,36>>^ e seus irmãos Semaías, Azarel, Milalai, Gilalai, Maai, Netanel, Judá e Hanani. Eles usavam os instrumentos musicais de Davi, o homem do verdadeiro Deus; e Esdras, o copista,^&#42;1^ ia à frente deles.
+
+[NOTE]
+====
+. Ou: “escriba”.
+====
+
+[[v16-12-37]]
+
+^<<v16-12-37,37>>^ No Portão da Fonte, seguiram em frente pela subida da muralha, passando por cima da Escadaria da Cidade de Davi e acima da Casa de Davi, e seguiram até o Portão das Águas, do lado leste.
+
+[[v16-12-38]]
+
+^<<v16-12-38,38>>^ O outro coro de agradecimento foi pelo lado oposto,^&#42;1^ e eu fui atrás dele junto com metade do povo, seguindo pelo alto da muralha, passando pela Torre dos Fornos, até a Muralha Larga
+
+[NOTE]
+====
+. Ou: “foi na frente”.
+====
+
+[[v16-12-39]]
+
+^<<v16-12-39,39>>^ e o Portão de Efraim, o Portão da Cidade Antiga, o Portão do Peixe, a Torre de Hananel, a Torre de Meá e o Portão das Ovelhas, parando no Portão da Guarda.
+
+[[v16-12-40]]
+
+^<<v16-12-40,40>>^ Por fim, os dois coros de agradecimento pararam diante da casa do verdadeiro Deus, bem como eu, acompanhado de metade dos subgovernadores,
+
+[[v16-12-41]]
+
+^<<v16-12-41,41>>^ e os sacerdotes Eliaquim, Maaseias, Miniamim, Micaías, Elioenai, Zacarias e Hananias, com suas trombetas,
+
+[[v16-12-42]]
+
+^<<v16-12-42,42>>^ e também Maaseias, Semaías, Eleazar, Uzi, Jeoanã, Malquias, Elão e Ezer. E os cantores cantaram alto sob a supervisão de Izraías.
+
+[[v16-12-43]]
+
+^<<v16-12-43,43>>^ Naquele dia ofereceram grandes sacrifícios e se alegraram, pois o verdadeiro Deus os fez alegrar-se muito. As mulheres e as crianças também se alegraram, de modo que a alegria de Jerusalém podia ser ouvida de longe.
+
+[[v16-12-44]]
+
+^<<v16-12-44,44>>^ Naquele dia foram designados homens como encarregados dos depósitos para as contribuições, para as primícias e para os décimos.^&#42;1^ Ali deveriam recolher o que trouxessem dos campos das cidades como porções exigidas pela Lei para os sacerdotes e para os levitas, pois havia alegria em Judá por causa dos sacerdotes e dos levitas que estavam em serviço.
+
+[NOTE]
+====
+. Ou: “dízimos”.
+====
+
+[[v16-12-45]]
+
+^<<v16-12-45,45>>^ E eles começaram a cuidar dos deveres para com o seu Deus e da obrigação para com a purificação, e o mesmo fizeram os cantores e os porteiros, de acordo com as instruções de Davi e de seu filho Salomão.
+
+[[v16-12-46]]
+
+^<<v16-12-46,46>>^ Pois há muito tempo, nos dias de Davi e de Asafe, havia regentes^&#42;1^ para os cantores e para os cânticos de louvor e de agradecimento a Deus.
+
+[NOTE]
+====
+. Lit.: “cabeças”.
+====
+
+[[v16-12-47]]
+
+^<<v16-12-47,47>>^ Nos dias de Zorobabel e nos dias de Neemias, todo o Israel dava porções aos cantores e aos porteiros para as suas necessidades diárias. Também separavam a porção dos levitas, e os levitas separavam a porção dos descendentes de Arão.
+
+'''
+
+xref:016-neemias/016-neemias-011.adoc#v16-11-0[&#60; Capítulo Anterior] | <<v16-12-0,Topo>> | xref:016-neemias/016-neemias-013.adoc#v16-13-0[Próximo Capítulo &#62;]

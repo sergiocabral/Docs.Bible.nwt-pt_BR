@@ -1,0 +1,114 @@
+include::./index.adoc[]
+
+[[v18-23-0]]
+=== Jó, 23
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v18-23-1]]
+
+^<<v18-23-1,1>>^ Jó disse em resposta:
+
+[[v18-23-2]]
+
+^<<v18-23-2,2>>^ “Até hoje me queixo de modo obstinado;^&#42;1^
+Minhas forças se esgotaram por causa do meu gemido.
+
+[NOTE]
+====
+. Ou: “minha queixa é rebelde”.
+====
+
+[[v18-23-3]]
+
+^<<v18-23-3,3>>^ Quem dera que eu soubesse onde encontrar a Deus!
+Eu iria até o seu lugar de morada.
+
+[[v18-23-4]]
+
+^<<v18-23-4,4>>^ Apresentaria minha causa perante ele
+E encheria minha boca de argumentos.
+
+[[v18-23-5]]
+
+^<<v18-23-5,5>>^ Eu ficaria sabendo o que ele me responderia
+E prestaria atenção no que ele me dissesse.
+
+[[v18-23-6]]
+
+^<<v18-23-6,6>>^ Será que ele se oporia a mim com seu grande poder?
+Não, com certeza ele me ouviria.
+
+[[v18-23-7]]
+
+^<<v18-23-7,7>>^ Ali o justo resolveria as questões com ele,
+E eu seria absolvido de uma vez para sempre pelo meu Juiz.
+
+[[v18-23-8]]
+
+^<<v18-23-8,8>>^ Mas, se vou para o leste, ele não está lá;
+E, se volto, não consigo encontrá-lo.
+
+[[v18-23-9]]
+
+^<<v18-23-9,9>>^ Quando ele está trabalhando à esquerda, não consigo vê-lo;
+Então ele se desvia para a direita, mas ainda assim não o vejo.
+
+[[v18-23-10]]
+
+^<<v18-23-10,10>>^ Mas ele conhece o caminho em que ando.
+Depois que ele me testar, sairei como ouro refinado.
+
+[[v18-23-11]]
+
+^<<v18-23-11,11>>^ Meus pés seguiram fielmente os seus passos;
+Guardei o seu caminho sem me desviar.
+
+[[v18-23-12]]
+
+^<<v18-23-12,12>>^ Não me afastei do mandamento dos seus lábios.
+Guardei suas declarações no coração,^&#42;1^ mais do que se exigia de mim.^&#42;2^
+
+[NOTE]
+====
+. Ou: “Entesourei suas declarações”.
+. Ou: “do que me foi prescrito”.
+====
+
+[[v18-23-13]]
+
+^<<v18-23-13,13>>^ Quando ele toma uma decisão, quem pode impedi-lo?
+Quando ele^&#42;1^ quer fazer alguma coisa, ele faz.
+
+[NOTE]
+====
+. Ou: “sua alma”.
+====
+
+[[v18-23-14]]
+
+^<<v18-23-14,14>>^ Pois cumprirá plenamente o que determinou^&#42;1^ para mim,
+E ele tem muitas outras coisas semelhantes em reserva.
+
+[NOTE]
+====
+. Ou: “prescreveu”.
+====
+
+[[v18-23-15]]
+
+^<<v18-23-15,15>>^ É por isso que eu me sinto perturbado por causa dele;
+Quando penso nele, meu temor aumenta.
+
+[[v18-23-16]]
+
+^<<v18-23-16,16>>^ Deus me fez ficar desanimado,
+E o Todo-Poderoso me fez ficar com medo.
+
+[[v18-23-17]]
+
+^<<v18-23-17,17>>^ Mas ainda não fui silenciado pela escuridão
+Nem pelas trevas que cobrem o meu rosto.
+
+'''
+
+xref:018-jo/018-jo-022.adoc#v18-22-0[&#60; Capítulo Anterior] | <<v18-23-0,Topo>> | xref:018-jo/018-jo-024.adoc#v18-24-0[Próximo Capítulo &#62;]

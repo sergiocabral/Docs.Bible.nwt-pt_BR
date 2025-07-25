@@ -1,0 +1,104 @@
+include::./index.adoc[]
+
+[[v19-148-0]]
+=== Salmos, 148
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v19-148-1]]
+
+^<<v19-148-1,1>>^ Louvem a Jah!^&#42;1^
+Louvem a Jeová nos céus;
+Louvem-no nas alturas.
+
+[NOTE]
+====
+. Ou: “Aleluia!” “Jah” é uma forma reduzida do nome Jeová.
+====
+
+[[v19-148-2]]
+
+^<<v19-148-2,2>>^ Louvem-no, todos os seus anjos.
+Louve-o, todo o seu exército.
+
+[[v19-148-3]]
+
+^<<v19-148-3,3>>^ Louvem-no, sol e lua.
+Louvem-no, todas as estrelas brilhantes.
+
+[[v19-148-4]]
+
+^<<v19-148-4,4>>^ Louvem-no, o mais alto dos céus^&#42;1^
+E as águas acima dos céus.
+
+[NOTE]
+====
+. Lit.: “céus dos céus”.
+====
+
+[[v19-148-5]]
+
+^<<v19-148-5,5>>^ Que eles louvem o nome de Jeová;
+Pois ele deu a ordem, e foram criados.
+
+[[v19-148-6]]
+
+^<<v19-148-6,6>>^ Ele os mantém estabelecidos para todo o sempre;
+Emitiu um decreto que não será anulado.
+
+[[v19-148-7]]
+
+^<<v19-148-7,7>>^ Louvem a Jeová na terra,
+Grandes criaturas marinhas e todas as águas profundas,
+
+[[v19-148-8]]
+
+^<<v19-148-8,8>>^ Relâmpagos e granizo, neve e densas nuvens,
+Vendaval, que cumpre a sua palavra,
+
+[[v19-148-9]]
+
+^<<v19-148-9,9>>^ Montes e todas as colinas,
+Árvores frutíferas e todos os cedros,
+
+[[v19-148-10]]
+
+^<<v19-148-10,10>>^ Animais selvagens e todos os animais domésticos,
+Animais rasteiros e pássaros,
+
+[[v19-148-11]]
+
+^<<v19-148-11,11>>^ Reis da terra e todas as nações,
+Príncipes e todos os juízes da terra,
+
+[[v19-148-12]]
+
+^<<v19-148-12,12>>^ Rapazes e moças,^&#42;1^
+Idosos e jovens, juntos.
+
+[NOTE]
+====
+. Lit.: “virgens”.
+====
+
+[[v19-148-13]]
+
+^<<v19-148-13,13>>^ Que eles louvem o nome de Jeová,
+Pois somente o seu nome é sublime.
+Sua majestade está acima da terra e do céu.
+
+[[v19-148-14]]
+
+^<<v19-148-14,14>>^ Ele aumentará o poder^&#42;1^ do seu povo,
+Para o louvor de todos os seus leais,
+Os filhos de Israel, o povo que lhe é achegado.
+Louvem a Jah!^&#42;2^
+
+[NOTE]
+====
+. Lit.: “o chifre”.
+. Ou: “Aleluia!” “Jah” é uma forma reduzida do nome Jeová.
+====
+
+'''
+
+xref:019-salmo/019-salmo-147.adoc#v19-147-0[&#60; Capítulo Anterior] | <<v19-148-0,Topo>> | xref:019-salmo/019-salmo-149.adoc#v19-149-0[Próximo Capítulo &#62;]

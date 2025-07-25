@@ -1,0 +1,193 @@
+include::./index.adoc[]
+
+[[v18-13-0]]
+=== Jó, 13
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v18-13-1]]
+
+^<<v18-13-1,1>>^ “Sim, meus olhos viram tudo isso,
+Meus ouvidos ouviram e entenderam.
+
+[[v18-13-2]]
+
+^<<v18-13-2,2>>^ O que vocês sabem, eu também sei;
+Não sou inferior a vocês.
+
+[[v18-13-3]]
+
+^<<v18-13-3,3>>^ No entanto, eu prefiro falar com o próprio Todo-Poderoso;
+Desejo defender minha causa perante Deus.
+
+[[v18-13-4]]
+
+^<<v18-13-4,4>>^ Mas vocês me difamam com mentiras;
+Todos vocês são médicos que nada valem.
+
+[[v18-13-5]]
+
+^<<v18-13-5,5>>^ Quem dera que ficassem calados,
+Isso seria sabedoria da sua parte.
+
+[[v18-13-6]]
+
+^<<v18-13-6,6>>^ Por favor, escutem meus argumentos,
+E prestem atenção à defesa dos meus lábios.
+
+[[v18-13-7]]
+
+^<<v18-13-7,7>>^ Será que vocês falarão injustamente a favor de Deus,
+E falarão falsidades em benefício dele?
+
+[[v18-13-8]]
+
+^<<v18-13-8,8>>^ Vocês tomarão o lado^&#42;1^ dele,
+Tentarão defender a causa do verdadeiro Deus?
+
+[NOTE]
+====
+. Ou: “mostrarão parcialidade a favor”.
+====
+
+[[v18-13-9]]
+
+^<<v18-13-9,9>>^ O que seria de vocês se ele os examinasse?
+Será que o enganariam, assim como fariam com um homem mortal?
+
+[[v18-13-10]]
+
+^<<v18-13-10,10>>^ Com certeza ele os repreenderá,
+Se tentarem secretamente mostrar favoritismo.
+
+[[v18-13-11]]
+
+^<<v18-13-11,11>>^ Será que a glória dele não os amedrontará,
+E o pavor dele não virá sobre vocês?
+
+[[v18-13-12]]
+
+^<<v18-13-12,12>>^ Suas declarações sábias^&#42;1^ são provérbios de cinzas;
+Suas defesas^&#42;2^ são tão frágeis como barro.
+
+[NOTE]
+====
+. Ou: “memoráveis”.
+. Lit.: “protuberâncias de escudo”.
+====
+
+[[v18-13-13]]
+
+^<<v18-13-13,13>>^ Calem-se, para que eu fale,
+Então aconteça comigo o que acontecer!
+
+[[v18-13-14]]
+
+^<<v18-13-14,14>>^ Por que me coloco em perigo^&#42;1^
+E ponho minha vida^&#42;2^ em minhas mãos?
+
+[NOTE]
+====
+. Lit.: “Por que carrego minha carne em meus dentes”.
+. Ou: “alma”.
+====
+
+[[v18-13-15]]
+
+^<<v18-13-15,15>>^ Embora ele possa me matar, eu ainda esperarei;
+Defenderei minha causa^&#42;1^ perante ele.^&#42;2^
+
+[NOTE]
+====
+. Ou: “meus caminhos”.
+. Ou: “perante a face dele”.
+====
+
+[[v18-13-16]]
+
+^<<v18-13-16,16>>^ Então ele se tornará minha salvação,
+Pois nenhum ímpio^&#42;1^ pode comparecer perante ele.
+
+[NOTE]
+====
+. Ou: “apóstata”.
+====
+
+[[v18-13-17]]
+
+^<<v18-13-17,17>>^ Escutem atentamente a minha palavra;
+Prestem atenção à minha declaração.
+
+[[v18-13-18]]
+
+^<<v18-13-18,18>>^ Vejam, eu me preparei para defender minha causa;
+Sei que tenho razão.
+
+[[v18-13-19]]
+
+^<<v18-13-19,19>>^ Quem discutirá comigo?
+Eu morreria se ficasse calado!^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “Se alguém puder, eu ficarei calado e morrerei.”
+====
+
+[[v18-13-20]]
+
+^<<v18-13-20,20>>^ Apenas conceda-me duas coisas, ó Deus,^&#42;1^
+Para que eu não me esconda de ti:
+
+[NOTE]
+====
+. Lit.: “Apenas duas coisas não me faças”.
+====
+
+[[v18-13-21]]
+
+^<<v18-13-21,21>>^ Afasta a tua mão pesada de mim,
+E que o medo de ti não me apavore.
+
+[[v18-13-22]]
+
+^<<v18-13-22,22>>^ Chama, e eu responderei,
+Ou deixa-me falar, e responde-me.
+
+[[v18-13-23]]
+
+^<<v18-13-23,23>>^ Quais são os meus erros e pecados?
+Mostra-me a minha transgressão e o meu pecado.
+
+[[v18-13-24]]
+
+^<<v18-13-24,24>>^ Por que escondes a tua face
+E me consideras teu inimigo?
+
+[[v18-13-25]]
+
+^<<v18-13-25,25>>^ Tentarás assustar uma folha levada pelo vento
+Ou perseguirás uma palha seca?
+
+[[v18-13-26]]
+
+^<<v18-13-26,26>>^ Pois continuas a registrar acusações amargas contra mim,
+E me fazes responder pelos pecados da minha juventude.
+
+[[v18-13-27]]
+
+^<<v18-13-27,27>>^ Colocas meus pés no tronco,
+Inspecionas todos os meus caminhos,
+E examinas cada uma das minhas pegadas.
+
+[[v18-13-28]]
+
+^<<v18-13-28,28>>^ Então o homem^&#42;1^ se consome como algo podre,
+Como uma roupa comida por traças.
+
+[NOTE]
+====
+. Lit.: “ele”, possivelmente se referindo a Jó.
+====
+
+'''
+
+xref:018-jo/018-jo-012.adoc#v18-12-0[&#60; Capítulo Anterior] | <<v18-13-0,Topo>> | xref:018-jo/018-jo-014.adoc#v18-14-0[Próximo Capítulo &#62;]

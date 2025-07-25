@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v46-2-0]]
+=== A Primeira aos Coríntios, 2
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v46-2-1]]
+
+^<<v46-2-1,1>>^ Assim, quando estive com vocês, irmãos, não fui lhes declarar o segredo sagrado de Deus com linguagem ou sabedoria extravagantes.
+
+[[v46-2-2]]
+
+^<<v46-2-2,2>>^ Pois decidi não saber nada entre vocês, a não ser Jesus Cristo, e este morto na estaca.
+
+[[v46-2-3]]
+
+^<<v46-2-3,3>>^ E eu estive com vocês em fraqueza, em temor e com muito tremor;
+
+[[v46-2-4]]
+
+^<<v46-2-4,4>>^ e a minha linguagem e aquilo que preguei não foram palavras persuasivas de sabedoria, mas uma demonstração de espírito e de poder,
+
+[[v46-2-5]]
+
+^<<v46-2-5,5>>^ para que a sua fé não se baseasse na sabedoria de homens, mas no poder de Deus.
+
+[[v46-2-6]]
+
+^<<v46-2-6,6>>^ Ora, falamos de sabedoria entre os que são maduros, mas não da sabedoria deste sistema de coisas^&#42;1^ nem da sabedoria dos governantes deste sistema de coisas, os quais ficarão reduzidos a nada.
+
+[NOTE]
+====
+. Ou: “desta época”. Veja o Glossário.
+====
+
+[[v46-2-7]]
+
+^<<v46-2-7,7>>^ Mas falamos da sabedoria de Deus expressa em segredo sagrado, a sabedoria escondida, que Deus predeterminou antes dos sistemas de coisas, para a nossa glória.
+
+[[v46-2-8]]
+
+^<<v46-2-8,8>>^ Essa é a sabedoria que nenhum dos governantes deste sistema de coisas^&#42;1^ veio a conhecer, pois, se a tivessem conhecido, não teriam executado^&#42;2^ o glorioso Senhor.
+
+[NOTE]
+====
+. Ou: “desta época”. Veja o Glossário.
+. Ou: “executado na estaca”.
+====
+
+[[v46-2-9]]
+
+^<<v46-2-9,9>>^ Mas, como está escrito: “O olho não viu e o ouvido não ouviu, nem foram concebidas no coração do homem as coisas que Deus preparou para os que o amam.”
+
+[[v46-2-10]]
+
+^<<v46-2-10,10>>^ Porque é a nós que Deus as revelou por meio do seu espírito, pois o espírito investiga todas as coisas, até mesmo as coisas profundas de Deus.
+
+[[v46-2-11]]
+
+^<<v46-2-11,11>>^ Pois quem entre os homens sabe as coisas de um homem, a não ser o espírito do homem que está dentro dele? Assim, também, ninguém sabe as coisas de Deus, a não ser o espírito de Deus.
+
+[[v46-2-12]]
+
+^<<v46-2-12,12>>^ E nós não recebemos o espírito do mundo, mas o espírito que vem de Deus, para que soubéssemos as coisas que nos foram dadas bondosamente por Deus.
+
+[[v46-2-13]]
+
+^<<v46-2-13,13>>^ Dessas coisas também falamos, não com palavras ensinadas pela sabedoria humana, mas com as ensinadas pelo espírito, ao explicarmos^&#42;1^ assuntos espirituais com palavras espirituais.
+
+[NOTE]
+====
+. Ou: “combinarmos”.
+====
+
+[[v46-2-14]]
+
+^<<v46-2-14,14>>^ Mas o homem físico não aceita^&#42;1^ as coisas do espírito de Deus, pois para ele são tolice; e ele não pode conhecê-las, porque elas são examinadas espiritualmente.
+
+[NOTE]
+====
+. Ou: “não recebe”.
+====
+
+[[v46-2-15]]
+
+^<<v46-2-15,15>>^ No entanto, o homem espiritual examina todas as coisas, mas ele mesmo não é examinado por nenhum homem.
+
+[[v46-2-16]]
+
+^<<v46-2-16,16>>^ Pois “quem chegou a conhecer a mente de Jeová,^&#42;1^ para poder instruí-lo”? Mas nós temos a mente de Cristo.
+
+[NOTE]
+====
+. Veja Ap. A5.
+====
+
+'''
+
+xref:046-1-corintios/046-1-corintios-001.adoc#v46-1-0[&#60; Capítulo Anterior] | <<v46-2-0,Topo>> | xref:046-1-corintios/046-1-corintios-003.adoc#v46-3-0[Próximo Capítulo &#62;]

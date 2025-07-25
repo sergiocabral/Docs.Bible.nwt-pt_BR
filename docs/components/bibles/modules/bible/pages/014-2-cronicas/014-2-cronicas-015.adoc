@@ -1,0 +1,117 @@
+include::./index.adoc[]
+
+[[v14-15-0]]
+=== O Segundo das Crônicas, 15
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v14-15-1]]
+
+^<<v14-15-1,1>>^ E o espírito de Deus veio sobre Azarias, filho de Odede.
+
+[[v14-15-2]]
+
+^<<v14-15-2,2>>^ Assim, ele saiu ao encontro de Asa e disse-lhe: “Ouçam-me, ó Asa, e todo o Judá e Benjamim! Jeová estará com vocês enquanto continuarem com ele; se vocês o buscarem, ele deixará que o encontrem, mas, se vocês o abandonarem, ele os abandonará.
+
+[[v14-15-3]]
+
+^<<v14-15-3,3>>^ Durante muito tempo,^&#42;1^ Israel ficou sem o verdadeiro Deus, sem sacerdote para ensinar, e sem lei.
+
+[NOTE]
+====
+. Lit.: “E muitos dias”.
+====
+
+[[v14-15-4]]
+
+^<<v14-15-4,4>>^ Mas, quando eles estavam em aflição e voltaram para Jeová, o Deus de Israel, e o buscaram, ele deixou que o encontrassem.
+
+[[v14-15-5]]
+
+^<<v14-15-5,5>>^ Naqueles tempos ninguém podia viajar com segurança,^&#42;1^ pois havia muita desordem entre todos os habitantes das terras.
+
+[NOTE]
+====
+. Lit.: “não havia paz para quem saía nem para quem entrava”.
+====
+
+[[v14-15-6]]
+
+^<<v14-15-6,6>>^ Uma nação era destruída por outra nação, e uma cidade por outra cidade, porque Deus as mantinha em confusão com todo tipo de aflição.
+
+[[v14-15-7]]
+
+^<<v14-15-7,7>>^ Mas, quanto a vocês, sejam fortes e não desanimem,^&#42;1^ pois vocês serão recompensados pelas suas ações.”
+
+[NOTE]
+====
+. Lit.: “não deixem suas mãos cair”.
+====
+
+[[v14-15-8]]
+
+^<<v14-15-8,8>>^ Assim que Asa ouviu essas palavras e a profecia de Odede, o profeta, encheu-se de coragem e removeu os ídolos repugnantes de toda a terra de Judá e de Benjamim, e das cidades da região montanhosa de Efraim que ele tinha tomado, e restaurou o altar de Jeová que ficava diante do pórtico de Jeová.
+
+[[v14-15-9]]
+
+^<<v14-15-9,9>>^ E reuniu todo o Judá e Benjamim, além dos residentes estrangeiros entre eles, de Efraim, Manassés e Simeão, pois muitos deles tinham desertado de Israel para o lado de Asa ao verem que Jeová, seu Deus, estava com ele.
+
+[[v14-15-10]]
+
+^<<v14-15-10,10>>^ Assim, eles se reuniram em Jerusalém no terceiro mês do décimo quinto ano do reinado de Asa.
+
+[[v14-15-11]]
+
+^<<v14-15-11,11>>^ Naquele dia, sacrificaram a Jeová 700 bois e 7.000 ovelhas do despojo que tinham trazido.
+
+[[v14-15-12]]
+
+^<<v14-15-12,12>>^ Além disso, fizeram um pacto para buscar a Jeová, o Deus dos seus antepassados, de todo o coração e de toda a alma.^&#42;1^
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v14-15-13]]
+
+^<<v14-15-13,13>>^ Quem não buscasse a Jeová, o Deus de Israel, devia ser morto, quer pequeno quer grande, quer homem quer mulher.
+
+[[v14-15-14]]
+
+^<<v14-15-14,14>>^ Assim, eles juraram a Jeová com alta voz e com gritos de alegria, com trombetas e com buzinas.
+
+[[v14-15-15]]
+
+^<<v14-15-15,15>>^ E todo o Judá se alegrou por causa do juramento, pois tinham feito o juramento de todo o coração e o tinham buscado com vivo interesse, e ele deixou que o encontrassem; e Jeová continuou a dar-lhes descanso de todos os inimigos ao redor.
+
+[[v14-15-16]]
+
+^<<v14-15-16,16>>^ O rei Asa até mesmo removeu a sua avó Maacá da posição de rainha-mãe,^&#42;1^ porque ela tinha feito um ídolo obsceno para a adoração do poste sagrado.^&#42;2^ Ele derrubou o ídolo obsceno dela, o despedaçou e o queimou no vale do Cédron.
+
+[NOTE]
+====
+. Ou: “de senhora”.
+. Veja o Glossário.
+====
+
+[[v14-15-17]]
+
+^<<v14-15-17,17>>^ Mas os altos sagrados não foram removidos de Israel. No entanto, o coração de Asa foi pleno^&#42;1^ durante toda a sua vida.^&#42;2^
+
+[NOTE]
+====
+. Ou: “plenamente devotado”.
+. Lit.: “todos os seus dias”.
+====
+
+[[v14-15-18]]
+
+^<<v14-15-18,18>>^ E ele levou para dentro da casa do verdadeiro Deus as coisas que ele e o seu pai haviam tornado sagradas: prata, ouro e diversos utensílios.
+
+[[v14-15-19]]
+
+^<<v14-15-19,19>>^ Não houve guerra até o trigésimo quinto ano do reinado de Asa.
+
+'''
+
+xref:014-2-cronicas/014-2-cronicas-014.adoc#v14-14-0[&#60; Capítulo Anterior] | <<v14-15-0,Topo>> | xref:014-2-cronicas/014-2-cronicas-016.adoc#v14-16-0[Próximo Capítulo &#62;]

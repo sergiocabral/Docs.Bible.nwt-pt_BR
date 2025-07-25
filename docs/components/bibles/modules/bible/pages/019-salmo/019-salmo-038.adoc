@@ -1,0 +1,148 @@
+include::./index.adoc[]
+
+[[v19-38-0]]
+=== Salmos, 38
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Salmo de Davi, para servir de lembrança.^&#42;1^_
+
+[[v19-38-1]]
+
+^<<v19-38-1,1>>^ Ó Jeová, não me repreendas na tua ira,
+Nem me corrijas no teu furor.
+
+[[v19-38-2]]
+
+^<<v19-38-2,2>>^ Pois as tuas flechas penetraram profundamente em mim,
+E a tua mão pesa sobre mim.
+
+[[v19-38-3]]
+
+^<<v19-38-3,3>>^ Meu corpo inteiro está doente^&#42;1^ por causa da tua indignação,
+Não há paz nos meus ossos por causa do meu pecado.
+
+[NOTE]
+====
+. Lit.: “Não há nenhum ponto são na minha carne”.
+====
+
+[[v19-38-4]]
+
+^<<v19-38-4,4>>^ Pois os meus erros pairam acima da minha cabeça;
+Como um fardo pesado, são demais para eu carregar.
+
+[[v19-38-5]]
+
+^<<v19-38-5,5>>^ Minhas feridas cheiram mal e supuram
+Por causa da minha tolice.
+
+[[v19-38-6]]
+
+^<<v19-38-6,6>>^ Estou aflito e muito abatido;
+Caminho triste o dia inteiro.
+
+[[v19-38-7]]
+
+^<<v19-38-7,7>>^ Sinto meu íntimo queimar;^&#42;1^
+Todo o meu corpo está doente.
+
+[NOTE]
+====
+. Lit.: “Meus lombos estão cheios de ardência”.
+====
+
+[[v19-38-8]]
+
+^<<v19-38-8,8>>^ Fiquei entorpecido e me sinto completamente esmagado;
+Meu coração angustiado me faz gemer profundamente.^&#42;1^
+
+[NOTE]
+====
+. Ou: “rugir”.
+====
+
+[[v19-38-9]]
+
+^<<v19-38-9,9>>^ Ó Jeová, todos os meus desejos estão diante de ti,
+E o meu suspiro não está escondido de ti.
+
+[[v19-38-10]]
+
+^<<v19-38-10,10>>^ Meu coração palpita, minhas forças se foram;
+E a luz dos meus olhos me deixou.
+
+[[v19-38-11]]
+
+^<<v19-38-11,11>>^ Meus amigos e meus companheiros me evitam por causa da minha doença,
+E os que me são mais íntimos ficam longe de mim.
+
+[[v19-38-12]]
+
+^<<v19-38-12,12>>^ Os que procuram tirar a minha vida^&#42;1^ preparam armadilhas;
+Os que tentam me prejudicar falam de ruína;
+O dia inteiro planejam enganos.
+
+[NOTE]
+====
+. Ou: “procuram a minha alma”.
+====
+
+[[v19-38-13]]
+
+^<<v19-38-13,13>>^ Mas, como um surdo, eu não escuto;
+Como um mudo, não abro a boca.
+
+[[v19-38-14]]
+
+^<<v19-38-14,14>>^ Eu me tornei como um homem que não ouve,
+Cuja boca não tem nada a dizer em sua defesa.
+
+[[v19-38-15]]
+
+^<<v19-38-15,15>>^ Pois eu esperei em ti, ó Jeová;
+E tu me respondeste, ó Jeová, meu Deus.
+
+[[v19-38-16]]
+
+^<<v19-38-16,16>>^ Eu disse: “Que eles não se alegrem às minhas custas
+Nem me tratem com arrogância se o meu pé vacilar.”
+
+[[v19-38-17]]
+
+^<<v19-38-17,17>>^ Pois eu estava prestes a cair,
+E a minha dor estava sempre comigo.
+
+[[v19-38-18]]
+
+^<<v19-38-18,18>>^ Confessei o meu erro;
+Estava aflito por causa do meu pecado.
+
+[[v19-38-19]]
+
+^<<v19-38-19,19>>^ Mas os meus inimigos são fortes^&#42;1^ e poderosos,^&#42;2^
+Os que me odeiam sem motivo se tornaram muitos.
+
+[NOTE]
+====
+. Lit.: “vivos”.
+. Ou, possivelmente: “Mas são muitos os que sem razão são meus inimigos”.
+====
+
+[[v19-38-20]]
+
+^<<v19-38-20,20>>^ Retribuíram-me o bem com o mal;
+Opuseram-se a mim porque me empenho pelo bem.
+
+[[v19-38-21]]
+
+^<<v19-38-21,21>>^ Não me abandones, ó Jeová.
+Ó Deus, não fiques longe de mim.
+
+[[v19-38-22]]
+
+^<<v19-38-22,22>>^ Vem depressa me ajudar,
+Ó Jeová, minha salvação.
+
+'''
+
+xref:019-salmo/019-salmo-037.adoc#v19-37-0[&#60; Capítulo Anterior] | <<v19-38-0,Topo>> | xref:019-salmo/019-salmo-039.adoc#v19-39-0[Próximo Capítulo &#62;]

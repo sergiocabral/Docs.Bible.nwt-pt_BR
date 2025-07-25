@@ -1,0 +1,345 @@
+include::./index.adoc[]
+
+[[v10-22-0]]
+=== O Segundo de Samuel, 22
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v10-22-1]]
+
+^<<v10-22-1,1>>^ E Davi dirigiu a Jeová as palavras deste cântico no dia em que Jeová o livrou das mãos de todos os seus inimigos e das mãos de Saul.
+
+[[v10-22-2]]
+
+^<<v10-22-2,2>>^ Ele disse:
+“Jeová é meu rochedo, minha fortaleza e meu libertador.
+
+[[v10-22-3]]
+
+^<<v10-22-3,3>>^ Meu Deus é minha rocha, em quem me refugio;
+Ele é meu escudo e meu poderoso salvador,^&#42;1^ meu refúgio seguro,^&#42;2^
+O lugar para onde fujo, meu salvador; tu me salvas da violência.
+
+[NOTE]
+====
+. Lit.: “chifre de salvação”. Veja o Glossário, “Chifre”.
+. Ou: “refúgio num lugar alto”.
+====
+
+[[v10-22-4]]
+
+^<<v10-22-4,4>>^ Invoco a Jeová, que é digno de louvor,
+E serei salvo dos meus inimigos.
+
+[[v10-22-5]]
+
+^<<v10-22-5,5>>^ As ondas da morte quebraram ao meu redor;
+Enxurradas de homens imprestáveis me apavoraram.
+
+[[v10-22-6]]
+
+^<<v10-22-6,6>>^ As cordas da Sepultura^&#42;1^ me envolveram;
+Os laços da morte me confrontaram.
+
+[NOTE]
+====
+. Ou: “do Seol”, isto é, a sepultura comum da humanidade. Veja o Glossário.
+====
+
+[[v10-22-7]]
+
+^<<v10-22-7,7>>^ Na minha aflição eu invoquei a Jeová,
+Clamei ao meu Deus.
+Então do seu templo ele ouviu a minha voz,
+E meu clamor por ajuda chegou aos seus ouvidos.
+
+[[v10-22-8]]
+
+^<<v10-22-8,8>>^ A terra começou a balançar e a tremer;
+Os alicerces dos céus se abalaram
+E estremeceram, porque ele se tinha irado.
+
+[[v10-22-9]]
+
+^<<v10-22-9,9>>^ Das suas narinas subiu fumaça,
+E da sua boca saiu um fogo consumidor;
+Dele saíram brasas vivas.
+
+[[v10-22-10]]
+
+^<<v10-22-10,10>>^ Ele fez o céu se inclinar e desceu;
+Havia densas trevas debaixo dos seus pés.
+
+[[v10-22-11]]
+
+^<<v10-22-11,11>>^ Ele veio voando, montado num querubim;
+Apareceu nas asas de um espírito.^&#42;1^
+
+[NOTE]
+====
+. Ou: “do vento”.
+====
+
+[[v10-22-12]]
+
+^<<v10-22-12,12>>^ Então ele pôs escuridão ao seu redor como um abrigo,
+Havia águas escuras e nuvens carregadas.
+
+[[v10-22-13]]
+
+^<<v10-22-13,13>>^ Do resplendor diante dele ardiam brasas de fogo.
+
+[[v10-22-14]]
+
+^<<v10-22-14,14>>^ Então Jeová começou a trovejar do céu;
+O Altíssimo fez ouvir a sua voz.
+
+[[v10-22-15]]
+
+^<<v10-22-15,15>>^ Ele atirou as suas flechas e os dispersou;^&#42;1^
+Também relâmpagos, e os pôs em confusão.
+
+[NOTE]
+====
+. Isto é, dispersou os inimigos.
+====
+
+[[v10-22-16]]
+
+^<<v10-22-16,16>>^ O leito do mar se tornou visível;
+Os alicerces da terra foram expostos pela censura de Jeová,
+Pelo forte sopro que sai das suas narinas.
+
+[[v10-22-17]]
+
+^<<v10-22-17,17>>^ Das alturas ele estendeu a mão;
+Ele me segurou e me tirou de águas profundas.
+
+[[v10-22-18]]
+
+^<<v10-22-18,18>>^ Ele me livrou do meu forte inimigo,
+Dos que me odiavam, que eram mais fortes do que eu.
+
+[[v10-22-19]]
+
+^<<v10-22-19,19>>^ Eles me enfrentaram no dia do meu desastre,
+Mas Jeová foi o meu apoio.
+
+[[v10-22-20]]
+
+^<<v10-22-20,20>>^ Ele me levou para um lugar seguro;^&#42;1^
+Ele me livrou porque se agradava de mim.
+
+[NOTE]
+====
+. Ou: “espaçoso”.
+====
+
+[[v10-22-21]]
+
+^<<v10-22-21,21>>^ Jeová me recompensa conforme a minha retidão;
+Ele me retribui conforme a inocência^&#42;1^ das minhas mãos.
+
+[NOTE]
+====
+. Lit.: “a pureza”.
+====
+
+[[v10-22-22]]
+
+^<<v10-22-22,22>>^ Pois tenho guardado os caminhos de Jeová,
+E não cometi o mal de abandonar o meu Deus.
+
+[[v10-22-23]]
+
+^<<v10-22-23,23>>^ Todas as suas decisões judiciais estão diante de mim;
+Não me desviarei dos seus decretos.
+
+[[v10-22-24]]
+
+^<<v10-22-24,24>>^ Permanecerei irrepreensível diante dele,
+E me guardarei do erro.
+
+[[v10-22-25]]
+
+^<<v10-22-25,25>>^ Que Jeová me recompense conforme a minha retidão,
+Conforme a minha inocência diante dele.
+
+[[v10-22-26]]
+
+^<<v10-22-26,26>>^ Com alguém leal, ages com lealdade;
+Com o homem irrepreensível e valente, ages de modo irrepreensível;
+
+[[v10-22-27]]
+
+^<<v10-22-27,27>>^ Com o puro, tu te mostras puro;
+Mas, com o tortuoso, te mostras astuto.^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “ages como tolo”.
+====
+
+[[v10-22-28]]
+
+^<<v10-22-28,28>>^ Pois salvas os humildes,
+Mas olhas com desaprovação para os arrogantes, e os rebaixas.
+
+[[v10-22-29]]
+
+^<<v10-22-29,29>>^ Pois tu és a minha lâmpada, ó Jeová;
+É Jeová quem ilumina a minha escuridão.
+
+[[v10-22-30]]
+
+^<<v10-22-30,30>>^ Com a tua ajuda posso atacar um bando de saqueadores;
+Com o poder de Deus posso escalar uma muralha.
+
+[[v10-22-31]]
+
+^<<v10-22-31,31>>^ O caminho do verdadeiro Deus é perfeito;
+A declaração de Jeová é pura.^&#42;1^
+Ele é um escudo para todos os que se refugiam nele.
+
+[NOTE]
+====
+. Ou: “provada no fogo”.
+====
+
+[[v10-22-32]]
+
+^<<v10-22-32,32>>^ Pois quem é Deus além de Jeová?
+E quem é uma rocha, a não ser o nosso Deus?
+
+[[v10-22-33]]
+
+^<<v10-22-33,33>>^ O verdadeiro Deus é a minha fortaleza,
+Ele tornará perfeito o meu caminho.
+
+[[v10-22-34]]
+
+^<<v10-22-34,34>>^ Ele torna os meus pés como os do cervo
+E me faz ficar de pé nos lugares altos.
+
+[[v10-22-35]]
+
+^<<v10-22-35,35>>^ Ele treina as minhas mãos para a guerra;
+Meus braços podem envergar um arco de cobre.
+
+[[v10-22-36]]
+
+^<<v10-22-36,36>>^ Tu me dás o teu escudo de salvação,
+E a tua humildade me engrandece.
+
+[[v10-22-37]]
+
+^<<v10-22-37,37>>^ Alargas o caminho para os meus passos;
+Meus pés^&#42;1^ não escorregarão.
+
+[NOTE]
+====
+. Ou: “tornozelos”.
+====
+
+[[v10-22-38]]
+
+^<<v10-22-38,38>>^ Perseguirei os meus inimigos e os aniquilarei;
+Não voltarei até que tenham sido eliminados.
+
+[[v10-22-39]]
+
+^<<v10-22-39,39>>^ Eu os eliminarei e os esmagarei, de modo que não se levantarão;
+Eles cairão sob os meus pés.
+
+[[v10-22-40]]
+
+^<<v10-22-40,40>>^ Tu me equiparás de força para a batalha;
+Farás com que os meus adversários caiam diante de mim.
+
+[[v10-22-41]]
+
+^<<v10-22-41,41>>^ Tu farás com que os meus inimigos fujam de mim;^&#42;1^
+Eu eliminarei^&#42;2^ os que me odeiam.
+
+[NOTE]
+====
+. Ou: “Tu me darás as costas dos meus inimigos”.
+. Lit.: “silenciarei”.
+====
+
+[[v10-22-42]]
+
+^<<v10-22-42,42>>^ Eles clamam por ajuda, mas não há quem os salve;
+Até mesmo clamam a Jeová, mas ele não lhes responde.
+
+[[v10-22-43]]
+
+^<<v10-22-43,43>>^ Eu os triturarei como o fino pó da terra;
+Eu os esmagarei e pisotearei como lama nas ruas.
+
+[[v10-22-44]]
+
+^<<v10-22-44,44>>^ Tu me livrarás das críticas do meu povo.
+Tu me protegerás para ser cabeça de nações;
+Um povo que não conheci me servirá.
+
+[[v10-22-45]]
+
+^<<v10-22-45,45>>^ Estrangeiros virão a mim encolhidos de temor;
+O que eles ouvirem a meu respeito fará com que se sujeitem a mim.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “Ao escutar do ouvido, eles me obedecerão”.
+====
+
+[[v10-22-46]]
+
+^<<v10-22-46,46>>^ Os estrangeiros perderão a coragem;^&#42;1^
+Sairão tremendo das suas fortalezas.
+
+[NOTE]
+====
+. Ou: “se desvanecerão”.
+====
+
+[[v10-22-47]]
+
+^<<v10-22-47,47>>^ Jeová vive! Louvada seja a minha Rocha!
+Seja exaltado o meu Deus, a rocha da minha salvação.
+
+[[v10-22-48]]
+
+^<<v10-22-48,48>>^ O verdadeiro Deus executa vingança a meu favor;
+Ele me sujeita os povos;
+
+[[v10-22-49]]
+
+^<<v10-22-49,49>>^ Ele me livra dos meus inimigos.
+Tu me elevas bem acima dos que me atacam;
+Tu me salvas do homem violento.
+
+[[v10-22-50]]
+
+^<<v10-22-50,50>>^ É por isso que eu te agradecerei entre as nações, ó Jeová,
+E ao teu nome cantarei louvores;^&#42;1^
+
+[NOTE]
+====
+. Ou: “farei música”.
+====
+
+[[v10-22-51]]
+
+^<<v10-22-51,51>>^ Ele realiza grandes atos de salvação^&#42;1^ para o seu rei;
+Demonstra amor leal ao seu ungido,
+A Davi e à sua descendência,^&#42;2^ para sempre.”
+
+[NOTE]
+====
+. Ou: “grandes vitórias”.
+. Lit.: “semente”.
+====
+
+'''
+
+xref:010-2-samuel/010-2-samuel-021.adoc#v10-21-0[&#60; Capítulo Anterior] | <<v10-22-0,Topo>> | xref:010-2-samuel/010-2-samuel-023.adoc#v10-23-0[Próximo Capítulo &#62;]

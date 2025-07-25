@@ -1,0 +1,145 @@
+include::./index.adoc[]
+
+[[v5-29-0]]
+=== Deuteronômio, 29
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v5-29-1]]
+
+^<<v5-29-1,1>>^ Estas são as palavras do pacto que Jeová mandou Moisés fazer com o povo de Israel na terra de Moabe, além do pacto que havia feito com eles em Horebe.
+
+[[v5-29-2]]
+
+^<<v5-29-2,2>>^ Então Moisés convocou todo o Israel e lhes disse: “Vocês viram tudo o que Jeová fez diante dos seus olhos na terra do Egito, a Faraó, a todos os seus servos e a toda a sua terra,
+
+[[v5-29-3]]
+
+^<<v5-29-3,3>>^ os grandes julgamentos^&#42;1^ que os seus olhos viram, aqueles grandes sinais e milagres.
+
+[NOTE]
+====
+. Ou: “as grandes provas”.
+====
+
+[[v5-29-4]]
+
+^<<v5-29-4,4>>^ Mas Jeová não deu a vocês um coração para entender, nem olhos para ver, nem ouvidos para ouvir, até o dia de hoje.
+
+[[v5-29-5]]
+
+^<<v5-29-5,5>>^ ‘Enquanto eu os guiava por 40 anos no deserto, as roupas que vocês usavam não se gastaram, e as suas sandálias não se gastaram nos seus pés.
+
+[[v5-29-6]]
+
+^<<v5-29-6,6>>^ Vocês não comeram pão, não tomaram vinho nem outras bebidas alcoólicas, a fim de que soubessem que eu sou Jeová, seu Deus.’
+
+[[v5-29-7]]
+
+^<<v5-29-7,7>>^ Por fim vocês chegaram a este lugar, e Siom, rei de Hesbom, e Ogue, rei de Basã, vieram ao nosso encontro em batalha, mas nós os derrotamos.
+
+[[v5-29-8]]
+
+^<<v5-29-8,8>>^ Depois tomamos a terra deles e a demos como herança aos rubenitas, aos gaditas e à meia tribo dos manassitas.
+
+[[v5-29-9]]
+
+^<<v5-29-9,9>>^ Portanto, guardem as palavras deste pacto e obedeçam-nas, a fim de que tudo o que vocês fizerem seja bem-sucedido.
+
+[[v5-29-10]]
+
+^<<v5-29-10,10>>^ “Todos vocês estão hoje perante Jeová, seu Deus: os cabeças das suas tribos, seus anciãos, seus oficiais, todos os homens de Israel,
+
+[[v5-29-11]]
+
+^<<v5-29-11,11>>^ suas crianças, suas esposas e seu residente estrangeiro, que está no seu acampamento, desde aquele que ajunta lenha para você até o que tira água para você.
+
+[[v5-29-12]]
+
+^<<v5-29-12,12>>^ Você está aqui para entrar no pacto de Jeová, seu Deus, e no juramento que Jeová, seu Deus, está fazendo hoje com você,
+
+[[v5-29-13]]
+
+^<<v5-29-13,13>>^ para torná-lo hoje seu povo e ser o seu Deus, assim como ele lhe prometeu e como jurou aos seus antepassados Abraão, Isaque e Jacó.
+
+[[v5-29-14]]
+
+^<<v5-29-14,14>>^ “Não é só com vocês que faço este pacto e este juramento,
+
+[[v5-29-15]]
+
+^<<v5-29-15,15>>^ mas é com os que hoje estão aqui conosco perante Jeová, nosso Deus, e com os que hoje não estão aqui conosco.
+
+[[v5-29-16]]
+
+^<<v5-29-16,16>>^ (Pois vocês sabem muito bem como era a nossa vida quando morávamos na terra do Egito e como foi passar pelo meio de várias nações na nossa viagem.
+
+[[v5-29-17]]
+
+^<<v5-29-17,17>>^ E vocês viram as coisas detestáveis e os ídolos repugnantes^&#42;1^ que havia entre elas, ídolos de madeira, pedra, prata e ouro.)
+
+[NOTE]
+====
+. O termo hebraico talvez esteja relacionado a uma palavra para “esterco” e é usado como expressão de desprezo.
+====
+
+[[v5-29-18]]
+
+^<<v5-29-18,18>>^ Portanto, tomem cuidado para que não haja hoje entre vocês nem homem, nem mulher, nem família, nem tribo, cujo coração se desvie de Jeová, nosso Deus, para servir os deuses daquelas nações, e para que não haja entre vocês uma raiz que produza um fruto venenoso e absinto.
+
+[[v5-29-19]]
+
+^<<v5-29-19,19>>^ “Mas, se alguém ouvir as palavras deste juramento e se gabar no coração, dizendo: ‘Terei paz, mesmo que eu insista em andar nos caminhos do meu próprio coração’, e assim destruir tudo^&#42;1^ à sua frente,
+
+[NOTE]
+====
+. Lit.: “o bem regado junto com o seco”.
+====
+
+[[v5-29-20]]
+
+^<<v5-29-20,20>>^ Jeová não estará disposto a perdoá-lo. Em vez disso, a grande ira de Jeová se acenderá contra esse homem, e toda a maldição escrita neste livro certamente virá sobre ele, e Jeová apagará o nome dele de debaixo dos céus.
+
+[[v5-29-21]]
+
+^<<v5-29-21,21>>^ Então Jeová o separará de todas as tribos de Israel para que sofra a calamidade, de acordo com toda a maldição do pacto escrita neste livro da Lei.
+
+[[v5-29-22]]
+
+^<<v5-29-22,22>>^ “Quando a geração futura dos seus filhos e o estrangeiro de uma terra distante virem as pragas dessa terra, as doenças que Jeová tiver trazido sobre ela
+
+[[v5-29-23]]
+
+^<<v5-29-23,23>>^ — enxofre, sal e incêndios, de modo que toda a sua terra não será semeada, nem brotará, nem surgirá nela nenhuma vegetação, como na devastação de Sodoma e Gomorra, Admá e Zeboim, que Jeová destruiu na sua ira e no seu furor —,
+
+[[v5-29-24]]
+
+^<<v5-29-24,24>>^ eles e todas as nações dirão: ‘Por que Jeová fez isso a essa terra? O que causou essa ira ardente tão grande?’
+
+[[v5-29-25]]
+
+^<<v5-29-25,25>>^ Então responderão: ‘Foi porque abandonaram o pacto que Jeová, o Deus dos seus antepassados, fez com eles quando os tirou da terra do Egito.
+
+[[v5-29-26]]
+
+^<<v5-29-26,26>>^ Mas eles serviram a outros deuses e se curvaram diante deles, deuses que não conheciam e que ele não lhes havia permitido adorar.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “não lhes havia repartido”.
+====
+
+[[v5-29-27]]
+
+^<<v5-29-27,27>>^ Então a ira ardente de Jeová veio contra essa terra, trazendo sobre ela toda a maldição escrita neste livro.
+
+[[v5-29-28]]
+
+^<<v5-29-28,28>>^ Por isso, Jeová os arrancou da sua terra em ira, furor e grande indignação, e os deportou para outra terra, onde estão hoje.’
+
+[[v5-29-29]]
+
+^<<v5-29-29,29>>^ “As coisas escondidas pertencem a Jeová, nosso Deus, mas as coisas reveladas pertencem a nós e a nossos descendentes para sempre, a fim de cumprirmos todas as palavras desta Lei.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-028.adoc#v5-28-0[&#60; Capítulo Anterior] | <<v5-29-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-030.adoc#v5-30-0[Próximo Capítulo &#62;]

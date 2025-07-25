@@ -1,0 +1,163 @@
+include::./index.adoc[]
+
+[[v23-58-0]]
+=== Isaías, 58
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v23-58-1]]
+
+^<<v23-58-1,1>>^ “Grite bem alto, não se contenha!
+Levante a voz como uma trombeta.^&#42;1^ 
+Proclame ao meu povo a sua rebeldia,
+À casa de Jacó os seus pecados.
+
+[NOTE]
+====
+. Ou: “buzina”.
+====
+
+[[v23-58-2]]
+
+^<<v23-58-2,2>>^ Eles me procuram dia após dia,
+E dizem que se agradam de conhecer os meus caminhos,
+Como se fossem uma nação que praticou o que é direito
+E que não abandonou a justiça de seu Deus.
+Eles me pedem julgamentos justos,
+Agradando-se em se aproximar de Deus:
+
+[[v23-58-3]]
+
+^<<v23-58-3,3>>^ ‘Por que tu não vês quando jejuamos?
+E por que não notas quando afligimos a nós mesmos?’^&#42;1^
+É porque no dia do seu jejum vocês buscam seus próprios interesses^&#42;2^
+E oprimem os que trabalham para vocês.
+
+[NOTE]
+====
+. Ou: “nossa alma”.
+. Ou: “o que lhes agrada”.
+====
+
+[[v23-58-4]]
+
+^<<v23-58-4,4>>^ Seu jejum acaba em discussões e brigas,
+E batem com violência^&#42;1^ uns nos outros.
+Vocês não podem jejuar como fazem hoje e esperar que a sua voz seja ouvida no céu.
+
+[NOTE]
+====
+. Lit.: “com o punho de maldade”.
+====
+
+[[v23-58-5]]
+
+^<<v23-58-5,5>>^ Será que o jejum que me agrada deve ser assim,
+Como um dia para alguém afligir a si mesmo,^&#42;1^
+Encurvar a cabeça como o junco
+E deitar-se sobre um pano de saco e cinzas?
+É isso o que chamam de jejum e de dia agradável para Jeová?
+
+[NOTE]
+====
+. Ou: “sua alma”.
+====
+
+[[v23-58-6]]
+
+^<<v23-58-6,6>>^ Não! Este é o jejum que me agrada:
+Soltar as correntes da maldade,
+Desatar as correias do jugo,
+Libertar os oprimidos
+E quebrar no meio todo jugo;
+
+[[v23-58-7]]
+
+^<<v23-58-7,7>>^ É dividir o seu pão com o faminto,
+Acolher na sua casa os pobres e os desabrigados,
+Vestir aquele que você vê que está nu
+E não dar as costas aos seus irmãos.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “à sua carne”.
+====
+
+[[v23-58-8]]
+
+^<<v23-58-8,8>>^ Então a sua luz brilhará como o amanhecer,
+E a sua cura virá rapidamente.
+Sua justiça irá à sua frente,
+E a glória de Jeová será a sua retaguarda.
+
+[[v23-58-9]]
+
+^<<v23-58-9,9>>^ Então você chamará, e Jeová lhe responderá;
+Você clamará por ajuda, e ele dirá: ‘Aqui estou!’
+Se você eliminar do seu meio o jugo
+E parar de apontar o dedo e de falar coisas maldosas,
+
+[[v23-58-10]]
+
+^<<v23-58-10,10>>^ Se der ao faminto o que você mesmo^&#42;1^ deseja
+E fartar os necessitados,^&#42;2^
+Então a sua luz brilhará até mesmo na escuridão,
+E as suas trevas serão como o meio-dia.
+
+[NOTE]
+====
+. Ou: “a sua própria alma”.
+. Ou: “as almas necessitadas”.
+====
+
+[[v23-58-11]]
+
+^<<v23-58-11,11>>^ Jeová sempre o guiará
+E lhe dará^&#42;1^ fartura até mesmo numa terra árida;
+Ele revigorará os seus ossos,
+E você se tornará como um jardim bem regado,
+Como uma nascente cujas águas nunca secam.
+
+[NOTE]
+====
+. Ou: “dará à sua alma”.
+====
+
+[[v23-58-12]]
+
+^<<v23-58-12,12>>^ Por sua causa, as ruínas antigas serão reconstruídas,
+E você restaurará os alicerces das gerações passadas.
+Você será chamado consertador de muralhas,^&#42;1^
+Restaurador de ruas onde há casas.
+
+[NOTE]
+====
+. Lit.: “da brecha”.
+====
+
+[[v23-58-13]]
+
+^<<v23-58-13,13>>^ Se você guardar o sábado e se refrear^&#42;1^ de buscar os seus próprios interesses^&#42;2^ no meu dia sagrado,
+Se você chamar o sábado de dia de grande alegria, dia sagrado de Jeová, um dia para ser glorificado,
+E se o glorificar em vez de buscar os seus próprios interesses e falar palavras vãs,
+
+[NOTE]
+====
+. Lit.: “e fizer o seu pé retornar”.
+. Ou: “desejos”.
+====
+
+[[v23-58-14]]
+
+^<<v23-58-14,14>>^ Então você terá grande alegria em Jeová,
+E eu vou fazê-lo cavalgar sobre os lugares altos da terra.
+Eu o sustentarei com^&#42;1^ a herança de Jacó, seu antepassado,
+Pois a boca de Jeová falou isso.”
+
+[NOTE]
+====
+. Ou: “farei com que você usufrua”.
+====
+
+'''
+
+xref:023-isaias/023-isaias-057.adoc#v23-57-0[&#60; Capítulo Anterior] | <<v23-58-0,Topo>> | xref:023-isaias/023-isaias-059.adoc#v23-59-0[Próximo Capítulo &#62;]

@@ -1,0 +1,306 @@
+include::./index.adoc[]
+
+[[v11-7-0]]
+=== O Primeiro dos Reis, 7
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v11-7-1]]
+
+^<<v11-7-1,1>>^ Salomão levou 13 anos para construir e terminar a sua própria casa.^&#42;1^
+
+[NOTE]
+====
+. Ou: “o seu próprio palácio”.
+====
+
+[[v11-7-2]]
+
+^<<v11-7-2,2>>^ E ele construiu a Casa da Floresta do Líbano. Ela tinha 100 côvados^&#42;1^ de comprimento, 50 côvados de largura e 30 côvados de altura; ficava sobre quatro fileiras de colunas de cedro, e havia caibros de cedro acima das colunas.
+
+[NOTE]
+====
+. Um côvado equivalia a 44,5 cm. Veja Ap. B14.
+====
+
+[[v11-7-3]]
+
+^<<v11-7-3,3>>^ A parte superior era revestida de cedro, acima das vigas que ficavam sobre as colunas; havia 45, com 15 por fileira.
+
+[[v11-7-4]]
+
+^<<v11-7-4,4>>^ Havia três fileiras de janelas com moldura, e as janelas ficavam uma de frente para a outra, em três níveis.
+
+[[v11-7-5]]
+
+^<<v11-7-5,5>>^ Todas as entradas e as ombreiras eram retangulares,^&#42;1^ assim como a parte da frente das janelas, que ficavam uma de frente para a outra, em três níveis.
+
+[NOTE]
+====
+. Ou: “eram quadradas; tinham quatro lados”.
+====
+
+[[v11-7-6]]
+
+^<<v11-7-6,6>>^ E ele construiu o Salão^&#42;1^ das Colunas com 50 côvados de comprimento e 30 côvados de largura; e na frente dele havia um pórtico com colunas e um alpendre.
+
+[NOTE]
+====
+. Ou: “Pórtico”.
+====
+
+[[v11-7-7]]
+
+^<<v11-7-7,7>>^ Ele construiu também o Salão^&#42;1^ do Trono, onde ele julgava — o Salão do Julgamento. E revestiram-no de cedro, desde o chão até as vigas.
+
+[NOTE]
+====
+. Ou: “Pórtico”.
+====
+
+[[v11-7-8]]
+
+^<<v11-7-8,8>>^ A casa^&#42;1^ em que ele iria morar, no outro pátio, ficava afastada do Salão,^&#42;2^ e foi feita no mesmo estilo. E Salomão também construiu uma casa semelhante a este Salão para a filha de Faraó, que ele tinha tomado como esposa.
+
+[NOTE]
+====
+. Ou: “O palácio”.
+. Lit.: “da casa do Salão”.
+====
+
+[[v11-7-9]]
+
+^<<v11-7-9,9>>^ Todas essas construções, desde o alicerce até o alto das paredes, e também a parte externa até o pátio grande, foram feitas com pedras caras, lavradas sob medida e serradas com serras de pedra, tanto no lado interno como no externo.
+
+[[v11-7-10]]
+
+^<<v11-7-10,10>>^ O alicerce foi lançado com pedras caras e muito grandes; algumas pedras tinham dez côvados e outras oito côvados.
+
+[[v11-7-11]]
+
+^<<v11-7-11,11>>^ E por cima delas havia outras pedras caras, lavradas sob medida, bem como cedro.
+
+[[v11-7-12]]
+
+^<<v11-7-12,12>>^ Ao redor do pátio grande havia um muro de três fileiras de pedras lavradas e uma fileira de cedro, igual ao muro do pátio interno da casa de Jeová e do pórtico da casa.
+
+[[v11-7-13]]
+
+^<<v11-7-13,13>>^ O rei Salomão mandou buscar Hirão em Tiro.
+
+[[v11-7-14]]
+
+^<<v11-7-14,14>>^ Ele era filho de uma viúva da tribo de Naftali, e seu pai era um fundidor de cobre, de Tiro. Hirão tinha grande habilidade, entendimento e experiência para todo tipo de trabalho em cobre.^&#42;1^ Assim, ele se apresentou ao rei Salomão e fez todo o trabalho que ele lhe designou.
+
+[NOTE]
+====
+. Ou: “bronze”, neste v. e nas ocorrências seguintes neste capítulo.
+====
+
+[[v11-7-15]]
+
+^<<v11-7-15,15>>^ Então ele fez as duas colunas de cobre fundido. Cada coluna tinha 18 côvados de altura e era necessário uma corda de medir de 12 côvados para dar a volta em cada uma das colunas.^&#42;1^
+
+[NOTE]
+====
+. Ou: “e cada uma das duas colunas tinha 12 côvados de circunferência”.
+====
+
+[[v11-7-16]]
+
+^<<v11-7-16,16>>^ Também fez dois capitéis de cobre fundido para serem postos no topo das colunas. A altura de um capitel era de cinco côvados, e a altura do outro capitel também era de cinco côvados.
+
+[[v11-7-17]]
+
+^<<v11-7-17,17>>^ O capitel no topo de cada coluna tinha redes de malha com correntes entrelaçadas, sete para um capitel e sete para o outro capitel.
+
+[[v11-7-18]]
+
+^<<v11-7-18,18>>^ E ele fez duas fileiras de romãs em volta de cada rede para cobrir os capitéis que ficavam no topo das colunas; ele fez o mesmo para os dois capitéis.
+
+[[v11-7-19]]
+
+^<<v11-7-19,19>>^ Os capitéis no topo das colunas do pórtico tinham o formato de um lírio de quatro côvados de altura.
+
+[[v11-7-20]]
+
+^<<v11-7-20,20>>^ Os capitéis ficavam sobre as duas colunas, logo acima da parte arredondada rodeada pelas redes; e havia 200 romãs em fileiras em volta de cada capitel.
+
+[[v11-7-21]]
+
+^<<v11-7-21,21>>^ Ele ergueu as colunas do pórtico do templo.^&#42;1^ Ergueu a coluna da direita^&#42;2^ e lhe deu o nome de Jaquim,^&#42;3^ depois ergueu a coluna da esquerda^&#42;4^ e lhe deu o nome de Boaz.^&#42;5^
+
+[NOTE]
+====
+. Aqui se refere ao Santo.
+. Ou: “ao sul”.
+. Que significa “que ele [isto é, Jeová] estabeleça firmemente”.
+. Ou: “ao norte”.
+. Que possivelmente significa “em força”.
+====
+
+[[v11-7-22]]
+
+^<<v11-7-22,22>>^ O topo das colunas tinha o formato de um lírio. Assim se completou o trabalho das colunas.
+
+[[v11-7-23]]
+
+^<<v11-7-23,23>>^ Então ele fez o Mar,^&#42;1^ de metal fundido. Ele era circular, com 10 côvados de uma borda à outra e 5 côvados de altura, e era necessário uma corda de medir de 30 côvados para dar a volta nele.^&#42;2^
+
+[NOTE]
+====
+. Ou: “reservatório”.
+. Ou: “e ele tinha 30 côvados de circunferência”.
+====
+
+[[v11-7-24]]
+
+^<<v11-7-24,24>>^ Abaixo da borda, em toda a sua volta, havia enfeites em forma de cabaças, dez por côvado, circundando todo o Mar, com duas fileiras de cabaças fundidas com ele numa só peça.
+
+[[v11-7-25]]
+
+^<<v11-7-25,25>>^ O Mar ficava sobre 12 touros, três voltados para o norte, três para o oeste, três para o sul, e três para o leste; o Mar ficava em cima deles, e a parte traseira deles estava voltada para o centro do Mar.
+
+[[v11-7-26]]
+
+^<<v11-7-26,26>>^ Ele tinha a espessura da largura da mão;^&#42;1^ a sua borda foi feita como a borda de um cálice, com o formato de uma flor de lírio. Ele continha 2.000 batos.^&#42;2^
+
+[NOTE]
+====
+. Cerca de 7,4 cm. Veja Ap. B14.
+. Um bato equivalia a 22 l. Veja Ap. B14.
+====
+
+[[v11-7-27]]
+
+^<<v11-7-27,27>>^ Então ele fez os dez carrinhos^&#42;1^ de cobre. Cada carrinho tinha quatro côvados de comprimento, quatro côvados de largura e três côvados de altura.
+
+[NOTE]
+====
+. Ou: “carrinhos para carregar água”.
+====
+
+[[v11-7-28]]
+
+^<<v11-7-28,28>>^ Os carrinhos foram feitos deste modo: tinham painéis laterais, e esses painéis ficavam entre as armações.
+
+[[v11-7-29]]
+
+^<<v11-7-29,29>>^ Nos painéis laterais entre as armações havia leões, touros e querubins, e nas armações havia as mesmas figuras. Acima e abaixo dos leões e dos touros havia figuras de festões em relevo.
+
+[[v11-7-30]]
+
+^<<v11-7-30,30>>^ E cada carrinho tinha quatro rodas de cobre e eixos de cobre, fixados em quatro cantoneiras. Abaixo da bacia havia suportes, que tinham figuras de festões fundidas em suas laterais.
+
+[[v11-7-31]]
+
+^<<v11-7-31,31>>^ Sua abertura ficava por dentro da coroa e tinha um côvado de altura; a abertura da coroa era redonda e, junto com os suportes, formava uma estrutura de apoio de um côvado e meio de altura, e na coroa havia gravuras. E seus painéis laterais eram retangulares, não redondos.
+
+[[v11-7-32]]
+
+^<<v11-7-32,32>>^ As quatro rodas ficavam abaixo dos painéis laterais do carrinho, e os suportes das rodas ficavam presos ao carrinho, e cada roda tinha um côvado e meio de altura.
+
+[[v11-7-33]]
+
+^<<v11-7-33,33>>^ As rodas eram como rodas de carro de guerra. Seus suportes, aros, raios e cubos eram todos de metal fundido.
+
+[[v11-7-34]]
+
+^<<v11-7-34,34>>^ Havia quatro suportes em cada carrinho; esses suportes eram fundidos como parte do^&#42;1^ carrinho.
+
+[NOTE]
+====
+. Ou: “formavam uma peça com o”.
+====
+
+[[v11-7-35]]
+
+^<<v11-7-35,35>>^ Na parte superior do carrinho havia uma faixa circular de meio côvado de altura; nessa parte superior do carrinho, as molduras e os painéis laterais eram fundidos como parte do^&#42;1^ carrinho.
+
+[NOTE]
+====
+. Ou: “formavam uma peça com o”.
+====
+
+[[v11-7-36]]
+
+^<<v11-7-36,36>>^ Na superfície das molduras e nos painéis laterais ele gravou querubins, leões e palmeiras, conforme o espaço disponível em cada um, além de festões em toda a volta.
+
+[[v11-7-37]]
+
+^<<v11-7-37,37>>^ Foi assim que ele fez os dez carrinhos; todos foram fundidos da mesma maneira, com a mesma medida e o mesmo formato.
+
+[[v11-7-38]]
+
+^<<v11-7-38,38>>^ Ele fez dez bacias de cobre; cada uma tinha capacidade para 40 batos. Cada bacia tinha quatro côvados.^&#42;1^ Havia uma bacia para cada um dos dez carrinhos.
+
+[NOTE]
+====
+. Ou: “quatro côvados de diâmetro”.
+====
+
+[[v11-7-39]]
+
+^<<v11-7-39,39>>^ Então ele pôs cinco carrinhos do lado direito da casa e cinco do lado esquerdo da casa, e pôs o Mar do lado direito da casa, ao sudeste.
+
+[[v11-7-40]]
+
+^<<v11-7-40,40>>^ Hirão também fez as bacias, as pás e as tigelas.
+Assim, Hirão terminou todo o trabalho que fez para o rei Salomão com respeito à casa de Jeová:
+
+[[v11-7-41]]
+
+^<<v11-7-41,41>>^ as duas colunas e os capitéis em forma de tigela que ficavam no topo das duas colunas; as duas redes para cobrir os dois capitéis em forma de tigela que ficavam no topo das colunas;
+
+[[v11-7-42]]
+
+^<<v11-7-42,42>>^ as 400 romãs para as duas redes — duas fileiras de romãs para cada rede — para cobrir os dois capitéis em forma de tigela que ficavam nas duas colunas;
+
+[[v11-7-43]]
+
+^<<v11-7-43,43>>^ os dez carrinhos e as dez bacias nos carrinhos;
+
+[[v11-7-44]]
+
+^<<v11-7-44,44>>^ o Mar e os 12 touros debaixo do Mar;
+
+[[v11-7-45]]
+
+^<<v11-7-45,45>>^ e os recipientes, as pás, as tigelas e todos os utensílios, que Hirão fez de cobre polido para o rei Salomão, para a casa de Jeová.
+
+[[v11-7-46]]
+
+^<<v11-7-46,46>>^ O rei os fundiu em moldes de argila no distrito do Jordão, entre Sucote e Zaretã.
+
+[[v11-7-47]]
+
+^<<v11-7-47,47>>^ Salomão não pesou os utensílios porque a quantidade era muito grande. O peso do cobre não foi calculado.
+
+[[v11-7-48]]
+
+^<<v11-7-48,48>>^ Salomão fez os móveis e todos os utensílios para a casa de Jeová: o altar de ouro; a mesa de ouro para colocar os pães da proposição;
+
+[[v11-7-49]]
+
+^<<v11-7-49,49>>^ os candelabros de ouro puro, cinco à direita e cinco à esquerda, diante do compartimento interno, as flores, as lâmpadas e os apagadores,^&#42;1^ de ouro;
+
+[NOTE]
+====
+. Ou: “as tenazes”.
+====
+
+[[v11-7-50]]
+
+^<<v11-7-50,50>>^ as bacias, os cortadores de pavio, as tigelas, as taças e os braseiros, de ouro puro; e os encaixes de ouro para as portas do compartimento interno, isto é, o Santíssimo, e para as portas do templo.^&#42;1^
+
+[NOTE]
+====
+. Ou: “da casa do templo”. Aqui se refere ao Santo.
+====
+
+[[v11-7-51]]
+
+^<<v11-7-51,51>>^ Assim o rei Salomão terminou todo o trabalho que tinha de fazer para a casa de Jeová. Salomão levou então para dentro as coisas que Davi, seu pai, havia tornado sagradas, e pôs a prata, o ouro e os utensílios no tesouro da casa de Jeová.
+
+'''
+
+xref:011-1-reis/011-1-reis-006.adoc#v11-6-0[&#60; Capítulo Anterior] | <<v11-7-0,Topo>> | xref:011-1-reis/011-1-reis-008.adoc#v11-8-0[Próximo Capítulo &#62;]

@@ -1,0 +1,247 @@
+include::./index.adoc[]
+
+[[v12-17-0]]
+=== O Segundo dos Reis, 17
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v12-17-1]]
+
+^<<v12-17-1,1>>^ No décimo segundo ano de Acaz, rei de Judá, Oseias, filho de Elá, tornou-se rei sobre Israel, em Samaria, e reinou por nove anos.
+
+[[v12-17-2]]
+
+^<<v12-17-2,2>>^ Ele fazia o que era mau aos olhos de Jeová, mas não tanto quanto os reis de Israel que reinaram antes dele.
+
+[[v12-17-3]]
+
+^<<v12-17-3,3>>^ Salmaneser, rei da Assíria, veio contra ele, e Oseias se tornou seu servo e começou a lhe pagar tributo.
+
+[[v12-17-4]]
+
+^<<v12-17-4,4>>^ No entanto, o rei da Assíria ficou sabendo que Oseias estava envolvido numa conspiração, porque ele tinha enviado mensageiros a Sô, rei do Egito, e não levava mais o tributo ao rei da Assíria, como nos anos anteriores. Por isso, o rei da Assíria o manteve preso e amarrado numa prisão.
+
+[[v12-17-5]]
+
+^<<v12-17-5,5>>^ O rei da Assíria invadiu o país inteiro; ele chegou a Samaria e a cercou por três anos.
+
+[[v12-17-6]]
+
+^<<v12-17-6,6>>^ No nono ano de Oseias, o rei da Assíria tomou Samaria. Depois ele levou o povo de Israel para o exílio na Assíria, e fez que morassem em Hala e em Habor, junto ao rio Gozã, e nas cidades dos medos.
+
+[[v12-17-7]]
+
+^<<v12-17-7,7>>^ Isso aconteceu porque o povo de Israel tinha pecado contra Jeová, seu Deus, que os havia tirado da terra do Egito, do domínio de Faraó, rei do Egito. Eles adoraram^&#42;1^ outros deuses,
+
+[NOTE]
+====
+. Lit.: “temeram”.
+====
+
+[[v12-17-8]]
+
+^<<v12-17-8,8>>^ seguiram os costumes das nações que Jeová havia expulsado de diante dos israelitas e os costumes que os reis de Israel tinham estabelecido.
+
+[[v12-17-9]]
+
+^<<v12-17-9,9>>^ Os israelitas buscaram coisas que não eram certas aos olhos de Jeová, seu Deus. Construíram altos sagrados em todas as suas cidades, desde a torre de vigia até a cidade fortificada.^&#42;1^
+
+[NOTE]
+====
+. Isto é, em todos os lugares, tanto nos pouco habitados como nos populosos.
+====
+
+[[v12-17-10]]
+
+^<<v12-17-10,10>>^ Eles ergueram para si colunas sagradas e postes sagrados^&#42;1^ em toda colina elevada e debaixo de toda árvore frondosa;
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v12-17-11]]
+
+^<<v12-17-11,11>>^ e, em todos os altos sagrados, faziam fumaça sacrificial, assim como fizeram as nações que Jeová tinha expulsado de diante deles. Faziam coisas más para ofender a Jeová.
+
+[[v12-17-12]]
+
+^<<v12-17-12,12>>^ Eles continuaram a servir a ídolos repugnantes,^&#42;1^ sobre os quais Jeová lhes tinha dito: “Não façam isso!”
+
+[NOTE]
+====
+. O termo hebraico talvez esteja relacionado a uma palavra para “esterco” e é usado como expressão de desprezo.
+====
+
+[[v12-17-13]]
+
+^<<v12-17-13,13>>^ Jeová continuou a advertir Israel e Judá por meio de todos os seus profetas e de todos os videntes, dizendo: “Recuem dos seus maus caminhos! Guardem meus mandamentos e meus decretos, segundo toda a lei que ordenei aos seus antepassados e que lhes transmiti por meio dos meus servos, os profetas.”
+
+[[v12-17-14]]
+
+^<<v12-17-14,14>>^ Mas eles não escutaram, e continuaram tão obstinados quanto os^&#42;1^ seus antepassados que não tinham mostrado fé em Jeová, seu Deus.
+
+[NOTE]
+====
+. Lit.: “endureceram sua cerviz como a cerviz dos”.
+====
+
+[[v12-17-15]]
+
+^<<v12-17-15,15>>^ Eles continuaram a rejeitar os seus decretos, o pacto que ele havia feito com os antepassados deles e as advertências^&#42;1^ que lhes tinha dado como aviso, e seguiam ídolos inúteis, tornando-se eles mesmos inúteis. Assim, imitaram as nações ao redor deles, que Jeová lhes tinha proibido imitar.
+
+[NOTE]
+====
+. Ou: “os lembretes”.
+====
+
+[[v12-17-16]]
+
+^<<v12-17-16,16>>^ Abandonaram todos os mandamentos de Jeová, seu Deus, fizeram duas estátuas de metal^&#42;1^ em forma de bezerro e um poste sagrado,^&#42;2^ curvaram-se diante de todo o exército dos céus e serviram a Baal.
+
+[NOTE]
+====
+. Ou: “estátuas fundidas”.
+. Veja o Glossário.
+====
+
+[[v12-17-17]]
+
+^<<v12-17-17,17>>^ Eles também queimaram seus filhos e suas filhas no fogo,^&#42;1^ praticaram adivinhação, procuraram presságios^&#42;2^ e se entregaram^&#42;3^ a fazer o que era mau aos olhos de Jeová, ofendendo-o.
+
+[NOTE]
+====
+. Lit.: “fizeram seus filhos e suas filhas passar pelo fogo”.
+. Ou: “sinais”.
+. Lit.: “venderam”.
+====
+
+[[v12-17-18]]
+
+^<<v12-17-18,18>>^ Por isso, Jeová ficou muito irado com Israel e os removeu da sua vista. Não deixou restar ninguém, somente a tribo de Judá.
+
+[[v12-17-19]]
+
+^<<v12-17-19,19>>^ Nem mesmo Judá guardou os mandamentos de Jeová, seu Deus; eles também seguiram os costumes que Israel seguiu.
+
+[[v12-17-20]]
+
+^<<v12-17-20,20>>^ Jeová rejeitou todos os descendentes de Israel, os humilhou e os entregou nas mãos de saqueadores, até tê-los expulsado de diante de si.
+
+[[v12-17-21]]
+
+^<<v12-17-21,21>>^ Ele arrancou Israel da casa de Davi, e eles fizeram rei a Jeroboão, filho de Nebate. Mas Jeroboão levou Israel a se desviar de seguir a Jeová e a cometer um grande pecado.
+
+[[v12-17-22]]
+
+^<<v12-17-22,22>>^ E o povo de Israel cometeu os mesmos pecados que Jeroboão tinha cometido. Não se desviaram deles,
+
+[[v12-17-23]]
+
+^<<v12-17-23,23>>^ até que Jeová removeu Israel da sua vista, assim como tinha falado por meio de todos os seus servos, os profetas. Portanto, Israel foi levado da sua terra para o exílio na Assíria, onde continuam até hoje.
+
+[[v12-17-24]]
+
+^<<v12-17-24,24>>^ Depois, o rei da Assíria trouxe gente de Babilônia, Cuta, Ava, Hamate e Sefarvaim, e os estabeleceu nas cidades de Samaria, no lugar dos israelitas; eles tomaram posse de Samaria e moraram nas suas cidades.
+
+[[v12-17-25]]
+
+^<<v12-17-25,25>>^ Quando começaram a morar ali, não temiam^&#42;1^ a Jeová. Por isso, Jeová enviou contra eles leões, que mataram alguns deles.
+
+[NOTE]
+====
+. Ou: “não adoravam”.
+====
+
+[[v12-17-26]]
+
+^<<v12-17-26,26>>^ O rei da Assíria foi informado: “As nações que o senhor levou para o exílio e estabeleceu nas cidades de Samaria não sabem como adorar o Deus do país. Por isso, ele está enviando contra eles leões, que os estão matando, visto que ninguém sabe como adorar o Deus do país.”
+
+[[v12-17-27]]
+
+^<<v12-17-27,27>>^ Em vista disso, o rei da Assíria ordenou: “Façam com que um dos sacerdotes que vocês levaram de lá para o exílio volte a fim de morar lá e lhes ensinar como adorar o Deus do país.”
+
+[[v12-17-28]]
+
+^<<v12-17-28,28>>^ Assim, um dos sacerdotes que eles tinham levado de Samaria para o exílio voltou a morar em Betel, e ele começou a lhes ensinar como deviam temer^&#42;1^ a Jeová.
+
+[NOTE]
+====
+. Ou: “adorar”.
+====
+
+[[v12-17-29]]
+
+^<<v12-17-29,29>>^ No entanto, cada nação fez o seu próprio deus,^&#42;1^ e elas os colocaram nos santuários dos altos sagrados que os samaritanos tinham feito; cada nação fez isso nas cidades em que morava.
+
+[NOTE]
+====
+. Ou: “os seus próprios deuses”.
+====
+
+[[v12-17-30]]
+
+^<<v12-17-30,30>>^ Assim, os homens de Babilônia fizeram Sucote-Benote, os homens de Cute fizeram Nergal, os homens de Hamate fizeram Asima
+
+[[v12-17-31]]
+
+^<<v12-17-31,31>>^ e os avitas fizeram Nibaz e Tartaque. Os sefarvitas queimavam seus filhos no fogo para Adrameleque e para Anameleque, deuses de Sefarvaim.
+
+[[v12-17-32]]
+
+^<<v12-17-32,32>>^ Embora eles temessem a Jeová, designaram homens do povo em geral para ser sacerdotes de altos sagrados, e esses oficiavam para eles nos santuários dos altos sagrados.
+
+[[v12-17-33]]
+
+^<<v12-17-33,33>>^ Assim, eles temiam a Jeová, mas adoravam os seus próprios deuses, de acordo com a religião^&#42;1^ das nações de onde tinham sido trazidos.
+
+[NOTE]
+====
+. Ou: “os costumes religiosos”.
+====
+
+[[v12-17-34]]
+
+^<<v12-17-34,34>>^ Até hoje eles seguem suas religiões^&#42;1^ anteriores. Nenhum deles adora^&#42;2^ a Jeová e ninguém cumpre seus decretos, suas decisões judiciais, nem a Lei e o mandamento que Jeová deu aos filhos de Jacó, cujo nome ele mudou para Israel.
+
+[NOTE]
+====
+. Ou: “seus costumes religiosos”.
+. Lit.: “teme”.
+====
+
+[[v12-17-35]]
+
+^<<v12-17-35,35>>^ Quando Jeová fez com eles um pacto, ele lhes ordenou: “Não temam a outros deuses, e não se curvem diante deles, nem os sirvam, nem ofereçam sacrifícios a eles.
+
+[[v12-17-36]]
+
+^<<v12-17-36,36>>^ Mas é a Jeová que vocês devem temer, aquele que os tirou da terra do Egito com grande poder e com braço estendido; é diante dele que devem se curvar e é a ele que devem oferecer sacrifícios.
+
+[[v12-17-37]]
+
+^<<v12-17-37,37>>^ E vocês sempre devem cumprir cuidadosamente os decretos, as decisões judiciais, a Lei e o mandamento que ele escreveu para vocês. Não temam a outros deuses.
+
+[[v12-17-38]]
+
+^<<v12-17-38,38>>^ Não esqueçam o pacto que fiz com vocês e não temam a outros deuses.
+
+[[v12-17-39]]
+
+^<<v12-17-39,39>>^ Mas é a Jeová, seu Deus, que vocês devem temer, pois é ele quem os livrará das mãos de todos os seus inimigos.”
+
+[[v12-17-40]]
+
+^<<v12-17-40,40>>^ Mas eles não obedeceram e seguiram sua religião anterior.^&#42;1^
+
+[NOTE]
+====
+. Ou: “seus costumes religiosos anteriores”.
+====
+
+[[v12-17-41]]
+
+^<<v12-17-41,41>>^ Assim, essas nações passaram a temer a Jeová, mas também serviam às suas próprias imagens esculpidas. E até hoje tanto os seus filhos como os seus netos estão fazendo assim como os seus antepassados fizeram.
+
+'''
+
+xref:012-2-reis/012-2-reis-016.adoc#v12-16-0[&#60; Capítulo Anterior] | <<v12-17-0,Topo>> | xref:012-2-reis/012-2-reis-018.adoc#v12-18-0[Próximo Capítulo &#62;]

@@ -1,0 +1,88 @@
+include::./index.adoc[]
+
+[[v19-6-0]]
+=== Salmos, 6
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Ao regente; para ser acompanhado com instrumentos de cordas afinados em seminite.^&#42;1^ Salmo de Davi._
+
+[[v19-6-1]]
+
+^<<v19-6-1,1>>^ Ó Jeová, não me repreendas na tua ira,
+E não me corrijas no teu furor.
+
+[[v19-6-2]]
+
+^<<v19-6-2,2>>^ Mostra-me favor,^&#42;1^ ó Jeová, pois estou perdendo as forças.
+Cura-me, ó Jeová, pois os meus ossos tremem.
+
+[NOTE]
+====
+. Ou: “misericórdia”.
+====
+
+[[v19-6-3]]
+
+^<<v19-6-3,3>>^ Sim, minha alma está muito aflita;
+E pergunto a ti, ó Jeová: Até quando será assim?
+
+[[v19-6-4]]
+
+^<<v19-6-4,4>>^ Volta, ó Jeová, e livra-me;^&#42;1^
+Salva-me por causa do teu amor leal.
+
+[NOTE]
+====
+. Ou: “e livra a minha alma”.
+====
+
+[[v19-6-5]]
+
+^<<v19-6-5,5>>^ Pois na morte não há menção^&#42;1^ de ti;
+Na Sepultura,^&#42;2^ quem te louvará?
+
+[NOTE]
+====
+. Ou: “lembrança”.
+. Ou: “No Seol”, isto é, a sepultura comum da humanidade. Veja o Glossário.
+====
+
+[[v19-6-6]]
+
+^<<v19-6-6,6>>^ Estou exausto de tanto gemer;
+A noite inteira inundo de lágrimas a minha cama;^&#42;1^
+Faço o meu leito transbordar com o meu choro.
+
+[NOTE]
+====
+. Lit.: “faço a minha cama nadar”.
+====
+
+[[v19-6-7]]
+
+^<<v19-6-7,7>>^ Meus olhos estão fracos devido à minha tristeza;
+Ficaram turvos^&#42;1^ por causa de todos os que me hostilizam.
+
+[NOTE]
+====
+. Ou: “Envelheceram”.
+====
+
+[[v19-6-8]]
+
+^<<v19-6-8,8>>^ Afastem-se de mim, todos vocês malfeitores,
+Pois Jeová ouvirá o som do meu choro.
+
+[[v19-6-9]]
+
+^<<v19-6-9,9>>^ Jeová ouvirá o meu pedido de favor;
+Jeová aceitará a minha oração.
+
+[[v19-6-10]]
+
+^<<v19-6-10,10>>^ Todos os meus inimigos serão humilhados e ficarão desanimados;
+Recuarão, com vergonha, num instante.
+
+'''
+
+xref:019-salmo/019-salmo-005.adoc#v19-5-0[&#60; Capítulo Anterior] | <<v19-6-0,Topo>> | xref:019-salmo/019-salmo-007.adoc#v19-7-0[Próximo Capítulo &#62;]

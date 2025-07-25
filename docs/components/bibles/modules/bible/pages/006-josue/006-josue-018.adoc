@@ -1,0 +1,132 @@
+include::./index.adoc[]
+
+[[v6-18-0]]
+=== Josué, 18
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v6-18-1]]
+
+^<<v6-18-1,1>>^ Então toda a assembleia de Israel se reuniu em Silo e armou ali a tenda de reunião, pois a terra já estava subjugada diante deles.
+
+[[v6-18-2]]
+
+^<<v6-18-2,2>>^ Mas ainda havia sete tribos dos israelitas que não tinham recebido a sua herança.
+
+[[v6-18-3]]
+
+^<<v6-18-3,3>>^ De modo que Josué disse aos israelitas: “Até quando vocês ficarão esperando para ir tomar posse da terra que Jeová, o Deus dos seus antepassados, lhes deu?
+
+[[v6-18-4]]
+
+^<<v6-18-4,4>>^ Escolham três homens de cada tribo para que eu os envie; eles devem ir e percorrer a terra, fazendo um levantamento dela conforme a herança de cada tribo. Depois eles devem voltar a mim.
+
+[[v6-18-5]]
+
+^<<v6-18-5,5>>^ Eles devem dividir a terra em sete partes. Judá continuará no seu território ao sul, e a casa de José continuará no seu território ao norte.
+
+[[v6-18-6]]
+
+^<<v6-18-6,6>>^ Façam o levantamento da terra, dividindo-a em sete partes; depois tragam-no para mim, e eu lançarei sortes aqui para vocês perante Jeová, nosso Deus.
+
+[[v6-18-7]]
+
+^<<v6-18-7,7>>^ Mas os levitas não receberão uma parte da terra entre vocês, visto que a sua herança é o sacerdócio de Jeová; e Gade, Rubem e a meia tribo de Manassés já receberam sua herança do lado leste do Jordão, que Moisés, o servo de Jeová, lhes deu.”
+
+[[v6-18-8]]
+
+^<<v6-18-8,8>>^ Os homens se prepararam para ir, e Josué ordenou aos que iam fazer o levantamento da terra: “Vão, percorram a terra e façam um levantamento dela; depois voltem a mim, e eu lançarei sortes para vocês perante Jeová aqui em Silo.”
+
+[[v6-18-9]]
+
+^<<v6-18-9,9>>^ Então os homens foram e percorreram a terra, fazendo um levantamento dela. Eles a dividiram em sete partes, segundo as cidades, registrando tudo num livro. Depois voltaram a Josué, ao acampamento em Silo.
+
+[[v6-18-10]]
+
+^<<v6-18-10,10>>^ Josué lançou então sortes para eles em Silo, perante Jeová. Ali Josué distribuiu a terra aos israelitas, conforme a porção devida a cada tribo.
+
+[[v6-18-11]]
+
+^<<v6-18-11,11>>^ A sorte saiu para a tribo de Benjamim, segundo as suas famílias, e o território que lhes foi designado por sortes ficou entre o povo de Judá e o povo de José.
+
+[[v6-18-12]]
+
+^<<v6-18-12,12>>^ No lado norte, o limite começava no Jordão, e o limite ia até a encosta norte de Jericó, subia pelo monte na direção oeste e se estendia até o deserto de Bete-Áven.
+
+[[v6-18-13]]
+
+^<<v6-18-13,13>>^ E o limite continuava dali até Luz, na encosta sul de Luz, isto é, Betel; o limite descia até Atarote-Adar, no monte ao sul de Bete-Horom Baixa.
+
+[[v6-18-14]]
+
+^<<v6-18-14,14>>^ E o limite se estendia do lado oeste e virava para o sul, desde o monte que fica em frente a Bete-Horom, ao sul; terminava em Quiriate-Baal, isto é, Quiriate-Jearim, uma cidade de Judá. Esse era o lado oeste.
+
+[[v6-18-15]]
+
+^<<v6-18-15,15>>^ O lado sul começava na extremidade de Quiriate-Jearim e o limite se estendia para o oeste; seguia até a fonte das águas de Neftoa.
+
+[[v6-18-16]]
+
+^<<v6-18-16,16>>^ O limite descia até a extremidade do monte que fica em frente ao vale do Filho de Hinom, no norte do vale^&#42;1^ de Refaim, descia até o vale de Hinom, até a encosta sul dos jebuseus, e descia a En-Rogel.
+
+[NOTE]
+====
+. Ou: “da baixada”.
+====
+
+[[v6-18-17]]
+
+^<<v6-18-17,17>>^ Depois seguia para o norte e se estendia até En-Semes, e então até Gelilote, que fica em frente à subida de Adumim, e descia até a pedra de Boã, filho de Rubem.
+
+[[v6-18-18]]
+
+^<<v6-18-18,18>>^ E prosseguia para a encosta norte em frente ao Arabá e descia até o Arabá.
+
+[[v6-18-19]]
+
+^<<v6-18-19,19>>^ E o limite continuava até a encosta norte de Bete-Hogla, e o limite terminava na baía norte do mar Salgado,^&#42;1^ na extremidade sul do Jordão. Esse era o limite sul.
+
+[NOTE]
+====
+. Isto é, o mar Morto.
+====
+
+[[v6-18-20]]
+
+^<<v6-18-20,20>>^ No lado leste, o Jordão serviu como limite. Esses eram todos os limites da herança dos descendentes de Benjamim, segundo as suas famílias.
+
+[[v6-18-21]]
+
+^<<v6-18-21,21>>^ E as cidades da tribo de Benjamim, segundo as suas famílias, eram: Jericó, Bete-Hogla, Emeque-Queziz,
+
+[[v6-18-22]]
+
+^<<v6-18-22,22>>^ Bete-Arabá, Zemaraim, Betel,
+
+[[v6-18-23]]
+
+^<<v6-18-23,23>>^ Avim, Pará, Ofra,
+
+[[v6-18-24]]
+
+^<<v6-18-24,24>>^ Quefar-Amonai, Ofni e Geba — 12 cidades e seus povoados.
+
+[[v6-18-25]]
+
+^<<v6-18-25,25>>^ Gibeão, Ramá, Beerote,
+
+[[v6-18-26]]
+
+^<<v6-18-26,26>>^ Mispa, Quefira, Moza,
+
+[[v6-18-27]]
+
+^<<v6-18-27,27>>^ Requém, Irpeel, Tarala,
+
+[[v6-18-28]]
+
+^<<v6-18-28,28>>^ Zela, Ha-Elefe, Jebusi, isto é, Jerusalém, Gibeá e Quiriate — 14 cidades e seus povoados.
+Essa foi a herança dos descendentes de Benjamim, segundo as suas famílias.
+
+'''
+
+xref:006-josue/006-josue-017.adoc#v6-17-0[&#60; Capítulo Anterior] | <<v6-18-0,Topo>> | xref:006-josue/006-josue-019.adoc#v6-19-0[Próximo Capítulo &#62;]

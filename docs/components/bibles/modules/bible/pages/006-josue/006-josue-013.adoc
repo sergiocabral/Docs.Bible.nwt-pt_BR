@@ -1,0 +1,199 @@
+include::./index.adoc[]
+
+[[v6-13-0]]
+=== Josué, 13
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v6-13-1]]
+
+^<<v6-13-1,1>>^ Josué já era de idade bem avançada. Assim, Jeová lhe disse: “Você já é de idade bem avançada, mas ainda falta grande parte da terra para se tomar posse.^&#42;1^
+
+[NOTE]
+====
+. Ou: “ser conquistada”.
+====
+
+[[v6-13-2]]
+
+^<<v6-13-2,2>>^ Esta é a terra que falta: todas as regiões dos filisteus e as dos gesuritas
+
+[[v6-13-3]]
+
+^<<v6-13-3,3>>^ (desde o braço do Nilo^&#42;1^ que fica ao leste do^&#42;2^ Egito até a fronteira de Ecrom, ao norte, que era considerado território cananeu), incluindo as regiões dos cinco governantes dos filisteus, isto é, dos gazitas, dos asdoditas, dos ascalonitas, dos geteus e dos ecronitas; a região dos avins,
+
+[NOTE]
+====
+. Ou: “desde Sior”.
+. Lit.: “em frente ao”.
+====
+
+[[v6-13-4]]
+
+^<<v6-13-4,4>>^ ao sul; toda a terra dos cananeus; Meara, que pertence aos sidônios, até Afeque, até a fronteira dos amorreus;
+
+[[v6-13-5]]
+
+^<<v6-13-5,5>>^ a terra dos gebalitas e todo o leste do Líbano, desde Baal-Gade, ao sopé do monte Hermom, até Lebo-Hamate;^&#42;1^
+
+[NOTE]
+====
+. Ou: “a entrada de Hamate”.
+====
+
+[[v6-13-6]]
+
+^<<v6-13-6,6>>^ todos os habitantes da região montanhosa, desde o Líbano até Misrefote-Maim; e todos os sidônios. Eu os expulsarei^&#42;1^ diante dos israelitas. Você só tem de reparti-la a Israel como herança, assim como lhe ordenei.
+
+[NOTE]
+====
+. Ou: “desapossarei de”.
+====
+
+[[v6-13-7]]
+
+^<<v6-13-7,7>>^ Portanto, você deve repartir essa terra como herança entre as nove tribos e a meia tribo de Manassés.”
+
+[[v6-13-8]]
+
+^<<v6-13-8,8>>^ Junto com a outra meia tribo, os rubenitas e os gaditas receberam a herança que Moisés lhes tinha dado do lado leste do Jordão, assim como Moisés, o servo de Jeová, tinha dado a eles:
+
+[[v6-13-9]]
+
+^<<v6-13-9,9>>^ desde Aroer, que fica à beira do vale do Arnom,^&#42;1^ e a cidade que fica no meio do vale, e todo o planalto^&#42;2^ de Medeba até Dibom;
+
+[NOTE]
+====
+. Ou: “uádi Arnom”.
+. Ou: “platô”.
+====
+
+[[v6-13-10]]
+
+^<<v6-13-10,10>>^ todas as cidades de Siom, rei dos amorreus, que reinou em Hesbom, até a fronteira dos amonitas;
+
+[[v6-13-11]]
+
+^<<v6-13-11,11>>^ também Gileade e o território dos gesuritas e dos maacatitas; e todo o monte Hermom, e todo o Basã até Salcá,
+
+[[v6-13-12]]
+
+^<<v6-13-12,12>>^ isto é, todo o reino de Ogue em Basã, que reinou em Astarote e em Edrei. (Ele era um dos últimos refains.) Moisés os derrotou e expulsou.^&#42;1^
+
+[NOTE]
+====
+. Ou: “desapossou”.
+====
+
+[[v6-13-13]]
+
+^<<v6-13-13,13>>^ Mas os israelitas não expulsaram^&#42;1^ os gesuritas e os maacatitas, pois Gesur e Maacá moram no meio de Israel até hoje.
+
+[NOTE]
+====
+. Ou: “desapossaram”.
+====
+
+[[v6-13-14]]
+
+^<<v6-13-14,14>>^ Ele só não deu herança à tribo dos levitas. As ofertas feitas por fogo a Jeová, o Deus de Israel, são a sua herança, assim como ele lhes prometeu.
+
+[[v6-13-15]]
+
+^<<v6-13-15,15>>^ E Moisés deu uma herança à tribo dos rubenitas, segundo as suas famílias,
+
+[[v6-13-16]]
+
+^<<v6-13-16,16>>^ e o território deles se estendia a partir de Aroer, que fica à beira do vale do Arnom,^&#42;1^ a partir da cidade que fica no meio do vale, e incluía todo o planalto junto a Medeba;
+
+[NOTE]
+====
+. Ou: “uádi Arnom”.
+====
+
+[[v6-13-17]]
+
+^<<v6-13-17,17>>^ Hesbom e todas as suas cidades que ficam no planalto, Dibom, Bamote-Baal, Bete-Baal-Meom,
+
+[[v6-13-18]]
+
+^<<v6-13-18,18>>^ Jaaz, Quedemote, Mefaate,
+
+[[v6-13-19]]
+
+^<<v6-13-19,19>>^ Quiriataim, Sibma, Zerete-Saar, no monte do vale,^&#42;1^
+
+[NOTE]
+====
+. Ou: “da baixada”.
+====
+
+[[v6-13-20]]
+
+^<<v6-13-20,20>>^ Bete-Peor, as encostas do Pisga, Bete-Jesimote,
+
+[[v6-13-21]]
+
+^<<v6-13-21,21>>^ todas as cidades do planalto e todo o reino de Siom, rei dos amorreus, que reinou em Hesbom. Moisés derrotou tanto a ele como aos maiorais midianitas — Evi, Requém, Zur, Hur e Reba — vassalos^&#42;1^ de Siom que moravam naquela terra.
+
+[NOTE]
+====
+. Isto é, reis que estavam sujeitos a Siom.
+====
+
+[[v6-13-22]]
+
+^<<v6-13-22,22>>^ Entre aqueles que os israelitas mataram com a espada estava Balaão, o adivinho, filho de Beor.
+
+[[v6-13-23]]
+
+^<<v6-13-23,23>>^ O limite do território dos rubenitas era o Jordão; esse território, com suas cidades e seus povoados, foi a herança dos rubenitas, segundo as suas famílias.
+
+[[v6-13-24]]
+
+^<<v6-13-24,24>>^ Além disso, Moisés deu uma herança à tribo de Gade, aos gaditas, segundo as suas famílias.
+
+[[v6-13-25]]
+
+^<<v6-13-25,25>>^ Seu território incluía Jazer, todas as cidades de Gileade e metade da terra dos amonitas até Aroer, que fica em frente de Rabá;
+
+[[v6-13-26]]
+
+^<<v6-13-26,26>>^ e ia desde Hesbom até Ramate-Mispa e Betonim, e desde Maanaim até a fronteira de Debir.
+
+[[v6-13-27]]
+
+^<<v6-13-27,27>>^ No vale,^&#42;1^ incluía Bete-Harã, Bete-Ninra, Sucote e Zafom, o restante do reino de Siom, rei de Hesbom, com o Jordão como fronteira a partir da extremidade sul do mar de Quinerete,^&#42;2^ do lado leste do Jordão.
+
+[NOTE]
+====
+. Ou: “Na baixada”.
+. Isto é, o lago de Genesaré, ou mar da Galileia.
+====
+
+[[v6-13-28]]
+
+^<<v6-13-28,28>>^ Essa foi a herança dos gaditas, segundo as suas famílias, com suas cidades e seus povoados.
+
+[[v6-13-29]]
+
+^<<v6-13-29,29>>^ Além disso, Moisés deu uma herança à meia tribo de Manassés, à metade da tribo de Manassés, segundo as suas famílias.
+
+[[v6-13-30]]
+
+^<<v6-13-30,30>>^ E seu território começava em Maanaim e incluía todo o Basã, isto é, todo o reino de Ogue, rei de Basã, e todas as aldeias de tendas de Jair que estão em Basã, 60 cidades.
+
+[[v6-13-31]]
+
+^<<v6-13-31,31>>^ E metade de Gileade, e Astarote e Edrei, as cidades do reino de Ogue em Basã, ficaram para os filhos de Maquir, filho de Manassés, isto é, para a metade dos filhos de Maquir, segundo as suas famílias.
+
+[[v6-13-32]]
+
+^<<v6-13-32,32>>^ Essas foram as heranças que Moisés lhes deu nas planícies desérticas de Moabe, no outro lado do Jordão, ao leste de Jericó.
+
+[[v6-13-33]]
+
+^<<v6-13-33,33>>^ Mas Moisés não deu herança à tribo dos levitas. Jeová, o Deus de Israel, é a sua herança, assim como ele lhes prometeu.
+
+'''
+
+xref:006-josue/006-josue-012.adoc#v6-12-0[&#60; Capítulo Anterior] | <<v6-13-0,Topo>> | xref:006-josue/006-josue-014.adoc#v6-14-0[Próximo Capítulo &#62;]

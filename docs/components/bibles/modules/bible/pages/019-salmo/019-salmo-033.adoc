@@ -1,0 +1,161 @@
+include::./index.adoc[]
+
+[[v19-33-0]]
+=== Salmos, 33
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v19-33-1]]
+
+^<<v19-33-1,1>>^ Gritem de alegria por causa de Jeová, ó justos.
+É próprio que os retos lhe deem louvor.
+
+[[v19-33-2]]
+
+^<<v19-33-2,2>>^ Deem graças a Jeová com a harpa;
+Cantem louvores^&#42;1^ a ele com um instrumento de dez cordas.
+
+[NOTE]
+====
+. Ou: “Façam música”.
+====
+
+[[v19-33-3]]
+
+^<<v19-33-3,3>>^ Cantem-lhe um novo cântico;
+Toquem com habilidade e gritem de alegria.
+
+[[v19-33-4]]
+
+^<<v19-33-4,4>>^ Pois a palavra de Jeová é reta,
+Tudo que ele faz é digno de confiança.
+
+[[v19-33-5]]
+
+^<<v19-33-5,5>>^ Ele ama a retidão e a justiça.
+A terra está cheia do amor leal de Jeová.
+
+[[v19-33-6]]
+
+^<<v19-33-6,6>>^ Por meio da palavra de Jeová foram feitos os céus;
+E por meio do espírito^&#42;1^ da sua boca, tudo que há neles.^&#42;2^
+
+[NOTE]
+====
+. Ou: “fôlego”.
+. Lit.: “todo o exército deles”.
+====
+
+[[v19-33-7]]
+
+^<<v19-33-7,7>>^ Ele junta as águas do mar como numa represa;
+Ele põe as águas turbulentas em depósitos.
+
+[[v19-33-8]]
+
+^<<v19-33-8,8>>^ Que toda a terra tema a Jeová.
+Que todos os que moram nela^&#42;1^ o reverenciem.
+
+[NOTE]
+====
+. Ou: “na terra produtiva”.
+====
+
+[[v19-33-9]]
+
+^<<v19-33-9,9>>^ Pois ele falou, e tudo veio a existir;
+Ele deu a ordem, e tudo ficou firme.
+
+[[v19-33-10]]
+
+^<<v19-33-10,10>>^ Jeová desfez as tramas^&#42;1^ das nações;
+Frustrou os planos^&#42;2^ dos povos.
+
+[NOTE]
+====
+. Ou: “os conselhos”.
+. Ou: “pensamentos”.
+====
+
+[[v19-33-11]]
+
+^<<v19-33-11,11>>^ Mas as decisões^&#42;1^ de Jeová permanecerão para sempre;
+Os pensamentos do seu coração, de geração em geração.
+
+[NOTE]
+====
+. Ou: “os conselhos”.
+====
+
+[[v19-33-12]]
+
+^<<v19-33-12,12>>^ Feliz a nação cujo Deus é Jeová,
+O povo que ele escolheu como sua propriedade.
+
+[[v19-33-13]]
+
+^<<v19-33-13,13>>^ Jeová olha desde os céus;
+Ele vê todos os filhos dos homens.
+
+[[v19-33-14]]
+
+^<<v19-33-14,14>>^ Do lugar onde reside,
+Ele observa os habitantes da terra.
+
+[[v19-33-15]]
+
+^<<v19-33-15,15>>^ É ele que forma o coração de todos;
+Examina todas as suas ações.
+
+[[v19-33-16]]
+
+^<<v19-33-16,16>>^ Nenhum rei é salvo por ter um grande exército;
+Um guerreiro não é livrado por ter muito poder.
+
+[[v19-33-17]]
+
+^<<v19-33-17,17>>^ O cavalo é uma falsa esperança de salvação;^&#42;1^
+Sua grande força não garante o livramento.
+
+[NOTE]
+====
+. Ou: “de vitória”.
+====
+
+[[v19-33-18]]
+
+^<<v19-33-18,18>>^ Vejam! Os olhos de Jeová vigiam sobre os que o temem,
+Os que esperam no seu amor leal,
+
+[[v19-33-19]]
+
+^<<v19-33-19,19>>^ Para livrá-los^&#42;1^ da morte
+E para preservá-los vivos em tempo de fome.
+
+[NOTE]
+====
+. Ou: “livrar sua alma”.
+====
+
+[[v19-33-20]]
+
+^<<v19-33-20,20>>^ Nós esperamos^&#42;1^ em Jeová.
+Ele é o nosso ajudador e o nosso escudo.
+
+[NOTE]
+====
+. Ou: “Nossa alma espera”.
+====
+
+[[v19-33-21]]
+
+^<<v19-33-21,21>>^ Nosso coração se alegra nele,
+Pois confiamos no seu santo nome.
+
+[[v19-33-22]]
+
+^<<v19-33-22,22>>^ Que o teu amor leal esteja sobre nós, ó Jeová,
+Ao passo que esperamos em ti.
+
+'''
+
+xref:019-salmo/019-salmo-032.adoc#v19-32-0[&#60; Capítulo Anterior] | <<v19-33-0,Topo>> | xref:019-salmo/019-salmo-034.adoc#v19-34-0[Próximo Capítulo &#62;]

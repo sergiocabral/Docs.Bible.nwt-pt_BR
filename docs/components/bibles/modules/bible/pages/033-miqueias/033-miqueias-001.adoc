@@ -1,0 +1,155 @@
+include::./index.adoc[]
+
+[[v33-1-0]]
+=== Miqueias, 1
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v33-1-1]]
+
+^<<v33-1-1,1>>^ Esta é a palavra de Jeová que Miqueias^&#42;1^ de Moresete recebeu em visão a respeito de Samaria e Jerusalém nos dias de Jotão, Acaz e Ezequias, reis de Judá:
+
+[NOTE]
+====
+. Forma reduzida de Micael (que significa “Quem é semelhante a Deus?”) ou Micaías (que significa “Quem é semelhante a Jeová?”).
+====
+
+[[v33-1-2]]
+
+^<<v33-1-2,2>>^ “Ouçam, todos os povos!
+Prestem atenção, ó terra e tudo o que nela há,
+E que o Soberano Senhor Jeová seja testemunha contra vocês,
+Jeová, desde o seu santo templo.
+
+[[v33-1-3]]
+
+^<<v33-1-3,3>>^ Vejam! Jeová está saindo do seu lugar;
+Ele descerá e pisará nos lugares altos da terra.
+
+[[v33-1-4]]
+
+^<<v33-1-4,4>>^ Os montes se derreterão debaixo dele,
+E os vales^&#42;1^ se partirão
+Como cera diante do fogo,
+Como águas correndo por uma encosta íngreme.
+
+[NOTE]
+====
+. Ou: “as baixadas”.
+====
+
+[[v33-1-5]]
+
+^<<v33-1-5,5>>^ Tudo isso acontecerá por causa da rebeldia de Jacó,
+Por causa dos pecados da casa de Israel.
+Qual é a rebeldia de Jacó?
+Não é Samaria?
+E quais são os altos sagrados de Judá?
+Não é Jerusalém?
+
+[[v33-1-6]]
+
+^<<v33-1-6,6>>^ Farei de Samaria um montão de ruínas no campo,
+Um lugar para plantar vinhedos;
+Atirarei^&#42;1^ suas pedras dentro do vale
+E deixarei à vista seus alicerces.
+
+[NOTE]
+====
+. Lit.: “Derramarei”.
+====
+
+[[v33-1-7]]
+
+^<<v33-1-7,7>>^ Todas as suas imagens esculpidas serão despedaçadas,
+E todos os presentes que ela recebeu como pagamento^&#42;1^ serão queimados no fogo.
+Destruirei todos os seus ídolos.
+Pois ela acumulou essas coisas com o salário de prostituição,
+E elas se tornarão novamente o salário de prostitutas.”
+
+[NOTE]
+====
+. Ou: “todos os salários da sua prostituição”.
+====
+
+[[v33-1-8]]
+
+^<<v33-1-8,8>>^ Por causa disso lamentarei e chorarei,
+Andarei descalço e nu.
+Meu lamento será como o de chacais,
+E meu gemido como o de avestruzes.
+
+[[v33-1-9]]
+
+^<<v33-1-9,9>>^ Pois o ferimento dela é incurável;
+Chegou até Judá.
+A praga se espalhou até o portão do meu povo, até Jerusalém.
+
+[[v33-1-10]]
+
+^<<v33-1-10,10>>^ “Não anunciem isso em Gate;
+Não chorem de modo algum.
+Revolva-se no pó em Bete-Afra.^&#42;1^
+
+[NOTE]
+====
+. Ou: “na casa de Afra”.
+====
+
+[[v33-1-11]]
+
+^<<v33-1-11,11>>^ Sigam adiante em nudez e em vergonha, ó habitantes^&#42;1^ de Safir.
+Os habitantes^&#42;2^ de Zaanã não saíram.
+Haverá lamento em Bete-Ezel, e ela retirará o apoio que dá a vocês.
+
+[NOTE]
+====
+. Lit.: “moradora”.
+. Lit.: “A moradora”.
+====
+
+[[v33-1-12]]
+
+^<<v33-1-12,12>>^ Os habitantes^&#42;1^ de Marote esperavam o bem,
+Mas foi o mal que desceu de Jeová sobre o portão de Jerusalém.
+
+[NOTE]
+====
+. Lit.: “A moradora”.
+====
+
+[[v33-1-13]]
+
+^<<v33-1-13,13>>^ Atrelem os cavalos ao carro, ó habitantes^&#42;1^ de Laquis.
+Você foi o começo do pecado para a filha de Sião,
+Pois acharam-se em você os atos de rebeldia de Israel.
+
+[NOTE]
+====
+. Lit.: “moradora”.
+====
+
+[[v33-1-14]]
+
+^<<v33-1-14,14>>^ Por isso, você dará presentes de despedida a Moresete-Gate.
+As casas de Aczibe foram algo enganoso para os reis de Israel.
+
+[[v33-1-15]]
+
+^<<v33-1-15,15>>^ Ainda trarei a vocês o conquistador,^&#42;1^ ó habitantes^&#42;2^ de Maressa.
+A glória de Israel chegará até Adulão.
+
+[NOTE]
+====
+. Ou: “aquele que desapossa”.
+. Lit.: “moradora”.
+====
+
+[[v33-1-16]]
+
+^<<v33-1-16,16>>^ Cortem o cabelo e raspem a cabeça por causa dos seus filhos queridos.
+Fiquem calvos como a águia,
+Pois eles foram exilados para longe de você.”
+
+'''
+
+xref:032-jonas/032-jonas-004.adoc#v32-4-0[&#60; Capítulo Anterior] | <<v33-1-0,Topo>> | xref:033-miqueias/033-miqueias-002.adoc#v33-2-0[Próximo Capítulo &#62;]

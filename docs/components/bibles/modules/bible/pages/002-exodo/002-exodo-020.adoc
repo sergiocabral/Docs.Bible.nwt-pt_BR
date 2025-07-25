@@ -1,0 +1,153 @@
+include::./index.adoc[]
+
+[[v2-20-0]]
+=== Êxodo, 20
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v2-20-1]]
+
+^<<v2-20-1,1>>^ Então Deus disse todas estas palavras:
+
+[[v2-20-2]]
+
+^<<v2-20-2,2>>^ “Eu sou Jeová, seu Deus, que o tirou da terra do Egito, a terra da escravidão.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “casa dos escravos”.
+====
+
+[[v2-20-3]]
+
+^<<v2-20-3,3>>^ Não tenha outros deuses além de mim.^&#42;1^
+
+[NOTE]
+====
+. Ou: “em oposição a mim”. Lit.: “contra a minha face”.
+====
+
+[[v2-20-4]]
+
+^<<v2-20-4,4>>^ “Não faça para você imagem esculpida, nem representação de algo que há nos céus, em cima, ou na terra, embaixo, ou nas águas abaixo da terra.
+
+[[v2-20-5]]
+
+^<<v2-20-5,5>>^ Não se curve diante delas nem as sirva,^&#42;1^ pois eu, Jeová, seu Deus, sou um Deus que exige devoção exclusiva e traz punição pelo erro dos pais sobre os filhos, sobre a terceira geração e sobre a quarta geração daqueles que me odeiam,
+
+[NOTE]
+====
+. Ou: “nem seja induzido a servi-las”.
+====
+
+[[v2-20-6]]
+
+^<<v2-20-6,6>>^ mas que demonstra amor leal até pela milésima geração daqueles que me amam e guardam os meus mandamentos.
+
+[[v2-20-7]]
+
+^<<v2-20-7,7>>^ “Não use o nome de Jeová, seu Deus, em vão,^&#42;1^ pois Jeová não deixará impune aquele que usar Seu nome em vão.
+
+[NOTE]
+====
+. Ou: “de um modo fútil”.
+====
+
+[[v2-20-8]]
+
+^<<v2-20-8,8>>^ “Lembre-se de manter sagrado o dia de sábado.
+
+[[v2-20-9]]
+
+^<<v2-20-9,9>>^ Trabalhe e faça todas as suas tarefas durante seis dias,
+
+[[v2-20-10]]
+
+^<<v2-20-10,10>>^ mas o sétimo dia é um sábado para Jeová, seu Deus. Não faça nenhum trabalho, nem você, nem seu filho, nem sua filha, nem seu escravo, nem sua escrava, nem seu animal doméstico, nem seu residente estrangeiro, que está dentro das suas cidades.^&#42;1^
+
+[NOTE]
+====
+. Ou: “dos seus portões”.
+====
+
+[[v2-20-11]]
+
+^<<v2-20-11,11>>^ Pois em seis dias Jeová fez os céus, a terra, o mar e tudo o que há neles, e no sétimo dia passou a descansar. É por isso que Jeová abençoou o dia de sábado e o tornou sagrado.
+
+[[v2-20-12]]
+
+^<<v2-20-12,12>>^ “Honre seu pai e sua mãe, para que você viva por muito tempo na terra que Jeová, seu Deus, lhe dá.
+
+[[v2-20-13]]
+
+^<<v2-20-13,13>>^ “Não assassine.
+
+[[v2-20-14]]
+
+^<<v2-20-14,14>>^ “Não cometa adultério.
+
+[[v2-20-15]]
+
+^<<v2-20-15,15>>^ “Não furte.
+
+[[v2-20-16]]
+
+^<<v2-20-16,16>>^ “Não dê falso testemunho ao depor contra o seu próximo.
+
+[[v2-20-17]]
+
+^<<v2-20-17,17>>^ “Não deseje a casa do seu próximo. Não deseje a esposa do seu próximo, nem seu escravo, nem sua escrava, nem seu touro, nem seu jumento, nem coisa alguma que pertença ao seu próximo.”
+
+[[v2-20-18]]
+
+^<<v2-20-18,18>>^ Todo o povo ouviu os trovões e o som da buzina, e viu os relâmpagos e o monte fumegando. Diante disso, eles começaram a tremer e ficaram à distância.
+
+[[v2-20-19]]
+
+^<<v2-20-19,19>>^ Por isso disseram a Moisés: “Fale você conosco, e escutaremos, mas não fale Deus conosco, para que não morramos.”
+
+[[v2-20-20]]
+
+^<<v2-20-20,20>>^ Portanto, Moisés disse ao povo: “Não tenham medo, pois o verdadeiro Deus veio para pô-los à prova e para que continuem a temer a ele, a fim de que não pequem.”
+
+[[v2-20-21]]
+
+^<<v2-20-21,21>>^ Assim, o povo se mantinha à distância, mas Moisés se aproximou da nuvem escura onde estava o verdadeiro Deus.
+
+[[v2-20-22]]
+
+^<<v2-20-22,22>>^ Então Jeová disse a Moisés: “Isto é o que você deve dizer aos israelitas: ‘Vocês mesmos viram que lhes falei desde os céus.
+
+[[v2-20-23]]
+
+^<<v2-20-23,23>>^ Não façam deuses de prata para adorá-los além de mim, nem façam deuses de ouro para vocês.
+
+[[v2-20-24]]
+
+^<<v2-20-24,24>>^ Você deve fazer um altar de terra para mim, e nele sacrificará suas ofertas queimadas e oferecerá seus sacrifícios de participação em comum,^&#42;1^ suas ovelhas e seus bois. Em todo lugar onde eu fizer meu nome ser lembrado, virei a você e o abençoarei.
+
+[NOTE]
+====
+. Ou: “suas ofertas de paz”.
+====
+
+[[v2-20-25]]
+
+^<<v2-20-25,25>>^ Se você construir um altar de pedras para mim, não use pedras cortadas com ferramentas,^&#42;1^ pois, se usar a talhadeira, você o profanará.
+
+[NOTE]
+====
+. Ou: “não use pedras lavradas”.
+====
+
+[[v2-20-26]]
+
+^<<v2-20-26,26>>^ E não suba ao meu altar por degraus, para que não exponha ali as suas partes íntimas.’^&#42;1^
+
+[NOTE]
+====
+. Lit.: “a sua nudez”.
+====
+
+'''
+
+xref:002-exodo/002-exodo-019.adoc#v2-19-0[&#60; Capítulo Anterior] | <<v2-20-0,Topo>> | xref:002-exodo/002-exodo-021.adoc#v2-21-0[Próximo Capítulo &#62;]

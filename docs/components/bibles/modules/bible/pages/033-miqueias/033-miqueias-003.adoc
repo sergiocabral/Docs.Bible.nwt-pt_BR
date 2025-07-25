@@ -1,0 +1,115 @@
+include::./index.adoc[]
+
+[[v33-3-0]]
+=== Miqueias, 3
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v33-3-1]]
+
+^<<v33-3-1,1>>^ Eu disse: “Ouçam, por favor, cabeças de Jacó,
+E vocês, governantes da casa de Israel.
+Vocês não deviam saber o que é justo?
+
+[[v33-3-2]]
+
+^<<v33-3-2,2>>^ Mas vocês odeiam o que é bom e amam o que é mau;
+Arrancam a pele do meu povo e a carne dos seus ossos.
+
+[[v33-3-3]]
+
+^<<v33-3-3,3>>^ Também comem a carne do meu povo
+E tiram a sua pele,
+Esmagam os seus ossos e os fazem em pedaços,
+Como o que se cozinha num caldeirão,^&#42;1^ como a carne numa panela.
+
+[NOTE]
+====
+. Ou: “numa panela de boca larga”.
+====
+
+[[v33-3-4]]
+
+^<<v33-3-4,4>>^ Virá o tempo em que eles clamarão a Jeová por ajuda,
+Mas ele não lhes responderá.
+Naquele tempo ele esconderá deles a sua face,
+Por causa das suas maldades.
+
+[[v33-3-5]]
+
+^<<v33-3-5,5>>^ Assim diz Jeová contra os profetas que desencaminham o meu povo,
+Que proclamam paz quando têm algo para mastigar^&#42;1^ com os dentes,
+Mas declaram^&#42;2^ guerra contra quem não põe nada na sua boca:
+
+[NOTE]
+====
+. Ou, possivelmente: “enquanto mordem”.
+. Lit.: “santificam”.
+====
+
+[[v33-3-6]]
+
+^<<v33-3-6,6>>^ ‘Vocês terão noite; não haverá visão;
+Haverá apenas escuridão para vocês, nenhuma adivinhação.
+O sol se porá para os profetas,
+E o dia escurecerá para eles.
+
+[[v33-3-7]]
+
+^<<v33-3-7,7>>^ Os videntes ficarão envergonhados,
+E os adivinhos ficarão desapontados.
+Todos eles cobrirão a boca,^&#42;1^
+Pois não haverá resposta da parte de Deus.’”
+
+[NOTE]
+====
+. Ou: “o bigode”.
+====
+
+[[v33-3-8]]
+
+^<<v33-3-8,8>>^ Quanto a mim, fiquei cheio de poder por meio do espírito de Jeová,
+Também de justiça e de força,
+Para declarar a Jacó a sua rebeldia e a Israel o seu pecado.
+
+[[v33-3-9]]
+
+^<<v33-3-9,9>>^ Ouçam isto, por favor, cabeças da casa de Jacó,
+E vocês, governantes da casa de Israel,
+Que detestam a justiça e pervertem tudo o que é certo,
+
+[[v33-3-10]]
+
+^<<v33-3-10,10>>^ Que constroem Sião com derramamento de sangue e Jerusalém com injustiça.
+
+[[v33-3-11]]
+
+^<<v33-3-11,11>>^ Os líderes^&#42;1^ dela julgam por suborno,
+Seus sacerdotes instruem por um preço,
+E seus profetas praticam adivinhação por dinheiro.^&#42;2^
+E ainda assim se apoiam^&#42;3^ em Jeová, dizendo:
+“Não está Jeová conosco?
+Nenhuma calamidade virá sobre nós.”
+
+[NOTE]
+====
+. Lit.: “cabeças”.
+. Ou: “prata”.
+. Ou: “afirmam se apoiar”.
+====
+
+[[v33-3-12]]
+
+^<<v33-3-12,12>>^ Portanto, por causa de vocês
+Sião será arada como um campo,
+Jerusalém se tornará montões de ruínas,
+E o monte da Casa^&#42;1^ se tornará uma colina coberta de árvores.^&#42;2^
+
+[NOTE]
+====
+. Ou: “do templo”.
+. Ou: “como altos numa floresta”.
+====
+
+'''
+
+xref:033-miqueias/033-miqueias-002.adoc#v33-2-0[&#60; Capítulo Anterior] | <<v33-3-0,Topo>> | xref:033-miqueias/033-miqueias-004.adoc#v33-4-0[Próximo Capítulo &#62;]

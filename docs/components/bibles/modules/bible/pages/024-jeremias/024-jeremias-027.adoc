@@ -1,0 +1,128 @@
+include::./index.adoc[]
+
+[[v24-27-0]]
+=== Jeremias, 27
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v24-27-1]]
+
+^<<v24-27-1,1>>^ No começo do reinado de Jeoiaquim, filho de Josias e rei de Judá, Jeremias recebeu de Jeová a seguinte palavra:
+
+[[v24-27-2]]
+
+^<<v24-27-2,2>>^ “Assim me disse Jeová: ‘Faça correias e jugos, e ponha-os no pescoço.
+
+[[v24-27-3]]
+
+^<<v24-27-3,3>>^ Então envie-os ao rei de Edom, ao rei de Moabe, ao rei dos amonitas, ao rei de Tiro e ao rei de Sídon por meio dos mensageiros que vieram a Jerusalém para se encontrar com Zedequias, rei de Judá.
+
+[[v24-27-4]]
+
+^<<v24-27-4,4>>^ E ordene-lhes que digam o seguinte aos seus senhores:
+“‘“Assim diz Jeová dos exércitos, o Deus de Israel, e assim vocês devem dizer aos seus senhores:
+
+[[v24-27-5]]
+
+^<<v24-27-5,5>>^ ‘Fui eu que fiz a terra, a humanidade e os animais que há na face da terra, com o meu grande poder e o meu braço estendido, e os dou a quem for do meu agrado.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “a quem for direito aos meus olhos”.
+====
+
+[[v24-27-6]]
+
+^<<v24-27-6,6>>^ E agora eu dou todas essas terras nas mãos do meu servo Nabucodonosor, rei de Babilônia; eu lhe dou até mesmo os animais selvagens para que o sirvam.
+
+[[v24-27-7]]
+
+^<<v24-27-7,7>>^ Todas as nações servirão a ele, ao seu filho e ao seu neto, até que chegue a vez da sua própria nação, quando muitas nações e grandes reis o escravizarão.’
+
+[[v24-27-8]]
+
+^<<v24-27-8,8>>^ “‘“‘Se alguma nação ou reino se recusar a servir a Nabucodonosor, rei de Babilônia, e se recusar a pôr o pescoço debaixo do jugo do rei de Babilônia, eu punirei essa nação com a espada, a fome e a peste’,^&#42;1^ diz Jeová, ‘até que eu os tenha eliminado pelas mãos dele’.
+
+[NOTE]
+====
+. Ou: “doença”.
+====
+
+[[v24-27-9]]
+
+^<<v24-27-9,9>>^ “‘“‘Portanto, não escutem os seus profetas, nem os seus adivinhos, nem os que fazem predições para vocês por meio de sonhos, nem os seus praticantes de magia, nem os seus feiticeiros, os quais lhes dizem: “Vocês não servirão o rei de Babilônia.”
+
+[[v24-27-10]]
+
+^<<v24-27-10,10>>^ Pois eles profetizam mentiras para vocês, e por causa disso vocês serão levados para longe da sua terra. Eu espalharei vocês, e vocês serão eliminados.
+
+[[v24-27-11]]
+
+^<<v24-27-11,11>>^ “‘“‘Mas a nação que puser o pescoço debaixo do jugo do rei de Babilônia e o servir, eu a deixarei ficar^&#42;1^ na sua terra’, diz Jeová, ‘para cultivá-la e morar nela’.”’”
+
+[NOTE]
+====
+. Lit.: “descansar”.
+====
+
+[[v24-27-12]]
+
+^<<v24-27-12,12>>^ E também a Zedequias, rei de Judá, eu transmiti essa mesma mensagem, dizendo: “Ponham o pescoço debaixo do jugo do rei de Babilônia e sirvam a ele e ao seu povo, e vocês viverão.
+
+[[v24-27-13]]
+
+^<<v24-27-13,13>>^ Por que o senhor e o seu povo deveriam morrer pela espada, pela fome e pela peste, assim como Jeová falou sobre a nação que não servir o rei de Babilônia?
+
+[[v24-27-14]]
+
+^<<v24-27-14,14>>^ Não escutem as palavras dos profetas que lhes dizem: ‘Vocês não servirão o rei de Babilônia’, pois eles profetizam mentiras para vocês.
+
+[[v24-27-15]]
+
+^<<v24-27-15,15>>^ “‘Pois eu não os enviei’, diz Jeová, ‘mas eles estão profetizando mentiras em meu nome, e o resultado será que eu espalharei vocês, e vocês serão eliminados, vocês e os profetas que profetizam para vocês’.”
+
+[[v24-27-16]]
+
+^<<v24-27-16,16>>^ E aos sacerdotes e a todo este povo eu disse: “Assim diz Jeová: ‘Não escutem as palavras dos seus profetas, que profetizam para vocês, dizendo: “Vejam! Os utensílios da casa de Jeová muito em breve serão trazidos de volta de Babilônia!” Pois eles profetizam mentiras para vocês.
+
+[[v24-27-17]]
+
+^<<v24-27-17,17>>^ Não os escutem. Sirvam o rei de Babilônia e vocês viverão. Por que deveria esta cidade se tornar uma ruína?
+
+[[v24-27-18]]
+
+^<<v24-27-18,18>>^ Mas, se eles são profetas e a palavra de Jeová está com eles, por favor, que implorem a Jeová dos exércitos para que os utensílios que restaram na casa de Jeová, na casa^&#42;1^ do rei de Judá e em Jerusalém não sejam levados para Babilônia.’
+
+[NOTE]
+====
+. Ou: “no palácio”.
+====
+
+[[v24-27-19]]
+
+^<<v24-27-19,19>>^ “Pois assim diz Jeová dos exércitos a respeito das colunas, do Mar,^&#42;1^ dos carrinhos e dos outros utensílios que restaram nesta cidade,
+
+[NOTE]
+====
+. Isto é, do Mar de cobre do templo.
+====
+
+[[v24-27-20]]
+
+^<<v24-27-20,20>>^ os quais Nabucodonosor, rei de Babilônia, não tomou quando levou Jeconias, filho de Jeoiaquim e rei de Judá, de Jerusalém para o exílio em Babilônia, junto com todos os nobres de Judá e de Jerusalém;
+
+[[v24-27-21]]
+
+^<<v24-27-21,21>>^ sim, isto é o que Jeová dos exércitos, o Deus de Israel, diz a respeito dos utensílios que restaram na casa de Jeová, na casa^&#42;1^ do rei de Judá e em Jerusalém:
+
+[NOTE]
+====
+. Ou: “no palácio”.
+====
+
+[[v24-27-22]]
+
+^<<v24-27-22,22>>^ ‘“Eles serão levados para Babilônia e lá ficarão até o dia em que eu voltar a minha atenção para eles”, diz Jeová. “Então os trarei de volta e os devolverei a este lugar.”’”
+
+'''
+
+xref:024-jeremias/024-jeremias-026.adoc#v24-26-0[&#60; Capítulo Anterior] | <<v24-27-0,Topo>> | xref:024-jeremias/024-jeremias-028.adoc#v24-28-0[Próximo Capítulo &#62;]

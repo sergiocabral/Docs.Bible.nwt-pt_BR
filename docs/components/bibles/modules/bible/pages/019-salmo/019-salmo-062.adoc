@@ -1,0 +1,100 @@
+include::./index.adoc[]
+
+[[v19-62-0]]
+=== Salmos, 62
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Ao regente; de Jedutum.^&#42;1^ Salmo de Davi._
+
+[[v19-62-1]]
+
+^<<v19-62-1,1>>^ Somente em Deus espero^&#42;1^ silenciosamente.
+Dele vem a minha salvação.
+
+[NOTE]
+====
+. Ou: “minha alma espera”.
+====
+
+[[v19-62-2]]
+
+^<<v19-62-2,2>>^ Só ele é minha rocha e minha salvação, meu refúgio seguro;^&#42;1^
+Nunca serei completamente abalado.
+
+[NOTE]
+====
+. Ou: “refúgio num lugar alto”.
+====
+
+[[v19-62-3]]
+
+^<<v19-62-3,3>>^ Até quando vocês atacarão um homem para o matar?
+Todos vocês são tão perigosos como uma parede que está caindo, como uma parede de pedras prestes a desmoronar.^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “Todos vocês, como se ele fosse uma parede que está caindo, um muro de pedras prestes a desmoronar.”
+====
+
+[[v19-62-4]]
+
+^<<v19-62-4,4>>^ Eles conspiram para derrubá-lo de sua posição elevada;^&#42;1^
+Têm prazer em mentir.
+Com a boca abençoam, mas no íntimo amaldiçoam. (Selá)
+
+[NOTE]
+====
+. Ou: “sua dignidade”.
+====
+
+[[v19-62-5]]
+
+^<<v19-62-5,5>>^ Somente em Deus espero silenciosamente,^&#42;1^
+Porque dele vem a minha esperança.
+
+[NOTE]
+====
+. Ou: “espere silenciosamente, ó minha alma”.
+====
+
+[[v19-62-6]]
+
+^<<v19-62-6,6>>^ Só ele é minha rocha e minha salvação, meu refúgio seguro;
+Nunca serei abalado.
+
+[[v19-62-7]]
+
+^<<v19-62-7,7>>^ De Deus depende minha salvação e minha glória.
+Deus é a minha forte rocha, o meu refúgio.
+
+[[v19-62-8]]
+
+^<<v19-62-8,8>>^ Confie sempre nele, ó povo.
+Derramem o coração diante dele.
+Deus é um refúgio para nós. (Selá)
+
+[[v19-62-9]]
+
+^<<v19-62-9,9>>^ Os filhos do homem são apenas um sopro,
+Os filhos da humanidade são uma ilusão.
+Colocados juntos na balança, são mais leves do que um sopro.
+
+[[v19-62-10]]
+
+^<<v19-62-10,10>>^ Não confiem na extorsão
+Nem ponham falsas esperanças no roubo.
+Se a sua riqueza aumentar, não fixem nela o coração.
+
+[[v19-62-11]]
+
+^<<v19-62-11,11>>^ Deus disse uma vez, e duas vezes eu ouvi:
+A força pertence a Deus.
+
+[[v19-62-12]]
+
+^<<v19-62-12,12>>^ O amor leal também pertence a ti, ó Jeová,
+Pois retribuis a cada um segundo as suas ações.
+
+'''
+
+xref:019-salmo/019-salmo-061.adoc#v19-61-0[&#60; Capítulo Anterior] | <<v19-62-0,Topo>> | xref:019-salmo/019-salmo-063.adoc#v19-63-0[Próximo Capítulo &#62;]

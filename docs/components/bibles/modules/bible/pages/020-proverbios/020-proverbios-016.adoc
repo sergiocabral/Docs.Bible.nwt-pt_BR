@@ -1,0 +1,257 @@
+include::./index.adoc[]
+
+[[v20-16-0]]
+=== Provérbios, 16
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v20-16-1]]
+
+^<<v20-16-1,1>>^ O homem prepara os pensamentos do seu coração,^&#42;1^
+Mas a resposta que ele dá^&#42;2^ vem de Jeová.
+
+[NOTE]
+====
+. Lit.: “Os planos do coração pertencem a um homem”.
+. Ou: “a resposta certa”. Lit.: “a resposta da língua”.
+====
+
+[[v20-16-2]]
+
+^<<v20-16-2,2>>^ O homem pensa que todos os seus caminhos são certos,^&#42;1^
+Mas Jeová examina as motivações.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “puros”.
+. Lit.: “os espíritos”.
+====
+
+[[v20-16-3]]
+
+^<<v20-16-3,3>>^ Confie a Jeová tudo que você faz,^&#42;1^
+E os seus planos serão bem-sucedidos.
+
+[NOTE]
+====
+. Lit.: “Role para Jeová as suas obras”.
+====
+
+[[v20-16-4]]
+
+^<<v20-16-4,4>>^ Jeová faz que tudo contribua para o seu propósito,
+Até mesmo os maus para o dia da calamidade.
+
+[[v20-16-5]]
+
+^<<v20-16-5,5>>^ Todos os de coração orgulhoso são detestáveis para Jeová.
+Tenha certeza de^&#42;1^ que eles não ficarão impunes.
+
+[NOTE]
+====
+. Lit.: “Mão a mão”.
+====
+
+[[v20-16-6]]
+
+^<<v20-16-6,6>>^ Por meio do amor leal e da fidelidade expia-se o erro,
+E por temer a Jeová a pessoa se afasta do mal.
+
+[[v20-16-7]]
+
+^<<v20-16-7,7>>^ Quando Jeová se agrada dos caminhos de um homem,
+Faz com que até os seus inimigos fiquem em paz com ele.
+
+[[v20-16-8]]
+
+^<<v20-16-8,8>>^ Melhor o pouco com justiça
+Do que muita renda com injustiça.
+
+[[v20-16-9]]
+
+^<<v20-16-9,9>>^ O homem pode traçar no coração o seu caminho,
+Mas é Jeová quem orienta os seus passos.
+
+[[v20-16-10]]
+
+^<<v20-16-10,10>>^ Os lábios do rei devem proferir decisões inspiradas;^&#42;1^
+Ele nunca deve trair a justiça.
+
+[NOTE]
+====
+. Ou: “divinas”.
+====
+
+[[v20-16-11]]
+
+^<<v20-16-11,11>>^ Balanças e pesos honestos são da parte de Jeová;
+Todos os pesos da bolsa são feitos por ele.
+
+[[v20-16-12]]
+
+^<<v20-16-12,12>>^ Práticas más são detestáveis para os reis,
+Pois é por meio da justiça que se estabelece firmemente o trono.
+
+[[v20-16-13]]
+
+^<<v20-16-13,13>>^ As palavras dos justos são um prazer para os reis;
+Eles amam quem fala a verdade.
+
+[[v20-16-14]]
+
+^<<v20-16-14,14>>^ A fúria do rei é um mensageiro da morte,
+Mas o homem sábio a acalma.^&#42;1^
+
+[NOTE]
+====
+. Ou: “evita”.
+====
+
+[[v20-16-15]]
+
+^<<v20-16-15,15>>^ Quando o rosto do rei se ilumina, há vida;
+Seu favor é como uma nuvem de chuva na primavera.
+
+[[v20-16-16]]
+
+^<<v20-16-16,16>>^ É muito melhor obter sabedoria do que ouro!
+Mais vale ganhar entendimento do que prata.
+
+[[v20-16-17]]
+
+^<<v20-16-17,17>>^ A estrada dos justos se desvia do mal.
+Quem vigia seu caminho preserva sua vida.^&#42;1^
+
+[NOTE]
+====
+. Ou: “alma”.
+====
+
+[[v20-16-18]]
+
+^<<v20-16-18,18>>^ O orgulho vem antes da queda,
+E o espírito arrogante antes do tropeço.
+
+[[v20-16-19]]
+
+^<<v20-16-19,19>>^ Melhor ser humilde^&#42;1^ entre os mansos
+Do que repartir despojo com os arrogantes.
+
+[NOTE]
+====
+. Lit.: “humilde de espírito”.
+====
+
+[[v20-16-20]]
+
+^<<v20-16-20,20>>^ Quem mostra entendimento num assunto será bem-sucedido,^&#42;1^
+E feliz é aquele que confia em Jeová.
+
+[NOTE]
+====
+. Lit.: “achará o bem”.
+====
+
+[[v20-16-21]]
+
+^<<v20-16-21,21>>^ Quem tem coração sábio será chamado de entendido,
+E quem fala palavras bondosas^&#42;1^ é mais persuasivo.
+
+[NOTE]
+====
+. Ou: “E uma palavra atraente”. Lit.: “E a doçura de lábios”.
+====
+
+[[v20-16-22]]
+
+^<<v20-16-22,22>>^ O entendimento é fonte de vida para os que o possuem,
+Mas os tolos são disciplinados pela sua própria tolice.
+
+[[v20-16-23]]
+
+^<<v20-16-23,23>>^ O coração do sábio dá entendimento^&#42;1^ à sua boca
+E acrescenta persuasão às suas palavras.
+
+[NOTE]
+====
+. Ou: “perspicácia”.
+====
+
+[[v20-16-24]]
+
+^<<v20-16-24,24>>^ Declarações agradáveis são como um favo de mel,
+Doces para a alma^&#42;1^ e uma cura para os ossos.
+
+[NOTE]
+====
+. Ou: “o paladar”. Veja o Glossário, “Alma”.
+====
+
+[[v20-16-25]]
+
+^<<v20-16-25,25>>^ Há um caminho que parece certo ao homem,
+Mas por fim leva à morte.
+
+[[v20-16-26]]
+
+^<<v20-16-26,26>>^ O apetite^&#42;1^ do trabalhador o faz trabalhar arduamente,
+Pois a fome^&#42;2^ o impele a fazer isso.
+
+[NOTE]
+====
+. Ou: “A alma”.
+. Lit.: “sua boca”.
+====
+
+[[v20-16-27]]
+
+^<<v20-16-27,27>>^ O homem imprestável traz à tona o que é mau;
+Suas palavras são como um fogo abrasador.
+
+[[v20-16-28]]
+
+^<<v20-16-28,28>>^ O homem briguento^&#42;1^ provoca discórdias,
+E o caluniador separa bons amigos.
+
+[NOTE]
+====
+. Ou: “O maquinador”.
+====
+
+[[v20-16-29]]
+
+^<<v20-16-29,29>>^ O homem violento instiga seu próximo
+E o leva para o mau caminho.
+
+[[v20-16-30]]
+
+^<<v20-16-30,30>>^ Ele pisca o olho ao tramar perversidades.
+Aperta os lábios ao praticar o mal.
+
+[[v20-16-31]]
+
+^<<v20-16-31,31>>^ Os cabelos brancos são uma coroa de beleza^&#42;1^
+Quando se acham no caminho da justiça.
+
+[NOTE]
+====
+. Ou: “glória”.
+====
+
+[[v20-16-32]]
+
+^<<v20-16-32,32>>^ Quem não se ira facilmente é melhor do que o homem valente,
+E quem controla a si mesmo^&#42;1^ é melhor do que quem conquista uma cidade.
+
+[NOTE]
+====
+. Lit.: “governa seu espírito”.
+====
+
+[[v20-16-33]]
+
+^<<v20-16-33,33>>^ A sorte é lançada no colo,
+Mas toda decisão indicada por ela vem de Jeová.
+
+'''
+
+xref:020-proverbios/020-proverbios-015.adoc#v20-15-0[&#60; Capítulo Anterior] | <<v20-16-0,Topo>> | xref:020-proverbios/020-proverbios-017.adoc#v20-17-0[Próximo Capítulo &#62;]

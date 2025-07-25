@@ -1,0 +1,132 @@
+include::./index.adoc[]
+
+[[v19-17-0]]
+=== Salmos, 17
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Oração de Davi._
+
+[[v19-17-1]]
+
+^<<v19-17-1,1>>^ Ouve o meu apelo por justiça, ó Jeová;
+Presta atenção ao meu clamor por ajuda;
+Escuta à minha oração, feita sem falsidade.
+
+[[v19-17-2]]
+
+^<<v19-17-2,2>>^ Que tomes uma decisão justa a meu favor;
+Que os teus olhos vejam o que é direito.
+
+[[v19-17-3]]
+
+^<<v19-17-3,3>>^ Sondaste o meu coração, examinaste-me à noite;
+Tu me refinaste;
+Descobrirás que não tramei nada mau,
+E a minha boca não transgrediu.
+
+[[v19-17-4]]
+
+^<<v19-17-4,4>>^ Quanto às atividades dos homens,
+Conforme a palavra dos teus lábios, evito os caminhos dos homens violentos.^&#42;1^
+
+[NOTE]
+====
+. Ou: “do ladrão”.
+====
+
+[[v19-17-5]]
+
+^<<v19-17-5,5>>^ Que os meus passos permaneçam nos teus caminhos,
+Para que os meus pés não tropecem.
+
+[[v19-17-6]]
+
+^<<v19-17-6,6>>^ Invoco a ti, porque tu me responderás, ó Deus.
+Inclina para mim o teu ouvido.^&#42;1^ Ouve as minhas palavras.
+
+[NOTE]
+====
+. Ou: “Abaixa-te e ouve-me.”
+====
+
+[[v19-17-7]]
+
+^<<v19-17-7,7>>^ Mostra o teu amor leal de uma forma maravilhosa,
+Ó Salvador daqueles que buscam, à tua direita, proteger-se
+Dos que se revoltam contra ti.
+
+[[v19-17-8]]
+
+^<<v19-17-8,8>>^ Guarda-me como a menina dos teus olhos;
+Esconde-me na sombra das tuas asas.
+
+[[v19-17-9]]
+
+^<<v19-17-9,9>>^ Guarda-me dos maus que me atacam,
+Dos meus inimigos mortais^&#42;1^ que me rodeiam.
+
+[NOTE]
+====
+. Ou: “meus inimigos contra a alma”.
+====
+
+[[v19-17-10]]
+
+^<<v19-17-10,10>>^ Eles ficaram insensíveis,^&#42;1^
+Com sua boca falam de modo arrogante.
+
+[NOTE]
+====
+. Ou: “Eles estão encerrados em sua própria gordura”.
+====
+
+[[v19-17-11]]
+
+^<<v19-17-11,11>>^ Agora eles nos cercam;
+Estão atentos a uma oportunidade para causar a nossa queda.^&#42;1^
+
+[NOTE]
+====
+. Ou: “nos derrubar no chão”.
+====
+
+[[v19-17-12]]
+
+^<<v19-17-12,12>>^ Ele é como um leão ávido por dilacerar a sua presa,
+Como um leão novo agachado na emboscada.
+
+[[v19-17-13]]
+
+^<<v19-17-13,13>>^ Levanta-te, ó Jeová, para enfrentá-lo e derrubá-lo;
+Livra-me,^&#42;1^ com a tua espada, daquele que é mau;
+
+[NOTE]
+====
+. Ou: “Livra minha alma”.
+====
+
+[[v19-17-14]]
+
+^<<v19-17-14,14>>^ Livra-me com a tua mão, ó Jeová,
+Dos homens deste mundo,^&#42;1^ cuja porção está nesta vida,
+Aqueles a quem enches com tuas boas provisões
+E que deixam uma herança para seus muitos filhos.
+
+[NOTE]
+====
+. Ou: “sistema de coisas”.
+====
+
+[[v19-17-15]]
+
+^<<v19-17-15,15>>^ Mas, quanto a mim, em retidão verei a tua face;
+Fico satisfeito ao acordar na tua presença.^&#42;1^
+
+[NOTE]
+====
+. Ou: “ao ver a tua forma”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-016.adoc#v19-16-0[&#60; Capítulo Anterior] | <<v19-17-0,Topo>> | xref:019-salmo/019-salmo-018.adoc#v19-18-0[Próximo Capítulo &#62;]

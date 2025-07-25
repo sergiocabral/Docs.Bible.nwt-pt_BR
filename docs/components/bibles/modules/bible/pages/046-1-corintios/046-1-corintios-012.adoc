@@ -1,0 +1,168 @@
+include::./index.adoc[]
+
+[[v46-12-0]]
+=== A Primeira aos Coríntios, 12
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v46-12-1]]
+
+^<<v46-12-1,1>>^ Agora, quanto aos dons espirituais, irmãos, não quero que vocês fiquem na ignorância.
+
+[[v46-12-2]]
+
+^<<v46-12-2,2>>^ Vocês sabem que, quando eram pessoas das nações,^&#42;1^ eram influenciados e desviados para aqueles ídolos sem voz, seguindo-os para onde quer que levassem vocês.
+
+[NOTE]
+====
+. Isto é, descrentes.
+====
+
+[[v46-12-3]]
+
+^<<v46-12-3,3>>^ Portanto, saibam que ninguém diz: “Jesus é maldito!” quando fala pelo espírito de Deus, e ninguém pode dizer: “Jesus é Senhor!” a não ser por espírito santo.
+
+[[v46-12-4]]
+
+^<<v46-12-4,4>>^ Há diferentes dons, mas há o mesmo espírito;
+
+[[v46-12-5]]
+
+^<<v46-12-5,5>>^ e há diferentes maneiras de servir,^&#42;1^ contudo há o mesmo Senhor;
+
+[NOTE]
+====
+. Ou: “diferentes ministérios”.
+====
+
+[[v46-12-6]]
+
+^<<v46-12-6,6>>^ e há diferentes atividades,^&#42;1^ contudo é o mesmo Deus que realiza tudo em todos.
+
+[NOTE]
+====
+. Ou: “operações”.
+====
+
+[[v46-12-7]]
+
+^<<v46-12-7,7>>^ Mas a manifestação do espírito é dada a cada um com um objetivo benéfico.
+
+[[v46-12-8]]
+
+^<<v46-12-8,8>>^ Pois a um é dada a palavra^&#42;1^ de sabedoria por meio do espírito; a outro, a palavra de conhecimento, segundo o mesmo espírito;
+
+[NOTE]
+====
+. Ou: “uma mensagem”.
+====
+
+[[v46-12-9]]
+
+^<<v46-12-9,9>>^ a outro, a fé, pelo mesmo espírito; a outro, dons de curar, por esse único espírito;
+
+[[v46-12-10]]
+
+^<<v46-12-10,10>>^ a ainda outro, a realização de obras poderosas; a outro, o profetizar; a outro, o discernimento de expressões inspiradas; a outro, diversas línguas; e a outro, a interpretação de línguas.
+
+[[v46-12-11]]
+
+^<<v46-12-11,11>>^ Mas todas essas coisas^&#42;1^ são realizadas pelo mesmo e único espírito, que distribui a cada um, individualmente, assim como quer.
+
+[NOTE]
+====
+. Ou: “operações”.
+====
+
+[[v46-12-12]]
+
+^<<v46-12-12,12>>^ Pois, assim como o corpo é um só, mas tem muitos membros, e todos os membros do corpo, embora muitos, são um só corpo, assim também é o Cristo.
+
+[[v46-12-13]]
+
+^<<v46-12-13,13>>^ Pois todos nós fomos batizados por um só espírito para formar um só corpo, quer judeus quer gregos, quer escravos quer livres, e a todos nós se deu de beber de um só espírito.
+
+[[v46-12-14]]
+
+^<<v46-12-14,14>>^ Pois, de fato, o corpo não é composto de um só membro, mas de muitos.
+
+[[v46-12-15]]
+
+^<<v46-12-15,15>>^ Se o pé dissesse: “Visto que não sou mão, não sou parte do corpo”, não é por isso que ele deixaria de ser parte do corpo.
+
+[[v46-12-16]]
+
+^<<v46-12-16,16>>^ E, se o ouvido dissesse: “Visto que não sou olho, não sou parte do corpo”, não é por isso que ele deixaria de ser parte do corpo.
+
+[[v46-12-17]]
+
+^<<v46-12-17,17>>^ Se o corpo inteiro fosse um olho, onde ficaria a audição? Se todo ele fosse um ouvido, onde ficaria o olfato?
+
+[[v46-12-18]]
+
+^<<v46-12-18,18>>^ Mas a verdade é que Deus dispôs cada um dos membros do corpo assim como lhe agradou.
+
+[[v46-12-19]]
+
+^<<v46-12-19,19>>^ Se todos fossem um só membro, onde estaria o corpo?
+
+[[v46-12-20]]
+
+^<<v46-12-20,20>>^ Mas o fato é que são muitos membros, porém um só corpo.
+
+[[v46-12-21]]
+
+^<<v46-12-21,21>>^ O olho não pode dizer à mão: “Não preciso de você”; nem a cabeça pode dizer aos pés: “Não preciso de vocês.”
+
+[[v46-12-22]]
+
+^<<v46-12-22,22>>^ Pelo contrário, os membros do corpo que parecem mais fracos são necessários,
+
+[[v46-12-23]]
+
+^<<v46-12-23,23>>^ e as partes do corpo que consideramos menos honrosas, nós cercamos de maior honra; assim as nossas partes menos atraentes são tratadas com mais decência,
+
+[[v46-12-24]]
+
+^<<v46-12-24,24>>^ ao passo que as nossas partes atraentes não precisam desse cuidado. Mas Deus formou o corpo desse modo, dando maior honra à parte que dela precisava,
+
+[[v46-12-25]]
+
+^<<v46-12-25,25>>^ para que não houvesse divisão no corpo, mas para que os membros tivessem o mesmo cuidado uns com os outros.
+
+[[v46-12-26]]
+
+^<<v46-12-26,26>>^ Se um membro sofre, todos os outros membros sofrem com ele; se um membro é glorificado, todos os outros membros se alegram com ele.
+
+[[v46-12-27]]
+
+^<<v46-12-27,27>>^ Ora, vocês são o corpo de Cristo, e cada um de vocês, individualmente, é membro desse corpo.
+
+[[v46-12-28]]
+
+^<<v46-12-28,28>>^ E Deus estabeleceu os vários membros na congregação: primeiro, apóstolos; segundo, profetas; terceiro, instrutores; depois vêm obras poderosas; depois dons de curar; a prestação de ajuda; habilidades de liderança; diversas línguas.
+
+[[v46-12-29]]
+
+^<<v46-12-29,29>>^ Será que todos são apóstolos? Será que todos são profetas? Será que todos são instrutores? Será que todos realizam obras poderosas?
+
+[[v46-12-30]]
+
+^<<v46-12-30,30>>^ Será que todos têm dons de curar? Será que todos falam em línguas? Será que todos são intérpretes?^&#42;1^
+
+[NOTE]
+====
+. Ou: “tradutores”.
+====
+
+[[v46-12-31]]
+
+^<<v46-12-31,31>>^ Mas persistam em se empenhar pelos^&#42;1^ maiores dons. Contudo, ainda lhes mostrarei um caminho superior.
+
+[NOTE]
+====
+. Ou: “persistam em buscar zelosamente os”.
+====
+
+'''
+
+xref:046-1-corintios/046-1-corintios-011.adoc#v46-11-0[&#60; Capítulo Anterior] | <<v46-12-0,Topo>> | xref:046-1-corintios/046-1-corintios-013.adoc#v46-13-0[Próximo Capítulo &#62;]

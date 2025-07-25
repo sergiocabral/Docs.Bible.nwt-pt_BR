@@ -1,0 +1,166 @@
+include::./index.adoc[]
+
+[[v18-3-0]]
+=== Jó, 3
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v18-3-1]]
+
+^<<v18-3-1,1>>^ Foi depois disso que Jó começou a falar e a amaldiçoar o dia em que nasceu.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “amaldiçoar seu dia”.
+====
+
+[[v18-3-2]]
+
+^<<v18-3-2,2>>^ Jó disse:
+
+[[v18-3-3]]
+
+^<<v18-3-3,3>>^ “Desapareça o dia em que nasci,
+Também a noite em que disseram: ‘Foi concebido um homem!’
+
+[[v18-3-4]]
+
+^<<v18-3-4,4>>^ Que aquele dia seja escuridão.
+Que Deus, lá de cima, não se importe com ele;
+Que nenhuma luz brilhe sobre ele.
+
+[[v18-3-5]]
+
+^<<v18-3-5,5>>^ Que a mais profunda escuridão o reclame^&#42;1^ para si.
+Que uma nuvem de chuva pare sobre ele;
+Que as coisas que escurecem o dia o apavorem.
+
+[NOTE]
+====
+. Ou: “a escuridão e a sombra da morte o reclamem”.
+====
+
+[[v18-3-6]]
+
+^<<v18-3-6,6>>^ Quanto àquela noite, que as trevas se apoderem dela;
+Que ela não se alegre entre os dias do ano,
+E que nem seja incluída no número dos meses.
+
+[[v18-3-7]]
+
+^<<v18-3-7,7>>^ Sim, que aquela noite se torne estéril,
+E nenhum grito de alegria seja ouvido nela.
+
+[[v18-3-8]]
+
+^<<v18-3-8,8>>^ Que aqueles que amaldiçoam o dia a amaldiçoem,
+Aqueles que podem despertar o Leviatã.^&#42;1^
+
+[NOTE]
+====
+. Entende-se que se refere ao crocodilo ou a algum outro animal aquático grande e forte.
+====
+
+[[v18-3-9]]
+
+^<<v18-3-9,9>>^ Que as estrelas da sua madrugada escureçam;
+Que ela espere em vão pela luz do dia,
+E que aquela noite não veja os raios do amanhecer.
+
+[[v18-3-10]]
+
+^<<v18-3-10,10>>^ Pois ela não fechou as portas do ventre da minha mãe,
+Nem escondeu dos meus olhos a desgraça.
+
+[[v18-3-11]]
+
+^<<v18-3-11,11>>^ Por que não morri ao nascer?
+Por que não pereci quando saí do ventre?
+
+[[v18-3-12]]
+
+^<<v18-3-12,12>>^ Por que houve colo para me acolher
+E peitos para me amamentar?
+
+[[v18-3-13]]
+
+^<<v18-3-13,13>>^ Pois agora eu estaria deitado tranquilo;
+Estaria dormindo e descansando
+
+[[v18-3-14]]
+
+^<<v18-3-14,14>>^ Com reis da terra e seus conselheiros,
+Que construíram para si lugares que agora estão em ruínas,^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “Que construíram lugares desolados para si”.
+====
+
+[[v18-3-15]]
+
+^<<v18-3-15,15>>^ Ou com príncipes que tinham ouro,
+Cujas casas estavam cheias de prata.
+
+[[v18-3-16]]
+
+^<<v18-3-16,16>>^ Ou por que não me tornei como um aborto que passou despercebido,
+Como crianças que nunca viram a luz?
+
+[[v18-3-17]]
+
+^<<v18-3-17,17>>^ Na morte, termina até a agitação dos maus;
+Ali descansam os que estão exaustos.
+
+[[v18-3-18]]
+
+^<<v18-3-18,18>>^ Ali os prisioneiros estão juntos em paz;
+Não ouvem a voz de ninguém os obrigando a trabalhar.
+
+[[v18-3-19]]
+
+^<<v18-3-19,19>>^ Ali o pequeno e o grande são iguais,
+E o escravo está livre do seu senhor.
+
+[[v18-3-20]]
+
+^<<v18-3-20,20>>^ Por que Ele dá luz a quem está sofrendo
+E vida aos que estão amargurados?^&#42;1^
+
+[NOTE]
+====
+. Ou: “aos amargurados de alma”.
+====
+
+[[v18-3-21]]
+
+^<<v18-3-21,21>>^ Por que eles anseiam pela morte, mas ela não vem?
+Procuram por ela mais do que por tesouros escondidos.
+
+[[v18-3-22]]
+
+^<<v18-3-22,22>>^ Eles se alegram muito,
+Ficam felizes quando acham a sepultura.
+
+[[v18-3-23]]
+
+^<<v18-3-23,23>>^ Por que Ele dá luz a um homem que não encontra o seu caminho,
+Visto que Deus o cercou de todos os lados?
+
+[[v18-3-24]]
+
+^<<v18-3-24,24>>^ Pois em vez de comer eu suspiro,
+E meus gemidos se derramam como água.
+
+[[v18-3-25]]
+
+^<<v18-3-25,25>>^ Pois o que me apavorava me atingiu,
+E o que eu temia me aconteceu.
+
+[[v18-3-26]]
+
+^<<v18-3-26,26>>^ Não tenho paz, nem sossego, nem descanso;
+As dificuldades não param de vir.”
+
+'''
+
+xref:018-jo/018-jo-002.adoc#v18-2-0[&#60; Capítulo Anterior] | <<v18-3-0,Topo>> | xref:018-jo/018-jo-004.adoc#v18-4-0[Próximo Capítulo &#62;]

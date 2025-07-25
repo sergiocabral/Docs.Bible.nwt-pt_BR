@@ -1,0 +1,24 @@
+include::../index.adoc[]
+
+[[v30-0-0]]
+== Amós
+
+[cols="8*^"]
+|===
+| xref:030-amos/030-amos-001.adoc#v30-1-0[1]
+| xref:030-amos/030-amos-002.adoc#v30-2-0[2]
+| xref:030-amos/030-amos-003.adoc#v30-3-0[3]
+| xref:030-amos/030-amos-004.adoc#v30-4-0[4]
+| xref:030-amos/030-amos-005.adoc#v30-5-0[5]
+| xref:030-amos/030-amos-006.adoc#v30-6-0[6]
+| xref:030-amos/030-amos-007.adoc#v30-7-0[7]
+| xref:030-amos/030-amos-008.adoc#v30-8-0[8]
+| xref:030-amos/030-amos-009.adoc#v30-9-0[9]
+|
+|
+|
+|
+|
+|
+|
+|===

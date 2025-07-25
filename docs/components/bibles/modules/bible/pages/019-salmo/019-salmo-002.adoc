@@ -1,0 +1,95 @@
+include::./index.adoc[]
+
+[[v19-2-0]]
+=== Salmos, 2
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v19-2-1]]
+
+^<<v19-2-1,1>>^ Por que as nações estão agitadas
+E os povos maquinam^&#42;1^ coisas vãs?
+
+[NOTE]
+====
+. Ou: “murmuram; meditam em”.
+====
+
+[[v19-2-2]]
+
+^<<v19-2-2,2>>^ Os reis da terra tomam sua posição
+E os governantes se unem^&#42;1^
+Contra Jeová e contra o seu ungido.^&#42;2^
+
+[NOTE]
+====
+. Ou: “se aconselham juntos”.
+. Ou: “seu Cristo”.
+====
+
+[[v19-2-3]]
+
+^<<v19-2-3,3>>^ Dizem: “Vamos nos livrar das suas correntes
+E arrancar as suas cordas!”
+
+[[v19-2-4]]
+
+^<<v19-2-4,4>>^ Aquele que está em seu trono nos céus rirá;
+Jeová zombará deles.
+
+[[v19-2-5]]
+
+^<<v19-2-5,5>>^ Naquele tempo ele lhes falará na sua ira,
+E os aterrorizará na sua ira ardente;
+
+[[v19-2-6]]
+
+^<<v19-2-6,6>>^ Ele dirá: “Eu mesmo empossei o meu rei
+Em Sião, meu santo monte.”
+
+[[v19-2-7]]
+
+^<<v19-2-7,7>>^ Proclamarei o decreto de Jeová;
+Ele me disse: “Você é meu filho;
+Hoje eu me tornei seu pai.
+
+[[v19-2-8]]
+
+^<<v19-2-8,8>>^ Peça-me, e eu lhe darei nações como herança
+E os confins da terra como sua propriedade.
+
+[[v19-2-9]]
+
+^<<v19-2-9,9>>^ Você as quebrará com um cetro de ferro,
+E as despedaçará como a um vaso de barro.”
+
+[[v19-2-10]]
+
+^<<v19-2-10,10>>^ Agora, ó reis, mostrem perspicácia;
+Aceitem a correção,^&#42;1^ ó juízes da terra.
+
+[NOTE]
+====
+. Ou: “Sejam advertidos”.
+====
+
+[[v19-2-11]]
+
+^<<v19-2-11,11>>^ Sirvam a Jeová com temor
+E alegrem-se com tremor.
+
+[[v19-2-12]]
+
+^<<v19-2-12,12>>^ Honrem^&#42;1^ o filho, para que Deus^&#42;2^ não se ire
+E vocês não morram no caminho,
+Pois a Sua ira se acende de repente.
+Felizes todos os que se refugiam Nele.
+
+[NOTE]
+====
+. Lit.: “Beijem”.
+. Lit.: “ele”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-001.adoc#v19-1-0[&#60; Capítulo Anterior] | <<v19-2-0,Topo>> | xref:019-salmo/019-salmo-003.adoc#v19-3-0[Próximo Capítulo &#62;]

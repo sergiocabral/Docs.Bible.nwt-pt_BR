@@ -1,0 +1,67 @@
+include::./index.adoc[]
+
+[[v19-124-0]]
+=== Salmos, 124
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Cântico das Subidas. De Davi._
+
+[[v19-124-1]]
+
+^<<v19-124-1,1>>^ “Se Jeová não estivesse conosco”,
+— Diga então Israel —
+
+[[v19-124-2]]
+
+^<<v19-124-2,2>>^ “Se Jeová não estivesse conosco
+Quando homens se levantaram para nos atacar,
+
+[[v19-124-3]]
+
+^<<v19-124-3,3>>^ Eles nos teriam devorado vivos
+Na sua ira ardente contra nós.
+
+[[v19-124-4]]
+
+^<<v19-124-4,4>>^ As águas nos teriam arrastado,
+A torrente teria passado sobre nós.^&#42;1^
+
+[NOTE]
+====
+. Ou: “nossa alma”.
+====
+
+[[v19-124-5]]
+
+^<<v19-124-5,5>>^ As águas violentas teriam nos dominado.^&#42;1^
+
+[NOTE]
+====
+. Ou: “dominado nossa alma”.
+====
+
+[[v19-124-6]]
+
+^<<v19-124-6,6>>^ Louvado seja Jeová,
+Pois ele não nos entregou como presa para os dentes deles.
+
+[[v19-124-7]]
+
+^<<v19-124-7,7>>^ Somos^&#42;1^ como o pássaro que escapou
+Da armadilha do caçador;
+A armadilha quebrou,
+E nós escapamos.
+
+[NOTE]
+====
+. Ou: “Nossa alma é”.
+====
+
+[[v19-124-8]]
+
+^<<v19-124-8,8>>^ Nossa ajuda está no nome de Jeová,
+Aquele que fez o céu e a terra.”
+
+'''
+
+xref:019-salmo/019-salmo-123.adoc#v19-123-0[&#60; Capítulo Anterior] | <<v19-124-0,Topo>> | xref:019-salmo/019-salmo-125.adoc#v19-125-0[Próximo Capítulo &#62;]

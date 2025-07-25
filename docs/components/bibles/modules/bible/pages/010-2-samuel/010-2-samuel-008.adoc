@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v10-8-0]]
+=== O Segundo de Samuel, 8
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v10-8-1]]
+
+^<<v10-8-1,1>>^ Algum tempo depois, Davi derrotou os filisteus e os subjugou; Davi tomou Metegue-Amá das mãos dos filisteus.
+
+[[v10-8-2]]
+
+^<<v10-8-2,2>>^ Ele derrotou os moabitas, fez com que se deitassem no chão e os mediu com uma corda: duas medidas de corda para a morte, e uma medida inteira de corda para a vida. Então os moabitas se tornaram servos de Davi e passaram a lhe pagar tributo.
+
+[[v10-8-3]]
+
+^<<v10-8-3,3>>^ Davi derrotou Hadadezer, filho de Reobe, rei de Zobá, quando este estava indo restabelecer seu domínio sobre a região do rio Eufrates.
+
+[[v10-8-4]]
+
+^<<v10-8-4,4>>^ Davi capturou 1.700 cavaleiros de Hadadezer e 20.000 soldados a pé. Então Davi cortou os tendões de todos os cavalos dos carros de guerra, com exceção de 100 deles.
+
+[[v10-8-5]]
+
+^<<v10-8-5,5>>^ Quando os sírios de Damasco vieram ajudar Hadadezer, rei de Zobá, Davi matou 22.000 sírios.
+
+[[v10-8-6]]
+
+^<<v10-8-6,6>>^ Então Davi manteve tropas na Síria de Damasco; e os sírios se tornaram servos de Davi e passaram a lhe pagar tributo. Jeová dava vitórias^&#42;1^ a Davi aonde quer que ele fosse.
+
+[NOTE]
+====
+. Ou: “salvação”.
+====
+
+[[v10-8-7]]
+
+^<<v10-8-7,7>>^ Além disso, Davi pegou os escudos^&#42;1^ de ouro dos servos de Hadadezer e os trouxe a Jerusalém.
+
+[NOTE]
+====
+. Ou: “escudos redondos”.
+====
+
+[[v10-8-8]]
+
+^<<v10-8-8,8>>^ O rei Davi pegou também uma grande quantidade de cobre de Betá e de Berotai, cidades de Hadadezer.
+
+[[v10-8-9]]
+
+^<<v10-8-9,9>>^ Toi, rei de Hamate, ficou sabendo que Davi tinha derrotado todo o exército de Hadadezer.
+
+[[v10-8-10]]
+
+^<<v10-8-10,10>>^ Portanto, Toi enviou Jorão, seu filho, ao rei Davi para cumprimentá-lo e parabenizá-lo por ele ter derrotado Hadadezer, pois Hadadezer sempre guerreava contra Toi. Jorão levou a Davi objetos de prata, de ouro e de cobre,
+
+[[v10-8-11]]
+
+^<<v10-8-11,11>>^ os quais o rei Davi santificou para Jeová, junto com a prata e o ouro que tinha santificado, procedente de todas as nações que havia subjugado
+
+[[v10-8-12]]
+
+^<<v10-8-12,12>>^ — a Síria, Moabe, os amonitas, os filisteus e os amalequitas —, e junto com o despojo de Hadadezer, filho de Reobe, rei de Zobá.
+
+[[v10-8-13]]
+
+^<<v10-8-13,13>>^ Além disso, Davi fez um nome para si quando voltou depois de ter matado 18.000 edomitas no vale do Sal.
+
+[[v10-8-14]]
+
+^<<v10-8-14,14>>^ Ele manteve tropas em Edom; em todo o Edom ele manteve tropas, e todos os edomitas se tornaram servos de Davi. Jeová dava vitórias^&#42;1^ a Davi aonde quer que ele fosse.
+
+[NOTE]
+====
+. Ou: “salvação”.
+====
+
+[[v10-8-15]]
+
+^<<v10-8-15,15>>^ Davi reinava sobre todo o Israel, e Davi governava com justiça e retidão em benefício de todo o seu povo.
+
+[[v10-8-16]]
+
+^<<v10-8-16,16>>^ Joabe, filho de Zeruia, era chefe do exército; e Jeosafá, filho de Ailude, era cronista.
+
+[[v10-8-17]]
+
+^<<v10-8-17,17>>^ Zadoque, filho de Aitube, e Aimeleque, filho de Abiatar, eram sacerdotes; e Seraías era secretário.
+
+[[v10-8-18]]
+
+^<<v10-8-18,18>>^ Benaia, filho de Jeoiada, comandava os queretitas e os peletitas. E os filhos de Davi se tornaram ministros principais.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “se tornaram sacerdotes”.
+====
+
+'''
+
+xref:010-2-samuel/010-2-samuel-007.adoc#v10-7-0[&#60; Capítulo Anterior] | <<v10-8-0,Topo>> | xref:010-2-samuel/010-2-samuel-009.adoc#v10-9-0[Próximo Capítulo &#62;]

@@ -1,0 +1,195 @@
+include::./index.adoc[]
+
+[[v24-36-0]]
+=== Jeremias, 36
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v24-36-1]]
+
+^<<v24-36-1,1>>^ No quarto ano de Jeoiaquim, filho de Josias e rei de Judá, Jeremias recebeu de Jeová a seguinte palavra:
+
+[[v24-36-2]]
+
+^<<v24-36-2,2>>^ “Pegue um rolo^&#42;1^ e escreva nele todas as palavras que lhe falei contra Israel, Judá e todas as nações, desde o primeiro dia em que falei com você, nos dias de Josias, até hoje.
+
+[NOTE]
+====
+. Lit.: “um rolo de um livro”.
+====
+
+[[v24-36-3]]
+
+^<<v24-36-3,3>>^ Talvez, quando os da casa de Judá ouvirem falar de toda a calamidade que pretendo trazer contra eles, eles recuem do seu mau caminho, para que eu perdoe o seu erro e o seu pecado.”
+
+[[v24-36-4]]
+
+^<<v24-36-4,4>>^ Então Jeremias chamou Baruque, filho de Nerias, e Jeremias ditou todas as palavras que Jeová lhe havia falado, e Baruque as escreveu no rolo.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “rolo do livro”.
+====
+
+[[v24-36-5]]
+
+^<<v24-36-5,5>>^ Jeremias ordenou então a Baruque: “Estou proibido de entrar na casa de Jeová.
+
+[[v24-36-6]]
+
+^<<v24-36-6,6>>^ Portanto, você é quem deve entrar e ler em voz alta as palavras de Jeová que eu ditei e você escreveu no rolo. Leia-as na presença do povo na casa de Jeová, no dia de jejum; assim você as lerá para todo o povo de Judá que está vindo das suas cidades.
+
+[[v24-36-7]]
+
+^<<v24-36-7,7>>^ Talvez Jeová ouça o pedido de favor deles, e eles recuem cada um do seu mau caminho, pois foi com grande ira e furor que Jeová falou contra este povo.”
+
+[[v24-36-8]]
+
+^<<v24-36-8,8>>^ Então Baruque, filho de Nerias, fez tudo o que o profeta Jeremias lhe ordenou; ele leu em voz alta na casa de Jeová as palavras de Jeová que estavam no rolo.^&#42;1^
+
+[NOTE]
+====
+. Ou: “livro”.
+====
+
+[[v24-36-9]]
+
+^<<v24-36-9,9>>^ No quinto ano de Jeoiaquim, filho de Josias e rei de Judá, no nono mês, todo o povo em Jerusalém e todo o povo que tinha vindo a Jerusalém das cidades de Judá proclamaram um jejum diante de Jeová.
+
+[[v24-36-10]]
+
+^<<v24-36-10,10>>^ Então Baruque leu em voz alta as palavras de Jeremias que estavam no rolo.^&#42;1^ Ele fez a leitura na casa de Jeová, na sala^&#42;2^ de Gemarias, filho do copista^&#42;3^ Safã, no pátio superior, na entrada do portão novo da casa de Jeová, na presença de todo o povo.
+
+[NOTE]
+====
+. Ou: “livro”.
+. Ou: “no refeitório”.
+. Ou: “escriba”.
+====
+
+[[v24-36-11]]
+
+^<<v24-36-11,11>>^ Quando Micaías, filho de Gemarias, filho de Safã, ouviu todas as palavras de Jeová que estavam no rolo,^&#42;1^
+
+[NOTE]
+====
+. Ou: “livro”.
+====
+
+[[v24-36-12]]
+
+^<<v24-36-12,12>>^ ele desceu à casa^&#42;1^ do rei e foi à sala do secretário. Todos os príncipes^&#42;2^ estavam sentados ali: Elisama, o secretário; Delaías, filho de Semaías; Elnatã, filho de Acbor; Gemarias, filho de Safã; Zedequias, filho de Hananias; e todos os outros príncipes.
+
+[NOTE]
+====
+. Ou: “ao palácio”.
+. Ou: “oficiais da corte”.
+====
+
+[[v24-36-13]]
+
+^<<v24-36-13,13>>^ E Micaías lhes contou todas as palavras que tinha ouvido quando Baruque leu o rolo^&#42;1^ na presença do povo.
+
+[NOTE]
+====
+. Ou: “livro”.
+====
+
+[[v24-36-14]]
+
+^<<v24-36-14,14>>^ Então todos os príncipes mandaram Jeudi, filho de Netanias, filho de Selemias, filho de Cusi, dizer a Baruque: “Venha e traga o rolo que você leu na presença do povo.” Baruque, filho de Nerias, pegou o rolo e foi até eles.
+
+[[v24-36-15]]
+
+^<<v24-36-15,15>>^ Então lhe disseram: “Sente-se, por favor, e leia-o em voz alta para nós.” De modo que Baruque o leu para eles.
+
+[[v24-36-16]]
+
+^<<v24-36-16,16>>^ Assim que eles ouviram todas as palavras, olharam apavorados uns para os outros e disseram a Baruque: “Nós com certeza contaremos todas essas palavras ao rei.”
+
+[[v24-36-17]]
+
+^<<v24-36-17,17>>^ E perguntaram a Baruque: “Conte-nos, por favor, como você escreveu todas essas palavras. Foi ele quem as ditou?”
+
+[[v24-36-18]]
+
+^<<v24-36-18,18>>^ Baruque respondeu-lhes: “Ele ditou todas essas palavras a mim, e eu as escrevi à tinta neste rolo.”^&#42;1^
+
+[NOTE]
+====
+. Ou: “livro”.
+====
+
+[[v24-36-19]]
+
+^<<v24-36-19,19>>^ Os príncipes disseram a Baruque: “Vão e escondam-se, você e Jeremias, e não deixem ninguém saber onde vocês estão.”
+
+[[v24-36-20]]
+
+^<<v24-36-20,20>>^ Então eles compareceram perante o rei, no pátio. Guardaram o rolo na sala de Elisama, o secretário, e contaram ao rei tudo que tinham ouvido.
+
+[[v24-36-21]]
+
+^<<v24-36-21,21>>^ Então o rei mandou Jeudi pegar o rolo, de modo que ele o trouxe da sala de Elisama, o secretário. Jeudi começou a lê-lo na presença do rei e de todos os príncipes que estavam de pé junto ao rei.
+
+[[v24-36-22]]
+
+^<<v24-36-22,22>>^ Era o nono mês,^&#42;1^ e o rei estava sentado na casa de inverno, com um fogo aceso num braseiro diante dele.
+
+[NOTE]
+====
+. A segunda metade de novembro e a primeira metade de dezembro. Veja Ap. B15.
+====
+
+[[v24-36-23]]
+
+^<<v24-36-23,23>>^ Depois que Jeudi terminava de ler três ou quatro colunas, o rei cortava o trecho com uma faca de escriba e o lançava no fogo do braseiro, até queimar o rolo inteiro no fogo do braseiro.
+
+[[v24-36-24]]
+
+^<<v24-36-24,24>>^ O rei e os seus servos que ouviram todas aquelas palavras não ficaram com medo nem rasgaram as suas vestes.
+
+[[v24-36-25]]
+
+^<<v24-36-25,25>>^ Embora Elnatã, Delaías e Gemarias suplicassem ao rei que não queimasse o rolo, ele não os escutou.
+
+[[v24-36-26]]
+
+^<<v24-36-26,26>>^ Além disso, o rei ordenou a Jerameel, filho do rei, a Seraías, filho de Azriel, e a Selemias, filho de Abdeel, que prendessem Baruque, o secretário, e o profeta Jeremias. Mas Jeová os manteve escondidos.
+
+[[v24-36-27]]
+
+^<<v24-36-27,27>>^ Depois que o rei queimou o rolo com as palavras que Jeremias havia ditado a Baruque, Jeremias recebeu novamente a palavra de Jeová:
+
+[[v24-36-28]]
+
+^<<v24-36-28,28>>^ “Pegue outro rolo e escreva nele todas as palavras que estavam no primeiro rolo, que Jeoiaquim, rei de Judá, queimou.
+
+[[v24-36-29]]
+
+^<<v24-36-29,29>>^ E você deve dizer contra Jeoiaquim, rei de Judá: ‘Assim diz Jeová: “Você queimou aquele rolo e disse: ‘Por que você escreveu nele: “O rei de Babilônia certamente virá, destruirá esta terra e fará desaparecer dela os homens e os animais”?’
+
+[[v24-36-30]]
+
+^<<v24-36-30,30>>^ Portanto, assim diz Jeová contra Jeoiaquim, rei de Judá: ‘Ele não terá nenhum descendente para sentar no trono de Davi, e o seu cadáver ficará exposto ao calor do dia e à geada da noite.
+
+[[v24-36-31]]
+
+^<<v24-36-31,31>>^ Vou ajustar contas com ele, com os seus descendentes^&#42;1^ e com os seus servos, por causa do erro deles. E vou trazer sobre eles, sobre os habitantes de Jerusalém e sobre os homens de Judá toda a calamidade que proferi contra eles, sem que eles me escutassem.’”’”
+
+[NOTE]
+====
+. Lit.: “a sua semente”.
+====
+
+[[v24-36-32]]
+
+^<<v24-36-32,32>>^ Então Jeremias pegou outro rolo e o deu a Baruque, o secretário, filho de Nerias. Ele escreveu no rolo, conforme Jeremias foi ditando, todas as palavras do rolo^&#42;1^ que Jeoiaquim, rei de Judá, havia queimado no fogo. E foram acrescentadas muitas outras palavras semelhantes.
+
+[NOTE]
+====
+. Ou: “livro”.
+====
+
+'''
+
+xref:024-jeremias/024-jeremias-035.adoc#v24-35-0[&#60; Capítulo Anterior] | <<v24-36-0,Topo>> | xref:024-jeremias/024-jeremias-037.adoc#v24-37-0[Próximo Capítulo &#62;]

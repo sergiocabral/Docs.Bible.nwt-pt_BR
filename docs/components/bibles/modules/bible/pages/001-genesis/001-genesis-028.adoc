@@ -1,0 +1,120 @@
+include::./index.adoc[]
+
+[[v1-28-0]]
+=== Gênesis, 28
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v1-28-1]]
+
+^<<v1-28-1,1>>^ Então, Isaque chamou Jacó e o abençoou, e lhe ordenou: “Não tome uma esposa dentre as filhas de Canaã.
+
+[[v1-28-2]]
+
+^<<v1-28-2,2>>^ Vá para Padã-Arã, à casa de Betuel, pai de sua mãe, e tome ali como esposa uma das filhas de Labão, irmão de sua mãe.
+
+[[v1-28-3]]
+
+^<<v1-28-3,3>>^ O Deus Todo-Poderoso o abençoará, lhe dará filhos e o multiplicará, e você certamente se tornará uma congregação de povos.
+
+[[v1-28-4]]
+
+^<<v1-28-4,4>>^ E ele dará a você a bênção de Abraão, a você e à sua descendência,^&#42;1^ para que você tome posse da terra em que tem vivido como estrangeiro, a terra que Deus deu a Abraão.”
+
+[NOTE]
+====
+. Lit.: “semente”.
+====
+
+[[v1-28-5]]
+
+^<<v1-28-5,5>>^ Assim, Isaque deixou Jacó ir, e este partiu para Padã-Arã, a fim de ir a Labão, filho de Betuel, o arameu, e irmão de Rebeca, mãe de Jacó e de Esaú.
+
+[[v1-28-6]]
+
+^<<v1-28-6,6>>^ Esaú viu que Isaque tinha abençoado Jacó e o tinha enviado a Padã-Arã, para que ele tomasse de lá uma esposa, e que, ao abençoá-lo, lhe havia ordenado: “Não tome uma esposa dentre as filhas de Canaã”;
+
+[[v1-28-7]]
+
+^<<v1-28-7,7>>^ viu também que Jacó obedeceu ao seu pai e à sua mãe e partiu para Padã-Arã.
+
+[[v1-28-8]]
+
+^<<v1-28-8,8>>^ Esaú percebeu então que Isaque, seu pai, não se agradava das filhas de Canaã;
+
+[[v1-28-9]]
+
+^<<v1-28-9,9>>^ por isso Esaú foi a Ismael e, além das esposas que já tinha, tomou como esposa Maalate, irmã de Nebaiote. Maalate era filha de Ismael, filho de Abraão.
+
+[[v1-28-10]]
+
+^<<v1-28-10,10>>^ Jacó saiu de Berseba e seguiu caminho para Harã.
+
+[[v1-28-11]]
+
+^<<v1-28-11,11>>^ Chegando a certo lugar, preparou-se para passar a noite ali, visto que o sol já se tinha posto. Então, pegou uma das pedras do lugar e, pondo-a debaixo da cabeça, deitou-se naquele lugar.
+
+[[v1-28-12]]
+
+^<<v1-28-12,12>>^ E ele teve um sonho: viu uma escada posta na terra, e seu topo chegava aos céus; e anjos de Deus subiam e desciam por ela.
+
+[[v1-28-13]]
+
+^<<v1-28-13,13>>^ Acima dela estava Jeová, e ele disse:
+“Eu sou Jeová, o Deus de Abraão, seu pai, e o Deus de Isaque. Vou dar a você e à sua descendência^&#42;1^ a terra em que você está deitado.
+
+[NOTE]
+====
+. Lit.: “semente”.
+====
+
+[[v1-28-14]]
+
+^<<v1-28-14,14>>^ E a sua descendência^&#42;1^ certamente se tornará como as partículas de pó da terra, e você se espalhará para o oeste, para o leste, para o norte e para o sul; e todas as famílias da terra certamente serão abençoadas^&#42;2^ por meio de você e por meio da sua descendência.^&#42;3^
+
+[NOTE]
+====
+. Lit.: “semente”.
+. Ou: “obterão para si uma bênção”.
+. Lit.: “semente”.
+====
+
+[[v1-28-15]]
+
+^<<v1-28-15,15>>^ Eu estou com você, vou protegê-lo aonde quer que você for e vou trazê-lo de volta a esta terra. Não o deixarei até que eu tenha feito o que lhe prometi.”
+
+[[v1-28-16]]
+
+^<<v1-28-16,16>>^ Jacó acordou então do sono e disse: “Jeová realmente está neste lugar, e eu não sabia disso.”
+
+[[v1-28-17]]
+
+^<<v1-28-17,17>>^ Ele ficou com medo e acrescentou: “Como este lugar inspira temor! Só pode ser a casa de Deus, e este é o portão dos céus.”
+
+[[v1-28-18]]
+
+^<<v1-28-18,18>>^ De modo que Jacó se levantou de manhã cedo, pegou a pedra em que havia apoiado a cabeça, colocou-a em pé como coluna e derramou óleo no topo dela.
+
+[[v1-28-19]]
+
+^<<v1-28-19,19>>^ Então deu àquele lugar o nome de Betel;^&#42;1^ mas anteriormente o nome da cidade era Luz.
+
+[NOTE]
+====
+. Que significa “casa de Deus”.
+====
+
+[[v1-28-20]]
+
+^<<v1-28-20,20>>^ E Jacó fez um voto, dizendo: “Se Deus continuar comigo e me proteger na minha viagem, me der pão para comer e roupas para usar,
+
+[[v1-28-21]]
+
+^<<v1-28-21,21>>^ e eu retornar em paz à casa de meu pai, então certamente Jeová terá mostrado que é meu Deus.
+
+[[v1-28-22]]
+
+^<<v1-28-22,22>>^ Esta pedra que ergui como coluna se tornará uma casa de Deus; e eu sem falta te darei um décimo de tudo que me deres.”
+
+'''
+
+xref:001-genesis/001-genesis-027.adoc#v1-27-0[&#60; Capítulo Anterior] | <<v1-28-0,Topo>> | xref:001-genesis/001-genesis-029.adoc#v1-29-0[Próximo Capítulo &#62;]

@@ -1,0 +1,52 @@
+include::./index.adoc[]
+
+[[v66-15-0]]
+=== Apocalipse, 15
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v66-15-1]]
+
+^<<v66-15-1,1>>^ Vi no céu outro sinal, grande e maravilhoso: sete anjos com sete pragas. Essas são as últimas, porque por meio delas se conclui a ira de Deus.
+
+[[v66-15-2]]
+
+^<<v66-15-2,2>>^ Vi algo que parecia um mar de vidro misturado com fogo, e os que são vitoriosos contra a fera, a sua imagem e o número do seu nome estavam em pé junto ao mar de vidro, segurando harpas de Deus.
+
+[[v66-15-3]]
+
+^<<v66-15-3,3>>^ Eles cantavam o cântico de Moisés, o escravo de Deus, e o cântico do Cordeiro, dizendo:
+“Grandes e maravilhosas são as tuas obras, Jeová^&#42;1^ Deus, o Todo-Poderoso. Justos e verdadeiros são os teus caminhos, Rei da eternidade.
+
+[NOTE]
+====
+. Veja Ap. A5.
+====
+
+[[v66-15-4]]
+
+^<<v66-15-4,4>>^ Quem realmente não te temerá, Jeová,^&#42;1^ e não glorificará o teu nome? Pois só tu és leal. Todas as nações virão e adorarão diante de ti, porque os teus justos decretos foram revelados.”
+
+[NOTE]
+====
+. Veja Ap. A5.
+====
+
+[[v66-15-5]]
+
+^<<v66-15-5,5>>^ Depois disso eu vi que o santuário da tenda do Testemunho foi aberto no céu,
+
+[[v66-15-6]]
+
+^<<v66-15-6,6>>^ e os sete anjos com as sete pragas saíram do santuário, vestidos de linho puro e brilhante, e com faixas de ouro ao redor do peito.
+
+[[v66-15-7]]
+
+^<<v66-15-7,7>>^ Uma das quatro criaturas viventes deu aos sete anjos sete tigelas de ouro, cheias da ira de Deus, que vive para todo o sempre.
+
+[[v66-15-8]]
+
+^<<v66-15-8,8>>^ O santuário ficou cheio de fumaça por causa da glória de Deus e por causa do seu poder, e ninguém podia entrar no santuário até que terminassem as sete pragas dos sete anjos.
+
+'''
+
+xref:066-apocalipse/066-apocalipse-014.adoc#v66-14-0[&#60; Capítulo Anterior] | <<v66-15-0,Topo>> | xref:066-apocalipse/066-apocalipse-016.adoc#v66-16-0[Próximo Capítulo &#62;]

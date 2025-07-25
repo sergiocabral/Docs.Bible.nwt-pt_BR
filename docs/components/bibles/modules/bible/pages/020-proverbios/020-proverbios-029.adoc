@@ -1,0 +1,199 @@
+include::./index.adoc[]
+
+[[v20-29-0]]
+=== Provérbios, 29
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v20-29-1]]
+
+^<<v20-29-1,1>>^ O homem que continua obstinado^&#42;1^ depois de muita repreensão
+Será arruinado de repente, e não haverá remédio.
+
+[NOTE]
+====
+. Lit.: “endurece a cerviz”.
+====
+
+[[v20-29-2]]
+
+^<<v20-29-2,2>>^ Quando os justos são muitos, o povo se alegra;
+Mas, quando os maus governam, o povo geme.
+
+[[v20-29-3]]
+
+^<<v20-29-3,3>>^ Quem ama a sabedoria alegra seu pai,
+Mas quem anda com prostitutas desperdiça sua riqueza.
+
+[[v20-29-4]]
+
+^<<v20-29-4,4>>^ Por meio da justiça o rei dá estabilidade ao país,
+Mas o homem que procura suborno leva o país à ruína.
+
+[[v20-29-5]]
+
+^<<v20-29-5,5>>^ O homem que bajula seu próximo
+Arma uma rede para os pés dele.
+
+[[v20-29-6]]
+
+^<<v20-29-6,6>>^ A transgressão do perverso é um laço para ele,
+Mas o justo grita de alegria e exulta.
+
+[[v20-29-7]]
+
+^<<v20-29-7,7>>^ O justo se preocupa com os direitos dos pobres,
+Mas os maus não se importam com isso.
+
+[[v20-29-8]]
+
+^<<v20-29-8,8>>^ Homens que se gabam incendeiam a cidade,
+Mas os sábios acalmam a ira.
+
+[[v20-29-9]]
+
+^<<v20-29-9,9>>^ Quando um sábio entra numa controvérsia com um tolo,
+Há exaltação e zombaria, mas nada é resolvido.
+
+[[v20-29-10]]
+
+^<<v20-29-10,10>>^ Homens sanguinários odeiam quem é inocente,^&#42;1^
+E procuram tirar a vida^&#42;2^ do justo.^&#42;3^
+
+[NOTE]
+====
+. Ou: “irrepreensível”.
+. Ou: “procuram a alma”.
+. Ou, possivelmente: “Mas o justo procura proteger a vida dele”.
+====
+
+[[v20-29-11]]
+
+^<<v20-29-11,11>>^ O tolo dá vazão a toda a sua ira,^&#42;1^
+Mas o sábio continua calmo e a mantém sob controle.
+
+[NOTE]
+====
+. Ou: “todos os seus sentimentos”. Lit.: “todo o seu espírito”.
+====
+
+[[v20-29-12]]
+
+^<<v20-29-12,12>>^ Quando o governante dá atenção a mentiras,
+Todos os seus servos são maus.
+
+[[v20-29-13]]
+
+^<<v20-29-13,13>>^ O pobre e o opressor têm isto em comum:^&#42;1^
+Jeová dá luz aos olhos dos dois.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “se encontram”.
+. Isto é, Ele lhes dá vida.
+====
+
+[[v20-29-14]]
+
+^<<v20-29-14,14>>^ Se um rei julgar os pobres de modo imparcial,
+Seu trono estará sempre seguro.
+
+[[v20-29-15]]
+
+^<<v20-29-15,15>>^ A vara^&#42;1^ e a repreensão dão sabedoria,
+Mas a criança deixada solta causa vergonha à sua mãe.
+
+[NOTE]
+====
+. Ou: “disciplina; punição”.
+====
+
+[[v20-29-16]]
+
+^<<v20-29-16,16>>^ Quando os maus se multiplicam, multiplicam-se as transgressões;
+Mas os justos verão a queda deles.
+
+[[v20-29-17]]
+
+^<<v20-29-17,17>>^ Discipline seu filho, e ele lhe trará descanso
+E dará grande prazer a você.^&#42;1^
+
+[NOTE]
+====
+. Ou: “à sua alma”.
+====
+
+[[v20-29-18]]
+
+^<<v20-29-18,18>>^ Quando não há visão,^&#42;1^ o povo fica sem controle,
+Mas os que obedecem à lei são felizes.
+
+[NOTE]
+====
+. Ou: “visão profética; revelação”.
+====
+
+[[v20-29-19]]
+
+^<<v20-29-19,19>>^ Um servo não se deixará corrigir só com palavras,
+Pois, embora ele compreenda, não obedece.
+
+[[v20-29-20]]
+
+^<<v20-29-20,20>>^ Você já observou um homem que fala de modo precipitado?
+Há mais esperança para um tolo do que para ele.
+
+[[v20-29-21]]
+
+^<<v20-29-21,21>>^ Se um servo é mimado desde jovem,
+Ele acabará se tornando um ingrato.
+
+[[v20-29-22]]
+
+^<<v20-29-22,22>>^ O homem que facilmente se ira provoca brigas,
+E quem é propenso à ira comete muitas transgressões.
+
+[[v20-29-23]]
+
+^<<v20-29-23,23>>^ A arrogância do homem o humilhará,
+Mas quem é humilde de espírito terá glória.
+
+[[v20-29-24]]
+
+^<<v20-29-24,24>>^ Quem é parceiro de um ladrão odeia a si mesmo.^&#42;1^
+Ele ouve a convocação para testemunhar,^&#42;2^ mas não relata nada.
+
+[NOTE]
+====
+. Ou: “a sua própria alma”.
+. Ou: “um juramento que envolve uma maldição”.
+====
+
+[[v20-29-25]]
+
+^<<v20-29-25,25>>^ Tremer diante^&#42;1^ de homens é^&#42;2^ uma armadilha,
+Mas quem confia em Jeová será protegido.
+
+[NOTE]
+====
+. Ou: “O medo”.
+. Ou: “arma”.
+====
+
+[[v20-29-26]]
+
+^<<v20-29-26,26>>^ Muitos buscam uma audiência com^&#42;1^ um governante,
+Mas é de Jeová que se obtém justiça.
+
+[NOTE]
+====
+. Ou, possivelmente: “buscam o favor de”. Lit.: “buscam a face de”.
+====
+
+[[v20-29-27]]
+
+^<<v20-29-27,27>>^ O homem injusto é detestável para os justos,
+E quem anda no caminho reto é detestável para quem é mau.
+
+'''
+
+xref:020-proverbios/020-proverbios-028.adoc#v20-28-0[&#60; Capítulo Anterior] | <<v20-29-0,Topo>> | xref:020-proverbios/020-proverbios-030.adoc#v20-30-0[Próximo Capítulo &#62;]

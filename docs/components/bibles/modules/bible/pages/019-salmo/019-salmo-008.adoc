@@ -1,0 +1,71 @@
+include::./index.adoc[]
+
+[[v19-8-0]]
+=== Salmos, 8
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Ao regente; sobre gitite.^&#42;1^ Salmo de Davi._
+
+[[v19-8-1]]
+
+^<<v19-8-1,1>>^ Ó Jeová, nosso Senhor, como é majestoso o teu nome em toda a terra;
+Puseste o teu esplendor até mesmo acima dos céus!^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “Tu, cujo esplendor é narrado acima dos céus”.
+====
+
+[[v19-8-2]]
+
+^<<v19-8-2,2>>^ Da boca de crianças e de bebês estabeleceste a força
+Por causa dos teus adversários,
+Para silenciar o inimigo e o vingador.
+
+[[v19-8-3]]
+
+^<<v19-8-3,3>>^ Quando vejo os teus céus, obra dos teus dedos,
+A lua e as estrelas que formaste,
+
+[[v19-8-4]]
+
+^<<v19-8-4,4>>^ O que é o homem mortal, para que te lembres dele,
+E o filho do homem, para que cuides dele?
+
+[[v19-8-5]]
+
+^<<v19-8-5,5>>^ Tu o fizeste um pouco menor que os seres divinos,^&#42;1^
+E o coroaste de glória e esplendor.
+
+[NOTE]
+====
+. Ou: “os anjos”.
+====
+
+[[v19-8-6]]
+
+^<<v19-8-6,6>>^ Deste-lhe domínio sobre as obras das tuas mãos;
+Puseste tudo debaixo dos seus pés:
+
+[[v19-8-7]]
+
+^<<v19-8-7,7>>^ Todas as ovelhas, os cabritos e os bois,
+E também os animais selvagens,^&#42;1^
+
+[NOTE]
+====
+. Lit.: “os animais do campo”.
+====
+
+[[v19-8-8]]
+
+^<<v19-8-8,8>>^ As aves do céu e os peixes do mar,
+Tudo o que percorre os caminhos dos mares.
+
+[[v19-8-9]]
+
+^<<v19-8-9,9>>^ Ó Jeová, nosso Senhor, como é majestoso o teu nome em toda a terra!
+
+'''
+
+xref:019-salmo/019-salmo-007.adoc#v19-7-0[&#60; Capítulo Anterior] | <<v19-8-0,Topo>> | xref:019-salmo/019-salmo-009.adoc#v19-9-0[Próximo Capítulo &#62;]

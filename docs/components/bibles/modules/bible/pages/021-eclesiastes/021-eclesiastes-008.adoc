@@ -1,0 +1,114 @@
+include::./index.adoc[]
+
+[[v21-8-0]]
+=== Eclesiastes, 8
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v21-8-1]]
+
+^<<v21-8-1,1>>^ Quem é como o sábio? Quem sabe a solução de um problema?^&#42;1^ A sabedoria de um homem ilumina o seu rosto e abranda a sua aparência severa.
+
+[NOTE]
+====
+. Ou: “a interpretação de um assunto”.
+====
+
+[[v21-8-2]]
+
+^<<v21-8-2,2>>^ Eu digo: “Obedeça às ordens do rei por causa do juramento feito a Deus.
+
+[[v21-8-3]]
+
+^<<v21-8-3,3>>^ Não se apresse a sair da presença dele. Não tome posição a favor de algo mau; pois ele pode fazer o que bem entender,
+
+[[v21-8-4]]
+
+^<<v21-8-4,4>>^ porque a palavra do rei é soberana; quem pode dizer a ele: ‘O que está fazendo?’”
+
+[[v21-8-5]]
+
+^<<v21-8-5,5>>^ Quem obedece à ordem não sofrerá nenhum mal, e o coração sábio discernirá o tempo certo e a maneira certa de agir.^&#42;1^
+
+[NOTE]
+====
+. Ou: “e o julgamento”.
+====
+
+[[v21-8-6]]
+
+^<<v21-8-6,6>>^ Para tudo há um tempo e uma maneira de agir,^&#42;1^ porque as dificuldades da humanidade são muitas.
+
+[NOTE]
+====
+. Ou: “e um julgamento”.
+====
+
+[[v21-8-7]]
+
+^<<v21-8-7,7>>^ Visto que nenhum homem conhece o futuro, quem pode lhe dizer o que vai acontecer?
+
+[[v21-8-8]]
+
+^<<v21-8-8,8>>^ Assim como nenhum homem tem poder sobre o espírito^&#42;1^ nem pode reter o espírito, assim ninguém tem poder sobre o dia da morte. Assim como ninguém é dispensado durante uma guerra, assim a maldade não deixará escapar os que a praticam.^&#42;2^
+
+[NOTE]
+====
+. Ou: “fôlego; vento”.
+. Ou, possivelmente: “a maldade dos maus não pode livrá-los”.
+====
+
+[[v21-8-9]]
+
+^<<v21-8-9,9>>^ Eu vi tudo isso, e me pus a refletir em todo o trabalho que se tem feito debaixo do sol enquanto homem domina homem para o seu prejuízo.^&#42;1^
+
+[NOTE]
+====
+. Ou: “dano; mal”.
+====
+
+[[v21-8-10]]
+
+^<<v21-8-10,10>>^ E eu vi os maus serem enterrados, aqueles que costumavam entrar e sair do lugar santo, mas eles logo eram esquecidos na cidade em que praticavam a maldade. Isso também é vaidade.
+
+[[v21-8-11]]
+
+^<<v21-8-11,11>>^ Por não se executar logo a sentença contra um ato mau, o coração dos homens se enche de coragem para fazer o mal.
+
+[[v21-8-12]]
+
+^<<v21-8-12,12>>^ Embora o pecador faça o mal cem vezes e continue vivendo por muito tempo, sei que tudo terminará bem para os que temem o verdadeiro Deus, porque eles têm temor dele.
+
+[[v21-8-13]]
+
+^<<v21-8-13,13>>^ Mas nada terminará bem para aquele que é mau, nem prolongará ele a sua vida, que é como uma sombra, porque ele não tem temor de Deus.
+
+[[v21-8-14]]
+
+^<<v21-8-14,14>>^ Há algo vão^&#42;1^ que acontece na terra: há justos que são tratados como se tivessem praticado o mal, e há maus que são tratados como se tivessem praticado a justiça. Eu digo que isso também é vaidade.
+
+[NOTE]
+====
+. Ou: “frustrante”.
+====
+
+[[v21-8-15]]
+
+^<<v21-8-15,15>>^ Então eu recomendei a alegria, porque, para o homem, não há nada melhor debaixo do sol do que comer, beber e se alegrar; isso deve acompanhá-lo ao passo que trabalha arduamente durante os dias da sua vida, que o verdadeiro Deus lhe dá debaixo do sol.
+
+[[v21-8-16]]
+
+^<<v21-8-16,16>>^ Dediquei-me a adquirir sabedoria e a observar toda a atividade^&#42;1^ realizada na terra, e até mesmo fiquei sem dormir, dia e noite.^&#42;2^
+
+[NOTE]
+====
+. Ou: “ocupação”.
+. Ou, possivelmente: “que as pessoas não veem o sono, nem de dia nem de noite”.
+====
+
+[[v21-8-17]]
+
+^<<v21-8-17,17>>^ Então eu considerei todo o trabalho do verdadeiro Deus e percebi que a humanidade não é capaz de compreender o que acontece debaixo do sol. Por mais que os homens tentem, não podem compreender. Mesmo que digam que são bastante sábios para entender, não são capazes de compreender.
+
+'''
+
+xref:021-eclesiastes/021-eclesiastes-007.adoc#v21-7-0[&#60; Capítulo Anterior] | <<v21-8-0,Topo>> | xref:021-eclesiastes/021-eclesiastes-009.adoc#v21-9-0[Próximo Capítulo &#62;]

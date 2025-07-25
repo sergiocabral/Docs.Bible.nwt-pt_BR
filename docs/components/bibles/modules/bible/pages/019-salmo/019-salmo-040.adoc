@@ -1,0 +1,147 @@
+include::./index.adoc[]
+
+[[v19-40-0]]
+=== Salmos, 40
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Ao regente. Salmo de Davi._
+
+[[v19-40-1]]
+
+^<<v19-40-1,1>>^ Esperei confiantemente em^&#42;1^ Jeová,
+E ele me inclinou seu ouvido^&#42;2^ e escutou meu clamor por ajuda.
+
+[NOTE]
+====
+. Ou: “Esperei pacientemente por”.
+. Ou: “se abaixou para me ouvir”.
+====
+
+[[v19-40-2]]
+
+^<<v19-40-2,2>>^ Ele me tirou de um poço de águas ruidosas,
+Do charco lamacento,
+E pôs os meus pés sobre um rochedo;
+Firmou os meus passos.
+
+[[v19-40-3]]
+
+^<<v19-40-3,3>>^ Então, pôs na minha boca um novo cântico,
+Um louvor ao nosso Deus.
+Muitos observarão admirados
+E porão sua confiança em Jeová.
+
+[[v19-40-4]]
+
+^<<v19-40-4,4>>^ Feliz o homem que confia em Jeová
+E não recorre aos insolentes nem aos falsos.^&#42;1^
+
+[NOTE]
+====
+. Ou: “mentirosos”.
+====
+
+[[v19-40-5]]
+
+^<<v19-40-5,5>>^ Quantas coisas fizeste,
+Ó Jeová, meu Deus,
+Muitos são os teus atos maravilhosos e os teus pensamentos a nosso respeito.
+Não há quem se compare a ti.
+Se eu fosse narrá-los e falar deles,
+Seriam numerosos demais para relatar!
+
+[[v19-40-6]]
+
+^<<v19-40-6,6>>^ Não desejaste^&#42;1^ sacrifícios e ofertas,
+Mas abriste os meus ouvidos para eu escutar.
+Não pediste ofertas queimadas nem ofertas pelo pecado.
+
+[NOTE]
+====
+. Ou: “Não te agradaste de”.
+====
+
+[[v19-40-7]]
+
+^<<v19-40-7,7>>^ Então eu disse: “Aqui estou.^&#42;1^
+No rolo^&#42;2^ está escrito a meu respeito.
+
+[NOTE]
+====
+. Lit.: “Eis que eu vim.”
+. Lit.: “rolo do livro”.
+====
+
+[[v19-40-8]]
+
+^<<v19-40-8,8>>^ Fazer a tua vontade, ó meu Deus, é o meu prazer,^&#42;1^
+E a tua lei está no meu íntimo.
+
+[NOTE]
+====
+. Ou: “desejo”.
+====
+
+[[v19-40-9]]
+
+^<<v19-40-9,9>>^ Proclamo as boas novas de justiça na grande congregação.
+Não refreio os meus lábios,
+Ó Jeová, como sabes muito bem.
+
+[[v19-40-10]]
+
+^<<v19-40-10,10>>^ Não escondo dentro do meu coração a tua justiça.
+Declaro a tua fidelidade e a tua salvação.
+Na grande congregação, não oculto o teu amor leal e a tua verdade.”
+
+[[v19-40-11]]
+
+^<<v19-40-11,11>>^ Ó Jeová, não me negues a tua misericórdia.
+Que o teu amor leal e a tua verdade sempre me protejam.
+
+[[v19-40-12]]
+
+^<<v19-40-12,12>>^ As calamidades que me cercam são demais para contar.
+Tantos erros meus me esmagam que não consigo ver o meu caminho;
+São mais numerosos do que os cabelos da minha cabeça.
+E eu fiquei desanimado.
+
+[[v19-40-13]]
+
+^<<v19-40-13,13>>^ Por favor, ó Jeová, agrada-te em me salvar.
+Ó Jeová, vem depressa me ajudar.
+
+[[v19-40-14]]
+
+^<<v19-40-14,14>>^ Que todos os que buscam tirar a minha vida^&#42;1^
+Sejam envergonhados e desonrados.
+Que os que têm prazer na minha calamidade
+Batam em retirada, humilhados.
+
+[NOTE]
+====
+. Ou: “buscam a minha alma”.
+====
+
+[[v19-40-15]]
+
+^<<v19-40-15,15>>^ Que os que zombam de mim, dizendo: “Ah! Ah!”
+Fiquem chocados por causa da sua própria vergonha.
+
+[[v19-40-16]]
+
+^<<v19-40-16,16>>^ Mas que aqueles que te buscam
+Exultem e se alegrem em ti.
+Que os que amam os teus atos de salvação digam sempre:
+“Magnificado seja Jeová.”
+
+[[v19-40-17]]
+
+^<<v19-40-17,17>>^ Mas eu estou desamparado e pobre.
+Que Jeová preste atenção em mim.
+Tu és o meu ajudador e o meu libertador;
+Ó meu Deus, não demores.
+
+'''
+
+xref:019-salmo/019-salmo-039.adoc#v19-39-0[&#60; Capítulo Anterior] | <<v19-40-0,Topo>> | xref:019-salmo/019-salmo-041.adoc#v19-41-0[Próximo Capítulo &#62;]

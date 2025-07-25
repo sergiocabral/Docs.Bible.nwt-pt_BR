@@ -1,0 +1,64 @@
+include::./index.adoc[]
+
+[[v66-10-0]]
+=== Apocalipse, 10
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v66-10-1]]
+
+^<<v66-10-1,1>>^ Eu vi outro anjo forte descer do céu vestido^&#42;1^ com uma nuvem; havia um arco-íris sobre a sua cabeça, o seu rosto era como o sol, as suas pernas^&#42;2^ eram como colunas de fogo,
+
+[NOTE]
+====
+. Ou: “enrolado”.
+. Lit.: “os seus pés”.
+====
+
+[[v66-10-2]]
+
+^<<v66-10-2,2>>^ e ele tinha na mão um rolo pequeno que havia sido aberto. Ele pôs o pé direito sobre o mar, mas o esquerdo sobre a terra,
+
+[[v66-10-3]]
+
+^<<v66-10-3,3>>^ e clamou em alta voz, assim como quando um leão ruge. Quando ele clamou, as vozes dos sete trovões falaram.
+
+[[v66-10-4]]
+
+^<<v66-10-4,4>>^ Quando os sete trovões falaram, eu estava prestes a escrever, mas ouvi uma voz vinda do céu dizer: “Guarde em segredo^&#42;1^ as coisas que os sete trovões falaram, e não as escreva.”
+
+[NOTE]
+====
+. Lit.: “Sele”.
+====
+
+[[v66-10-5]]
+
+^<<v66-10-5,5>>^ O anjo que vi em pé sobre o mar e sobre a terra ergueu a mão direita para o céu
+
+[[v66-10-6]]
+
+^<<v66-10-6,6>>^ e jurou por Aquele que vive para todo o sempre, que criou o céu e as coisas nele, a terra e as coisas nela, e o mar e as coisas nele: “Não haverá mais demora.
+
+[[v66-10-7]]
+
+^<<v66-10-7,7>>^ Mas, nos dias em que o sétimo anjo estiver para tocar a sua trombeta, realmente se cumprirá o segredo sagrado que Deus declarou como boas novas aos seus próprios escravos, os profetas.”
+
+[[v66-10-8]]
+
+^<<v66-10-8,8>>^ E ouvi a voz vinda do céu falar novamente comigo; ela disse: “Vá, pegue o rolo aberto que está na mão do anjo que se encontra em pé sobre o mar e sobre a terra.”
+
+[[v66-10-9]]
+
+^<<v66-10-9,9>>^ Eu me dirigi ao anjo e lhe disse que me desse o rolo pequeno. Ele me disse: “Pegue-o e coma-o, e ele fará o seu estômago ficar amargo, mas na sua boca ele será doce como mel.”
+
+[[v66-10-10]]
+
+^<<v66-10-10,10>>^ Eu peguei o rolo pequeno da mão do anjo e o comi, e na minha boca ele era doce como mel, mas, quando o comi, meu estômago ficou amargo.
+
+[[v66-10-11]]
+
+^<<v66-10-11,11>>^ Disseram-me: “Você tem de profetizar novamente a respeito de povos, nações, línguas e muitos reis.”
+
+'''
+
+xref:066-apocalipse/066-apocalipse-009.adoc#v66-9-0[&#60; Capítulo Anterior] | <<v66-10-0,Topo>> | xref:066-apocalipse/066-apocalipse-011.adoc#v66-11-0[Próximo Capítulo &#62;]

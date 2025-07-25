@@ -1,0 +1,74 @@
+include::./index.adoc[]
+
+[[v21-11-0]]
+=== Eclesiastes, 11
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v21-11-1]]
+
+^<<v21-11-1,1>>^ Lance^&#42;1^ o seu pão sobre as águas, porque depois de muitos dias você o achará de novo.
+
+[NOTE]
+====
+. Ou: “Envie”.
+====
+
+[[v21-11-2]]
+
+^<<v21-11-2,2>>^ Reparta o que é seu com sete ou mesmo com oito, pois você não sabe que desastre^&#42;1^ pode ocorrer na terra.
+
+[NOTE]
+====
+. Ou: “calamidade”.
+====
+
+[[v21-11-3]]
+
+^<<v21-11-3,3>>^ Se as nuvens estiverem carregadas, despejarão chuva sobre a terra; e, se uma árvore cair, seja para o sul seja para o norte, onde a árvore cair, ali ficará.
+
+[[v21-11-4]]
+
+^<<v21-11-4,4>>^ Quem observa o vento não semeará, e quem olha para as nuvens não colherá.
+
+[[v21-11-5]]
+
+^<<v21-11-5,5>>^ Assim como você não sabe como o espírito age nos ossos da criança no ventre^&#42;1^ da mulher grávida, assim também você desconhece o trabalho do verdadeiro Deus, que faz todas as coisas.
+
+[NOTE]
+====
+. Lit.: “ossos no ventre”.
+====
+
+[[v21-11-6]]
+
+^<<v21-11-6,6>>^ Semeie de manhã a sua semente e não descanse as suas mãos até o anoitecer; pois você não sabe qual dará bons resultados, esta ou aquela, ou se ambas serão boas.
+
+[[v21-11-7]]
+
+^<<v21-11-7,7>>^ Doce é a luz, e é agradável aos olhos ver o sol.
+
+[[v21-11-8]]
+
+^<<v21-11-8,8>>^ Portanto, se um homem viver muitos anos, que ele aproveite todos eles. Mas ele deve se lembrar de que os dias de escuridão talvez sejam muitos; tudo que está para vir é vaidade.
+
+[[v21-11-9]]
+
+^<<v21-11-9,9>>^ Alegre-se, jovem, enquanto você ainda é jovem, e que o seu coração seja feliz nos dias da sua juventude. Siga os caminhos do seu coração e vá para onde seus olhos o levarem; mas saiba que o verdadeiro Deus o levará a julgamento^&#42;1^ por todas essas coisas.
+
+[NOTE]
+====
+. Ou: “o fará prestar contas”.
+====
+
+[[v21-11-10]]
+
+^<<v21-11-10,10>>^ Portanto, tire do seu coração as preocupações e afaste do seu corpo^&#42;1^ coisas prejudiciais, pois a juventude e a flor da vida são vaidade.
+
+[NOTE]
+====
+. Lit.: “da sua carne”.
+====
+
+'''
+
+xref:021-eclesiastes/021-eclesiastes-010.adoc#v21-10-0[&#60; Capítulo Anterior] | <<v21-11-0,Topo>> | xref:021-eclesiastes/021-eclesiastes-012.adoc#v21-12-0[Próximo Capítulo &#62;]

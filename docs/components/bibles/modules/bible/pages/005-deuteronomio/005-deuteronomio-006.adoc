@@ -1,0 +1,150 @@
+include::./index.adoc[]
+
+[[v5-6-0]]
+=== Deuteronômio, 6
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v5-6-1]]
+
+^<<v5-6-1,1>>^ “Estes são os mandamentos, os decretos e as decisões judiciais que Jeová, seu Deus, ordenou que eu lhes ensinasse, para que vocês os obedeçam quando atravessarem para a terra da qual vão tomar posse.
+
+[[v5-6-2]]
+
+^<<v5-6-2,2>>^ Ele fez isso para que você tema a Jeová, seu Deus, e guarde todos os decretos e os mandamentos que ordeno a você — você, seus filhos e seus netos — durante todos os dias da sua vida, para que você viva por muito tempo.
+
+[[v5-6-3]]
+
+^<<v5-6-3,3>>^ Escute, ó Israel, e obedeça-os cuidadosamente, para que você seja bem-sucedido e vocês se tornem muito numerosos na terra que mana leite e mel, assim como Jeová, o Deus dos seus antepassados, lhe prometeu.
+
+[[v5-6-4]]
+
+^<<v5-6-4,4>>^ “Escute, ó Israel: Jeová, nosso Deus, é um só Jeová.
+
+[[v5-6-5]]
+
+^<<v5-6-5,5>>^ Ame a Jeová, seu Deus, de todo o seu coração, de toda a sua alma^&#42;1^ e de toda a sua força.^&#42;2^
+
+[NOTE]
+====
+. Veja o Glossário.
+. Ou: “de toda a sua força vital; com tudo que você tem”.
+====
+
+[[v5-6-6]]
+
+^<<v5-6-6,6>>^ Estas palavras que hoje lhe ordeno devem estar no seu coração,
+
+[[v5-6-7]]
+
+^<<v5-6-7,7>>^ e você deve inculcá-las a^&#42;1^ seus filhos e falar delas sentado na sua casa, andando pela estrada, ao se deitar e ao se levantar.
+
+[NOTE]
+====
+. Ou: “repeti-las a; gravá-las em”.
+====
+
+[[v5-6-8]]
+
+^<<v5-6-8,8>>^ Amarre-as como uma recordação na sua mão, e elas devem ser como uma faixa na sua testa.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “entre os seus olhos”.
+====
+
+[[v5-6-9]]
+
+^<<v5-6-9,9>>^ Escreva-as nas laterais da entrada^&#42;1^ da sua casa e nos portões da cidade.
+
+[NOTE]
+====
+. Ou: “ombreiras”.
+====
+
+[[v5-6-10]]
+
+^<<v5-6-10,10>>^ “Quando Jeová, seu Deus, o fizer entrar na terra que jurou aos seus antepassados — Abraão, Isaque e Jacó — que daria a você, uma terra com cidades grandes e boas, que você não construiu,
+
+[[v5-6-11]]
+
+^<<v5-6-11,11>>^ com casas cheias de todo tipo de coisas boas, pelas quais você não trabalhou, com cisternas que você não cavou, e com vinhedos e oliveiras que você não plantou, e você tiver comido e ficado satisfeito,
+
+[[v5-6-12]]
+
+^<<v5-6-12,12>>^ tome cuidado para não se esquecer de Jeová, que o tirou da terra do Egito, a terra da escravidão.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “casa dos escravos”.
+====
+
+[[v5-6-13]]
+
+^<<v5-6-13,13>>^ É a Jeová, seu Deus, que você deve temer, a ele deve servir, e pelo seu nome deve jurar.
+
+[[v5-6-14]]
+
+^<<v5-6-14,14>>^ Não sigam outros deuses, nenhum dos deuses dos povos ao seu redor,
+
+[[v5-6-15]]
+
+^<<v5-6-15,15>>^ pois Jeová, seu Deus, que está no seu meio, é um Deus que exige devoção exclusiva. Senão a ira de Jeová, seu Deus, se acenderá contra você e ele o exterminará da face da terra.
+
+[[v5-6-16]]
+
+^<<v5-6-16,16>>^ “Não ponham Jeová, seu Deus, à prova, assim como o puseram à prova em Massá.
+
+[[v5-6-17]]
+
+^<<v5-6-17,17>>^ Vocês devem obedecer cuidadosamente aos mandamentos de Jeová, seu Deus, às suas advertências^&#42;1^ e aos seus decretos, aos quais ele ordenou que vocês obedecessem.
+
+[NOTE]
+====
+. Ou: “aos seus lembretes”.
+====
+
+[[v5-6-18]]
+
+^<<v5-6-18,18>>^ Faça o que é certo e bom aos olhos de Jeová, para que você seja bem-sucedido, entre na boa terra que Jeová jurou aos seus antepassados e tome posse dela,
+
+[[v5-6-19]]
+
+^<<v5-6-19,19>>^ expulsando de diante de você todos os seus inimigos, assim como Jeová prometeu.
+
+[[v5-6-20]]
+
+^<<v5-6-20,20>>^ “No futuro, quando seu filho lhe perguntar: ‘O que significam as advertências,^&#42;1^ os decretos e as decisões judiciais que Jeová, nosso Deus, lhes ordenou?’
+
+[NOTE]
+====
+. Ou: “os lembretes”.
+====
+
+[[v5-6-21]]
+
+^<<v5-6-21,21>>^ então você dirá ao seu filho: ‘Nós nos tornamos escravos de Faraó, no Egito, mas Jeová nos tirou do Egito, com mão poderosa.
+
+[[v5-6-22]]
+
+^<<v5-6-22,22>>^ Jeová realizou sinais e milagres, grandes e devastadores, contra o Egito, contra Faraó e contra todos os da sua casa, diante dos nossos olhos.
+
+[[v5-6-23]]
+
+^<<v5-6-23,23>>^ E ele nos tirou de lá a fim de nos trazer para cá, para nos dar a terra que havia jurado aos nossos antepassados.
+
+[[v5-6-24]]
+
+^<<v5-6-24,24>>^ Então Jeová ordenou que cumpríssemos todos esses decretos e temêssemos a Jeová, nosso Deus, para o nosso bem eterno, a fim de que continuássemos vivos, assim como estamos hoje.
+
+[[v5-6-25]]
+
+^<<v5-6-25,25>>^ E seremos considerados justos se cuidarmos em cumprir todos esses mandamentos em obediência a^&#42;1^ Jeová, nosso Deus, assim como ele nos ordenou.’
+
+[NOTE]
+====
+. Lit.: “perante”.
+====
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-005.adoc#v5-5-0[&#60; Capítulo Anterior] | <<v5-6-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-007.adoc#v5-7-0[Próximo Capítulo &#62;]

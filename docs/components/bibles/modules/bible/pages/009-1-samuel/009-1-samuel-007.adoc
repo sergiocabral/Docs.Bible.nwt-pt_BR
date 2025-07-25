@@ -1,0 +1,88 @@
+include::./index.adoc[]
+
+[[v9-7-0]]
+=== O Primeiro de Samuel, 7
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v9-7-1]]
+
+^<<v9-7-1,1>>^ Assim, os homens de Quiriate-Jearim vieram e levaram a Arca de Jeová para a casa de Abinadabe, na colina. E eles santificaram Eleazar, seu filho, para guardar a Arca de Jeová.
+
+[[v9-7-2]]
+
+^<<v9-7-2,2>>^ Muito tempo se passou, 20 anos ao todo, desde que a Arca chegou a Quiriate-Jearim, e toda a casa de Israel começou a buscar a^&#42;1^ Jeová.
+
+[NOTE]
+====
+. Ou: “lamentar diante de”.
+====
+
+[[v9-7-3]]
+
+^<<v9-7-3,3>>^ Samuel disse então a toda a casa de Israel: “Se é de todo o coração que vocês voltam para Jeová, eliminem do seu meio os deuses estrangeiros e as imagens de Astorete; voltem firmemente seu coração para Jeová, servindo apenas a ele, e ele os livrará das mãos dos filisteus.”
+
+[[v9-7-4]]
+
+^<<v9-7-4,4>>^ Assim, os israelitas se livraram das imagens de Baal e de Astorete, e serviram somente a Jeová.
+
+[[v9-7-5]]
+
+^<<v9-7-5,5>>^ Então Samuel disse: “Reúnam todo o Israel em Mispá, e eu vou orar a Jeová por vocês.”
+
+[[v9-7-6]]
+
+^<<v9-7-6,6>>^ Assim, eles se reuniram em Mispá, tiraram água e a derramaram perante Jeová; também jejuaram naquele dia. Ali eles disseram: “Pecamos contra Jeová.” E Samuel começou a servir como juiz para os israelitas em Mispá.
+
+[[v9-7-7]]
+
+^<<v9-7-7,7>>^ Quando os filisteus ficaram sabendo que os israelitas tinham se reunido em Mispá, os governantes dos filisteus subiram contra Israel. Ao saberem disso, os israelitas ficaram com medo dos filisteus.
+
+[[v9-7-8]]
+
+^<<v9-7-8,8>>^ De modo que os israelitas disseram a Samuel: “Não pare de clamar a Jeová, nosso Deus, para que ele nos ajude e nos salve das mãos dos filisteus.”
+
+[[v9-7-9]]
+
+^<<v9-7-9,9>>^ Então Samuel pegou um cordeiro que ainda mamava e o ofereceu a Jeová como oferta queimada inteira; e Samuel clamou a Jeová por ajuda a favor de Israel, e Jeová lhe respondeu.
+
+[[v9-7-10]]
+
+^<<v9-7-10,10>>^ Enquanto Samuel fazia a oferta queimada, os filisteus avançaram para lutar contra Israel. Naquele dia Jeová mandou uma forte trovoada contra os filisteus e os lançou em confusão, e eles foram derrotados diante de Israel.
+
+[[v9-7-11]]
+
+^<<v9-7-11,11>>^ Em vista disso, os homens de Israel saíram de Mispá e perseguiram os filisteus até a região ao sul de Bete-Car, matando-os pelo caminho.
+
+[[v9-7-12]]
+
+^<<v9-7-12,12>>^ Samuel pegou então uma pedra e a pôs entre Mispá e Jesana, e a chamou de Ebenezer,^&#42;1^ dizendo: “Até agora Jeová nos ajudou.”
+
+[NOTE]
+====
+. Que significa “pedra de ajuda”.
+====
+
+[[v9-7-13]]
+
+^<<v9-7-13,13>>^ Assim, os filisteus foram dominados e não invadiram mais o território de Israel; e a mão de Jeová continuou contra os filisteus todos os dias de Samuel.
+
+[[v9-7-14]]
+
+^<<v9-7-14,14>>^ Além disso, as cidades que os filisteus haviam tomado de Israel foram devolvidas a Israel, desde Ecrom até Gate, e Israel recuperou o território delas das mãos dos filisteus.
+E também houve paz entre Israel e os amorreus.
+
+[[v9-7-15]]
+
+^<<v9-7-15,15>>^ Samuel continuou a julgar Israel por toda a sua vida.
+
+[[v9-7-16]]
+
+^<<v9-7-16,16>>^ Todo ano ele percorria o circuito de Betel, Gilgal e Mispá, julgando Israel em todos esses lugares.
+
+[[v9-7-17]]
+
+^<<v9-7-17,17>>^ Mas voltava a Ramá, porque era ali que ficava sua casa e ali ele também julgava Israel. E em Ramá ele construiu um altar a Jeová.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-006.adoc#v9-6-0[&#60; Capítulo Anterior] | <<v9-7-0,Topo>> | xref:009-1-samuel/009-1-samuel-008.adoc#v9-8-0[Próximo Capítulo &#62;]

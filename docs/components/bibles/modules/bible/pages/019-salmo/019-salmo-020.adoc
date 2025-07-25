@@ -1,0 +1,83 @@
+include::./index.adoc[]
+
+[[v19-20-0]]
+=== Salmos, 20
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Ao regente. Salmo de Davi._
+
+[[v19-20-1]]
+
+^<<v19-20-1,1>>^ Que Jeová lhe^&#42;1^ responda no dia da aflição.
+Que o nome do Deus de Jacó o proteja.
+
+[NOTE]
+====
+. Nos vv. 1-5 o povo, pelo visto, se dirige ao rei.
+====
+
+[[v19-20-2]]
+
+^<<v19-20-2,2>>^ Que do lugar santo ele lhe envie ajuda,
+E de Sião o ampare.
+
+[[v19-20-3]]
+
+^<<v19-20-3,3>>^ Que ele se lembre de todas as suas ofertas
+E aceite com prazer^&#42;1^ os seus sacrifícios queimados. (Selá)
+
+[NOTE]
+====
+. Lit.: “considere como sendo gordura”.
+====
+
+[[v19-20-4]]
+
+^<<v19-20-4,4>>^ Que ele lhe conceda os desejos do seu coração
+E torne bem-sucedidos todos os seus planos.^&#42;1^
+
+[NOTE]
+====
+. Ou: “conselhos”.
+====
+
+[[v19-20-5]]
+
+^<<v19-20-5,5>>^ Gritaremos de alegria pelos seus^&#42;1^ atos de salvação;
+Levantaremos os nossos estandartes em nome do nosso Deus.
+Que Jeová atenda a todos os seus pedidos.
+
+[NOTE]
+====
+. Ou: “teus”.
+====
+
+[[v19-20-6]]
+
+^<<v19-20-6,6>>^ Agora sei que Jeová salva o seu ungido.
+Ele lhe responde dos seus santos céus
+Com grande salvação^&#42;1^ pela sua mão direita.
+
+[NOTE]
+====
+. Ou: “grandes vitórias”.
+====
+
+[[v19-20-7]]
+
+^<<v19-20-7,7>>^ Alguns confiam em carros de guerra, outros em cavalos;
+Mas nós invocamos o nome de Jeová, nosso Deus.
+
+[[v19-20-8]]
+
+^<<v19-20-8,8>>^ Eles sucumbiram e caíram,
+Mas nós nos levantamos e ficamos firmes.
+
+[[v19-20-9]]
+
+^<<v19-20-9,9>>^ Ó Jeová, salva o rei!
+Ele nos responderá no dia em que clamarmos por ajuda.
+
+'''
+
+xref:019-salmo/019-salmo-019.adoc#v19-19-0[&#60; Capítulo Anterior] | <<v19-20-0,Topo>> | xref:019-salmo/019-salmo-021.adoc#v19-21-0[Próximo Capítulo &#62;]

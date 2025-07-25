@@ -1,0 +1,327 @@
+include::./index.adoc[]
+
+[[v15-2-0]]
+=== Esdras, 2
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v15-2-1]]
+
+^<<v15-2-1,1>>^ E estes foram os homens da província^&#42;1^ que saíram do cativeiro, dentre os exilados que Nabucodonosor, rei de Babilônia, tinha levado para o exílio em Babilônia. Eles voltaram para Jerusalém e para Judá, cada um para a sua própria cidade.
+
+[NOTE]
+====
+. Ou: “do distrito jurisdicional”, possivelmente o de Babilônia.
+====
+
+[[v15-2-2]]
+
+^<<v15-2-2,2>>^ Vieram com Zorobabel, Jesua, Neemias, Seraías, Reelaías, Mordecai, Bilsã, Mispar, Bigvai, Reum e Baaná.
+O número dos homens israelitas incluía:
+
+[[v15-2-3]]
+
+^<<v15-2-3,3>>^ os filhos de Parós, 2.172;
+
+[[v15-2-4]]
+
+^<<v15-2-4,4>>^ os filhos de Sefatias, 372;
+
+[[v15-2-5]]
+
+^<<v15-2-5,5>>^ os filhos de Ará, 775;
+
+[[v15-2-6]]
+
+^<<v15-2-6,6>>^ os filhos de Paate-Moabe, dos filhos de Jesua e de Joabe, 2.812;
+
+[[v15-2-7]]
+
+^<<v15-2-7,7>>^ os filhos de Elão, 1.254;
+
+[[v15-2-8]]
+
+^<<v15-2-8,8>>^ os filhos de Zatu, 945;
+
+[[v15-2-9]]
+
+^<<v15-2-9,9>>^ os filhos de Zacai, 760;
+
+[[v15-2-10]]
+
+^<<v15-2-10,10>>^ os filhos de Bani, 642;
+
+[[v15-2-11]]
+
+^<<v15-2-11,11>>^ os filhos de Bebai, 623;
+
+[[v15-2-12]]
+
+^<<v15-2-12,12>>^ os filhos de Azgade, 1.222;
+
+[[v15-2-13]]
+
+^<<v15-2-13,13>>^ os filhos de Adonicão, 666;
+
+[[v15-2-14]]
+
+^<<v15-2-14,14>>^ os filhos de Bigvai, 2.056;
+
+[[v15-2-15]]
+
+^<<v15-2-15,15>>^ os filhos de Adim, 454;
+
+[[v15-2-16]]
+
+^<<v15-2-16,16>>^ os filhos de Ater, da casa de Ezequias, 98;
+
+[[v15-2-17]]
+
+^<<v15-2-17,17>>^ os filhos de Bezai, 323;
+
+[[v15-2-18]]
+
+^<<v15-2-18,18>>^ os filhos de Jora, 112;
+
+[[v15-2-19]]
+
+^<<v15-2-19,19>>^ os filhos de Hasum, 223;
+
+[[v15-2-20]]
+
+^<<v15-2-20,20>>^ os filhos de Gibar, 95;
+
+[[v15-2-21]]
+
+^<<v15-2-21,21>>^ os filhos de Belém, 123;
+
+[[v15-2-22]]
+
+^<<v15-2-22,22>>^ os homens de Netofa, 56;
+
+[[v15-2-23]]
+
+^<<v15-2-23,23>>^ os homens de Anatote, 128;
+
+[[v15-2-24]]
+
+^<<v15-2-24,24>>^ os filhos de Azmavete, 42;
+
+[[v15-2-25]]
+
+^<<v15-2-25,25>>^ os filhos de Quiriate-Jearim, de Quefira e de Beerote, 743;
+
+[[v15-2-26]]
+
+^<<v15-2-26,26>>^ os filhos de Ramá e de Geba, 621;
+
+[[v15-2-27]]
+
+^<<v15-2-27,27>>^ os homens de Micmás, 122;
+
+[[v15-2-28]]
+
+^<<v15-2-28,28>>^ os homens de Betel e de Ai, 223;
+
+[[v15-2-29]]
+
+^<<v15-2-29,29>>^ os filhos de Nebo, 52;
+
+[[v15-2-30]]
+
+^<<v15-2-30,30>>^ os filhos de Magbis, 156;
+
+[[v15-2-31]]
+
+^<<v15-2-31,31>>^ os filhos do outro Elão, 1.254;
+
+[[v15-2-32]]
+
+^<<v15-2-32,32>>^ os filhos de Harim, 320;
+
+[[v15-2-33]]
+
+^<<v15-2-33,33>>^ os filhos de Lode, de Hadide e de Ono, 725;
+
+[[v15-2-34]]
+
+^<<v15-2-34,34>>^ os filhos de Jericó, 345;
+
+[[v15-2-35]]
+
+^<<v15-2-35,35>>^ e os filhos de Senaá, 3.630.
+
+[[v15-2-36]]
+
+^<<v15-2-36,36>>^ Os sacerdotes: os filhos de Jedaías, da casa de Jesua, 973;
+
+[[v15-2-37]]
+
+^<<v15-2-37,37>>^ os filhos de Imer, 1.052;
+
+[[v15-2-38]]
+
+^<<v15-2-38,38>>^ os filhos de Pasur, 1.247;
+
+[[v15-2-39]]
+
+^<<v15-2-39,39>>^ e os filhos de Harim, 1.017.
+
+[[v15-2-40]]
+
+^<<v15-2-40,40>>^ Os levitas: os filhos de Jesua e de Cadmiel, dos filhos de Hodavias, 74.
+
+[[v15-2-41]]
+
+^<<v15-2-41,41>>^ Os cantores: os filhos de Asafe, 128.
+
+[[v15-2-42]]
+
+^<<v15-2-42,42>>^ Os filhos dos porteiros: os filhos de Salum, os filhos de Ater, os filhos de Talmom, os filhos de Acube, os filhos de Hatita e os filhos de Sobai; ao todo 139.
+
+[[v15-2-43]]
+
+^<<v15-2-43,43>>^ Os servos do templo:^&#42;1^ os filhos de Ziá, os filhos de Hasufa, os filhos de Tabaote,
+
+[NOTE]
+====
+. Ou: “Os netineus”. Lit.: “Os que foram dados”.
+====
+
+[[v15-2-44]]
+
+^<<v15-2-44,44>>^ os filhos de Queros, os filhos de Siá, os filhos de Padom,
+
+[[v15-2-45]]
+
+^<<v15-2-45,45>>^ os filhos de Lebana, os filhos de Hagaba, os filhos de Acube,
+
+[[v15-2-46]]
+
+^<<v15-2-46,46>>^ os filhos de Hagabe, os filhos de Salmai, os filhos de Hanã,
+
+[[v15-2-47]]
+
+^<<v15-2-47,47>>^ os filhos de Gidel, os filhos de Gaar, os filhos de Reaías,
+
+[[v15-2-48]]
+
+^<<v15-2-48,48>>^ os filhos de Rezim, os filhos de Necoda, os filhos de Gazão,
+
+[[v15-2-49]]
+
+^<<v15-2-49,49>>^ os filhos de Uza, os filhos de Paseia, os filhos de Besai,
+
+[[v15-2-50]]
+
+^<<v15-2-50,50>>^ os filhos de Asná, os filhos de Meunim, os filhos de Nefusim,
+
+[[v15-2-51]]
+
+^<<v15-2-51,51>>^ os filhos de Bacbuque, os filhos de Hacufa, os filhos de Harur,
+
+[[v15-2-52]]
+
+^<<v15-2-52,52>>^ os filhos de Baslute, os filhos de Meída, os filhos de Harsa,
+
+[[v15-2-53]]
+
+^<<v15-2-53,53>>^ os filhos de Barcos, os filhos de Sísera, os filhos de Tema,
+
+[[v15-2-54]]
+
+^<<v15-2-54,54>>^ os filhos de Neziá e os filhos de Hatifa.
+
+[[v15-2-55]]
+
+^<<v15-2-55,55>>^ Os filhos dos servos de Salomão: os filhos de Sotai, os filhos de Soferete, os filhos de Peruda,
+
+[[v15-2-56]]
+
+^<<v15-2-56,56>>^ os filhos de Jaala, os filhos de Darcom, os filhos de Gidel,
+
+[[v15-2-57]]
+
+^<<v15-2-57,57>>^ os filhos de Sefatias, os filhos de Hatil, os filhos de Poquerete-Hazebaim e os filhos de Ami.
+
+[[v15-2-58]]
+
+^<<v15-2-58,58>>^ Todos os servos do templo^&#42;1^ e os filhos dos servos de Salomão foram 392.
+
+[NOTE]
+====
+. Ou: “os netineus”. Lit.: “os que foram dados”.
+====
+
+[[v15-2-59]]
+
+^<<v15-2-59,59>>^ Os alistados a seguir subiram de Tel-Melá, Tel-Harsa, Querube, Adom e Imer, mas não foram capazes de comprovar a sua casa paterna e a sua origem, se eram israelitas ou não:
+
+[[v15-2-60]]
+
+^<<v15-2-60,60>>^ os filhos de Delaías, os filhos de Tobias e os filhos de Necoda, 652;
+
+[[v15-2-61]]
+
+^<<v15-2-61,61>>^ e dentre os filhos dos sacerdotes: os filhos de Habaías, os filhos de Hacoz e os filhos de Barzilai, que tomou uma esposa dentre as filhas de Barzilai, o gileadita, e adotou o nome dessa família.
+
+[[v15-2-62]]
+
+^<<v15-2-62,62>>^ Todos esses procuraram os seus registros para confirmar a sua genealogia, mas não os acharam. Assim, foram desqualificados para o sacerdócio.^&#42;1^
+
+[NOTE]
+====
+. Ou: “foram excluídos do sacerdócio como impuros”.
+====
+
+[[v15-2-63]]
+
+^<<v15-2-63,63>>^ O governador^&#42;1^ lhes disse que não poderiam comer das coisas santíssimas até que houvesse um sacerdote para consultar o Urim e o Tumim.
+
+[NOTE]
+====
+. Ou: “Tirsata”, título persa do governador de uma província.
+====
+
+[[v15-2-64]]
+
+^<<v15-2-64,64>>^ A congregação inteira somava 42.360,
+
+[[v15-2-65]]
+
+^<<v15-2-65,65>>^ sem contar os seus escravos e as suas escravas, que eram 7.337; e havia também 200 cantores e cantoras.
+
+[[v15-2-66]]
+
+^<<v15-2-66,66>>^ Seus cavalos eram 736; suas mulas, 245;
+
+[[v15-2-67]]
+
+^<<v15-2-67,67>>^ seus camelos, 435; e seus jumentos, 6.720.
+
+[[v15-2-68]]
+
+^<<v15-2-68,68>>^ Ao chegarem à casa de Jeová, em Jerusalém, alguns dos cabeças das casas paternas fizeram ofertas voluntárias para a casa do verdadeiro Deus, para que ela fosse reconstruída no seu lugar.
+
+[[v15-2-69]]
+
+^<<v15-2-69,69>>^ Segundo os seus recursos, eles deram ao tesouro da obra 61.000 dracmas^&#42;1^ de ouro, 5.000 minas^&#42;2^ de prata e 100 vestes compridas para os sacerdotes.
+
+[NOTE]
+====
+. Em geral, equivalia a um darico persa de ouro, que pesava 8,4 g. Não é a dracma das Escrituras Gregas. Veja Ap. B14.
+. Uma mina nas Escrituras Hebraicas equivalia a 570 g. Veja Ap. B14.
+====
+
+[[v15-2-70]]
+
+^<<v15-2-70,70>>^ Então os sacerdotes, os levitas e alguns do povo, e também os cantores, os porteiros e os servos do templo,^&#42;1^ se estabeleceram nas suas cidades. E o restante dos israelitas^&#42;2^ se estabeleceu nas suas cidades.
+
+[NOTE]
+====
+. Ou: “os netineus”. Lit.: “os que foram dados”.
+. Lit.: “E todo o Israel”.
+====
+
+'''
+
+xref:015-esdras/015-esdras-001.adoc#v15-1-0[&#60; Capítulo Anterior] | <<v15-2-0,Topo>> | xref:015-esdras/015-esdras-003.adoc#v15-3-0[Próximo Capítulo &#62;]

@@ -1,0 +1,51 @@
+include::./index.adoc[]
+
+[[v3-12-0]]
+=== Levítico, 12
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v3-12-1]]
+
+^<<v3-12-1,1>>^ Jeová disse a Moisés:
+
+[[v3-12-2]]
+
+^<<v3-12-2,2>>^ “Diga aos israelitas: ‘Se uma mulher ficar grávida^&#42;1^ e der à luz um menino, ela ficará impura por sete dias, assim como nos dias da sua impureza menstrual.
+
+[NOTE]
+====
+. Ou: “conceber semente”, isto é, um descendente.
+====
+
+[[v3-12-3]]
+
+^<<v3-12-3,3>>^ No oitavo dia, o prepúcio dele será circuncidado.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “a carne do prepúcio dele será circuncidada”.
+====
+
+[[v3-12-4]]
+
+^<<v3-12-4,4>>^ Ela continuará se purificando do sangue pelos próximos 33 dias. Não deve tocar em nada santo, nem deve entrar no lugar santo até completar os dias da sua purificação.
+
+[[v3-12-5]]
+
+^<<v3-12-5,5>>^ “‘Se ela der à luz uma menina, ficará impura por 14 dias, assim como durante a sua menstruação. Ela continuará se purificando do sangue pelos próximos 66 dias.
+
+[[v3-12-6]]
+
+^<<v3-12-6,6>>^ Quando se completarem os dias da sua purificação por causa de um filho ou de uma filha, ela levará ao sacerdote, à entrada da tenda de reunião, um carneirinho no primeiro ano de vida, para a oferta queimada, e um pombo novo ou uma rola, para a oferta pelo pecado.
+
+[[v3-12-7]]
+
+^<<v3-12-7,7>>^ Ele os apresentará perante Jeová e fará expiação por ela, e ela ficará purificada do seu fluxo de sangue. Essa é a lei a respeito da mulher que der à luz quer um menino, quer uma menina.
+
+[[v3-12-8]]
+
+^<<v3-12-8,8>>^ Mas, se ela não tiver recursos para oferecer um carneirinho, terá de levar duas rolas ou dois pombos novos, uma ave para a oferta queimada e a outra para a oferta pelo pecado, e o sacerdote fará expiação por ela, e ela ficará pura.’”
+
+'''
+
+xref:003-levitico/003-levitico-011.adoc#v3-11-0[&#60; Capítulo Anterior] | <<v3-12-0,Topo>> | xref:003-levitico/003-levitico-013.adoc#v3-13-0[Próximo Capítulo &#62;]

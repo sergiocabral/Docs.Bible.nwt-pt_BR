@@ -1,0 +1,152 @@
+include::./index.adoc[]
+
+[[v24-1-0]]
+=== Jeremias, 1
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v24-1-1]]
+
+^<<v24-1-1,1>>^ Estas são as palavras de Jeremias,^&#42;1^ filho de Hilquias, um dos sacerdotes de Anatote, na terra de Benjamim.
+
+[NOTE]
+====
+. Que possivelmente significa “Jeová exalta”.
+====
+
+[[v24-1-2]]
+
+^<<v24-1-2,2>>^ Ele recebeu a palavra de Jeová nos dias de Josias, filho de Amom e rei de Judá, no décimo terceiro ano do seu reinado.
+
+[[v24-1-3]]
+
+^<<v24-1-3,3>>^ Ele também a recebeu nos dias de Jeoiaquim, filho de Josias e rei de Judá, até o fim do décimo primeiro ano de Zedequias, filho de Josias e rei de Judá, no quinto mês, quando Jerusalém foi para o exílio.
+
+[[v24-1-4]]
+
+^<<v24-1-4,4>>^ Eu recebi a seguinte palavra de Jeová:
+
+[[v24-1-5]]
+
+^<<v24-1-5,5>>^ “Antes de formá-lo no ventre da sua mãe, eu já conhecia^&#42;1^ você;
+E, antes de você nascer,^&#42;2^ eu o santifiquei.^&#42;3^
+Eu o fiz profeta para as nações.”
+
+[NOTE]
+====
+. Ou: “tinha escolhido”.
+. Lit.: “antes de você sair do ventre”.
+. Ou: “pus à parte”.
+====
+
+[[v24-1-6]]
+
+^<<v24-1-6,6>>^ Mas eu disse: “Ai, Soberano Senhor Jeová!
+Eu não sei falar, pois sou apenas um rapaz.”^&#42;1^
+
+[NOTE]
+====
+. Ou: “jovem”.
+====
+
+[[v24-1-7]]
+
+^<<v24-1-7,7>>^ Então Jeová me disse:
+“Não diga: ‘Sou apenas um rapaz.’
+Pois você tem de ir a todos a quem eu o enviar,
+E deve dizer tudo o que eu lhe ordenar.
+
+[[v24-1-8]]
+
+^<<v24-1-8,8>>^ Não tenha medo deles,^&#42;1^
+Pois ‘eu estou com você para livrá-lo’, diz Jeová.”
+
+[NOTE]
+====
+. Ou: “da face deles”.
+====
+
+[[v24-1-9]]
+
+^<<v24-1-9,9>>^ Então Jeová estendeu a mão e tocou na minha boca. E Jeová me disse: “Estou pondo as minhas palavras na sua boca.
+
+[[v24-1-10]]
+
+^<<v24-1-10,10>>^ Eu lhe dou no dia de hoje autoridade sobre as nações e os reinos, para arrancar e demolir, para destruir e derrubar, para edificar e plantar.”
+
+[[v24-1-11]]
+
+^<<v24-1-11,11>>^ Recebi novamente a palavra de Jeová: “O que você está vendo, Jeremias?” E eu respondi: “Estou vendo um ramo de amendoeira.”^&#42;1^
+
+[NOTE]
+====
+. Lit.: “de um que desperta”.
+====
+
+[[v24-1-12]]
+
+^<<v24-1-12,12>>^ Jeová me disse: “Você viu bem, pois eu me mantenho desperto para cumprir a minha palavra.”
+
+[[v24-1-13]]
+
+^<<v24-1-13,13>>^ Então recebi pela segunda vez a palavra de Jeová: “O que você está vendo?” De modo que eu respondi: “Estou vendo um caldeirão^&#42;1^ fervendo,^&#42;2^ e sua boca está inclinada do norte para cá.”
+
+[NOTE]
+====
+. Ou: “uma panela de boca larga”.
+. Lit.: “soprado”, indicando que o fogo embaixo dele está sendo atiçado.
+====
+
+[[v24-1-14]]
+
+^<<v24-1-14,14>>^ Então Jeová me disse:
+“Do norte será solta a calamidade
+Contra todos os habitantes do país.
+
+[[v24-1-15]]
+
+^<<v24-1-15,15>>^ Pois ‘estou convocando todas as tribos^&#42;1^ dos reinos do norte’, diz Jeová.
+‘E eles virão; cada um colocará o seu trono
+Na entrada dos portões de Jerusalém,
+Contra todas as suas muralhas ao redor
+E contra todas as cidades de Judá.
+
+[NOTE]
+====
+. Ou: “famílias”.
+====
+
+[[v24-1-16]]
+
+^<<v24-1-16,16>>^ E vou proferir os meus julgamentos contra elas por causa de toda a sua maldade,
+Visto que me abandonaram
+E estão fazendo fumaça sacrificial a outros deuses,
+E curvando-se diante das obras das suas próprias mãos.’
+
+[[v24-1-17]]
+
+^<<v24-1-17,17>>^ Mas você deve se preparar;^&#42;1^
+Levante-se e diga a eles tudo o que eu lhe ordenar.
+Não se apavore por causa deles,
+Para que eu não o deixe apavorado diante deles.
+
+[NOTE]
+====
+. Lit.: “cingir os seus quadris”.
+====
+
+[[v24-1-18]]
+
+^<<v24-1-18,18>>^ Pois hoje faço de você uma cidade fortificada,
+Uma coluna de ferro e muralhas de cobre, para resistir a todo o país:
+Os reis de Judá e os seus príncipes,
+Os seus sacerdotes e o povo da terra.
+
+[[v24-1-19]]
+
+^<<v24-1-19,19>>^ E eles certamente lutarão contra você,
+Mas não o vencerão,
+Pois ‘eu estou com você’, diz Jeová, ‘para salvá-lo’.”
+
+'''
+
+xref:023-isaias/023-isaias-066.adoc#v23-66-0[&#60; Capítulo Anterior] | <<v24-1-0,Topo>> | xref:024-jeremias/024-jeremias-002.adoc#v24-2-0[Próximo Capítulo &#62;]

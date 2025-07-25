@@ -1,0 +1,44 @@
+include::./index.adoc[]
+
+[[v19-125-0]]
+=== Salmos, 125
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Cântico das Subidas._
+
+[[v19-125-1]]
+
+^<<v19-125-1,1>>^ Os que confiam em Jeová
+São como o monte Sião, que não pode ser abalado,
+Mas permanece para sempre.
+
+[[v19-125-2]]
+
+^<<v19-125-2,2>>^ Assim como os montes estão ao redor de Jerusalém,
+Assim Jeová está ao redor do seu povo,
+Desde agora e para sempre.
+
+[[v19-125-3]]
+
+^<<v19-125-3,3>>^ O cetro da maldade não permanecerá sobre a terra dada aos justos,
+Para que os justos não passem a fazer^&#42;1^ o que é errado.
+
+[NOTE]
+====
+. Ou: “não voltem suas mãos para”.
+====
+
+[[v19-125-4]]
+
+^<<v19-125-4,4>>^ Ó Jeová, faz o bem aos que são bons,
+Aos que são retos no coração.
+
+[[v19-125-5]]
+
+^<<v19-125-5,5>>^ Quanto aos que se desviam para seguir caminhos tortuosos,
+Jeová os eliminará junto com os malfeitores.
+Que haja paz sobre Israel!
+
+'''
+
+xref:019-salmo/019-salmo-124.adoc#v19-124-0[&#60; Capítulo Anterior] | <<v19-125-0,Topo>> | xref:019-salmo/019-salmo-126.adoc#v19-126-0[Próximo Capítulo &#62;]

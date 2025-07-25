@@ -1,0 +1,123 @@
+include::./index.adoc[]
+
+[[v1-8-0]]
+=== Gênesis, 8
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v1-8-1]]
+
+^<<v1-8-1,1>>^ Mas Deus voltou a atenção a^&#42;1^ Noé, a todos os animais selvagens e a todos os animais domésticos que estavam com ele na arca, e Deus fez soprar um vento sobre a terra, e as águas começaram a baixar.
+
+[NOTE]
+====
+. Lit.: “se lembrou de”.
+====
+
+[[v1-8-2]]
+
+^<<v1-8-2,2>>^ Fecharam-se os mananciais das águas profundas e as comportas dos céus; assim a chuva parou de cair.^&#42;1^
+
+[NOTE]
+====
+. Ou: “assim se conteve a chuva vinda dos céus”.
+====
+
+[[v1-8-3]]
+
+^<<v1-8-3,3>>^ Então as águas começaram a baixar progressivamente de cima da terra. Ao fim de 150 dias, as águas tinham diminuído.
+
+[[v1-8-4]]
+
+^<<v1-8-4,4>>^ No sétimo mês, no dia 17 do mês, a arca pousou nas montanhas de Ararate.
+
+[[v1-8-5]]
+
+^<<v1-8-5,5>>^ E as águas baixaram continuamente até o décimo mês. No décimo mês, no primeiro dia do mês, apareceram os cumes das montanhas.
+
+[[v1-8-6]]
+
+^<<v1-8-6,6>>^ Então, ao fim de 40 dias, Noé abriu a janela que tinha feito na arca
+
+[[v1-8-7]]
+
+^<<v1-8-7,7>>^ e soltou um corvo; ele voava do lado de fora e voltava, até secarem as águas que estavam sobre a terra.
+
+[[v1-8-8]]
+
+^<<v1-8-8,8>>^ Mais tarde ele soltou uma pomba para ver se as águas tinham baixado na superfície do solo.
+
+[[v1-8-9]]
+
+^<<v1-8-9,9>>^ A pomba não achou lugar para pousar^&#42;1^ e assim voltou a ele na arca, porque a água ainda cobria a superfície de toda a terra. Então ele estendeu a mão para fora e trouxe a pomba para dentro da arca.
+
+[NOTE]
+====
+. Ou: “para a planta do seu pé”.
+====
+
+[[v1-8-10]]
+
+^<<v1-8-10,10>>^ Ele esperou mais sete dias e soltou novamente a pomba fora da arca.
+
+[[v1-8-11]]
+
+^<<v1-8-11,11>>^ Quando a pomba retornou a ele, perto do anoitecer, ele viu que havia no seu bico uma folha de oliveira recém-arrancada. Assim Noé soube que as águas tinham baixado de cima da terra.
+
+[[v1-8-12]]
+
+^<<v1-8-12,12>>^ Ele esperou mais sete dias. Soltou então a pomba, mas ela não voltou mais a ele.
+
+[[v1-8-13]]
+
+^<<v1-8-13,13>>^ Então, no seiscentésimo primeiro ano, no primeiro mês, no primeiro dia do mês, as águas tinham escoado da terra; e Noé removeu a cobertura da arca e viu que a superfície do solo estava secando.
+
+[[v1-8-14]]
+
+^<<v1-8-14,14>>^ No segundo mês, no dia 27 do mês, a terra havia secado completamente.
+
+[[v1-8-15]]
+
+^<<v1-8-15,15>>^ Deus disse então a Noé:
+
+[[v1-8-16]]
+
+^<<v1-8-16,16>>^ “Saia da arca com sua esposa, seus filhos e as esposas dos seus filhos.
+
+[[v1-8-17]]
+
+^<<v1-8-17,17>>^ Leve para fora com você todas as criaturas viventes, de todo tipo, as criaturas voadoras, os animais e os animais rasteiros da terra, para que eles se multipliquem^&#42;1^ na terra, se reproduzam e se tornem muitos na terra.”
+
+[NOTE]
+====
+. Ou: “eles fervilhem”.
+====
+
+[[v1-8-18]]
+
+^<<v1-8-18,18>>^ Assim Noé saiu, junto com seus filhos, sua esposa e as esposas dos seus filhos.
+
+[[v1-8-19]]
+
+^<<v1-8-19,19>>^ Toda criatura vivente, todo animal rasteiro e toda criatura voadora, tudo o que se move sobre a terra saiu da arca segundo as suas famílias.
+
+[[v1-8-20]]
+
+^<<v1-8-20,20>>^ Então Noé construiu um altar a Jeová e pegou alguns de todos os animais puros e de todas as criaturas voadoras puras, e fez ofertas queimadas no altar.
+
+[[v1-8-21]]
+
+^<<v1-8-21,21>>^ E Jeová começou a sentir um aroma agradável.^&#42;1^ Então, Jeová disse no seu coração: “Nunca mais amaldiçoarei^&#42;2^ o solo por causa do homem, pois a inclinação do coração do homem é má desde a sua juventude; e nunca mais destruirei todos os seres vivos assim como fiz.
+
+[NOTE]
+====
+. Ou: “apaziguador; calmante”. Lit.: “repousante”.
+. Ou: “invocarei o mal sobre”.
+====
+
+[[v1-8-22]]
+
+^<<v1-8-22,22>>^ Por todos os dias que a terra durar, ela nunca deixará de ter semeadura e colheita, frio e calor, verão e inverno, dia e noite.”
+
+'''
+
+xref:001-genesis/001-genesis-007.adoc#v1-7-0[&#60; Capítulo Anterior] | <<v1-8-0,Topo>> | xref:001-genesis/001-genesis-009.adoc#v1-9-0[Próximo Capítulo &#62;]

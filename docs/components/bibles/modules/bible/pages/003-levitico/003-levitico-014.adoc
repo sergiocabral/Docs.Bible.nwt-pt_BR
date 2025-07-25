@@ -1,0 +1,263 @@
+include::./index.adoc[]
+
+[[v3-14-0]]
+=== Levítico, 14
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v3-14-1]]
+
+^<<v3-14-1,1>>^ Jeová também disse a Moisés:
+
+[[v3-14-2]]
+
+^<<v3-14-2,2>>^ “Esta é a lei para o leproso no dia de ele ser declarado puro, quando for levado ao sacerdote.
+
+[[v3-14-3]]
+
+^<<v3-14-3,3>>^ O sacerdote sairá do acampamento e o examinará. Se o leproso estiver curado da lepra,
+
+[[v3-14-4]]
+
+^<<v3-14-4,4>>^ o sacerdote ordenará que ele traga duas aves puras, vivas, madeira de cedro, tecido escarlate e hissopo, para a sua purificação.
+
+[[v3-14-5]]
+
+^<<v3-14-5,5>>^ O sacerdote ordenará que uma das aves seja morta sobre um recipiente de barro contendo água tirada de uma fonte.
+
+[[v3-14-6]]
+
+^<<v3-14-6,6>>^ Depois ele deve pegar a ave viva, bem como a madeira de cedro, o tecido escarlate e o hissopo, e deve mergulhá-los no sangue da ave que foi morta sobre a água da fonte.
+
+[[v3-14-7]]
+
+^<<v3-14-7,7>>^ Então ele aspergirá o sangue sete vezes sobre aquele que se purifica da lepra e o declarará puro. Depois soltará a ave viva em campo aberto.
+
+[[v3-14-8]]
+
+^<<v3-14-8,8>>^ “Aquele que se purifica terá de lavar suas roupas, raspar o corpo inteiro e se banhar em água, e assim ficará puro. Depois poderá entrar no acampamento, mas ficará fora da sua tenda por sete dias.
+
+[[v3-14-9]]
+
+^<<v3-14-9,9>>^ No sétimo dia, ele deve raspar a cabeça inteira, o queixo e as sobrancelhas. Depois de raspar o corpo inteiro, lavará suas roupas e se banhará em água, e assim ficará puro.
+
+[[v3-14-10]]
+
+^<<v3-14-10,10>>^ “No oitavo dia, ele pegará dois carneirinhos sadios, uma cordeira sadia no primeiro ano de vida, três décimos de uma efa^&#42;1^ de farinha fina misturada com azeite, como oferta de cereais, e um logue^&#42;2^ de azeite.
+
+[NOTE]
+====
+. Três décimos de uma efa equivaliam a 6,6 l. Veja Ap. B14.
+. Um logue equivalia a 0,31 l. Veja Ap. B14.
+====
+
+[[v3-14-11]]
+
+^<<v3-14-11,11>>^ O sacerdote que o declarar puro apresentará perante Jeová, à entrada da tenda de reunião, o homem que se purifica, junto com essas ofertas.
+
+[[v3-14-12]]
+
+^<<v3-14-12,12>>^ O sacerdote pegará um dos carneirinhos e o oferecerá como oferta pela culpa, junto com o logue de azeite, e os moverá para frente e para trás como oferta movida perante Jeová.
+
+[[v3-14-13]]
+
+^<<v3-14-13,13>>^ Então ele abaterá o carneirinho num lugar santo, no lugar onde se costuma abater a oferta pelo pecado e a oferta queimada, porque, assim como a oferta pelo pecado, a oferta pela culpa pertence ao sacerdote. É algo santíssimo.
+
+[[v3-14-14]]
+
+^<<v3-14-14,14>>^ “Depois o sacerdote pegará um pouco do sangue da oferta pela culpa e o porá na ponta da orelha direita daquele que se purifica, no polegar da mão direita e no polegar do pé direito.
+
+[[v3-14-15]]
+
+^<<v3-14-15,15>>^ E o sacerdote pegará um pouco do logue de azeite e o derramará na palma da sua própria mão esquerda.
+
+[[v3-14-16]]
+
+^<<v3-14-16,16>>^ O sacerdote molhará então o dedo da sua mão direita no azeite que está na palma da sua mão esquerda e, com o dedo, aspergirá um pouco do azeite sete vezes perante Jeová.
+
+[[v3-14-17]]
+
+^<<v3-14-17,17>>^ Então, do azeite que restar na palma da sua mão, o sacerdote porá um pouco na ponta da orelha direita daquele que se purifica, também no polegar da mão direita e no polegar do pé direito, em cima do sangue da oferta pela culpa.
+
+[[v3-14-18]]
+
+^<<v3-14-18,18>>^ O que sobrar do azeite que está na palma da mão do sacerdote, ele porá na cabeça daquele que se purifica; assim o sacerdote fará expiação por ele perante Jeová.
+
+[[v3-14-19]]
+
+^<<v3-14-19,19>>^ “Então o sacerdote sacrificará a oferta pelo pecado e fará expiação por aquele que se purifica da sua impureza, e depois abaterá a oferta queimada.
+
+[[v3-14-20]]
+
+^<<v3-14-20,20>>^ E o sacerdote oferecerá no altar a oferta queimada e a oferta de cereais; assim o sacerdote fará expiação pelo homem, e ele ficará puro.
+
+[[v3-14-21]]
+
+^<<v3-14-21,21>>^ “No entanto, se ele for pobre e não tiver recursos suficientes para isso, pegará um carneirinho como oferta pela culpa e o apresentará para a oferta movida, a fim de fazer expiação por si mesmo, junto com a décima parte de uma efa^&#42;1^ de farinha fina misturada com azeite, como oferta de cereais, um logue de azeite,
+
+[NOTE]
+====
+. A décima parte de uma efa equivalia a 2,2 l. Veja Ap. B14.
+====
+
+[[v3-14-22]]
+
+^<<v3-14-22,22>>^ e duas rolas ou dois pombos novos, conforme os seus recursos. Uma das aves será para a oferta pelo pecado, e a outra para a oferta queimada.
+
+[[v3-14-23]]
+
+^<<v3-14-23,23>>^ No oitavo dia, ele os levará ao sacerdote para ser declarado puro perante Jeová, à entrada da tenda de reunião.
+
+[[v3-14-24]]
+
+^<<v3-14-24,24>>^ “O sacerdote pegará o carneirinho da oferta pela culpa e o logue de azeite, e o sacerdote os moverá para frente e para trás como oferta movida perante Jeová.
+
+[[v3-14-25]]
+
+^<<v3-14-25,25>>^ Então ele abaterá o carneirinho da oferta pela culpa, e o sacerdote pegará um pouco do sangue da oferta pela culpa e o porá na ponta da orelha direita daquele que se purifica, no polegar da mão direita e no polegar do pé direito.
+
+[[v3-14-26]]
+
+^<<v3-14-26,26>>^ O sacerdote derramará um pouco do azeite na palma da sua própria mão esquerda,
+
+[[v3-14-27]]
+
+^<<v3-14-27,27>>^ e, com o dedo da sua mão direita, o sacerdote aspergirá um pouco do azeite que está na palma da sua mão esquerda sete vezes perante Jeová.
+
+[[v3-14-28]]
+
+^<<v3-14-28,28>>^ E, do azeite que está na palma da sua mão, o sacerdote porá um pouco na ponta da orelha direita daquele que se purifica, e também no polegar da mão direita e no polegar do pé direito, nos mesmos lugares em que pôs o sangue da oferta pela culpa.
+
+[[v3-14-29]]
+
+^<<v3-14-29,29>>^ Então o que sobrar do azeite na palma da sua mão o sacerdote porá na cabeça daquele que se purifica, a fim de fazer expiação por ele perante Jeová.
+
+[[v3-14-30]]
+
+^<<v3-14-30,30>>^ “Então, conforme os recursos daquele que se purifica, ele oferecerá uma das rolas ou um dos pombos novos
+
+[[v3-14-31]]
+
+^<<v3-14-31,31>>^ (o que a pessoa puder adquirir) como oferta pelo pecado e oferecerá a outra ave como oferta queimada, junto com a oferta de cereais; assim o sacerdote fará expiação perante Jeová por aquele que se purifica.
+
+[[v3-14-32]]
+
+^<<v3-14-32,32>>^ “Essa é a lei para aquele que teve lepra, mas não tem recursos suficientes para ser declarado puro.”
+
+[[v3-14-33]]
+
+^<<v3-14-33,33>>^ Então Jeová disse a Moisés e a Arão:
+
+[[v3-14-34]]
+
+^<<v3-14-34,34>>^ “Quando vocês entrarem na terra de Canaã, que lhes dou como propriedade, e eu contaminar com lepra uma casa na sua terra,
+
+[[v3-14-35]]
+
+^<<v3-14-35,35>>^ o dono da casa deve se dirigir ao sacerdote e dizer: ‘Há uma contaminação na minha casa.’
+
+[[v3-14-36]]
+
+^<<v3-14-36,36>>^ O sacerdote dará ordens para esvaziar a casa antes de ir examinar a contaminação, para que ele não declare impuro tudo o que houver na casa; depois o sacerdote entrará para examinar a casa.
+
+[[v3-14-37]]
+
+^<<v3-14-37,37>>^ Ele examinará a área afetada; se houver nas paredes da casa depressões verde-amareladas ou avermelhadas, e elas parecerem mais profundas do que a superfície,
+
+[[v3-14-38]]
+
+^<<v3-14-38,38>>^ então o sacerdote irá à entrada da casa e porá a casa em isolamento por sete dias.
+
+[[v3-14-39]]
+
+^<<v3-14-39,39>>^ “O sacerdote voltará no sétimo dia e examinará a casa. Se a contaminação se tiver espalhado nas paredes da casa,
+
+[[v3-14-40]]
+
+^<<v3-14-40,40>>^ o sacerdote dará ordens para que as pedras contaminadas sejam arrancadas e jogadas fora da cidade, num lugar impuro.
+
+[[v3-14-41]]
+
+^<<v3-14-41,41>>^ Então fará com que a casa inteira seja raspada por dentro, e o reboco e a argamassa que removerem devem ser jogados fora da cidade, num lugar impuro.
+
+[[v3-14-42]]
+
+^<<v3-14-42,42>>^ Depois colocarão outras pedras no lugar das pedras removidas, e ele fará com que a casa seja rebocada com outra argamassa.
+
+[[v3-14-43]]
+
+^<<v3-14-43,43>>^ “Mas, se a contaminação reaparecer na casa depois de se terem arrancado as pedras, e depois de a casa ter sido raspada e rebocada,
+
+[[v3-14-44]]
+
+^<<v3-14-44,44>>^ o sacerdote entrará e examinará a casa. Se a contaminação se tiver espalhado na casa, há lepra maligna na casa. Ela está impura.
+
+[[v3-14-45]]
+
+^<<v3-14-45,45>>^ Ele fará então com que a casa seja demolida — as pedras, o madeiramento e todo o reboco e a argamassa da casa — e providenciará que o entulho seja levado para fora da cidade, a um lugar impuro.
+
+[[v3-14-46]]
+
+^<<v3-14-46,46>>^ Mas quem entrar na casa em qualquer dia do isolamento ficará impuro até o anoitecer;
+
+[[v3-14-47]]
+
+^<<v3-14-47,47>>^ quem se deitar na casa deve lavar as suas roupas, e quem comer na casa deve lavar as suas roupas.
+
+[[v3-14-48]]
+
+^<<v3-14-48,48>>^ “No entanto, se o sacerdote for até a casa e vir que a contaminação não se espalhou depois de a casa ter sido rebocada, o sacerdote declarará a casa pura, porque a contaminação desapareceu.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “foi curada”.
+====
+
+[[v3-14-49]]
+
+^<<v3-14-49,49>>^ Para purificar a casa da sua impureza,^&#42;1^ ele pegará duas aves, madeira de cedro, tecido escarlate e hissopo.
+
+[NOTE]
+====
+. Lit.: “de pecado”.
+====
+
+[[v3-14-50]]
+
+^<<v3-14-50,50>>^ Ele deve matar uma das aves sobre um recipiente de barro contendo água tirada de uma fonte.
+
+[[v3-14-51]]
+
+^<<v3-14-51,51>>^ Então pegará a madeira de cedro, o hissopo, o tecido escarlate e a ave viva, e os mergulhará no sangue da ave que foi morta sobre a água tirada da fonte, e aspergirá o sangue sete vezes em direção à casa.
+
+[[v3-14-52]]
+
+^<<v3-14-52,52>>^ E ele purificará a casa da sua impureza^&#42;1^ com o sangue da ave, a água da fonte, a ave viva, a madeira de cedro, o hissopo e o tecido escarlate.
+
+[NOTE]
+====
+. Lit.: “de pecado”.
+====
+
+[[v3-14-53]]
+
+^<<v3-14-53,53>>^ Depois ele soltará a ave viva fora da cidade, em campo aberto, e fará expiação pela casa; assim ela ficará pura.
+
+[[v3-14-54]]
+
+^<<v3-14-54,54>>^ “Essa é a lei para qualquer caso de lepra, doença do couro cabeludo ou da barba,
+
+[[v3-14-55]]
+
+^<<v3-14-55,55>>^ lepra na roupa ou na casa,
+
+[[v3-14-56]]
+
+^<<v3-14-56,56>>^ e para inchaços, feridas e manchas,
+
+[[v3-14-57]]
+
+^<<v3-14-57,57>>^ a fim de determinar quando algo está impuro ou quando algo está puro. Essa é a lei para a lepra.”
+
+'''
+
+xref:003-levitico/003-levitico-013.adoc#v3-13-0[&#60; Capítulo Anterior] | <<v3-14-0,Topo>> | xref:003-levitico/003-levitico-015.adoc#v3-15-0[Próximo Capítulo &#62;]

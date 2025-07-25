@@ -1,0 +1,116 @@
+include::./index.adoc[]
+
+[[v22-3-0]]
+=== O Cântico de Salomão, 3
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v22-3-1]]
+
+^<<v22-3-1,1>>^ “Em minha cama, durante as noites,
+Busquei aquele a quem eu amo.^&#42;1^
+Eu o busquei, mas não o encontrei.
+
+[NOTE]
+====
+. Ou: “minha alma ama”.
+====
+
+[[v22-3-2]]
+
+^<<v22-3-2,2>>^ Vou me levantar e percorrer a cidade;
+Nas ruas e nas praças
+Procurarei aquele a quem eu amo.^&#42;1^
+Eu o procurei, mas não o encontrei.
+
+[NOTE]
+====
+. Ou: “minha alma ama”.
+====
+
+[[v22-3-3]]
+
+^<<v22-3-3,3>>^ Os vigias que faziam a ronda da cidade me acharam. Perguntei-lhes:
+‘Vocês viram aquele a quem eu amo?’^&#42;1^
+
+[NOTE]
+====
+. Ou: “minha alma ama”.
+====
+
+[[v22-3-4]]
+
+^<<v22-3-4,4>>^ Mal eu havia passado por eles,
+Quando encontrei aquele a quem eu amo.^&#42;1^
+Eu o segurei e não o larguei
+Até fazê-lo entrar na casa da minha mãe,
+No quarto daquela que me concebeu.
+
+[NOTE]
+====
+. Ou: “minha alma ama”.
+====
+
+[[v22-3-5]]
+
+^<<v22-3-5,5>>^ Eu as ponho sob juramento, ó filhas de Jerusalém,
+Pelas gazelas e pelas corças do campo:
+Não tentem despertar nem suscitar em mim amor até que este o queira.”
+
+[[v22-3-6]]
+
+^<<v22-3-6,6>>^ “O que é isso subindo do deserto como colunas de fumaça,
+Perfumado com mirra e olíbano,
+Com todo tipo de pó aromático de mercador?”
+
+[[v22-3-7]]
+
+^<<v22-3-7,7>>^ “Vejam! É a liteira^&#42;1^ de Salomão.
+Em volta dela há sessenta homens valentes,
+Dentre os guerreiros valentes de Israel;
+
+[NOTE]
+====
+. Uma cadeira com cobertura, usada para transportar uma pessoa importante.
+====
+
+[[v22-3-8]]
+
+^<<v22-3-8,8>>^ Todos eles armados com uma espada,
+Todos treinados para a guerra,
+Cada um com sua espada na cintura
+Para protegê-lo dos perigos da noite.”
+
+[[v22-3-9]]
+
+^<<v22-3-9,9>>^ “É a liteira^&#42;1^ real que o rei Salomão
+Fez para si com árvores do Líbano.
+
+[NOTE]
+====
+. Uma cadeira com cobertura, usada para transportar uma pessoa importante.
+====
+
+[[v22-3-10]]
+
+^<<v22-3-10,10>>^ As colunas ele fez de prata;
+Os suportes, de ouro.
+O assento é de lã roxa;
+O interior foi decorado com amor
+Pelas filhas de Jerusalém.”
+
+[[v22-3-11]]
+
+^<<v22-3-11,11>>^ “Venham, ó filhas de Sião,
+Admirem Salomão, o rei,
+Com a coroa de flores^&#42;1^ que a sua mãe lhe fez
+No dia do casamento dele,
+No dia da alegria do seu coração.”
+
+[NOTE]
+====
+. Ou: “grinalda; coroa de casamento”.
+====
+
+'''
+
+xref:022-cantico-de-salomao/022-cantico-de-salomao-002.adoc#v22-2-0[&#60; Capítulo Anterior] | <<v22-3-0,Topo>> | xref:022-cantico-de-salomao/022-cantico-de-salomao-004.adoc#v22-4-0[Próximo Capítulo &#62;]

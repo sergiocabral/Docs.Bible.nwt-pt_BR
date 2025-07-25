@@ -1,0 +1,61 @@
+include::./index.adoc[]
+
+[[v19-1-0]]
+=== Salmos, 1
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_PRIMEIRO LIVRO_
+
+_(Salmos 1-41)_
+
+[[v19-1-1]]
+
+^<<v19-1-1,1>>^ Feliz é o homem que não anda segundo o conselho dos maus,
+Não pisa no caminho dos pecadores,
+Nem se senta com o grupo^&#42;1^ dos zombadores.
+
+[NOTE]
+====
+. Ou: “no assento”.
+====
+
+[[v19-1-2]]
+
+^<<v19-1-2,2>>^ Mas seu prazer está na lei de Jeová,
+E ele lê a Sua lei em voz baixa^&#42;1^ dia e noite.
+
+[NOTE]
+====
+. Ou: “ele medita na Sua lei”.
+====
+
+[[v19-1-3]]
+
+^<<v19-1-3,3>>^ Ele será como uma árvore plantada junto a correntes de água,
+Uma árvore que dá fruto na sua estação
+E cuja folhagem não murcha.
+Tudo o que ele fizer será bem-sucedido.
+
+[[v19-1-4]]
+
+^<<v19-1-4,4>>^ Os maus não são assim;
+São como a palha^&#42;1^ que o vento leva.
+
+[NOTE]
+====
+. Ou: “pragana”.
+====
+
+[[v19-1-5]]
+
+^<<v19-1-5,5>>^ É por isso que os maus não ficarão de pé no julgamento,
+Nem os pecadores na assembleia dos justos.
+
+[[v19-1-6]]
+
+^<<v19-1-6,6>>^ Pois Jeová conhece o caminho dos justos,
+Mas o caminho dos maus deixará de existir.
+
+'''
+
+xref:018-jo/018-jo-042.adoc#v18-42-0[&#60; Capítulo Anterior] | <<v19-1-0,Topo>> | xref:019-salmo/019-salmo-002.adoc#v19-2-0[Próximo Capítulo &#62;]

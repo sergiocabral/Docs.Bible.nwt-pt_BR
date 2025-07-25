@@ -1,0 +1,65 @@
+include::./index.adoc[]
+
+[[v19-53-0]]
+=== Salmos, 53
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Ao regente; no estilo de maalate.^&#42;1^ Masquil.^&#42;2^ De Davi._
+
+[[v19-53-1]]
+
+^<<v19-53-1,1>>^ O tolo^&#42;1^ diz no coração:
+“Não há Jeová.”
+Suas ações ímpias são corruptas e detestáveis;
+Não há quem faça o bem.
+
+[NOTE]
+====
+. Ou: “insensato”.
+====
+
+[[v19-53-2]]
+
+^<<v19-53-2,2>>^ Mas Deus olha para baixo, desde o céu, para os filhos dos homens,
+Para ver se alguém tem entendimento,^&#42;1^ se alguém está buscando a Jeová.
+
+[NOTE]
+====
+. Ou: “perspicácia”.
+====
+
+[[v19-53-3]]
+
+^<<v19-53-3,3>>^ Todos se desviaram;
+Todos são corruptos.
+Não há quem faça o bem,
+Nem sequer um.
+
+[[v19-53-4]]
+
+^<<v19-53-4,4>>^ Será que nenhum dos malfeitores entende?
+Eles devoram o meu povo como se comessem pão.
+Não invocam a Jeová.
+
+[[v19-53-5]]
+
+^<<v19-53-5,5>>^ Mas eles ficarão tomados de terror,
+Terror que nunca sentiram antes,^&#42;1^
+Pois Deus espalhará os ossos dos que atacarem você.^&#42;2^
+Visto que Jeová os rejeitou, você os envergonhará.
+
+[NOTE]
+====
+. Ou, possivelmente: “Medo, quando não há nada para temer”.
+. Lit.: “acamparem contra você”.
+====
+
+[[v19-53-6]]
+
+^<<v19-53-6,6>>^ Que a salvação de Israel venha de Sião!
+Quando Jeová trouxer de volta seu povo cativo,
+Que Jacó exulte, que Israel se alegre.
+
+'''
+
+xref:019-salmo/019-salmo-052.adoc#v19-52-0[&#60; Capítulo Anterior] | <<v19-53-0,Topo>> | xref:019-salmo/019-salmo-054.adoc#v19-54-0[Próximo Capítulo &#62;]

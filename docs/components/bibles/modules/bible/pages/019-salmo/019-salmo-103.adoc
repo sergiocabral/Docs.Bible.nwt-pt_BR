@@ -1,0 +1,161 @@
+include::./index.adoc[]
+
+[[v19-103-0]]
+=== Salmos, 103
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_De Davi._
+
+[[v19-103-1]]
+
+^<<v19-103-1,1>>^ Que a minha alma louve a Jeová;
+Que tudo que há em mim louve o seu santo nome.
+
+[[v19-103-2]]
+
+^<<v19-103-2,2>>^ Que a minha alma louve a Jeová;
+Que nunca se esqueça de tudo que ele fez.
+
+[[v19-103-3]]
+
+^<<v19-103-3,3>>^ Ele perdoa todos os seus erros
+E cura todas as suas doenças;
+
+[[v19-103-4]]
+
+^<<v19-103-4,4>>^ Ele resgata a sua vida da cova^&#42;1^
+E coroa você com amor leal e misericórdia.
+
+[NOTE]
+====
+. Ou: “sepultura”.
+====
+
+[[v19-103-5]]
+
+^<<v19-103-5,5>>^ Ele o satisfaz com coisas boas, por toda a sua vida,
+De modo que a sua juventude se renova como a de uma águia.
+
+[[v19-103-6]]
+
+^<<v19-103-6,6>>^ Jeová age com retidão e justiça
+A favor de todos os oprimidos.
+
+[[v19-103-7]]
+
+^<<v19-103-7,7>>^ Ele revelou os seus caminhos a Moisés,
+Seus feitos aos filhos de Israel.
+
+[[v19-103-8]]
+
+^<<v19-103-8,8>>^ Jeová é misericordioso e compassivo,^&#42;1^
+Paciente^&#42;2^ e cheio de amor leal.^&#42;3^
+
+[NOTE]
+====
+. Ou: “benevolente”.
+. Ou: “Vagaroso em irar-se”.
+. Ou: “bondade”.
+====
+
+[[v19-103-9]]
+
+^<<v19-103-9,9>>^ Não nos repreende sem cessar,
+Nem fica ressentido para sempre.
+
+[[v19-103-10]]
+
+^<<v19-103-10,10>>^ Ele não nos trata conforme os nossos pecados,
+Nem nos retribui o que merecemos pelos nossos erros.
+
+[[v19-103-11]]
+
+^<<v19-103-11,11>>^ Pois, assim como os céus se elevam acima da terra,
+Assim é grande o seu amor leal para com os que o temem.
+
+[[v19-103-12]]
+
+^<<v19-103-12,12>>^ Tão longe como o nascente é do poente,
+Tão longe ele põe de nós as nossas transgressões.
+
+[[v19-103-13]]
+
+^<<v19-103-13,13>>^ Assim como o pai é misericordioso com os filhos,
+Jeová é misericordioso com os que o temem.
+
+[[v19-103-14]]
+
+^<<v19-103-14,14>>^ Pois ele sabe bem como somos formados,
+Lembra-se de que somos pó.
+
+[[v19-103-15]]
+
+^<<v19-103-15,15>>^ Os dias do homem mortal são como os da relva;
+Ele floresce como a flor do campo,
+
+[[v19-103-16]]
+
+^<<v19-103-16,16>>^ Que desaparece quando sopra o vento,
+Como se nunca tivesse existido.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “E seu lugar não a conhece mais”.
+====
+
+[[v19-103-17]]
+
+^<<v19-103-17,17>>^ Mas o amor leal de Jeová dura por toda a eternidade^&#42;1^
+No caso dos que o temem,
+E a sua justiça se estende aos filhos dos seus filhos
+
+[NOTE]
+====
+. Ou: “de eternidade a eternidade”.
+====
+
+[[v19-103-18]]
+
+^<<v19-103-18,18>>^ No caso dos que guardam o seu pacto
+E dos que se empenham em cumprir as suas ordens.
+
+[[v19-103-19]]
+
+^<<v19-103-19,19>>^ Jeová estabeleceu firmemente o seu trono nos céus,
+Ele reina sobre tudo.
+
+[[v19-103-20]]
+
+^<<v19-103-20,20>>^ Louvem a Jeová, todos os seus anjos, fortes e poderosos,
+Que cumprem a sua palavra, obedecendo ao que ele diz.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “escutando a voz (o som) da sua palavra”.
+====
+
+[[v19-103-21]]
+
+^<<v19-103-21,21>>^ Louvem a Jeová, todos os seus exércitos,
+Seus servos,^&#42;1^ que fazem a sua vontade.
+
+[NOTE]
+====
+. Ou: “ministros”.
+====
+
+[[v19-103-22]]
+
+^<<v19-103-22,22>>^ Louvem a Jeová, todas as suas obras,
+Em todos os lugares onde ele domina.^&#42;1^
+Que todo o meu ser^&#42;2^ louve a Jeová.
+
+[NOTE]
+====
+. Ou: “os lugares da sua soberania”.
+. Ou: “Que a minha alma”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-102.adoc#v19-102-0[&#60; Capítulo Anterior] | <<v19-103-0,Topo>> | xref:019-salmo/019-salmo-104.adoc#v19-104-0[Próximo Capítulo &#62;]

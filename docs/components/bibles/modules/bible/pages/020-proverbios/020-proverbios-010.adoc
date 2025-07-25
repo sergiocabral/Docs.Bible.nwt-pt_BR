@@ -1,0 +1,241 @@
+include::./index.adoc[]
+
+[[v20-10-0]]
+=== Provérbios, 10
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v20-10-1]]
+
+^<<v20-10-1,1>>^ Provérbios de Salomão.
+O filho sábio alegra o pai,
+Mas o filho tolo é a tristeza da mãe.
+
+[[v20-10-2]]
+
+^<<v20-10-2,2>>^ Tesouros obtidos por meios desonestos não servirão para nada,
+Mas é a retidão que livra da morte.
+
+[[v20-10-3]]
+
+^<<v20-10-3,3>>^ Jeová não fará o justo^&#42;1^ passar fome,
+Mas negará aos maus o que eles cobiçam.
+
+[NOTE]
+====
+. Ou: “a alma do justo”.
+====
+
+[[v20-10-4]]
+
+^<<v20-10-4,4>>^ Mãos preguiçosas levam à pobreza,
+Mas mãos diligentes trazem riquezas.
+
+[[v20-10-5]]
+
+^<<v20-10-5,5>>^ O filho que age com perspicácia colhe durante o verão,
+Mas o filho que age vergonhosamente dorme durante a colheita.
+
+[[v20-10-6]]
+
+^<<v20-10-6,6>>^ Sobre a cabeça dos justos há bênçãos,
+Mas a boca dos maus esconde violência.
+
+[[v20-10-7]]
+
+^<<v20-10-7,7>>^ O justo será lembrado e abençoado,^&#42;1^
+Mas o nome dos maus apodrecerá.
+
+[NOTE]
+====
+. Ou: “A reputação do justo será abençoada”.
+====
+
+[[v20-10-8]]
+
+^<<v20-10-8,8>>^ Quem tem coração sábio aceitará instruções,^&#42;1^
+Mas quem fala de modo tolo cairá na ruína.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “mandamentos”.
+. Ou: “será pisoteado”.
+====
+
+[[v20-10-9]]
+
+^<<v20-10-9,9>>^ Quem anda em integridade andará em segurança,
+Mas quem perverte os seus caminhos será descoberto.
+
+[[v20-10-10]]
+
+^<<v20-10-10,10>>^ Quem pisca maliciosamente o olho causa sofrimento,
+E quem fala de modo tolo cairá na ruína.^&#42;1^
+
+[NOTE]
+====
+. Ou: “será pisoteado”.
+====
+
+[[v20-10-11]]
+
+^<<v20-10-11,11>>^ A boca dos justos é fonte de vida,
+Mas a boca dos maus esconde violência.
+
+[[v20-10-12]]
+
+^<<v20-10-12,12>>^ O ódio causa brigas,
+Mas o amor cobre todas as transgressões.
+
+[[v20-10-13]]
+
+^<<v20-10-13,13>>^ A sabedoria se encontra nos lábios de quem tem discernimento,
+Mas a vara é para as costas de quem não tem bom senso.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “não tem coração”.
+====
+
+[[v20-10-14]]
+
+^<<v20-10-14,14>>^ Os sábios guardam conhecimento no coração,^&#42;1^
+Mas a boca do tolo está perto da ruína.
+
+[NOTE]
+====
+. Ou: “entesouram conhecimento”.
+====
+
+[[v20-10-15]]
+
+^<<v20-10-15,15>>^ A riqueza^&#42;1^ do rico é a sua cidade fortificada.
+A ruína do pobre é a sua pobreza.
+
+[NOTE]
+====
+. Ou: “A coisa valiosa”.
+====
+
+[[v20-10-16]]
+
+^<<v20-10-16,16>>^ As obras dos justos levam à vida;
+Mas o fruto do trabalho dos maus leva ao pecado.
+
+[[v20-10-17]]
+
+^<<v20-10-17,17>>^ Quem aceita a disciplina mostra o caminho para a vida,^&#42;1^
+Mas quem ignora a repreensão desencaminha outros.
+
+[NOTE]
+====
+. Ou, possivelmente: “está no caminho para a vida”.
+====
+
+[[v20-10-18]]
+
+^<<v20-10-18,18>>^ Quem esconde seu ódio fala mentiras,
+E quem espalha calúnias^&#42;1^ é tolo.
+
+[NOTE]
+====
+. Ou: “boatos”.
+====
+
+[[v20-10-19]]
+
+^<<v20-10-19,19>>^ Quando as palavras são muitas, a transgressão é inevitável,
+Mas quem controla a língua age com prudência.
+
+[[v20-10-20]]
+
+^<<v20-10-20,20>>^ A língua dos justos é como a prata da melhor qualidade,
+Mas o coração dos maus é de pouco valor.
+
+[[v20-10-21]]
+
+^<<v20-10-21,21>>^ As palavras do justo alimentam^&#42;1^ a muitos,
+Mas os tolos morrem por não ter bom senso.
+
+[NOTE]
+====
+. Ou: “orientam”.
+====
+
+[[v20-10-22]]
+
+^<<v20-10-22,22>>^ É a bênção de Jeová que enriquece,
+E ele não acrescenta a ela nenhuma dor.^&#42;1^
+
+[NOTE]
+====
+. Ou: “nenhum pesar; nenhuma dificuldade”.
+====
+
+[[v20-10-23]]
+
+^<<v20-10-23,23>>^ Para o tolo, envolver-se em conduta vergonhosa é uma diversão,
+Mas o homem de discernimento tem sabedoria.
+
+[[v20-10-24]]
+
+^<<v20-10-24,24>>^ Aquilo que os maus temem virá sobre eles,
+Mas o desejo dos justos lhes será concedido.
+
+[[v20-10-25]]
+
+^<<v20-10-25,25>>^ Quando a tempestade passar, os maus deixarão de existir;
+Mas o justo é como um alicerce que dura para sempre.
+
+[[v20-10-26]]
+
+^<<v20-10-26,26>>^ Como vinagre nos dentes e fumaça nos olhos,
+Assim é o preguiçoso para quem o envia.^&#42;1^
+
+[NOTE]
+====
+. Ou: “para seu empregador”.
+====
+
+[[v20-10-27]]
+
+^<<v20-10-27,27>>^ O temor de Jeová prolonga a vida,
+Mas os anos dos maus serão abreviados.
+
+[[v20-10-28]]
+
+^<<v20-10-28,28>>^ A expectativa^&#42;1^ dos justos traz alegria,
+Mas a esperança dos maus acabará.
+
+[NOTE]
+====
+. Ou: “esperança”.
+====
+
+[[v20-10-29]]
+
+^<<v20-10-29,29>>^ O caminho de Jeová é uma fortaleza para o íntegro,
+Mas significa ruína para os malfeitores.
+
+[[v20-10-30]]
+
+^<<v20-10-30,30>>^ Os justos nunca serão derrubados,
+Mas os maus não morarão mais na terra.
+
+[[v20-10-31]]
+
+^<<v20-10-31,31>>^ A boca dos justos produz^&#42;1^ sabedoria,
+Mas a língua perversa será decepada.
+
+[NOTE]
+====
+. Ou: “produz o fruto da”.
+====
+
+[[v20-10-32]]
+
+^<<v20-10-32,32>>^ Os lábios dos justos sabem o que é agradável,
+Mas a boca dos maus é perversa.
+
+'''
+
+xref:020-proverbios/020-proverbios-009.adoc#v20-9-0[&#60; Capítulo Anterior] | <<v20-10-0,Topo>> | xref:020-proverbios/020-proverbios-011.adoc#v20-11-0[Próximo Capítulo &#62;]

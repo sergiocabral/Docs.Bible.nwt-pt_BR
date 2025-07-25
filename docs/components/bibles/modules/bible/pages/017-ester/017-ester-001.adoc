@@ -1,0 +1,151 @@
+include::./index.adoc[]
+
+[[v17-1-0]]
+=== Ester, 1
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v17-1-1]]
+
+^<<v17-1-1,1>>^ Nos dias de Assuero,^&#42;1^ isto é, o Assuero que reinava sobre 127 províncias^&#42;2^ desde a Índia até a Etiópia,^&#42;3^
+
+[NOTE]
+====
+. Entende-se que seja Xerxes I, filho de Dario, o Grande (Dario Histaspes).
+. Ou: “distritos jurisdicionais”.
+. Ou: “até Cuche”.
+====
+
+[[v17-1-2]]
+
+^<<v17-1-2,2>>^ nos dias em que o rei Assuero ocupava o trono real na fortaleza^&#42;1^ de Susã,^&#42;2^
+
+[NOTE]
+====
+. Ou: “na cidadela; no palácio”.
+. Ou: “Susa”.
+====
+
+[[v17-1-3]]
+
+^<<v17-1-3,3>>^ no terceiro ano do seu reinado, ele deu um banquete a todos os seus príncipes e servos. Estavam presentes perante ele os comandantes militares da Pérsia e da Média, os nobres e os príncipes das províncias.
+
+[[v17-1-4]]
+
+^<<v17-1-4,4>>^ E durante muitos dias, 180 dias, ele lhes mostrou as riquezas do seu glorioso reino, e a grandeza e o esplendor da sua majestade.
+
+[[v17-1-5]]
+
+^<<v17-1-5,5>>^ Terminados esses dias, o rei deu um banquete no pátio do jardim do seu palácio durante sete dias a todos os que estavam na fortaleza^&#42;1^ de Susã,^&#42;2^ desde o maior até o menor.
+
+[NOTE]
+====
+. Ou: “na cidadela; no palácio”.
+. Ou: “Susa”.
+====
+
+[[v17-1-6]]
+
+^<<v17-1-6,6>>^ Havia cortinas de linho, de algodão fino e de tecido azul presas com cordões de tecido fino. Havia também cordões de lã roxa presos a argolas de prata, bem como colunas de mármore. E, sobre um piso de pórfiro,^&#42;1^ mármore branco, madrepérola e mármore negro, havia divãs de ouro e prata.
+
+[NOTE]
+====
+. Tipo de pedra muito dura, geralmente vermelho-escura, salpicada de branco e altamente valorizada.
+====
+
+[[v17-1-7]]
+
+^<<v17-1-7,7>>^ O vinho era servido em cálices^&#42;1^ de ouro; cada cálice era diferente do outro. O vinho do rei foi servido em grande quantidade, como só o rei tinha condições de fazer.
+
+[NOTE]
+====
+. Ou: “recipientes; taças”.
+====
+
+[[v17-1-8]]
+
+^<<v17-1-8,8>>^ Ninguém era obrigado a beber;^&#42;1^ essa foi a regra seguida na ocasião, pois o rei havia decidido com os oficiais do seu palácio que cada um faria conforme lhe agradasse.
+
+[NOTE]
+====
+. Ou: “Ninguém sofria restrição ao beber”.
+====
+
+[[v17-1-9]]
+
+^<<v17-1-9,9>>^ A rainha Vasti também deu um banquete às mulheres na casa^&#42;1^ real do rei Assuero.
+
+[NOTE]
+====
+. Ou: “no palácio”.
+====
+
+[[v17-1-10]]
+
+^<<v17-1-10,10>>^ No sétimo dia, quando o coração do rei estava alegre por causa do vinho, ele ordenou a Meumã, Bizta, Harbona, Bigtá, Abagta, Zetar e Carcas, os sete oficiais da corte que eram assistentes pessoais do rei Assuero,
+
+[[v17-1-11]]
+
+^<<v17-1-11,11>>^ que trouxessem à presença do rei a rainha Vasti usando o turbante^&#42;1^ real, para mostrar aos povos e aos príncipes a sua beleza, pois ela era muito bela.
+
+[NOTE]
+====
+. Ou: “toucado”.
+====
+
+[[v17-1-12]]
+
+^<<v17-1-12,12>>^ Mas a rainha Vasti se recusava a obedecer à ordem do rei transmitida pelos oficiais da corte. Em vista disso, o rei ficou muito irado e se acendeu o seu furor.
+
+[[v17-1-13]]
+
+^<<v17-1-13,13>>^ Então o rei consultou os sábios que conheciam bem os precedentes legais,^&#42;1^ pois os assuntos do rei eram levados a todos os peritos em leis e causas jurídicas.
+
+[NOTE]
+====
+. Ou: “procedimentos”. Lit.: “tempos”.
+====
+
+[[v17-1-14]]
+
+^<<v17-1-14,14>>^ Seus conselheiros mais próximos eram Carsena, Setar, Admata, Társis, Meres, Marsena e Memucã. Esses sete príncipes da Pérsia e da Média tinham acesso ao rei e ocupavam as posições mais elevadas no reino.
+
+[[v17-1-15]]
+
+^<<v17-1-15,15>>^ O rei perguntou: “Segundo a lei, o que se deve fazer com a rainha Vasti por ela não ter obedecido à ordem do rei Assuero transmitida pelos oficiais da corte?”
+
+[[v17-1-16]]
+
+^<<v17-1-16,16>>^ Então Memucã respondeu perante o rei e os príncipes: “Não foi apenas contra o rei que a rainha Vasti cometeu uma ofensa, mas também contra todos os príncipes e todos os povos das províncias do rei Assuero.
+
+[[v17-1-17]]
+
+^<<v17-1-17,17>>^ Pois todas as esposas ouvirão falar do que a rainha fez e desprezarão seus maridos, dizendo: ‘O rei Assuero mandou trazer a rainha Vasti à presença dele, mas ela se recusou a ir.’
+
+[[v17-1-18]]
+
+^<<v17-1-18,18>>^ Nesse dia, todas as princesas da Pérsia e da Média que ficarem sabendo do que a rainha fez falarão do mesmo modo com seus maridos, os príncipes do rei, e isso resultará em muito desprezo e indignação.
+
+[[v17-1-19]]
+
+^<<v17-1-19,19>>^ Se for do agrado do rei, que se emita um decreto real em seu nome, e que seja registrado o seguinte nas leis da Pérsia e da Média, que não podem ser anuladas: Vasti nunca mais poderá comparecer perante o rei Assuero. Que o rei dê a posição dela de rainha a uma mulher melhor do que ela.
+
+[[v17-1-20]]
+
+^<<v17-1-20,20>>^ E, quando o decreto do rei for conhecido em todo o seu vasto reino, todas as esposas darão honra aos seus maridos, desde o maior até o menor.”
+
+[[v17-1-21]]
+
+^<<v17-1-21,21>>^ A proposta agradou ao rei e aos príncipes, de modo que o rei fez o que Memucã sugeriu.
+
+[[v17-1-22]]
+
+^<<v17-1-22,22>>^ Assim, o rei enviou cartas a todas as províncias reais, na escrita de cada província e na língua de cada povo, decretando que todo marido fosse senhor^&#42;1^ em sua casa e que nela se falasse a língua nativa dele.
+
+[NOTE]
+====
+. Ou: “príncipe”.
+====
+
+'''
+
+xref:016-neemias/016-neemias-013.adoc#v16-13-0[&#60; Capítulo Anterior] | <<v17-1-0,Topo>> | xref:017-ester/017-ester-002.adoc#v17-2-0[Próximo Capítulo &#62;]

@@ -1,0 +1,195 @@
+include::./index.adoc[]
+
+[[v13-8-0]]
+=== O Primeiro das Crônicas, 8
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v13-8-1]]
+
+^<<v13-8-1,1>>^ Benjamim tornou-se pai de Bela, seu primogênito; de Asbel, o segundo; de Aará, o terceiro;
+
+[[v13-8-2]]
+
+^<<v13-8-2,2>>^ de Noá, o quarto; e de Rafa, o quinto.
+
+[[v13-8-3]]
+
+^<<v13-8-3,3>>^ Os filhos de Bela foram Adar, Gera, Abiúde,
+
+[[v13-8-4]]
+
+^<<v13-8-4,4>>^ Abisua, Naamã, Aoá,
+
+[[v13-8-5]]
+
+^<<v13-8-5,5>>^ Gera, Sefufã e Hurão.
+
+[[v13-8-6]]
+
+^<<v13-8-6,6>>^ Os filhos de Eúde, cabeças das casas paternas dos habitantes de Geba, que foram levados para o exílio em Manaate, foram os seguintes:
+
+[[v13-8-7]]
+
+^<<v13-8-7,7>>^ Naamã, Aías e Gera. Foi este último que os levou para o exílio, e ele se tornou pai de Uza e de Aiude.
+
+[[v13-8-8]]
+
+^<<v13-8-8,8>>^ Saaraim teve filhos no território^&#42;1^ dos moabitas, depois de os ter expulsado. Husim e Baara foram suas esposas.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “campo”.
+. Ou, possivelmente: “depois de ter expulsado suas esposas Husim e Baara”.
+====
+
+[[v13-8-9]]
+
+^<<v13-8-9,9>>^ E por meio da sua esposa Hodes ele se tornou pai de Jobabe, de Zibia, de Mesa, de Malcã,
+
+[[v13-8-10]]
+
+^<<v13-8-10,10>>^ de Jeuz, de Saquia e de Mirma. Esses foram seus filhos, cabeças das casas paternas.
+
+[[v13-8-11]]
+
+^<<v13-8-11,11>>^ Por meio de Husim, Saaraim tornou-se pai de Abitube e de Elpaal.
+
+[[v13-8-12]]
+
+^<<v13-8-12,12>>^ Os filhos de Elpaal foram Éber, Misã, Semede (que construiu Ono, Lode e suas aldeias dependentes^&#42;1^),
+
+[NOTE]
+====
+. Ou: “ao redor”.
+====
+
+[[v13-8-13]]
+
+^<<v13-8-13,13>>^ Berias e Sema. Esses eram cabeças das casas paternas dos habitantes de Aijalom. Eles expulsaram os habitantes de Gate.
+
+[[v13-8-14]]
+
+^<<v13-8-14,14>>^ Havia também Aiô, Sasaque, Jeremote,
+
+[[v13-8-15]]
+
+^<<v13-8-15,15>>^ Zebadias, Arade, Éder,
+
+[[v13-8-16]]
+
+^<<v13-8-16,16>>^ Micael, Ispa e Joa, filhos de Berias;
+
+[[v13-8-17]]
+
+^<<v13-8-17,17>>^ Zebadias, Mesulão, Hizqui, Héber,
+
+[[v13-8-18]]
+
+^<<v13-8-18,18>>^ Ismerai, Izlias e Jobabe, filhos de Elpaal;
+
+[[v13-8-19]]
+
+^<<v13-8-19,19>>^ Jaquim, Zicri, Zabdi,
+
+[[v13-8-20]]
+
+^<<v13-8-20,20>>^ Elienai, Ziletai, Eliel,
+
+[[v13-8-21]]
+
+^<<v13-8-21,21>>^ Adaías, Beraías e Sinrate, filhos de Simei;
+
+[[v13-8-22]]
+
+^<<v13-8-22,22>>^ Ispã, Éber, Eliel,
+
+[[v13-8-23]]
+
+^<<v13-8-23,23>>^ Abdom, Zicri, Hanã,
+
+[[v13-8-24]]
+
+^<<v13-8-24,24>>^ Hananias, Elão, Antotias,
+
+[[v13-8-25]]
+
+^<<v13-8-25,25>>^ Ifdeias e Penuel, filhos de Sasaque;
+
+[[v13-8-26]]
+
+^<<v13-8-26,26>>^ e Sanserai, Searias, Atalias,
+
+[[v13-8-27]]
+
+^<<v13-8-27,27>>^ Jaaresias, Elias e Zicri, filhos de Jeroão.
+
+[[v13-8-28]]
+
+^<<v13-8-28,28>>^ Esses foram cabeças das casas paternas, alistados segundo as suas linhagens. Esses chefes moravam em Jerusalém.
+
+[[v13-8-29]]
+
+^<<v13-8-29,29>>^ Jeiel, o pai de Gibeão, morava em Gibeão. O nome da sua esposa era Maacá.
+
+[[v13-8-30]]
+
+^<<v13-8-30,30>>^ Seu filho primogênito foi Abdom; depois vieram Zur, Quis, Baal, Nadabe,
+
+[[v13-8-31]]
+
+^<<v13-8-31,31>>^ Gedor, Aiô e Zequer.
+
+[[v13-8-32]]
+
+^<<v13-8-32,32>>^ Miclote tornou-se pai de Simeá. Todos eles moravam em Jerusalém, perto dos seus irmãos, junto com os seus outros irmãos.
+
+[[v13-8-33]]
+
+^<<v13-8-33,33>>^ Ner tornou-se pai de Quis; Quis tornou-se pai de Saul; Saul tornou-se pai de Jonatã, de Malquisua, de Abinadabe e de Esbaal.^&#42;1^
+
+[NOTE]
+====
+. Também chamado de Is-Bosete.
+====
+
+[[v13-8-34]]
+
+^<<v13-8-34,34>>^ O filho de Jonatã foi Meribe-Baal.^&#42;1^ Meribe-Baal tornou-se pai de Mica.
+
+[NOTE]
+====
+. Também chamado de Mefibosete.
+====
+
+[[v13-8-35]]
+
+^<<v13-8-35,35>>^ Os filhos de Mica foram Pitom, Meleque, Tareia e Acaz.
+
+[[v13-8-36]]
+
+^<<v13-8-36,36>>^ Acaz tornou-se pai de Jeoada; Jeoada tornou-se pai de Alemete, de Azmavete e de Zinri. Zinri tornou-se pai de Moza,
+
+[[v13-8-37]]
+
+^<<v13-8-37,37>>^ Moza tornou-se pai de Bineá; Rafa, seu filho; Eleasá, seu filho; Azel, seu filho.
+
+[[v13-8-38]]
+
+^<<v13-8-38,38>>^ Azel teve seis filhos; eles se chamavam Azricão, Boqueru, Ismael, Searias, Obadias e Hanã. Todos esses foram filhos de Azel.
+
+[[v13-8-39]]
+
+^<<v13-8-39,39>>^ Os filhos de Eseque, seu irmão, foram Ulão, seu primogênito; Jeús, o segundo; e Elifelete, o terceiro.
+
+[[v13-8-40]]
+
+^<<v13-8-40,40>>^ Os filhos de Ulão eram guerreiros valentes, que sabiam usar^&#42;1^ o arco. Eles tinham muitos filhos e netos, 150 ao todo. Todos esses foram descendentes de Benjamim.
+
+[NOTE]
+====
+. Lit.: “pisavam”.
+====
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-007.adoc#v13-7-0[&#60; Capítulo Anterior] | <<v13-8-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-009.adoc#v13-9-0[Próximo Capítulo &#62;]

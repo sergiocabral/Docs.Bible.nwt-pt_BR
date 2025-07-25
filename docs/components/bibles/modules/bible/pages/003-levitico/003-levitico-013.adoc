@@ -1,0 +1,277 @@
+include::./index.adoc[]
+
+[[v3-13-0]]
+=== Levítico, 13
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v3-13-1]]
+
+^<<v3-13-1,1>>^ Jeová disse mais a Moisés e a Arão:
+
+[[v3-13-2]]
+
+^<<v3-13-2,2>>^ “Se surgir na pele^&#42;1^ de um homem um inchaço, uma ferida ou uma mancha, que possa ser sinal de lepra^&#42;2^ na sua pele, ele terá de ser levado a Arão, o sacerdote, ou a um dos seus filhos, os sacerdotes.
+
+[NOTE]
+====
+. Lit.: “pele da carne”.
+. A palavra hebraica traduzida “lepra” tem sentido abrangente e pode incluir várias doenças de pele contagiosas. Também pode incluir certas contaminações encontradas em roupas e em casas.
+====
+
+[[v3-13-3]]
+
+^<<v3-13-3,3>>^ O sacerdote examinará a lesão na pele. Se os pelos ali tiverem ficado brancos, e a lesão parecer mais profunda do que a pele, é lepra. O sacerdote a examinará e declarará o homem impuro.
+
+[[v3-13-4]]
+
+^<<v3-13-4,4>>^ Mas, se a mancha na pele for branca e não parecer mais profunda do que a pele, e os pelos não tiverem ficado brancos, o sacerdote porá o doente em isolamento por sete dias.
+
+[[v3-13-5]]
+
+^<<v3-13-5,5>>^ O sacerdote o examinará então no sétimo dia; se parecer que a lesão continua como estava e ela não tiver se espalhado na pele, o sacerdote o porá em isolamento por mais sete dias.
+
+[[v3-13-6]]
+
+^<<v3-13-6,6>>^ “No sétimo dia, o sacerdote deve examiná-lo de novo; se a lesão estiver desaparecendo e não tiver se espalhado na pele, o sacerdote o declarará puro; era apenas uma lesão simples. O homem lavará então suas roupas e ficará puro.
+
+[[v3-13-7]]
+
+^<<v3-13-7,7>>^ Mas, se depois de ter comparecido perante o sacerdote para ser declarado puro a lesão^&#42;1^ claramente tiver se espalhado na pele, então ele comparecerá outra vez^&#42;2^ perante o sacerdote.
+
+[NOTE]
+====
+. Ou: “infecção”.
+. Ou: “uma segunda vez”.
+====
+
+[[v3-13-8]]
+
+^<<v3-13-8,8>>^ O sacerdote examinará a lesão; se ela tiver se espalhado na pele, o sacerdote o declarará impuro. É lepra.
+
+[[v3-13-9]]
+
+^<<v3-13-9,9>>^ “Se um homem apresentar sinal de lepra, ele terá de ser levado ao sacerdote,
+
+[[v3-13-10]]
+
+^<<v3-13-10,10>>^ e o sacerdote o examinará. Se houver na pele um inchaço branco que tenha feito os pelos ficarem brancos e houver uma ferida aberta no inchaço,
+
+[[v3-13-11]]
+
+^<<v3-13-11,11>>^ é lepra crônica na pele; o sacerdote o declarará impuro. Não precisará pôr o homem em isolamento, pois ele está impuro.
+
+[[v3-13-12]]
+
+^<<v3-13-12,12>>^ Mas, se a lepra aparecer em toda a pele e cobrir da cabeça aos pés aquele que tem a doença, até onde o sacerdote consiga ver,
+
+[[v3-13-13]]
+
+^<<v3-13-13,13>>^ e o sacerdote o examinar e vir que a lepra cobriu toda a pele, então ele declarará que o doente está puro.^&#42;1^ Toda a pele se tornou branca; o homem está puro.
+
+[NOTE]
+====
+. Ou: “que a doença não é contagiosa”.
+====
+
+[[v3-13-14]]
+
+^<<v3-13-14,14>>^ Mas, no dia em que aparecer na pele uma ferida aberta, ele estará impuro.
+
+[[v3-13-15]]
+
+^<<v3-13-15,15>>^ Quando o sacerdote vir a ferida aberta, ele o declarará impuro. A ferida aberta é impura. É lepra.
+
+[[v3-13-16]]
+
+^<<v3-13-16,16>>^ Mas, se a ferida aberta voltar a ficar branca, ele se apresentará ao sacerdote.
+
+[[v3-13-17]]
+
+^<<v3-13-17,17>>^ O sacerdote o examinará; se a lesão tiver ficado branca, o sacerdote declarará que o doente está puro. Ele está puro.
+
+[[v3-13-18]]
+
+^<<v3-13-18,18>>^ “Se alguém tiver um furúnculo na pele e este sarar,
+
+[[v3-13-19]]
+
+^<<v3-13-19,19>>^ mas no lugar do furúnculo surgir um inchaço branco ou uma mancha branco-avermelhada, ele terá de se mostrar ao sacerdote.
+
+[[v3-13-20]]
+
+^<<v3-13-20,20>>^ O sacerdote examinará a lesão; se ela parecer mais profunda do que a pele e os pelos ali tiverem ficado brancos, o sacerdote declarará o homem impuro. O que apareceu no lugar do furúnculo é lepra.
+
+[[v3-13-21]]
+
+^<<v3-13-21,21>>^ Mas, se o sacerdote examinar a lesão e vir que não há pelos brancos nela, que ela não é mais profunda do que a pele e que começou a desaparecer, então o sacerdote porá o homem em isolamento por sete dias.
+
+[[v3-13-22]]
+
+^<<v3-13-22,22>>^ E, se ela claramente tiver se espalhado na pele, o sacerdote o declarará impuro. É uma doença.
+
+[[v3-13-23]]
+
+^<<v3-13-23,23>>^ Mas, se a mancha não tiver aumentado, isto é, não tiver se espalhado, é apenas a inflamação do furúnculo; o sacerdote o declarará puro.
+
+[[v3-13-24]]
+
+^<<v3-13-24,24>>^ “Ou, se alguém tiver uma queimadura por fogo e a carne viva da queimadura se tornar uma mancha branco-avermelhada ou branca,
+
+[[v3-13-25]]
+
+^<<v3-13-25,25>>^ o sacerdote a examinará. Se os pelos na mancha tiverem ficado brancos, e ela parecer mais profunda do que a pele, o que apareceu na queimadura é lepra; o sacerdote declarará o homem impuro. É lepra.
+
+[[v3-13-26]]
+
+^<<v3-13-26,26>>^ Mas, se o sacerdote examinar a mancha e vir que não há pelos brancos ali, que ela não é mais profunda do que a pele e que começou a desaparecer, o sacerdote o porá em isolamento por sete dias.
+
+[[v3-13-27]]
+
+^<<v3-13-27,27>>^ O sacerdote o examinará no sétimo dia; se a mancha claramente tiver se espalhado na pele, o sacerdote o declarará impuro. É lepra.
+
+[[v3-13-28]]
+
+^<<v3-13-28,28>>^ Mas, se a mancha não tiver aumentado, isto é, não tiver se espalhado na pele, e tiver começado a desaparecer, é apenas um inchaço da queimadura; o sacerdote o declarará puro, porque é uma inflamação da queimadura.
+
+[[v3-13-29]]
+
+^<<v3-13-29,29>>^ “Se surgir uma lesão na cabeça ou no queixo de um homem ou de uma mulher,
+
+[[v3-13-30]]
+
+^<<v3-13-30,30>>^ o sacerdote examinará a lesão. Se ela parecer mais profunda do que a pele, e os cabelos^&#42;1^ nela forem amarelos e escassos, o sacerdote declarará a pessoa impura: é uma lesão no couro cabeludo ou na barba. É lepra da cabeça ou do queixo.
+
+[NOTE]
+====
+. Ou: “pelos”.
+====
+
+[[v3-13-31]]
+
+^<<v3-13-31,31>>^ Mas, se o sacerdote vir que a lesão não parece mais profunda do que a pele e que não há nela cabelos escuros, ele deve pôr o doente em isolamento por sete dias.
+
+[[v3-13-32]]
+
+^<<v3-13-32,32>>^ O sacerdote examinará a lesão no sétimo dia; se ela não tiver se espalhado nem houver cabelos amarelos nela, e ela não parecer mais profunda do que a pele,
+
+[[v3-13-33]]
+
+^<<v3-13-33,33>>^ então a pessoa deve raspar a cabeça ou o queixo, sem raspar a área afetada. Então o sacerdote porá o doente em isolamento por mais sete dias.
+
+[[v3-13-34]]
+
+^<<v3-13-34,34>>^ “No sétimo dia, o sacerdote examinará de novo a área afetada; se a lesão no couro cabeludo ou na barba não tiver se espalhado na pele nem parecer mais profunda do que a pele, o sacerdote declarará a pessoa pura; ela deverá lavar suas roupas e então ficará pura.
+
+[[v3-13-35]]
+
+^<<v3-13-35,35>>^ Mas, se a lesão claramente se espalhar na pele depois de a pessoa ter sido declarada pura,
+
+[[v3-13-36]]
+
+^<<v3-13-36,36>>^ o sacerdote examinará a pessoa; se a lesão tiver se espalhado na pele, o sacerdote não precisará mais procurar cabelos amarelos; a pessoa está impura.
+
+[[v3-13-37]]
+
+^<<v3-13-37,37>>^ No entanto, se ao fazer o exame o sacerdote constatar que a lesão não se espalhou, e que ali nasceram cabelos escuros, a doença foi curada. A pessoa está pura, e o sacerdote a declarará pura.
+
+[[v3-13-38]]
+
+^<<v3-13-38,38>>^ “Se surgirem manchas na pele^&#42;1^ de um homem ou de uma mulher, e se as manchas forem brancas,
+
+[NOTE]
+====
+. Lit.: “pele da carne”.
+====
+
+[[v3-13-39]]
+
+^<<v3-13-39,39>>^ o sacerdote as examinará. Se as manchas na pele forem esbranquiçadas, é uma simples irritação na pele. A pessoa está pura.
+
+[[v3-13-40]]
+
+^<<v3-13-40,40>>^ “Se um homem perder os cabelos e ficar calvo, ele está puro.
+
+[[v3-13-41]]
+
+^<<v3-13-41,41>>^ Se ele perder os cabelos na parte da frente da cabeça, e essa parte ficar calva, ele está puro.
+
+[[v3-13-42]]
+
+^<<v3-13-42,42>>^ Mas, se surgir uma ferida branco-avermelhada na parte calva do couro cabeludo ou na frente da cabeça, é lepra que aparece no alto ou na frente da cabeça.
+
+[[v3-13-43]]
+
+^<<v3-13-43,43>>^ O sacerdote examinará o homem; se o inchaço da lesão na parte calva do alto da cabeça ou na frente da cabeça for branco-avermelhado, parecido com a lepra na pele,
+
+[[v3-13-44]]
+
+^<<v3-13-44,44>>^ ele é leproso. Ele está impuro, e o sacerdote deve declará-lo impuro por causa da doença na cabeça dele.
+
+[[v3-13-45]]
+
+^<<v3-13-45,45>>^ Quanto ao leproso que tiver a doença, as suas roupas devem ser rasgadas, o seu cabelo deve ficar descuidado, e ele deve cobrir a boca^&#42;1^ e clamar: ‘Impuro, impuro!’
+
+[NOTE]
+====
+. Ou: “o bigode”.
+====
+
+[[v3-13-46]]
+
+^<<v3-13-46,46>>^ Ele estará impuro durante todo o tempo em que tiver a doença. Por estar impuro, deve viver em isolamento. Morará fora do acampamento.
+
+[[v3-13-47]]
+
+^<<v3-13-47,47>>^ “Se a lepra surgir numa roupa, seja numa roupa de lã, seja numa roupa de linho,
+
+[[v3-13-48]]
+
+^<<v3-13-48,48>>^ quer na urdidura quer na trama do tecido de linho ou de lã, ou numa pele, ou em alguma coisa feita de couro,
+
+[[v3-13-49]]
+
+^<<v3-13-49,49>>^ e a mancha verde-amarelada ou avermelhada da doença surgir numa roupa, numa pele, na urdidura ou na trama de um tecido, ou em alguma coisa feita de couro, é um caso de lepra, e deve ser mostrado ao sacerdote.
+
+[[v3-13-50]]
+
+^<<v3-13-50,50>>^ O sacerdote examinará a mancha e terá de pôr em isolamento por sete dias aquilo que tem o sinal de lepra.
+
+[[v3-13-51]]
+
+^<<v3-13-51,51>>^ E, no sétimo dia, examinará a mancha; se ele vir que ela se espalhou na roupa, na urdidura ou na trama, ou no couro (qualquer que seja o seu uso), a mancha é lepra maligna, e o objeto está impuro.
+
+[[v3-13-52]]
+
+^<<v3-13-52,52>>^ Ele deve queimar a roupa, a urdidura ou a trama (seja de lã, seja de linho), ou o objeto feito de couro em que a mancha tiver surgido, pois é lepra maligna. Deve ser queimado no fogo.
+
+[[v3-13-53]]
+
+^<<v3-13-53,53>>^ “Mas, se o sacerdote fizer o exame e vir que a mancha não se espalhou na roupa, na urdidura ou na trama, ou no objeto feito de couro,
+
+[[v3-13-54]]
+
+^<<v3-13-54,54>>^ o sacerdote ordenará que lavem o item contaminado e o porá em isolamento por mais sete dias.
+
+[[v3-13-55]]
+
+^<<v3-13-55,55>>^ O sacerdote examinará então o objeto contaminado depois de ter sido bem lavado. Se a mancha continuar igual, mesmo que não tenha se espalhado, o objeto está impuro. Você deve queimá-lo no fogo, porque foi corroído, quer por dentro, quer por fora.
+
+[[v3-13-56]]
+
+^<<v3-13-56,56>>^ “Mas, se o sacerdote examinar a mancha e vir que ela começou a desaparecer, depois de ter sido bem lavada, ele arrancará a parte afetada da roupa, do couro, da urdidura ou da trama.
+
+[[v3-13-57]]
+
+^<<v3-13-57,57>>^ No entanto, se a mancha ainda aparecer em outra parte da roupa, ou na urdidura ou na trama do tecido, ou no objeto feito de couro, ela está se espalhando, e você deve queimar no fogo aquilo que tiver a mancha.
+
+[[v3-13-58]]
+
+^<<v3-13-58,58>>^ Mas, se a mancha desaparecer da roupa, da urdidura ou da trama, ou do objeto feito de couro, que você lavar, então se deve lavar aquilo em que há a mancha pela segunda vez, e ele ficará puro.
+
+[[v3-13-59]]
+
+^<<v3-13-59,59>>^ “Essa é a lei sobre a lepra numa roupa de lã ou de linho, na urdidura ou na trama de um tecido, ou num objeto feito de couro, a fim de declará-lo puro ou impuro.”
+
+'''
+
+xref:003-levitico/003-levitico-012.adoc#v3-12-0[&#60; Capítulo Anterior] | <<v3-13-0,Topo>> | xref:003-levitico/003-levitico-014.adoc#v3-14-0[Próximo Capítulo &#62;]

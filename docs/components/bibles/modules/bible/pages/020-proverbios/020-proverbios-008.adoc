@@ -1,0 +1,260 @@
+include::./index.adoc[]
+
+[[v20-8-0]]
+=== Provérbios, 8
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v20-8-1]]
+
+^<<v20-8-1,1>>^ A sabedoria não está clamando?
+O discernimento não está erguendo a sua voz?
+
+[[v20-8-2]]
+
+^<<v20-8-2,2>>^ Nos lugares altos ao longo do caminho,
+Nos cruzamentos das estradas, ela toma sua posição.
+
+[[v20-8-3]]
+
+^<<v20-8-3,3>>^ Junto aos portões que dão para a cidade,
+Na entrada dos portões,
+Ela continua a gritar bem alto:
+
+[[v20-8-4]]
+
+^<<v20-8-4,4>>^ “Estou chamando a vocês, ó povo;
+A todos^&#42;1^ ergo a minha voz.
+
+[NOTE]
+====
+. Lit.: “Aos filhos dos homens”.
+====
+
+[[v20-8-5]]
+
+^<<v20-8-5,5>>^ Inexperientes, aprendam a ser prudentes;
+Tolos, adquiram um coração sábio.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “entendam coração”.
+====
+
+[[v20-8-6]]
+
+^<<v20-8-6,6>>^ Escutem, pois o que eu digo é importante,
+Meus lábios falam o que é certo.
+
+[[v20-8-7]]
+
+^<<v20-8-7,7>>^ Minha boca fala a verdade em voz baixa,
+E meus lábios detestam o que é mau.
+
+[[v20-8-8]]
+
+^<<v20-8-8,8>>^ Todas as declarações da minha boca são justas.
+Nenhuma delas é deturpada ou enganosa.
+
+[[v20-8-9]]
+
+^<<v20-8-9,9>>^ Todas elas são claras para quem tem discernimento
+E corretas para os que encontraram conhecimento.
+
+[[v20-8-10]]
+
+^<<v20-8-10,10>>^ Aceitem a minha disciplina em vez de prata,
+E o conhecimento em lugar do ouro da melhor qualidade,
+
+[[v20-8-11]]
+
+^<<v20-8-11,11>>^ Pois a sabedoria é melhor do que corais;^&#42;1^
+Nenhuma outra coisa preciosa pode se comparar a ela.
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v20-8-12]]
+
+^<<v20-8-12,12>>^ Eu, a sabedoria, moro com a prudência;
+Encontrei conhecimento e raciocínio.
+
+[[v20-8-13]]
+
+^<<v20-8-13,13>>^ O temor de Jeová significa odiar o mal.
+Eu odeio a arrogância, o orgulho, o caminho mau e declarações perversas.
+
+[[v20-8-14]]
+
+^<<v20-8-14,14>>^ Tenho bons conselhos e sabedoria prática.
+O entendimento e o poder pertencem a mim.
+
+[[v20-8-15]]
+
+^<<v20-8-15,15>>^ Por meio de mim os reis governam,
+E as autoridades decretam leis justas.
+
+[[v20-8-16]]
+
+^<<v20-8-16,16>>^ Por meio de mim os príncipes governam,
+E os nobres julgam com justiça.
+
+[[v20-8-17]]
+
+^<<v20-8-17,17>>^ Eu amo os que me amam,
+E os que me procuram me acharão.
+
+[[v20-8-18]]
+
+^<<v20-8-18,18>>^ Comigo há coisas valiosas e glória,
+Riquezas permanentes^&#42;1^ e justiça.
+
+[NOTE]
+====
+. Ou: “Valores hereditários”.
+====
+
+[[v20-8-19]]
+
+^<<v20-8-19,19>>^ Meu fruto é melhor do que o ouro, sim, do que o ouro refinado,
+E o que eu produzo é melhor do que a prata da melhor qualidade.
+
+[[v20-8-20]]
+
+^<<v20-8-20,20>>^ Eu ando na vereda da retidão,
+No meio dos caminhos da justiça;
+
+[[v20-8-21]]
+
+^<<v20-8-21,21>>^ Dou uma valiosa herança aos que me amam,
+E encho os seus depósitos.
+
+[[v20-8-22]]
+
+^<<v20-8-22,22>>^ Jeová me produziu como o princípio do seu caminho,
+A primeira das suas realizações mais antigas.
+
+[[v20-8-23]]
+
+^<<v20-8-23,23>>^ Fui estabelecida^&#42;1^ nos tempos antigos,^&#42;2^
+No começo, antes de existir a terra.
+
+[NOTE]
+====
+. Ou: “empossada”.
+. Ou: “imemoráveis”.
+====
+
+[[v20-8-24]]
+
+^<<v20-8-24,24>>^ Quando não havia águas profundas, fui produzida,^&#42;1^
+Quando não havia mananciais transbordando de água.
+
+[NOTE]
+====
+. Ou: “produzida como que com dores de parto”.
+====
+
+[[v20-8-25]]
+
+^<<v20-8-25,25>>^ Antes de serem assentadas as montanhas,
+Antes de haver montes, fui produzida,
+
+[[v20-8-26]]
+
+^<<v20-8-26,26>>^ Quando ele ainda não havia feito a terra e os seus campos,
+Nem o primeiro punhado de solo da terra.
+
+[[v20-8-27]]
+
+^<<v20-8-27,27>>^ Quando ele preparou os céus, eu estava lá;
+Quando traçou o horizonte^&#42;1^ sobre a superfície das águas,
+
+[NOTE]
+====
+. Lit.: “um círculo”.
+====
+
+[[v20-8-28]]
+
+^<<v20-8-28,28>>^ Quando ele colocou^&#42;1^ as nuvens no alto,
+Quando estabeleceu as fontes das águas profundas,
+
+[NOTE]
+====
+. Lit.: “firmou”.
+====
+
+[[v20-8-29]]
+
+^<<v20-8-29,29>>^ Quando ele decretou ao mar
+Que suas águas não fossem além do que ele havia ordenado,
+Quando lançou^&#42;1^ os alicerces da terra,
+
+[NOTE]
+====
+. Ou: “decretou”.
+====
+
+[[v20-8-30]]
+
+^<<v20-8-30,30>>^ Eu estava ao seu lado como trabalhador perito.
+Eu era a sua maior alegria^&#42;1^ dia após dia,
+Alegrava-me diante dele todo o tempo.
+
+[NOTE]
+====
+. Ou: “era aquele de quem ele gostava especialmente”.
+====
+
+[[v20-8-31]]
+
+^<<v20-8-31,31>>^ Eu me alegrava com a terra que ele criou para ser habitada,
+E minha maior alegria eram os^&#42;1^ filhos dos homens.^&#42;2^
+
+[NOTE]
+====
+. Ou: “E eu gostava especialmente dos”.
+. Ou: “da humanidade”.
+====
+
+[[v20-8-32]]
+
+^<<v20-8-32,32>>^ E agora, meus filhos, escutem-me,
+Pois felizes são os que guardam os meus caminhos.
+
+[[v20-8-33]]
+
+^<<v20-8-33,33>>^ Escutem a disciplina e tornem-se sábios;
+Nunca a rejeitem.
+
+[[v20-8-34]]
+
+^<<v20-8-34,34>>^ Feliz o homem que me escuta,
+Chegando cedo^&#42;1^ à minha porta dia após dia,
+Esperando junto à entrada da minha casa;
+
+[NOTE]
+====
+. Ou: “Mantendo-se acordado”.
+====
+
+[[v20-8-35]]
+
+^<<v20-8-35,35>>^ Pois quem me achar, achará a vida
+E terá a aprovação de Jeová.
+
+[[v20-8-36]]
+
+^<<v20-8-36,36>>^ Mas quem me ignora, prejudica a si mesmo;^&#42;1^
+E os que me odeiam, amam a morte.”
+
+[NOTE]
+====
+. Ou: “sua alma”.
+====
+
+'''
+
+xref:020-proverbios/020-proverbios-007.adoc#v20-7-0[&#60; Capítulo Anterior] | <<v20-8-0,Topo>> | xref:020-proverbios/020-proverbios-009.adoc#v20-9-0[Próximo Capítulo &#62;]

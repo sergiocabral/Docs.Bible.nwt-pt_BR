@@ -1,0 +1,24 @@
+include::../index.adoc[]
+
+[[v45-0-0]]
+== Romanos
+
+[cols="8*^"]
+|===
+| xref:045-romanos/045-romanos-001.adoc#v45-1-0[1]
+| xref:045-romanos/045-romanos-002.adoc#v45-2-0[2]
+| xref:045-romanos/045-romanos-003.adoc#v45-3-0[3]
+| xref:045-romanos/045-romanos-004.adoc#v45-4-0[4]
+| xref:045-romanos/045-romanos-005.adoc#v45-5-0[5]
+| xref:045-romanos/045-romanos-006.adoc#v45-6-0[6]
+| xref:045-romanos/045-romanos-007.adoc#v45-7-0[7]
+| xref:045-romanos/045-romanos-008.adoc#v45-8-0[8]
+| xref:045-romanos/045-romanos-009.adoc#v45-9-0[9]
+| xref:045-romanos/045-romanos-010.adoc#v45-10-0[10]
+| xref:045-romanos/045-romanos-011.adoc#v45-11-0[11]
+| xref:045-romanos/045-romanos-012.adoc#v45-12-0[12]
+| xref:045-romanos/045-romanos-013.adoc#v45-13-0[13]
+| xref:045-romanos/045-romanos-014.adoc#v45-14-0[14]
+| xref:045-romanos/045-romanos-015.adoc#v45-15-0[15]
+| xref:045-romanos/045-romanos-016.adoc#v45-16-0[16]
+|===

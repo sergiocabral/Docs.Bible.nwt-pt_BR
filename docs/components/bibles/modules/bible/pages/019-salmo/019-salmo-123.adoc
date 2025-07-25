@@ -1,0 +1,38 @@
+include::./index.adoc[]
+
+[[v19-123-0]]
+=== Salmos, 123
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Cântico das Subidas._
+
+[[v19-123-1]]
+
+^<<v19-123-1,1>>^ Levanto os meus olhos para ti,
+Ó tu que estás em teu trono nos céus.
+
+[[v19-123-2]]
+
+^<<v19-123-2,2>>^ Assim como os olhos dos servos estão fixos na mão do seu senhor,
+E os olhos da serva estão fixos na mão da sua senhora,
+Os nossos olhos estão fixos em Jeová, nosso Deus,
+Até que ele nos mostre favor.
+
+[[v19-123-3]]
+
+^<<v19-123-3,3>>^ Mostra-nos favor, ó Jeová, mostra-nos favor,
+Pois estamos fartos de tanto desprezo.
+
+[[v19-123-4]]
+
+^<<v19-123-4,4>>^ Estamos fartos^&#42;1^ da zombaria dos autoconfiantes
+E do desprezo dos arrogantes.
+
+[NOTE]
+====
+. Ou: “Nossa alma está repleta em excesso”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-122.adoc#v19-122-0[&#60; Capítulo Anterior] | <<v19-123-0,Topo>> | xref:019-salmo/019-salmo-124.adoc#v19-124-0[Próximo Capítulo &#62;]

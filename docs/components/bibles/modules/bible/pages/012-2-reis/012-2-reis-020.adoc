@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v12-20-0]]
+=== O Segundo dos Reis, 20
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v12-20-1]]
+
+^<<v12-20-1,1>>^ Naqueles dias Ezequias ficou doente e estava à beira da morte. O profeta Isaías, filho de Amoz, foi a ele e disse: “Assim diz Jeová: ‘Dê instruções aos da sua casa, porque você vai morrer; não se recuperará.’”
+
+[[v12-20-2]]
+
+^<<v12-20-2,2>>^ Então ele virou o rosto para a parede e começou a orar a Jeová:
+
+[[v12-20-3]]
+
+^<<v12-20-3,3>>^ “Eu te imploro, ó Jeová, por favor, lembra-te de que tenho andado diante de ti fielmente e de pleno coração, e tenho feito o que é bom aos teus olhos.” E Ezequias começou a chorar muito.
+
+[[v12-20-4]]
+
+^<<v12-20-4,4>>^ Isaías ainda não tinha chegado ao pátio central quando recebeu a seguinte palavra de Jeová:
+
+[[v12-20-5]]
+
+^<<v12-20-5,5>>^ “Volte e diga a Ezequias, o líder do meu povo: ‘Assim diz Jeová, o Deus de Davi, seu antepassado: “Ouvi a sua oração; vi as suas lágrimas. Por isso vou curar você. No terceiro dia você subirá à casa de Jeová.
+
+[[v12-20-6]]
+
+^<<v12-20-6,6>>^ Acrescentarei 15 anos à sua vida,^&#42;1^ e livrarei você e esta cidade das mãos do rei da Assíria, e vou defender esta cidade por minha própria causa e por causa de Davi, meu servo.”’”
+
+[NOTE]
+====
+. Lit.: “aos seus dias”.
+====
+
+[[v12-20-7]]
+
+^<<v12-20-7,7>>^ Então Isaías disse: “Tragam uma pasta de figos secos.”^&#42;1^ Assim, eles a trouxeram e puseram sobre o furúnculo, e aos poucos ele se recuperou.
+
+[NOTE]
+====
+. Ou: “uma torta de figos secos prensados”.
+====
+
+[[v12-20-8]]
+
+^<<v12-20-8,8>>^ Ezequias tinha perguntado a Isaías: “Qual é o sinal de que Jeová me curará e de que subirei no terceiro dia à casa de Jeová?”
+
+[[v12-20-9]]
+
+^<<v12-20-9,9>>^ Isaías respondeu: “Este é o sinal de Jeová, para mostrar-lhe que Jeová cumprirá a palavra que falou: Você quer que a sombra na escada^&#42;1^ avance dez degraus ou volte dez degraus?”
+
+[NOTE]
+====
+. Talvez essas escadas fossem usadas para contar o tempo, como num relógio de sol.
+====
+
+[[v12-20-10]]
+
+^<<v12-20-10,10>>^ Ezequias disse: “É fácil que a sombra avance dez degraus, mas não que ela volte dez degraus.”
+
+[[v12-20-11]]
+
+^<<v12-20-11,11>>^ Então Isaías, o profeta, clamou a Jeová, e Ele fez com que a sombra que já tinha descido na escadaria de Acaz voltasse dez degraus.
+
+[[v12-20-12]]
+
+^<<v12-20-12,12>>^ Naquele tempo, o rei de Babilônia, Berodaque-Baladã, filho de Baladã, enviou cartas e um presente a Ezequias, pois ouviu dizer que Ezequias tinha ficado doente.
+
+[[v12-20-13]]
+
+^<<v12-20-13,13>>^ Ezequias os recebeu^&#42;1^ e mostrou-lhes toda a sua casa do tesouro — a prata, o ouro, o óleo de bálsamo e outros óleos preciosos, o seu depósito de armas e tudo o que havia no seu tesouro. Não houve nada que Ezequias não lhes mostrasse na sua casa^&#42;2^ e em todo o seu domínio.
+
+[NOTE]
+====
+. Ou: “escutou”.
+. Ou: “no seu palácio”.
+====
+
+[[v12-20-14]]
+
+^<<v12-20-14,14>>^ Depois disso o profeta Isaías foi ao rei Ezequias e lhe perguntou: “O que esses homens disseram e de onde vieram?” Ezequias respondeu: “Vieram de uma terra distante, de Babilônia.”
+
+[[v12-20-15]]
+
+^<<v12-20-15,15>>^ Então ele perguntou: “O que eles viram na sua casa?”^&#42;1^ Ezequias respondeu: “Viram tudo o que há na minha casa.^&#42;2^ Não há nada no meu tesouro que eu não lhes tenha mostrado.”
+
+[NOTE]
+====
+. Ou: “no seu palácio”.
+. Ou: “no meu palácio”.
+====
+
+[[v12-20-16]]
+
+^<<v12-20-16,16>>^ Isaías disse então a Ezequias: “Ouça a palavra de Jeová:
+
+[[v12-20-17]]
+
+^<<v12-20-17,17>>^ ‘Veja, virão dias em que tudo o que há na sua casa^&#42;1^ e tudo o que os seus antepassados acumularam até hoje será levado a Babilônia. Não sobrará nada’, diz Jeová.
+
+[NOTE]
+====
+. Ou: “no seu palácio”.
+====
+
+[[v12-20-18]]
+
+^<<v12-20-18,18>>^ ‘E alguns dos seus filhos, dos quais você se tornará pai, serão levados cativos e se tornarão oficiais da corte no palácio do rei de Babilônia.’”
+
+[[v12-20-19]]
+
+^<<v12-20-19,19>>^ Então Ezequias disse a Isaías: “A palavra de Jeová que você falou é boa.” E acrescentou: “É boa, já que haverá paz e estabilidade^&#42;1^ enquanto eu viver.”^&#42;2^
+
+[NOTE]
+====
+. Ou: “verdade”.
+. Lit.: “em meus dias”.
+====
+
+[[v12-20-20]]
+
+^<<v12-20-20,20>>^ Quanto aos outros acontecimentos da história de Ezequias, todos os seus atos poderosos, e como fez o reservatório de água e o aqueduto, e trouxe água à cidade, não estão escritos no livro da história da época dos reis de Judá?
+
+[[v12-20-21]]
+
+^<<v12-20-21,21>>^ Então Ezequias descansou com os seus antepassados; e Manassés, seu filho, tornou-se rei no seu lugar.
+
+'''
+
+xref:012-2-reis/012-2-reis-019.adoc#v12-19-0[&#60; Capítulo Anterior] | <<v12-20-0,Topo>> | xref:012-2-reis/012-2-reis-021.adoc#v12-21-0[Próximo Capítulo &#62;]

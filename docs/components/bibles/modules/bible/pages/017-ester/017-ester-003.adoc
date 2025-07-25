@@ -1,0 +1,109 @@
+include::./index.adoc[]
+
+[[v17-3-0]]
+=== Ester, 3
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v17-3-1]]
+
+^<<v17-3-1,1>>^ Algum tempo depois, o rei Assuero promoveu Hamã, filho de Hamedata, o agagita, e o engrandeceu, colocando-o numa posição mais elevada do que a de^&#42;1^ todos os outros príncipes.
+
+[NOTE]
+====
+. Ou: “colocando seu trono mais alto do que”.
+====
+
+[[v17-3-2]]
+
+^<<v17-3-2,2>>^ E todos os servos do rei que estavam no portão do rei se curvavam e se prostravam diante de Hamã, assim como o rei havia ordenado. Mas Mordecai se recusava a curvar-se e prostrar-se diante dele.
+
+[[v17-3-3]]
+
+^<<v17-3-3,3>>^ Então os servos do rei que estavam no portão do rei perguntaram a Mordecai: “Por que você não obedece à ordem do rei?”
+
+[[v17-3-4]]
+
+^<<v17-3-4,4>>^ Eles perguntavam isso dia após dia, mas ele não lhes dava ouvidos. Então informaram Hamã para ver se a conduta de Mordecai seria tolerada, pois lhes tinha dito que era judeu.
+
+[[v17-3-5]]
+
+^<<v17-3-5,5>>^ Quando Hamã viu que Mordecai se recusava a curvar-se e prostrar-se diante dele, ficou muito furioso.
+
+[[v17-3-6]]
+
+^<<v17-3-6,6>>^ Mas ele achava pouco matar^&#42;1^ apenas Mordecai, pois tinha sido informado sobre o povo de Mordecai. Assim, Hamã procurou uma forma de exterminar o povo de Mordecai, isto é, todos os judeus em todo o reino de Assuero.
+
+[NOTE]
+====
+. Lit.: “deitar mão em”.
+====
+
+[[v17-3-7]]
+
+^<<v17-3-7,7>>^ No décimo segundo ano do rei Assuero, no primeiro mês, o mês de nisã,^&#42;1^ lançou-se “pur” (isto é, a sorte) diante de Hamã, para se determinar o dia e o mês,^&#42;2^ e a sorte caiu no décimo segundo mês, o mês de adar.^&#42;3^
+
+[NOTE]
+====
+. Veja Ap. B15.
+. Isto é, para Hamã executar seu plano.
+. Veja Ap. B15.
+====
+
+[[v17-3-8]]
+
+^<<v17-3-8,8>>^ Então Hamã disse ao rei Assuero: “Há um povo espalhado e disperso entre os povos de todas as províncias^&#42;1^ do seu reino. Suas leis são diferentes das de todos os outros povos, e eles não obedecem às leis do rei. Não convém aos interesses do rei tolerá-los.
+
+[NOTE]
+====
+. Ou: “todos os distritos jurisdicionais”.
+====
+
+[[v17-3-9]]
+
+^<<v17-3-9,9>>^ Se for do agrado do rei, seja emitido um decreto ordenando a destruição deles. Eu pagarei 10.000 talentos^&#42;1^ de prata aos oficiais, que os depositarão no tesouro real.”^&#42;2^
+
+[NOTE]
+====
+. Um talento equivalia a 34,2 kg. Veja Ap. B14.
+. Ou, possivelmente: “Eu pagarei 10.000 talentos ao tesouro real para aqueles que executarem esse serviço.”
+====
+
+[[v17-3-10]]
+
+^<<v17-3-10,10>>^ O rei tirou então o anel de selar que usava na mão e o deu a Hamã, inimigo dos judeus, filho de Hamedata, o agagita.
+
+[[v17-3-11]]
+
+^<<v17-3-11,11>>^ O rei disse a Hamã: “A prata e o povo estão nas suas mãos. Faça com eles o que achar melhor.”
+
+[[v17-3-12]]
+
+^<<v17-3-12,12>>^ Assim, no dia 13 do primeiro mês, os secretários do rei foram convocados. Eles escreveram tudo o que Hamã ordenou aos sátrapas do rei, aos governadores das províncias e aos príncipes dos diversos povos, na escrita de cada província e na língua de cada povo. As cartas foram escritas em nome do rei Assuero e seladas com o anel de selar do rei.
+
+[[v17-3-13]]
+
+^<<v17-3-13,13>>^ As cartas foram enviadas por meio de mensageiros a todas as províncias do rei, com a ordem de exterminar, matar e destruir todos os judeus — jovens e idosos, mulheres e crianças — num só dia, o dia 13 do décimo segundo mês, isto é, o mês de adar, e de tomar os seus bens.
+
+[[v17-3-14]]
+
+^<<v17-3-14,14>>^ O texto^&#42;1^ do decreto deveria ser proclamado como lei em cada província e anunciado a todos os povos, a fim de que se preparassem para aquele dia.
+
+[NOTE]
+====
+. Ou: “A cópia”.
+====
+
+[[v17-3-15]]
+
+^<<v17-3-15,15>>^ Os mensageiros saíram velozmente por ordem do rei; o decreto foi proclamado na fortaleza^&#42;1^ de Susã.^&#42;2^ Então o rei e Hamã se sentaram para beber, mas a cidade de Susã^&#42;3^ estava em confusão.
+
+[NOTE]
+====
+. Ou: “na cidadela; no palácio”.
+. Ou: “Susa”.
+. Ou: “Susa”.
+====
+
+'''
+
+xref:017-ester/017-ester-002.adoc#v17-2-0[&#60; Capítulo Anterior] | <<v17-3-0,Topo>> | xref:017-ester/017-ester-004.adoc#v17-4-0[Próximo Capítulo &#62;]

@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v5-17-0]]
+=== Deuteronômio, 17
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v5-17-1]]
+
+^<<v5-17-1,1>>^ “Não sacrifique a Jeová, seu Deus, um touro ou uma ovelha que tenha um defeito ou alguma imperfeição, pois isso seria detestável para Jeová, seu Deus.
+
+[[v5-17-2]]
+
+^<<v5-17-2,2>>^ “Suponhamos que em seu meio, em uma das cidades que Jeová, seu Deus, lhe dá, seja encontrado um homem ou uma mulher fazendo o que é mau aos olhos de Jeová, seu Deus, e violando o seu pacto.
+
+[[v5-17-3]]
+
+^<<v5-17-3,3>>^ E essa pessoa se desencaminhe, adore outros deuses e se curve diante deles, ou diante do sol, da lua ou de todo o exército dos céus, algo que não ordenei.
+
+[[v5-17-4]]
+
+^<<v5-17-4,4>>^ Quando isso lhe for relatado ou você ficar sabendo disso, você deve investigar cuidadosamente o assunto. Se for confirmado que essa coisa detestável foi feita em Israel,
+
+[[v5-17-5]]
+
+^<<v5-17-5,5>>^ você deve levar para fora, aos portões da cidade, o homem ou a mulher que fez essa coisa má, e o homem ou a mulher deve ser apedrejado até a morte.
+
+[[v5-17-6]]
+
+^<<v5-17-6,6>>^ A pessoa só deve ser morta com base no depoimento de duas ou três testemunhas. Não deve ser morta com base no depoimento de apenas uma testemunha.
+
+[[v5-17-7]]
+
+^<<v5-17-7,7>>^ A mão das testemunhas deve ser a primeira a vir contra ela para matá-la, e depois a mão de todo o povo. Você deve eliminar o mal do seu meio.
+
+[[v5-17-8]]
+
+^<<v5-17-8,8>>^ “Se em uma das suas cidades surgir um caso difícil demais para você julgar, um caso que envolva derramamento de sangue, ou uma ação judicial, ou um ato de violência, ou outra questão qualquer, então você deve ir ao lugar que Jeová, seu Deus, escolher.
+
+[[v5-17-9]]
+
+^<<v5-17-9,9>>^ Dirija-se aos sacerdotes levíticos e ao juiz que estiver servindo naqueles dias e apresente a sua questão, e eles lhe darão a decisão.
+
+[[v5-17-10]]
+
+^<<v5-17-10,10>>^ Então você deve agir de acordo com a decisão que lhe derem no lugar que Jeová escolher. Tenha o cuidado de seguir todas as instruções que eles derem.
+
+[[v5-17-11]]
+
+^<<v5-17-11,11>>^ Você deve agir de acordo com a lei que lhe mostrarem e a decisão que lhe comunicarem. Não se desvie da decisão que lhe derem, nem para a direita nem para a esquerda.
+
+[[v5-17-12]]
+
+^<<v5-17-12,12>>^ O homem que agir presunçosamente, não escutando nem o juiz nem o sacerdote que estiver servindo^&#42;1^ a Jeová, seu Deus, deve morrer. Elimine o mal de Israel.
+
+[NOTE]
+====
+. Ou: “ministrando”.
+====
+
+[[v5-17-13]]
+
+^<<v5-17-13,13>>^ Então todo o povo ouvirá a respeito disso e ficará com medo, e não mais agirão presunçosamente.
+
+[[v5-17-14]]
+
+^<<v5-17-14,14>>^ “Quando você entrar na terra que Jeová, seu Deus, lhe dá, e tiver tomado posse dela e estiver morando nela, e disser: ‘Quero designar sobre mim um rei assim como todas as nações ao meu redor’,
+
+[[v5-17-15]]
+
+^<<v5-17-15,15>>^ então você deve sem falta designar o rei que Jeová, seu Deus, escolher. O rei que você designar deve ser um dos seus irmãos. Você está proibido de designar sobre você um estrangeiro, alguém que não seja seu irmão.
+
+[[v5-17-16]]
+
+^<<v5-17-16,16>>^ Mas o rei não deve adquirir muitos cavalos para si, nem fazer o povo voltar ao Egito para obter mais cavalos, pois Jeová disse a vocês: ‘Nunca mais voltem por este caminho.’
+
+[[v5-17-17]]
+
+^<<v5-17-17,17>>^ Ele também não deve tomar para si muitas esposas, para que seu coração não se desvie; nem deve adquirir para si grandes quantidades de prata e ouro.
+
+[[v5-17-18]]
+
+^<<v5-17-18,18>>^ Quando se sentar no trono do seu reino, ele escreverá para si, num livro,^&#42;1^ uma cópia desta Lei, tirada da que é guardada pelos sacerdotes levíticos.
+
+[NOTE]
+====
+. Ou: “rolo”.
+====
+
+[[v5-17-19]]
+
+^<<v5-17-19,19>>^ “Ela deve ficar com ele, e ele a lerá todos os dias da sua vida, a fim de aprender a temer a Jeová, seu Deus, e obedecer a todas as palavras desta Lei e estes decretos, cumprindo-os.
+
+[[v5-17-20]]
+
+^<<v5-17-20,20>>^ Assim, seu coração não se enaltecerá acima dos seus irmãos, e ele não se desviará do mandamento, nem para a direita nem para a esquerda, para que possa permanecer por muito tempo no seu reino, ele e os seus filhos no meio de Israel.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-016.adoc#v5-16-0[&#60; Capítulo Anterior] | <<v5-17-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-018.adoc#v5-18-0[Próximo Capítulo &#62;]

@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v19-84-0]]
+=== Salmos, 84
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Para o regente; sobre gitite.^&#42;1^ Dos filhos de Corá. Salmo._
+
+[[v19-84-1]]
+
+^<<v19-84-1,1>>^ Como é belo^&#42;1^ o teu grandioso tabernáculo,
+Ó Jeová dos exércitos!
+
+[NOTE]
+====
+. Ou: “profundamente amado”.
+====
+
+[[v19-84-2]]
+
+^<<v19-84-2,2>>^ Todo o meu ser^&#42;1^ desfalece de saudade;
+Sim, estou fraco de tanto ansiar
+Pelos pátios de Jeová.
+Meu coração e minha carne gritam de alegria para o Deus vivente.
+
+[NOTE]
+====
+. Ou: “Minha alma”.
+====
+
+[[v19-84-3]]
+
+^<<v19-84-3,3>>^ Até mesmo o pássaro encontra uma casa ali
+E a andorinha um ninho para si,
+Onde ela cuida dos seus filhotes
+Perto do teu grandioso altar, ó Jeová dos exércitos,
+Meu Rei e meu Deus!
+
+[[v19-84-4]]
+
+^<<v19-84-4,4>>^ Felizes são os que moram na tua casa!
+Eles te louvam sem cessar. (Selá)
+
+[[v19-84-5]]
+
+^<<v19-84-5,5>>^ Felizes são os homens que encontram sua força em ti,
+Cujo coração está nas estradas.
+
+[[v19-84-6]]
+
+^<<v19-84-6,6>>^ Quando passam pelo vale de Baca,^&#42;1^
+Fazem dele um lugar de fontes;
+E as primeiras chuvas o cobrem^&#42;2^ de bênçãos.
+
+[NOTE]
+====
+. Ou: “pelo vale dos arbustos baca”.
+. Ou, possivelmente: “E o instrutor se cobre”.
+====
+
+[[v19-84-7]]
+
+^<<v19-84-7,7>>^ Caminham com cada vez mais vigor;
+Cada um deles se apresenta diante de Deus em Sião.
+
+[[v19-84-8]]
+
+^<<v19-84-8,8>>^ Ó Jeová, Deus dos exércitos, ouve a minha oração;
+Escuta, ó Deus de Jacó. (Selá)
+
+[[v19-84-9]]
+
+^<<v19-84-9,9>>^ Olha, ó nosso escudo e nosso Deus,^&#42;1^
+Olha para o rosto do teu ungido.
+
+[NOTE]
+====
+. Ou, possivelmente: “Olha para o nosso escudo, ó Deus”.
+====
+
+[[v19-84-10]]
+
+^<<v19-84-10,10>>^ Pois um dia nos teus pátios é melhor que mil em outro lugar!
+Escolhi ficar de pé na entrada da casa do meu Deus,
+Em vez de morar nas tendas da maldade.
+
+[[v19-84-11]]
+
+^<<v19-84-11,11>>^ Pois Jeová Deus é sol e escudo,
+Ele dá favor e glória.
+Jeová não negará nada de bom
+Aos que andam em integridade.
+
+[[v19-84-12]]
+
+^<<v19-84-12,12>>^ Ó Jeová dos exércitos,
+Feliz o homem que confia em ti.
+
+'''
+
+xref:019-salmo/019-salmo-083.adoc#v19-83-0[&#60; Capítulo Anterior] | <<v19-84-0,Topo>> | xref:019-salmo/019-salmo-085.adoc#v19-85-0[Próximo Capítulo &#62;]

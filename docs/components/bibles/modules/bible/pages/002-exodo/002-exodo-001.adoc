@@ -1,0 +1,112 @@
+include::./index.adoc[]
+
+[[v2-1-0]]
+=== Êxodo, 1
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v2-1-1]]
+
+^<<v2-1-1,1>>^ Estes são os nomes dos filhos de Israel que foram com Jacó para o Egito, cada homem com os da sua casa:
+
+[[v2-1-2]]
+
+^<<v2-1-2,2>>^ Rubem, Simeão, Levi e Judá;
+
+[[v2-1-3]]
+
+^<<v2-1-3,3>>^ Issacar, Zebulão e Benjamim;
+
+[[v2-1-4]]
+
+^<<v2-1-4,4>>^ Dã e Naftali; Gade e Aser.
+
+[[v2-1-5]]
+
+^<<v2-1-5,5>>^ Ao todo, os descendentes de Jacó eram 70 pessoas.^&#42;1^ José já estava no Egito.
+
+[NOTE]
+====
+. Lit.: “as almas que saíram da coxa de Jacó foram 70 almas”.
+====
+
+[[v2-1-6]]
+
+^<<v2-1-6,6>>^ Por fim José morreu, bem como todos os seus irmãos e toda aquela geração.
+
+[[v2-1-7]]
+
+^<<v2-1-7,7>>^ Os israelitas^&#42;1^ tiveram filhos e aumentaram muito, e continuaram a se multiplicar e a se tornar mais fortes num ritmo extraordinário, de modo que encheram o país.
+
+[NOTE]
+====
+. Lit.: “filhos de Israel”.
+====
+
+[[v2-1-8]]
+
+^<<v2-1-8,8>>^ Com o tempo surgiu um novo rei no Egito, que não conhecia José.
+
+[[v2-1-9]]
+
+^<<v2-1-9,9>>^ De modo que ele disse ao seu povo: “Vejam! O povo de Israel é mais numeroso e mais forte do que nós.
+
+[[v2-1-10]]
+
+^<<v2-1-10,10>>^ Temos de agir com astúcia contra eles. Caso contrário, continuarão a se multiplicar e, se houver uma guerra, eles se juntarão aos nossos inimigos, lutarão contra nós e deixarão o país.”
+
+[[v2-1-11]]
+
+^<<v2-1-11,11>>^ Por isso, designaram-lhes chefes de trabalhos forçados^&#42;1^ para oprimi-los com tarefas pesadas, e os israelitas construíram para Faraó as cidades-armazéns de Pitom e Ramsés.
+
+[NOTE]
+====
+. Ou: “designaram-lhes feitores”.
+====
+
+[[v2-1-12]]
+
+^<<v2-1-12,12>>^ Mas, quanto mais eram oprimidos, mais se multiplicavam e se espalhavam; assim, os egípcios ficaram com muito medo dos israelitas.
+
+[[v2-1-13]]
+
+^<<v2-1-13,13>>^ Por isso, eles submeteram os israelitas a dura escravidão.
+
+[[v2-1-14]]
+
+^<<v2-1-14,14>>^ Tornaram a sua vida amarga com a pesada tarefa de fabricar argamassa de argila e tijolos, e com toda forma de escravidão no campo. Sim, fizeram-nos trabalhar arduamente em condições difíceis, com todas as formas de escravidão.
+
+[[v2-1-15]]
+
+^<<v2-1-15,15>>^ Mais tarde, o rei do Egito falou com as parteiras hebreias cujos nomes eram Sifrá e Puá.
+
+[[v2-1-16]]
+
+^<<v2-1-16,16>>^ Ele lhes disse: “Quando vocês ajudarem as mulheres hebreias a dar à luz e as virem no assento de parto, matem a criança se for menino; mas, se for menina, deixem-na viver.”
+
+[[v2-1-17]]
+
+^<<v2-1-17,17>>^ No entanto, as parteiras temiam o verdadeiro Deus e não fizeram o que o rei do Egito lhes havia ordenado, mas deixaram vivos os meninos.
+
+[[v2-1-18]]
+
+^<<v2-1-18,18>>^ Com o tempo, o rei do Egito chamou as parteiras e lhes perguntou: “Por que vocês deixaram vivos os meninos?”
+
+[[v2-1-19]]
+
+^<<v2-1-19,19>>^ As parteiras responderam a Faraó: “As mulheres hebreias não são como as mulheres egípcias. Elas são cheias de vigor e dão à luz antes de a parteira chegar.”
+
+[[v2-1-20]]
+
+^<<v2-1-20,20>>^ De modo que Deus tratou bem as parteiras, e o povo aumentava e se tornava muito forte.
+
+[[v2-1-21]]
+
+^<<v2-1-21,21>>^ E, visto que as parteiras temeram o verdadeiro Deus, mais tarde ele lhes concedeu que tivessem suas próprias famílias.
+
+[[v2-1-22]]
+
+^<<v2-1-22,22>>^ Por fim, Faraó ordenou a todo o seu povo: “Vocês devem jogar no rio Nilo todo menino recém-nascido dos hebreus, mas devem deixar viva toda menina.”
+
+'''
+
+xref:001-genesis/001-genesis-050.adoc#v1-50-0[&#60; Capítulo Anterior] | <<v2-1-0,Topo>> | xref:002-exodo/002-exodo-002.adoc#v2-2-0[Próximo Capítulo &#62;]

@@ -1,0 +1,300 @@
+include::./index.adoc[]
+
+[[v26-20-0]]
+=== Ezequiel, 20
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v26-20-1]]
+
+^<<v26-20-1,1>>^ No sétimo ano, no quinto mês, no dia dez do mês, alguns anciãos de Israel vieram e se sentaram diante de mim para consultar a Jeová.
+
+[[v26-20-2]]
+
+^<<v26-20-2,2>>^ Então recebi a seguinte palavra de Jeová:
+
+[[v26-20-3]]
+
+^<<v26-20-3,3>>^ “Filho do homem, diga aos anciãos de Israel: ‘Assim diz o Soberano Senhor Jeová: “Vocês vieram me consultar? ‘Tão certo como eu vivo, não lhes darei nenhuma resposta’, diz o Soberano Senhor Jeová.”’
+
+[[v26-20-4]]
+
+^<<v26-20-4,4>>^ “Você está pronto para julgá-los?^&#42;1^ Você está pronto para julgá-los, filho do homem? Exponha-lhes as coisas detestáveis que os antepassados deles fizeram.
+
+[NOTE]
+====
+. Ou: “para proferir a sentença deles”.
+====
+
+[[v26-20-5]]
+
+^<<v26-20-5,5>>^ Diga-lhes: ‘Assim diz o Soberano Senhor Jeová: “No dia em que escolhi Israel, fiz um juramento^&#42;1^ aos descendentes^&#42;2^ da casa de Jacó e me dei a conhecer a eles na terra do Egito. Sim, jurei a eles e disse: ‘Eu sou Jeová, seu Deus.’
+
+[NOTE]
+====
+. Lit.: “levantei a minha mão”.
+. Lit.: “à semente”.
+====
+
+[[v26-20-6]]
+
+^<<v26-20-6,6>>^ Naquele dia eu jurei que os tiraria da terra do Egito e os levaria para uma terra que havia procurado^&#42;1^ para eles, uma terra que mana leite e mel. Era a mais bela^&#42;2^ de todas as terras.
+
+[NOTE]
+====
+. Ou: “espionado”.
+. Ou: “o ornamento”.
+====
+
+[[v26-20-7]]
+
+^<<v26-20-7,7>>^ Então eu lhes disse: ‘Cada um de vocês deve jogar fora as coisas detestáveis que estão diante dos seus olhos; não se contaminem com os ídolos repugnantes^&#42;1^ do Egito. Eu sou Jeová, seu Deus.’
+
+[NOTE]
+====
+. O termo hebraico talvez esteja relacionado a uma palavra para “esterco” e é usado como expressão de desprezo.
+====
+
+[[v26-20-8]]
+
+^<<v26-20-8,8>>^ “‘“No entanto, eles se rebelaram contra mim e não quiseram me escutar. Eles não jogaram fora as coisas detestáveis que estavam diante deles nem abandonaram os ídolos repugnantes do Egito. Por isso prometi derramar sobre eles o meu furor e dar vazão a toda a minha ira contra eles na terra do Egito.
+
+[[v26-20-9]]
+
+^<<v26-20-9,9>>^ Mas agi por causa do meu próprio nome, para que ele não fosse profanado diante das nações entre as quais eles moravam. Pois eu me dei a conhecer a eles^&#42;1^ diante daquelas nações quando os tirei^&#42;2^ da terra do Egito.
+
+[NOTE]
+====
+. Isto é, a Israel.
+. Isto é, tirei Israel.
+====
+
+[[v26-20-10]]
+
+^<<v26-20-10,10>>^ Assim, eu os tirei da terra do Egito e os conduzi para o deserto.
+
+[[v26-20-11]]
+
+^<<v26-20-11,11>>^ “‘“Então lhes dei os meus decretos e lhes tornei conhecidas as minhas decisões judiciais, para que o homem que as cumprisse tivesse vida por meio delas.
+
+[[v26-20-12]]
+
+^<<v26-20-12,12>>^ Também lhes dei os meus sábados como sinal entre mim e eles, para que soubessem que eu, Jeová, sou aquele que os santifica.
+
+[[v26-20-13]]
+
+^<<v26-20-13,13>>^ “‘“Mas a casa de Israel se rebelou contra mim no deserto. Eles não andaram nos meus decretos e rejeitaram as minhas decisões judiciais, as quais, se o homem cumprir, terá vida por meio delas. Profanaram completamente os meus sábados. De modo que prometi derramar sobre eles o meu furor no deserto para exterminá-los.
+
+[[v26-20-14]]
+
+^<<v26-20-14,14>>^ Agi por causa do meu próprio nome, para que ele não fosse profanado perante as nações diante das quais eu os havia libertado.
+
+[[v26-20-15]]
+
+^<<v26-20-15,15>>^ Eu também lhes jurei no deserto que não os levaria à terra que tinha lhes dado (uma terra que mana leite e mel, a mais bela^&#42;1^ de todas as terras),
+
+[NOTE]
+====
+. Ou: “o ornamento”.
+====
+
+[[v26-20-16]]
+
+^<<v26-20-16,16>>^ porque eles rejeitaram as minhas decisões judiciais, não andaram nos meus decretos e profanaram os meus sábados, pois seu coração seguia os seus ídolos repugnantes.
+
+[[v26-20-17]]
+
+^<<v26-20-17,17>>^ “‘“Mas eu tive dó^&#42;1^ deles e não os destruí; não os exterminei no deserto.
+
+[NOTE]
+====
+. Lit.: “meu olho teve dó”.
+====
+
+[[v26-20-18]]
+
+^<<v26-20-18,18>>^ Eu disse aos filhos deles no deserto: ‘Não andem nos decretos dos seus antepassados, nem guardem suas decisões judiciais, nem se contaminem com os ídolos repugnantes deles.
+
+[[v26-20-19]]
+
+^<<v26-20-19,19>>^ Eu sou Jeová, seu Deus. Andem nos meus decretos, guardem as minhas decisões judiciais e cumpram-nas.
+
+[[v26-20-20]]
+
+^<<v26-20-20,20>>^ Santifiquem os meus sábados, e eles servirão de sinal entre mim e vocês, para que vocês saibam que eu sou Jeová, seu Deus.’
+
+[[v26-20-21]]
+
+^<<v26-20-21,21>>^ “‘“No entanto, os filhos deles se rebelaram contra mim. Não andaram nos meus decretos, não obedeceram nem cumpriram as minhas decisões judiciais, as quais, se o homem cumprir, terá vida por meio delas. Eles profanaram os meus sábados. De modo que prometi derramar sobre eles o meu furor e dar vazão a toda a minha ira contra eles no deserto.
+
+[[v26-20-22]]
+
+^<<v26-20-22,22>>^ Mas eu me contive e agi por causa do meu próprio nome, para que ele não fosse profanado perante as nações diante das quais eu os havia libertado.^&#42;1^
+
+[NOTE]
+====
+. Isto é, havia libertado Israel.
+====
+
+[[v26-20-23]]
+
+^<<v26-20-23,23>>^ Também, eu lhes jurei no deserto que os espalharia pelas nações e os dispersaria pelas terras,
+
+[[v26-20-24]]
+
+^<<v26-20-24,24>>^ porque eles não cumpriram as minhas decisões judiciais, rejeitaram os meus decretos, profanaram os meus sábados e seguiram os^&#42;1^ ídolos repugnantes dos seus antepassados.
+
+[NOTE]
+====
+. Lit.: “e seus olhos foram atrás dos”.
+====
+
+[[v26-20-25]]
+
+^<<v26-20-25,25>>^ Eu os deixei seguir decretos que não eram bons e decisões judiciais por meio das quais eles não poderiam ter vida.
+
+[[v26-20-26]]
+
+^<<v26-20-26,26>>^ Deixei-os contaminar-se com os seus próprios sacrifícios — quando queimavam no fogo^&#42;1^ todos os primogênitos — a fim de deixá-los desolados, para que soubessem que eu sou Jeová.”’
+
+[NOTE]
+====
+. Ou: “faziam passar pelo fogo”.
+====
+
+[[v26-20-27]]
+
+^<<v26-20-27,27>>^ “Portanto, filho do homem, diga o seguinte à casa de Israel: ‘Assim diz o Soberano Senhor Jeová: “Também desta forma os seus antepassados blasfemaram contra mim, agindo de modo infiel para comigo.
+
+[[v26-20-28]]
+
+^<<v26-20-28,28>>^ Eu os levei à terra que havia jurado dar a eles. Quando eles viram todas as colinas elevadas e árvores frondosas, começaram a oferecer seus sacrifícios e suas ofertas ofensivas. Ali eles ofereciam o aroma agradável^&#42;1^ dos seus sacrifícios e derramavam suas ofertas de bebida.
+
+[NOTE]
+====
+. Ou: “apaziguador; calmante”. Lit.: “repousante”.
+====
+
+[[v26-20-29]]
+
+^<<v26-20-29,29>>^ Por isso eu lhes perguntei: ‘O que significa esse alto sagrado aonde vocês vão? (Ele é chamado de Alto Sagrado até hoje.)’”’
+
+[[v26-20-30]]
+
+^<<v26-20-30,30>>^ “Agora, diga à casa de Israel: ‘Assim diz o Soberano Senhor Jeová: “Por acaso vocês estão contaminando a si mesmos do mesmo modo que os seus antepassados fizeram, seguindo seus ídolos repugnantes para cometer prostituição espiritual com eles?
+
+[[v26-20-31]]
+
+^<<v26-20-31,31>>^ Estão até hoje contaminando a si mesmos oferecendo sacrifícios a todos os seus ídolos repugnantes, queimando os seus filhos no fogo?^&#42;1^ E agora deveria eu permitir que vocês me consultassem, ó casa de Israel?”’
+“‘Tão certo como eu vivo’, diz o Soberano Senhor Jeová, ‘não lhes darei nenhuma resposta.
+
+[NOTE]
+====
+. Lit.: “fazendo seus filhos passar pelo fogo”.
+====
+
+[[v26-20-32]]
+
+^<<v26-20-32,32>>^ Nunca acontecerá o que vocês têm em mente^&#42;1^ quando dizem: “Sejamos como as nações, como os povos das outras terras, que adoram^&#42;2^ madeira e pedra.”’”
+
+[NOTE]
+====
+. Lit.: “espírito”.
+. Ou: “ministram a; servem”.
+====
+
+[[v26-20-33]]
+
+^<<v26-20-33,33>>^ “‘Tão certo como eu vivo’, diz o Soberano Senhor Jeová, ‘eu reinarei sobre vocês com mão poderosa e braço estendido, derramando o meu furor.
+
+[[v26-20-34]]
+
+^<<v26-20-34,34>>^ Vou tirar vocês dentre os povos e reuni-los dentre as terras pelas quais foram espalhados, com mão poderosa e braço estendido, derramando o meu furor.
+
+[[v26-20-35]]
+
+^<<v26-20-35,35>>^ Vou levá-los ao deserto dos povos e entrarei ali em juízo contra vocês, face a face.
+
+[[v26-20-36]]
+
+^<<v26-20-36,36>>^ “‘Assim como entrei em juízo contra os seus antepassados no deserto da terra do Egito, assim entrarei em juízo contra vocês’, diz o Soberano Senhor Jeová.
+
+[[v26-20-37]]
+
+^<<v26-20-37,37>>^ ‘Vou fazê-los passar debaixo do cajado e vou fazer com que sejam obrigados a cumprir o^&#42;1^ pacto.
+
+[NOTE]
+====
+. Lit.: “vou trazê-los para o vínculo do”.
+====
+
+[[v26-20-38]]
+
+^<<v26-20-38,38>>^ Mas removerei do seu meio os rebeldes e os que transgridem contra mim. Pois eu os tirarei da terra em que moram como estrangeiros, mas eles não entrarão na terra de Israel; e vocês terão de saber que eu sou Jeová.’
+
+[[v26-20-39]]
+
+^<<v26-20-39,39>>^ “Quanto a vocês, ó casa de Israel, assim diz o Soberano Senhor Jeová: ‘Vão, cada um de vocês, sirvam aos seus ídolos repugnantes. Mas depois, se vocês não me escutarem, não poderão mais profanar o meu santo nome com os seus sacrifícios e com os seus ídolos repugnantes.’
+
+[[v26-20-40]]
+
+^<<v26-20-40,40>>^ “‘Pois no meu santo monte, num alto monte de Israel’, diz o Soberano Senhor Jeová, ‘é onde toda a casa de Israel, toda ela, me servirá naquela terra. Lá eu me agradarei deles e pedirei as suas contribuições e as suas melhores ofertas, todas as suas coisas sagradas.
+
+[[v26-20-41]]
+
+^<<v26-20-41,41>>^ Por causa do aroma agradável,^&#42;1^ eu me agradarei de vocês quando eu os tirar dentre os povos e os reunir dentre as terras pelas quais vocês foram espalhados; e eu serei santificado entre vocês diante dos olhos das nações’.
+
+[NOTE]
+====
+. Ou: “apaziguador; calmante”. Lit.: “repousante”.
+====
+
+[[v26-20-42]]
+
+^<<v26-20-42,42>>^ “‘E vocês terão de saber que eu sou Jeová quando eu os levar à terra de Israel, a terra que jurei dar aos seus antepassados.
+
+[[v26-20-43]]
+
+^<<v26-20-43,43>>^ E lá vocês se lembrarão da sua conduta e de todas as suas ações com as quais se tornaram impuros, e sentirão nojo de si mesmos^&#42;1^ por causa de todas as coisas más que fizeram.
+
+[NOTE]
+====
+. Lit.: “suas faces”.
+====
+
+[[v26-20-44]]
+
+^<<v26-20-44,44>>^ Então vocês terão de saber que eu sou Jeová quando eu tiver tratos com vocês por causa do meu nome, não conforme a sua conduta má ou as suas ações corruptas, ó casa de Israel’, diz o Soberano Senhor Jeová.”
+
+[[v26-20-45]]
+
+^<<v26-20-45,45>>^ Então recebi novamente a palavra de Jeová:
+
+[[v26-20-46]]
+
+^<<v26-20-46,46>>^ “Filho do homem, vire-se para a região do sul e faça uma proclamação para o sul; profetize para a floresta da terra do sul.
+
+[[v26-20-47]]
+
+^<<v26-20-47,47>>^ Diga à floresta do sul: ‘Ouça a palavra de Jeová. Assim diz o Soberano Senhor Jeová: “Estou acendendo contra você um fogo, e ele consumirá todas as suas árvores, tanto as viçosas como as secas. A chama ardente não será apagada, e ela chamuscará todas as faces, de sul a norte.
+
+[[v26-20-48]]
+
+^<<v26-20-48,48>>^ E todas as pessoas verão^&#42;1^ que fui eu, Jeová, que acendi esse fogo, de modo que ele não será apagado.”’”
+
+[NOTE]
+====
+. Lit.: “toda carne verá”.
+====
+
+[[v26-20-49]]
+
+^<<v26-20-49,49>>^ Então eu disse: “Ai, Soberano Senhor Jeová! Estão dizendo a meu respeito: ‘Ele não está apenas proferindo enigmas?’”^&#42;1^
+
+[NOTE]
+====
+. Ou: “expressões proverbiais”.
+====
+
+'''
+
+xref:026-ezequiel/026-ezequiel-019.adoc#v26-19-0[&#60; Capítulo Anterior] | <<v26-20-0,Topo>> | xref:026-ezequiel/026-ezequiel-021.adoc#v26-21-0[Próximo Capítulo &#62;]

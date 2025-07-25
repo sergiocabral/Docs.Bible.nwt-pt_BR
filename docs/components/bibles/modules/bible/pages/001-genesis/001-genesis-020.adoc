@@ -1,0 +1,102 @@
+include::./index.adoc[]
+
+[[v1-20-0]]
+=== Gênesis, 20
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v1-20-1]]
+
+^<<v1-20-1,1>>^ Abraão mudou então seu acampamento dali para a terra do Neguebe e passou a morar entre Cades e Sur. Enquanto estava morando^&#42;1^ em Gerar,
+
+[NOTE]
+====
+. Ou: “estava morando como estrangeiro”.
+====
+
+[[v1-20-2]]
+
+^<<v1-20-2,2>>^ Abraão repetiu o seguinte com respeito a Sara, sua esposa: “Ela é minha irmã.” Então Abimeleque, rei de Gerar, mandou buscar Sara e a tomou para si.
+
+[[v1-20-3]]
+
+^<<v1-20-3,3>>^ Depois, Deus veio a Abimeleque num sonho, durante a noite, e lhe disse: “A bem dizer você já está morto por causa da mulher que tomou, visto que ela é casada, pertence a outro homem.”
+
+[[v1-20-4]]
+
+^<<v1-20-4,4>>^ No entanto, Abimeleque não havia se aproximado dela.^&#42;1^ Disse, portanto: “Jeová, matarás uma nação que na verdade é inocente?^&#42;2^
+
+[NOTE]
+====
+. Isto é, não havia tido relações sexuais com ela.
+. Ou: “justa”.
+====
+
+[[v1-20-5]]
+
+^<<v1-20-5,5>>^ Não me disse ele: ‘Ela é minha irmã’, e não me disse ela também: ‘Ele é meu irmão’? Fiz isso de coração honesto e com mãos inocentes.”
+
+[[v1-20-6]]
+
+^<<v1-20-6,6>>^ O verdadeiro Deus lhe disse então no sonho: “Eu sei que você fez isso de coração honesto; é por isso que eu o refreei de pecar contra mim e não lhe permiti tocar nela.
+
+[[v1-20-7]]
+
+^<<v1-20-7,7>>^ Agora, devolva ao homem a esposa dele, pois ele é profeta e fará súplicas por você, e você continuará vivo. Mas, se não a devolver, saiba que certamente morrerá, você e todos os que são seus.”
+
+[[v1-20-8]]
+
+^<<v1-20-8,8>>^ Abimeleque se levantou de manhã cedo, chamou todos os seus servos e lhes disse todas essas coisas. E eles ficaram com muito medo.
+
+[[v1-20-9]]
+
+^<<v1-20-9,9>>^ Depois Abimeleque chamou Abraão e lhe disse: “O que você nos fez? Que pecado cometi contra você, para você trazer uma culpa tão grande sobre mim e sobre o meu reino? O que você fez comigo não é correto.”
+
+[[v1-20-10]]
+
+^<<v1-20-10,10>>^ E Abimeleque perguntou a Abraão: “Qual era a sua intenção ao fazer isso?”
+
+[[v1-20-11]]
+
+^<<v1-20-11,11>>^ Abraão respondeu: “Foi porque eu disse a mim mesmo: ‘Certamente, não há temor de Deus neste lugar, e eles me matarão por causa da minha esposa.’
+
+[[v1-20-12]]
+
+^<<v1-20-12,12>>^ E, além disso, ela é realmente minha irmã, filha do meu pai, apenas não é filha da minha mãe; e ela se tornou minha esposa.
+
+[[v1-20-13]]
+
+^<<v1-20-13,13>>^ Então, quando Deus me fez sair da casa do meu pai para vaguear, eu disse a ela: ‘É desta maneira que você me mostrará amor leal: em todo lugar aonde formos, diga sobre mim: “Ele é meu irmão.”’”
+
+[[v1-20-14]]
+
+^<<v1-20-14,14>>^ A seguir, Abimeleque pegou ovelhas, bois, servos e servas, e os deu a Abraão, e lhe devolveu Sara, sua esposa.
+
+[[v1-20-15]]
+
+^<<v1-20-15,15>>^ Além disso, Abimeleque disse: “A minha terra está à sua disposição. More onde quiser.”
+
+[[v1-20-16]]
+
+^<<v1-20-16,16>>^ E a Sara ele disse: “Estou dando 1.000 peças de prata ao seu irmão. Isso é para mostrar que você é inocente,^&#42;1^ tanto aos que estão com você como a todos os outros, e você está livre de desonra.”
+
+[NOTE]
+====
+. Lit.: “Veja, isso é para você uma cobertura para os olhos”.
+====
+
+[[v1-20-17]]
+
+^<<v1-20-17,17>>^ E Abraão começou a fazer súplicas ao verdadeiro Deus, e Deus curou Abimeleque, sua esposa e suas escravas, e elas começaram a ter filhos;
+
+[[v1-20-18]]
+
+^<<v1-20-18,18>>^ pois Jeová havia tornado estéreis todas as mulheres^&#42;1^ da casa de Abimeleque por causa de Sara, esposa de Abraão.
+
+[NOTE]
+====
+. Ou: “havia fechado completamente todo ventre”.
+====
+
+'''
+
+xref:001-genesis/001-genesis-019.adoc#v1-19-0[&#60; Capítulo Anterior] | <<v1-20-0,Topo>> | xref:001-genesis/001-genesis-021.adoc#v1-21-0[Próximo Capítulo &#62;]

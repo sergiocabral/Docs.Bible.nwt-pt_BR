@@ -1,0 +1,149 @@
+include::./index.adoc[]
+
+[[v23-11-0]]
+=== Isaías, 11
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v23-11-1]]
+
+^<<v23-11-1,1>>^ Do toco de Jessé sairá um ramo novo;
+E das suas raízes, um renovo dará frutos.
+
+[[v23-11-2]]
+
+^<<v23-11-2,2>>^ E o espírito de Jeová estará sobre ele,
+O espírito de sabedoria e de entendimento,
+O espírito de conselho e de poder,
+O espírito de conhecimento e do temor de Jeová.
+
+[[v23-11-3]]
+
+^<<v23-11-3,3>>^ E ele terá prazer no temor de Jeová.
+Ele não julgará pelas aparências,
+Nem repreenderá simplesmente pelo que ouve.
+
+[[v23-11-4]]
+
+^<<v23-11-4,4>>^ Ele julgará os de condição humilde com justiça,
+E dará repreensão com retidão em benefício dos mansos da terra.
+Ele golpeará a terra com a vara da sua boca
+E entregará os maus à morte com o sopro^&#42;1^ dos seus lábios.
+
+[NOTE]
+====
+. Ou: “espírito”.
+====
+
+[[v23-11-5]]
+
+^<<v23-11-5,5>>^ A justiça será o cinto na sua cintura,
+E a fidelidade, o cinto nos seus quadris.
+
+[[v23-11-6]]
+
+^<<v23-11-6,6>>^ O lobo estará^&#42;1^ junto com o cordeiro,
+E o leopardo se deitará com o cabrito;
+O bezerro, o leão^&#42;2^ e o novilho gordo^&#42;3^ estarão juntos;^&#42;4^
+E um menino os conduzirá.
+
+[NOTE]
+====
+. Ou: “residirá por um tempo”.
+. Ou: “leão novo jubado”.
+. Lit.: “animal cevado”.
+. Ou, possivelmente: “O bezerro e o leão pastarão juntos”.
+====
+
+[[v23-11-7]]
+
+^<<v23-11-7,7>>^ A vaca e a ursa pastarão juntas,
+E juntas se deitarão suas crias.
+O leão comerá palha como o touro.
+
+[[v23-11-8]]
+
+^<<v23-11-8,8>>^ A criança de peito brincará sobre a toca da naja,
+E a criança desmamada porá a mão sobre o ninho da cobra venenosa.
+
+[[v23-11-9]]
+
+^<<v23-11-9,9>>^ Não se causará dano
+Nem ruína em todo o meu santo monte,
+Porque a terra certamente ficará cheia do conhecimento de Jeová,
+Assim como as águas cobrem o mar.
+
+[[v23-11-10]]
+
+^<<v23-11-10,10>>^ Naquele dia a raiz de Jessé se levantará como sinal^&#42;1^ para os povos.
+As nações recorrerão a ele em busca de orientação,^&#42;2^
+E a morada^&#42;3^ dele se tornará gloriosa.
+
+[NOTE]
+====
+. Ou: “poste de sinal”.
+. Ou: “As nações procurarão por ele”.
+. Lit.: “o lugar de descanso”.
+====
+
+[[v23-11-11]]
+
+^<<v23-11-11,11>>^ Naquele dia Jeová estenderá a mão novamente, uma segunda vez, para resgatar o restante do seu povo que estiver na Assíria, no Egito, em Patros, em Cuche, em Elão, em Sinear,^&#42;1^ em Hamate e nas ilhas do mar.
+
+[NOTE]
+====
+. Isto é, Babilônia.
+====
+
+[[v23-11-12]]
+
+^<<v23-11-12,12>>^ Ele erguerá um sinal^&#42;1^ para as nações e ajuntará os dispersos de Israel, e reunirá os espalhados de Judá dos quatro cantos da terra.
+
+[NOTE]
+====
+. Ou: “poste de sinal”.
+====
+
+[[v23-11-13]]
+
+^<<v23-11-13,13>>^ O ciúme de Efraim desaparecerá,
+E os que são hostis a Judá serão eliminados.
+Efraim não terá ciúmes de Judá,
+Nem Judá será hostil a Efraim.
+
+[[v23-11-14]]
+
+^<<v23-11-14,14>>^ E eles atacarão as encostas^&#42;1^ dos filisteus ao oeste;
+Juntos saquearão os orientais.
+Estenderão a mão contra^&#42;2^ Edom e Moabe,
+E os amonitas se tornarão seus súditos.
+
+[NOTE]
+====
+. Lit.: “o ombro”.
+. Ou: “seu poder sobre”.
+====
+
+[[v23-11-15]]
+
+^<<v23-11-15,15>>^ Jeová dividirá^&#42;1^ o golfo^&#42;2^ do mar egípcio
+E agitará a mão contra o rio Eufrates.^&#42;3^
+Com seu sopro^&#42;4^ ardente ele golpeará as sete correntes de água do rio^&#42;5^
+E fará as pessoas atravessá-lo de sandálias.
+
+[NOTE]
+====
+. Ou, possivelmente: “secará”.
+. Lit.: “a língua”.
+. Lit.: “o Rio”.
+. Ou: “espírito”.
+. Ou, possivelmente: “ele dividirá o rio em sete correntes de água”.
+====
+
+[[v23-11-16]]
+
+^<<v23-11-16,16>>^ E, para o restante do seu povo, haverá uma estrada que sairá da Assíria,
+Assim como houve uma estrada para Israel no dia em que saiu da terra do Egito.
+
+'''
+
+xref:023-isaias/023-isaias-010.adoc#v23-10-0[&#60; Capítulo Anterior] | <<v23-11-0,Topo>> | xref:023-isaias/023-isaias-012.adoc#v23-12-0[Próximo Capítulo &#62;]

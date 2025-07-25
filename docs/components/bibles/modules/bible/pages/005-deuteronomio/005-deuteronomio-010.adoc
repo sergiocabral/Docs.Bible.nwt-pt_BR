@@ -1,0 +1,144 @@
+include::./index.adoc[]
+
+[[v5-10-0]]
+=== Deuteronômio, 10
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v5-10-1]]
+
+^<<v5-10-1,1>>^ “Naquela ocasião, Jeová me disse: ‘Lavre duas tábuas de pedra iguais às primeiras e suba ao meu encontro no monte. Faça também uma arca^&#42;1^ de madeira.
+
+[NOTE]
+====
+. Ou: “caixa”.
+====
+
+[[v5-10-2]]
+
+^<<v5-10-2,2>>^ E eu escreverei nas tábuas as palavras que estavam nas primeiras tábuas, que você despedaçou; depois você deve colocá-las na arca.’
+
+[[v5-10-3]]
+
+^<<v5-10-3,3>>^ Fiz assim uma arca de madeira de acácia, lavrei duas tábuas de pedra iguais às primeiras e subi ao monte com as duas tábuas nas mãos.
+
+[[v5-10-4]]
+
+^<<v5-10-4,4>>^ Ele escreveu então nas tábuas as palavras que tinha escrito antes, os Dez Mandamentos,^&#42;1^ que Jeová lhes havia falado no monte, do meio do fogo, no dia em que a assembleia estava reunida;^&#42;2^ e Jeová as deu a mim.
+
+[NOTE]
+====
+. Lit.: “as Dez Palavras”. Também conhecidos como o Decálogo.
+. Ou: “no dia da congregação”.
+====
+
+[[v5-10-5]]
+
+^<<v5-10-5,5>>^ Virei-me então e desci do monte, e coloquei as tábuas na arca que eu tinha feito. E elas continuam ali, assim como Jeová me havia ordenado.
+
+[[v5-10-6]]
+
+^<<v5-10-6,6>>^ “Então os israelitas partiram de Beerote Bene-Jaacã para Moserá. Ali Arão morreu e foi enterrado; e Eleazar, seu filho, começou a servir como sacerdote no lugar dele.
+
+[[v5-10-7]]
+
+^<<v5-10-7,7>>^ Dali partiram para Gudgodá, e de Gudgodá para Jotbata, uma terra de correntes de água.^&#42;1^
+
+[NOTE]
+====
+. Ou: “uádis de água”.
+====
+
+[[v5-10-8]]
+
+^<<v5-10-8,8>>^ “Naquela época, Jeová separou a tribo de Levi para carregar a Arca do Pacto de Jeová, para ficar perante Jeová e servi-lo,^&#42;1^ e para proferir bênçãos em Seu nome, assim como fazem até hoje.
+
+[NOTE]
+====
+. Ou: “ministrar-lhe”.
+====
+
+[[v5-10-9]]
+
+^<<v5-10-9,9>>^ É por isso que Levi não recebeu uma porção ou uma herança entre os seus irmãos. Jeová é a sua herança, assim como Jeová, seu Deus, lhe tinha dito.
+
+[[v5-10-10]]
+
+^<<v5-10-10,10>>^ Quanto a mim, fiquei no monte como na primeira vez, 40 dias e 40 noites, e Jeová me escutou também dessa vez; Jeová não quis destruir você.
+
+[[v5-10-11]]
+
+^<<v5-10-11,11>>^ Jeová me disse então: ‘Vá adiante do povo e prepare-se para partir, para que eles entrem na terra que lhes darei, conforme jurei aos antepassados deles, e para que tomem posse dela.’
+
+[[v5-10-12]]
+
+^<<v5-10-12,12>>^ “Agora, ó Israel, o que é que Jeová, seu Deus, pede de você? Apenas isto: que você tema a Jeová, seu Deus, que ande sempre nos seus caminhos, que o ame, que sirva a Jeová, seu Deus, de todo o seu coração e de toda a sua alma,^&#42;1^
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v5-10-13]]
+
+^<<v5-10-13,13>>^ e que guarde os mandamentos e os decretos de Jeová, que hoje lhe ordeno, para o seu próprio bem.
+
+[[v5-10-14]]
+
+^<<v5-10-14,14>>^ Veja! A Jeová, seu Deus, pertencem os céus, sim, os céus dos céus,^&#42;1^ a terra e tudo o que nela há.
+
+[NOTE]
+====
+. Ou: “o mais alto dos céus”.
+====
+
+[[v5-10-15]]
+
+^<<v5-10-15,15>>^ Mas foi apenas aos seus antepassados que Jeová se achegou e demonstrou seu amor; e ele escolheu vocês, a descendência deles, dentre todos os povos, assim como se vê hoje.
+
+[[v5-10-16]]
+
+^<<v5-10-16,16>>^ Agora purifiquem o^&#42;1^ seu coração e deixem de ser tão obstinados.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “circuncidem o prepúcio do”.
+. Lit.: “e não endureçam mais sua cerviz”.
+====
+
+[[v5-10-17]]
+
+^<<v5-10-17,17>>^ Pois Jeová, seu Deus, é o Deus dos deuses e o Senhor dos senhores, o Deus grande, poderoso e que inspira temor, que não trata a ninguém com parcialidade nem aceita suborno.
+
+[[v5-10-18]]
+
+^<<v5-10-18,18>>^ Ele faz justiça ao órfão^&#42;1^ e à viúva, e ama o residente estrangeiro, dando-lhe alimento e roupa.
+
+[NOTE]
+====
+. Ou: “órfão de pai”.
+====
+
+[[v5-10-19]]
+
+^<<v5-10-19,19>>^ Vocês também devem amar o residente estrangeiro, pois vocês foram residentes estrangeiros na terra do Egito.
+
+[[v5-10-20]]
+
+^<<v5-10-20,20>>^ “É a Jeová, seu Deus, que você deve temer, a ele é que deve servir e se apegar, e pelo seu nome deve jurar.
+
+[[v5-10-21]]
+
+^<<v5-10-21,21>>^ É a ele que deve louvar. Ele é o seu Deus, que fez por você todas essas coisas grandes e atemorizantes, que os seus próprios olhos viram.
+
+[[v5-10-22]]
+
+^<<v5-10-22,22>>^ Quando os seus antepassados desceram ao Egito, eram 70 pessoas;^&#42;1^ e agora, Jeová, seu Deus, fez você tão numeroso quanto as estrelas dos céus.
+
+[NOTE]
+====
+. Ou: “almas”.
+====
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-009.adoc#v5-9-0[&#60; Capítulo Anterior] | <<v5-10-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-011.adoc#v5-11-0[Próximo Capítulo &#62;]

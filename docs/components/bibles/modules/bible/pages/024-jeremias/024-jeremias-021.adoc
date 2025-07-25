@@ -1,0 +1,118 @@
+include::./index.adoc[]
+
+[[v24-21-0]]
+=== Jeremias, 21
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v24-21-1]]
+
+^<<v24-21-1,1>>^ Jeremias recebeu a palavra de Jeová quando o rei Zedequias lhe enviou Pasur, filho de Malquias, e Sofonias, filho de Maaseias, o sacerdote, para pedir o seguinte:
+
+[[v24-21-2]]
+
+^<<v24-21-2,2>>^ “Por favor, consulte a Jeová a nosso favor, porque Nabucodonosor,^&#42;1^ rei de Babilônia, está travando guerra contra nós. Talvez Jeová realize a nosso favor um dos seus atos maravilhosos, e o obrigue a se retirar.”
+
+[NOTE]
+====
+. Lit.: “Nabucodorosor”, grafia variante.
+====
+
+[[v24-21-3]]
+
+^<<v24-21-3,3>>^ Jeremias respondeu-lhes: “Isto é o que vocês devem dizer a Zedequias:
+
+[[v24-21-4]]
+
+^<<v24-21-4,4>>^ ‘Assim diz Jeová, o Deus de Israel: “Estou voltando contra vocês^&#42;1^ as armas de guerra que estão nas suas próprias mãos, com as quais vocês estão lutando contra o rei de Babilônia e os caldeus que estão fora da muralha cercando vocês. E eu as^&#42;2^ ajuntarei no meio desta cidade.
+
+[NOTE]
+====
+. Ou: “virando ao contrário”.
+. Ou: “os”.
+====
+
+[[v24-21-5]]
+
+^<<v24-21-5,5>>^ E eu mesmo lutarei contra vocês com mão estendida e braço forte, com ira, furor e grande indignação.
+
+[[v24-21-6]]
+
+^<<v24-21-6,6>>^ Vou golpear os habitantes desta cidade. Tanto os homens como os animais morrerão por causa de uma grande peste.”’^&#42;1^
+
+[NOTE]
+====
+. Ou: “doença”.
+====
+
+[[v24-21-7]]
+
+^<<v24-21-7,7>>^ “‘“Depois disso”, diz Jeová, “entregarei Zedequias, rei de Judá, seus servos e o povo desta cidade — aqueles que sobreviverem à peste, à espada e à fome — nas mãos de Nabucodonosor,^&#42;1^ rei de Babilônia, nas mãos dos seus inimigos e nas mãos dos que procuram tirar-lhes a vida.^&#42;2^ Ele os matará à espada. Não sentirá dó deles, nem terá compaixão, nem mostrará misericórdia.”’
+
+[NOTE]
+====
+. Lit.: “Nabucodorosor”, grafia variante.
+. Ou: “procuram a sua alma”.
+====
+
+[[v24-21-8]]
+
+^<<v24-21-8,8>>^ “E você deve dizer a este povo: ‘Assim diz Jeová: “Estou pondo diante de vocês o caminho da vida e o caminho da morte.
+
+[[v24-21-9]]
+
+^<<v24-21-9,9>>^ Os que permanecerem nesta cidade morrerão pela espada, pela fome e pela peste. Mas quem sair e se render aos caldeus que cercam vocês continuará vivo e terá a sua vida como despojo.”’^&#42;1^
+
+[NOTE]
+====
+. Ou: “e escapará com a sua vida (alma)”.
+====
+
+[[v24-21-10]]
+
+^<<v24-21-10,10>>^ “‘“Pois eu me voltei^&#42;1^ contra esta cidade para a calamidade dela, não para o bem”, diz Jeová. “Ela será entregue nas mãos do rei de Babilônia, e ele a queimará com fogo.”
+
+[NOTE]
+====
+. Ou: “eu fixei minha face”.
+====
+
+[[v24-21-11]]
+
+^<<v24-21-11,11>>^ “‘À casa do rei de Judá: Ouçam a palavra de Jeová.
+
+[[v24-21-12]]
+
+^<<v24-21-12,12>>^ Ó casa de Davi, assim diz Jeová:
+“Defendam a justiça toda manhã,
+E livrem das mãos dos exploradores^&#42;1^ os que estão sendo roubados,
+Para que o meu furor não se acenda como um fogo
+E queime sem que ninguém possa apagá-lo,
+Por causa das suas más ações.”’
+
+[NOTE]
+====
+. Ou: “defraudadores”.
+====
+
+[[v24-21-13]]
+
+^<<v24-21-13,13>>^ ‘Eu estou contra você, ó moradora do vale,^&#42;1^
+Ó rochedo da planície’, diz Jeová.
+‘Vocês dizem: “Quem descerá contra nós?
+Quem invadirá as nossas casas?”
+
+[NOTE]
+====
+. Ou: “da baixada”.
+====
+
+[[v24-21-14]]
+
+^<<v24-21-14,14>>^ Mas eu ajustarei contas com vocês
+Conforme merecem pelas suas ações’, diz Jeová.
+‘E porei fogo na sua floresta,
+E ele devorará todos os seus arredores.’”
+
+'''
+
+xref:024-jeremias/024-jeremias-020.adoc#v24-20-0[&#60; Capítulo Anterior] | <<v24-21-0,Topo>> | xref:024-jeremias/024-jeremias-022.adoc#v24-22-0[Próximo Capítulo &#62;]

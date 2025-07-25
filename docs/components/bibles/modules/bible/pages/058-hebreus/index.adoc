@@ -1,0 +1,24 @@
+include::../index.adoc[]
+
+[[v58-0-0]]
+== Hebreus
+
+[cols="8*^"]
+|===
+| xref:058-hebreus/058-hebreus-001.adoc#v58-1-0[1]
+| xref:058-hebreus/058-hebreus-002.adoc#v58-2-0[2]
+| xref:058-hebreus/058-hebreus-003.adoc#v58-3-0[3]
+| xref:058-hebreus/058-hebreus-004.adoc#v58-4-0[4]
+| xref:058-hebreus/058-hebreus-005.adoc#v58-5-0[5]
+| xref:058-hebreus/058-hebreus-006.adoc#v58-6-0[6]
+| xref:058-hebreus/058-hebreus-007.adoc#v58-7-0[7]
+| xref:058-hebreus/058-hebreus-008.adoc#v58-8-0[8]
+| xref:058-hebreus/058-hebreus-009.adoc#v58-9-0[9]
+| xref:058-hebreus/058-hebreus-010.adoc#v58-10-0[10]
+| xref:058-hebreus/058-hebreus-011.adoc#v58-11-0[11]
+| xref:058-hebreus/058-hebreus-012.adoc#v58-12-0[12]
+| xref:058-hebreus/058-hebreus-013.adoc#v58-13-0[13]
+|
+|
+|
+|===

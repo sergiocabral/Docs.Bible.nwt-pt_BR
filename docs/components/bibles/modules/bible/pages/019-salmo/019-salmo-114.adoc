@@ -1,0 +1,59 @@
+include::./index.adoc[]
+
+[[v19-114-0]]
+=== Salmos, 114
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v19-114-1]]
+
+^<<v19-114-1,1>>^ Quando Israel saiu do Egito,
+Quando a casa de Jacó saiu do meio de um povo de língua estrangeira,
+
+[[v19-114-2]]
+
+^<<v19-114-2,2>>^ Judá se tornou o santuário^&#42;1^ Dele;
+Israel, seu domínio.
+
+[NOTE]
+====
+. Ou: “lugar santo”.
+====
+
+[[v19-114-3]]
+
+^<<v19-114-3,3>>^ O mar viu e fugiu;
+O Jordão voltou para trás.
+
+[[v19-114-4]]
+
+^<<v19-114-4,4>>^ Os montes saltaram como carneiros,
+As colinas como cordeiros.
+
+[[v19-114-5]]
+
+^<<v19-114-5,5>>^ O que fez você fugir, ó mar?
+Por que, ó Jordão, você voltou para trás?
+
+[[v19-114-6]]
+
+^<<v19-114-6,6>>^ Por que vocês saltaram como carneiros, ó montes?
+Como cordeiros, ó colinas?
+
+[[v19-114-7]]
+
+^<<v19-114-7,7>>^ Estremeça, ó terra, por causa do Senhor,
+Por causa do Deus de Jacó,
+
+[[v19-114-8]]
+
+^<<v19-114-8,8>>^ Que transforma a rocha em uma lagoa repleta de juncos,
+O rochedo^&#42;1^ em correntes de água.
+
+[NOTE]
+====
+. Ou: “A rocha de pederneira”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-113.adoc#v19-113-0[&#60; Capítulo Anterior] | <<v19-114-0,Topo>> | xref:019-salmo/019-salmo-115.adoc#v19-115-0[Próximo Capítulo &#62;]

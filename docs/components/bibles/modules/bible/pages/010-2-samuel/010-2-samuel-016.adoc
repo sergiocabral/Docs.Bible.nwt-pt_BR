@@ -1,0 +1,133 @@
+include::./index.adoc[]
+
+[[v10-16-0]]
+=== O Segundo de Samuel, 16
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v10-16-1]]
+
+^<<v10-16-1,1>>^ Quando Davi tinha passado um pouco além do cume do monte, Ziba, ajudante de Mefibosete, o esperava ali, com dois jumentos selados, carregados com duzentos pães, cem tortas de passas, cem tortas de frutas de verão^&#42;1^ e um jarro grande de vinho.
+
+[NOTE]
+====
+. Especialmente figos, e talvez também tâmaras.
+====
+
+[[v10-16-2]]
+
+^<<v10-16-2,2>>^ O rei perguntou a Ziba: “Por que você trouxe essas coisas?” Ziba respondeu: “Os jumentos são para os da casa do rei montarem, o pão e as frutas de verão são para os homens comerem, e o vinho é para os que ficarem exaustos no deserto.”
+
+[[v10-16-3]]
+
+^<<v10-16-3,3>>^ O rei perguntou: “E onde está o filho^&#42;1^ do seu senhor?” Ziba disse então ao rei: “Ele ficou em Jerusalém, pois disse: ‘É hoje que a casa de Israel me dará de volta o reino de meu pai.’”
+
+[NOTE]
+====
+. Ou: “neto”.
+====
+
+[[v10-16-4]]
+
+^<<v10-16-4,4>>^ O rei disse então a Ziba: “Tudo o que pertence a Mefibosete agora é seu.” Ziba disse: “Eu me curvo diante do senhor. Que eu ache favor aos seus olhos, meu senhor, o rei.”
+
+[[v10-16-5]]
+
+^<<v10-16-5,5>>^ Quando o rei Davi chegou a Baurim, um homem da família da casa de Saul, chamado Simei, filho de Gera, veio em sua direção, amaldiçoando-o.
+
+[[v10-16-6]]
+
+^<<v10-16-6,6>>^ Ele atirava pedras no rei Davi e em todos os servos do rei Davi, bem como em todo o povo e nos homens valentes que estavam à direita e à esquerda do rei.
+
+[[v10-16-7]]
+
+^<<v10-16-7,7>>^ Simei dizia o seguinte ao amaldiçoá-lo: “Fora, fora daqui, homem culpado de sangue! Homem imprestável!
+
+[[v10-16-8]]
+
+^<<v10-16-8,8>>^ Jeová está fazendo recair sobre você toda a culpa de sangue pela casa de Saul, no lugar de quem você reinou, e Jeová está entregando o reino nas mãos de Absalão, seu filho. Agora veio sobre você a calamidade, porque você é um homem culpado de sangue!”
+
+[[v10-16-9]]
+
+^<<v10-16-9,9>>^ Então Abisai, filho de Zeruia, disse ao rei: “Por que permitir que esse cão morto amaldiçoe o meu senhor, o rei? Deixe-me ir lá e decepar a cabeça dele.”
+
+[[v10-16-10]]
+
+^<<v10-16-10,10>>^ Mas o rei disse: “O que eu tenho a ver com vocês, filhos de Zeruia? Deixe que ele me amaldiçoe, pois Jeová lhe disse: ‘Amaldiçoe Davi!’ Portanto, quem lhe dirá: ‘Por que você está fazendo isso?’”
+
+[[v10-16-11]]
+
+^<<v10-16-11,11>>^ Davi disse então a Abisai e a todos os seus servos: “Se o meu próprio filho, sangue do meu sangue,^&#42;1^ está procurando tirar a minha vida,^&#42;2^ quanto mais um benjaminita! Deixem que ele me amaldiçoe, pois Jeová lhe disse para fazer isso.
+
+[NOTE]
+====
+. Ou: “que saiu do meu próprio corpo”.
+. Ou: “procurando a minha alma”.
+====
+
+[[v10-16-12]]
+
+^<<v10-16-12,12>>^ Talvez Jeová veja minha aflição e Jeová me dê bênçãos em vez das maldições que hoje são invocadas sobre mim.”
+
+[[v10-16-13]]
+
+^<<v10-16-13,13>>^ Assim, Davi e seus homens continuaram andando pela estrada, enquanto Simei mantinha o passo com ele ao lado do monte, amaldiçoando, atirando pedras e jogando muita poeira.
+
+[[v10-16-14]]
+
+^<<v10-16-14,14>>^ Por fim, o rei e todos os que estavam com ele chegaram exaustos ao seu destino, e ali descansaram.
+
+[[v10-16-15]]
+
+^<<v10-16-15,15>>^ Nesse meio-tempo, Absalão e todos os homens de Israel chegaram a Jerusalém, e Aitofel estava com ele.
+
+[[v10-16-16]]
+
+^<<v10-16-16,16>>^ Quando Husai, o arquita, amigo^&#42;1^ de Davi, compareceu diante de Absalão, Husai disse a Absalão: “Viva o rei! Viva o rei!”
+
+[NOTE]
+====
+. Ou: “confidente”.
+====
+
+[[v10-16-17]]
+
+^<<v10-16-17,17>>^ Em vista disso, Absalão perguntou a Husai: “É assim que você demonstra amor leal ao seu amigo? Por que você não foi com o seu amigo?”
+
+[[v10-16-18]]
+
+^<<v10-16-18,18>>^ Husai disse então a Absalão: “Eu não faria isso; eu estou do lado daquele que foi escolhido por Jeová, por este povo e por todos os homens de Israel, e é com ele que ficarei.
+
+[[v10-16-19]]
+
+^<<v10-16-19,19>>^ E digo mais: A quem devo servir? Não é ao filho? Assim como servi seu pai, também servirei o senhor.”
+
+[[v10-16-20]]
+
+^<<v10-16-20,20>>^ Absalão perguntou então a Aitofel: “Dê-me um conselho. O que devemos fazer?”
+
+[[v10-16-21]]
+
+^<<v10-16-21,21>>^ Aitofel disse então a Absalão: “Tenha relações com as concubinas do seu pai, aquelas que ele deixou para tomar conta da casa.^&#42;1^ Quando todo o Israel souber que o seu pai passou a odiar você,^&#42;2^ os que apoiam você se fortalecerão.”
+
+[NOTE]
+====
+. Ou: “do palácio”.
+. Ou: “que você fez de si um mau cheiro para o seu pai”.
+====
+
+[[v10-16-22]]
+
+^<<v10-16-22,22>>^ Assim, armaram para Absalão uma tenda no terraço, e Absalão teve relações com as concubinas do seu pai diante dos olhos de todo o Israel.
+
+[[v10-16-23]]
+
+^<<v10-16-23,23>>^ Naqueles dias, o conselho que Aitofel dava era considerado como^&#42;1^ a palavra do verdadeiro Deus. Era assim que tanto Davi como Absalão consideravam todos os conselhos de Aitofel.
+
+[NOTE]
+====
+. Ou: “era como se alguém estivesse consultando”.
+====
+
+'''
+
+xref:010-2-samuel/010-2-samuel-015.adoc#v10-15-0[&#60; Capítulo Anterior] | <<v10-16-0,Topo>> | xref:010-2-samuel/010-2-samuel-017.adoc#v10-17-0[Próximo Capítulo &#62;]

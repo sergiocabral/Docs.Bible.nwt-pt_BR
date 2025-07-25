@@ -1,0 +1,193 @@
+include::./index.adoc[]
+
+[[v4-10-0]]
+=== Números, 10
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v4-10-1]]
+
+^<<v4-10-1,1>>^ Jeová disse a Moisés:
+
+[[v4-10-2]]
+
+^<<v4-10-2,2>>^ “Faça duas trombetas; faça-as de prata batida a martelo, e use-as para convocar a assembleia e para dar o sinal de levantar acampamento.
+
+[[v4-10-3]]
+
+^<<v4-10-3,3>>^ Quando as duas trombetas forem tocadas, toda a assembleia será convocada a comparecer perante você à entrada da tenda de reunião.
+
+[[v4-10-4]]
+
+^<<v4-10-4,4>>^ Se apenas uma for tocada, só os maiorais, os cabeças dos milhares de Israel, serão convocados a comparecer perante você.
+
+[[v4-10-5]]
+
+^<<v4-10-5,5>>^ “Quando for dado um toque trêmulo, os acampamentos dos que estão ao leste devem partir.
+
+[[v4-10-6]]
+
+^<<v4-10-6,6>>^ Quando for dado um toque trêmulo pela segunda vez, os acampamentos dos que estão ao sul devem partir. Deve-se dar esse tipo de toque de trombeta cada vez que um dos acampamentos for partir.
+
+[[v4-10-7]]
+
+^<<v4-10-7,7>>^ “Para convocar a congregação, as trombetas devem ser tocadas, mas não com os toques trêmulos.
+
+[[v4-10-8]]
+
+^<<v4-10-8,8>>^ Os filhos de Arão, os sacerdotes, devem tocar as trombetas; isso será um decreto permanente para vocês, por todas as suas gerações.
+
+[[v4-10-9]]
+
+^<<v4-10-9,9>>^ “Se na sua terra vocês entrarem numa guerra contra um opressor que os esteja hostilizando, vocês deverão dar um toque de guerra com as trombetas, e Jeová, seu Deus, se lembrará de vocês e os salvará dos seus inimigos.
+
+[[v4-10-10]]
+
+^<<v4-10-10,10>>^ “Também nas suas ocasiões alegres — nas suas festividades e no começo dos meses — vocês devem tocar as trombetas diante das suas ofertas queimadas e dos seus sacrifícios de participação em comum; elas servirão de recordação perante seu Deus em favor de vocês. Eu sou Jeová, seu Deus.”
+
+[[v4-10-11]]
+
+^<<v4-10-11,11>>^ No segundo ano, no dia 20 do segundo mês, a nuvem se elevou de cima do tabernáculo do Testemunho.
+
+[[v4-10-12]]
+
+^<<v4-10-12,12>>^ Então os israelitas começaram a partir do deserto do Sinai na ordem estabelecida para as suas partidas, e a nuvem parou no deserto de Parã.
+
+[[v4-10-13]]
+
+^<<v4-10-13,13>>^ Essa foi a primeira vez que eles partiram seguindo a ordem de Jeová dada por meio de Moisés.
+
+[[v4-10-14]]
+
+^<<v4-10-14,14>>^ Assim, o grupo de três tribos do acampamento dos filhos de Judá partiu primeiro, segundo as suas divisões,^&#42;1^ e Nasom, filho de Aminadabe, estava no comando das divisões.
+
+[NOTE]
+====
+. Lit.: “segundo os seus exércitos”.
+====
+
+[[v4-10-15]]
+
+^<<v4-10-15,15>>^ Netanel, filho de Zuar, estava no comando da divisão da tribo dos filhos de Issacar.
+
+[[v4-10-16]]
+
+^<<v4-10-16,16>>^ E Eliabe, filho de Helom, estava no comando da divisão da tribo dos filhos de Zebulão.
+
+[[v4-10-17]]
+
+^<<v4-10-17,17>>^ Quando o tabernáculo foi desmontado, os filhos de Gérson e os filhos de Merari, que carregavam o tabernáculo, partiram.
+
+[[v4-10-18]]
+
+^<<v4-10-18,18>>^ Então o grupo de três tribos do acampamento de Rubem partiu, segundo as suas divisões,^&#42;1^ e Elizur, filho de Sedeur, estava no comando das divisões.
+
+[NOTE]
+====
+. Lit.: “segundo os seus exércitos”.
+====
+
+[[v4-10-19]]
+
+^<<v4-10-19,19>>^ Selumiel, filho de Zurisadai, estava no comando da divisão da tribo dos filhos de Simeão.
+
+[[v4-10-20]]
+
+^<<v4-10-20,20>>^ E Eliasafe, filho de Deuel, estava no comando da divisão da tribo dos filhos de Gade.
+
+[[v4-10-21]]
+
+^<<v4-10-21,21>>^ Então partiram os coatitas, que carregavam os objetos do santuário. O tabernáculo deveria estar montado quando eles chegassem.
+
+[[v4-10-22]]
+
+^<<v4-10-22,22>>^ Então o grupo de três tribos do acampamento dos filhos de Efraim partiu, segundo as suas divisões,^&#42;1^ e Elisama, filho de Amiúde, estava no comando das divisões.
+
+[NOTE]
+====
+. Lit.: “segundo os seus exércitos”.
+====
+
+[[v4-10-23]]
+
+^<<v4-10-23,23>>^ Gamaliel, filho de Pedazur, estava no comando da divisão da tribo dos filhos de Manassés.
+
+[[v4-10-24]]
+
+^<<v4-10-24,24>>^ E Abidã, filho de Gideoni, estava no comando da divisão da tribo dos filhos de Benjamim.
+
+[[v4-10-25]]
+
+^<<v4-10-25,25>>^ Então o grupo de três tribos do acampamento dos filhos de Dã partiu, segundo as suas divisões,^&#42;1^ formando a retaguarda para todos os acampamentos, e Aiezer, filho de Amisadai, estava no comando das divisões.
+
+[NOTE]
+====
+. Lit.: “segundo os seus exércitos”.
+====
+
+[[v4-10-26]]
+
+^<<v4-10-26,26>>^ Pagiel, filho de Ocrã, estava no comando da divisão da tribo dos filhos de Aser.
+
+[[v4-10-27]]
+
+^<<v4-10-27,27>>^ E Aira, filho de Enã, estava no comando da divisão da tribo dos filhos de Naftali.
+
+[[v4-10-28]]
+
+^<<v4-10-28,28>>^ Essa era a ordem de partida que os israelitas e as suas divisões^&#42;1^ seguiam quando partiam.
+
+[NOTE]
+====
+. Lit.: “segundo os seus exércitos”.
+====
+
+[[v4-10-29]]
+
+^<<v4-10-29,29>>^ Moisés disse então a Hobabe, filho de Reuel,^&#42;1^ o midianita, sogro de Moisés: “Estamos partindo para o lugar a respeito do qual Jeová disse: ‘Eu o darei a vocês.’ Venha conosco, e nós o trataremos bem, porque Jeová prometeu boas coisas a Israel.”
+
+[NOTE]
+====
+. Isto é, Jetro.
+====
+
+[[v4-10-30]]
+
+^<<v4-10-30,30>>^ Mas ele respondeu: “Não irei. Voltarei para a minha terra e para os meus parentes.”
+
+[[v4-10-31]]
+
+^<<v4-10-31,31>>^ Então ele disse: “Por favor, não nos deixe, pois você conhece os lugares onde devemos acampar no deserto e poderá servir como nosso guia.^&#42;1^
+
+[NOTE]
+====
+. Ou: “nossos olhos”.
+====
+
+[[v4-10-32]]
+
+^<<v4-10-32,32>>^ Se você vier conosco, a mesma bondade que Jeová nos demonstrar, nós certamente demonstraremos a você.”
+
+[[v4-10-33]]
+
+^<<v4-10-33,33>>^ Assim, partiram do monte de Jeová e viajaram três dias, e a Arca do Pacto de Jeová foi à frente deles durante essa viagem de três dias em busca de um lugar de descanso para eles.
+
+[[v4-10-34]]
+
+^<<v4-10-34,34>>^ E a nuvem de Jeová estava sobre eles de dia, quando partiram do local onde estavam acampados.
+
+[[v4-10-35]]
+
+^<<v4-10-35,35>>^ Sempre que a Arca era mudada de lugar, Moisés dizia: “Levanta-te, ó Jeová, e sejam espalhados os teus inimigos; fujam de diante de ti os que te odeiam.”
+
+[[v4-10-36]]
+
+^<<v4-10-36,36>>^ E, quando ela parava, ele dizia: “Volta, ó Jeová, aos incontáveis^&#42;1^ milhares de Israel.”
+
+[NOTE]
+====
+. Ou: “às miríades de”.
+====
+
+'''
+
+xref:004-numeros/004-numeros-009.adoc#v4-9-0[&#60; Capítulo Anterior] | <<v4-10-0,Topo>> | xref:004-numeros/004-numeros-011.adoc#v4-11-0[Próximo Capítulo &#62;]

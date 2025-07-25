@@ -1,0 +1,148 @@
+include::./index.adoc[]
+
+[[v4-6-0]]
+=== Números, 6
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v4-6-1]]
+
+^<<v4-6-1,1>>^ Jeová falou mais a Moisés:
+
+[[v4-6-2]]
+
+^<<v4-6-2,2>>^ “Diga aos israelitas: ‘Se um homem ou uma mulher fizer um voto especial de viver como nazireu^&#42;1^ para Jeová,
+
+[NOTE]
+====
+. Em hebraico, nazír, que significa “selecionado; dedicado; separado”.
+====
+
+[[v4-6-3]]
+
+^<<v4-6-3,3>>^ deve se manter afastado de vinho e de outras bebidas alcoólicas. Não deve beber vinagre de vinho nem vinagre de nada alcoólico. Não deve tomar nenhuma bebida feita de uva, nem comer uvas, quer frescas quer secas.
+
+[[v4-6-4]]
+
+^<<v4-6-4,4>>^ Não deve comer nenhum produto da videira, desde as uvas verdes até as cascas, durante todos os dias do seu nazireado.
+
+[[v4-6-5]]
+
+^<<v4-6-5,5>>^ “‘Não se deve passar navalha na sua cabeça durante todos os dias do voto do seu nazireado. Ele deve permanecer santo, deixando o cabelo crescer até terminarem os dias em que estiver separado para Jeová.
+
+[[v4-6-6]]
+
+^<<v4-6-6,6>>^ Não deve se aproximar^&#42;1^ de uma pessoa^&#42;2^ morta durante todos os dias em que se mantiver separado para Jeová.
+
+[NOTE]
+====
+. Ou: “sequer chegar perto”.
+. Ou: “alma”. Veja o Glossário, “Alma”.
+====
+
+[[v4-6-7]]
+
+^<<v4-6-7,7>>^ Mesmo que seu pai, sua mãe, seu irmão ou sua irmã morram, ele não pode se tornar impuro, porque tem na cabeça o sinal do seu nazireado ao seu Deus.
+
+[[v4-6-8]]
+
+^<<v4-6-8,8>>^ “‘Ele será santo para Jeová durante todos os dias do seu nazireado.
+
+[[v4-6-9]]
+
+^<<v4-6-9,9>>^ Mas, se alguém morrer de repente ao seu lado, e ele tornar impuro seu cabelo, que simboliza sua separação para Deus,^&#42;1^ ele terá de raspar a cabeça no dia da sua purificação. Deve raspá-la no sétimo dia.
+
+[NOTE]
+====
+. Ou: “tornar impura a cabeça do seu nazireado”.
+====
+
+[[v4-6-10]]
+
+^<<v4-6-10,10>>^ E no oitavo dia deve levar ao sacerdote duas rolas ou dois pombos novos à entrada da tenda de reunião.
+
+[[v4-6-11]]
+
+^<<v4-6-11,11>>^ O sacerdote oferecerá um como oferta pelo pecado e o outro como oferta queimada, e fará expiação por ele, pois pecou ao se aproximar do morto.^&#42;1^ Então o nazireu santificará a sua cabeça naquele dia.
+
+[NOTE]
+====
+. Ou: “de uma alma”. Veja o Glossário, “Alma”.
+====
+
+[[v4-6-12]]
+
+^<<v4-6-12,12>>^ E ele se separará novamente para Jeová para recomeçar os dias do seu nazireado, e trará um carneirinho no primeiro ano de vida, como oferta pela culpa. Mas os dias anteriores não serão contados, visto que tornou impuro o seu nazireado.
+
+[[v4-6-13]]
+
+^<<v4-6-13,13>>^ “‘Esta é a lei a respeito do nazireu: quando ele completar os dias do seu nazireado, será levado à entrada da tenda de reunião.
+
+[[v4-6-14]]
+
+^<<v4-6-14,14>>^ Lá ele apresentará sua oferta a Jeová: um carneirinho sadio no primeiro ano de vida, como oferta queimada; uma cordeira sadia no primeiro ano de vida, como oferta pelo pecado; um carneiro sadio como sacrifício de participação em comum;
+
+[[v4-6-15]]
+
+^<<v4-6-15,15>>^ um cesto de pães em forma de anel, sem fermento, feitos com farinha fina misturada com azeite; pães achatados sem fermento, untados com azeite; e as correspondentes ofertas de cereais e de bebida.
+
+[[v4-6-16]]
+
+^<<v4-6-16,16>>^ O sacerdote os apresentará perante Jeová e fará a oferta pelo pecado e a oferta queimada.
+
+[[v4-6-17]]
+
+^<<v4-6-17,17>>^ Ele oferecerá a Jeová o carneiro como sacrifício de participação em comum, junto com o cesto de pães sem fermento, e o sacerdote apresentará a correspondente oferta de cereais e de bebida.
+
+[[v4-6-18]]
+
+^<<v4-6-18,18>>^ “‘Então o nazireu raspará o cabelo da sua cabeça^&#42;1^ à entrada da tenda de reunião, pegará o cabelo que cresceu durante o seu nazireado e o porá no fogo que está embaixo do sacrifício de participação em comum.
+
+[NOTE]
+====
+. Ou: “a cabeça do seu nazireado”.
+====
+
+[[v4-6-19]]
+
+^<<v4-6-19,19>>^ E o sacerdote pegará uma espádua cozida do carneiro, um pão em forma de anel, sem fermento, retirado do cesto, e um pão achatado sem fermento, e os porá nas mãos do nazireu, depois de se ter raspado o sinal do seu nazireado.
+
+[[v4-6-20]]
+
+^<<v4-6-20,20>>^ E o sacerdote os moverá para frente e para trás como oferta movida perante Jeová. É algo sagrado para o sacerdote, junto com o peito apresentado como oferta movida e a perna dada como contribuição. Depois disso, o nazireu pode beber vinho.
+
+[[v4-6-21]]
+
+^<<v4-6-21,21>>^ “‘Esta é a lei a respeito do nazireu que faz um voto: se ele tiver condições de fazer uma oferta a Jeová maior do que a exigida pelo seu nazireado e fizer um voto nesse sentido, ele deve cumprir o seu voto em respeito à lei do seu nazireado.’”
+
+[[v4-6-22]]
+
+^<<v4-6-22,22>>^ Jeová disse então a Moisés:
+
+[[v4-6-23]]
+
+^<<v4-6-23,23>>^ “Diga a Arão e a seus filhos: ‘É assim que vocês devem abençoar o povo de Israel, dizendo:
+
+[[v4-6-24]]
+
+^<<v4-6-24,24>>^ “Que Jeová o abençoe e o proteja.
+
+[[v4-6-25]]
+
+^<<v4-6-25,25>>^ Que Jeová faça brilhar a Sua face sobre você e o favoreça.
+
+[[v4-6-26]]
+
+^<<v4-6-26,26>>^ Que Jeová olhe com bondade^&#42;1^ para você e lhe dê paz.”’
+
+[NOTE]
+====
+. Lit.: “levante a Sua face”.
+====
+
+[[v4-6-27]]
+
+^<<v4-6-27,27>>^ E eles invocarão o meu nome sobre o povo de Israel para que eu os abençoe.”
+
+'''
+
+xref:004-numeros/004-numeros-005.adoc#v4-5-0[&#60; Capítulo Anterior] | <<v4-6-0,Topo>> | xref:004-numeros/004-numeros-007.adoc#v4-7-0[Próximo Capítulo &#62;]

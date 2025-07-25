@@ -1,0 +1,146 @@
+include::./index.adoc[]
+
+[[v5-27-0]]
+=== Deuteronômio, 27
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v5-27-1]]
+
+^<<v5-27-1,1>>^ Então Moisés, junto com os anciãos de Israel, ordenou ao povo: “Obedeçam a cada mandamento que hoje lhes dou.
+
+[[v5-27-2]]
+
+^<<v5-27-2,2>>^ E, no dia em que vocês atravessarem o Jordão para a terra que Jeová, seu Deus, lhe dá, coloque em pé grandes pedras e cubra-as com reboco.^&#42;1^
+
+[NOTE]
+====
+. Ou: “pinte-as com cal”.
+====
+
+[[v5-27-3]]
+
+^<<v5-27-3,3>>^ Então, quando você tiver atravessado o Jordão, escreva nelas todas as palavras desta Lei, para que você entre na terra que Jeová, seu Deus, lhe dá, uma terra que mana leite e mel, assim como Jeová, o Deus dos seus antepassados, lhe prometeu.
+
+[[v5-27-4]]
+
+^<<v5-27-4,4>>^ Quando vocês tiverem atravessado o Jordão, devem colocar essas pedras em pé no monte Ebal e cobri-las com reboco,^&#42;1^ assim como hoje lhes ordeno.
+
+[NOTE]
+====
+. Ou: “pintá-las com cal”.
+====
+
+[[v5-27-5]]
+
+^<<v5-27-5,5>>^ Você também deve construir ali um altar a Jeová, seu Deus, um altar de pedras. Não deve usar instrumentos de ferro nas pedras.
+
+[[v5-27-6]]
+
+^<<v5-27-6,6>>^ Você deve construir o altar de Jeová, seu Deus, com pedras inteiras e fazer sobre ele ofertas queimadas a Jeová, seu Deus.
+
+[[v5-27-7]]
+
+^<<v5-27-7,7>>^ Você deve oferecer sacrifícios de participação em comum e comê-los ali, e você se alegrará perante Jeová, seu Deus.
+
+[[v5-27-8]]
+
+^<<v5-27-8,8>>^ E escreva claramente sobre as pedras todas as palavras desta Lei.”
+
+[[v5-27-9]]
+
+^<<v5-27-9,9>>^ E Moisés e os sacerdotes levíticos disseram a todo o Israel: “Fique em silêncio e escute, ó Israel. Hoje você se tornou o povo de Jeová, seu Deus.
+
+[[v5-27-10]]
+
+^<<v5-27-10,10>>^ Escute a voz de Jeová, seu Deus, e cumpra os seus mandamentos e os seus decretos, que hoje lhe ordeno.”
+
+[[v5-27-11]]
+
+^<<v5-27-11,11>>^ Naquele dia, Moisés ordenou ao povo:
+
+[[v5-27-12]]
+
+^<<v5-27-12,12>>^ “Quando vocês tiverem atravessado o Jordão, as seguintes tribos ficarão de pé no monte Gerizim para abençoar o povo: Simeão, Levi, Judá, Issacar, José e Benjamim.
+
+[[v5-27-13]]
+
+^<<v5-27-13,13>>^ E as seguintes ficarão de pé no monte Ebal para proferir a maldição: Rubem, Gade, Aser, Zebulão, Dã e Naftali.
+
+[[v5-27-14]]
+
+^<<v5-27-14,14>>^ E os levitas dirão em voz bem alta a todos os homens de Israel:
+
+[[v5-27-15]]
+
+^<<v5-27-15,15>>^ “‘Maldito o homem que fizer uma imagem esculpida ou uma estátua de metal^&#42;1^ — uma coisa detestável para Jeová, trabalho das mãos de um artesão^&#42;2^ —, e que a esconder.’ (E todo o povo dirá: ‘Amém!’^&#42;3^)
+
+[NOTE]
+====
+. Ou: “estátua fundida”.
+. Ou: “trabalhador em madeira e metal”.
+. Ou: “Assim seja!”
+====
+
+[[v5-27-16]]
+
+^<<v5-27-16,16>>^ “‘Maldito aquele que tratar seu pai ou sua mãe com desprezo.’ (E todo o povo dirá: ‘Amém!’)
+
+[[v5-27-17]]
+
+^<<v5-27-17,17>>^ “‘Maldito aquele que mudar de lugar os marcos divisórios do terreno do seu vizinho.’ (E todo o povo dirá: ‘Amém!’)
+
+[[v5-27-18]]
+
+^<<v5-27-18,18>>^ “‘Maldito aquele que fizer um cego se perder no caminho.’ (E todo o povo dirá: ‘Amém!’)
+
+[[v5-27-19]]
+
+^<<v5-27-19,19>>^ “‘Maldito aquele que perverter o julgamento de um residente estrangeiro, de um órfão^&#42;1^ ou de uma viúva.’ (E todo o povo dirá: ‘Amém!’)
+
+[NOTE]
+====
+. Ou: “órfão de pai”.
+====
+
+[[v5-27-20]]
+
+^<<v5-27-20,20>>^ “‘Maldito aquele que se deitar com a esposa do seu pai, pois ele desonra seu pai.’^&#42;1^ (E todo o povo dirá: ‘Amém!’)
+
+[NOTE]
+====
+. Lit.: “remove a saia do seu pai”.
+====
+
+[[v5-27-21]]
+
+^<<v5-27-21,21>>^ “‘Maldito aquele que se deitar com um animal.’ (E todo o povo dirá: ‘Amém!’)
+
+[[v5-27-22]]
+
+^<<v5-27-22,22>>^ “‘Maldito aquele que se deitar com sua irmã, filha do seu pai ou filha da sua mãe.’ (E todo o povo dirá: ‘Amém!’)
+
+[[v5-27-23]]
+
+^<<v5-27-23,23>>^ “‘Maldito aquele que se deitar com sua sogra.’ (E todo o povo dirá: ‘Amém!’)
+
+[[v5-27-24]]
+
+^<<v5-27-24,24>>^ “‘Maldito aquele que ficar de emboscada e matar seu próximo.’ (E todo o povo dirá: ‘Amém!’)
+
+[[v5-27-25]]
+
+^<<v5-27-25,25>>^ “‘Maldito aquele que aceitar suborno para matar^&#42;1^ uma pessoa inocente.’^&#42;2^ (E todo o povo dirá: ‘Amém!’)
+
+[NOTE]
+====
+. Ou: “golpear”.
+. Ou: “uma alma de sangue inocente”.
+====
+
+[[v5-27-26]]
+
+^<<v5-27-26,26>>^ “‘Maldito aquele que não obedecer às palavras desta Lei, deixando de cumpri-las.’ (E todo o povo dirá: ‘Amém!’)
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-026.adoc#v5-26-0[&#60; Capítulo Anterior] | <<v5-27-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-028.adoc#v5-28-0[Próximo Capítulo &#62;]

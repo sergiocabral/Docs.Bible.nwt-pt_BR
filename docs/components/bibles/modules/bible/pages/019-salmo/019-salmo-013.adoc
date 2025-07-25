@@ -1,0 +1,51 @@
+include::./index.adoc[]
+
+[[v19-13-0]]
+=== Salmos, 13
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Ao regente. Salmo de Davi._
+
+[[v19-13-1]]
+
+^<<v19-13-1,1>>^ Até quando te esquecerás de mim, ó Jeová? Para sempre?
+Até quando esconderás de mim a tua face?
+
+[[v19-13-2]]
+
+^<<v19-13-2,2>>^ Até quando terei^&#42;1^ ansiedades e preocupações,
+Tristeza no meu coração todo dia?
+Até quando o meu inimigo triunfará sobre mim?
+
+[NOTE]
+====
+. Ou: “minha alma terá”.
+====
+
+[[v19-13-3]]
+
+^<<v19-13-3,3>>^ Olha para mim e responde-me, ó Jeová, meu Deus.
+Ilumina os meus olhos, para que eu não adormeça na morte,
+
+[[v19-13-4]]
+
+^<<v19-13-4,4>>^ Para que o meu inimigo não diga: “Eu o derrotei!”
+Não deixes que os meus oponentes se alegrem com a minha queda.
+
+[[v19-13-5]]
+
+^<<v19-13-5,5>>^ Eu, porém, confio no teu amor leal;
+Meu coração se alegrará com os teus atos de salvação.
+
+[[v19-13-6]]
+
+^<<v19-13-6,6>>^ Vou cantar a Jeová, pois ele me recompensa ricamente.^&#42;1^
+
+[NOTE]
+====
+. Ou: “ele lida comigo de modo recompensador”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-012.adoc#v19-12-0[&#60; Capítulo Anterior] | <<v19-13-0,Topo>> | xref:019-salmo/019-salmo-014.adoc#v19-14-0[Próximo Capítulo &#62;]

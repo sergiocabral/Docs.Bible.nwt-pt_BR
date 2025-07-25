@@ -1,0 +1,161 @@
+include::./index.adoc[]
+
+[[v18-27-0]]
+=== Jó, 27
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v18-27-1]]
+
+^<<v18-27-1,1>>^ Jó continuou seu discurso,^&#42;1^ dizendo:
+
+[NOTE]
+====
+. Lit.: “provérbio”.
+====
+
+[[v18-27-2]]
+
+^<<v18-27-2,2>>^ “Tão certo como vive Deus, que me negou a justiça,
+Assim como vive o Todo-Poderoso, que me deixou amargurado,^&#42;1^
+
+[NOTE]
+====
+. Ou: “que deixou minha alma amargurada”.
+====
+
+[[v18-27-3]]
+
+^<<v18-27-3,3>>^ Enquanto o meu fôlego estiver em mim
+E o espírito que procede de Deus estiver nas minhas narinas,
+
+[[v18-27-4]]
+
+^<<v18-27-4,4>>^ Meus lábios não falarão coisas injustas,
+Nem minha língua murmurará mentiras!
+
+[[v18-27-5]]
+
+^<<v18-27-5,5>>^ Eu nunca os declararia justos!
+Até eu morrer não renunciarei à^&#42;1^ minha integridade!
+
+[NOTE]
+====
+. Ou: “não removerei de mim a; manterei a”.
+====
+
+[[v18-27-6]]
+
+^<<v18-27-6,6>>^ Insistirei na minha retidão e nunca a deixarei;
+Enquanto eu viver,^&#42;1^ meu coração não me condenará.^&#42;2^
+
+[NOTE]
+====
+. Ou: “Por nenhum dos meus dias”.
+. Ou: “não zombará de mim”.
+====
+
+[[v18-27-7]]
+
+^<<v18-27-7,7>>^ Que o meu inimigo acabe como alguém mau,
+E aqueles que me atacam, como os injustos.
+
+[[v18-27-8]]
+
+^<<v18-27-8,8>>^ Pois que esperança o ímpio^&#42;1^ tem quando é destruído,
+Quando Deus lhe tira a vida?^&#42;2^
+
+[NOTE]
+====
+. Ou: “apóstata”.
+. Ou: “alma”.
+====
+
+[[v18-27-9]]
+
+^<<v18-27-9,9>>^ Será que Deus ouvirá seu clamor,
+Quando lhe sobrevier a aflição?
+
+[[v18-27-10]]
+
+^<<v18-27-10,10>>^ Ou será que ele terá prazer no Todo-Poderoso?
+Invocará a Deus o tempo todo?
+
+[[v18-27-11]]
+
+^<<v18-27-11,11>>^ Eu os instruirei sobre o poder^&#42;1^ de Deus,
+Não ocultarei nada sobre o Todo-Poderoso.
+
+[NOTE]
+====
+. Ou, possivelmente: “pela mão”.
+====
+
+[[v18-27-12]]
+
+^<<v18-27-12,12>>^ Ora, se todos vocês tiveram visões,
+Por que suas palavras são completamente vazias?
+
+[[v18-27-13]]
+
+^<<v18-27-13,13>>^ Esta é a porção que Deus reserva àquele que é mau,
+A herança que os tiranos recebem do Todo-Poderoso:
+
+[[v18-27-14]]
+
+^<<v18-27-14,14>>^ Se os seus filhos se tornarem muitos, eles cairão pela espada,
+E os seus descendentes não terão alimento suficiente;
+
+[[v18-27-15]]
+
+^<<v18-27-15,15>>^ Os que restarem serão enterrados por causa da praga,
+E as suas viúvas não chorarão por eles.
+
+[[v18-27-16]]
+
+^<<v18-27-16,16>>^ Mesmo que ele amontoe prata como se fosse pó
+E acumule roupas finas como se fossem barro,
+
+[[v18-27-17]]
+
+^<<v18-27-17,17>>^ Mesmo que ele as ajunte,
+O justo é quem as usará,
+E o inocente repartirá a prata.
+
+[[v18-27-18]]
+
+^<<v18-27-18,18>>^ A casa que ele constrói é tão frágil como o casulo de uma traça,
+Como um abrigo feito por um vigia.
+
+[[v18-27-19]]
+
+^<<v18-27-19,19>>^ Ele se deitará rico, mas não colherá nada; 
+Quando abrir os olhos, não haverá nada.
+
+[[v18-27-20]]
+
+^<<v18-27-20,20>>^ O terror o alcança como uma enxurrada;
+À noite um vendaval o leva embora.
+
+[[v18-27-21]]
+
+^<<v18-27-21,21>>^ O vento leste o levará para longe, e ele desaparecerá;
+Ele o varrerá do seu lugar.
+
+[[v18-27-22]]
+
+^<<v18-27-22,22>>^ Virá sobre ele sem compaixão,
+Enquanto ele desesperadamente tenta escapar da sua força.
+
+[[v18-27-23]]
+
+^<<v18-27-23,23>>^ Bate palmas contra ele,
+E, do lugar onde está, assobia para ele.^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “Batem palmas contra ele, e, do lugar onde estão, assobiam para ele.”
+====
+
+'''
+
+xref:018-jo/018-jo-026.adoc#v18-26-0[&#60; Capítulo Anterior] | <<v18-27-0,Topo>> | xref:018-jo/018-jo-028.adoc#v18-28-0[Próximo Capítulo &#62;]

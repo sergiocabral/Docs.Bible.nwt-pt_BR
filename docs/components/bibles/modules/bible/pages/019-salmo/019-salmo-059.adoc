@@ -1,0 +1,139 @@
+include::./index.adoc[]
+
+[[v19-59-0]]
+=== Salmos, 59
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Ao regente; com a melodia de Não Destruas. De Davi. Mictão.^&#42;1^ Quando Saul enviou homens para vigiar a casa de Davi,^&#42;2^ a fim de matá-lo._
+
+[[v19-59-1]]
+
+^<<v19-59-1,1>>^ Livra-me dos meus inimigos, ó meu Deus;
+Protege-me dos que se levantam contra mim.
+
+[[v19-59-2]]
+
+^<<v19-59-2,2>>^ Livra-me dos malfeitores
+E salva-me dos homens violentos.^&#42;1^
+
+[NOTE]
+====
+. Ou: “dos sanguinários”.
+====
+
+[[v19-59-3]]
+
+^<<v19-59-3,3>>^ Vê! Eles ficam de emboscada contra mim;^&#42;1^
+Homens fortes me atacam,
+Mas não por eu ter me revoltado ou pecado, ó Jeová.
+
+[NOTE]
+====
+. Ou: “contra a minha alma”.
+====
+
+[[v19-59-4]]
+
+^<<v19-59-4,4>>^ Embora eu não tenha feito nada errado, eles correm e se preparam para atacar.
+Levanta com o meu clamor e vê.
+
+[[v19-59-5]]
+
+^<<v19-59-5,5>>^ Pois tu, ó Jeová, Deus dos exércitos, és o Deus de Israel.
+Desperta e volta a tua atenção para todas as nações.
+Não mostres misericórdia a nenhum dos traidores perversos. (Selá)
+
+[[v19-59-6]]
+
+^<<v19-59-6,6>>^ Eles voltam todo anoitecer,
+Rosnam^&#42;1^ como cães e rondam pela cidade.
+
+[NOTE]
+====
+. Ou: “Latem”.
+====
+
+[[v19-59-7]]
+
+^<<v19-59-7,7>>^ Vê o que transborda^&#42;1^ da sua boca;
+Seus lábios são como espadas,
+Pois dizem: “Quem está ouvindo?”
+
+[NOTE]
+====
+. Ou: “borbulha”.
+====
+
+[[v19-59-8]]
+
+^<<v19-59-8,8>>^ Mas tu, ó Jeová, rirás deles;
+Zombarás de todas as nações.
+
+[[v19-59-9]]
+
+^<<v19-59-9,9>>^ Ó minha Força, em ti vou esperar;
+Pois Deus é meu refúgio seguro.^&#42;1^
+
+[NOTE]
+====
+. Ou: “refúgio num lugar alto”.
+====
+
+[[v19-59-10]]
+
+^<<v19-59-10,10>>^ O Deus que me demonstra amor leal virá em meu auxílio;
+Deus me fará olhar triunfantemente para os meus adversários.
+
+[[v19-59-11]]
+
+^<<v19-59-11,11>>^ Não os mates, para que o meu povo não se esqueça.
+Com a tua força, faze-os vaguear;
+Causa a ruína deles, ó Jeová, nosso escudo.
+
+[[v19-59-12]]
+
+^<<v19-59-12,12>>^ Que eles sejam enlaçados no seu orgulho,
+Por causa dos pecados da sua boca, das palavras dos seus lábios,
+Por causa das maldições e das mentiras que proferem.
+
+[[v19-59-13]]
+
+^<<v19-59-13,13>>^ Acaba com eles na tua ira,
+Acaba com eles, para que não existam mais;
+Faze-os saber que Deus está governando em Jacó e até os confins da terra. (Selá)
+
+[[v19-59-14]]
+
+^<<v19-59-14,14>>^ Que voltem ao anoitecer;
+Que rosnem^&#42;1^ como cães e rondem pela cidade.
+
+[NOTE]
+====
+. Ou: “latam”.
+====
+
+[[v19-59-15]]
+
+^<<v19-59-15,15>>^ Que vagueiem em busca de algo para comer,
+Que não fiquem saciados nem encontrem lugar para passar a noite.
+
+[[v19-59-16]]
+
+^<<v19-59-16,16>>^ Mas, quanto a mim, cantarei a respeito da tua força;
+De manhã falarei com alegria sobre o teu amor leal.
+Pois tu és meu refúgio seguro
+E um lugar para onde fugir quando passo por aflição.
+
+[[v19-59-17]]
+
+^<<v19-59-17,17>>^ Ó minha Força, a ti cantarei louvores,^&#42;1^
+Pois Deus é meu refúgio seguro, o Deus que me demonstra amor leal.
+
+[NOTE]
+====
+. Ou: “farei música”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-058.adoc#v19-58-0[&#60; Capítulo Anterior] | <<v19-59-0,Topo>> | xref:019-salmo/019-salmo-060.adoc#v19-60-0[Próximo Capítulo &#62;]

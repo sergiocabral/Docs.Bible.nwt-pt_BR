@@ -1,0 +1,84 @@
+include::./index.adoc[]
+
+[[v19-110-0]]
+=== Salmos, 110
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_De Davi. Salmo._
+
+[[v19-110-1]]
+
+^<<v19-110-1,1>>^ Jeová declarou ao meu Senhor:
+“Sente-se à minha direita,
+Até que eu ponha os seus inimigos debaixo dos seus pés.”^&#42;1^
+
+[NOTE]
+====
+. Ou: “como escabelo para os seus pés”.
+====
+
+[[v19-110-2]]
+
+^<<v19-110-2,2>>^ Jeová estenderá desde Sião o cetro do seu poder,^&#42;1^ dizendo:
+“Domine no meio dos seus inimigos.”
+
+[NOTE]
+====
+. Isto é, do “meu Senhor”, mencionado no v. 1.
+====
+
+[[v19-110-3]]
+
+^<<v19-110-3,3>>^ Seu povo^&#42;1^ se apresentará voluntariamente no dia da sua força militar.^&#42;2^
+Em esplêndida santidade, vindos do amanhecer,^&#42;3^
+O senhor recebe o seu exército de jovens como gotas de orvalho.
+
+[NOTE]
+====
+. Isto é, do “meu Senhor”, mencionado no v. 1.
+. Ou: “no dia em que o seu exército se mobilizar”.
+. Lit.: “da madre da aurora”.
+====
+
+[[v19-110-4]]
+
+^<<v19-110-4,4>>^ Jeová fez um juramento, e não voltará atrás:^&#42;1^
+“Você é sacerdote para sempre
+À maneira de Melquisedeque!”
+
+[NOTE]
+====
+. Ou: “e não lamentará”.
+====
+
+[[v19-110-5]]
+
+^<<v19-110-5,5>>^ Jeová estará à sua direita;
+Ele esmagará reis no dia da Sua ira.
+
+[[v19-110-6]]
+
+^<<v19-110-6,6>>^ Executará julgamento contra^&#42;1^ as nações;
+Amontoará cadáveres.
+Ele esmagará o líder^&#42;2^ de uma terra vasta.^&#42;3^
+
+[NOTE]
+====
+. Ou: “entre”.
+. Lit.: “cabeça”.
+. Ou: “de toda a terra”.
+====
+
+[[v19-110-7]]
+
+^<<v19-110-7,7>>^ Ao longo do caminho, ele^&#42;1^ beberá da corrente de água.
+Por isso, manterá a cabeça erguida.
+
+[NOTE]
+====
+. Refere-se ao “meu Senhor”, mencionado no v. 1.
+====
+
+'''
+
+xref:019-salmo/019-salmo-109.adoc#v19-109-0[&#60; Capítulo Anterior] | <<v19-110-0,Topo>> | xref:019-salmo/019-salmo-111.adoc#v19-111-0[Próximo Capítulo &#62;]

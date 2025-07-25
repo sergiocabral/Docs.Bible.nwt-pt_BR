@@ -1,0 +1,24 @@
+include::../index.adoc[]
+
+[[v21-0-0]]
+== Eclesiastes
+
+[cols="8*^"]
+|===
+| xref:021-eclesiastes/021-eclesiastes-001.adoc#v21-1-0[1]
+| xref:021-eclesiastes/021-eclesiastes-002.adoc#v21-2-0[2]
+| xref:021-eclesiastes/021-eclesiastes-003.adoc#v21-3-0[3]
+| xref:021-eclesiastes/021-eclesiastes-004.adoc#v21-4-0[4]
+| xref:021-eclesiastes/021-eclesiastes-005.adoc#v21-5-0[5]
+| xref:021-eclesiastes/021-eclesiastes-006.adoc#v21-6-0[6]
+| xref:021-eclesiastes/021-eclesiastes-007.adoc#v21-7-0[7]
+| xref:021-eclesiastes/021-eclesiastes-008.adoc#v21-8-0[8]
+| xref:021-eclesiastes/021-eclesiastes-009.adoc#v21-9-0[9]
+| xref:021-eclesiastes/021-eclesiastes-010.adoc#v21-10-0[10]
+| xref:021-eclesiastes/021-eclesiastes-011.adoc#v21-11-0[11]
+| xref:021-eclesiastes/021-eclesiastes-012.adoc#v21-12-0[12]
+|
+|
+|
+|
+|===

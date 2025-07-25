@@ -1,0 +1,160 @@
+include::./index.adoc[]
+
+[[v1-10-0]]
+=== Gênesis, 10
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v1-10-1]]
+
+^<<v1-10-1,1>>^ Esta é a história dos filhos de Noé: Sem, Cã e Jafé.
+Eles tiveram filhos depois do dilúvio.
+
+[[v1-10-2]]
+
+^<<v1-10-2,2>>^ Os filhos de Jafé foram Gômer, Magogue, Madai, Javã, Tubal, Meseque e Tiras.
+
+[[v1-10-3]]
+
+^<<v1-10-3,3>>^ Os filhos de Gômer foram Asquenaz, Rifate e Togarma.
+
+[[v1-10-4]]
+
+^<<v1-10-4,4>>^ Os filhos de Javã foram Elisá, Társis, Quitim e Dodanim.
+
+[[v1-10-5]]
+
+^<<v1-10-5,5>>^ A partir destes, os habitantes das ilhas se espalharam pelos seus territórios, segundo suas línguas, suas famílias e conforme suas nações.
+
+[[v1-10-6]]
+
+^<<v1-10-6,6>>^ Os filhos de Cã foram Cuche, Mizraim, Pute e Canaã.
+
+[[v1-10-7]]
+
+^<<v1-10-7,7>>^ Os filhos de Cuche foram Sebá, Havilá, Sabtá, Raamá e Sabteca.
+Os filhos de Raamá foram Sabá e Dedã.
+
+[[v1-10-8]]
+
+^<<v1-10-8,8>>^ Cuche tornou-se pai de Ninrode. Este foi o primeiro a se tornar poderoso na terra.
+
+[[v1-10-9]]
+
+^<<v1-10-9,9>>^ Ele se tornou um poderoso caçador em oposição a Jeová. É por isso que se diz: “Como Ninrode, poderoso caçador em oposição a Jeová.”
+
+[[v1-10-10]]
+
+^<<v1-10-10,10>>^ O princípio do seu reino foi^&#42;1^ Babel, Ereque, Acade e Calné, na terra de Sinear.
+
+[NOTE]
+====
+. Ou: “As primeiras cidades do seu reino foram”.
+====
+
+[[v1-10-11]]
+
+^<<v1-10-11,11>>^ Dessa terra ele saiu para a Assíria e construiu Nínive, Reobote-Ir, Calá
+
+[[v1-10-12]]
+
+^<<v1-10-12,12>>^ e Resém, entre Nínive e Calá: esta é a grande cidade.^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “elas formam a grande cidade”.
+====
+
+[[v1-10-13]]
+
+^<<v1-10-13,13>>^ Mizraim tornou-se pai de Ludim, de Anamim, de Leabim, de Naftuim,
+
+[[v1-10-14]]
+
+^<<v1-10-14,14>>^ de Patrusim, de Casluim (de quem se originaram os filisteus) e de Caftorim.
+
+[[v1-10-15]]
+
+^<<v1-10-15,15>>^ Canaã tornou-se pai de Sídon, seu primogênito, e de Hete,
+
+[[v1-10-16]]
+
+^<<v1-10-16,16>>^ e também dos jebuseus, dos amorreus, dos girgaseus,
+
+[[v1-10-17]]
+
+^<<v1-10-17,17>>^ dos heveus, dos arqueus, dos sineus,
+
+[[v1-10-18]]
+
+^<<v1-10-18,18>>^ dos arvadeus, dos zemareus e dos hamateus. Depois as famílias dos cananeus se espalharam.
+
+[[v1-10-19]]
+
+^<<v1-10-19,19>>^ Assim, o território dos cananeus se estendia de Sídon até Gerar, perto de Gaza, até Sodoma, Gomorra, Admá e Zeboim, perto de Lasa.
+
+[[v1-10-20]]
+
+^<<v1-10-20,20>>^ Esses foram os filhos de Cã segundo suas famílias e suas línguas, conforme suas terras e suas nações.
+
+[[v1-10-21]]
+
+^<<v1-10-21,21>>^ Sem, antepassado de todos os filhos de Éber e irmão de Jafé, o mais velho,^&#42;1^ também teve filhos.
+
+[NOTE]
+====
+. Ou, possivelmente: “e irmão mais velho de Jafé”.
+====
+
+[[v1-10-22]]
+
+^<<v1-10-22,22>>^ Os filhos de Sem foram Elão, Assur, Arpaxade, Lude e Arã.
+
+[[v1-10-23]]
+
+^<<v1-10-23,23>>^ Os filhos de Arã foram Uz, Hul, Géter e Más.
+
+[[v1-10-24]]
+
+^<<v1-10-24,24>>^ Arpaxade tornou-se pai de Selá, e Selá tornou-se pai de Éber.
+
+[[v1-10-25]]
+
+^<<v1-10-25,25>>^ Éber tornou-se pai de dois filhos. O nome de um era Pelegue,^&#42;1^ porque no tempo dele a terra^&#42;2^ foi dividida. O nome do seu irmão era Joctã.
+
+[NOTE]
+====
+. Que significa “divisão”.
+. Ou: “a população da terra”.
+====
+
+[[v1-10-26]]
+
+^<<v1-10-26,26>>^ Joctã tornou-se pai de Almodade, de Selefe, de Hazarmavete, de Jerá,
+
+[[v1-10-27]]
+
+^<<v1-10-27,27>>^ de Hadorão, de Uzal, de Dicla,
+
+[[v1-10-28]]
+
+^<<v1-10-28,28>>^ de Obal, de Abimael, de Sabá,
+
+[[v1-10-29]]
+
+^<<v1-10-29,29>>^ de Ofir, de Havilá e de Jobabe; todos esses foram os filhos de Joctã.
+
+[[v1-10-30]]
+
+^<<v1-10-30,30>>^ O lugar de morada deles se estendia de Mesa até Sefar, a região montanhosa do Oriente.
+
+[[v1-10-31]]
+
+^<<v1-10-31,31>>^ Esses foram os filhos de Sem segundo as suas famílias e suas línguas, conforme suas terras e suas nações.
+
+[[v1-10-32]]
+
+^<<v1-10-32,32>>^ Essas foram as famílias dos filhos de Noé, segundo suas linhagens e conforme suas nações. A partir delas as nações se espalharam pela terra, depois do dilúvio.
+
+'''
+
+xref:001-genesis/001-genesis-009.adoc#v1-9-0[&#60; Capítulo Anterior] | <<v1-10-0,Topo>> | xref:001-genesis/001-genesis-011.adoc#v1-11-0[Próximo Capítulo &#62;]

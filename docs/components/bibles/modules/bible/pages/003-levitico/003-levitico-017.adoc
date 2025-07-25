@@ -1,0 +1,134 @@
+include::./index.adoc[]
+
+[[v3-17-0]]
+=== Levítico, 17
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v3-17-1]]
+
+^<<v3-17-1,1>>^ Jeová disse ainda a Moisés:
+
+[[v3-17-2]]
+
+^<<v3-17-2,2>>^ “Diga a Arão e a seus filhos, e a todos os israelitas: ‘Isto é o que Jeová ordenou:
+
+[[v3-17-3]]
+
+^<<v3-17-3,3>>^ “‘“Se um homem da casa de Israel abater um touro, um carneirinho ou uma cabra no acampamento ou fora dele,
+
+[[v3-17-4]]
+
+^<<v3-17-4,4>>^ em vez de o levar à entrada da tenda de reunião para apresentá-lo como oferta a Jeová, diante do tabernáculo de Jeová, esse homem será considerado culpado de sangue. Ele derramou sangue e será eliminado dentre seu povo.^&#42;1^
+
+[NOTE]
+====
+. Isto é, será morto.
+====
+
+[[v3-17-5]]
+
+^<<v3-17-5,5>>^ Isso é para que os israelitas levem a Jeová os animais que agora sacrificam em campo aberto e os entreguem ao sacerdote à entrada da tenda de reunião. Eles devem oferecê-los a Jeová como sacrifícios de participação em comum.
+
+[[v3-17-6]]
+
+^<<v3-17-6,6>>^ O sacerdote aspergirá o sangue sobre o altar de Jeová, à entrada da tenda de reunião, e fará a gordura fumegar como aroma agradável^&#42;1^ para Jeová.
+
+[NOTE]
+====
+. Ou: “apaziguador; calmante”. Lit.: “repousante”.
+====
+
+[[v3-17-7]]
+
+^<<v3-17-7,7>>^ De modo que eles não devem mais oferecer sacrifícios aos demônios caprinos,^&#42;1^ com os quais se prostituem. Isso será para vocês um decreto permanente, por todas as suas gerações.”’
+
+[NOTE]
+====
+. Lit.: “aos bodes”.
+====
+
+[[v3-17-8]]
+
+^<<v3-17-8,8>>^ “Você deve lhes dizer: ‘Qualquer homem da casa de Israel, ou qualquer estrangeiro que mora entre vocês, que fizer uma oferta queimada ou um sacrifício
+
+[[v3-17-9]]
+
+^<<v3-17-9,9>>^ e não o levar à entrada da tenda de reunião para oferecê-lo a Jeová, será eliminado do seu povo.^&#42;1^
+
+[NOTE]
+====
+. Isto é, será morto.
+====
+
+[[v3-17-10]]
+
+^<<v3-17-10,10>>^ “‘Se algum homem da casa de Israel ou algum estrangeiro que mora entre vocês comer o sangue de qualquer criatura, eu certamente me voltarei^&#42;1^ contra aquele^&#42;2^ que comer o sangue, e o eliminarei dentre seu povo.^&#42;3^
+
+[NOTE]
+====
+. Lit.: “porei minha face”.
+. Ou: “a alma”.
+. Isto é, o matarei.
+====
+
+[[v3-17-11]]
+
+^<<v3-17-11,11>>^ Pois a vida^&#42;1^ de uma criatura^&#42;2^ está no sangue, e eu mesmo o dei a vocês para que façam expiação por si mesmos^&#42;3^ no altar. Pois é o sangue que faz expiação por meio da vida^&#42;4^ que está nele.
+
+[NOTE]
+====
+. Ou: “alma”.
+. Lit.: “da carne”.
+. Ou: “sua alma”.
+. Ou: “alma”.
+====
+
+[[v3-17-12]]
+
+^<<v3-17-12,12>>^ Foi por isso que eu disse aos israelitas: “Nenhum^&#42;1^ de vocês deve comer sangue, e nenhum estrangeiro que mora entre vocês deve comer sangue.”
+
+[NOTE]
+====
+. Ou: “Nenhuma alma”.
+====
+
+[[v3-17-13]]
+
+^<<v3-17-13,13>>^ “‘Se algum israelita ou algum estrangeiro que mora entre vocês, ao caçar, apanhar um animal selvagem ou uma ave que se pode comer, ele terá de derramar o sangue e cobri-lo com pó.
+
+[[v3-17-14]]
+
+^<<v3-17-14,14>>^ Pois a vida^&#42;1^ de todo tipo de criatura^&#42;2^ é seu sangue, porque a vida^&#42;3^ está no sangue. Por isso eu disse aos israelitas: “Não comam o sangue de nenhuma criatura,^&#42;4^ porque a vida^&#42;5^ de todas as criaturas^&#42;6^ é seu sangue. Quem o comer será eliminado.”^&#42;7^
+
+[NOTE]
+====
+. Ou: “alma”.
+. Lit.: “de toda carne”.
+. Ou: “alma”.
+. Lit.: “de qualquer carne”.
+. Ou: “alma”.
+. Lit.: “de toda carne”.
+. Ou: “morto”.
+====
+
+[[v3-17-15]]
+
+^<<v3-17-15,15>>^ Se alguém,^&#42;1^ quer israelita, quer estrangeiro, comer a carne de um animal que tenha sido encontrado morto ou que tenha sido dilacerado por um animal selvagem, esse homem terá de lavar suas roupas e se banhar em água, e ficará impuro até o anoitecer; então ficará puro.
+
+[NOTE]
+====
+. Ou: “alguma alma”.
+====
+
+[[v3-17-16]]
+
+^<<v3-17-16,16>>^ Mas, se ele não as lavar e não se banhar,^&#42;1^ responderá pelo seu erro.’”
+
+[NOTE]
+====
+. Lit.: “não banhar sua carne”.
+====
+
+'''
+
+xref:003-levitico/003-levitico-016.adoc#v3-16-0[&#60; Capítulo Anterior] | <<v3-17-0,Topo>> | xref:003-levitico/003-levitico-018.adoc#v3-18-0[Próximo Capítulo &#62;]

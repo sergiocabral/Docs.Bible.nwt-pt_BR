@@ -1,0 +1,161 @@
+include::./index.adoc[]
+
+[[v10-1-0]]
+=== O Segundo de Samuel, 1
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v10-1-1]]
+
+^<<v10-1-1,1>>^ Depois da morte de Saul, quando Davi tinha voltado após derrotar^&#42;1^ os amalequitas, Davi ficou em Ziclague por dois dias.
+
+[NOTE]
+====
+. Ou: “golpear”.
+====
+
+[[v10-1-2]]
+
+^<<v10-1-2,2>>^ No terceiro dia, veio um homem do acampamento de Saul, com as roupas rasgadas e com terra na cabeça. Quando ele se aproximou de Davi, prostrou-se, lançando-se por terra.
+
+[[v10-1-3]]
+
+^<<v10-1-3,3>>^ Davi perguntou: “De onde você vem?” Ele respondeu: “Escapei do acampamento de Israel.”
+
+[[v10-1-4]]
+
+^<<v10-1-4,4>>^ Davi lhe perguntou: “O que aconteceu? Conte-me, por favor.” Ele disse: “Os soldados fugiram^&#42;1^ da batalha, e muitos foram feridos e morreram. Até mesmo Saul e seu filho Jonatã morreram.”
+
+[NOTE]
+====
+. Ou: “O povo fugiu”.
+====
+
+[[v10-1-5]]
+
+^<<v10-1-5,5>>^ Davi perguntou ao homem que lhe trouxe a notícia: “Como é que você sabe que Saul e seu filho Jonatã morreram?”
+
+[[v10-1-6]]
+
+^<<v10-1-6,6>>^ O homem respondeu: “Eu estava por acaso no monte Gilboa, e vi Saul se apoiando na sua lança, e os carros de guerra e os cavaleiros estavam se aproximando dele.
+
+[[v10-1-7]]
+
+^<<v10-1-7,7>>^ Quando ele se virou e me viu, ele me chamou. Eu disse: ‘Aqui estou!’
+
+[[v10-1-8]]
+
+^<<v10-1-8,8>>^ Ele me perguntou: ‘Quem é você?’ Eu respondi: ‘Sou amalequita.’
+
+[[v10-1-9]]
+
+^<<v10-1-9,9>>^ Então ele disse: ‘Venha aqui e mate-me, pois estou agonizando, mas ainda estou vivo.’^&#42;1^
+
+[NOTE]
+====
+. Ou: “porque toda a minha alma ainda está em mim”.
+====
+
+[[v10-1-10]]
+
+^<<v10-1-10,10>>^ De modo que fui até ele e o matei, porque eu sabia que ele não conseguiria sobreviver depois de ter sido gravemente ferido. Então peguei a coroa^&#42;1^ da cabeça dele e o bracelete do seu braço e os trouxe aqui ao meu senhor.”
+
+[NOTE]
+====
+. Ou: “o diadema”.
+====
+
+[[v10-1-11]]
+
+^<<v10-1-11,11>>^ Em vista disso, Davi pegou as suas roupas e as rasgou, e todos os homens que estavam com ele fizeram o mesmo.
+
+[[v10-1-12]]
+
+^<<v10-1-12,12>>^ Eles lamentaram, choraram e jejuaram até o anoitecer, por Saul, por seu filho Jonatã, pelo povo de Jeová e pela casa de Israel, porque haviam caído pela espada.
+
+[[v10-1-13]]
+
+^<<v10-1-13,13>>^ Davi perguntou ao homem que lhe trouxe a notícia: “De onde você é?” Ele respondeu: “Sou filho de um residente estrangeiro amalequita.”
+
+[[v10-1-14]]
+
+^<<v10-1-14,14>>^ Davi lhe disse: “Por que é que você não temeu levantar a mão para matar o ungido de Jeová?”
+
+[[v10-1-15]]
+
+^<<v10-1-15,15>>^ Então Davi chamou um dos seus homens e ordenou: “Venha aqui e mate-o!” De modo que o homem o golpeou, e ele morreu.
+
+[[v10-1-16]]
+
+^<<v10-1-16,16>>^ Davi lhe disse: “Que o seu sangue recaia sobre a sua cabeça, porque a sua própria boca o condenou, quando disse: ‘Eu matei o ungido de Jeová.’”
+
+[[v10-1-17]]
+
+^<<v10-1-17,17>>^ Então Davi cantou um cântico fúnebre por Saul e por seu filho Jonatã,
+
+[[v10-1-18]]
+
+^<<v10-1-18,18>>^ e disse que se devia ensiná-lo ao povo de Judá. Esse cântico, chamado “O Arco”, está escrito no livro de Jasar e diz:
+
+[[v10-1-19]]
+
+^<<v10-1-19,19>>^ “Sua beleza, ó Israel, pereceu sobre os montes.
+Como caíram os valentes!
+
+[[v10-1-20]]
+
+^<<v10-1-20,20>>^ Não contem isso em Gate;
+Não o anunciem nas ruas de Ascalom,
+Para que não se alegrem as filhas dos filisteus,
+Para que não exultem as filhas dos incircuncisos.
+
+[[v10-1-21]]
+
+^<<v10-1-21,21>>^ Ó montes de Gilboa,
+Não haja sobre vocês nem orvalho nem chuva,
+Nem campos que produzam contribuições sagradas,
+Porque ali foi profanado o escudo dos valentes,
+O escudo de Saul não está mais ungido com óleo.
+
+[[v10-1-22]]
+
+^<<v10-1-22,22>>^ Do sangue dos que eram mortos, da gordura dos valentes,
+O arco de Jonatã não recuava,
+E a espada de Saul não voltava sem êxito.
+
+[[v10-1-23]]
+
+^<<v10-1-23,23>>^ Saul e Jonatã, tão amados e queridos^&#42;1^ durante a sua vida,
+Mesmo na morte não foram separados.
+Eram mais velozes do que as águias
+E mais fortes do que os leões.
+
+[NOTE]
+====
+. Ou: “e agradáveis”.
+====
+
+[[v10-1-24]]
+
+^<<v10-1-24,24>>^ Ó filhas de Israel, chorem por Saul,
+Que as vestiu de escarlate e com adornos,
+Que pôs enfeites de ouro na sua roupa.
+
+[[v10-1-25]]
+
+^<<v10-1-25,25>>^ Como caíram os valentes na batalha!
+Jonatã está morto sobre os montes!
+
+[[v10-1-26]]
+
+^<<v10-1-26,26>>^ Estou aflito por você, meu irmão Jonatã;
+Você era um amigo muito querido.
+Para mim, seu amor era superior ao amor das mulheres.
+
+[[v10-1-27]]
+
+^<<v10-1-27,27>>^ Como caíram os valentes,
+E pereceram as armas de guerra!”
+
+'''
+
+xref:009-1-samuel/009-1-samuel-031.adoc#v9-31-0[&#60; Capítulo Anterior] | <<v10-1-0,Topo>> | xref:010-2-samuel/010-2-samuel-002.adoc#v10-2-0[Próximo Capítulo &#62;]

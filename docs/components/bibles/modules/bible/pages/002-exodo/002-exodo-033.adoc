@@ -1,0 +1,141 @@
+include::./index.adoc[]
+
+[[v2-33-0]]
+=== Êxodo, 33
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v2-33-1]]
+
+^<<v2-33-1,1>>^ Jeová disse mais a Moisés: “Vá, siga adiante com o povo que você tirou da terra do Egito, para a terra a respeito da qual jurei a Abraão, a Isaque e a Jacó, dizendo: ‘Eu a darei à sua descendência.’^&#42;1^
+
+[NOTE]
+====
+. Lit.: “semente”.
+====
+
+[[v2-33-2]]
+
+^<<v2-33-2,2>>^ Enviarei um anjo na frente de vocês e expulsarei os cananeus, os amorreus, os hititas, os perizeus, os heveus e os jebuseus.
+
+[[v2-33-3]]
+
+^<<v2-33-3,3>>^ Vá para uma terra que mana leite e mel. Mas não irei no meio de vocês, pois vocês são um povo obstinado,^&#42;1^ e eu poderia exterminá-los no caminho.”
+
+[NOTE]
+====
+. Lit.: “de dura cerviz”.
+====
+
+[[v2-33-4]]
+
+^<<v2-33-4,4>>^ Quando o povo ouviu essas palavras duras, começou a chorar, e ninguém usou enfeites.
+
+[[v2-33-5]]
+
+^<<v2-33-5,5>>^ Jeová disse a Moisés: “Diga aos israelitas: ‘Vocês são um povo obstinado.^&#42;1^ Num só instante eu poderia passar entre vocês e exterminá-los. Agora, fiquem sem os seus enfeites, enquanto vejo o que vou fazer com vocês.’”
+
+[NOTE]
+====
+. Lit.: “de dura cerviz”.
+====
+
+[[v2-33-6]]
+
+^<<v2-33-6,6>>^ Portanto, a partir do monte Horebe, os israelitas não colocaram mais^&#42;1^ os seus enfeites.
+
+[NOTE]
+====
+. Lit.: “os filhos de Israel arrancaram”.
+====
+
+[[v2-33-7]]
+
+^<<v2-33-7,7>>^ Moisés pegou então sua tenda e a armou fora do acampamento, a certa distância do acampamento, e a chamou de tenda de reunião. Todo aquele que consultava a Jeová ia à tenda de reunião, fora do acampamento.
+
+[[v2-33-8]]
+
+^<<v2-33-8,8>>^ Quando Moisés ia à tenda, todo o povo se levantava e ficava à entrada da sua própria tenda, e eles seguiam Moisés com os olhos até ele entrar na tenda.
+
+[[v2-33-9]]
+
+^<<v2-33-9,9>>^ Assim que Moisés entrava na tenda, a coluna de nuvem descia e ficava à entrada da tenda, enquanto Deus falava com Moisés.
+
+[[v2-33-10]]
+
+^<<v2-33-10,10>>^ Quando todo o povo via a coluna de nuvem parada à entrada da tenda, cada um deles se curvava à entrada da sua própria tenda.
+
+[[v2-33-11]]
+
+^<<v2-33-11,11>>^ Jeová falava a Moisés face a face, assim como um homem fala a outro homem. Quando Moisés retornava ao acampamento, Josué, filho de Num, seu servo e ajudante, não deixava a tenda.
+
+[[v2-33-12]]
+
+^<<v2-33-12,12>>^ Moisés disse então a Jeová: “Tu me dizes: ‘Conduza este povo’, mas não me deixaste saber quem enviarás comigo. Além disso, tu disseste: ‘Eu conheço você por nome,^&#42;1^ e você achou favor aos meus olhos.’
+
+[NOTE]
+====
+. Ou: “Eu o escolhi”.
+====
+
+[[v2-33-13]]
+
+^<<v2-33-13,13>>^ Por favor, se achei favor aos teus olhos, faz-me saber os teus caminhos, para que eu te conheça e continue a achar favor aos teus olhos. Lembra-te também de que esta nação é o teu povo.”
+
+[[v2-33-14]]
+
+^<<v2-33-14,14>>^ De modo que ele disse: “Eu mesmo irei^&#42;1^ com você e lhe darei descanso.”
+
+[NOTE]
+====
+. Lit.: “Minha face irá”.
+====
+
+[[v2-33-15]]
+
+^<<v2-33-15,15>>^ Então Moisés lhe disse: “Se tu mesmo não fores^&#42;1^ junto, não nos faças partir daqui.
+
+[NOTE]
+====
+. Lit.: “Se a tua face não for”.
+====
+
+[[v2-33-16]]
+
+^<<v2-33-16,16>>^ Como se saberá que achei favor aos teus olhos, eu e o teu povo? Não é por ires conosco, para que se veja que eu e o teu povo somos diferentes de qualquer outro povo na face da terra?”
+
+[[v2-33-17]]
+
+^<<v2-33-17,17>>^ Jeová disse a Moisés: “Também farei isso que você está pedindo, porque você achou favor aos meus olhos, e eu o conheço por nome.”
+
+[[v2-33-18]]
+
+^<<v2-33-18,18>>^ Então Moisés disse: “Por favor, mostra-me a tua glória.”
+
+[[v2-33-19]]
+
+^<<v2-33-19,19>>^ Ele respondeu: “Farei toda a minha bondade passar diante de você^&#42;1^ e vou declarar diante de você o nome de Jeová. E mostrarei favor a quem eu mostrar favor, e terei misericórdia de quem eu tiver misericórdia.”
+
+[NOTE]
+====
+. Ou: “diante da sua face”.
+====
+
+[[v2-33-20]]
+
+^<<v2-33-20,20>>^ Mas acrescentou: “Você não pode ver a minha face, pois nenhum homem pode me ver e continuar vivo.”
+
+[[v2-33-21]]
+
+^<<v2-33-21,21>>^ Jeová disse mais: “Veja, um lugar junto a mim. Fique sobre a rocha.
+
+[[v2-33-22]]
+
+^<<v2-33-22,22>>^ Quando a minha glória estiver passando, eu o colocarei numa cavidade da rocha e o cobrirei com a minha mão até eu ter passado.
+
+[[v2-33-23]]
+
+^<<v2-33-23,23>>^ Depois retirarei a minha mão, e você verá as minhas costas. Mas a minha face não pode ser vista.”
+
+'''
+
+xref:002-exodo/002-exodo-032.adoc#v2-32-0[&#60; Capítulo Anterior] | <<v2-33-0,Topo>> | xref:002-exodo/002-exodo-034.adoc#v2-34-0[Próximo Capítulo &#62;]

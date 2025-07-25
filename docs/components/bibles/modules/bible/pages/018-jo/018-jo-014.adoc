@@ -1,0 +1,161 @@
+include::./index.adoc[]
+
+[[v18-14-0]]
+=== Jó, 14
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v18-14-1]]
+
+^<<v18-14-1,1>>^ “O homem, nascido de mulher,
+Tem vida curta e está cheio de preocupação.^&#42;1^
+
+[NOTE]
+====
+. Ou: “empanturrado de agitação”.
+====
+
+[[v18-14-2]]
+
+^<<v18-14-2,2>>^ Ele brota como uma flor, e então murcha;^&#42;1^
+Ele passa como uma sombra e desaparece.
+
+[NOTE]
+====
+. Ou, possivelmente: “e é cortado”.
+====
+
+[[v18-14-3]]
+
+^<<v18-14-3,3>>^ Tu fixas nele o teu olhar,
+E o^&#42;1^ levas a julgamento contra ti.
+
+[NOTE]
+====
+. Lit.: “me”.
+====
+
+[[v18-14-4]]
+
+^<<v18-14-4,4>>^ Quem pode produzir alguém puro de alguém impuro?
+Ninguém pode!
+
+[[v18-14-5]]
+
+^<<v18-14-5,5>>^ Se os dias dele estão determinados,
+O número dos seus meses está sob o teu controle.
+Fixaste para ele um limite que ele não pode ultrapassar.
+
+[[v18-14-6]]
+
+^<<v18-14-6,6>>^ Desvia dele o teu olhar, para que ele descanse,
+Até que ele cumpra o seu dia, assim como um trabalhador contratado.
+
+[[v18-14-7]]
+
+^<<v18-14-7,7>>^ Pois até mesmo para uma árvore há esperança.
+Se ela for cortada, brotará novamente
+E seus raminhos continuarão a crescer.
+
+[[v18-14-8]]
+
+^<<v18-14-8,8>>^ Caso sua raiz envelheça na terra
+E seu toco morra no solo,
+
+[[v18-14-9]]
+
+^<<v18-14-9,9>>^ Ao cheiro da água brotará,
+E produzirá ramos, como se fosse uma planta nova.
+
+[[v18-14-10]]
+
+^<<v18-14-10,10>>^ Mas o homem morre e não pode fazer nada;
+Quando um humano dá o último suspiro, para onde ele vai?
+
+[[v18-14-11]]
+
+^<<v18-14-11,11>>^ As águas desaparecem do mar,
+E o rio escoa e seca.
+
+[[v18-14-12]]
+
+^<<v18-14-12,12>>^ Assim também o homem se deita e não se levanta.
+Não acordará até que não exista mais céu,
+Nem será despertado do seu sono.
+
+[[v18-14-13]]
+
+^<<v18-14-13,13>>^ Quem dera que me escondesses na Sepultura,^&#42;1^
+Que me ocultasses até a tua ira passar,
+Que estabelecesses um tempo e então te lembrasses de mim!
+
+[NOTE]
+====
+. Ou: “no Seol”, isto é, a sepultura comum da humanidade. Veja o Glossário.
+====
+
+[[v18-14-14]]
+
+^<<v18-14-14,14>>^ Quando um homem morre, pode ele viver novamente?
+Esperarei todos os dias do meu serviço obrigatório,
+Até vir o meu livramento.^&#42;1^
+
+[NOTE]
+====
+. Ou: “a minha substituição”.
+====
+
+[[v18-14-15]]
+
+^<<v18-14-15,15>>^ Tu chamarás, e eu te responderei.
+Terás saudades do^&#42;1^ trabalho das tuas mãos.
+
+[NOTE]
+====
+. Ou: “Ansiarás o”.
+====
+
+[[v18-14-16]]
+
+^<<v18-14-16,16>>^ Mas agora, estás contando cada um dos meus passos;
+Procuras apenas o meu pecado.
+
+[[v18-14-17]]
+
+^<<v18-14-17,17>>^ Minha transgressão está numa bolsa selada,
+E selas meu erro com cola.
+
+[[v18-14-18]]
+
+^<<v18-14-18,18>>^ Assim como uma montanha desmorona e se desintegra,
+E uma rocha sai do lugar,
+
+[[v18-14-19]]
+
+^<<v18-14-19,19>>^ Assim como a água desgasta as pedras
+E suas torrentes levam embora o solo,
+Da mesma maneira tu destróis a esperança do homem mortal.
+
+[[v18-14-20]]
+
+^<<v18-14-20,20>>^ Tu prevaleces sobre ele até ele morrer;
+Mudas a aparência dele e o mandas embora.
+
+[[v18-14-21]]
+
+^<<v18-14-21,21>>^ Seus filhos são honrados, mas ele não sabe disso;
+Tornam-se insignificantes, mas ele não percebe.
+
+[[v18-14-22]]
+
+^<<v18-14-22,22>>^ Ele só sente a dor do seu próprio corpo;^&#42;1^
+Ele^&#42;2^ só chora enquanto está vivo.”
+
+[NOTE]
+====
+. Ou: “sente dor enquanto sua carne ainda está nele”.
+. Ou: “Sua alma”.
+====
+
+'''
+
+xref:018-jo/018-jo-013.adoc#v18-13-0[&#60; Capítulo Anterior] | <<v18-14-0,Topo>> | xref:018-jo/018-jo-015.adoc#v18-15-0[Próximo Capítulo &#62;]

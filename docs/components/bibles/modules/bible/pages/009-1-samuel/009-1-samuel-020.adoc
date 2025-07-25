@@ -1,0 +1,229 @@
+include::./index.adoc[]
+
+[[v9-20-0]]
+=== O Primeiro de Samuel, 20
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v9-20-1]]
+
+^<<v9-20-1,1>>^ Então Davi fugiu de Naiote, em Ramá, encontrou-se com Jonatã e perguntou-lhe: “O que foi que eu fiz? Qual foi o meu crime e que pecado cometi contra o seu pai para que ele queira tirar a minha vida?”^&#42;1^
+
+[NOTE]
+====
+. Ou: “procure a minha alma”.
+====
+
+[[v9-20-2]]
+
+^<<v9-20-2,2>>^ Jonatã respondeu: “De modo algum isso acontecerá! Você não será morto. Meu pai não fará coisa alguma, nem grande nem pequena, sem antes me contar. Por que meu pai esconderia isso de mim? Isso é impossível!”
+
+[[v9-20-3]]
+
+^<<v9-20-3,3>>^ Mas Davi insistiu com um juramento e disse: “Com certeza seu pai sabe que eu achei favor aos seus olhos e deve ter dito: ‘É melhor Jonatã não saber disso, para que não fique magoado.’ Mas, tão certo como Jeová vive e tão certo como você^&#42;1^ vive, estou a um passo da morte!”
+
+[NOTE]
+====
+. Ou: “a sua alma”.
+====
+
+[[v9-20-4]]
+
+^<<v9-20-4,4>>^ Então Jonatã disse a Davi: “Farei  tudo o que você^&#42;1^ disser.”
+
+[NOTE]
+====
+. Ou: “a sua alma”.
+====
+
+[[v9-20-5]]
+
+^<<v9-20-5,5>>^ Davi disse a Jonatã: “Amanhã é lua nova, e o rei com certeza espera que eu me sente com ele para comer; mas deixe-me ir embora, e eu me esconderei no campo até depois de amanhã, à noite.
+
+[[v9-20-6]]
+
+^<<v9-20-6,6>>^ Se seu pai sentir minha falta, diga-lhe: ‘Davi implorou que eu lhe desse permissão para ir rapidamente a Belém, a cidade dele, para celebrar o sacrifício anual com toda a família.’
+
+[[v9-20-7]]
+
+^<<v9-20-7,7>>^ Se ele disser: ‘Está bem’, então seu servo estará seguro. Mas, se ele ficar irado, você saberá que ele realmente quer me fazer mal.
+
+[[v9-20-8]]
+
+^<<v9-20-8,8>>^ Mostre amor leal ao seu servo, pois você fez um pacto com o seu servo perante Jeová. Mas, se sou culpado de alguma coisa, mate-me você mesmo. Por que me entregar ao seu pai?”
+
+[[v9-20-9]]
+
+^<<v9-20-9,9>>^ Então Jonatã disse: “Não diga uma coisa dessas! Se eu ficar sabendo que meu pai realmente quer lhe fazer mal, eu o avisarei.”
+
+[[v9-20-10]]
+
+^<<v9-20-10,10>>^ Então Davi disse a Jonatã: “Quem me informará se seu pai responder de forma irada?”
+
+[[v9-20-11]]
+
+^<<v9-20-11,11>>^ Jonatã disse a Davi: “Venha comigo, vamos ao campo.” Assim, os dois foram ao campo.
+
+[[v9-20-12]]
+
+^<<v9-20-12,12>>^ E Jonatã disse a Davi: “Que Jeová, o Deus de Israel, seja testemunha de que sondarei meu pai por volta desta hora, amanhã ou depois de amanhã. Se as intenções dele para com você^&#42;1^ forem boas, não mandarei avisá-lo?
+
+[NOTE]
+====
+. Lit.: “Davi”.
+====
+
+[[v9-20-13]]
+
+^<<v9-20-13,13>>^ Mas, se meu pai quiser fazer mal a você, que Jeová me castigue,^&#42;1^ e que o faça severamente, se eu não o informar e deixar você ir embora em paz. Que Jeová esteja com você assim como esteve com meu pai.
+
+[NOTE]
+====
+. Lit.: “que Jeová faça assim a Jonatã”.
+====
+
+[[v9-20-14]]
+
+^<<v9-20-14,14>>^ E que você demonstre o amor leal de Jeová para comigo enquanto eu estiver vivo, e mesmo quando eu morrer.
+
+[[v9-20-15]]
+
+^<<v9-20-15,15>>^ Nunca deixe de mostrar amor leal para com os da minha casa, mesmo quando Jeová eliminar todos os inimigos de Davi da face da terra.”
+
+[[v9-20-16]]
+
+^<<v9-20-16,16>>^ Então Jonatã fez um pacto com a casa de Davi, dizendo: “Jeová exigirá punição para os inimigos de Davi.”
+
+[[v9-20-17]]
+
+^<<v9-20-17,17>>^ Assim, Jonatã fez com que Davi jurasse novamente, pelo seu amor por ele, pois o amava como a si mesmo.^&#42;1^
+
+[NOTE]
+====
+. Ou: “a sua própria alma”.
+====
+
+[[v9-20-18]]
+
+^<<v9-20-18,18>>^ E Jonatã disse: “Amanhã é lua nova e sua ausência será notada, pois o seu lugar estará vago.
+
+[[v9-20-19]]
+
+^<<v9-20-19,19>>^ Depois de amanhã sua ausência será notada ainda mais. Então venha a este lugar onde se escondeu no outro dia^&#42;1^ e fique perto desta pedra.
+
+[NOTE]
+====
+. Lit.: “no dia de trabalho”.
+====
+
+[[v9-20-20]]
+
+^<<v9-20-20,20>>^ Eu então atirarei três flechas para um dos lados dela, como se estivesse atirando num alvo.
+
+[[v9-20-21]]
+
+^<<v9-20-21,21>>^ Quando eu mandar o ajudante, direi: ‘Vá buscar as flechas.’ Se eu disser ao ajudante: ‘As flechas estão mais para cá, traga-as’, então você poderá voltar, pois tão certo como Jeová vive, isso significará que está tudo bem com você e que você não corre perigo.
+
+[[v9-20-22]]
+
+^<<v9-20-22,22>>^ Mas, se eu disser ao jovem: ‘As flechas estão mais para lá’, então vá embora, porque Jeová estará mandando você ir.
+
+[[v9-20-23]]
+
+^<<v9-20-23,23>>^ Quanto à promessa que fizemos, que Jeová seja testemunha entre mim e você para sempre.”
+
+[[v9-20-24]]
+
+^<<v9-20-24,24>>^ Então Davi se escondeu no campo. Quando chegou a lua nova, o rei se sentou para tomar a refeição.
+
+[[v9-20-25]]
+
+^<<v9-20-25,25>>^ Como de costume, o rei se sentou no seu lugar junto à parede. Jonatã estava sentado na frente dele, e Abner estava sentado ao lado de Saul, mas o lugar de Davi estava vago.
+
+[[v9-20-26]]
+
+^<<v9-20-26,26>>^ Saul não disse nada naquele dia, pois pensou: ‘Deve ter acontecido alguma coisa e ele não está puro. Sim, ele deve estar impuro.’
+
+[[v9-20-27]]
+
+^<<v9-20-27,27>>^ E no dia seguinte ao da lua nova, no segundo dia, o lugar de Davi continuou vago. Então Saul perguntou a Jonatã, seu filho: “Por que o filho de Jessé não veio à refeição nem ontem nem hoje?”
+
+[[v9-20-28]]
+
+^<<v9-20-28,28>>^ Jonatã disse então a Saul: “Davi implorou que eu lhe desse permissão para ir a Belém.
+
+[[v9-20-29]]
+
+^<<v9-20-29,29>>^ Ele disse: ‘Por favor, deixe-me ir, porque a minha família oferecerá um sacrifício na cidade e o meu irmão mandou me chamar. Portanto, se eu tiver achado favor aos seus olhos, deixe-me ir ver meus irmãos.’ É por isso que ele não veio à mesa do rei.”
+
+[[v9-20-30]]
+
+^<<v9-20-30,30>>^ Então Saul ficou irado com Jonatã e lhe disse: “Filho de uma mulher rebelde! Pensa que eu não sei que você prefere ficar do lado do filho de Jessé, para a sua própria vergonha e para a vergonha da sua mãe?^&#42;1^
+
+[NOTE]
+====
+. Lit.: “para a vergonha da nudez da sua mãe”.
+====
+
+[[v9-20-31]]
+
+^<<v9-20-31,31>>^ Enquanto o filho de Jessé estiver vivo sobre a terra, nem você nem seu reino estarão seguros. E agora mande alguém buscá-lo, pois ele tem de morrer.”^&#42;1^
+
+[NOTE]
+====
+. Lit.: “pois ele é um filho da morte”.
+====
+
+[[v9-20-32]]
+
+^<<v9-20-32,32>>^ No entanto, Jonatã disse a Saul, seu pai: “Por que ele deve ser morto? O que foi que ele fez?”
+
+[[v9-20-33]]
+
+^<<v9-20-33,33>>^ Nisto Saul arremessou a lança contra ele para matá-lo; então Jonatã viu que seu pai realmente queria matar Davi.
+
+[[v9-20-34]]
+
+^<<v9-20-34,34>>^ Jonatã, furioso, levantou-se imediatamente da mesa e não comeu nada no segundo dia depois da lua nova, porque ficou magoado com respeito a Davi e porque seu próprio pai o havia humilhado.
+
+[[v9-20-35]]
+
+^<<v9-20-35,35>>^ Na manhã seguinte, Jonatã foi ao campo para se encontrar com Davi, acompanhado por um jovem ajudante.
+
+[[v9-20-36]]
+
+^<<v9-20-36,36>>^ Ele disse ao seu ajudante: “Vá correndo buscar as flechas que atiro.” O ajudante correu, e Jonatã atirou uma flecha para além dele.
+
+[[v9-20-37]]
+
+^<<v9-20-37,37>>^ Quando o ajudante chegou ao lugar onde estava a flecha que Jonatã tinha atirado, Jonatã gritou para o ajudante: “A flecha não está mais para lá?”
+
+[[v9-20-38]]
+
+^<<v9-20-38,38>>^ E Jonatã gritou para o ajudante: “Depressa, vá rápido! Não demore!” Então o ajudante pegou as flechas e voltou ao seu senhor.
+
+[[v9-20-39]]
+
+^<<v9-20-39,39>>^ O ajudante não sabia de nada sobre o assunto; somente Jonatã e Davi sabiam o que aquilo significava.
+
+[[v9-20-40]]
+
+^<<v9-20-40,40>>^ Então Jonatã deu suas armas ao ajudante e lhe disse: “Vá, leve-as à cidade.”
+
+[[v9-20-41]]
+
+^<<v9-20-41,41>>^ Quando o ajudante foi embora, Davi saiu de onde estava, ali perto, ao sul, e se curvou três vezes com o rosto por terra. Então eles se beijaram e choraram um pelo outro, mas Davi foi quem mais chorou.
+
+[[v9-20-42]]
+
+^<<v9-20-42,42>>^ Jonatã disse a Davi: “Vá em paz, visto que nós dois juramos em nome de Jeová, dizendo: ‘Que Jeová seja testemunha entre mim e você, e entre os meus descendentes^&#42;1^ e os seus descendentes,^&#42;2^ para sempre.’”
+Depois, Davi foi embora e Jonatã voltou para a cidade.
+
+[NOTE]
+====
+. Lit.: “a minha semente”.
+. Lit.: “a sua semente”.
+====
+
+'''
+
+xref:009-1-samuel/009-1-samuel-019.adoc#v9-19-0[&#60; Capítulo Anterior] | <<v9-20-0,Topo>> | xref:009-1-samuel/009-1-samuel-021.adoc#v9-21-0[Próximo Capítulo &#62;]

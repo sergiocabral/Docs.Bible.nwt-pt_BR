@@ -1,0 +1,16 @@
+include::../index.adoc[]
+
+[[v29-0-0]]
+== Joel
+
+[cols="8*^"]
+|===
+| xref:029-joel/029-joel-001.adoc#v29-1-0[1]
+| xref:029-joel/029-joel-002.adoc#v29-2-0[2]
+| xref:029-joel/029-joel-003.adoc#v29-3-0[3]
+|
+|
+|
+|
+|
+|===

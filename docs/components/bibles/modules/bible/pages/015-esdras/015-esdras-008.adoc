@@ -1,0 +1,189 @@
+include::./index.adoc[]
+
+[[v15-8-0]]
+=== Esdras, 8
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v15-8-1]]
+
+^<<v15-8-1,1>>^ Estes foram os cabeças das casas paternas e os que com eles foram alistados por família, que saíram comigo de Babilônia durante o reinado do rei Artaxerxes:
+
+[[v15-8-2]]
+
+^<<v15-8-2,2>>^ dos filhos de Fineias: Gérson; dos filhos de Itamar: Daniel; dos filhos de Davi: Hatus;
+
+[[v15-8-3]]
+
+^<<v15-8-3,3>>^ dos filhos de Secanias, dos filhos de Parós: Zacarias, e com ele 150 homens alistados;
+
+[[v15-8-4]]
+
+^<<v15-8-4,4>>^ dos filhos de Paate-Moabe: Elioenai, filho de Zeraías, e com ele 200 homens;
+
+[[v15-8-5]]
+
+^<<v15-8-5,5>>^ dos filhos de Zatu: Secanias, filho de Jaaziel, e com ele 300 homens;
+
+[[v15-8-6]]
+
+^<<v15-8-6,6>>^ dos filhos de Adim: Ebede, filho de Jonatã, e com ele 50 homens;
+
+[[v15-8-7]]
+
+^<<v15-8-7,7>>^ dos filhos de Elão: Jesaías, filho de Atalias, e com ele 70 homens;
+
+[[v15-8-8]]
+
+^<<v15-8-8,8>>^ dos filhos de Sefatias: Zebadias, filho de Micael, e com ele 80 homens;
+
+[[v15-8-9]]
+
+^<<v15-8-9,9>>^ dos filhos de Joabe: Obadias, filho de Jeiel, e com ele 218 homens;
+
+[[v15-8-10]]
+
+^<<v15-8-10,10>>^ dos filhos de Bani: Selomite, filho de Josifias, e com ele 160 homens;
+
+[[v15-8-11]]
+
+^<<v15-8-11,11>>^ dos filhos de Bebai: Zacarias, filho de Bebai, e com ele 28 homens;
+
+[[v15-8-12]]
+
+^<<v15-8-12,12>>^ dos filhos de Azgade: Joanã, filho de Hacatã, e com ele 110 homens;
+
+[[v15-8-13]]
+
+^<<v15-8-13,13>>^ dos filhos de Adonicão, os nomes dos que foram os últimos a voltar são: Elifelete, Jeiel e Semaías, e com eles 60 homens;
+
+[[v15-8-14]]
+
+^<<v15-8-14,14>>^ e dos filhos de Bigvai: Utai e Zabude, e com eles 70 homens.
+
+[[v15-8-15]]
+
+^<<v15-8-15,15>>^ Eu os reuni junto ao rio que corre para Aava, e ali acampamos por três dias. Mas, quando fiz uma inspeção do povo e dos sacerdotes, não encontrei ali nenhum levita.
+
+[[v15-8-16]]
+
+^<<v15-8-16,16>>^ Assim, mandei chamar Eliézer, Ariel, Semaías, Elnatã, Jaribe, Elnatã, Natã, Zacarias e Mesulão, homens da liderança, e Joiaribe e Elnatã, que eram instrutores.
+
+[[v15-8-17]]
+
+^<<v15-8-17,17>>^ Então os enviei a Ido, o líder do lugar chamado Casifia. Eu disse a eles que pedissem a Ido e a seus irmãos, os servos do templo^&#42;1^ que estavam em Casifia, que nos trouxessem servos para a casa do nosso Deus.
+
+[NOTE]
+====
+. Ou: “os netineus”. Lit.: “os que foram dados”.
+====
+
+[[v15-8-18]]
+
+^<<v15-8-18,18>>^ Visto que a boa mão do nosso Deus estava sobre nós, eles nos trouxeram um homem de bom critério^&#42;1^ dos filhos de Mali, neto de Levi, filho de Israel, a saber, Serebias, junto com seus filhos e seus irmãos, 18 homens;
+
+[NOTE]
+====
+. Ou: “homem prudente”.
+====
+
+[[v15-8-19]]
+
+^<<v15-8-19,19>>^ e também Hasabias, e com ele Jesaías, dos meraritas, junto com seus irmãos e os filhos deles, 20 homens.
+
+[[v15-8-20]]
+
+^<<v15-8-20,20>>^ E havia 220 servos do templo,^&#42;1^ que Davi e os príncipes deram para ajudar os levitas no seu serviço, todos designados por nome.
+
+[NOTE]
+====
+. Ou: “netineus”. Lit.: “os que foram dados”.
+====
+
+[[v15-8-21]]
+
+^<<v15-8-21,21>>^ Então proclamei um jejum ali, junto ao rio Aava, para nos humilharmos diante do nosso Deus e pedirmos a ele orientação para a viagem que faríamos com os nossos filhos e com todos os nossos bens.
+
+[[v15-8-22]]
+
+^<<v15-8-22,22>>^ Fiquei com vergonha de pedir ao rei soldados e cavaleiros para nos proteger dos inimigos no caminho, visto que tínhamos dito ao rei: “A boa mão do nosso Deus está sobre todos os que o buscam, mas sua força e sua ira são contra todos os que o abandonam.”
+
+[[v15-8-23]]
+
+^<<v15-8-23,23>>^ Por isso jejuamos e fizemos pedidos a respeito disso ao nosso Deus, e ele ouviu as nossas súplicas.
+
+[[v15-8-24]]
+
+^<<v15-8-24,24>>^ Então dentre os chefes dos sacerdotes escolhi 12: Serebias, Hasabias e dez dos seus irmãos.
+
+[[v15-8-25]]
+
+^<<v15-8-25,25>>^ E pesei para eles a prata, o ouro e os utensílios — a contribuição que o rei, seus conselheiros, seus príncipes e todos os israelitas que estavam ali tinham feito para a casa do nosso Deus.
+
+[[v15-8-26]]
+
+^<<v15-8-26,26>>^ Pesei e lhes entreguei 650 talentos^&#42;1^ de prata, 100 utensílios de prata que pesavam 2 talentos, 100 talentos de ouro,
+
+[NOTE]
+====
+. Um talento equivalia a 34,2 kg. Veja Ap. B14.
+====
+
+[[v15-8-27]]
+
+^<<v15-8-27,27>>^ além de 20 tigelinhas de ouro que valiam 1.000 daricos^&#42;1^ e dois utensílios de cobre refinado, com brilho vermelho, preciosos como o ouro.
+
+[NOTE]
+====
+. O darico era uma moeda persa de ouro. Veja Ap. B14.
+====
+
+[[v15-8-28]]
+
+^<<v15-8-28,28>>^ Eu lhes disse então: “Vocês são santos para Jeová, e os utensílios são sagrados, e a prata e o ouro são uma oferta voluntária a Jeová, o Deus dos seus antepassados.
+
+[[v15-8-29]]
+
+^<<v15-8-29,29>>^ Cuidem bem dessas coisas até pesá-las nas salas^&#42;1^ da casa de Jeová, diante dos chefes dos sacerdotes e dos levitas, e diante dos príncipes das casas paternas de Israel, em Jerusalém.”
+
+[NOTE]
+====
+. Ou: “nos refeitórios”.
+====
+
+[[v15-8-30]]
+
+^<<v15-8-30,30>>^ E os sacerdotes e os levitas receberam a prata, o ouro e os utensílios que haviam sido pesados, a fim de os levar a Jerusalém, à casa do nosso Deus.
+
+[[v15-8-31]]
+
+^<<v15-8-31,31>>^ Por fim, no dia 12 do primeiro mês, partimos do rio Aava para Jerusalém. A mão do nosso Deus estava sobre nós, e ele nos livrou das mãos dos inimigos e de emboscadas no caminho.
+
+[[v15-8-32]]
+
+^<<v15-8-32,32>>^ Chegamos então a Jerusalém e ficamos ali por três dias.
+
+[[v15-8-33]]
+
+^<<v15-8-33,33>>^ E, no quarto dia, pesamos a prata, o ouro e os utensílios na casa do nosso Deus, e os entregamos ao sacerdote Meremote, filho de Urias. Com ele estavam Eleazar, filho de Fineias, e os levitas Jozabade, filho de Jesua, e Noadias, filho de Binui.
+
+[[v15-8-34]]
+
+^<<v15-8-34,34>>^ Tudo foi contado e pesado, e o peso total foi registrado.
+
+[[v15-8-35]]
+
+^<<v15-8-35,35>>^ Os que saíram do cativeiro, que retornaram do exílio, apresentaram sacrifícios queimados ao Deus de Israel: 12 novilhos para todo o Israel, 96 carneiros, 77 cordeiros, e 12 bodes como oferta pelo pecado — tudo como oferta queimada a Jeová.
+
+[[v15-8-36]]
+
+^<<v15-8-36,36>>^ Então entregamos os decretos do rei aos sátrapas^&#42;1^ do rei e aos governadores da região ao oeste do rio Eufrates,^&#42;2^ e eles deram apoio ao povo e à casa do verdadeiro Deus.
+
+[NOTE]
+====
+. Título que significa “protetores do reino”, usado aqui para se referir aos governadores das províncias no Império Persa.
+. Ou: “região Além do Rio; região do Transeufrates”.
+====
+
+'''
+
+xref:015-esdras/015-esdras-007.adoc#v15-7-0[&#60; Capítulo Anterior] | <<v15-8-0,Topo>> | xref:015-esdras/015-esdras-009.adoc#v15-9-0[Próximo Capítulo &#62;]

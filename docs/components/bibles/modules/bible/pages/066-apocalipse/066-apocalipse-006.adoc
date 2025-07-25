@@ -1,0 +1,98 @@
+include::./index.adoc[]
+
+[[v66-6-0]]
+=== Apocalipse, 6
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v66-6-1]]
+
+^<<v66-6-1,1>>^ Eu vi quando o Cordeiro abriu um dos sete selos, e ouvi uma das quatro criaturas viventes dizer com voz de trovão: “Venha!”
+
+[[v66-6-2]]
+
+^<<v66-6-2,2>>^ E vi um cavalo branco. O que estava montado nele tinha um arco; foi-lhe dada uma coroa, e ele saiu vencendo e para completar a sua vitória.
+
+[[v66-6-3]]
+
+^<<v66-6-3,3>>^ Quando ele abriu o segundo selo, ouvi a segunda criatura vivente dizer: “Venha!”
+
+[[v66-6-4]]
+
+^<<v66-6-4,4>>^ E saiu outro cavalo, um cor de fogo. Ao que estava montado nele foi concedido tirar a paz da terra, para que os homens matassem uns aos outros, e lhe foi dada uma grande espada.
+
+[[v66-6-5]]
+
+^<<v66-6-5,5>>^ Quando ele abriu o terceiro selo, ouvi a terceira criatura vivente dizer: “Venha!” E vi um cavalo preto. O que estava montado nele tinha uma balança na mão.
+
+[[v66-6-6]]
+
+^<<v66-6-6,6>>^ Ouvi o que parecia ser uma voz no meio das quatro criaturas viventes, dizendo: “Um litro^&#42;1^ de trigo por um denário^&#42;2^ e três litros de cevada por um denário. E não faça dano ao azeite e ao vinho.”
+
+[NOTE]
+====
+. Ou: “queniz”. Veja Ap. B14.
+. Moeda romana de prata que equivalia ao salário de um dia. Veja Ap. B14.
+====
+
+[[v66-6-7]]
+
+^<<v66-6-7,7>>^ Quando ele abriu o quarto selo, ouvi a voz da quarta criatura vivente dizer: “Venha!”
+
+[[v66-6-8]]
+
+^<<v66-6-8,8>>^ E vi um cavalo descorado. O que estava montado nele tinha o nome de Morte, e a Sepultura^&#42;1^ o seguia de perto. Foi-lhes dada autoridade sobre um quarto da terra, para matar com uma longa espada, com fome, com praga mortífera e com as feras da terra.
+
+[NOTE]
+====
+. Ou: “o Hades”, isto é, a sepultura comum da humanidade. Veja o Glossário.
+====
+
+[[v66-6-9]]
+
+^<<v66-6-9,9>>^ Quando ele abriu o quinto selo, vi por baixo do altar as almas^&#42;1^ dos que tinham sido mortos por causa da palavra de Deus e por causa do testemunho que haviam dado.
+
+[NOTE]
+====
+. Pelo visto se refere ao sangue sustentador de vida derramado junto ao altar. Veja o Glossário.
+====
+
+[[v66-6-10]]
+
+^<<v66-6-10,10>>^ Eles clamaram em alta voz: “Até quando, Soberano Senhor, santo e verdadeiro, tu te refrearás de julgar os que moram na terra e de vingar o nosso sangue, que eles derramaram?”
+
+[[v66-6-11]]
+
+^<<v66-6-11,11>>^ E a cada um deles foi dada uma comprida veste branca, e lhes foi dito que descansassem mais um pouco, até que se completasse o número dos seus coescravos e irmãos que estavam para ser mortos assim como eles tinham sido.
+
+[[v66-6-12]]
+
+^<<v66-6-12,12>>^ Eu vi quando ele abriu o sexto selo. Houve um grande terremoto; e o sol ficou escuro como pano de luto,^&#42;1^ a lua inteira ficou como sangue
+
+[NOTE]
+====
+. Lit.: “pano de saco de pelo”. Provavelmente pelo de bode.
+====
+
+[[v66-6-13]]
+
+^<<v66-6-13,13>>^ e as estrelas do céu caíram para a terra, como quando a figueira, sacudida por um vento forte, deixa cair os seus figos verdes.
+
+[[v66-6-14]]
+
+^<<v66-6-14,14>>^ O céu se afastou como um rolo ao ser enrolado, e todo monte e toda ilha foram removidos do seu lugar.
+
+[[v66-6-15]]
+
+^<<v66-6-15,15>>^ Então os reis da terra, os grandes, os comandantes militares, os ricos, os fortes, todo escravo e toda pessoa livre se esconderam em cavernas e entre as rochas das montanhas.
+
+[[v66-6-16]]
+
+^<<v66-6-16,16>>^ Diziam às montanhas e às rochas: “Caiam sobre nós e escondam-nos da face Daquele que está sentado no trono e da ira do Cordeiro,
+
+[[v66-6-17]]
+
+^<<v66-6-17,17>>^ porque chegou o grande dia da ira deles, e quem pode ficar de pé?”
+
+'''
+
+xref:066-apocalipse/066-apocalipse-005.adoc#v66-5-0[&#60; Capítulo Anterior] | <<v66-6-0,Topo>> | xref:066-apocalipse/066-apocalipse-007.adoc#v66-7-0[Próximo Capítulo &#62;]

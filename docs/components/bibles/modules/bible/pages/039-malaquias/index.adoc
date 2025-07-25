@@ -1,0 +1,16 @@
+include::../index.adoc[]
+
+[[v39-0-0]]
+== Malaquias
+
+[cols="8*^"]
+|===
+| xref:039-malaquias/039-malaquias-001.adoc#v39-1-0[1]
+| xref:039-malaquias/039-malaquias-002.adoc#v39-2-0[2]
+| xref:039-malaquias/039-malaquias-003.adoc#v39-3-0[3]
+| xref:039-malaquias/039-malaquias-004.adoc#v39-4-0[4]
+|
+|
+|
+|
+|===

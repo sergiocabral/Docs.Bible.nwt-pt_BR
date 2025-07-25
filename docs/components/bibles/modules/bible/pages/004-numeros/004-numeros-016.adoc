@@ -1,0 +1,250 @@
+include::./index.adoc[]
+
+[[v4-16-0]]
+=== Números, 16
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v4-16-1]]
+
+^<<v4-16-1,1>>^ Então Corá, filho de Izar, filho de Coate, filho de Levi, juntou-se a Datã e Abirão, filhos de Eliabe, e a Om, filho de Pelete, dos filhos de Rubem.
+
+[[v4-16-2]]
+
+^<<v4-16-2,2>>^ Eles se levantaram contra Moisés, junto com 250 israelitas, maiorais da assembleia, escolhidos da congregação, homens de destaque.
+
+[[v4-16-3]]
+
+^<<v4-16-3,3>>^ Uniram-se, portanto, contra Moisés e Arão, e lhes disseram: “Já chega de vocês! Toda a assembleia é santa, todos eles, e Jeová está no meio deles. Então, por que vocês deviam se colocar acima da congregação de Jeová?”
+
+[[v4-16-4]]
+
+^<<v4-16-4,4>>^ Quando Moisés ouviu isso, prostrou-se imediatamente com o rosto por terra.
+
+[[v4-16-5]]
+
+^<<v4-16-5,5>>^ Disse então a Corá e a todos os que o apoiavam: “Pela manhã Jeová mostrará quem pertence a ele, e quem é santo, e quem deve se aproximar dele. Aquele que ele escolher se aproximará dele.
+
+[[v4-16-6]]
+
+^<<v4-16-6,6>>^ Façam o seguinte, Corá e todos os que o apoiam: Peguem incensários
+
+[[v4-16-7]]
+
+^<<v4-16-7,7>>^ e amanhã coloquem neles brasas e incenso perante Jeová; e o homem que Jeová escolher é o santo. Vocês foram longe demais, filhos de Levi!”
+
+[[v4-16-8]]
+
+^<<v4-16-8,8>>^ Então Moisés disse a Corá: “Escutem, por favor, filhos de Levi.
+
+[[v4-16-9]]
+
+^<<v4-16-9,9>>^ Vocês acham pouco o Deus de Israel os ter separado dentre a assembleia de Israel e ter permitido que vocês se aproximassem dele para executar o serviço do tabernáculo de Jeová e ficar diante do povo para servi-los?
+
+[[v4-16-10]]
+
+^<<v4-16-10,10>>^ Ele fez você se aproximar dele junto com todos os seus irmãos, os filhos de Levi. Agora vocês querem obter também o sacerdócio?
+
+[[v4-16-11]]
+
+^<<v4-16-11,11>>^ Por essa razão, você e todos os que o apoiam, que estão reunidos, são contra Jeová. Quanto a Arão, quem é ele para vocês se queixarem contra ele?”
+
+[[v4-16-12]]
+
+^<<v4-16-12,12>>^ Mais tarde, Moisés mandou chamar Datã e Abirão, filhos de Eliabe, mas eles disseram: “Não iremos!
+
+[[v4-16-13]]
+
+^<<v4-16-13,13>>^ Você acha pouco nos ter tirado de uma terra que mana leite e mel para nos fazer morrer no deserto? Agora você também quer ser um governante supremo sobre nós?^&#42;1^
+
+[NOTE]
+====
+. Ou: “quer dominar sobre nós”.
+====
+
+[[v4-16-14]]
+
+^<<v4-16-14,14>>^ O fato é que você não nos trouxe a uma terra que mana leite e mel, nem nos deu campos e vinhedos como herança. Você quer cegar os olhos desses homens? Não iremos!”
+
+[[v4-16-15]]
+
+^<<v4-16-15,15>>^ Então Moisés ficou muito irado e disse a Jeová: “Não olhes para a oferta de cereais deles. Não tirei deles um único jumento, nem prejudiquei a nenhum deles.”
+
+[[v4-16-16]]
+
+^<<v4-16-16,16>>^ Moisés disse então a Corá: “Compareça amanhã perante Jeová com todos os que o apoiam. Você, eles e Arão devem comparecer.
+
+[[v4-16-17]]
+
+^<<v4-16-17,17>>^ Cada um deve pegar o seu incensário e colocar incenso nele, e cada um apresentará o seu incensário — 250 incensários — perante Jeová, junto com você e Arão, cada um com o seu incensário.”
+
+[[v4-16-18]]
+
+^<<v4-16-18,18>>^ Pegaram então cada um o seu incensário, colocaram nele brasas e incenso e ficaram de pé à entrada da tenda de reunião, junto com Moisés e Arão.
+
+[[v4-16-19]]
+
+^<<v4-16-19,19>>^ Quando Corá reuniu contra eles, à entrada da tenda de reunião, todos os que o apoiavam, a glória de Jeová apareceu a toda a assembleia.
+
+[[v4-16-20]]
+
+^<<v4-16-20,20>>^ Jeová disse então a Moisés e a Arão:
+
+[[v4-16-21]]
+
+^<<v4-16-21,21>>^ “Separem-se deste grupo, para que eu os extermine num instante.”
+
+[[v4-16-22]]
+
+^<<v4-16-22,22>>^ Em vista disso, prostraram-se com o rosto por terra e disseram: “Ó Deus, o Deus do espírito de todas as pessoas,^&#42;1^ ficarás indignado com toda a assembleia por causa do pecado de um só homem?”
+
+[NOTE]
+====
+. Lit.: “dos espíritos de toda carne”.
+====
+
+[[v4-16-23]]
+
+^<<v4-16-23,23>>^ Então Jeová disse a Moisés:
+
+[[v4-16-24]]
+
+^<<v4-16-24,24>>^ “Diga à assembleia: ‘Afastem-se das tendas de Corá, Datã e Abirão!’”
+
+[[v4-16-25]]
+
+^<<v4-16-25,25>>^ Então Moisés se levantou e foi até Datã e Abirão; e os anciãos de Israel foram com ele.
+
+[[v4-16-26]]
+
+^<<v4-16-26,26>>^ Moisés disse à assembleia: “Afastem-se, por favor, das tendas destes homens maus e não toquem em nada do que lhes pertence, para que vocês não sejam destruídos por causa do pecado deles.”
+
+[[v4-16-27]]
+
+^<<v4-16-27,27>>^ Eles se afastaram imediatamente das tendas de Corá, Datã e Abirão. E Datã e Abirão saíram das suas tendas e ficaram à entrada, junto com suas esposas, seus filhos e suas crianças.
+
+[[v4-16-28]]
+
+^<<v4-16-28,28>>^ Moisés disse então: “Do seguinte modo vocês saberão que Jeová me enviou para realizar todas estas coisas, que isso não procede do meu coração:^&#42;1^
+
+[NOTE]
+====
+. Ou: “da minha própria iniciativa”.
+====
+
+[[v4-16-29]]
+
+^<<v4-16-29,29>>^ Se estes tiverem uma morte natural assim como todos os homens, e se a punição que sofrerem for a mesma de todos os homens, não foi Jeová que me enviou.
+
+[[v4-16-30]]
+
+^<<v4-16-30,30>>^ Mas, se Jeová fizer algo extraordinário com eles, e a terra se abrir^&#42;1^ e engolir a eles e tudo o que lhes pertence, e eles descerem vivos à Sepultura,^&#42;2^ vocês certamente saberão que estes homens trataram a Jeová sem respeito.”
+
+[NOTE]
+====
+. Lit.: “abrir sua boca”.
+. Ou: “ao Seol”, isto é, a sepultura comum da humanidade. Veja o Glossário.
+====
+
+[[v4-16-31]]
+
+^<<v4-16-31,31>>^ Assim que ele disse todas essas palavras, o chão debaixo deles se partiu.
+
+[[v4-16-32]]
+
+^<<v4-16-32,32>>^ A terra se abriu^&#42;1^ e os engoliu, junto com os das suas casas, todos os que pertenciam a Corá e todos os seus bens.
+
+[NOTE]
+====
+. Lit.: “abriu sua boca”.
+====
+
+[[v4-16-33]]
+
+^<<v4-16-33,33>>^ Assim, eles e todos os que lhes pertenciam desceram vivos à Sepultura,^&#42;1^ e a terra os cobriu, de modo que desapareceram do meio da congregação.
+
+[NOTE]
+====
+. Ou: “ao Seol”, isto é, a sepultura comum da humanidade. Veja o Glossário.
+====
+
+[[v4-16-34]]
+
+^<<v4-16-34,34>>^ Diante dos seus gritos, todos os israelitas em volta fugiram, dizendo: “Temos medo de que a terra nos engula também!”
+
+[[v4-16-35]]
+
+^<<v4-16-35,35>>^ Então saiu um fogo da parte de Jeová e consumiu os 250 homens que ofereciam incenso.
+
+[[v4-16-36]]
+
+^<<v4-16-36,36>>^ Jeová disse então a Moisés:
+
+[[v4-16-37]]
+
+^<<v4-16-37,37>>^ “Diga a Eleazar, filho de Arão, o sacerdote, que retire os incensários do fogo, porque são sagrados. Também diga a ele que espalhe as cinzas longe dali.
+
+[[v4-16-38]]
+
+^<<v4-16-38,38>>^ Os incensários dos homens que pecaram, pagando com as suas próprias vidas,^&#42;1^ devem ser transformados em lâminas de metal para revestir o altar, porque foram apresentados perante Jeová e se tornaram sagrados. Eles devem servir de sinal para os israelitas.”
+
+[NOTE]
+====
+. Ou: “pecaram contra as suas próprias almas”.
+====
+
+[[v4-16-39]]
+
+^<<v4-16-39,39>>^ Assim, Eleazar, o sacerdote, pegou os incensários de cobre que tinham sido apresentados por aqueles que foram queimados e os transformou em lâminas para revestir o altar,
+
+[[v4-16-40]]
+
+^<<v4-16-40,40>>^ assim como Jeová lhe tinha ordenado por meio de Moisés. Isso servia de recordação para os israelitas de que nenhuma pessoa não autorizada,^&#42;1^ que não fosse da descendência de Arão, devia se aproximar para queimar incenso perante Jeová e de que ninguém devia se tornar igual a Corá e aos que o apoiavam.
+
+[NOTE]
+====
+. Lit.: “nenhum estranho”.
+====
+
+[[v4-16-41]]
+
+^<<v4-16-41,41>>^ Logo no dia seguinte, toda a assembleia de Israel começou a se queixar contra Moisés e Arão, dizendo: “Foram vocês dois que mataram o povo de Jeová.”
+
+[[v4-16-42]]
+
+^<<v4-16-42,42>>^ Quando a assembleia se ajuntou contra Moisés e Arão, olharam para a tenda de reunião e viram que a nuvem a havia coberto, e a glória de Jeová começou a aparecer.
+
+[[v4-16-43]]
+
+^<<v4-16-43,43>>^ Moisés e Arão foram para a frente da tenda de reunião,
+
+[[v4-16-44]]
+
+^<<v4-16-44,44>>^ e Jeová disse a Moisés:
+
+[[v4-16-45]]
+
+^<<v4-16-45,45>>^ “Saiam do meio desta assembleia, para que eu os extermine num instante.” Em vista disso, prostraram-se com o rosto por terra.
+
+[[v4-16-46]]
+
+^<<v4-16-46,46>>^ Moisés disse então a Arão: “Pegue o incensário e coloque nele brasas do altar e incenso, e vá depressa à assembleia e faça expiação por eles, porque Jeová ficou indignado. A praga já começou!”
+
+[[v4-16-47]]
+
+^<<v4-16-47,47>>^ Arão pegou imediatamente o incensário, assim como Moisés havia falado, e correu para o meio da congregação, mas a praga já havia começado entre o povo. Pôs assim o incenso no incensário e começou a fazer expiação pelo povo.
+
+[[v4-16-48]]
+
+^<<v4-16-48,48>>^ Ficou de pé entre os mortos e os vivos, e o flagelo finalmente parou.
+
+[[v4-16-49]]
+
+^<<v4-16-49,49>>^ Os que morreram por causa do flagelo foram 14.700, além dos que morreram por causa de Corá.
+
+[[v4-16-50]]
+
+^<<v4-16-50,50>>^ Quando Arão, por fim, voltou a Moisés, à entrada da tenda de reunião, o flagelo havia parado.
+
+'''
+
+xref:004-numeros/004-numeros-015.adoc#v4-15-0[&#60; Capítulo Anterior] | <<v4-16-0,Topo>> | xref:004-numeros/004-numeros-017.adoc#v4-17-0[Próximo Capítulo &#62;]

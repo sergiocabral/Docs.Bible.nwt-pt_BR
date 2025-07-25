@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v3-5-0]]
+=== Levítico, 5
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v3-5-1]]
+
+^<<v3-5-1,1>>^ “‘Se alguém^&#42;1^ ouvir uma convocação pública^&#42;2^ para prestar depoimento e não relatar algo de que foi testemunha, que viu ou de que ficou sabendo, estará cometendo um pecado e responderá pelo seu erro.
+
+[NOTE]
+====
+. Ou: “uma alma”.
+. Lit.: “uma voz de uma maldição (juramento)”. Provavelmente um anúncio sobre uma transgressão que incluía o proferimento de uma maldição contra o transgressor ou contra a testemunha caso não prestasse depoimento.
+====
+
+[[v3-5-2]]
+
+^<<v3-5-2,2>>^ “‘Ou se uma pessoa^&#42;1^ tocar em alguma coisa impura, quer no cadáver de um animal selvagem impuro, quer no de um animal doméstico impuro, quer no de uma das pequenas criaturas impuras que fervilham na terra,^&#42;2^ ela ficará impura e se tornará culpada, mesmo que não se dê conta disso.
+
+[NOTE]
+====
+. Ou: “alma”.
+. Em hebraico, essa expressão pelo visto se refere a pequenas criaturas que existem em grandes quantidades e podem ser encontradas no ar, no mar ou na terra.
+====
+
+[[v3-5-3]]
+
+^<<v3-5-3,3>>^ Ou se alguém, sem perceber, tocar em impureza humana — qualquer coisa impura que possa torná-lo impuro — e depois se der conta disso, ele se tornará culpado.
+
+[[v3-5-4]]
+
+^<<v3-5-4,4>>^ “‘Ou se alguém,^&#42;1^ sem se dar conta, fizer irrefletidamente um juramento, quer seja para fazer algo bom, quer algo mau, não importa o assunto que seja, e então perceber que fez um juramento irrefletido, ele se tornará culpado.^&#42;2^
+
+[NOTE]
+====
+. Ou: “uma alma”.
+. Isso parece sugerir que ele não cumpre o voto.
+====
+
+[[v3-5-5]]
+
+^<<v3-5-5,5>>^ “‘Se alguém se tornar culpado no que se refere a uma dessas coisas, deve confessar o seu pecado.
+
+[[v3-5-6]]
+
+^<<v3-5-6,6>>^ Além disso, pelo pecado que cometeu, ele trará a Jeová uma oferta pela culpa, ou seja, uma fêmea do rebanho — uma cordeira ou uma cabritinha — como oferta pelo pecado. Então o sacerdote fará expiação por ele, pelo seu pecado.
+
+[[v3-5-7]]
+
+^<<v3-5-7,7>>^ “‘Mas, se ele não tiver recursos para trazer uma ovelha, terá de trazer a Jeová duas rolas ou dois pombos novos como oferta pela culpa, pelo pecado que cometeu — uma ave como oferta pelo pecado e a outra como oferta queimada.
+
+[[v3-5-8]]
+
+^<<v3-5-8,8>>^ Ele deve levá-las ao sacerdote, que primeiro apresentará a ave da oferta pelo pecado. O sacerdote fará um talho com a unha na parte da frente do pescoço da ave, sem separar a cabeça por completo.
+
+[[v3-5-9]]
+
+^<<v3-5-9,9>>^ Ele aspergirá na lateral do altar um pouco do sangue da oferta pelo pecado, mas deixará que o restante do sangue escorra junto à base do altar. É uma oferta pelo pecado.
+
+[[v3-5-10]]
+
+^<<v3-5-10,10>>^ Então ele oferecerá a outra ave como oferta queimada, segundo o procedimento normal. Assim o sacerdote fará expiação pelo homem, pelo pecado que cometeu, e o pecado dele será perdoado.
+
+[[v3-5-11]]
+
+^<<v3-5-11,11>>^ “‘Se ele não tiver recursos para oferecer duas rolas ou dois pombos novos, terá de trazer como oferta pelo seu pecado a décima parte de uma efa^&#42;1^ de farinha fina como oferta pelo pecado. Não deve lhe acrescentar azeite nem colocar olíbano sobre ela, pois é uma oferta pelo pecado.
+
+[NOTE]
+====
+. A décima parte de uma efa equivalia a 2,2 l. Veja Ap. B14.
+====
+
+[[v3-5-12]]
+
+^<<v3-5-12,12>>^ Ele levará a oferta ao sacerdote, e o sacerdote apanhará um punhado dela como representação da oferta inteira^&#42;1^ e a fará fumegar no altar, por cima das ofertas feitas por fogo a Jeová. É uma oferta pelo pecado.
+
+[NOTE]
+====
+. Ou: “como porção memorial dela”.
+====
+
+[[v3-5-13]]
+
+^<<v3-5-13,13>>^ Assim, o sacerdote fará expiação pelo homem, por qualquer um desses pecados que ele tenha cometido, e o pecado dele será perdoado. O que sobrar da oferta será do sacerdote, assim como acontece com a oferta de cereais.’”
+
+[[v3-5-14]]
+
+^<<v3-5-14,14>>^ Jeová disse ainda a Moisés:
+
+[[v3-5-15]]
+
+^<<v3-5-15,15>>^ “Se alguém^&#42;1^ se comportar de modo infiel, pecando sem querer contra as coisas sagradas de Jeová, deve trazer a Jeová como oferta pela culpa um carneiro sadio do rebanho, cujo valor em siclos^&#42;2^ de prata será calculado segundo o siclo-padrão do lugar santo.^&#42;3^
+
+[NOTE]
+====
+. Ou: “uma alma”.
+. Um siclo equivalia a 11,4 g. Veja Ap. B14.
+. Ou: “segundo o siclo sagrado”.
+====
+
+[[v3-5-16]]
+
+^<<v3-5-16,16>>^ E, pelo pecado que cometeu contra o lugar santo, ele fará uma restituição acrescida de um quinto do seu valor. Ele a entregará ao sacerdote para que o sacerdote faça expiação por ele com o carneiro da oferta pela culpa, e o pecado dele será perdoado.
+
+[[v3-5-17]]
+
+^<<v3-5-17,17>>^ “Se alguém^&#42;1^ pecar, fazendo qualquer uma das coisas que Jeová ordena que não se façam, mesmo que não se dê conta disso, ainda assim ele é culpado e responderá pelo seu erro.
+
+[NOTE]
+====
+. Ou: “uma alma”.
+====
+
+[[v3-5-18]]
+
+^<<v3-5-18,18>>^ Ele deve levar ao sacerdote um carneiro sadio do rebanho, segundo o valor que for estabelecido, como oferta pela culpa. Então o sacerdote fará expiação pelo homem, pelo erro que cometeu sem querer e sem perceber, e o pecado dele será perdoado.
+
+[[v3-5-19]]
+
+^<<v3-5-19,19>>^ É uma oferta pela culpa. Ele certamente se tornou culpado de pecar contra Jeová.”
+
+'''
+
+xref:003-levitico/003-levitico-004.adoc#v3-4-0[&#60; Capítulo Anterior] | <<v3-5-0,Topo>> | xref:003-levitico/003-levitico-006.adoc#v3-6-0[Próximo Capítulo &#62;]

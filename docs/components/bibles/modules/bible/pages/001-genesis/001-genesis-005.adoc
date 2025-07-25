@@ -1,0 +1,158 @@
+include::./index.adoc[]
+
+[[v1-5-0]]
+=== Gênesis, 5
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v1-5-1]]
+
+^<<v1-5-1,1>>^ Este é o livro da história de Adão. No dia em que Deus criou Adão, ele o fez à semelhança de Deus.
+
+[[v1-5-2]]
+
+^<<v1-5-2,2>>^ Homem e mulher os criou. No dia em que foram criados, ele os abençoou e lhes deu o nome de “homem”.^&#42;1^
+
+[NOTE]
+====
+. Ou: “Adão; humanidade”.
+====
+
+[[v1-5-3]]
+
+^<<v1-5-3,3>>^ Adão viveu 130 anos e então se tornou pai de um filho, à sua semelhança e à sua imagem, e lhe deu o nome de Sete.
+
+[[v1-5-4]]
+
+^<<v1-5-4,4>>^ Depois de se tornar pai de Sete, Adão viveu 800 anos. E ele se tornou pai de filhos e de filhas.
+
+[[v1-5-5]]
+
+^<<v1-5-5,5>>^ De modo que todos os dias da vida de Adão somaram 930 anos, e então ele morreu.
+
+[[v1-5-6]]
+
+^<<v1-5-6,6>>^ Sete viveu 105 anos e então se tornou pai de Enos.
+
+[[v1-5-7]]
+
+^<<v1-5-7,7>>^ Depois de se tornar pai de Enos, Sete viveu 807 anos. E ele se tornou pai de filhos e de filhas.
+
+[[v1-5-8]]
+
+^<<v1-5-8,8>>^ De modo que todos os dias de Sete somaram 912 anos, e então ele morreu.
+
+[[v1-5-9]]
+
+^<<v1-5-9,9>>^ Enos viveu 90 anos e então se tornou pai de Quenã.
+
+[[v1-5-10]]
+
+^<<v1-5-10,10>>^ Depois de se tornar pai de Quenã, Enos viveu 815 anos. E ele se tornou pai de filhos e de filhas.
+
+[[v1-5-11]]
+
+^<<v1-5-11,11>>^ De modo que todos os dias de Enos somaram 905 anos, e então ele morreu.
+
+[[v1-5-12]]
+
+^<<v1-5-12,12>>^ Quenã viveu 70 anos e então se tornou pai de Maalalel.
+
+[[v1-5-13]]
+
+^<<v1-5-13,13>>^ Depois de se tornar pai de Maalalel, Quenã viveu 840 anos. E ele se tornou pai de filhos e de filhas.
+
+[[v1-5-14]]
+
+^<<v1-5-14,14>>^ De modo que todos os dias de Quenã somaram 910 anos, e então ele morreu.
+
+[[v1-5-15]]
+
+^<<v1-5-15,15>>^ Maalalel viveu 65 anos e então se tornou pai de Jarede.
+
+[[v1-5-16]]
+
+^<<v1-5-16,16>>^ Depois de se tornar pai de Jarede, Maalalel viveu 830 anos. E ele se tornou pai de filhos e de filhas.
+
+[[v1-5-17]]
+
+^<<v1-5-17,17>>^ De modo que todos os dias de Maalalel somaram 895 anos, e então ele morreu.
+
+[[v1-5-18]]
+
+^<<v1-5-18,18>>^ Jarede viveu 162 anos e então se tornou pai de Enoque.
+
+[[v1-5-19]]
+
+^<<v1-5-19,19>>^ Depois de se tornar pai de Enoque, Jarede viveu 800 anos. E ele se tornou pai de filhos e de filhas.
+
+[[v1-5-20]]
+
+^<<v1-5-20,20>>^ De modo que todos os dias de Jarede somaram 962 anos, e então ele morreu.
+
+[[v1-5-21]]
+
+^<<v1-5-21,21>>^ Enoque viveu 65 anos e então se tornou pai de Metusalém.
+
+[[v1-5-22]]
+
+^<<v1-5-22,22>>^ Depois de se tornar pai de Metusalém, Enoque continuou andando com o verdadeiro Deus^&#42;1^ por 300 anos. E ele se tornou pai de filhos e de filhas.
+
+[NOTE]
+====
+. Lit.: “o Deus”. Veja o Glossário, “Verdadeiro Deus, o”.
+====
+
+[[v1-5-23]]
+
+^<<v1-5-23,23>>^ De modo que todos os dias de Enoque somaram 365 anos.
+
+[[v1-5-24]]
+
+^<<v1-5-24,24>>^ Enoque continuou andando com o verdadeiro Deus. Depois, ele não foi mais visto,^&#42;1^ porque Deus o tomou.
+
+[NOTE]
+====
+. Ou: “não era mais”.
+====
+
+[[v1-5-25]]
+
+^<<v1-5-25,25>>^ Metusalém viveu 187 anos e então se tornou pai de Lameque.
+
+[[v1-5-26]]
+
+^<<v1-5-26,26>>^ Depois de se tornar pai de Lameque, Metusalém viveu 782 anos. E ele se tornou pai de filhos e de filhas.
+
+[[v1-5-27]]
+
+^<<v1-5-27,27>>^ De modo que todos os dias de Metusalém somaram 969 anos, e então ele morreu.
+
+[[v1-5-28]]
+
+^<<v1-5-28,28>>^ Lameque viveu 182 anos e então se tornou pai de um filho.
+
+[[v1-5-29]]
+
+^<<v1-5-29,29>>^ Deu a ele o nome de Noé,^&#42;1^ dizendo: “Este nos trará consolo,^&#42;2^ aliviando-nos do nosso trabalho e do esforço doloroso das nossas mãos, causados pelo solo que Jeová amaldiçoou.”
+
+[NOTE]
+====
+. Que provavelmente significa “descanso; consolo”.
+. Ou: “alívio”.
+====
+
+[[v1-5-30]]
+
+^<<v1-5-30,30>>^ Depois de se tornar pai de Noé, Lameque viveu 595 anos. E ele se tornou pai de filhos e de filhas.
+
+[[v1-5-31]]
+
+^<<v1-5-31,31>>^ De modo que todos os dias de Lameque somaram 777 anos, e então ele morreu.
+
+[[v1-5-32]]
+
+^<<v1-5-32,32>>^ Depois que Noé completou 500 anos de idade, ele se tornou pai de Sem, Cã e Jafé.
+
+'''
+
+xref:001-genesis/001-genesis-004.adoc#v1-4-0[&#60; Capítulo Anterior] | <<v1-5-0,Topo>> | xref:001-genesis/001-genesis-006.adoc#v1-6-0[Próximo Capítulo &#62;]

@@ -1,0 +1,186 @@
+include::./index.adoc[]
+
+[[v1-25-0]]
+=== Gênesis, 25
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v1-25-1]]
+
+^<<v1-25-1,1>>^ Então Abraão tomou novamente uma esposa; seu nome era Quetura.
+
+[[v1-25-2]]
+
+^<<v1-25-2,2>>^ Com o tempo ela lhe deu Zinrã, Jocsã, Medã, Midiã, Isbaque e Suá.
+
+[[v1-25-3]]
+
+^<<v1-25-3,3>>^ Jocsã tornou-se pai de Sabá e de Dedã.
+Os filhos de Dedã foram os assurins, os letusins e os leumins.
+
+[[v1-25-4]]
+
+^<<v1-25-4,4>>^ Os filhos de Midiã foram Efá, Efer, Hanoque, Abida e Elda.
+Todos esses foram os filhos de Quetura.
+
+[[v1-25-5]]
+
+^<<v1-25-5,5>>^ Depois, Abraão deu a Isaque tudo o que possuía;
+
+[[v1-25-6]]
+
+^<<v1-25-6,6>>^ mas Abraão deu presentes aos filhos que teve com suas concubinas. Então, enquanto ainda vivia, ele os enviou para o leste, longe de Isaque, seu filho, para a terra do Oriente.
+
+[[v1-25-7]]
+
+^<<v1-25-7,7>>^ Estes foram os anos de vida de Abraão: 175 anos.
+
+[[v1-25-8]]
+
+^<<v1-25-8,8>>^ Então Abraão deu seu último suspiro e morreu numa boa velhice, idoso e satisfeito, e foi reunido ao seu povo.^&#42;1^
+
+[NOTE]
+====
+. Expressão poética que se refere à morte.
+====
+
+[[v1-25-9]]
+
+^<<v1-25-9,9>>^ Seus filhos, Isaque e Ismael, o enterraram na caverna de Macpela, que fica em frente de Manre, no campo de Efrom, filho de Zoar, o hitita,
+
+[[v1-25-10]]
+
+^<<v1-25-10,10>>^ o campo que Abraão tinha comprado dos filhos de Hete. Ali foi enterrado Abraão, junto de Sara, sua esposa.
+
+[[v1-25-11]]
+
+^<<v1-25-11,11>>^ Após a morte de Abraão, Deus continuou a abençoar seu filho Isaque; e Isaque morava perto de Beer-Laai-Roi.
+
+[[v1-25-12]]
+
+^<<v1-25-12,12>>^ Esta é a história de Ismael, filho de Abraão, o filho que Agar, a egípcia, serva de Sara, deu a Abraão.
+
+[[v1-25-13]]
+
+^<<v1-25-13,13>>^ Estes são os nomes dos filhos de Ismael, alistados de acordo com os seus nomes, segundo as suas linhagens: Nebaiote, o primogênito de Ismael, depois Quedar, Adbeel, Mibsão,
+
+[[v1-25-14]]
+
+^<<v1-25-14,14>>^ Misma, Dumá, Massa,
+
+[[v1-25-15]]
+
+^<<v1-25-15,15>>^ Hadade, Tema, Jetur, Nafis e Quedemá.
+
+[[v1-25-16]]
+
+^<<v1-25-16,16>>^ Esses são os filhos de Ismael, e esses são os seus nomes, de acordo com os seus povoados e de acordo com os seus acampamentos,^&#42;1^ 12 maiorais, segundo os seus clãs.
+
+[NOTE]
+====
+. Ou: “acampamentos murados”.
+====
+
+[[v1-25-17]]
+
+^<<v1-25-17,17>>^ E Ismael viveu 137 anos. Então ele deu seu último suspiro e morreu, e foi reunido ao seu povo.^&#42;1^
+
+[NOTE]
+====
+. Expressão poética que se refere à morte.
+====
+
+[[v1-25-18]]
+
+^<<v1-25-18,18>>^ Seus descendentes habitaram a região desde Havilá, perto de Sur, que fica próximo ao Egito, até a Assíria. Ele se estabeleceu perto de todos os seus irmãos.^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “Ele viveu em hostilidade contra todos os seus irmãos.”
+====
+
+[[v1-25-19]]
+
+^<<v1-25-19,19>>^ Esta é a história de Isaque, filho de Abraão.
+Abraão tornou-se pai de Isaque.
+
+[[v1-25-20]]
+
+^<<v1-25-20,20>>^ Isaque tinha 40 anos de idade quando se casou com Rebeca, que era filha de Betuel, o arameu de Padã-Arã, e irmã de Labão, o arameu.
+
+[[v1-25-21]]
+
+^<<v1-25-21,21>>^ Isaque fazia súplicas a Jeová a favor de sua esposa, porque ela era estéril; assim, Jeová atendeu às súplicas dele, e Rebeca, sua esposa, ficou grávida.
+
+[[v1-25-22]]
+
+^<<v1-25-22,22>>^ E os filhos dentro dela começaram a lutar entre si, de modo que ela disse: “Se é assim, de que adianta eu continuar vivendo?” Então ela consultou a Jeová.
+
+[[v1-25-23]]
+
+^<<v1-25-23,23>>^ E Jeová lhe disse: “Há duas nações dentro de você, e desde o seu ventre dois povos se separarão; uma nação será mais forte que a outra, e o mais velho servirá o mais novo.”
+
+[[v1-25-24]]
+
+^<<v1-25-24,24>>^ Quando chegou a hora de ela dar à luz, viram que havia gêmeos no seu ventre.
+
+[[v1-25-25]]
+
+^<<v1-25-25,25>>^ Então saiu o primeiro, todo vermelho, e era como um manto de pelo, de modo que lhe deram o nome de Esaú.^&#42;1^
+
+[NOTE]
+====
+. Que significa “peludo”.
+====
+
+[[v1-25-26]]
+
+^<<v1-25-26,26>>^ Depois saiu seu irmão, e a mão dele segurava o calcanhar de Esaú, de modo que recebeu o nome de Jacó.^&#42;1^ Isaque tinha 60 anos de idade quando ela os deu à luz.
+
+[NOTE]
+====
+. Que significa “aquele que agarra o calcanhar; suplantador”.
+====
+
+[[v1-25-27]]
+
+^<<v1-25-27,27>>^ Os meninos cresceram, e Esaú se tornou um caçador habilidoso, um homem dos campos, mas Jacó era um homem irrepreensível, que morava em tendas.
+
+[[v1-25-28]]
+
+^<<v1-25-28,28>>^ Isaque amava Esaú porque significava caça para a sua boca, ao passo que Rebeca amava Jacó.
+
+[[v1-25-29]]
+
+^<<v1-25-29,29>>^ Certa vez, Jacó estava preparando um ensopado quando Esaú chegou do campo, exausto.
+
+[[v1-25-30]]
+
+^<<v1-25-30,30>>^ De modo que Esaú disse a Jacó: “Depressa, por favor, dê-me um pouco^&#42;1^ desse seu ensopado vermelho,^&#42;2^ pois estou exausto!”^&#42;3^ É por isso que recebeu o nome de Edom.^&#42;4^
+
+[NOTE]
+====
+. Ou: “um gole”.
+. Lit.: “o vermelho, este o vermelho”.
+. Ou: “faminto”.
+. Que significa “vermelho”.
+====
+
+[[v1-25-31]]
+
+^<<v1-25-31,31>>^ Então Jacó disse: “Primeiro, venda-me seu direito de primogênito!”
+
+[[v1-25-32]]
+
+^<<v1-25-32,32>>^ E Esaú continuou: “Estou quase morrendo! Para que me serve o direito da primogenitura?”
+
+[[v1-25-33]]
+
+^<<v1-25-33,33>>^ Jacó acrescentou: “Jure primeiro!” E ele jurou e vendeu a Jacó seu direito de primogênito.
+
+[[v1-25-34]]
+
+^<<v1-25-34,34>>^ Então Jacó deu a Esaú pão e ensopado de lentilhas; ele comeu, bebeu, se levantou e foi embora. Assim, Esaú desprezou o direito da primogenitura.
+
+'''
+
+xref:001-genesis/001-genesis-024.adoc#v1-24-0[&#60; Capítulo Anterior] | <<v1-25-0,Topo>> | xref:001-genesis/001-genesis-026.adoc#v1-26-0[Próximo Capítulo &#62;]

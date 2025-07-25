@@ -1,0 +1,141 @@
+include::./index.adoc[]
+
+[[v6-2-0]]
+=== Josué, 2
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v6-2-1]]
+
+^<<v6-2-1,1>>^ Então Josué, filho de Num, enviou secretamente de Sitim dois homens como espiões. Ele lhes disse: “Vão e inspecionem a terra, especialmente Jericó.” Assim eles foram e chegaram à casa de uma prostituta chamada Raabe, e ficaram ali.
+
+[[v6-2-2]]
+
+^<<v6-2-2,2>>^ O rei de Jericó foi informado: “Homens israelitas vieram aqui esta noite para espionar a terra.”
+
+[[v6-2-3]]
+
+^<<v6-2-3,3>>^ Em vista disso, o rei de Jericó mandou dizer a Raabe: “Traga para fora os homens que vieram e que estão na sua casa, pois eles vieram para espionar toda a terra.”
+
+[[v6-2-4]]
+
+^<<v6-2-4,4>>^ Mas a mulher pegou os dois homens e os escondeu. Então ela disse: “É verdade, os homens vieram a mim, mas eu não sabia de onde eram.
+
+[[v6-2-5]]
+
+^<<v6-2-5,5>>^ Ao escurecer, quando o portão da cidade estava para ser fechado, os homens foram embora. Eu não sei para onde foram, mas, se vocês forem depressa atrás deles, os alcançarão.”
+
+[[v6-2-6]]
+
+^<<v6-2-6,6>>^ (Mas ela os tinha levado para o terraço e os tinha escondido entre as fileiras de hastes de linho que havia no terraço.)
+
+[[v6-2-7]]
+
+^<<v6-2-7,7>>^ Assim, os homens foram atrás deles em direção aos pontos de travessia do Jordão, e o portão da cidade foi fechado assim que os perseguidores saíram.
+
+[[v6-2-8]]
+
+^<<v6-2-8,8>>^ Antes de os espiões se deitarem para dormir, ela foi até eles no terraço.
+
+[[v6-2-9]]
+
+^<<v6-2-9,9>>^ Ela lhes disse: “Sei que Jeová lhes dará esta terra e que estamos com medo de vocês. Todos os habitantes desta terra estão desanimados por sua causa.
+
+[[v6-2-10]]
+
+^<<v6-2-10,10>>^ Pois soubemos como Jeová secou as águas do mar Vermelho diante de vocês quando saíram do Egito, e o que fizeram aos dois reis dos amorreus, Siom e Ogue, que vocês entregaram à destruição^&#42;1^ do outro lado^&#42;2^ do Jordão.
+
+[NOTE]
+====
+. Ou: “devotaram à destruição”. Veja o Glossário.
+. Isto é, do lado leste.
+====
+
+[[v6-2-11]]
+
+^<<v6-2-11,11>>^ Quando soubemos disso, ficamos desanimados;^&#42;1^ perdemos a coragem^&#42;2^ por causa de vocês, pois Jeová, seu Deus, é Deus nos céus, em cima, e na terra, embaixo.
+
+[NOTE]
+====
+. Lit.: “nossos corações derreteram”.
+. Lit.: “e espírito não mais se levantou num homem”.
+====
+
+[[v6-2-12]]
+
+^<<v6-2-12,12>>^ Agora, por favor, jurem-me por Jeová que, por eu ter demonstrado bondade^&#42;1^ para com vocês, vocês também demonstrarão bondade^&#42;2^ para com os da casa do meu pai. Deem-me um sinal de que agirão com boa-fé.^&#42;3^
+
+[NOTE]
+====
+. Ou: “amor leal”.
+. Ou: “amor leal”.
+. Ou: “um sinal confiável”.
+====
+
+[[v6-2-13]]
+
+^<<v6-2-13,13>>^ Poupem a vida do meu pai, da minha mãe, dos meus irmãos, das minhas irmãs e de todos os que lhes pertencem; e livrem-nos^&#42;1^ da morte.”
+
+[NOTE]
+====
+. Ou: “livrem nossas almas”.
+====
+
+[[v6-2-14]]
+
+^<<v6-2-14,14>>^ Diante disso os homens lhe disseram: “Daremos nossa vida pela vida de vocês!^&#42;1^ Se você não disser nada sobre a nossa missão, nós demonstraremos bondade^&#42;2^ e fidelidade para com você quando Jeová nos der a terra.”
+
+[NOTE]
+====
+. Ou: “Nossas almas morrerão em lugar de vocês!”
+. Ou: “amor leal”.
+====
+
+[[v6-2-15]]
+
+^<<v6-2-15,15>>^ A seguir, ela os fez descer por uma corda pela janela, pois a sua casa ficava num dos lados da muralha da cidade. Na verdade, ela morava no alto da muralha.
+
+[[v6-2-16]]
+
+^<<v6-2-16,16>>^ Então ela lhes disse: “Vão à região montanhosa e escondam-se lá por três dias, para que seus perseguidores não os encontrem. Depois que os perseguidores tiverem voltado, vocês podem seguir caminho.”
+
+[[v6-2-17]]
+
+^<<v6-2-17,17>>^ Os homens lhe disseram: “Estaremos livres de culpa por esse juramento que você nos impôs
+
+[[v6-2-18]]
+
+^<<v6-2-18,18>>^ se, quando entrarmos nesta terra, você não tiver amarrado esta corda de fio escarlate na janela pela qual nos fez descer. Você deve reunir na sua casa seu pai, sua mãe, seus irmãos e todos os da casa do seu pai.
+
+[[v6-2-19]]
+
+^<<v6-2-19,19>>^ Então, se alguém sair da sua casa para fora, o sangue dele recairá sobre a cabeça dele, e nós estaremos livres de culpa. Mas, se algo ruim acontecer a^&#42;1^ alguém que estiver na casa com você, o sangue dele recairá sobre a nossa cabeça.
+
+[NOTE]
+====
+. Ou: “se uma mão vier sobre”.
+====
+
+[[v6-2-20]]
+
+^<<v6-2-20,20>>^ Mas, se você denunciar a nossa missão, estaremos livres de culpa por esse juramento que nos impôs.”
+
+[[v6-2-21]]
+
+^<<v6-2-21,21>>^ Ela disse: “Seja segundo as suas palavras.”
+Com isso ela os deixou ir embora, e eles seguiram caminho. Mais tarde ela amarrou a corda escarlate na janela.
+
+[[v6-2-22]]
+
+^<<v6-2-22,22>>^ Eles partiram para a região montanhosa e ficaram lá por três dias, até que os perseguidores voltassem. Os perseguidores os procuraram em todas as estradas, mas não os encontraram.
+
+[[v6-2-23]]
+
+^<<v6-2-23,23>>^ Os dois homens desceram então da região montanhosa, atravessaram o rio e foram até Josué, filho de Num. Eles lhe relataram todas as coisas que lhes havia acontecido.
+
+[[v6-2-24]]
+
+^<<v6-2-24,24>>^ Então disseram a Josué: “Jeová nos entregou toda esta terra. De fato, todos os habitantes desta terra estão desanimados por nossa causa.”
+
+'''
+
+xref:006-josue/006-josue-001.adoc#v6-1-0[&#60; Capítulo Anterior] | <<v6-2-0,Topo>> | xref:006-josue/006-josue-003.adoc#v6-3-0[Próximo Capítulo &#62;]

@@ -1,0 +1,166 @@
+include::./index.adoc[]
+
+[[v19-74-0]]
+=== Salmos, 74
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Masquil.^&#42;1^ De Asafe._
+
+[[v19-74-1]]
+
+^<<v19-74-1,1>>^ Por que, ó Deus, nos rejeitaste para sempre?
+Por que a tua ira arde^&#42;1^ contra o rebanho do teu pasto?
+
+[NOTE]
+====
+. Lit.: “fumega”.
+====
+
+[[v19-74-2]]
+
+^<<v19-74-2,2>>^ Lembra-te do povo^&#42;1^ que há muito tempo adquiriste,
+Da tribo que resgataste como tua herança.
+Lembra-te do monte Sião, onde residias.
+
+[NOTE]
+====
+. Lit.: “da tua assembleia”.
+====
+
+[[v19-74-3]]
+
+^<<v19-74-3,3>>^ Dirige os teus passos para as ruínas perpétuas.
+O inimigo devastou tudo no lugar santo.
+
+[[v19-74-4]]
+
+^<<v19-74-4,4>>^ Teus inimigos rugiram dentro do teu lugar de reunião.^&#42;1^
+Levantaram ali seus estandartes como sinais.
+
+[NOTE]
+====
+. Ou: “teu lugar de assembleia”.
+====
+
+[[v19-74-5]]
+
+^<<v19-74-5,5>>^ Eles eram como homens empunhando o machado contra uma densa floresta.
+
+[[v19-74-6]]
+
+^<<v19-74-6,6>>^ Destroçaram com machados e barras de ferro todas as figuras entalhadas.
+
+[[v19-74-7]]
+
+^<<v19-74-7,7>>^ Puseram fogo no teu santuário.
+Profanaram o tabernáculo que leva o teu nome, lançando-o por terra.
+
+[[v19-74-8]]
+
+^<<v19-74-8,8>>^ Eles e a sua descendência disseram no coração:
+“Todos os lugares de reunião de Deus^&#42;1^ nesta terra serão queimados.”
+
+[NOTE]
+====
+. Ou: “Todos os lugares onde Deus é adorado”.
+====
+
+[[v19-74-9]]
+
+^<<v19-74-9,9>>^ Não há mais sinais para vermos;
+Não há mais nenhum profeta,
+E nenhum de nós sabe quanto tempo isso durará.
+
+[[v19-74-10]]
+
+^<<v19-74-10,10>>^ Até quando, ó Deus, o adversário continuará a te insultar?
+Será que o inimigo tratará o teu nome com desrespeito para sempre?
+
+[[v19-74-11]]
+
+^<<v19-74-11,11>>^ Por que reténs a tua mão, a tua mão direita?
+Retira-a do teu peito^&#42;1^ e põe um fim a eles.
+
+[NOTE]
+====
+. Ou: “das dobras da tua roupa”.
+====
+
+[[v19-74-12]]
+
+^<<v19-74-12,12>>^ Mas Deus é o meu Rei desde os tempos antigos,
+Aquele que realiza atos de salvação na terra.
+
+[[v19-74-13]]
+
+^<<v19-74-13,13>>^ Tu agitaste o mar com a tua força;
+Despedaçaste as cabeças dos monstros marinhos nas águas.
+
+[[v19-74-14]]
+
+^<<v19-74-14,14>>^ Esmagaste as cabeças do Leviatã;^&#42;1^
+Tu o deste como comida ao povo, aos habitantes dos desertos.
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v19-74-15]]
+
+^<<v19-74-15,15>>^ Abriste fontes e torrentes;
+Secaste rios que fluíam continuamente.
+
+[[v19-74-16]]
+
+^<<v19-74-16,16>>^ O dia pertence a ti; a ti também pertence a noite.
+Fizeste a luz^&#42;1^ e o sol.
+
+[NOTE]
+====
+. Ou: “o luzeiro”.
+====
+
+[[v19-74-17]]
+
+^<<v19-74-17,17>>^ Fixaste todos os limites da terra;
+Fizeste o verão e o inverno.
+
+[[v19-74-18]]
+
+^<<v19-74-18,18>>^ Lembra-te dos insultos do inimigo, ó Jeová,
+De como um povo tolo trata o teu nome com desrespeito.
+
+[[v19-74-19]]
+
+^<<v19-74-19,19>>^ Não entregues a vida^&#42;1^ da tua rola aos animais selvagens.
+Não te esqueças para sempre da vida do teu povo afligido.
+
+[NOTE]
+====
+. Ou: “alma”.
+====
+
+[[v19-74-20]]
+
+^<<v19-74-20,20>>^ Lembra-te do teu pacto,
+Pois os lugares escuros da terra encheram-se de antros de violência.
+
+[[v19-74-21]]
+
+^<<v19-74-21,21>>^ Que o oprimido não vá embora desapontado;
+Que o humilde e o pobre louvem o teu nome.
+
+[[v19-74-22]]
+
+^<<v19-74-22,22>>^ Levanta-te, ó Deus, e defende a tua causa.
+Lembra-te de que o insensato te insulta o dia inteiro.
+
+[[v19-74-23]]
+
+^<<v19-74-23,23>>^ Não te esqueças do que os teus inimigos dizem.
+A gritaria dos que te desafiam sobe continuamente.
+
+'''
+
+xref:019-salmo/019-salmo-073.adoc#v19-73-0[&#60; Capítulo Anterior] | <<v19-74-0,Topo>> | xref:019-salmo/019-salmo-075.adoc#v19-75-0[Próximo Capítulo &#62;]

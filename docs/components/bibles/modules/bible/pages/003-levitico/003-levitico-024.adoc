@@ -1,0 +1,132 @@
+include::./index.adoc[]
+
+[[v3-24-0]]
+=== Levítico, 24
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v3-24-1]]
+
+^<<v3-24-1,1>>^ Jeová disse mais a Moisés:
+
+[[v3-24-2]]
+
+^<<v3-24-2,2>>^ “Ordene aos israelitas que tragam para você azeite de oliva puro^&#42;1^ para a iluminação, a fim de manter as lâmpadas sempre acesas.
+
+[NOTE]
+====
+. Ou: “azeite puro de olivas batidas”.
+====
+
+[[v3-24-3]]
+
+^<<v3-24-3,3>>^ Arão deve sempre providenciar que as lâmpadas fiquem acesas diante de Jeová na tenda de reunião, do lado de fora da cortina do Testemunho, desde o anoitecer até a manhã seguinte. É um decreto permanente para todas as suas gerações.
+
+[[v3-24-4]]
+
+^<<v3-24-4,4>>^ Sobre o candelabro de ouro puro, ele sempre deve manter as lâmpadas em ordem perante Jeová.
+
+[[v3-24-5]]
+
+^<<v3-24-5,5>>^ “Você pegará farinha fina e com ela assará 12 pães em forma de anel. Cada pão deve ter dois décimos de uma efa.^&#42;1^
+
+[NOTE]
+====
+. Dois décimos de uma efa equivaliam a 4,4 l. Veja Ap. B14.
+====
+
+[[v3-24-6]]
+
+^<<v3-24-6,6>>^ Você os arrumará em duas pilhas sobre a mesa de ouro puro perante Jeová, cada pilha com seis pães.
+
+[[v3-24-7]]
+
+^<<v3-24-7,7>>^ Você deve pôr olíbano puro sobre cada pilha; esse servirá como representação da oferta inteira de pães;^&#42;1^ será uma oferta feita por fogo a Jeová.
+
+[NOTE]
+====
+. Ou: “como porção memorial da oferta”.
+====
+
+[[v3-24-8]]
+
+^<<v3-24-8,8>>^ Ele deve colocar os pães em ordem perante Jeová regularmente, todo dia de sábado. É um pacto permanente com os israelitas.
+
+[[v3-24-9]]
+
+^<<v3-24-9,9>>^ Serão de Arão e dos seus filhos, e eles os comerão num lugar santo, porque são uma porção santíssima que cabe a ele das ofertas feitas por fogo a Jeová. É um decreto permanente.”
+
+[[v3-24-10]]
+
+^<<v3-24-10,10>>^ Entre os israelitas havia um filho de uma israelita e de um egípcio, e houve uma briga entre ele e um israelita no acampamento.
+
+[[v3-24-11]]
+
+^<<v3-24-11,11>>^ O filho da israelita começou a insultar o Nome^&#42;1^ e a amaldiçoá-lo. Por isso o levaram a Moisés. A propósito, sua mãe era Selomite, filha de Dibri, da tribo de Dã.
+
+[NOTE]
+====
+. Isto é, o nome Jeová, conforme indicado pelos vv. 15 e 16.
+====
+
+[[v3-24-12]]
+
+^<<v3-24-12,12>>^ Puseram-no em detenção até que a decisão de Jeová lhes fosse revelada.
+
+[[v3-24-13]]
+
+^<<v3-24-13,13>>^ Então Jeová disse a Moisés:
+
+[[v3-24-14]]
+
+^<<v3-24-14,14>>^ “Leve para fora do acampamento aquele que proferiu a maldição, e todos os que o ouviram porão as mãos sobre a cabeça dele, e toda a assembleia o apedrejará.
+
+[[v3-24-15]]
+
+^<<v3-24-15,15>>^ E você deve dizer aos israelitas: ‘Se algum homem amaldiçoar o seu Deus, ele responderá pelo seu pecado.
+
+[[v3-24-16]]
+
+^<<v3-24-16,16>>^ Assim, quem insultar o nome de Jeová sem falta deve ser morto. Toda a assembleia deve sem falta apedrejá-lo. O residente estrangeiro, assim como o israelita, deve ser morto por insultar o Nome.
+
+[[v3-24-17]]
+
+^<<v3-24-17,17>>^ “‘Se um homem tirar uma vida humana,^&#42;1^ sem falta deve ser morto.
+
+[NOTE]
+====
+. Ou: “golpear fatalmente qualquer alma humana”.
+====
+
+[[v3-24-18]]
+
+^<<v3-24-18,18>>^ Quem ferir e matar um animal doméstico^&#42;1^ deve dar compensação por ele, vida por vida.^&#42;2^
+
+[NOTE]
+====
+. Ou: “E quem golpear fatalmente a alma de um animal”.
+. Ou: “alma por alma”.
+====
+
+[[v3-24-19]]
+
+^<<v3-24-19,19>>^ Se um homem ferir seu próximo, o que ele fez deverá ser feito a ele.
+
+[[v3-24-20]]
+
+^<<v3-24-20,20>>^ Fratura por fratura, olho por olho, dente por dente; o mesmo tipo de ferimento que ele causar é o que se deve causar a ele.
+
+[[v3-24-21]]
+
+^<<v3-24-21,21>>^ Quem ferir e matar um animal deve dar compensação por ele, mas quem ferir e matar um homem deve ser morto.
+
+[[v3-24-22]]
+
+^<<v3-24-22,22>>^ “‘Uma só decisão judicial se aplicará a vocês, tanto ao residente estrangeiro como ao israelita, porque eu sou Jeová, seu Deus.’”
+
+[[v3-24-23]]
+
+^<<v3-24-23,23>>^ Moisés falou então aos israelitas, e eles levaram para fora do acampamento aquele que havia proferido a maldição e o apedrejaram. Desse modo os israelitas fizeram assim como Jeová havia ordenado a Moisés.
+
+'''
+
+xref:003-levitico/003-levitico-023.adoc#v3-23-0[&#60; Capítulo Anterior] | <<v3-24-0,Topo>> | xref:003-levitico/003-levitico-025.adoc#v3-25-0[Próximo Capítulo &#62;]

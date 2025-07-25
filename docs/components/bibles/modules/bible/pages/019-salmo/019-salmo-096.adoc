@@ -1,0 +1,100 @@
+include::./index.adoc[]
+
+[[v19-96-0]]
+=== Salmos, 96
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v19-96-1]]
+
+^<<v19-96-1,1>>^ Cantem a Jeová um novo cântico.
+Cante a Jeová, toda a terra!
+
+[[v19-96-2]]
+
+^<<v19-96-2,2>>^ Cantem a Jeová; bendigam o seu nome.
+Proclamem dia após dia as boas novas da salvação da parte dele.
+
+[[v19-96-3]]
+
+^<<v19-96-3,3>>^ Declarem às nações a sua glória,
+Entre todos os povos os seus atos maravilhosos.
+
+[[v19-96-4]]
+
+^<<v19-96-4,4>>^ Jeová é grande e digno de todo louvor.
+Ele inspira temor, mais do que todos os outros deuses.
+
+[[v19-96-5]]
+
+^<<v19-96-5,5>>^ Todos os deuses dos povos são deuses sem valor,
+Mas Jeová é aquele que fez os céus.
+
+[[v19-96-6]]
+
+^<<v19-96-6,6>>^ Na sua presença há majestade^&#42;1^ e esplendor;
+No seu santuário há força e beleza.
+
+[NOTE]
+====
+. Ou: “dignidade”.
+====
+
+[[v19-96-7]]
+
+^<<v19-96-7,7>>^ Deem a Jeová o que lhe é devido, ó famílias dos povos,
+Deem a Jeová o que lhe é devido por sua glória e força.
+
+[[v19-96-8]]
+
+^<<v19-96-8,8>>^ Deem a Jeová a glória que o seu nome merece;
+Tragam uma dádiva e entrem nos seus pátios.
+
+[[v19-96-9]]
+
+^<<v19-96-9,9>>^ Curvem-se diante de^&#42;1^ Jeová com vestes santas;^&#42;2^
+Tremam diante dele, todos os habitantes da terra!
+
+[NOTE]
+====
+. Ou: “Adorem a”.
+. Ou, possivelmente: “por causa do esplendor da sua santidade”.
+====
+
+[[v19-96-10]]
+
+^<<v19-96-10,10>>^ Declarem entre as nações: “Jeová tornou-se Rei!
+A terra^&#42;1^ está firmemente estabelecida; não pode ser abalada.
+Ele julgará os^&#42;2^ povos com justiça.”
+
+[NOTE]
+====
+. Ou: “terra produtiva”.
+. Ou: “defenderá a causa dos”.
+====
+
+[[v19-96-11]]
+
+^<<v19-96-11,11>>^ Alegrem-se os céus, alegre-se a terra;
+Troveje o mar e tudo o que nele existe;
+
+[[v19-96-12]]
+
+^<<v19-96-12,12>>^ Alegrem-se os campos e tudo o que neles há.
+Ao mesmo tempo, gritem de alegria todas as árvores da floresta
+
+[[v19-96-13]]
+
+^<<v19-96-13,13>>^ Perante Jeová, pois ele vem;^&#42;1^
+Ele vem para julgar a terra.
+Ele julgará a terra habitada^&#42;2^ com justiça,
+E os povos com a sua fidelidade.
+
+[NOTE]
+====
+. Ou: “chegou”.
+. Ou: “terra produtiva”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-095.adoc#v19-95-0[&#60; Capítulo Anterior] | <<v19-96-0,Topo>> | xref:019-salmo/019-salmo-097.adoc#v19-97-0[Próximo Capítulo &#62;]

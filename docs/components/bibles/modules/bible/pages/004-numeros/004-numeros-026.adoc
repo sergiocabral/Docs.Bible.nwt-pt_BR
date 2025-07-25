@@ -1,0 +1,281 @@
+include::./index.adoc[]
+
+[[v4-26-0]]
+=== Números, 26
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v4-26-1]]
+
+^<<v4-26-1,1>>^ Depois do flagelo, Jeová disse a Moisés e a Eleazar, filho de Arão, o sacerdote:
+
+[[v4-26-2]]
+
+^<<v4-26-2,2>>^ “Façam um censo da assembleia de Israel, de todos os de 20 anos de idade para cima, pelas suas casas paternas, contando todos os que podem servir no exército de Israel.”
+
+[[v4-26-3]]
+
+^<<v4-26-3,3>>^ Então, nas planícies desérticas de Moabe, junto ao Jordão, na altura de Jericó, Moisés e Eleazar, o sacerdote, disseram:
+
+[[v4-26-4]]
+
+^<<v4-26-4,4>>^ “Façam um censo dos que têm 20 anos de idade para cima, assim como Jeová ordenou a Moisés.”
+Os filhos de Israel que saíram da terra do Egito foram:
+
+[[v4-26-5]]
+
+^<<v4-26-5,5>>^ Rubem, primogênito de Israel; os filhos de Rubem foram: de Hanoque, a família dos hanoquitas; de Palu, a família dos paluítas;
+
+[[v4-26-6]]
+
+^<<v4-26-6,6>>^ de Esrom, a família dos esronitas; de Carmi, a família dos carmitas.
+
+[[v4-26-7]]
+
+^<<v4-26-7,7>>^ Essas eram as famílias dos rubenitas, e os seus registrados somaram 43.730.
+
+[[v4-26-8]]
+
+^<<v4-26-8,8>>^ O filho de Palu foi Eliabe.
+
+[[v4-26-9]]
+
+^<<v4-26-9,9>>^ E os filhos de Eliabe foram Nemuel, Datã e Abirão. Estes, Datã e Abirão, eram homens escolhidos da assembleia; eles lutaram contra Moisés e Arão junto com o grupo de Corá, quando lutaram contra Jeová.
+
+[[v4-26-10]]
+
+^<<v4-26-10,10>>^ Então a terra se abriu^&#42;1^ e os engoliu. Quanto a Corá, morreu com os que o apoiavam quando o fogo consumiu 250 homens. E eles se tornaram um exemplo de aviso.
+
+[NOTE]
+====
+. Lit.: “abriu sua boca”.
+====
+
+[[v4-26-11]]
+
+^<<v4-26-11,11>>^ No entanto, os filhos de Corá não morreram.
+
+[[v4-26-12]]
+
+^<<v4-26-12,12>>^ Os filhos de Simeão, segundo as suas famílias, foram: de Nemuel, a família dos nemuelitas; de Jamim, a família dos jaminitas; de Jaquim, a família dos jaquinitas;
+
+[[v4-26-13]]
+
+^<<v4-26-13,13>>^ de Zerá, a família dos zeraítas; de Saul, a família dos saulitas.
+
+[[v4-26-14]]
+
+^<<v4-26-14,14>>^ Essas eram as famílias dos simeonitas: 22.200.
+
+[[v4-26-15]]
+
+^<<v4-26-15,15>>^ Os filhos de Gade, segundo as suas famílias, foram: de Zefom, a família dos zefonitas; de Hagi, a família dos hagitas; de Suni, a família dos sunitas;
+
+[[v4-26-16]]
+
+^<<v4-26-16,16>>^ de Ozni, a família dos oznitas; de Eri, a família dos eritas;
+
+[[v4-26-17]]
+
+^<<v4-26-17,17>>^ de Arode, a família dos aroditas; de Areli, a família dos arelitas.
+
+[[v4-26-18]]
+
+^<<v4-26-18,18>>^ Essas eram as famílias dos filhos de Gade, e os seus registrados foram 40.500.
+
+[[v4-26-19]]
+
+^<<v4-26-19,19>>^ Os filhos de Judá foram Er e Onã. No entanto, Er e Onã morreram na terra de Canaã.
+
+[[v4-26-20]]
+
+^<<v4-26-20,20>>^ E os filhos de Judá, segundo as suas famílias, foram: de Selá, a família dos selanitas; de Peres, a família dos peresitas; de Zerá, a família dos zeraítas.
+
+[[v4-26-21]]
+
+^<<v4-26-21,21>>^ E os filhos de Peres foram: de Esrom, a família dos esronitas; de Hamul, a família dos hamulitas.
+
+[[v4-26-22]]
+
+^<<v4-26-22,22>>^ Essas eram as famílias de Judá, e os seus registrados foram 76.500.
+
+[[v4-26-23]]
+
+^<<v4-26-23,23>>^ Os filhos de Issacar, segundo as suas famílias, foram: de Tola, a família dos tolaítas; de Puva, a família dos punitas;
+
+[[v4-26-24]]
+
+^<<v4-26-24,24>>^ de Jasube, a família dos jasubitas; de Sinrom, a família dos sinronitas.
+
+[[v4-26-25]]
+
+^<<v4-26-25,25>>^ Essas eram as famílias de Issacar, e os seus registrados foram 64.300.
+
+[[v4-26-26]]
+
+^<<v4-26-26,26>>^ Os filhos de Zebulão, segundo as suas famílias, foram: de Serede, a família dos sereditas; de Elom, a família dos elonitas; de Jaleel, a família dos jaleelitas.
+
+[[v4-26-27]]
+
+^<<v4-26-27,27>>^ Essas eram as famílias dos zebulonitas, e os seus registrados foram 60.500.
+
+[[v4-26-28]]
+
+^<<v4-26-28,28>>^ Os filhos de José, segundo as suas famílias, foram Manassés e Efraim.
+
+[[v4-26-29]]
+
+^<<v4-26-29,29>>^ Os filhos de Manassés foram: de Maquir, a família dos maquiritas. E Maquir se tornou pai de Gileade. De Gileade, a família dos gileaditas.
+
+[[v4-26-30]]
+
+^<<v4-26-30,30>>^ Estes foram os filhos de Gileade: de Iézer, a família dos iezeritas; de Heleque, a família dos helequitas;
+
+[[v4-26-31]]
+
+^<<v4-26-31,31>>^ de Asriel, a família dos asrielitas; de Siquém, a família dos siquemitas;
+
+[[v4-26-32]]
+
+^<<v4-26-32,32>>^ de Semida, a família dos semidaítas; de Héfer, a família dos heferitas.
+
+[[v4-26-33]]
+
+^<<v4-26-33,33>>^ E Zelofeade, filho de Héfer, não tinha filhos, apenas filhas, e os nomes das filhas de Zelofeade eram Maala, Noa, Hogla, Milca e Tirza.
+
+[[v4-26-34]]
+
+^<<v4-26-34,34>>^ Essas eram as famílias de Manassés, e os seus registrados foram 52.700.
+
+[[v4-26-35]]
+
+^<<v4-26-35,35>>^ Estes foram os filhos de Efraim, segundo as suas famílias: de Sutela, a família dos sutelaítas; de Bequer, a família dos bequeritas; de Taã, a família dos taanitas.
+
+[[v4-26-36]]
+
+^<<v4-26-36,36>>^ E estes foram os filhos de Sutela: de Erã, a família dos eranitas.
+
+[[v4-26-37]]
+
+^<<v4-26-37,37>>^ Essas eram as famílias dos filhos de Efraim, e os seus registrados foram 32.500. Esses foram os filhos de José, segundo as suas famílias.
+
+[[v4-26-38]]
+
+^<<v4-26-38,38>>^ Os filhos de Benjamim, segundo as suas famílias, foram: de Bela, a família dos belaítas; de Asbel, a família dos asbelitas; de Airão, a família dos airamitas;
+
+[[v4-26-39]]
+
+^<<v4-26-39,39>>^ de Sefufã, a família dos sufamitas; de Hufão, a família dos hufamitas.
+
+[[v4-26-40]]
+
+^<<v4-26-40,40>>^ Os filhos de Bela foram Arde e Naamã: de Arde, a família dos arditas; de Naamã, a família dos naamitas.
+
+[[v4-26-41]]
+
+^<<v4-26-41,41>>^ Esses foram os filhos de Benjamim, segundo as suas famílias, e os seus registrados foram 45.600.
+
+[[v4-26-42]]
+
+^<<v4-26-42,42>>^ Estes foram os filhos de Dã, segundo as suas famílias: de Suão, a família dos suamitas. Essas eram as famílias de Dã segundo as suas famílias.
+
+[[v4-26-43]]
+
+^<<v4-26-43,43>>^ Os que foram registrados de todas as famílias dos suamitas foram 64.400.
+
+[[v4-26-44]]
+
+^<<v4-26-44,44>>^ Os filhos de Aser, segundo as suas famílias, foram: de Imná, a família dos imnitas; de Isvi, a família dos isvitas; de Berias, a família dos beriitas;
+
+[[v4-26-45]]
+
+^<<v4-26-45,45>>^ dos filhos de Berias: de Héber, a família dos heberitas; de Malquiel, a família dos malquielitas.
+
+[[v4-26-46]]
+
+^<<v4-26-46,46>>^ O nome da filha de Aser era Sera.
+
+[[v4-26-47]]
+
+^<<v4-26-47,47>>^ Essas eram as famílias dos filhos de Aser, e os seus registrados foram 53.400.
+
+[[v4-26-48]]
+
+^<<v4-26-48,48>>^ Os filhos de Naftali, segundo as suas famílias, foram: de Jazeel, a família dos jazeelitas; de Guni, a família dos gunitas;
+
+[[v4-26-49]]
+
+^<<v4-26-49,49>>^ de Jezer, a família dos jezeritas; de Silém, a família dos silemitas.
+
+[[v4-26-50]]
+
+^<<v4-26-50,50>>^ Essas eram as famílias de Naftali, segundo as suas famílias, e os seus registrados foram 45.400.
+
+[[v4-26-51]]
+
+^<<v4-26-51,51>>^ Este é o total dos registrados dos israelitas: 601.730.
+
+[[v4-26-52]]
+
+^<<v4-26-52,52>>^ Depois, Jeová disse a Moisés:
+
+[[v4-26-53]]
+
+^<<v4-26-53,53>>^ “A terra deve ser dividida entre esses como herança, de acordo com a lista dos nomes.^&#42;1^
+
+[NOTE]
+====
+. Ou: “proporcionalmente ao número de nomes alistados”.
+====
+
+[[v4-26-54]]
+
+^<<v4-26-54,54>>^ Para os grupos maiores, você deve aumentar a herança e, para os grupos menores, você deve reduzir a herança. A herança dada a cada grupo deve ser proporcional ao número dos registrados.
+
+[[v4-26-55]]
+
+^<<v4-26-55,55>>^ No entanto, a terra deve ser distribuída por sortes. Eles devem receber sua herança de acordo com os nomes das tribos dos seus pais.
+
+[[v4-26-56]]
+
+^<<v4-26-56,56>>^ Cada herança será determinada por sortes e distribuída entre os grupos maiores e os menores.”
+
+[[v4-26-57]]
+
+^<<v4-26-57,57>>^ Estes foram os registrados dos levitas, segundo as suas famílias: de Gérson, a família dos gersonitas; de Coate, a família dos coatitas; de Merari, a família dos meraritas.
+
+[[v4-26-58]]
+
+^<<v4-26-58,58>>^ Estas eram as famílias dos levitas: a família dos libnitas, a família dos hebronitas, a família dos malitas, a família dos musitas, a família dos coraítas.
+Coate se tornou pai de Anrão.
+
+[[v4-26-59]]
+
+^<<v4-26-59,59>>^ E o nome da esposa de Anrão era Joquebede, filha que Levi teve com sua esposa no Egito. E ela deu a Anrão filhos chamados Arão, Moisés e Miriã, irmã deles.
+
+[[v4-26-60]]
+
+^<<v4-26-60,60>>^ Arão tornou-se então pai de Nadabe, Abiú, Eleazar e Itamar.
+
+[[v4-26-61]]
+
+^<<v4-26-61,61>>^ Mas Nadabe e Abiú morreram por terem apresentado fogo ilícito perante Jeová.
+
+[[v4-26-62]]
+
+^<<v4-26-62,62>>^ O total dos registrados foi de 23.000, todos do sexo masculino de um mês de idade para cima. Eles não foram registrados junto com os outros israelitas, porque não deviam receber nenhuma herança entre os israelitas.
+
+[[v4-26-63]]
+
+^<<v4-26-63,63>>^ Esses foram os registrados por Moisés e Eleazar, o sacerdote, quando registraram os israelitas nas planícies desérticas de Moabe, junto ao Jordão, na altura de Jericó.
+
+[[v4-26-64]]
+
+^<<v4-26-64,64>>^ Mas entre eles não havia ninguém que tinha sido registrado por Moisés e Arão, o sacerdote, no censo dos israelitas feito no deserto do Sinai.
+
+[[v4-26-65]]
+
+^<<v4-26-65,65>>^ Pois Jeová tinha dito a respeito deles: “Sem falta morrerão no deserto.” De modo que não sobrou nenhum daqueles homens, a não ser Calebe, filho de Jefuné, e Josué, filho de Num.
+
+'''
+
+xref:004-numeros/004-numeros-025.adoc#v4-25-0[&#60; Capítulo Anterior] | <<v4-26-0,Topo>> | xref:004-numeros/004-numeros-027.adoc#v4-27-0[Próximo Capítulo &#62;]

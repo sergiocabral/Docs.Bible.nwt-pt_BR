@@ -1,0 +1,188 @@
+include::./index.adoc[]
+
+[[v18-12-0]]
+=== Jó, 12
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v18-12-1]]
+
+^<<v18-12-1,1>>^ Então Jó disse em resposta:
+
+[[v18-12-2]]
+
+^<<v18-12-2,2>>^ “Com certeza, vocês são os que sabem tudo,^&#42;1^
+E a sabedoria morrerá com vocês!
+
+[NOTE]
+====
+. Lit.: “vocês são o povo”.
+====
+
+[[v18-12-3]]
+
+^<<v18-12-3,3>>^ Mas eu também tenho entendimento.^&#42;1^
+Não sou inferior a vocês.
+Quem não sabe essas coisas?
+
+[NOTE]
+====
+. Lit.: “um coração”.
+====
+
+[[v18-12-4]]
+
+^<<v18-12-4,4>>^ Eu me tornei motivo de riso para meus amigos,
+Alguém que invoca a Deus em busca de uma resposta.
+Um homem justo e irrepreensível é motivo de riso.
+
+[[v18-12-5]]
+
+^<<v18-12-5,5>>^ A pessoa despreocupada despreza a calamidade,
+Achando que ela sobrevém apenas àqueles cujos pés estão vacilantes.^&#42;1^
+
+[NOTE]
+====
+. Ou: “escorregando”.
+====
+
+[[v18-12-6]]
+
+^<<v18-12-6,6>>^ As tendas dos ladrões estão em paz,
+E os que provocam a Deus estão em segurança,
+Os que têm o seu deus nas mãos.
+
+[[v18-12-7]]
+
+^<<v18-12-7,7>>^ No entanto, pergunte aos animais, por favor, e eles o ensinarão;
+Também às aves dos céus, e elas o informarão.
+
+[[v18-12-8]]
+
+^<<v18-12-8,8>>^ Ou observe^&#42;1^ a terra, e ela o ensinará;
+E os peixes do mar lhe contarão.
+
+[NOTE]
+====
+. Ou, possivelmente: “fale com”.
+====
+
+[[v18-12-9]]
+
+^<<v18-12-9,9>>^ Quem dentre todos eles não sabe
+Que foi a mão de Jeová que fez isso?
+
+[[v18-12-10]]
+
+^<<v18-12-10,10>>^ Ele tem nas mãos a vida de todos os seres vivos^&#42;1^
+E o espírito^&#42;2^ de todos os humanos.^&#42;3^
+
+[NOTE]
+====
+. Ou: “a alma de todos os que vivem”.
+. Ou: “fôlego”.
+. Lit.: “de toda carne de homem”.
+====
+
+[[v18-12-11]]
+
+^<<v18-12-11,11>>^ Não prova o ouvido as palavras,
+Assim como a língua^&#42;1^ saboreia a comida?
+
+[NOTE]
+====
+. Lit.: “o palato”.
+====
+
+[[v18-12-12]]
+
+^<<v18-12-12,12>>^ Não é a sabedoria encontrada entre os idosos,
+E a vida longa, não traz entendimento?
+
+[[v18-12-13]]
+
+^<<v18-12-13,13>>^ Com ele há sabedoria e poder;
+A ele pertencem o conselho e o entendimento.
+
+[[v18-12-14]]
+
+^<<v18-12-14,14>>^ Quando ele derruba alguma coisa, ela não pode ser reconstruída;
+O que ele fecha nenhum homem pode abrir.
+
+[[v18-12-15]]
+
+^<<v18-12-15,15>>^ Quando ele retém as águas, tudo se seca;
+Quando ele as envia, elas inundam a terra.
+
+[[v18-12-16]]
+
+^<<v18-12-16,16>>^ Com ele há força e sabedoria prática;
+Em suas mãos estão quem se desvia e quem desvia outros;
+
+[[v18-12-17]]
+
+^<<v18-12-17,17>>^ Ele faz os conselheiros andar descalços,^&#42;1^
+E faz os juízes de tolos.
+
+[NOTE]
+====
+. Ou: “ficar despojados de tudo”.
+====
+
+[[v18-12-18]]
+
+^<<v18-12-18,18>>^ Solta as correntes impostas por reis,
+E prende uma corda na cintura deles.
+
+[[v18-12-19]]
+
+^<<v18-12-19,19>>^ Faz os sacerdotes andar descalços,
+E derruba os que estão firmemente estabelecidos no poder;
+
+[[v18-12-20]]
+
+^<<v18-12-20,20>>^ Ele silencia os conselheiros de confiança
+E tira a sensatez de homens idosos;^&#42;1^
+
+[NOTE]
+====
+. Ou: “de anciãos”.
+====
+
+[[v18-12-21]]
+
+^<<v18-12-21,21>>^ Derrama desprezo sobre os nobres,
+E faz os poderosos ficar fracos;^&#42;1^
+
+[NOTE]
+====
+. Lit.: “afrouxa o cinto dos poderosos”.
+====
+
+[[v18-12-22]]
+
+^<<v18-12-22,22>>^ Ele revela coisas profundas da escuridão,
+E faz a luz brilhar sobre densas trevas;
+
+[[v18-12-23]]
+
+^<<v18-12-23,23>>^ Faz nações se tornarem poderosas, para destruí-las;
+Faz nações crescerem, para levá-las ao exílio;
+
+[[v18-12-24]]
+
+^<<v18-12-24,24>>^ Tira o entendimento^&#42;1^ dos líderes do povo
+E os faz vaguear por desertos sem caminho.
+
+[NOTE]
+====
+. Lit.: “coração”.
+====
+
+[[v18-12-25]]
+
+^<<v18-12-25,25>>^ Eles andam tateando na escuridão, onde não há luz;
+Ele os faz vaguear como bêbados.
+
+'''
+
+xref:018-jo/018-jo-011.adoc#v18-11-0[&#60; Capítulo Anterior] | <<v18-12-0,Topo>> | xref:018-jo/018-jo-013.adoc#v18-13-0[Próximo Capítulo &#62;]

@@ -1,0 +1,88 @@
+include::./index.adoc[]
+
+[[v4-30-0]]
+=== Números, 30
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v4-30-1]]
+
+^<<v4-30-1,1>>^ Então Moisés disse aos cabeças das tribos de Israel: “Isto é o que Jeová ordenou:
+
+[[v4-30-2]]
+
+^<<v4-30-2,2>>^ Se um homem fizer um voto a Jeová ou um juramento, impondo a si mesmo^&#42;1^ um voto de abstinência, ele não deve violar a sua palavra. Deve fazer tudo o que prometeu.
+
+[NOTE]
+====
+. Ou: “impondo como obrigação à sua alma”.
+====
+
+[[v4-30-3]]
+
+^<<v4-30-3,3>>^ “E, se uma mulher fizer um voto a Jeová ou impuser a si mesma um voto de abstinência enquanto for jovem e estiver morando na casa do seu pai,
+
+[[v4-30-4]]
+
+^<<v4-30-4,4>>^ e o seu pai ficar sabendo do voto ou do voto de abstinência que ela impôs a si mesma,^&#42;1^ e o seu pai não fizer objeção, então tudo o que ela votou ficará de pé, e todo voto de abstinência que ela impôs a si mesma ficará de pé.
+
+[NOTE]
+====
+. Ou: “à sua alma”.
+====
+
+[[v4-30-5]]
+
+^<<v4-30-5,5>>^ Mas, se o seu pai lhe proibir isso quando ficar sabendo do seu voto ou do voto de abstinência que ela impôs a si mesma, então esses não ficarão de pé. Jeová a perdoará, porque o seu pai lhe proibiu isso.
+
+[[v4-30-6]]
+
+^<<v4-30-6,6>>^ “No entanto, se ela se casar enquanto estiver debaixo de um voto ou de uma promessa precipitada que impôs a si mesma,
+
+[[v4-30-7]]
+
+^<<v4-30-7,7>>^ e o seu marido ficar sabendo do voto e não fizer objeção quando ficar sabendo, então os seus votos ou os votos de abstinência que ela impôs a si mesma ficarão de pé.
+
+[[v4-30-8]]
+
+^<<v4-30-8,8>>^ Mas, se o marido lhe proibir isso quando ficar sabendo do voto, ele poderá anular o voto ou a promessa precipitada que ela impôs a si mesma; e Jeová a perdoará.
+
+[[v4-30-9]]
+
+^<<v4-30-9,9>>^ “Mas, se uma viúva ou uma mulher divorciada fizer um voto, tudo o que ela impuser a si mesma será válido.
+
+[[v4-30-10]]
+
+^<<v4-30-10,10>>^ “No entanto, se foi na casa do seu marido que uma mulher impôs a si mesma um voto ou um voto de abstinência,
+
+[[v4-30-11]]
+
+^<<v4-30-11,11>>^ e o marido ficou sabendo do voto e não fez objeção nem o desaprovou, tudo o que ela votou ou qualquer voto de abstinência que ela impôs a si mesma ficará de pé.
+
+[[v4-30-12]]
+
+^<<v4-30-12,12>>^ Mas, se o marido, quando ficou sabendo, anulou completamente qualquer voto ou voto de abstinência que ela fez, esses não ficarão de pé. Seu marido os anulou, e Jeová a perdoará.
+
+[[v4-30-13]]
+
+^<<v4-30-13,13>>^ O marido deve confirmar ou anular qualquer voto ou qualquer juramento referente a um voto de abstinência para se privar de algo.^&#42;1^
+
+[NOTE]
+====
+. Ou: “um voto para afligir a alma”.
+====
+
+[[v4-30-14]]
+
+^<<v4-30-14,14>>^ Mas, à medida que os dias passarem, se o marido não fizer nenhuma objeção, ele estará confirmando tudo o que ela votou e todos os votos de abstinência debaixo dos quais ela estiver. Ele os estará confirmando, porque não fez objeção quando ficou sabendo que ela os fez.
+
+[[v4-30-15]]
+
+^<<v4-30-15,15>>^ Mas, se os anular mais tarde, algum tempo depois de ficar sabendo deles, ele assumirá as consequências do erro dela.
+
+[[v4-30-16]]
+
+^<<v4-30-16,16>>^ “Esse é o regulamento que Jeová ordenou a Moisés referente a um marido e sua esposa, e referente a um pai e sua filha jovem que mora na casa dele.”
+
+'''
+
+xref:004-numeros/004-numeros-029.adoc#v4-29-0[&#60; Capítulo Anterior] | <<v4-30-0,Topo>> | xref:004-numeros/004-numeros-031.adoc#v4-31-0[Próximo Capítulo &#62;]

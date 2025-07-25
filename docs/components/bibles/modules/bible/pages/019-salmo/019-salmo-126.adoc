@@ -1,0 +1,51 @@
+include::./index.adoc[]
+
+[[v19-126-0]]
+=== Salmos, 126
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Cântico das Subidas._
+
+[[v19-126-1]]
+
+^<<v19-126-1,1>>^ Quando Jeová trouxe os cativos de volta a Sião,
+Pensamos que estávamos sonhando.
+
+[[v19-126-2]]
+
+^<<v19-126-2,2>>^ Naquela ocasião, nossa boca se encheu de riso;
+E nossa língua, de gritos de alegria.
+Naquela ocasião, diziam entre as nações:
+“Jeová fez coisas maravilhosas por eles.”
+
+[[v19-126-3]]
+
+^<<v19-126-3,3>>^ Sim, Jeová fez coisas maravilhosas por nós,
+E nós estamos cheios de alegria.
+
+[[v19-126-4]]
+
+^<<v19-126-4,4>>^ Traz de volta^&#42;1^ os nossos cativos, ó Jeová,
+Como as correntes de água que voltam ao Neguebe.^&#42;2^
+
+[NOTE]
+====
+. Ou: “Restabelece”.
+. Ou: “os uádis do sul”.
+====
+
+[[v19-126-5]]
+
+^<<v19-126-5,5>>^ Os que semeiam com lágrimas
+Colherão com gritos de alegria.
+
+[[v19-126-6]]
+
+^<<v19-126-6,6>>^ Aquele que sair, mesmo chorando,
+Carregando sua bolsa de sementes,
+Certamente voltará com gritos de alegria,
+Carregando seus feixes.
+
+'''
+
+xref:019-salmo/019-salmo-125.adoc#v19-125-0[&#60; Capítulo Anterior] | <<v19-126-0,Topo>> | xref:019-salmo/019-salmo-127.adoc#v19-127-0[Próximo Capítulo &#62;]

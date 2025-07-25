@@ -1,0 +1,255 @@
+include::./index.adoc[]
+
+[[v20-30-0]]
+=== Provérbios, 30
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v20-30-1]]
+
+^<<v20-30-1,1>>^ Palavras de Agur, filho de Jaque. A mensagem importante que ele transmitiu a Itiel; a Itiel e a Ucal.
+
+[[v20-30-2]]
+
+^<<v20-30-2,2>>^ Sou mais ignorante do que qualquer outro,
+E não tenho o entendimento que um homem deveria ter.
+
+[[v20-30-3]]
+
+^<<v20-30-3,3>>^ Não aprendi a sabedoria,
+E não tenho o conhecimento do Santíssimo.
+
+[[v20-30-4]]
+
+^<<v20-30-4,4>>^ Quem subiu ao céu e depois desceu?
+Quem ajuntou o vento na palma das mãos?
+Quem embrulhou as águas em sua roupa?
+Quem estabeleceu^&#42;1^ os confins da terra?
+Qual é o nome dele e o nome do seu filho, se é que você sabe?
+
+[NOTE]
+====
+. Lit.: “levantou”.
+====
+
+[[v20-30-5]]
+
+^<<v20-30-5,5>>^ Toda declaração de Deus é pura.^&#42;1^
+Ele é um escudo para os que se refugiam nele.
+
+[NOTE]
+====
+. Ou: “provada no fogo”.
+====
+
+[[v20-30-6]]
+
+^<<v20-30-6,6>>^ Não acrescente nada às palavras dele,
+Senão ele o repreenderá,
+E ficará claro que você é um mentiroso.
+
+[[v20-30-7]]
+
+^<<v20-30-7,7>>^ Duas coisas eu te peço;
+Não me negues isto antes de eu morrer:
+
+[[v20-30-8]]
+
+^<<v20-30-8,8>>^ Afasta de mim a falsidade e a mentira,
+E não me dês nem pobreza nem riquezas.
+Dá-me apenas a minha porção de alimento,
+
+[[v20-30-9]]
+
+^<<v20-30-9,9>>^ Para que eu não me farte e te negue, e diga: “Quem é Jeová?”
+Nem fique pobre e roube, e desonre^&#42;1^ o nome do meu Deus.
+
+[NOTE]
+====
+. Ou: “ataque”.
+====
+
+[[v20-30-10]]
+
+^<<v20-30-10,10>>^ Não calunie um servo diante do senhor dele,
+Senão ele amaldiçoará você, e você será considerado culpado.
+
+[[v20-30-11]]
+
+^<<v20-30-11,11>>^ Há uma geração que amaldiçoa o pai
+E não abençoa a mãe.
+
+[[v20-30-12]]
+
+^<<v20-30-12,12>>^ Há uma geração que é pura aos seus próprios olhos,
+Mas que não foi purificada da sua imundície.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “do seu excremento”.
+====
+
+[[v20-30-13]]
+
+^<<v20-30-13,13>>^ Há uma geração que tem olhos tão arrogantes
+E um olhar tão orgulhoso!
+
+[[v20-30-14]]
+
+^<<v20-30-14,14>>^ Há uma geração cujos dentes são espadas
+E cujos maxilares são facas;^&#42;1^
+Eles devoram os humildes da terra
+E eliminam os pobres do meio da humanidade.
+
+[NOTE]
+====
+. Ou: “cutelos”.
+====
+
+[[v20-30-15]]
+
+^<<v20-30-15,15>>^ As sanguessugas têm duas filhas que gritam: “Mais! Mais!”
+Há três coisas que não ficam satisfeitas,
+Quatro que nunca dizem “Chega”:
+
+[[v20-30-16]]
+
+^<<v20-30-16,16>>^ A Sepultura^&#42;1^ e o ventre estéril,
+A terra sedenta de água,
+E o fogo, que nunca diz: “Chega!”
+
+[NOTE]
+====
+. Ou: “O Seol”, isto é, a sepultura comum da humanidade. Veja o Glossário.
+====
+
+[[v20-30-17]]
+
+^<<v20-30-17,17>>^ Os olhos que zombam do pai e desprezam a obediência à mãe
+Serão arrancados pelos corvos do vale^&#42;1^
+E devorados pelos filhotes de águia.
+
+[NOTE]
+====
+. Ou: “uádi”.
+====
+
+[[v20-30-18]]
+
+^<<v20-30-18,18>>^ Há três coisas que estão além da minha compreensão,^&#42;1^
+Quatro que eu não entendo:
+
+[NOTE]
+====
+. Ou: “que são maravilhosas demais para mim”.
+====
+
+[[v20-30-19]]
+
+^<<v20-30-19,19>>^ O caminho da águia nos céus,
+O caminho da serpente sobre uma rocha,
+O caminho do navio em alto-mar,
+E o caminho do homem com uma moça.
+
+[[v20-30-20]]
+
+^<<v20-30-20,20>>^ Este é o caminho de uma mulher adúltera:
+Ela come, limpa a boca
+E diz: “Não fiz nada de errado.”
+
+[[v20-30-21]]
+
+^<<v20-30-21,21>>^ Há três coisas que fazem a terra tremer,
+Quatro coisas que ela não pode suportar:
+
+[[v20-30-22]]
+
+^<<v20-30-22,22>>^ Um escravo que se torna rei,
+Um tolo empanturrado de comida,
+
+[[v20-30-23]]
+
+^<<v20-30-23,23>>^ Uma mulher odiada^&#42;1^ que é tomada como esposa,
+E uma serva que toma o lugar da^&#42;2^ sua senhora.
+
+[NOTE]
+====
+. Ou: “não amada”.
+. Ou: “que suplanta a”.
+====
+
+[[v20-30-24]]
+
+^<<v20-30-24,24>>^ Há quatro criaturas que estão entre as menores da terra,
+Mas são instintivamente^&#42;1^ sábias:
+
+[NOTE]
+====
+. Ou: “extremamente”.
+====
+
+[[v20-30-25]]
+
+^<<v20-30-25,25>>^ As formigas não são criaturas fortes,^&#42;1^
+Ainda assim, preparam seu alimento no verão.
+
+[NOTE]
+====
+. Lit.: “As formigas são um povo não forte”.
+====
+
+[[v20-30-26]]
+
+^<<v20-30-26,26>>^ Os procávias^&#42;1^ não são criaturas poderosas,^&#42;2^
+Mas fazem sua casa nos rochedos.
+
+[NOTE]
+====
+. Animal semelhante ao coelho e que vive em lugares rochosos. Também é chamado de hírace (hírax) ou daimão.
+. Lit.: “Os procávias são um povo não poderoso”.
+====
+
+[[v20-30-27]]
+
+^<<v20-30-27,27>>^ Os gafanhotos não têm rei,
+Mas todos eles avançam em fileiras.^&#42;1^
+
+[NOTE]
+====
+. Ou: “divididos em grupos”.
+====
+
+[[v20-30-28]]
+
+^<<v20-30-28,28>>^ A lagartixa gruda em tudo com as suas patas,
+E entra no palácio do rei.
+
+[[v20-30-29]]
+
+^<<v20-30-29,29>>^ Há três coisas que andam de modo impressionante,
+Quatro coisas que são impressionantes ao se mover:
+
+[[v20-30-30]]
+
+^<<v20-30-30,30>>^ O leão, que é o mais valente dos animais
+E não recua diante de ninguém,
+
+[[v20-30-31]]
+
+^<<v20-30-31,31>>^ O galgo, o bode
+E o rei acompanhado de seu exército.
+
+[[v20-30-32]]
+
+^<<v20-30-32,32>>^ Se você foi tolo e enalteceu a si mesmo,
+Ou se planejou fazer isso,
+Ponha a mão sobre a boca.
+
+[[v20-30-33]]
+
+^<<v20-30-33,33>>^ Pois assim como bater o leite produz manteiga
+E apertar o nariz faz sair sangue,
+Assim também atiçar a ira provoca discussões.
+
+'''
+
+xref:020-proverbios/020-proverbios-029.adoc#v20-29-0[&#60; Capítulo Anterior] | <<v20-30-0,Topo>> | xref:020-proverbios/020-proverbios-031.adoc#v20-31-0[Próximo Capítulo &#62;]

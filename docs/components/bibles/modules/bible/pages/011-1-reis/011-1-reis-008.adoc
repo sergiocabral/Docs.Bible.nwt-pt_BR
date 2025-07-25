@@ -1,0 +1,344 @@
+include::./index.adoc[]
+
+[[v11-8-0]]
+=== O Primeiro dos Reis, 8
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v11-8-1]]
+
+^<<v11-8-1,1>>^ Naqueles dias, Salomão reuniu os anciãos de Israel: todos os cabeças das tribos e os maiorais das casas paternas de Israel. Eles vieram até o rei Salomão, em Jerusalém, para que a Arca do Pacto de Jeová fosse transferida da Cidade de Davi, isto é, Sião.
+
+[[v11-8-2]]
+
+^<<v11-8-2,2>>^ Todos os homens de Israel se reuniram diante do rei Salomão na festividade,^&#42;1^ no mês de etanim,^&#42;2^ isto é, o sétimo mês.
+
+[NOTE]
+====
+. Isto é, na Festividade das Barracas.
+. Veja Ap. B15.
+====
+
+[[v11-8-3]]
+
+^<<v11-8-3,3>>^ Então todos os anciãos de Israel vieram, e os sacerdotes levantaram a Arca.
+
+[[v11-8-4]]
+
+^<<v11-8-4,4>>^ Eles carregaram para cima a Arca de Jeová, a tenda de reunião e todos os utensílios sagrados que havia na tenda. Os sacerdotes e os levitas levaram-nos para cima.
+
+[[v11-8-5]]
+
+^<<v11-8-5,5>>^ O rei Salomão e toda a assembleia de Israel, que tinha sido convocada para se reunir com ele, estavam diante da Arca; e sacrificaram tantas ovelhas e bois que não podiam ser contados nem enumerados.
+
+[[v11-8-6]]
+
+^<<v11-8-6,6>>^ Então os sacerdotes levaram a Arca do Pacto de Jeová para o seu lugar, dentro do compartimento interno da casa, o Santíssimo, e a colocaram debaixo das asas dos querubins.
+
+[[v11-8-7]]
+
+^<<v11-8-7,7>>^ Assim, as asas dos querubins ficavam estendidas sobre o lugar onde estava a Arca, de modo que os querubins cobriam a Arca e seus varais.
+
+[[v11-8-8]]
+
+^<<v11-8-8,8>>^ Os varais eram tão compridos que as suas pontas podiam ser vistas do Santo, na frente do compartimento interno, mas não podiam ser vistas de fora. E os varais estão ali até hoje.
+
+[[v11-8-9]]
+
+^<<v11-8-9,9>>^ Não havia nada na Arca a não ser as duas tábuas de pedra colocadas ali por Moisés, em Horebe, quando Jeová fez um pacto com o povo de Israel ao saírem da terra do Egito.
+
+[[v11-8-10]]
+
+^<<v11-8-10,10>>^ Quando os sacerdotes saíram do lugar santo, a nuvem encheu a casa de Jeová.
+
+[[v11-8-11]]
+
+^<<v11-8-11,11>>^ Os sacerdotes não puderam ficar lá para realizar o seu serviço^&#42;1^ por causa da nuvem, pois a glória de Jeová enchia a casa de Jeová.
+
+[NOTE]
+====
+. Ou: “para ministrar”.
+====
+
+[[v11-8-12]]
+
+^<<v11-8-12,12>>^ Então Salomão disse: “Jeová disse que residiria em densas nuvens.
+
+[[v11-8-13]]
+
+^<<v11-8-13,13>>^ E eu fui bem-sucedido em construir para ti uma magnífica morada, um lugar estabelecido para nele residires para sempre.”
+
+[[v11-8-14]]
+
+^<<v11-8-14,14>>^ Então o rei se virou para toda a congregação de Israel e começou a abençoá-la, enquanto toda a congregação de Israel estava de pé.
+
+[[v11-8-15]]
+
+^<<v11-8-15,15>>^ Ele disse: “Que Jeová, o Deus de Israel, seja louvado, aquele que cumpriu com a própria mão o que a sua boca havia prometido a Davi, meu pai:
+
+[[v11-8-16]]
+
+^<<v11-8-16,16>>^ ‘Desde o dia em que tirei o meu povo Israel do Egito, não escolhi nenhuma cidade dentre todas as tribos de Israel a fim de nela construir uma casa para que o meu nome permanecesse ali, mas escolhi Davi para reinar sobre o meu povo Israel.’
+
+[[v11-8-17]]
+
+^<<v11-8-17,17>>^ E o desejo de coração de Davi, meu pai, era construir uma casa para o nome de Jeová, o Deus de Israel.
+
+[[v11-8-18]]
+
+^<<v11-8-18,18>>^ Mas Jeová disse a Davi, meu pai: ‘O seu desejo de coração é construir uma casa para o meu nome, e é bom que você tenha esse desejo no coração.
+
+[[v11-8-19]]
+
+^<<v11-8-19,19>>^ Mas você não construirá a casa; o seu filho, que procederá de você,^&#42;1^ é quem construirá a casa para o meu nome.’
+
+[NOTE]
+====
+. Lit.: “seu filho, aquele que sairá dos seus lombos”.
+====
+
+[[v11-8-20]]
+
+^<<v11-8-20,20>>^ Jeová cumpriu a promessa que fez, pois sucedi a Davi, meu pai, e me sentei no trono de Israel, assim como Jeová prometeu. Também construí a casa para o nome de Jeová, o Deus de Israel,
+
+[[v11-8-21]]
+
+^<<v11-8-21,21>>^ e estabeleci ali um lugar para a Arca, que contém o pacto que Jeová fez com os nossos antepassados quando os tirou da terra do Egito.”
+
+[[v11-8-22]]
+
+^<<v11-8-22,22>>^ Então Salomão ficou de pé diante do altar de Jeová, perante toda a congregação de Israel, estendeu as mãos para os céus
+
+[[v11-8-23]]
+
+^<<v11-8-23,23>>^ e disse: “Ó Jeová, Deus de Israel, não há Deus igual a ti nos céus, em cima, nem na terra, embaixo; tu guardas o pacto e demonstras amor leal aos teus servos que andam diante de ti de todo o coração.
+
+[[v11-8-24]]
+
+^<<v11-8-24,24>>^ Tu cumpriste a promessa que fizeste ao teu servo Davi, meu pai. Fizeste a promessa com a tua própria boca, e hoje a cumpriste com a tua própria mão.
+
+[[v11-8-25]]
+
+^<<v11-8-25,25>>^ E agora, ó Jeová, Deus de Israel, cumpre a promessa que fizeste ao teu servo Davi, meu pai, quando disseste: ‘Sempre haverá um descendente seu diante de mim para sentar no trono de Israel, desde que os seus filhos prestem atenção ao caminho deles, andando diante de mim assim como você andou diante de mim.’
+
+[[v11-8-26]]
+
+^<<v11-8-26,26>>^ E agora, por favor, ó Deus de Israel, que se cumpra a promessa que fizeste ao teu servo Davi, meu pai.
+
+[[v11-8-27]]
+
+^<<v11-8-27,27>>^ “Mas será que Deus realmente morará na terra? Os céus, sim, o céu dos céus, não te podem conter, quanto menos, então, esta casa que construí!
+
+[[v11-8-28]]
+
+^<<v11-8-28,28>>^ Agora, presta atenção à oração e ao pedido de favor do teu servo, ó Jeová, meu Deus, e escuta o clamor por ajuda e a oração que o teu servo faz hoje diante de ti.
+
+[[v11-8-29]]
+
+^<<v11-8-29,29>>^ Que os teus olhos vigiem dia e noite esta casa, o lugar sobre o qual disseste: ‘Ali estará o meu nome’, e que escutes a oração que o teu servo faz em direção a este lugar.
+
+[[v11-8-30]]
+
+^<<v11-8-30,30>>^ Escuta o pedido de favor do teu servo e o pedido do teu povo Israel quando orarem em direção a este lugar. Que tu ouças do lugar da tua morada, os céus; sim, que tu ouças e perdoes.
+
+[[v11-8-31]]
+
+^<<v11-8-31,31>>^ “Se um homem pecar contra o seu próximo e for obrigado a fazer um juramento,^&#42;1^ ficando assim sujeito aos termos desse juramento,^&#42;2^ e ele for até o teu altar nesta casa enquanto estiver sob esse juramento,^&#42;3^
+
+[NOTE]
+====
+. Ou: “e este lançar uma maldição sobre ele”. Isto é, um juramento em que, se a pessoa jurasse em falso ou se não cumprisse, resultaria numa maldição.
+. Lit.: “da maldição”.
+. Lit.: “a maldição”.
+====
+
+[[v11-8-32]]
+
+^<<v11-8-32,32>>^ que tu ouças desde os céus, e que ajas e julgues os teus servos: que declares culpado^&#42;1^ àquele que fez o mal, fazendo os seus atos recair sobre a sua própria cabeça, e que declares inocente^&#42;2^ àquele que é justo, recompensando-o conforme a sua própria justiça.
+
+[NOTE]
+====
+. Lit.: “mau”.
+. Lit.: “justo”.
+====
+
+[[v11-8-33]]
+
+^<<v11-8-33,33>>^ “Se o teu povo Israel for derrotado por um inimigo, por terem persistido em pecar contra ti, e eles voltarem para ti e glorificarem o teu nome, e orarem e implorarem o teu favor nesta casa,
+
+[[v11-8-34]]
+
+^<<v11-8-34,34>>^ então que tu ouças desde os céus, e que perdoes o pecado do teu povo Israel e os tragas de volta à terra que deste aos seus antepassados.
+
+[[v11-8-35]]
+
+^<<v11-8-35,35>>^ “Se os céus se fecharem e não chover, por teu povo ter persistido em pecar contra ti, e eles orarem em direção a este lugar e glorificarem o teu nome, e recuarem do seu pecado, por tu lhes teres ensinado a ser humildes,^&#42;1^
+
+[NOTE]
+====
+. Ou: “causado aflição”.
+====
+
+[[v11-8-36]]
+
+^<<v11-8-36,36>>^ então que tu ouças desde os céus e perdoes o pecado dos teus servos, do teu povo Israel, e os instruas sobre o bom caminho em que devem andar; e que tu tragas chuva sobre a terra que deste ao teu povo como herança.
+
+[[v11-8-37]]
+
+^<<v11-8-37,37>>^ “Se houver uma fome no país, ou uma peste, calor abrasador,^&#42;1^ bolor, nuvens de gafanhotos, ou gafanhotos devastadores; ou se o inimigo os cercar em alguma das cidades do país,^&#42;2^ ou se qualquer outro tipo de praga ou doença ocorrer,
+
+[NOTE]
+====
+. Ou: “crestamento”.
+. Lit.: “na terra dos seus portões”.
+====
+
+[[v11-8-38]]
+
+^<<v11-8-38,38>>^ e um homem ou todo o teu povo Israel fizer uma oração ou apresentar um pedido de favor, qualquer que seja (pois cada um conhece bem a aflição do seu coração), quando eles estenderem as mãos em direção a esta casa,
+
+[[v11-8-39]]
+
+^<<v11-8-39,39>>^ então que tu ouças desde os céus, teu lugar de morada, que perdoes e ajas, e que recompenses a cada um conforme todos os seus caminhos, pois conheces o seu coração (só tu realmente conheces o coração de todos os homens),
+
+[[v11-8-40]]
+
+^<<v11-8-40,40>>^ para que te temam todos os dias em que viverem na terra que deste aos nossos antepassados.
+
+[[v11-8-41]]
+
+^<<v11-8-41,41>>^ “Quanto ao estrangeiro que não faz parte do teu povo Israel e que vier de uma terra distante por causa do teu nome^&#42;1^
+
+[NOTE]
+====
+. Ou: “da tua reputação”.
+====
+
+[[v11-8-42]]
+
+^<<v11-8-42,42>>^ (pois ouvirão falar do teu grande nome, da tua mão poderosa e do teu braço estendido), e que vier e orar em direção a esta casa,
+
+[[v11-8-43]]
+
+^<<v11-8-43,43>>^ que tu também o ouças desde os céus, teu lugar de morada, e que faças tudo que o estrangeiro te pedir, para que todos os povos da terra conheçam o teu nome e te temam assim como o teu povo Israel faz, e para que saibam que o teu nome é invocado sobre esta casa que construí.
+
+[[v11-8-44]]
+
+^<<v11-8-44,44>>^ “Se o teu povo for à guerra contra o inimigo, seguindo o caminho pelo qual os enviares, e eles orarem a Jeová em direção à cidade que escolheste e em direção à casa que construí para o teu nome,
+
+[[v11-8-45]]
+
+^<<v11-8-45,45>>^ então que tu ouças desde os céus a sua oração e o seu pedido de favor, e lhes faças justiça.
+
+[[v11-8-46]]
+
+^<<v11-8-46,46>>^ “Se eles pecarem contra ti (pois não há homem que não peque), e ficares furioso com eles e os entregares a um inimigo que os leve cativos para a terra do inimigo, distante ou próxima,
+
+[[v11-8-47]]
+
+^<<v11-8-47,47>>^ e eles caírem em si na terra para onde forem levados cativos, e voltarem para ti, e implorarem o teu favor na terra dos seus captores, dizendo: ‘Pecamos, fizemos o que é errado e o que é mau’,
+
+[[v11-8-48]]
+
+^<<v11-8-48,48>>^ e eles voltarem para ti de todo o coração e de toda a alma^&#42;1^ na terra dos inimigos que os levarem cativos, e orarem a ti em direção à terra que deste aos seus antepassados, à cidade que escolheste e à casa que construí para o teu nome,
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v11-8-49]]
+
+^<<v11-8-49,49>>^ então que tu ouças a sua oração e o seu pedido de favor desde os céus, teu lugar de morada, e lhes faças justiça,
+
+[[v11-8-50]]
+
+^<<v11-8-50,50>>^ e perdoes o teu povo que pecou contra ti; que tu perdoes todas as transgressões que eles cometeram contra ti. Tu farás com que seus captores os tratem com misericórdia e sintam compaixão deles
+
+[[v11-8-51]]
+
+^<<v11-8-51,51>>^ (pois são o teu povo e a tua herança, que tiraste do Egito, do forno de fundição de ferro).
+
+[[v11-8-52]]
+
+^<<v11-8-52,52>>^ Que os teus olhos estejam abertos ao pedido de favor do teu servo e ao pedido de favor do teu povo Israel, escutando-os sempre que clamarem a ti.^&#42;1^
+
+[NOTE]
+====
+. Ou: “escutando-os em tudo o que te pedirem”.
+====
+
+[[v11-8-53]]
+
+^<<v11-8-53,53>>^ Pois tu os separaste como tua herança dentre todos os povos da terra, assim como disseste por meio de Moisés, teu servo, quando tiraste os nossos antepassados do Egito, ó Soberano Senhor Jeová.”
+
+[[v11-8-54]]
+
+^<<v11-8-54,54>>^ E, assim que Salomão terminou de fazer toda essa oração e esse pedido de favor a Jeová, ele se levantou de diante do altar de Jeová, onde estava de joelhos com as mãos estendidas para os céus.
+
+[[v11-8-55]]
+
+^<<v11-8-55,55>>^ Então ficou de pé e abençoou toda a congregação de Israel com voz bem alta, dizendo:
+
+[[v11-8-56]]
+
+^<<v11-8-56,56>>^ “Louvado seja Jeová, que deu ao seu povo Israel um lugar de descanso, assim como prometeu. Não falhou nem uma única palavra de todas as boas promessas que ele fez por meio de Moisés, seu servo.
+
+[[v11-8-57]]
+
+^<<v11-8-57,57>>^ Que Jeová, nosso Deus, esteja conosco assim como esteve com os nossos antepassados. Que ele não nos deixe nem nos abandone.
+
+[[v11-8-58]]
+
+^<<v11-8-58,58>>^ Que ele faça o nosso coração se voltar para ele, para andarmos em todos os seus caminhos e cumprirmos seus mandamentos, seus decretos e suas decisões judiciais, aos quais ele ordenou que nossos antepassados obedecessem.
+
+[[v11-8-59]]
+
+^<<v11-8-59,59>>^ E que estas palavras com que implorei favor a Jeová estejam perto de Jeová, nosso Deus, dia e noite, para que ele faça justiça ao seu servo e ao seu povo Israel, conforme a necessidade de cada dia,
+
+[[v11-8-60]]
+
+^<<v11-8-60,60>>^ para que todos os povos da terra saibam que Jeová é o verdadeiro Deus. Não há outro!
+
+[[v11-8-61]]
+
+^<<v11-8-61,61>>^ Portanto, que o coração de vocês seja pleno para com^&#42;1^ Jeová, nosso Deus, e que andem nos Seus decretos e guardem os Seus mandamentos como estão fazendo hoje.”
+
+[NOTE]
+====
+. Ou: “plenamente devotado a”.
+====
+
+[[v11-8-62]]
+
+^<<v11-8-62,62>>^ Então o rei e todo o Israel ofereceram um grande sacrifício perante Jeová.
+
+[[v11-8-63]]
+
+^<<v11-8-63,63>>^ Salomão apresentou os sacrifícios de participação em comum a Jeová: ele ofereceu 22.000 bois e 120.000 ovelhas. Assim, o rei e todos os israelitas inauguraram a casa de Jeová.
+
+[[v11-8-64]]
+
+^<<v11-8-64,64>>^ Naquele dia, o rei precisou santificar o centro do pátio que fica diante da casa de Jeová, pois teve de oferecer ali os sacrifícios queimados, as ofertas de cereais e a gordura dos sacrifícios de participação em comum, porque o altar de cobre, que fica diante de Jeová, era pequeno demais para os sacrifícios queimados, as ofertas de cereais e a gordura dos sacrifícios de participação em comum.
+
+[[v11-8-65]]
+
+^<<v11-8-65,65>>^ Naquela ocasião, Salomão realizou a festividade junto com todo o Israel, uma grande congregação, vinda desde Lebo-Hamate^&#42;1^ até a torrente^&#42;2^ do Egito. Realizaram a festividade perante Jeová, nosso Deus, por sete dias e mais sete dias, 14 dias ao todo.
+
+[NOTE]
+====
+. Ou: “a entrada de Hamate”.
+. Ou: “o uádi”. Veja o Glossário.
+====
+
+[[v11-8-66]]
+
+^<<v11-8-66,66>>^ No dia seguinte,^&#42;1^ ele dispensou o povo, e eles abençoaram o rei e foram para as suas casas alegres e com o coração contente, por causa de toda a bondade que Jeová havia demonstrado a Davi, seu servo, e a Israel, seu povo.
+
+[NOTE]
+====
+. Lit.: “oitavo”, isto é, no dia seguinte ao segundo período de sete dias.
+====
+
+'''
+
+xref:011-1-reis/011-1-reis-007.adoc#v11-7-0[&#60; Capítulo Anterior] | <<v11-8-0,Topo>> | xref:011-1-reis/011-1-reis-009.adoc#v11-9-0[Próximo Capítulo &#62;]

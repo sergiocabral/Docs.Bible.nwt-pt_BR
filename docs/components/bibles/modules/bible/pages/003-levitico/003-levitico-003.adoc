@@ -1,0 +1,98 @@
+include::./index.adoc[]
+
+[[v3-3-0]]
+=== Levítico, 3
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v3-3-1]]
+
+^<<v3-3-1,1>>^ “‘Se alguém oferecer um sacrifício de participação em comum,^&#42;1^ e se o apresentar dentre os bois, quer macho, quer fêmea, deve apresentar um animal sadio perante Jeová.
+
+[NOTE]
+====
+. Ou: “um sacrifício de ofertas de paz”.
+====
+
+[[v3-3-2]]
+
+^<<v3-3-2,2>>^ Ele deve pôr a mão sobre a cabeça da sua oferta, e ela será abatida à entrada da tenda de reunião; e os filhos de Arão, os sacerdotes, aspergirão o sangue em todas as laterais do altar.
+
+[[v3-3-3]]
+
+^<<v3-3-3,3>>^ Ele apresentará parte do sacrifício de participação em comum como oferta feita por fogo a Jeová: a gordura que envolve os intestinos, toda a gordura que adere aos intestinos,
+
+[[v3-3-4]]
+
+^<<v3-3-4,4>>^ e os dois rins com a gordura que há sobre eles, na região lombar. Ele removerá a membrana gordurosa do fígado junto com os rins.
+
+[[v3-3-5]]
+
+^<<v3-3-5,5>>^ Os filhos de Arão farão todas essas coisas fumegar no altar, por cima da oferta queimada colocada sobre a lenha que está no fogo; é uma oferta feita por fogo, de aroma agradável^&#42;1^ para Jeová.
+
+[NOTE]
+====
+. Ou: “apaziguador; calmante”. Lit.: “repousante”.
+====
+
+[[v3-3-6]]
+
+^<<v3-3-6,6>>^ “‘Se a oferta dele a Jeová como sacrifício de participação em comum for dentre as ovelhas e as cabras, apresentará um animal sadio, quer macho, quer fêmea.
+
+[[v3-3-7]]
+
+^<<v3-3-7,7>>^ Se apresentar um carneirinho como sua oferta, ele o apresentará perante Jeová.
+
+[[v3-3-8]]
+
+^<<v3-3-8,8>>^ Ele porá a mão sobre a cabeça da sua oferta, e ela será abatida diante da tenda de reunião. Os filhos de Arão aspergirão o sangue dela em todas as laterais do altar.
+
+[[v3-3-9]]
+
+^<<v3-3-9,9>>^ Ele apresentará a gordura do sacrifício de participação em comum como oferta feita por fogo a Jeová. Ele removerá a cauda gorda inteira, perto da espinha, a gordura que envolve os intestinos, toda a gordura que adere aos intestinos,
+
+[[v3-3-10]]
+
+^<<v3-3-10,10>>^ e os dois rins com a gordura que há sobre eles, na região lombar. Ele removerá a membrana gordurosa do fígado junto com os rins.
+
+[[v3-3-11]]
+
+^<<v3-3-11,11>>^ E o sacerdote fará todas essas coisas fumegar no altar como alimento,^&#42;1^ uma oferta feita por fogo a Jeová.
+
+[NOTE]
+====
+. Lit.: “pão”, isto é, como a porção do sacrifício de participação em comum que cabe a Deus.
+====
+
+[[v3-3-12]]
+
+^<<v3-3-12,12>>^ “‘Se a oferta dele for uma cabra, ele a apresentará perante Jeová.
+
+[[v3-3-13]]
+
+^<<v3-3-13,13>>^ Porá a mão sobre a cabeça da sua oferta, e ela será abatida diante da tenda de reunião; e os filhos de Arão terão de aspergir o sangue em todas as laterais do altar.
+
+[[v3-3-14]]
+
+^<<v3-3-14,14>>^ A parte que ele apresentará como oferta feita por fogo a Jeová é a gordura que envolve os intestinos, toda a gordura que adere aos intestinos,
+
+[[v3-3-15]]
+
+^<<v3-3-15,15>>^ e os dois rins com a gordura que há sobre eles, na região lombar. Ele removerá a membrana gordurosa do fígado junto com os rins.
+
+[[v3-3-16]]
+
+^<<v3-3-16,16>>^ O sacerdote fará todas essas coisas fumegar no altar como alimento,^&#42;1^ uma oferta feita por fogo, de aroma agradável.^&#42;2^ Toda a gordura pertence a Jeová.
+
+[NOTE]
+====
+. Lit.: “pão”, isto é, como a porção do sacrifício de participação em comum que cabe a Deus.
+. Ou: “apaziguador; calmante”. Lit.: “repousante”.
+====
+
+[[v3-3-17]]
+
+^<<v3-3-17,17>>^ “‘Este é um decreto permanente para todas as suas gerações, onde quer que morarem: não comam nenhuma gordura nem sangue algum.’”
+
+'''
+
+xref:003-levitico/003-levitico-002.adoc#v3-2-0[&#60; Capítulo Anterior] | <<v3-3-0,Topo>> | xref:003-levitico/003-levitico-004.adoc#v3-4-0[Próximo Capítulo &#62;]

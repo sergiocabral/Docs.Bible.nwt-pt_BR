@@ -1,0 +1,113 @@
+include::./index.adoc[]
+
+[[v14-16-0]]
+=== O Segundo das Crônicas, 16
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v14-16-1]]
+
+^<<v14-16-1,1>>^ Baasa, rei de Israel, veio contra Judá no trigésimo sexto ano do reinado de Asa e começou a fortificar^&#42;1^ Ramá, para não deixar ninguém sair nem entrar no território de Asa, rei de Judá.
+
+[NOTE]
+====
+. Ou: “reconstruir”.
+====
+
+[[v14-16-2]]
+
+^<<v14-16-2,2>>^ Em vista disso, Asa tirou a prata e o ouro do tesouro da casa de Jeová e da casa^&#42;1^ do rei, e os enviou a Ben-Hadade, rei da Síria, que morava em Damasco, com a seguinte mensagem:
+
+[NOTE]
+====
+. Ou: “do palácio”.
+====
+
+[[v14-16-3]]
+
+^<<v14-16-3,3>>^ “Há um acordo^&#42;1^ entre mim e você, e entre o meu pai e o seu pai. Estou lhe enviando prata e ouro. Desfaça o seu acordo^&#42;2^ com Baasa, rei de Israel, para que ele se retire do meu território.”
+
+[NOTE]
+====
+. Ou: “pacto”.
+. Ou: “pacto”.
+====
+
+[[v14-16-4]]
+
+^<<v14-16-4,4>>^ Ben-Hadade escutou o rei Asa e enviou os chefes dos seus exércitos contra as cidades de Israel, e eles atacaram Ijom, Dã, Abel-Maim e todos os depósitos das cidades de Naftali.
+
+[[v14-16-5]]
+
+^<<v14-16-5,5>>^ Assim que Baasa soube disso, parou de fortificar^&#42;1^ Ramá e abandonou a sua obra.
+
+[NOTE]
+====
+. Ou: “reconstruir”.
+====
+
+[[v14-16-6]]
+
+^<<v14-16-6,6>>^ Então o rei Asa reuniu todo o Judá, e eles levaram embora as pedras e as madeiras de Ramá, com as quais Baasa estava construindo, e com elas ele fortificou^&#42;1^ Geba e Mispá.
+
+[NOTE]
+====
+. Ou: “reconstruiu”.
+====
+
+[[v14-16-7]]
+
+^<<v14-16-7,7>>^ Naquele tempo Hanani, o vidente, dirigiu-se a Asa, rei de Judá, e disse-lhe: “Visto que o senhor confiou^&#42;1^ no rei da Síria e não confiou^&#42;2^ em Jeová, seu Deus, o exército do rei da Síria escapou das suas mãos.
+
+[NOTE]
+====
+. Lit.: “se apoiou”.
+. Lit.: “não se apoiou”.
+====
+
+[[v14-16-8]]
+
+^<<v14-16-8,8>>^ Não eram os etíopes e os líbios um exército muito grande, com muitos carros de guerra e cavaleiros? Mas, visto que o senhor confiou em Jeová, ele os entregou nas suas mãos.
+
+[[v14-16-9]]
+
+^<<v14-16-9,9>>^ Pois os olhos de Jeová percorrem toda a terra, para mostrar a sua força^&#42;1^ a favor daqueles que têm o coração pleno para com^&#42;2^ ele. Mas o senhor agiu de modo tolo nesse caso; de agora em diante haverá guerras contra o senhor.”
+
+[NOTE]
+====
+. Ou: “o seu apoio”.
+. Ou: “plenamente devotado a”.
+====
+
+[[v14-16-10]]
+
+^<<v14-16-10,10>>^ No entanto, Asa se ofendeu com o vidente e o pôs na prisão,^&#42;1^ pois estava furioso com ele por causa disso. E a partir daquela ocasião Asa começou a maltratar alguns do povo.
+
+[NOTE]
+====
+. Lit.: “na casa do tronco”.
+====
+
+[[v14-16-11]]
+
+^<<v14-16-11,11>>^ A história de Asa, do começo ao fim, está escrita no Livro dos Reis de Judá e de Israel.
+
+[[v14-16-12]]
+
+^<<v14-16-12,12>>^ No trigésimo nono ano do seu reinado, Asa passou a sofrer de um mal dos pés e ficou muito doente; e mesmo durante a sua doença não recorreu a Jeová, mas sim aos médicos.
+
+[[v14-16-13]]
+
+^<<v14-16-13,13>>^ E Asa descansou com os seus antepassados; ele morreu no quadragésimo primeiro ano do seu reinado.
+
+[[v14-16-14]]
+
+^<<v14-16-14,14>>^ Então o enterraram na grandiosa sepultura que ele tinha escavado para si na Cidade de Davi. Deitaram-no num esquife que tinha sido enchido de óleo de bálsamo e de um perfume especial feito com uma mistura de vários tipos de ingredientes. Além disso, fizeram para ele uma queima fúnebre muito grande.^&#42;1^
+
+[NOTE]
+====
+. Pelo visto, não se tratava da cremação de Asa, mas da queima de especiarias.
+====
+
+'''
+
+xref:014-2-cronicas/014-2-cronicas-015.adoc#v14-15-0[&#60; Capítulo Anterior] | <<v14-16-0,Topo>> | xref:014-2-cronicas/014-2-cronicas-017.adoc#v14-17-0[Próximo Capítulo &#62;]

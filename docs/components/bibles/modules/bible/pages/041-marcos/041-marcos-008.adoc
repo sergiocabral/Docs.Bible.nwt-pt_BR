@@ -1,0 +1,212 @@
+include::./index.adoc[]
+
+[[v41-8-0]]
+=== Segundo Marcos, 8
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v41-8-1]]
+
+^<<v41-8-1,1>>^ Naqueles dias, havia novamente uma grande multidão, e eles não tinham nada para comer. Então ele convocou os discípulos e lhes disse:
+
+[[v41-8-2]]
+
+^<<v41-8-2,2>>^ “Tenho pena da multidão, porque já estão comigo há três dias, e eles não têm nada para comer.
+
+[[v41-8-3]]
+
+^<<v41-8-3,3>>^ Se eu os mandar para casa com fome,^&#42;1^ desfalecerão na estrada, e alguns deles vieram de longe.”
+
+[NOTE]
+====
+. Ou: “em jejum”.
+====
+
+[[v41-8-4]]
+
+^<<v41-8-4,4>>^ Mas os seus discípulos lhe responderam: “Onde alguém poderia encontrar neste lugar isolado pão suficiente para satisfazê-los?”
+
+[[v41-8-5]]
+
+^<<v41-8-5,5>>^ Com isso ele lhes perguntou: “Quantos pães vocês têm?” Disseram: “Sete.”
+
+[[v41-8-6]]
+
+^<<v41-8-6,6>>^ E mandou a multidão se sentar no chão. Então pegou os sete pães, deu graças, partiu-os e começou a dá-los aos seus discípulos, para que os servissem, e eles os serviram à multidão.
+
+[[v41-8-7]]
+
+^<<v41-8-7,7>>^ Tinham também alguns peixinhos e, depois de dar graças por estes,^&#42;1^ disse-lhes que os servissem também.
+
+[NOTE]
+====
+. Ou: “de abençoá-los”.
+====
+
+[[v41-8-8]]
+
+^<<v41-8-8,8>>^ Assim, comeram e ficaram satisfeitos, e recolheram sete cestos grandes,^&#42;1^ cheios dos pedaços que sobraram.
+
+[NOTE]
+====
+. Ou: “cestos de provisões”.
+====
+
+[[v41-8-9]]
+
+^<<v41-8-9,9>>^ Havia cerca de 4.000 homens. Então ele os dispensou.
+
+[[v41-8-10]]
+
+^<<v41-8-10,10>>^ Ele entrou imediatamente no barco com seus discípulos e chegou à região de Dalmanuta.
+
+[[v41-8-11]]
+
+^<<v41-8-11,11>>^ Ali os fariseus se aproximaram e começaram a discutir com ele, pedindo-lhe um sinal do céu, para o porem à prova.
+
+[[v41-8-12]]
+
+^<<v41-8-12,12>>^ Então ele suspirou profundamente^&#42;1^ e disse: “Por que esta geração busca um sinal? Eu lhes digo a verdade: Nenhum sinal será dado a esta geração.”
+
+[NOTE]
+====
+. Lit.: “suspirou profundamente no seu espírito”.
+====
+
+[[v41-8-13]]
+
+^<<v41-8-13,13>>^ Com isso os deixou, embarcou novamente e foi para a margem oposta.
+
+[[v41-8-14]]
+
+^<<v41-8-14,14>>^ No entanto, eles se esqueceram de levar pães e não tinham nada consigo no barco, a não ser um pão.
+
+[[v41-8-15]]
+
+^<<v41-8-15,15>>^ E ele lhes advertiu claramente: “Mantenham os olhos abertos; cuidado com o fermento dos fariseus e com o fermento de Herodes.”
+
+[[v41-8-16]]
+
+^<<v41-8-16,16>>^ Então eles começaram a discutir entre si sobre o fato de não terem pães.
+
+[[v41-8-17]]
+
+^<<v41-8-17,17>>^ Notando isso, ele lhes disse: “Por que vocês estão discutindo sobre não terem pães? Ainda não percebem e não entendem? Seu coração ainda está fechado ao entendimento?
+
+[[v41-8-18]]
+
+^<<v41-8-18,18>>^ ‘Embora tenham olhos, não veem; e embora tenham ouvidos, não ouvem?’ Não se lembram
+
+[[v41-8-19]]
+
+^<<v41-8-19,19>>^ de quantos cestos cheios de pedaços vocês recolheram, quando parti os cinco pães para os 5.000 homens?” Disseram-lhe: “Doze.”
+
+[[v41-8-20]]
+
+^<<v41-8-20,20>>^ “E quando parti os sete pães para os 4.000 homens, quantos cestos grandes,^&#42;1^ cheios de pedaços, vocês recolheram?” Responderam-lhe: “Sete.”
+
+[NOTE]
+====
+. Ou: “cestos de provisões”.
+====
+
+[[v41-8-21]]
+
+^<<v41-8-21,21>>^ Com isso lhes disse: “Vocês ainda não entendem?”
+
+[[v41-8-22]]
+
+^<<v41-8-22,22>>^ Chegaram então a Betsaida. Ali levaram a ele um cego e lhe suplicaram que tocasse nele.
+
+[[v41-8-23]]
+
+^<<v41-8-23,23>>^ E ele pegou o cego pela mão e o levou para fora da aldeia. Depois de cuspir nos olhos dele, pôs as mãos sobre ele e lhe perguntou: “Vê alguma coisa?”
+
+[[v41-8-24]]
+
+^<<v41-8-24,24>>^ O homem olhou para cima e disse: “Vejo pessoas, mas elas parecem árvores andando.”
+
+[[v41-8-25]]
+
+^<<v41-8-25,25>>^ Ele pôs de novo as mãos sobre os olhos do homem, e o homem viu claramente. Sua visão foi restabelecida, e ele podia ver tudo nitidamente.
+
+[[v41-8-26]]
+
+^<<v41-8-26,26>>^ Assim, mandou-o para casa, dizendo: “Não entre na aldeia.”
+
+[[v41-8-27]]
+
+^<<v41-8-27,27>>^ Jesus e seus discípulos partiram então para as aldeias de Cesareia de Filipe, e, no caminho, ele perguntou aos seus discípulos: “Quem as pessoas dizem que eu sou?”
+
+[[v41-8-28]]
+
+^<<v41-8-28,28>>^ Responderam-lhe: “João Batista; mas outros dizem que é Elias; e ainda outros, um dos profetas.”
+
+[[v41-8-29]]
+
+^<<v41-8-29,29>>^ E ele lhes perguntou: “E vocês, quem dizem que eu sou?” Pedro lhe respondeu: “O senhor é o Cristo.”
+
+[[v41-8-30]]
+
+^<<v41-8-30,30>>^ Então ele lhes ordenou com firmeza que não contassem a ninguém sobre ele.
+
+[[v41-8-31]]
+
+^<<v41-8-31,31>>^ Também, ele começou a lhes ensinar que o Filho do Homem tinha de sofrer muitas coisas e ser rejeitado pelos anciãos, pelos principais sacerdotes e pelos escribas, e que tinha de ser morto e ser levantado três dias depois.
+
+[[v41-8-32]]
+
+^<<v41-8-32,32>>^ De fato, fez essa declaração abertamente. Mas Pedro o levou à parte e começou a censurá-lo.
+
+[[v41-8-33]]
+
+^<<v41-8-33,33>>^ Com isso ele se virou, olhou para os seus discípulos e censurou Pedro, dizendo: “Para trás de mim, Satanás! Porque você não tem os pensamentos de Deus, mas os de homens.”
+
+[[v41-8-34]]
+
+^<<v41-8-34,34>>^ Chamou então a multidão, junto com seus discípulos, e lhes disse: “Se alguém quer ser meu seguidor, negue a si mesmo, apanhe sua estaca de tortura^&#42;1^ e siga-me sempre.
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v41-8-35]]
+
+^<<v41-8-35,35>>^ Pois quem quiser salvar a sua vida^&#42;1^ a perderá, mas quem perder a sua vida^&#42;2^ por minha causa e por causa das boas novas a salvará.
+
+[NOTE]
+====
+. Ou: “alma”.
+. Ou: “alma”.
+====
+
+[[v41-8-36]]
+
+^<<v41-8-36,36>>^ Realmente, de que adianta o homem ganhar o mundo inteiro e perder a sua vida?^&#42;1^
+
+[NOTE]
+====
+. Ou: “alma”.
+====
+
+[[v41-8-37]]
+
+^<<v41-8-37,37>>^ O que, realmente, o homem daria em troca da sua vida?^&#42;1^
+
+[NOTE]
+====
+. Ou: “alma”.
+====
+
+[[v41-8-38]]
+
+^<<v41-8-38,38>>^ Pois quem se envergonhar de mim e das minhas palavras entre esta geração adúltera^&#42;1^ e pecadora, desse o Filho do Homem também se envergonhará quando vier na glória do seu Pai, com os santos anjos.”
+
+[NOTE]
+====
+. Ou: “infiel”.
+====
+
+'''
+
+xref:041-marcos/041-marcos-007.adoc#v41-7-0[&#60; Capítulo Anterior] | <<v41-8-0,Topo>> | xref:041-marcos/041-marcos-009.adoc#v41-9-0[Próximo Capítulo &#62;]

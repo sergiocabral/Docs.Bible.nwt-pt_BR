@@ -1,0 +1,278 @@
+include::./index.adoc[]
+
+[[v13-16-0]]
+=== O Primeiro das Crônicas, 16
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v13-16-1]]
+
+^<<v13-16-1,1>>^ Então levaram a Arca do verdadeiro Deus para a tenda que Davi havia armado para ela e a colocaram ali. E apresentaram ofertas queimadas e sacrifícios de participação em comum perante o verdadeiro Deus.
+
+[[v13-16-2]]
+
+^<<v13-16-2,2>>^ Quando Davi acabou de fazer as ofertas queimadas e os sacrifícios de participação em comum, abençoou o povo em nome de Jeová.
+
+[[v13-16-3]]
+
+^<<v13-16-3,3>>^ Além disso, ele distribuiu a todos os israelitas, a cada homem e a cada mulher, um pão redondo, um bolo de tâmaras e um bolo de passas.
+
+[[v13-16-4]]
+
+^<<v13-16-4,4>>^ Então ele designou alguns dos levitas para servir^&#42;1^ diante da Arca de Jeová, para honrar,^&#42;2^ agradecer e louvar a Jeová, o Deus de Israel.
+
+[NOTE]
+====
+. Ou: “ministrar”.
+. Lit.: “para lembrar”.
+====
+
+[[v13-16-5]]
+
+^<<v13-16-5,5>>^ Asafe era o cabeça; Zacarias era o segundo; Jeiel, Semiramote, Jeiel, Matitias, Eliabe, Benaia, Obede-Edom e Jeiel tocavam os instrumentos de cordas e as harpas; Asafe tocava os címbalos;
+
+[[v13-16-6]]
+
+^<<v13-16-6,6>>^ e os sacerdotes Benaia e Jaaziel tocavam as trombetas regularmente diante da Arca do Pacto do verdadeiro Deus.
+
+[[v13-16-7]]
+
+^<<v13-16-7,7>>^ Foi naquele dia que Davi pela primeira vez ofereceu um cântico de agradecimento a Jeová por meio de Asafe e seus irmãos:
+
+[[v13-16-8]]
+
+^<<v13-16-8,8>>^ “Agradeçam a Jeová, invoquem o seu nome,
+Tornem os seus feitos conhecidos entre os povos!
+
+[[v13-16-9]]
+
+^<<v13-16-9,9>>^ Cantem a ele, cantem louvores^&#42;1^ a ele,
+Meditem em^&#42;2^ todos os seus atos maravilhosos.
+
+[NOTE]
+====
+. Ou: “façam música”.
+. Ou, possivelmente: “Falem sobre”.
+====
+
+[[v13-16-10]]
+
+^<<v13-16-10,10>>^ Falem com orgulho do Seu santo nome.
+Que se alegre o coração dos que procuram a Jeová.
+
+[[v13-16-11]]
+
+^<<v13-16-11,11>>^ Busquem a Jeová e a sua força.
+Procurem constantemente a sua face.^&#42;1^
+
+[NOTE]
+====
+. Ou: “presença”.
+====
+
+[[v13-16-12]]
+
+^<<v13-16-12,12>>^ Lembrem-se dos atos maravilhosos que ele realizou,
+Dos seus milagres e dos julgamentos que proferiu,
+
+[[v13-16-13]]
+
+^<<v13-16-13,13>>^ Ó descendência^&#42;1^ de Israel, servo de Deus,
+Ó filhos de Jacó, Seus escolhidos.
+
+[NOTE]
+====
+. Ou: “descendentes”. Lit.: “semente”.
+====
+
+[[v13-16-14]]
+
+^<<v13-16-14,14>>^ Ele é Jeová, nosso Deus.
+Seus julgamentos estão em toda a terra.
+
+[[v13-16-15]]
+
+^<<v13-16-15,15>>^ Lembrem-se do seu pacto para sempre;
+Por mil gerações, da promessa que ele fez,^&#42;1^
+
+[NOTE]
+====
+. Lit.: “palavra que ele ordenou”.
+====
+
+[[v13-16-16]]
+
+^<<v13-16-16,16>>^ Do pacto que fez com Abraão,
+Do juramento que fez a Isaque,
+
+[[v13-16-17]]
+
+^<<v13-16-17,17>>^ Juramento que ele estabeleceu como decreto para Jacó
+E como pacto permanente para Israel,
+
+[[v13-16-18]]
+
+^<<v13-16-18,18>>^ Dizendo: ‘Darei a você a terra de Canaã,
+Como sua herança designada.’
+
+[[v13-16-19]]
+
+^<<v13-16-19,19>>^ Isso aconteceu quando vocês eram poucos em número,
+Sim, muito poucos, e eram estrangeiros naquela terra.
+
+[[v13-16-20]]
+
+^<<v13-16-20,20>>^ Eles andaram de nação em nação,
+De reino em reino.
+
+[[v13-16-21]]
+
+^<<v13-16-21,21>>^ Ele não permitiu que nenhum homem os oprimisse,
+Mas por causa deles repreendeu reis,
+
+[[v13-16-22]]
+
+^<<v13-16-22,22>>^ Dizendo: ‘Não toquem nos meus ungidos,
+Não façam nada de mau aos meus profetas.’
+
+[[v13-16-23]]
+
+^<<v13-16-23,23>>^ Cante a Jeová, toda a terra!
+Proclamem dia após dia a salvação da parte dele!
+
+[[v13-16-24]]
+
+^<<v13-16-24,24>>^ Declarem às nações a sua glória,
+Entre todos os povos os seus atos maravilhosos.
+
+[[v13-16-25]]
+
+^<<v13-16-25,25>>^ Pois Jeová é grande e digno de todo louvor.
+Ele inspira temor, mais do que todos os outros deuses.
+
+[[v13-16-26]]
+
+^<<v13-16-26,26>>^ Todos os deuses dos povos são deuses sem valor,
+Mas Jeová é aquele que fez os céus.
+
+[[v13-16-27]]
+
+^<<v13-16-27,27>>^ Na sua presença há majestade^&#42;1^ e esplendor;
+Na sua morada há força e alegria.
+
+[NOTE]
+====
+. Ou: “dignidade”.
+====
+
+[[v13-16-28]]
+
+^<<v13-16-28,28>>^ Deem a Jeová o que lhe é devido, ó famílias dos povos,
+Deem a Jeová o que lhe é devido por sua glória e força.
+
+[[v13-16-29]]
+
+^<<v13-16-29,29>>^ Deem a Jeová a glória que o seu nome merece;
+Tragam uma dádiva e compareçam perante ele.
+Curvem-se diante de^&#42;1^ Jeová com vestes santas.^&#42;2^
+
+[NOTE]
+====
+. Ou: “Adorem a”.
+. Ou, possivelmente: “por causa do esplendor da sua santidade”.
+====
+
+[[v13-16-30]]
+
+^<<v13-16-30,30>>^ Tremam diante dele, todos os habitantes da terra!
+A terra^&#42;1^ está firmemente estabelecida; não pode ser abalada.
+
+[NOTE]
+====
+. Ou: “O solo produtivo”.
+====
+
+[[v13-16-31]]
+
+^<<v13-16-31,31>>^ Alegrem-se os céus, e alegre-se a terra;
+Declarem entre as nações: ‘Jeová tornou-se Rei!’
+
+[[v13-16-32]]
+
+^<<v13-16-32,32>>^ Troveje o mar e tudo o que nele existe;
+Alegrem-se os campos e tudo o que neles há.
+
+[[v13-16-33]]
+
+^<<v13-16-33,33>>^ Ao mesmo tempo, gritem de alegria as árvores da floresta perante Jeová,
+Pois ele vem^&#42;1^ para julgar a terra.
+
+[NOTE]
+====
+. Ou: “chegou”.
+====
+
+[[v13-16-34]]
+
+^<<v13-16-34,34>>^ Agradeçam a Jeová, pois ele é bom;
+Seu amor leal dura para sempre.
+
+[[v13-16-35]]
+
+^<<v13-16-35,35>>^ E digam: ‘Salva-nos, ó Deus da nossa salvação,
+Reúne-nos e livra-nos das nações,
+Para que possamos dar graças ao teu santo nome
+E ter grande alegria em louvar a ti.^&#42;1^
+
+[NOTE]
+====
+. Ou: “exultar no teu louvor”.
+====
+
+[[v13-16-36]]
+
+^<<v13-16-36,36>>^ Que Jeová, o Deus de Israel, seja louvado
+Por toda a eternidade.’”^&#42;1^
+E todo o povo disse: “Amém!”^&#42;2^ e louvou a Jeová.
+
+[NOTE]
+====
+. Ou: “De eternidade a eternidade”.
+. Ou: “Assim seja!”
+====
+
+[[v13-16-37]]
+
+^<<v13-16-37,37>>^ Então Davi deixou Asafe e seus irmãos diante da Arca do Pacto de Jeová para servirem constantemente diante da Arca, segundo a rotina de cada dia.
+
+[[v13-16-38]]
+
+^<<v13-16-38,38>>^ Obede-Edom e seus irmãos, 68 ao todo, além de Obede-Edom, filho de Jedutum, e Hosa eram porteiros.
+
+[[v13-16-39]]
+
+^<<v13-16-39,39>>^ Zadoque, o sacerdote, e seus companheiros de sacerdócio estavam diante do tabernáculo de Jeová no alto sagrado que havia em Gibeão,
+
+[[v13-16-40]]
+
+^<<v13-16-40,40>>^ para fazer regularmente ofertas queimadas a Jeová no altar da oferta queimada, de manhã e ao anoitecer, e para fazer tudo o que está escrito na Lei que Jeová havia ordenado a Israel.
+
+[[v13-16-41]]
+
+^<<v13-16-41,41>>^ Com eles havia Hemã, Jedutum e o restante dos homens escolhidos e designados por nome para agradecer a Jeová, pois “o seu amor leal dura para sempre”.
+
+[[v13-16-42]]
+
+^<<v13-16-42,42>>^ Hemã e Jedutum estavam com eles para tocar as trombetas, os címbalos e os instrumentos usados para louvar ao^&#42;1^ verdadeiro Deus; e os filhos de Jedutum ficaram encarregados do portão.
+
+[NOTE]
+====
+. Ou: “instrumentos para acompanhar os cânticos do”.
+====
+
+[[v13-16-43]]
+
+^<<v13-16-43,43>>^ Então todo o povo foi para casa, e Davi foi abençoar os da sua casa.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-015.adoc#v13-15-0[&#60; Capítulo Anterior] | <<v13-16-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-017.adoc#v13-17-0[Próximo Capítulo &#62;]

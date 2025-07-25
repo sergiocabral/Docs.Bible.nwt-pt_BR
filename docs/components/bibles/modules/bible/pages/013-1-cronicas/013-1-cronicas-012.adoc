@@ -1,0 +1,193 @@
+include::./index.adoc[]
+
+[[v13-12-0]]
+=== O Primeiro das Crônicas, 12
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v13-12-1]]
+
+^<<v13-12-1,1>>^ Estes são os que se juntaram a Davi em Ziclague, no tempo em que ele não podia ir e vir livremente por causa de Saul, filho de Quis; eles estavam entre os guerreiros valentes que o ajudavam nas batalhas.
+
+[[v13-12-2]]
+
+^<<v13-12-2,2>>^ Eram arqueiros que usavam tanto a mão direita como a esquerda para atirar pedras com a funda e flechas com o arco. Eram irmãos de Saul, benjaminitas.
+
+[[v13-12-3]]
+
+^<<v13-12-3,3>>^ O chefe era Aiezer, junto com Joás, ambos filhos de Semaá, o gibeatita. Havia também Jeziel e Pelete, filhos de Azmavete; Beraca; Jeú, o anatotita;
+
+[[v13-12-4]]
+
+^<<v13-12-4,4>>^ Ismaías, o gibeonita, um dos 30 guerreiros valentes e chefe deles; Jeremias; Jaaziel; Joanã; Jozabade, o gederatita;
+
+[[v13-12-5]]
+
+^<<v13-12-5,5>>^ Eluzai; Jerimote; Bealias; Semarias; Sefatias, o harifita;
+
+[[v13-12-6]]
+
+^<<v13-12-6,6>>^ Elcana, Issias, Azarel, Joezer e Jasobeão, os coraítas;
+
+[[v13-12-7]]
+
+^<<v13-12-7,7>>^ e Joela e Zebadias, filhos de Jeroão, de Gedor.
+
+[[v13-12-8]]
+
+^<<v13-12-8,8>>^ Alguns dos gaditas passaram para o lado de Davi no refúgio, no deserto. Eram guerreiros valentes, soldados treinados para a guerra, armados com o escudo grande e com a lança. O rosto deles era como o de leões, e eles se moviam com a rapidez das gazelas sobre os montes.
+
+[[v13-12-9]]
+
+^<<v13-12-9,9>>^ Ezer era o chefe; Obadias era o segundo; Eliabe, o terceiro;
+
+[[v13-12-10]]
+
+^<<v13-12-10,10>>^ Mismana, o quarto; Jeremias, o quinto;
+
+[[v13-12-11]]
+
+^<<v13-12-11,11>>^ Atai, o sexto; Eliel, o sétimo;
+
+[[v13-12-12]]
+
+^<<v13-12-12,12>>^ Joanã, o oitavo; Elzabade, o nono;
+
+[[v13-12-13]]
+
+^<<v13-12-13,13>>^ Jeremias, o décimo; e Macbanai, o décimo primeiro.
+
+[[v13-12-14]]
+
+^<<v13-12-14,14>>^ Esses eram gaditas, chefes do exército. O menor valia por cem e o maior por mil.
+
+[[v13-12-15]]
+
+^<<v13-12-15,15>>^ Eles atravessaram o Jordão no primeiro mês, quando ele transborda as suas margens, e expulsaram todos os que moravam nas baixadas, ao leste e ao oeste.
+
+[[v13-12-16]]
+
+^<<v13-12-16,16>>^ Alguns dos homens de Benjamim e de Judá também foram a Davi, no seu refúgio.
+
+[[v13-12-17]]
+
+^<<v13-12-17,17>>^ Davi saiu então ao encontro deles e disse: “Se vocês vieram em paz para me ajudar, estou disposto a recebê-los como aliados.^&#42;1^ Mas, se foi para me trair e me entregar aos meus inimigos, embora as minhas mãos não tenham feito nenhum mal, que o Deus dos nossos antepassados veja isso e faça justiça.”
+
+[NOTE]
+====
+. Ou: “meu coração ficará em união com vocês”.
+====
+
+[[v13-12-18]]
+
+^<<v13-12-18,18>>^ Então o espírito veio sobre^&#42;1^ Amasai, chefe dos 30, e ele disse:
+“Nós somos seus, ó Davi, e estamos com você, ó filho de Jessé!
+Paz, que a paz esteja com você, e haja paz com aqueles que o ajudam,
+Pois o seu Deus o está ajudando.”
+Então Davi os recebeu e os designou como chefes das tropas.
+
+[NOTE]
+====
+. Lit.: “revestiu”.
+====
+
+[[v13-12-19]]
+
+^<<v13-12-19,19>>^ Alguns homens de Manassés também desertaram para o lado de Davi quando ele foi com os filisteus para lutar contra Saul. Mas Davi não ajudou os filisteus, porque os governantes dos filisteus, depois de se aconselharem, mandaram-no embora, dizendo: “Ele desertará para o lado de Saul, seu senhor, e isso custará as nossas cabeças.”
+
+[[v13-12-20]]
+
+^<<v13-12-20,20>>^ Estes foram os homens de Manassés que desertaram para o lado de Davi quando ele chegou a Ziclague: Adná, Jozabade, Jediael, Micael, Jozabade, Eliú e Ziletai, chefes de mil em Manassés.
+
+[[v13-12-21]]
+
+^<<v13-12-21,21>>^ Eles ajudaram Davi contra o bando de saqueadores, pois todos eles eram guerreiros valentes e corajosos, e se tornaram chefes no exército.
+
+[[v13-12-22]]
+
+^<<v13-12-22,22>>^ Dia após dia chegavam mais homens para ajudar Davi, até que o seu acampamento se tornou grande, como o acampamento de Deus.
+
+[[v13-12-23]]
+
+^<<v13-12-23,23>>^ Este é o número dos chefes dos homens armados para a guerra que foram até Davi em Hebrom, a fim de transferir para ele o reinado de Saul, conforme Jeová havia ordenado.
+
+[[v13-12-24]]
+
+^<<v13-12-24,24>>^ Havia 6.800 homens de Judá equipados com o escudo grande e com a lança, armados para a guerra.
+
+[[v13-12-25]]
+
+^<<v13-12-25,25>>^ Dos simeonitas, havia 7.100 guerreiros valentes e corajosos.
+
+[[v13-12-26]]
+
+^<<v13-12-26,26>>^ Dos levitas havia 4.600 homens.
+
+[[v13-12-27]]
+
+^<<v13-12-27,27>>^ Jeoiada era o líder dos filhos de Arão e com ele havia 3.700 homens,
+
+[[v13-12-28]]
+
+^<<v13-12-28,28>>^ bem como Zadoque, um jovem valente e corajoso, com 22 chefes da sua casa paterna.
+
+[[v13-12-29]]
+
+^<<v13-12-29,29>>^ Dos benjaminitas, irmãos de Saul, havia 3.000 homens, e a maior parte deles anteriormente defendia os interesses da casa de Saul.
+
+[[v13-12-30]]
+
+^<<v13-12-30,30>>^ Dos efraimitas havia 20.800 homens valentes e corajosos, homens de fama nas suas casas paternas.
+
+[[v13-12-31]]
+
+^<<v13-12-31,31>>^ Da meia tribo de Manassés havia 18.000 homens que tinham sido designados por nome para ir até Davi e fazê-lo rei.
+
+[[v13-12-32]]
+
+^<<v13-12-32,32>>^ Da tribo de Issacar havia 200 chefes, homens que tinham entendimento dos tempos e que sabiam como Israel devia agir. Todos os seus irmãos estavam sob o comando deles.
+
+[[v13-12-33]]
+
+^<<v13-12-33,33>>^ Da tribo de Zebulão havia 50.000 homens que podiam servir no exército em formação de batalha, com todas as suas armas de guerra; todos apoiavam Davi com plena lealdade.^&#42;1^
+
+[NOTE]
+====
+. Ou: “todos os que apoiavam Davi não tinham coração dúplice”.
+====
+
+[[v13-12-34]]
+
+^<<v13-12-34,34>>^ Da tribo de Naftali havia 1.000 chefes, com 37.000 homens armados com o escudo grande e com a lança.
+
+[[v13-12-35]]
+
+^<<v13-12-35,35>>^ Dos danitas, os que podiam sair em formação de batalha eram 28.600.
+
+[[v13-12-36]]
+
+^<<v13-12-36,36>>^ Da tribo de Aser, os que podiam servir no exército em formação de batalha eram 40.000.
+
+[[v13-12-37]]
+
+^<<v13-12-37,37>>^ Do outro lado do Jordão, dos rubenitas, dos gaditas e da meia tribo de Manassés, havia 120.000 soldados equipados com todo tipo de armas de guerra.
+
+[[v13-12-38]]
+
+^<<v13-12-38,38>>^ Todos esses eram homens de guerra, que se apresentavam para a linha de batalha. Eles foram a Hebrom com o coração decidido a fazer Davi rei sobre todo o Israel, e todos os outros israelitas também estavam unidos no desejo de^&#42;1^ fazer Davi rei.
+
+[NOTE]
+====
+. Ou: “eram de um só coração para”.
+====
+
+[[v13-12-39]]
+
+^<<v13-12-39,39>>^ E eles ficaram três dias com Davi, comendo e bebendo, pois os seus irmãos tinham feito preparativos para eles.
+
+[[v13-12-40]]
+
+^<<v13-12-40,40>>^ Além disso, os que moravam perto deles e até mesmo os que moravam longe, como Issacar, Zebulão e Naftali, trouxeram jumentos, camelos, mulas e bois carregados de mantimentos: farinha, tortas de figos prensados e passas, vinho e azeite. Trouxeram também grande quantidade de bois e de ovelhas, pois havia alegria em Israel.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-011.adoc#v13-11-0[&#60; Capítulo Anterior] | <<v13-12-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-013.adoc#v13-13-0[Próximo Capítulo &#62;]

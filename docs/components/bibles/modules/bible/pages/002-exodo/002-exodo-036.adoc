@@ -1,0 +1,197 @@
+include::./index.adoc[]
+
+[[v2-36-0]]
+=== Êxodo, 36
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v2-36-1]]
+
+^<<v2-36-1,1>>^ “Bezalel trabalhará junto com Ooliabe e todo homem habilidoso^&#42;1^ a quem Jeová tiver dado sabedoria e entendimento para fazer toda a obra relacionada ao serviço sagrado, assim como Jeová ordenou.”
+
+[NOTE]
+====
+. Lit.: “sábio de coração”.
+====
+
+[[v2-36-2]]
+
+^<<v2-36-2,2>>^ Moisés chamou então Bezalel, Ooliabe e todo homem habilidoso^&#42;1^ a quem Jeová tinha dado sabedoria, todo aquele cujo coração o impelia a se apresentar voluntariamente para a obra.
+
+[NOTE]
+====
+. Lit.: “sábio de coração”.
+====
+
+[[v2-36-3]]
+
+^<<v2-36-3,3>>^ Eles receberam de Moisés toda a contribuição que os israelitas haviam trazido para fazer a obra relacionada ao serviço sagrado. No entanto, os israelitas continuavam a lhe trazer ofertas voluntárias, manhã após manhã.
+
+[[v2-36-4]]
+
+^<<v2-36-4,4>>^ Então, depois de terem iniciado a obra sagrada, todos os trabalhadores habilidosos foram, um após outro,
+
+[[v2-36-5]]
+
+^<<v2-36-5,5>>^ falar com Moisés. Eles disseram: “O povo está trazendo muito mais do que o necessário para a obra que Jeová mandou fazer.”
+
+[[v2-36-6]]
+
+^<<v2-36-6,6>>^ Em vista disso, Moisés ordenou que se desse o seguinte anúncio em todo o acampamento: “Homens e mulheres, não tragam mais materiais para a contribuição sagrada.” Com isso, não se permitiu que o povo trouxesse mais nada.
+
+[[v2-36-7]]
+
+^<<v2-36-7,7>>^ Os materiais já eram mais do que suficientes para toda a obra a ser feita.
+
+[[v2-36-8]]
+
+^<<v2-36-8,8>>^ Assim, todos os trabalhadores habilidosos fizeram o tabernáculo com dez panos de linho fino retorcido, linha azul, lã roxa e fio escarlate; ele^&#42;1^ os fez com querubins bordados.
+
+[NOTE]
+====
+. Pelo visto se refere a Bezalel.
+====
+
+[[v2-36-9]]
+
+^<<v2-36-9,9>>^ Cada pano tinha 28 côvados^&#42;1^ de comprimento e 4 côvados de largura. Todos os panos eram do mesmo tamanho.
+
+[NOTE]
+====
+. Um côvado equivalia a 44,5 cm. Veja Ap. B14.
+====
+
+[[v2-36-10]]
+
+^<<v2-36-10,10>>^ Ele uniu cinco panos, e depois uniu os outros cinco panos.
+
+[[v2-36-11]]
+
+^<<v2-36-11,11>>^ Em seguida, fez pequenas alças de linha azul na borda do pano que se juntaria à outra série de panos. Fez o mesmo na borda do pano na extremidade da outra série, onde as duas séries se juntariam.
+
+[[v2-36-12]]
+
+^<<v2-36-12,12>>^ Fez 50 alças num pano e 50 alças na borda do outro pano, onde as duas séries se juntariam, de modo que as alças ficavam umas de frente para as outras.
+
+[[v2-36-13]]
+
+^<<v2-36-13,13>>^ Por fim, fez 50 colchetes de ouro e uniu as séries de panos por meio dos colchetes, e assim o tabernáculo se tornou uma só peça.
+
+[[v2-36-14]]
+
+^<<v2-36-14,14>>^ Depois ele fez panos de pelo de cabra para servirem de tenda por cima do tabernáculo; fez 11 panos.
+
+[[v2-36-15]]
+
+^<<v2-36-15,15>>^ Cada pano tinha 30 côvados de comprimento e 4 côvados de largura. Os 11 panos eram do mesmo tamanho.
+
+[[v2-36-16]]
+
+^<<v2-36-16,16>>^ Ele uniu cinco panos, e depois uniu os outros seis panos.
+
+[[v2-36-17]]
+
+^<<v2-36-17,17>>^ A seguir, fez 50 alças na extremidade de uma série, na borda do pano que se juntaria à outra série, e 50 alças na borda do pano da outra série, que se juntaria à primeira.
+
+[[v2-36-18]]
+
+^<<v2-36-18,18>>^ E fez 50 colchetes de cobre para unir as partes da tenda, para que ela se tornasse uma só peça.
+
+[[v2-36-19]]
+
+^<<v2-36-19,19>>^ Ele fez para a tenda uma cobertura de pele de carneiro tingida de vermelho e, para colocar por cima desta, uma cobertura de pele de foca.
+
+[[v2-36-20]]
+
+^<<v2-36-20,20>>^ Em seguida, fez de madeira de acácia as armações para o tabernáculo, e estas foram colocadas na posição vertical.
+
+[[v2-36-21]]
+
+^<<v2-36-21,21>>^ Cada armação tinha dez côvados de altura e um côvado e meio de largura.
+
+[[v2-36-22]]
+
+^<<v2-36-22,22>>^ Em cada armação havia duas espigas,^&#42;1^ ligadas uma à outra.^&#42;2^ Foi assim que ele fez todas as armações do tabernáculo.
+
+[NOTE]
+====
+. Ou: “peças verticais”.
+. Ou: “paralelas uma à outra”.
+====
+
+[[v2-36-23]]
+
+^<<v2-36-23,23>>^ Assim, ele fez as armações para o lado sul do tabernáculo: 20 armações voltadas para o sul;
+
+[[v2-36-24]]
+
+^<<v2-36-24,24>>^ depois fez 40 bases de prata com encaixe para ficarem debaixo das 20 armações — duas bases com encaixe para as duas espigas da primeira armação, e duas bases com encaixe para as duas espigas de cada uma das sucessivas armações.
+
+[[v2-36-25]]
+
+^<<v2-36-25,25>>^ Para o outro lado do tabernáculo, o lado norte, fez 20 armações
+
+[[v2-36-26]]
+
+^<<v2-36-26,26>>^ e suas 40 bases de prata com encaixe — duas bases com encaixe para a primeira armação e duas bases com encaixe para cada uma das sucessivas armações.
+
+[[v2-36-27]]
+
+^<<v2-36-27,27>>^ Para a parte de trás do tabernáculo, ao oeste, fez seis armações.
+
+[[v2-36-28]]
+
+^<<v2-36-28,28>>^ Fez também duas armações para servirem como escoras para os dois cantos da parte de trás do tabernáculo.
+
+[[v2-36-29]]
+
+^<<v2-36-29,29>>^ Essas escoras eram formadas por duas peças, da base ao topo, até a primeira argola. Foi assim que ele fez as duas escoras para os cantos.
+
+[[v2-36-30]]
+
+^<<v2-36-30,30>>^ Havia, portanto, oito armações com suas dezesseis bases de prata com encaixe — duas bases com encaixe para cada armação.
+
+[[v2-36-31]]
+
+^<<v2-36-31,31>>^ Ele fez então travessas de madeira de acácia: cinco para as armações de um lado do tabernáculo,
+
+[[v2-36-32]]
+
+^<<v2-36-32,32>>^ cinco para as armações do outro lado do tabernáculo e cinco para as armações do lado oeste do tabernáculo, a parte de trás.
+
+[[v2-36-33]]
+
+^<<v2-36-33,33>>^ Fez a travessa do meio de modo a passar a meia altura das armações, indo de uma extremidade à outra.
+
+[[v2-36-34]]
+
+^<<v2-36-34,34>>^ Ele revestiu de ouro as armações, fez nelas argolas de ouro por onde deviam passar as travessas e revestiu de ouro as travessas.
+
+[[v2-36-35]]
+
+^<<v2-36-35,35>>^ Depois ele fez uma cortina de linha azul, lã roxa, fio escarlate e linho fino retorcido. Fez a cortina com querubins bordados.
+
+[[v2-36-36]]
+
+^<<v2-36-36,36>>^ A seguir, fez para a cortina quatro colunas de acácia e as revestiu de ouro, e também fez ganchos de ouro. E fundiu para as colunas quatro bases de prata com encaixe.
+
+[[v2-36-37]]
+
+^<<v2-36-37,37>>^ Então ele fez para a entrada da tenda uma cortina tecida^&#42;1^ com linha azul, lã roxa, fio escarlate e linho fino retorcido,
+
+[NOTE]
+====
+. Ou: “um reposteiro tecido”.
+====
+
+[[v2-36-38]]
+
+^<<v2-36-38,38>>^ bem como cinco colunas e seus ganchos. Ele revestiu de ouro o topo das colunas e suas peças de conexão;^&#42;1^ mas suas cinco bases com encaixe eram de cobre.
+
+[NOTE]
+====
+. Ou: “seus anéis; suas argolas; suas faixas”, para fazer conexões.
+====
+
+'''
+
+xref:002-exodo/002-exodo-035.adoc#v2-35-0[&#60; Capítulo Anterior] | <<v2-36-0,Topo>> | xref:002-exodo/002-exodo-037.adoc#v2-37-0[Próximo Capítulo &#62;]

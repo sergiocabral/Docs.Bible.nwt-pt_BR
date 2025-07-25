@@ -1,0 +1,144 @@
+include::./index.adoc[]
+
+[[v18-1-0]]
+=== Jó, 1
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v18-1-1]]
+
+^<<v18-1-1,1>>^ Na terra de Uz, havia um homem chamado Jó.^&#42;1^ Ele era íntegro^&#42;2^ e justo, temia a Deus e rejeitava o que era mau.
+
+[NOTE]
+====
+. Que possivelmente significa “objeto de hostilidade”.
+. Ou: “irrepreensível”.
+====
+
+[[v18-1-2]]
+
+^<<v18-1-2,2>>^ Ele se tornou pai de sete filhos e três filhas.
+
+[[v18-1-3]]
+
+^<<v18-1-3,3>>^ Seus rebanhos eram de 7.000 ovelhas, 3.000 camelos, 1.000 bois^&#42;1^ e 500 jumentas; ele também tinha um grande número de servos. Assim, ele se tornou o maior de todos os orientais.
+
+[NOTE]
+====
+. Lit.: “500 juntas de gado”.
+====
+
+[[v18-1-4]]
+
+^<<v18-1-4,4>>^ Seus filhos costumavam realizar um banquete, cada um em sua própria casa, no seu dia designado,^&#42;1^ e convidavam suas três irmãs para comer e beber com eles.
+
+[NOTE]
+====
+. Ou: “na casa de cada um, na sua vez”.
+====
+
+[[v18-1-5]]
+
+^<<v18-1-5,5>>^ Depois que terminava o ciclo dos dias de banquete, Jó os chamava para santificá-los. Então ele se levantava de manhã cedo e oferecia sacrifícios queimados em favor de cada um deles, pois Jó dizia: “Talvez meus filhos tenham pecado e amaldiçoado a Deus no coração.” Jó sempre fazia assim.
+
+[[v18-1-6]]
+
+^<<v18-1-6,6>>^ Chegou o dia em que os filhos do verdadeiro Deus^&#42;1^ foram apresentar-se perante Jeová, e Satanás também foi no meio deles.
+
+[NOTE]
+====
+. Expressão idiomática hebraica que se refere aos filhos angélicos de Deus.
+====
+
+[[v18-1-7]]
+
+^<<v18-1-7,7>>^ Então Jeová perguntou a Satanás: “De onde você veio?” Satanás respondeu a Jeová: “De percorrer a terra e de andar por ela.”
+
+[[v18-1-8]]
+
+^<<v18-1-8,8>>^ E Jeová disse a Satanás: “Você observou o^&#42;1^ meu servo Jó? Não há ninguém igual a ele na terra. Ele é um homem íntegro^&#42;2^ e justo, que teme a Deus e rejeita o que é mau.”
+
+[NOTE]
+====
+. Lit.: “fixou seu coração no”.
+. Ou: “irrepreensível”.
+====
+
+[[v18-1-9]]
+
+^<<v18-1-9,9>>^ Então Satanás respondeu a Jeová: “Será que é por nada que Jó teme a Deus?
+
+[[v18-1-10]]
+
+^<<v18-1-10,10>>^ Não puseste uma cerca de proteção em volta dele, da sua casa e de tudo o que ele tem? Tu abençoaste o trabalho das suas mãos, e os rebanhos dele se espalham pela terra.
+
+[[v18-1-11]]
+
+^<<v18-1-11,11>>^ Mas agora, levanta a mão e atinge tudo o que ele tem, e com certeza ele te amaldiçoará na tua própria face.”
+
+[[v18-1-12]]
+
+^<<v18-1-12,12>>^ Então Jeová disse a Satanás: “Pois bem, tudo o que ele tem está nas suas mãos.^&#42;1^ Mas não estenda a mão contra ele mesmo!” De modo que Satanás se retirou da presença^&#42;2^ de Jeová.
+
+[NOTE]
+====
+. Ou: “sob o seu controle”.
+. Lit.: “face”.
+====
+
+[[v18-1-13]]
+
+^<<v18-1-13,13>>^ Então, no dia em que os filhos e as filhas de Jó estavam comendo e bebendo vinho na casa do irmão mais velho,
+
+[[v18-1-14]]
+
+^<<v18-1-14,14>>^ chegou um mensageiro e disse a Jó: “Os bois estavam arando, e as jumentas estavam pastando ao lado deles,
+
+[[v18-1-15]]
+
+^<<v18-1-15,15>>^ quando os sabeus atacaram e os levaram embora; eles também mataram os servos à espada. Eu fui o único que escapou para lhe contar isso.”
+
+[[v18-1-16]]
+
+^<<v18-1-16,16>>^ Enquanto ele ainda estava falando, chegou outro e disse: “Caiu dos céus um fogo da parte de Deus^&#42;1^ e queimou as ovelhas e os servos, consumindo-os. Eu fui o único que escapou para lhe contar isso.”
+
+[NOTE]
+====
+. Ou, possivelmente: “um raio”.
+====
+
+[[v18-1-17]]
+
+^<<v18-1-17,17>>^ Enquanto esse ainda estava falando, chegou outro e disse: “Os caldeus formaram três bandos, atacaram os camelos e os levaram embora; eles também mataram os servos à espada. Eu fui o único que escapou para lhe contar isso.”
+
+[[v18-1-18]]
+
+^<<v18-1-18,18>>^ Enquanto este ainda estava falando, chegou mais um e disse: “Seus filhos e suas filhas estavam comendo e bebendo vinho na casa do irmão mais velho.
+
+[[v18-1-19]]
+
+^<<v18-1-19,19>>^ De repente, veio um forte vento do deserto e atingiu os quatro cantos da casa, de modo que ela caiu sobre os jovens e eles morreram. Eu fui o único que escapou para lhe contar isso.”
+
+[[v18-1-20]]
+
+^<<v18-1-20,20>>^ Então Jó se levantou, rasgou as suas roupas e raspou a cabeça; depois se lançou no chão e, curvando-se,
+
+[[v18-1-21]]
+
+^<<v18-1-21,21>>^ disse:
+“Nu saí do ventre da minha mãe,
+E nu voltarei.
+Jeová deu, e Jeová tirou.
+Que o nome de Jeová continue a ser louvado.”
+
+[[v18-1-22]]
+
+^<<v18-1-22,22>>^ Em tudo isso, Jó não pecou nem acusou Deus de fazer algo errado.^&#42;1^
+
+[NOTE]
+====
+. Ou: “atribuiu a Deus algo impróprio”.
+====
+
+'''
+
+xref:017-ester/017-ester-010.adoc#v17-10-0[&#60; Capítulo Anterior] | <<v18-1-0,Topo>> | xref:018-jo/018-jo-002.adoc#v18-2-0[Próximo Capítulo &#62;]

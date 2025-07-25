@@ -1,0 +1,242 @@
+include::./index.adoc[]
+
+[[v42-19-0]]
+=== Segundo Lucas, 19
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v42-19-1]]
+
+^<<v42-19-1,1>>^ Ele entrou então em Jericó e estava atravessando a cidade.
+
+[[v42-19-2]]
+
+^<<v42-19-2,2>>^ Um homem chamado Zaqueu estava ali; ele era chefe de cobradores de impostos e era rico.
+
+[[v42-19-3]]
+
+^<<v42-19-3,3>>^ Pois bem, ele estava tentando ver quem era esse Jesus, mas não conseguia por causa da multidão, pois era baixo.
+
+[[v42-19-4]]
+
+^<<v42-19-4,4>>^ De modo que correu na frente e subiu num sicômoro^&#42;1^ a fim de vê-lo, pois ele estava para passar por ali.
+
+[NOTE]
+====
+. Ou: “numa figueira-brava”.
+====
+
+[[v42-19-5]]
+
+^<<v42-19-5,5>>^ Então, quando Jesus chegou ao lugar, olhou para cima e lhe disse: “Zaqueu, desça depressa, pois hoje tenho de ficar na sua casa.”
+
+[[v42-19-6]]
+
+^<<v42-19-6,6>>^ Com isso, ele desceu depressa e o recebeu alegremente como hóspede.
+
+[[v42-19-7]]
+
+^<<v42-19-7,7>>^ Quando viram isso, todos começaram a resmungar: “Ele foi se hospedar na casa de um homem que é pecador.”
+
+[[v42-19-8]]
+
+^<<v42-19-8,8>>^ Mas Zaqueu se levantou e disse ao Senhor: “Senhor, escute, vou dar aos pobres a metade dos meus bens e, o que quer que eu tenha extorquido^&#42;1^ de alguém, vou restituir quatro vezes mais.”
+
+[NOTE]
+====
+. Ou: “extorquido por acusação falsa”.
+====
+
+[[v42-19-9]]
+
+^<<v42-19-9,9>>^ Então Jesus lhe disse: “Hoje entrou a salvação nesta casa, porque ele também é filho de Abraão.
+
+[[v42-19-10]]
+
+^<<v42-19-10,10>>^ Pois o Filho do Homem veio procurar e salvar o que estava perdido.”
+
+[[v42-19-11]]
+
+^<<v42-19-11,11>>^ Enquanto escutavam essas coisas, ele contou outra ilustração, porque estava perto de Jerusalém e eles achavam que o Reino de Deus ia aparecer instantaneamente.
+
+[[v42-19-12]]
+
+^<<v42-19-12,12>>^ Assim ele disse: “Um homem de origem nobre viajou para um país distante, a fim de se tornar rei e voltar.
+
+[[v42-19-13]]
+
+^<<v42-19-13,13>>^ Chamando dez escravos seus, deu a eles dez minas^&#42;1^ e lhes disse: ‘Façam negócios com essas minas até eu voltar.’
+
+[NOTE]
+====
+. Uma mina grega pesava 340 g e estima-se que valia 100 dracmas. Veja Ap. B14.
+====
+
+[[v42-19-14]]
+
+^<<v42-19-14,14>>^ Mas seus conterrâneos o odiavam e enviaram um grupo de embaixadores atrás dele, para dizer: ‘Não queremos que este homem se torne rei sobre nós.’
+
+[[v42-19-15]]
+
+^<<v42-19-15,15>>^ “Por fim, quando ele voltou depois de se tornar rei,^&#42;1^ convocou esses escravos a quem tinha dado o dinheiro,^&#42;2^ a fim de saber o que tinham ganhado com sua atividade comercial.
+
+[NOTE]
+====
+. Ou: “de assegurar o reino”.
+. Lit.: “a prata”.
+====
+
+[[v42-19-16]]
+
+^<<v42-19-16,16>>^ Então o primeiro se aproximou e disse: ‘Senhor, a sua mina rendeu dez minas.’
+
+[[v42-19-17]]
+
+^<<v42-19-17,17>>^ Ele lhe disse: ‘Muito bem, escravo bom! Visto que você se mostrou fiel num assunto muito pequeno, receba autoridade sobre dez cidades.’
+
+[[v42-19-18]]
+
+^<<v42-19-18,18>>^ Então chegou o segundo, dizendo: ‘Senhor, a sua mina produziu cinco minas.’
+
+[[v42-19-19]]
+
+^<<v42-19-19,19>>^ Ele disse também a este: ‘Você também, tome conta de cinco cidades.’
+
+[[v42-19-20]]
+
+^<<v42-19-20,20>>^ Mas outro chegou, dizendo: ‘Senhor, aqui está a sua mina, que deixei escondida num pano.
+
+[[v42-19-21]]
+
+^<<v42-19-21,21>>^ Pois eu tive medo do senhor, visto que é homem severo; retira o que não depositou e colhe o que não semeou.’
+
+[[v42-19-22]]
+
+^<<v42-19-22,22>>^ Ele lhe disse: ‘Pelas suas próprias palavras eu o julgo, escravo mau. Quer dizer que você sabia que sou homem severo, que retiro o que não depositei e colho o que não semeei?
+
+[[v42-19-23]]
+
+^<<v42-19-23,23>>^ Então, por que você não pôs meu dinheiro^&#42;1^ num banco? Assim, na minha vinda, eu o teria cobrado com juros.’
+
+[NOTE]
+====
+. Lit.: “minha prata”.
+====
+
+[[v42-19-24]]
+
+^<<v42-19-24,24>>^ “Com isso, ele disse aos que estavam ali: ‘Tirem dele a mina e deem-na àquele que tem dez minas.’
+
+[[v42-19-25]]
+
+^<<v42-19-25,25>>^ Mas eles lhe disseram: ‘Senhor, ele já tem dez minas!’
+
+[[v42-19-26]]
+
+^<<v42-19-26,26>>^ Ele respondeu: ‘Eu lhes digo que a todo aquele que tem, mais será dado; mas daquele que não tem, até mesmo o que tem será tirado.
+
+[[v42-19-27]]
+
+^<<v42-19-27,27>>^ Além disso, tragam para cá esses meus inimigos, que não quiseram que eu me tornasse rei sobre eles, e matem-nos na minha frente.’”
+
+[[v42-19-28]]
+
+^<<v42-19-28,28>>^ Depois de dizer essas coisas, ele foi adiante, subindo para Jerusalém.
+
+[[v42-19-29]]
+
+^<<v42-19-29,29>>^ E, quando chegou perto de Betfagé e de Betânia, no chamado monte das Oliveiras, enviou dois dos discípulos,
+
+[[v42-19-30]]
+
+^<<v42-19-30,30>>^ dizendo: “Vão à aldeia que está ao alcance da vista e, depois de entrarem lá, acharão um jumentinho amarrado, no qual ninguém jamais montou. Desamarrem-no e tragam-no para cá.
+
+[[v42-19-31]]
+
+^<<v42-19-31,31>>^ Mas, se alguém lhes perguntar: ‘Por que vocês o estão desamarrando?’, digam: ‘O Senhor precisa dele.’”
+
+[[v42-19-32]]
+
+^<<v42-19-32,32>>^ Então os que tinham sido enviados partiram e o acharam exatamente como ele lhes tinha dito.
+
+[[v42-19-33]]
+
+^<<v42-19-33,33>>^ Mas, quando estavam desamarrando o jumentinho, os donos dele lhes perguntaram: “Por que vocês estão desamarrando o jumentinho?”
+
+[[v42-19-34]]
+
+^<<v42-19-34,34>>^ Responderam: “O Senhor precisa dele.”
+
+[[v42-19-35]]
+
+^<<v42-19-35,35>>^ Então o levaram a Jesus, lançaram suas capas sobre o jumentinho e fizeram que Jesus montasse nele.
+
+[[v42-19-36]]
+
+^<<v42-19-36,36>>^ Enquanto ele prosseguia, estendiam suas capas na estrada.
+
+[[v42-19-37]]
+
+^<<v42-19-37,37>>^ Assim que chegou perto da estrada que desce do monte das Oliveiras, toda a multidão dos discípulos começou a se alegrar e a louvar a Deus em alta voz por todas as obras poderosas que tinham visto,
+
+[[v42-19-38]]
+
+^<<v42-19-38,38>>^ dizendo: “Bendito é aquele que vem como Rei em nome de Jeová!^&#42;1^ Paz no céu e glória nas maiores alturas!”
+
+[NOTE]
+====
+. Veja Ap. A5.
+====
+
+[[v42-19-39]]
+
+^<<v42-19-39,39>>^ No entanto, alguns dos fariseus que estavam no meio da multidão lhe disseram: “Instrutor, censure os seus discípulos.”
+
+[[v42-19-40]]
+
+^<<v42-19-40,40>>^ Mas ele disse em resposta: “Eu lhes digo que, se eles ficassem calados, as pedras clamariam.”
+
+[[v42-19-41]]
+
+^<<v42-19-41,41>>^ E, quando chegou perto, observou a cidade e chorou por ela,
+
+[[v42-19-42]]
+
+^<<v42-19-42,42>>^ dizendo: “Se você, sim, você, tivesse discernido neste dia as coisas que têm a ver com a paz . . . Mas agora elas foram escondidas dos seus olhos.
+
+[[v42-19-43]]
+
+^<<v42-19-43,43>>^ Porque virão para você os dias em que os seus inimigos construirão em sua volta uma fortificação de estacas pontiagudas, cercarão você e a sitiarão,^&#42;1^ por todos os lados.
+
+[NOTE]
+====
+. Ou: “afligirão”.
+====
+
+[[v42-19-44]]
+
+^<<v42-19-44,44>>^ Eles lançarão por terra você e seus filhos no seu meio, e não deixarão em você pedra sobre pedra, porque não discerniu o tempo de ser inspecionada.”
+
+[[v42-19-45]]
+
+^<<v42-19-45,45>>^ Então ele entrou no templo e começou a expulsar os que vendiam,
+
+[[v42-19-46]]
+
+^<<v42-19-46,46>>^ dizendo-lhes: “Está escrito: ‘Minha casa será casa de oração’, mas vocês fizeram dela um abrigo^&#42;1^ de ladrões.”
+
+[NOTE]
+====
+. Ou: “covil”.
+====
+
+[[v42-19-47]]
+
+^<<v42-19-47,47>>^ Ele continuava ensinando diariamente no templo. Mas os principais sacerdotes, os escribas e os líderes do povo procuravam matá-lo;
+
+[[v42-19-48]]
+
+^<<v42-19-48,48>>^ contudo, não encontravam um meio de fazer isso, pois o povo todo o escutava com muita atenção.
+
+'''
+
+xref:042-lucas/042-lucas-018.adoc#v42-18-0[&#60; Capítulo Anterior] | <<v42-19-0,Topo>> | xref:042-lucas/042-lucas-020.adoc#v42-20-0[Próximo Capítulo &#62;]

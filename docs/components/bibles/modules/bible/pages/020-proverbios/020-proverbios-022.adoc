@@ -1,0 +1,228 @@
+include::./index.adoc[]
+
+[[v20-22-0]]
+=== Provérbios, 22
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v20-22-1]]
+
+^<<v20-22-1,1>>^ Mais vale um bom nome^&#42;1^ do que muitas riquezas;
+Ser estimado^&#42;2^ é melhor do que prata e ouro.
+
+[NOTE]
+====
+. Ou: “uma boa reputação”. Lit.: “um nome”.
+. Lit.: “Favor”.
+====
+
+[[v20-22-2]]
+
+^<<v20-22-2,2>>^ O rico e o pobre têm isto em comum:^&#42;1^
+Jeová fez os dois.
+
+[NOTE]
+====
+. Lit.: “se encontram”.
+====
+
+[[v20-22-3]]
+
+^<<v20-22-3,3>>^ Quem é prudente vê o perigo e se esconde,
+Mas os inexperientes vão em frente e sofrem as consequências.^&#42;1^
+
+[NOTE]
+====
+. Ou: “a punição”.
+====
+
+[[v20-22-4]]
+
+^<<v20-22-4,4>>^ A humildade e o temor de Jeová resultam
+Em riquezas, glória e vida.
+
+[[v20-22-5]]
+
+^<<v20-22-5,5>>^ Há espinhos e armadilhas no caminho do perverso,
+Mas quem dá valor à vida^&#42;1^ fica longe deles.
+
+[NOTE]
+====
+. Ou: “alma”.
+====
+
+[[v20-22-6]]
+
+^<<v20-22-6,6>>^ Eduque a criança^&#42;1^ no caminho em que ela deve andar;
+Mesmo quando ela envelhecer, não se desviará dele.
+
+[NOTE]
+====
+. Ou: “o menino; o jovem”.
+====
+
+[[v20-22-7]]
+
+^<<v20-22-7,7>>^ O rico domina o pobre,
+E quem toma emprestado é escravo de quem empresta.
+
+[[v20-22-8]]
+
+^<<v20-22-8,8>>^ Quem semeia injustiça colherá desgraça,
+E a vara da sua fúria chegará ao fim.
+
+[[v20-22-9]]
+
+^<<v20-22-9,9>>^ A pessoa generosa será abençoada,^&#42;1^
+Pois reparte seu alimento com o pobre.
+
+[NOTE]
+====
+. Lit.: “Ele que tem um bom olho será abençoado”.
+====
+
+[[v20-22-10]]
+
+^<<v20-22-10,10>>^ Expulse o zombador,
+E as brigas desaparecerão;
+As disputas^&#42;1^ e os insultos acabarão.
+
+[NOTE]
+====
+. Ou: “ações judiciais”.
+====
+
+[[v20-22-11]]
+
+^<<v20-22-11,11>>^ Quem ama a pureza de coração e fala palavras agradáveis
+Terá o rei como seu amigo.
+
+[[v20-22-12]]
+
+^<<v20-22-12,12>>^ Os olhos de Jeová resguardam o conhecimento,
+Mas ele faz fracassar as palavras do traiçoeiro.
+
+[[v20-22-13]]
+
+^<<v20-22-13,13>>^ O preguiçoso diz: “Há um leão lá fora!
+Serei morto no meio da rua!”^&#42;1^
+
+[NOTE]
+====
+. Ou: “na praça”.
+====
+
+[[v20-22-14]]
+
+^<<v20-22-14,14>>^ A boca da mulher imoral^&#42;1^ é uma cova funda.
+Quem é condenado por Jeová cairá nela.
+
+[NOTE]
+====
+. Lit.: “estranha”. Veja Provérbios 2:16.
+====
+
+[[v20-22-15]]
+
+^<<v20-22-15,15>>^ A tolice está ligada ao coração das crianças,^&#42;1^
+Mas a vara da disciplina a afastará delas.
+
+[NOTE]
+====
+. Ou: “dos meninos; dos jovens”.
+====
+
+[[v20-22-16]]
+
+^<<v20-22-16,16>>^ Tanto quem defrauda o pobre para enriquecer
+Como quem dá presentes ao rico
+Acabarão na pobreza.
+
+[[v20-22-17]]
+
+^<<v20-22-17,17>>^ Preste atenção^&#42;1^ e escute as palavras dos sábios,
+Para aplicar seu coração ao meu conhecimento;
+
+[NOTE]
+====
+. Ou: “Incline seu ouvido”.
+====
+
+[[v20-22-18]]
+
+^<<v20-22-18,18>>^ Pois será agradável guardá-las no seu íntimo,
+Para que todas elas estejam sempre nos seus lábios.
+
+[[v20-22-19]]
+
+^<<v20-22-19,19>>^ A fim de que a sua confiança esteja em Jeová,
+Dou-lhe hoje conhecimento.
+
+[[v20-22-20]]
+
+^<<v20-22-20,20>>^ Já não lhe escrevi
+Para dar conselhos e conhecimento,
+
+[[v20-22-21]]
+
+^<<v20-22-21,21>>^ Para lhe ensinar palavras verdadeiras e confiáveis,
+A fim de que você possa voltar com um relatório exato a quem o enviou?
+
+[[v20-22-22]]
+
+^<<v20-22-22,22>>^ Não roube o pobre por ele ser pobre,
+E não oprima o humilde no portão da cidade,
+
+[[v20-22-23]]
+
+^<<v20-22-23,23>>^ Pois o próprio Jeová defenderá a causa deles
+E tirará a vida^&#42;1^ dos que os defraudam.
+
+[NOTE]
+====
+. Ou: “roubará a alma”.
+====
+
+[[v20-22-24]]
+
+^<<v20-22-24,24>>^ Não ande com quem se irrita facilmente,
+Nem se envolva com quem é propenso à ira,
+
+[[v20-22-25]]
+
+^<<v20-22-25,25>>^ Para que você nunca aprenda seus caminhos
+E arme um laço para si mesmo.^&#42;1^
+
+[NOTE]
+====
+. Ou: “sua alma”.
+====
+
+[[v20-22-26]]
+
+^<<v20-22-26,26>>^ Não seja daqueles que dão um aperto de mão,^&#42;1^
+Que se tornam fiadores de empréstimos.
+
+[NOTE]
+====
+. Isto é, assumindo um compromisso.
+====
+
+[[v20-22-27]]
+
+^<<v20-22-27,27>>^ Se não tiver como pagar,
+Até a sua cama será tirada de debaixo de você!
+
+[[v20-22-28]]
+
+^<<v20-22-28,28>>^ Não mude de lugar os antigos marcos divisórios
+Que foram colocados pelos seus antepassados.
+
+[[v20-22-29]]
+
+^<<v20-22-29,29>>^ Você já viu um homem que é habilidoso no seu trabalho?
+Ele tomará posição diante de reis,
+Não diante de homens comuns.
+
+'''
+
+xref:020-proverbios/020-proverbios-021.adoc#v20-21-0[&#60; Capítulo Anterior] | <<v20-22-0,Topo>> | xref:020-proverbios/020-proverbios-023.adoc#v20-23-0[Próximo Capítulo &#62;]

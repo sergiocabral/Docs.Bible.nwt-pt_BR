@@ -1,0 +1,16 @@
+include::../index.adoc[]
+
+[[v8-0-0]]
+== Rute
+
+[cols="8*^"]
+|===
+| xref:008-rute/008-rute-001.adoc#v8-1-0[1]
+| xref:008-rute/008-rute-002.adoc#v8-2-0[2]
+| xref:008-rute/008-rute-003.adoc#v8-3-0[3]
+| xref:008-rute/008-rute-004.adoc#v8-4-0[4]
+|
+|
+|
+|
+|===

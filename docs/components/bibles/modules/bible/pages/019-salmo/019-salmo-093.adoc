@@ -1,0 +1,51 @@
+include::./index.adoc[]
+
+[[v19-93-0]]
+=== Salmos, 93
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v19-93-1]]
+
+^<<v19-93-1,1>>^ Jeová tornou-se Rei!
+Está vestido de majestade.
+Jeová está vestido de força;
+Ele a usa como um cinto.
+A terra^&#42;1^ está firmemente estabelecida;
+Não pode ser abalada.
+
+[NOTE]
+====
+. Ou: “terra produtiva”.
+====
+
+[[v19-93-2]]
+
+^<<v19-93-2,2>>^ Teu trono foi firmemente estabelecido há muito tempo;
+Tu existes desde a eternidade.
+
+[[v19-93-3]]
+
+^<<v19-93-3,3>>^ Os rios subiram, ó Jeová,
+Os rios subiram e fizeram alto som;
+Os rios continuam subindo e fazendo estrondos.
+
+[[v19-93-4]]
+
+^<<v19-93-4,4>>^ Jeová é majestoso nas alturas,
+Está acima do som de muitas águas,
+É mais poderoso do que o rebentar das ondas do mar.
+
+[[v19-93-5]]
+
+^<<v19-93-5,5>>^ Tuas advertências^&#42;1^ são muito confiáveis.
+A santidade embeleza a^&#42;2^ tua casa, ó Jeová, por dias sem fim.
+
+[NOTE]
+====
+. “Advertência” refere-se a um lembrete do que é necessário fazer.
+. Ou: “convém à”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-092.adoc#v19-92-0[&#60; Capítulo Anterior] | <<v19-93-0,Topo>> | xref:019-salmo/019-salmo-094.adoc#v19-94-0[Próximo Capítulo &#62;]

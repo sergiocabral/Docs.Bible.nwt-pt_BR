@@ -1,0 +1,52 @@
+include::./index.adoc[]
+
+[[v13-20-0]]
+=== O Primeiro das Crônicas, 20
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v13-20-1]]
+
+^<<v13-20-1,1>>^ No começo do ano,^&#42;1^ época em que os reis saem em campanhas militares, Joabe conduziu uma expedição militar à terra dos amonitas e a devastou. Ele foi e cercou Rabá, mas Davi ficou em Jerusalém. Joabe atacou Rabá e a destruiu.
+
+[NOTE]
+====
+. Isto é, na primavera.
+====
+
+[[v13-20-2]]
+
+^<<v13-20-2,2>>^ Então Davi tirou a coroa da cabeça de Malcã^&#42;1^ e viu que ela pesava um talento^&#42;2^ de ouro, e nela havia pedras preciosas; ela foi colocada na cabeça de Davi. Ele também pegou uma grande quantidade de despojo da cidade.
+
+[NOTE]
+====
+. Possivelmente um deus-ídolo dos amonitas; em outro lugar também chamado de Moloque ou Milcom.
+. Cerca de 34,2 kg. Veja Ap. B14.
+====
+
+[[v13-20-3]]
+
+^<<v13-20-3,3>>^ Ele capturou as pessoas que havia nela e as colocou para serrar pedras e trabalhar com ferramentas de ferro afiadas e com machados. Davi fez isso com todas as cidades dos amonitas. Por fim, Davi e todos os soldados voltaram a Jerusalém.
+
+[[v13-20-4]]
+
+^<<v13-20-4,4>>^ Depois disso, houve uma guerra contra os filisteus em Gezer. Nessa ocasião Sibecai, o husatita, matou Sipai, descendente dos refains, e os filisteus foram derrotados.
+
+[[v13-20-5]]
+
+^<<v13-20-5,5>>^ Houve mais uma guerra contra os filisteus, e Elanã, filho de Jair, matou Lami, irmão de Golias, o geteu, cuja lança tinha um cabo que parecia o cilindro dos tecelões.
+
+[[v13-20-6]]
+
+^<<v13-20-6,6>>^ Houve novamente guerra, desta vez em Gate. Havia ali um homem de tamanho extraordinário, com seis dedos em cada mão e seis dedos em cada pé, 24 ao todo; e ele também era descendente dos refains.
+
+[[v13-20-7]]
+
+^<<v13-20-7,7>>^ Ele desafiava Israel; por isso Jonatã, filho de Simeia, irmão de Davi, o matou.
+
+[[v13-20-8]]
+
+^<<v13-20-8,8>>^ Esses eram descendentes dos refains em Gate. Eles foram mortos por Davi e seus homens.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-019.adoc#v13-19-0[&#60; Capítulo Anterior] | <<v13-20-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-021.adoc#v13-21-0[Próximo Capítulo &#62;]

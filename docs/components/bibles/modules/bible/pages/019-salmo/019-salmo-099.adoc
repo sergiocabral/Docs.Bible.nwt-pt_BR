@@ -1,0 +1,84 @@
+include::./index.adoc[]
+
+[[v19-99-0]]
+=== Salmos, 99
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v19-99-1]]
+
+^<<v19-99-1,1>>^ Jeová tornou-se Rei. Que estremeçam os povos.
+Ele está sentado em seu trono acima dos^&#42;1^ querubins. Que a terra trema.
+
+[NOTE]
+====
+. Ou, possivelmente: “entre os”.
+====
+
+[[v19-99-2]]
+
+^<<v19-99-2,2>>^ Jeová é grande em Sião;
+Ele está muito acima de todos os povos.
+
+[[v19-99-3]]
+
+^<<v19-99-3,3>>^ Que eles louvem o teu grande nome,
+Pois inspira temor e é santo.
+
+[[v19-99-4]]
+
+^<<v19-99-4,4>>^ Ele é um rei poderoso que ama a justiça.
+Tu estabeleceste firmemente o que é correto.
+Trouxeste justiça e retidão a Jacó.
+
+[[v19-99-5]]
+
+^<<v19-99-5,5>>^ Exaltem a Jeová, nosso Deus, e curvem-se^&#42;1^ diante do apoio para os Seus pés.
+Ele é santo.
+
+[NOTE]
+====
+. Ou: “adorem”.
+====
+
+[[v19-99-6]]
+
+^<<v19-99-6,6>>^ Moisés e Arão estavam entre os seus sacerdotes,
+E Samuel estava entre os que invocavam o seu nome.
+Eles invocavam a Jeová,
+E ele lhes respondia.
+
+[[v19-99-7]]
+
+^<<v19-99-7,7>>^ Falava com eles da coluna de nuvem.
+Eles guardavam as suas advertências^&#42;1^ e os decretos dados por ele.
+
+[NOTE]
+====
+. “Advertência” refere-se a um lembrete do que é necessário fazer.
+====
+
+[[v19-99-8]]
+
+^<<v19-99-8,8>>^ Ó Jeová, nosso Deus, tu lhes respondeste.
+Foste para eles um Deus perdoador,
+Mas tu os puniste^&#42;1^ pelos seus pecados.
+
+[NOTE]
+====
+. Lit.: “executaste vingança contra eles”.
+====
+
+[[v19-99-9]]
+
+^<<v19-99-9,9>>^ Exaltem a Jeová, nosso Deus,
+E curvem-se^&#42;1^ diante do seu santo monte,
+Pois Jeová, nosso Deus, é santo.
+
+[NOTE]
+====
+. Ou: “adorem”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-098.adoc#v19-98-0[&#60; Capítulo Anterior] | <<v19-99-0,Topo>> | xref:019-salmo/019-salmo-100.adoc#v19-100-0[Próximo Capítulo &#62;]

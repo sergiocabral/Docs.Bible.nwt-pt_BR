@@ -1,0 +1,93 @@
+include::./index.adoc[]
+
+[[v19-79-0]]
+=== Salmos, 79
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Salmo de Asafe._
+
+[[v19-79-1]]
+
+^<<v19-79-1,1>>^ Ó Deus, as nações invadiram a tua herança,
+Profanaram o teu santo templo,
+Fizeram de Jerusalém um montão de ruínas.
+
+[[v19-79-2]]
+
+^<<v19-79-2,2>>^ Eles deram os cadáveres dos teus servos como alimento às aves dos céus
+E a carne dos teus leais aos animais selvagens da terra.
+
+[[v19-79-3]]
+
+^<<v19-79-3,3>>^ Derramaram o sangue deles como água por toda Jerusalém,
+E não restou ninguém para enterrá-los.
+
+[[v19-79-4]]
+
+^<<v19-79-4,4>>^ Nós nos tornamos alvo do desprezo de nossos vizinhos;
+Os que estão ao nosso redor zombam e desdenham de nós.
+
+[[v19-79-5]]
+
+^<<v19-79-5,5>>^ Até quando ficarás furioso, ó Jeová? Para sempre?
+Até quando a tua indignação arderá como fogo?
+
+[[v19-79-6]]
+
+^<<v19-79-6,6>>^ Derrama o teu furor sobre as nações que não te conhecem
+E sobre os reinos que não invocam o teu nome.
+
+[[v19-79-7]]
+
+^<<v19-79-7,7>>^ Pois eles devoraram a Jacó
+E desolaram a terra dele.
+
+[[v19-79-8]]
+
+^<<v19-79-8,8>>^ Não nos faças pagar pelos erros dos nossos antepassados.
+Mostra-nos depressa a tua misericórdia,
+Pois fomos muito humilhados.
+
+[[v19-79-9]]
+
+^<<v19-79-9,9>>^ Ajuda-nos, ó Deus da nossa salvação,
+Por causa do teu nome glorioso;
+Livra-nos e perdoa^&#42;1^ os nossos pecados por causa do teu nome.
+
+[NOTE]
+====
+. Lit.: “cobre”.
+====
+
+[[v19-79-10]]
+
+^<<v19-79-10,10>>^ Por que deveriam as nações dizer: “Onde está o Deus deles?”
+Que, diante dos nossos olhos, as nações saibam
+Que o sangue derramado dos teus servos foi vingado.
+
+[[v19-79-11]]
+
+^<<v19-79-11,11>>^ Que tu ouças o suspiro do prisioneiro.
+Usa teu grande poder^&#42;1^ para preservar^&#42;2^ os condenados à morte.^&#42;3^
+
+[NOTE]
+====
+. Lit.: “braço”.
+. Ou, possivelmente: “libertar”.
+. Lit.: “os filhos da morte”.
+====
+
+[[v19-79-12]]
+
+^<<v19-79-12,12>>^ Retribui aos nossos vizinhos sete vezes mais
+Os insultos que lançaram contra ti, ó Jeová.
+
+[[v19-79-13]]
+
+^<<v19-79-13,13>>^ Então nós, teu povo e rebanho do teu pasto,
+Agradeceremos a ti para sempre,
+E proclamaremos o teu louvor geração após geração.
+
+'''
+
+xref:019-salmo/019-salmo-078.adoc#v19-78-0[&#60; Capítulo Anterior] | <<v19-79-0,Topo>> | xref:019-salmo/019-salmo-080.adoc#v19-80-0[Próximo Capítulo &#62;]

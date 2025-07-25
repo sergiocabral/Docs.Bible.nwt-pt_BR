@@ -1,0 +1,102 @@
+include::./index.adoc[]
+
+[[v19-5-0]]
+=== Salmos, 5
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Ao regente. Para neilote.^&#42;1^ Salmo de Davi._
+
+[[v19-5-1]]
+
+^<<v19-5-1,1>>^ Ouve as minhas palavras, ó Jeová;
+Fica atento ao meu gemido.
+
+[[v19-5-2]]
+
+^<<v19-5-2,2>>^ Presta atenção ao meu clamor por ajuda,
+Ó meu Rei e meu Deus, porque oro a ti.
+
+[[v19-5-3]]
+
+^<<v19-5-3,3>>^ Ó Jeová, de manhã ouvirás a minha voz;
+De manhã expressarei a ti a minha preocupação e aguardarei com esperança.
+
+[[v19-5-4]]
+
+^<<v19-5-4,4>>^ Pois tu não és um Deus que tem prazer na maldade;
+Ninguém mau pode permanecer contigo.
+
+[[v19-5-5]]
+
+^<<v19-5-5,5>>^ Nenhum arrogante pode ficar de pé na tua presença.
+Odeias a todos os malfeitores;
+
+[[v19-5-6]]
+
+^<<v19-5-6,6>>^ Destruirás os que falam mentiras.
+Jeová detesta pessoas violentas e enganadoras.^&#42;1^
+
+[NOTE]
+====
+. Ou: “o homem de derramamento de sangue e engano”.
+====
+
+[[v19-5-7]]
+
+^<<v19-5-7,7>>^ Mas eu entrarei na tua casa por causa do teu grande amor leal;
+Eu me curvarei em direção ao teu santo templo^&#42;1^ com temor reverente de ti.
+
+[NOTE]
+====
+. Ou: “santuário”.
+====
+
+[[v19-5-8]]
+
+^<<v19-5-8,8>>^ Ó Jeová, guia-me na tua justiça por causa dos meus inimigos;
+Torna plano para mim o teu caminho.
+
+[[v19-5-9]]
+
+^<<v19-5-9,9>>^ Pois não se pode confiar em nada do que eles dizem;
+No seu íntimo só há maldade;
+Sua garganta é uma sepultura aberta;
+Com a sua língua, eles bajulam.^&#42;1^
+
+[NOTE]
+====
+. Ou: “Eles usam uma língua macia”.
+====
+
+[[v19-5-10]]
+
+^<<v19-5-10,10>>^ Deus os condenará;
+Seus próprios planos os farão cair.
+Que sejam rejeitados por causa das suas muitas transgressões,
+Pois se rebelaram contra ti.
+
+[[v19-5-11]]
+
+^<<v19-5-11,11>>^ Mas todos os que se refugiam em ti serão felizes;
+Sempre gritarão de alegria.
+Tu os protegerás,^&#42;1^
+E os que amam o teu nome se alegrarão em ti.
+
+[NOTE]
+====
+. Ou: “impedirás o acesso a eles”.
+====
+
+[[v19-5-12]]
+
+^<<v19-5-12,12>>^ Pois abençoarás os justos, ó Jeová;
+Tu os cobrirás^&#42;1^ de aprovação, como que com um grande escudo.
+
+[NOTE]
+====
+. Ou: “cercarás”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-004.adoc#v19-4-0[&#60; Capítulo Anterior] | <<v19-5-0,Topo>> | xref:019-salmo/019-salmo-006.adoc#v19-6-0[Próximo Capítulo &#62;]

@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v16-5-0]]
+=== Neemias, 5
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v16-5-1]]
+
+^<<v16-5-1,1>>^ Entretanto, os homens e as suas esposas levantaram um grande clamor contra os seus irmãos judeus.
+
+[[v16-5-2]]
+
+^<<v16-5-2,2>>^ Alguns diziam: “Nós, nossos filhos e nossas filhas somos muitos. Precisamos conseguir cereais para comer e continuar vivos.”
+
+[[v16-5-3]]
+
+^<<v16-5-3,3>>^ Outros diziam: “Estamos dando nossos campos, nossos vinhedos e nossas casas como garantia para conseguir cereais por causa da falta de alimentos.”
+
+[[v16-5-4]]
+
+^<<v16-5-4,4>>^ Ainda outros diziam: “Pegamos dinheiro emprestado para pagar o tributo do rei, dando nossos campos e nossos vinhedos como garantia.
+
+[[v16-5-5]]
+
+^<<v16-5-5,5>>^ Ora, nós e nossos irmãos somos da mesma carne e do mesmo sangue,^&#42;1^ e nossos filhos são como os filhos deles, mas ainda assim temos de sujeitar nossos filhos e nossas filhas à escravidão, e algumas de nossas filhas já são escravas. E não podemos fazer nada para impedir isso, porque nossos campos e nossos vinhedos já pertencem a outros.”
+
+[NOTE]
+====
+. Lit.: “como a carne de nossos irmãos é a nossa carne”.
+====
+
+[[v16-5-6]]
+
+^<<v16-5-6,6>>^ Ao ouvir seu clamor e essas palavras, fiquei muito irado.
+
+[[v16-5-7]]
+
+^<<v16-5-7,7>>^ Então refleti com cuidado sobre esse assunto e comecei a discutir com os nobres e os subgovernadores, dizendo: “Todos vocês estão exigindo juros^&#42;1^ do seu próprio irmão.”
+Além disso, convoquei uma grande assembleia por causa deles.
+
+[NOTE]
+====
+. Ou: “usura”.
+====
+
+[[v16-5-8]]
+
+^<<v16-5-8,8>>^ Eu lhes disse: “Na medida do possível, nós compramos de volta os nossos irmãos judeus que tinham sido vendidos às nações. Mas agora vocês vão vender os seus próprios irmãos? Será que vamos ter de comprar de volta a esses também?” Diante disso ficaram calados, sem saber o que dizer.
+
+[[v16-5-9]]
+
+^<<v16-5-9,9>>^ Então eu disse: “O que vocês estão fazendo não é correto. Não deviam vocês andar no temor do nosso Deus para que as nações, nossos inimigos, não zombem de nós?
+
+[[v16-5-10]]
+
+^<<v16-5-10,10>>^ Eu, meus irmãos e meus ajudantes também emprestamos dinheiro e cereais a eles. Por favor, vamos parar de emprestar com juros.
+
+[[v16-5-11]]
+
+^<<v16-5-11,11>>^ Por favor, devolvam-lhes hoje mesmo seus campos, seus vinhedos, seus olivais e suas casas, bem como o centésimo^&#42;1^ do dinheiro, dos cereais, do vinho novo e do azeite que vocês estão exigindo deles como juros.”
+
+[NOTE]
+====
+. Ou: “um por cento”, isto é, por mês.
+====
+
+[[v16-5-12]]
+
+^<<v16-5-12,12>>^ Então eles responderam: “Nós lhes devolveremos essas coisas e não exigiremos nada deles. Faremos exatamente o que você disse.” Chamei, portanto, os sacerdotes e fiz aqueles homens jurar que cumpririam essa promessa.
+
+[[v16-5-13]]
+
+^<<v16-5-13,13>>^ Depois, sacudi as dobras da minha roupa^&#42;1^ e disse: “Da mesma maneira, que o verdadeiro Deus sacuda para fora das suas casas e das suas propriedades todos aqueles que não cumprirem essa promessa, e dessa maneira sejam sacudidos e fiquem sem nada.” Então toda a congregação disse: “Amém!”^&#42;2^ e louvaram a Jeová. E o povo cumpriu o que prometeu.
+
+[NOTE]
+====
+. Lit.: “sacudi meu colo”.
+. Ou: “Assim seja!”
+====
+
+[[v16-5-14]]
+
+^<<v16-5-14,14>>^ Além disso, desde o dia em que ele^&#42;1^ me nomeou governador na terra de Judá, do vigésimo ano ao trigésimo segundo ano do rei Artaxerxes, isto é, por 12 anos, nem eu nem meus irmãos comemos o pão a que o governador tem direito.
+
+[NOTE]
+====
+. Isto é, o rei.
+====
+
+[[v16-5-15]]
+
+^<<v16-5-15,15>>^ Mas os governadores antes de mim tinham sobrecarregado o povo, e todo dia exigiam deles 40 siclos^&#42;1^ de prata para comprar pão e vinho. Até seus ajudantes oprimiam o povo. Mas eu não agi assim por temor de Deus.
+
+[NOTE]
+====
+. Um siclo equivalia a 11,4 g. Veja Ap. B14.
+====
+
+[[v16-5-16]]
+
+^<<v16-5-16,16>>^ Além do mais, participei na obra desta muralha, e nós não adquirimos nenhum campo; todos os meus ajudantes estavam reunidos ali para a obra.
+
+[[v16-5-17]]
+
+^<<v16-5-17,17>>^ Havia 150 judeus e subgovernadores que comiam à minha mesa, além dos que vinham das nações vizinhas.
+
+[[v16-5-18]]
+
+^<<v16-5-18,18>>^ Todos os dias eram preparados para mim^&#42;1^ um touro, seis das melhores ovelhas, e aves; e a cada dez dias tínhamos todo tipo de vinho em abundância. Apesar de tudo isso, não exigi o pão a que o governador tem direito, porque o povo já estava sobrecarregado com o trabalho.
+
+[NOTE]
+====
+. Ou: “por minha conta”.
+====
+
+[[v16-5-19]]
+
+^<<v16-5-19,19>>^ Lembra-te de mim com favor,^&#42;1^ ó meu Deus, por tudo o que fiz em favor deste povo.
+
+[NOTE]
+====
+. Ou: “para o meu bem”.
+====
+
+'''
+
+xref:016-neemias/016-neemias-004.adoc#v16-4-0[&#60; Capítulo Anterior] | <<v16-5-0,Topo>> | xref:016-neemias/016-neemias-006.adoc#v16-6-0[Próximo Capítulo &#62;]

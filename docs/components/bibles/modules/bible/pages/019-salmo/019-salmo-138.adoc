@@ -1,0 +1,72 @@
+include::./index.adoc[]
+
+[[v19-138-0]]
+=== Salmos, 138
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_De Davi._
+
+[[v19-138-1]]
+
+^<<v19-138-1,1>>^ Eu te louvarei de todo o meu coração.
+Diante de outros deuses,
+Cantarei louvores a ti.^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “Em desafio a outros deuses, farei música para ti”.
+====
+
+[[v19-138-2]]
+
+^<<v19-138-2,2>>^ Eu me curvarei em direção ao teu santo templo,^&#42;1^
+E louvarei o teu nome
+Por causa do teu amor leal e da tua fidelidade.
+Pois magnificaste a tua declaração e o teu nome acima de tudo.^&#42;2^
+
+[NOTE]
+====
+. Ou: “santuário”.
+. Ou, possivelmente: “magnificaste a tua declaração acima de todo o teu nome”.
+====
+
+[[v19-138-3]]
+
+^<<v19-138-3,3>>^ No dia em que chamei, tu me respondeste;
+Tu me fizeste corajoso^&#42;1^ e forte.
+
+[NOTE]
+====
+. Ou: “corajoso na minha alma”.
+====
+
+[[v19-138-4]]
+
+^<<v19-138-4,4>>^ Todos os reis da terra te louvarão, ó Jeová,
+Pois terão ouvido as promessas da tua boca.
+
+[[v19-138-5]]
+
+^<<v19-138-5,5>>^ Eles cantarão sobre os caminhos de Jeová,
+Pois grande é a glória de Jeová.
+
+[[v19-138-6]]
+
+^<<v19-138-6,6>>^ Embora Jeová seja elevado, ele olha para o humilde;
+Mas o arrogante, ele só conhece de longe.
+
+[[v19-138-7]]
+
+^<<v19-138-7,7>>^ Mesmo quando eu andar no meio do perigo, tu me preservarás vivo.
+Tu estendes a mão contra a ira dos meus inimigos;
+Tua mão direita me salvará.
+
+[[v19-138-8]]
+
+^<<v19-138-8,8>>^ Jeová fará tudo por mim.
+Ó Jeová, teu amor leal dura para sempre.
+Não abandones o trabalho das tuas mãos.
+
+'''
+
+xref:019-salmo/019-salmo-137.adoc#v19-137-0[&#60; Capítulo Anterior] | <<v19-138-0,Topo>> | xref:019-salmo/019-salmo-139.adoc#v19-139-0[Próximo Capítulo &#62;]

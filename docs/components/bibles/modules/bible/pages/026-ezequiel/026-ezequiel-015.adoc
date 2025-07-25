@@ -1,0 +1,46 @@
+include::./index.adoc[]
+
+[[v26-15-0]]
+=== Ezequiel, 15
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v26-15-1]]
+
+^<<v26-15-1,1>>^ Recebi novamente a palavra de Jeová:
+
+[[v26-15-2]]
+
+^<<v26-15-2,2>>^ “Filho do homem, será que a madeira da videira pode ser comparada com a de qualquer outra árvore ou galho de árvore da floresta?
+
+[[v26-15-3]]
+
+^<<v26-15-3,3>>^ Por acaso uma vara tirada dela serve para fazer algum trabalho? Será que se usa um pedaço dela como suporte para pendurar utensílios?
+
+[[v26-15-4]]
+
+^<<v26-15-4,4>>^ Ora, ela é lançada no fogo como combustível. O fogo devora as duas extremidades e chamusca o meio. Depois, será que ela serve para alguma coisa?
+
+[[v26-15-5]]
+
+^<<v26-15-5,5>>^ Mesmo quando estava inteira, não servia para nada. Quanto mais depois de o fogo a ter queimado e chamuscado!”
+
+[[v26-15-6]]
+
+^<<v26-15-6,6>>^ “Portanto, assim diz o Soberano Senhor Jeová: ‘Assim como, entre as árvores da floresta, eu fiz da madeira da videira combustível para o fogo, assim farei com os habitantes de Jerusalém.
+
+[[v26-15-7]]
+
+^<<v26-15-7,7>>^ Eu me voltei^&#42;1^ contra eles. Eles escaparam do fogo, mas o fogo os devorará. E vocês terão de saber que eu sou Jeová quando eu me voltar contra eles.’”
+
+[NOTE]
+====
+. Ou: “Pus minha face”.
+====
+
+[[v26-15-8]]
+
+^<<v26-15-8,8>>^ “‘E farei aquela terra ficar desolada, porque agiram de modo infiel’, diz o Soberano Senhor Jeová.”
+
+'''
+
+xref:026-ezequiel/026-ezequiel-014.adoc#v26-14-0[&#60; Capítulo Anterior] | <<v26-15-0,Topo>> | xref:026-ezequiel/026-ezequiel-016.adoc#v26-16-0[Próximo Capítulo &#62;]

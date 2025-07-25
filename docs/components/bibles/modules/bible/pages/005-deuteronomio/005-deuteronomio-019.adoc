@@ -1,0 +1,121 @@
+include::./index.adoc[]
+
+[[v5-19-0]]
+=== Deuteronômio, 19
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v5-19-1]]
+
+^<<v5-19-1,1>>^ “Quando Jeová, seu Deus, destruir as nações cuja terra Jeová, seu Deus, lhe dá, e você tiver tomado posse da terra delas e estiver estabelecido nas cidades e nas casas delas,
+
+[[v5-19-2]]
+
+^<<v5-19-2,2>>^ você deve separar três cidades na terra que Jeová, seu Deus, lhe dá como propriedade.
+
+[[v5-19-3]]
+
+^<<v5-19-3,3>>^ Você deve dividir em três partes o território da terra que Jeová, seu Deus, lhe dá como propriedade, e preparar as estradas para que o homicida possa fugir para uma dessas cidades.
+
+[[v5-19-4]]
+
+^<<v5-19-4,4>>^ “Isto é o que deve acontecer no caso do homicida que fugir para lá a fim de continuar vivo: quando ele sem querer golpear o seu próximo, sem que o tenha odiado antes
+
+[[v5-19-5]]
+
+^<<v5-19-5,5>>^ — por exemplo, se ele for com o seu próximo à floresta para juntar lenha e levantar o machado para cortar a árvore, e o ferro do machado se soltar do cabo, atingir seu próximo e este morrer —, então o homicida deve fugir para uma dessas cidades para ficar vivo.
+
+[[v5-19-6]]
+
+^<<v5-19-6,6>>^ Do contrário, o vingador do sangue, enfurecido,^&#42;1^ poderia perseguir, alcançar e matar o homicida, visto que a distância até a cidade seria muito grande. No entanto, ele não merecia morrer, pois não odiava seu próximo.
+
+[NOTE]
+====
+. Lit.: “porque seu coração está quente”.
+====
+
+[[v5-19-7]]
+
+^<<v5-19-7,7>>^ É por isso que lhe ordeno: ‘Separe três cidades.’
+
+[[v5-19-8]]
+
+^<<v5-19-8,8>>^ “Se Jeová, seu Deus, aumentar o seu território assim como jurou aos seus antepassados e lhe der toda a terra que prometeu dar aos seus antepassados
+
+[[v5-19-9]]
+
+^<<v5-19-9,9>>^ — desde que você obedeça fielmente a todos estes mandamentos que hoje lhe dou, amando a Jeová, seu Deus, e andando sempre nos seus caminhos —, então você deve acrescentar três cidades a essas três.
+
+[[v5-19-10]]
+
+^<<v5-19-10,10>>^ Assim, não será derramado sangue inocente na terra que Jeová, seu Deus, lhe dá como herança, e não recairá sobre você culpa de sangue.
+
+[[v5-19-11]]
+
+^<<v5-19-11,11>>^ “Mas, se um homem que odiava seu próximo ficou esperando para atacá-lo e o feriu^&#42;1^ fatalmente, de modo que ele morreu, e o homem fugiu para uma dessas cidades,
+
+[NOTE]
+====
+. Ou: “e feriu sua alma”.
+====
+
+[[v5-19-12]]
+
+^<<v5-19-12,12>>^ então os anciãos da cidade dele devem mandar buscá-lo e devem entregá-lo nas mãos do vingador do sangue, e o homem deve morrer.
+
+[[v5-19-13]]
+
+^<<v5-19-13,13>>^ Você^&#42;1^ não deve ter dó dele; elimine de Israel a culpa pelo sangue inocente, para que tudo vá bem com você.
+
+[NOTE]
+====
+. Lit.: “Seu olho”.
+====
+
+[[v5-19-14]]
+
+^<<v5-19-14,14>>^ “Quando você receber a sua herança na terra que Jeová, seu Deus, lhe dá como propriedade, você não deve mudar os marcos divisórios do terreno do seu vizinho do lugar em que os seus antepassados os tiverem estabelecido.
+
+[[v5-19-15]]
+
+^<<v5-19-15,15>>^ “Uma só testemunha não é suficiente para condenar^&#42;1^ alguém por causa de qualquer erro ou pecado que ele tenha cometido. A questão deve ficar estabelecida com base no depoimento^&#42;2^ de duas ou três testemunhas.
+
+[NOTE]
+====
+. Lit.: “se levantar contra”.
+. Lit.: “na boca”.
+====
+
+[[v5-19-16]]
+
+^<<v5-19-16,16>>^ Caso uma testemunha mal-intencionada deponha contra um homem e o acuse de uma transgressão,
+
+[[v5-19-17]]
+
+^<<v5-19-17,17>>^ os dois homens que tiverem a disputa comparecerão perante Jeová, perante os sacerdotes e os juízes que estiverem servindo naqueles dias.
+
+[[v5-19-18]]
+
+^<<v5-19-18,18>>^ Os juízes farão uma investigação cuidadosa, e, se o homem que depôs for uma testemunha falsa e tiver levantado uma acusação falsa contra o seu irmão,
+
+[[v5-19-19]]
+
+^<<v5-19-19,19>>^ vocês devem fazer a ele o mesmo que ele tramou fazer ao seu irmão. Assim, você deve eliminar o mal do seu meio.
+
+[[v5-19-20]]
+
+^<<v5-19-20,20>>^ Os que restarem ouvirão e ficarão com medo, e nunca mais farão uma maldade como essa no seu meio.
+
+[[v5-19-21]]
+
+^<<v5-19-21,21>>^ Você^&#42;1^ não deve ter dó: será vida^&#42;2^ por vida,^&#42;3^ olho por olho, dente por dente, mão por mão, pé por pé.
+
+[NOTE]
+====
+. Lit.: “Seu olho”.
+. Ou: “alma”.
+. Ou: “alma”.
+====
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-018.adoc#v5-18-0[&#60; Capítulo Anterior] | <<v5-19-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-020.adoc#v5-20-0[Próximo Capítulo &#62;]

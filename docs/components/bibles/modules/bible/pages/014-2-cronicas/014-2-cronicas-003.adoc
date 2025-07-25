@@ -1,0 +1,117 @@
+include::./index.adoc[]
+
+[[v14-3-0]]
+=== O Segundo das Crônicas, 3
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v14-3-1]]
+
+^<<v14-3-1,1>>^ Então Salomão começou a construir a casa de Jeová em Jerusalém, no monte Moriá, onde Jeová tinha aparecido a Davi, seu pai, no lugar que Davi tinha preparado, na eira de Ornã, o jebuseu.
+
+[[v14-3-2]]
+
+^<<v14-3-2,2>>^ Ele começou a construir no dia dois do segundo mês, no quarto ano do seu reinado.
+
+[[v14-3-3]]
+
+^<<v14-3-3,3>>^ E o alicerce que Salomão lançou para a construção da casa do verdadeiro Deus tinha 60 côvados de comprimento e 20 côvados de largura, de acordo com a medida antiga.^&#42;1^
+
+[NOTE]
+====
+. Um côvado padrão equivalia a 44,5 cm, mas alguns acham que “a medida antiga” se refere ao côvado longo, que equivalia a 51,8 cm. Veja Ap. B14.
+====
+
+[[v14-3-4]]
+
+^<<v14-3-4,4>>^ O pórtico na frente da casa tinha a mesma largura da casa: 20 côvados.^&#42;1^ E a sua altura era de 20 côvados;^&#42;2^ e ele o revestiu por dentro de ouro puro.
+
+[NOTE]
+====
+. Ou: “tinha 20 côvados de comprimento, que correspondia à largura da casa”.
+. Alguns manuscritos bem antigos dizem “120”; já outros manuscritos e algumas traduções dizem “20 côvados”.
+====
+
+[[v14-3-5]]
+
+^<<v14-3-5,5>>^ Ele colocou painéis de madeira de junípero no compartimento principal, revestiu-o de ouro puro e depois o decorou com figuras de palmeiras e correntes.
+
+[[v14-3-6]]
+
+^<<v14-3-6,6>>^ Além disso, incrustou a casa com belas pedras preciosas, e o ouro que ele usou era de Parvaim.
+
+[[v14-3-7]]
+
+^<<v14-3-7,7>>^ Ele revestiu de ouro a casa: as vigas, as soleiras, as paredes e as portas; e nas paredes esculpiu querubins.
+
+[[v14-3-8]]
+
+^<<v14-3-8,8>>^ E ele fez o compartimento do Santíssimo;^&#42;1^ seu comprimento era igual à largura da casa, 20 côvados, e a sua largura também era de 20 côvados. Ele o revestiu com 600 talentos^&#42;2^ de ouro puro.
+
+[NOTE]
+====
+. Ou: “a casa Santíssima”.
+. Um talento equivalia a 34,2 kg. Veja Ap. B14.
+====
+
+[[v14-3-9]]
+
+^<<v14-3-9,9>>^ O peso do ouro dos pregos era de 50 siclos.^&#42;1^ Ele também revestiu de ouro os compartimentos superiores.
+
+[NOTE]
+====
+. Um siclo equivalia a 11,4 g. Veja Ap. B14.
+====
+
+[[v14-3-10]]
+
+^<<v14-3-10,10>>^ Então fez para o compartimento do Santíssimo^&#42;1^ duas esculturas de querubins, e os revestiu de ouro.
+
+[NOTE]
+====
+. Ou: “a casa Santíssima”.
+====
+
+[[v14-3-11]]
+
+^<<v14-3-11,11>>^ O comprimento total das asas dos querubins era de 20 côvados; uma asa do primeiro querubim tinha cinco côvados e tocava a parede da casa, e a outra asa tinha cinco côvados e tocava uma das asas do outro querubim.
+
+[[v14-3-12]]
+
+^<<v14-3-12,12>>^ E uma asa do outro querubim tinha cinco côvados e tocava a outra parede da casa, e a outra asa tinha cinco côvados e tocava uma das asas do primeiro querubim.
+
+[[v14-3-13]]
+
+^<<v14-3-13,13>>^ As asas desses querubins se estendiam por 20 côvados; e eles estavam de pé, com a face voltada para dentro.^&#42;1^
+
+[NOTE]
+====
+. Isto é, para o Santo.
+====
+
+[[v14-3-14]]
+
+^<<v14-3-14,14>>^ Ele também fez a cortina de linha azul, lã roxa, linha escarlate e tecido fino, e bordou nela figuras de querubins.
+
+[[v14-3-15]]
+
+^<<v14-3-15,15>>^ Então fez na frente da casa duas colunas de 35 côvados de altura, e o capitel no topo de cada coluna tinha cinco côvados.
+
+[[v14-3-16]]
+
+^<<v14-3-16,16>>^ E ele fez correntes em forma de colar e as pôs no topo das colunas, e fez cem romãs e as pôs nas correntes.
+
+[[v14-3-17]]
+
+^<<v14-3-17,17>>^ Ele ergueu as colunas na frente do templo, uma à direita^&#42;1^ e outra à esquerda;^&#42;2^ chamou a da direita de Jaquim^&#42;3^ e a da esquerda de Boaz.^&#42;4^
+
+[NOTE]
+====
+. Ou: “ao sul”.
+. Ou: “ao norte”.
+. Que significa “que ele [isto é, Jeová] estabeleça firmemente”.
+. Que possivelmente significa “em força”.
+====
+
+'''
+
+xref:014-2-cronicas/014-2-cronicas-002.adoc#v14-2-0[&#60; Capítulo Anterior] | <<v14-3-0,Topo>> | xref:014-2-cronicas/014-2-cronicas-004.adoc#v14-4-0[Próximo Capítulo &#62;]

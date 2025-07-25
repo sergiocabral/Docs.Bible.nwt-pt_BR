@@ -1,0 +1,69 @@
+include::./index.adoc[]
+
+[[v26-2-0]]
+=== Ezequiel, 2
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v26-2-1]]
+
+^<<v26-2-1,1>>^ Então ele me disse: “Filho do homem,^&#42;1^ fique de pé para que eu fale com você.”
+
+[NOTE]
+====
+. “Filho do homem”; primeira das 93 ocorrências dessa expressão em Ezequiel.
+====
+
+[[v26-2-2]]
+
+^<<v26-2-2,2>>^ Quando ele falou comigo, espírito entrou em mim e me fez ficar de pé para que eu pudesse ouvir aquele que falava comigo.
+
+[[v26-2-3]]
+
+^<<v26-2-3,3>>^ Ele me disse: “Filho do homem, estou enviando você ao povo de Israel, nações rebeldes que se rebelaram contra mim. Eles e seus antepassados têm transgredido contra mim até o dia de hoje.
+
+[[v26-2-4]]
+
+^<<v26-2-4,4>>^ Estou enviando você a filhos insolentes^&#42;1^ e de coração obstinado. Diga a eles: ‘Assim diz o Soberano Senhor Jeová.’
+
+[NOTE]
+====
+. Ou: “duros de rosto”.
+====
+
+[[v26-2-5]]
+
+^<<v26-2-5,5>>^ Quer eles escutem, quer se recusem a escutar — pois são uma casa rebelde —, eles certamente saberão que houve um profeta no seu meio.
+
+[[v26-2-6]]
+
+^<<v26-2-6,6>>^ “Mas você, filho do homem, não tenha medo deles nem tenha medo das palavras deles, embora você esteja cercado por espinhos e abrolhos^&#42;1^ e você more entre escorpiões. Não tenha medo das palavras deles nem fique apavorado por causa da expressão no rosto deles, pois são uma casa rebelde.
+
+[NOTE]
+====
+. Ou, possivelmente: “embora as pessoas sejam obstinadas e semelhantes a coisas que o picam”.
+====
+
+[[v26-2-7]]
+
+^<<v26-2-7,7>>^ Diga a eles as minhas palavras, quer escutem, quer não, pois são um povo rebelde.
+
+[[v26-2-8]]
+
+^<<v26-2-8,8>>^ “Mas você, filho do homem, escute o que lhe digo. Não seja rebelde, como essa casa rebelde. Abra a boca e coma o que lhe dou.”
+
+[[v26-2-9]]
+
+^<<v26-2-9,9>>^ Quando eu olhei, vi uma mão estendida para mim, e nela vi um rolo escrito.^&#42;1^
+
+[NOTE]
+====
+. Ou: “um rolo de um livro”.
+====
+
+[[v26-2-10]]
+
+^<<v26-2-10,10>>^ Ele o desenrolou diante de mim, e o rolo estava escrito na frente e no verso. Nele estavam escritos cânticos fúnebres, lamentações e ais.
+
+'''
+
+xref:026-ezequiel/026-ezequiel-001.adoc#v26-1-0[&#60; Capítulo Anterior] | <<v26-2-0,Topo>> | xref:026-ezequiel/026-ezequiel-003.adoc#v26-3-0[Próximo Capítulo &#62;]

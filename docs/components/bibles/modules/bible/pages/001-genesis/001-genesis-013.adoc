@@ -1,0 +1,92 @@
+include::./index.adoc[]
+
+[[v1-13-0]]
+=== Gênesis, 13
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v1-13-1]]
+
+^<<v1-13-1,1>>^ Abrão subiu então do Egito ao Neguebe, ele com sua esposa e com tudo o que tinha, junto com Ló.
+
+[[v1-13-2]]
+
+^<<v1-13-2,2>>^ Abrão era muito rico em rebanhos, em prata e em ouro.
+
+[[v1-13-3]]
+
+^<<v1-13-3,3>>^ Ao viajar do Neguebe para Betel, ele acampou num lugar após outro, até chegar ao lugar onde a sua tenda havia ficado, entre Betel e Ai,
+
+[[v1-13-4]]
+
+^<<v1-13-4,4>>^ onde ele anteriormente havia construído um altar. Ali, Abrão invocou o nome de Jeová.
+
+[[v1-13-5]]
+
+^<<v1-13-5,5>>^ Ló, que viajava com Abrão, também possuía ovelhas, bois e tendas.
+
+[[v1-13-6]]
+
+^<<v1-13-6,6>>^ E aquela terra não era suficiente para que todos ficassem no mesmo lugar; os seus bens tinham aumentado tanto que eles não podiam mais morar juntos.
+
+[[v1-13-7]]
+
+^<<v1-13-7,7>>^ Surgiu, então, uma desavença entre os homens que cuidavam dos rebanhos de Abrão e os que cuidavam dos rebanhos de Ló. (Naquele tempo os cananeus e os perizeus moravam naquela terra.)
+
+[[v1-13-8]]
+
+^<<v1-13-8,8>>^ Portanto, Abrão disse a Ló: “Por favor, não haja nenhuma desavença entre mim e você, e entre os homens que cuidam dos meus rebanhos e os que cuidam dos seus rebanhos, pois nós somos irmãos.
+
+[[v1-13-9]]
+
+^<<v1-13-9,9>>^ Não está toda esta terra disponível para você? Por favor, separe-se de mim. Se você for para a esquerda, eu irei para a direita; mas, se você for para a direita, eu irei para a esquerda.”
+
+[[v1-13-10]]
+
+^<<v1-13-10,10>>^ Assim, Ló levantou os olhos e viu que todo o distrito do Jordão, até Zoar, era uma região bem regada (antes de Jeová destruir Sodoma e Gomorra), como o jardim de Jeová, como a terra do Egito.
+
+[[v1-13-11]]
+
+^<<v1-13-11,11>>^ Ló escolheu então para si todo o distrito do Jordão, e Ló mudou seu acampamento para o leste. Assim, separaram-se um do outro.
+
+[[v1-13-12]]
+
+^<<v1-13-12,12>>^ Abrão morava na terra de Canaã, mas Ló morava entre as cidades do distrito. Este por fim armou a sua tenda perto de Sodoma.
+
+[[v1-13-13]]
+
+^<<v1-13-13,13>>^ Ora, os homens de Sodoma eram maus, grandes pecadores contra Jeová.
+
+[[v1-13-14]]
+
+^<<v1-13-14,14>>^ Jeová disse a Abrão, depois de Ló ter se separado dele: “Levante os olhos, por favor; do lugar onde você está, olhe para o norte, para o sul, para o leste e para o oeste,
+
+[[v1-13-15]]
+
+^<<v1-13-15,15>>^ porque toda a terra que você está vendo eu darei a você e à sua descendência,^&#42;1^ como uma propriedade permanente.
+
+[NOTE]
+====
+. Lit.: “semente”.
+====
+
+[[v1-13-16]]
+
+^<<v1-13-16,16>>^ E vou tornar a sua descendência^&#42;1^ como as partículas de pó da terra, de modo que, se alguém pudesse contar as partículas de pó da terra, a sua descendência^&#42;2^ poderia ser contada.
+
+[NOTE]
+====
+. Lit.: “semente”.
+. Lit.: “semente”.
+====
+
+[[v1-13-17]]
+
+^<<v1-13-17,17>>^ Vá, percorra esta terra no comprimento e na largura, pois vou dá-la a você.”
+
+[[v1-13-18]]
+
+^<<v1-13-18,18>>^ Abrão continuou assim vivendo em tendas. Mais tarde ele foi morar entre as árvores grandes de Manre, que ficam em Hebrom, e ali construiu um altar a Jeová.
+
+'''
+
+xref:001-genesis/001-genesis-012.adoc#v1-12-0[&#60; Capítulo Anterior] | <<v1-13-0,Topo>> | xref:001-genesis/001-genesis-014.adoc#v1-14-0[Próximo Capítulo &#62;]

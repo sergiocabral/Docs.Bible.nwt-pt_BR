@@ -1,0 +1,253 @@
+include::./index.adoc[]
+
+[[v41-15-0]]
+=== Segundo Marcos, 15
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v41-15-1]]
+
+^<<v41-15-1,1>>^ Logo ao amanhecer, os principais sacerdotes, com os anciãos e os escribas, sim, o Sinédrio inteiro, se reuniram para decidir o que fazer; depois amarraram Jesus, o levaram e o entregaram a Pilatos.
+
+[[v41-15-2]]
+
+^<<v41-15-2,2>>^ Então Pilatos lhe perguntou: “Você é o Rei dos judeus?” Em resposta ele disse: “O senhor mesmo está dizendo isso.”
+
+[[v41-15-3]]
+
+^<<v41-15-3,3>>^ Mas os principais sacerdotes o estavam acusando de muitas coisas.
+
+[[v41-15-4]]
+
+^<<v41-15-4,4>>^ Então Pilatos voltou a interrogá-lo, dizendo: “Você não tem nenhuma resposta para dar? Veja quantas acusações levantam contra você.”
+
+[[v41-15-5]]
+
+^<<v41-15-5,5>>^ Mas Jesus não deu mais nenhuma resposta, de modo que Pilatos ficou surpreso.
+
+[[v41-15-6]]
+
+^<<v41-15-6,6>>^ Pois bem, por ocasião da festividade, ele costumava soltar um preso, aquele que pedissem.
+
+[[v41-15-7]]
+
+^<<v41-15-7,7>>^ Naquela ocasião o homem chamado Barrabás estava na prisão com os rebeldes que, na sua rebelião, haviam cometido assassinato.
+
+[[v41-15-8]]
+
+^<<v41-15-8,8>>^ Assim, a multidão se aproximou e começou a pedir que Pilatos fizesse para eles o que costumava fazer.
+
+[[v41-15-9]]
+
+^<<v41-15-9,9>>^ Em vista disso, ele lhes perguntou: “Querem que eu solte o Rei dos judeus?”
+
+[[v41-15-10]]
+
+^<<v41-15-10,10>>^ Pois Pilatos sabia que os principais sacerdotes o tinham entregado por inveja.
+
+[[v41-15-11]]
+
+^<<v41-15-11,11>>^ Mas os principais sacerdotes atiçaram a multidão para que, em vez disso, soltasse Barrabás.
+
+[[v41-15-12]]
+
+^<<v41-15-12,12>>^ Então, Pilatos novamente lhes perguntou: “O que, então, devo fazer com aquele a quem vocês chamam de Rei dos judeus?”
+
+[[v41-15-13]]
+
+^<<v41-15-13,13>>^ Mais uma vez gritaram: “Para a estaca com ele!”^&#42;1^
+
+[NOTE]
+====
+. Ou: “Execute-o na estaca!”
+====
+
+[[v41-15-14]]
+
+^<<v41-15-14,14>>^ Mas Pilatos lhes disse: “Por quê? O que ele fez de mau?” Contudo, gritaram ainda mais: “Para a estaca com ele!”^&#42;1^
+
+[NOTE]
+====
+. Ou: “Execute-o na estaca!”
+====
+
+[[v41-15-15]]
+
+^<<v41-15-15,15>>^ Assim, desejando satisfazer a multidão, Pilatos soltou Barrabás; e, depois de mandar que Jesus fosse chicoteado, entregou-o para ser morto na estaca.
+
+[[v41-15-16]]
+
+^<<v41-15-16,16>>^ Os soldados o levaram então para o pátio da residência do governador, e convocaram todo o grupo de soldados.
+
+[[v41-15-17]]
+
+^<<v41-15-17,17>>^ Eles o vestiram de púrpura, trançaram uma coroa de espinhos e a puseram nele;
+
+[[v41-15-18]]
+
+^<<v41-15-18,18>>^ e começaram a lhe dizer: “Salve, Rei dos judeus!”
+
+[[v41-15-19]]
+
+^<<v41-15-19,19>>^ Também, bateram-lhe na cabeça com uma cana e cuspiram nele; então se ajoelharam diante dele e se curvaram.^&#42;1^
+
+[NOTE]
+====
+. Ou: “e prestaram homenagem”.
+====
+
+[[v41-15-20]]
+
+^<<v41-15-20,20>>^ Por fim, depois de terem zombado dele, tiraram-lhe as roupas púrpura e puseram de volta nele suas roupas. E o levaram para fora, para pregá-lo na estaca.
+
+[[v41-15-21]]
+
+^<<v41-15-21,21>>^ Também, um homem passava por ali, vindo do campo, certo Simão de Cirene, pai de Alexandre e de Rufo. Eles o obrigaram a prestar serviço carregando a estaca.^&#42;1^
+
+[NOTE]
+====
+. Ou: “estaca de tortura”. Veja o Glossário.
+====
+
+[[v41-15-22]]
+
+^<<v41-15-22,22>>^ Assim, levaram-no ao lugar chamado Gólgota, que traduzido significa “lugar da caveira”.
+
+[[v41-15-23]]
+
+^<<v41-15-23,23>>^ Ali tentaram lhe dar vinho misturado com uma droga, mirra, mas ele não quis tomá-lo.
+
+[[v41-15-24]]
+
+^<<v41-15-24,24>>^ E o pregaram na estaca e repartiram suas roupas, lançando sortes para decidir quem ficaria com o quê.
+
+[[v41-15-25]]
+
+^<<v41-15-25,25>>^ Era então a terceira hora^&#42;1^ quando o pregaram na estaca.
+
+[NOTE]
+====
+. Isto é, por volta das 9 h da manhã.
+====
+
+[[v41-15-26]]
+
+^<<v41-15-26,26>>^ E a inscrição da acusação contra ele dizia: “O Rei dos judeus”.
+
+[[v41-15-27]]
+
+^<<v41-15-27,27>>^ Além disso, penduraram dois ladrões em estacas ao lado dele, um à sua direita e outro à sua esquerda.
+
+[[v41-15-28]]
+
+^<<v41-15-28,28>>^ ^&#42;1^——
+
+[NOTE]
+====
+. Veja Ap. A3.
+====
+
+[[v41-15-29]]
+
+^<<v41-15-29,29>>^ E os que passavam o insultavam, balançando a cabeça e dizendo: “Ah! você que ia derrubar o templo e construí-lo em três dias,
+
+[[v41-15-30]]
+
+^<<v41-15-30,30>>^ salve a si mesmo, descendo da estaca.”^&#42;1^
+
+[NOTE]
+====
+. Ou: “estaca de tortura”. Veja o Glossário.
+====
+
+[[v41-15-31]]
+
+^<<v41-15-31,31>>^ Do mesmo modo, também os principais sacerdotes junto com os escribas zombavam dele entre si, dizendo: “A outros ele salvou; a si mesmo não pode salvar!
+
+[[v41-15-32]]
+
+^<<v41-15-32,32>>^ Que o Cristo, o Rei de Israel, desça agora da estaca,^&#42;1^ para que vejamos e possamos crer.” Até os que estavam em estacas ao lado dele o insultavam.
+
+[NOTE]
+====
+. Ou: “estaca de tortura”. Veja o Glossário.
+====
+
+[[v41-15-33]]
+
+^<<v41-15-33,33>>^ Quando chegou a sexta hora,^&#42;1^ caiu uma escuridão sobre toda aquela terra, até a nona hora.^&#42;2^
+
+[NOTE]
+====
+. Isto é, por volta do meio-dia.
+. Isto é, por volta das 3 h da tarde.
+====
+
+[[v41-15-34]]
+
+^<<v41-15-34,34>>^ E à nona hora, Jesus clamou em alta voz: “Eli, Eli, lama sabactâni?”, que traduzido significa: “Deus meu, Deus meu, por que me abandonaste?”
+
+[[v41-15-35]]
+
+^<<v41-15-35,35>>^ E, ouvindo isso, alguns dos que estavam por perto disseram: “Vejam! Ele está chamando Elias.”
+
+[[v41-15-36]]
+
+^<<v41-15-36,36>>^ Então alguém correu, ensopou uma esponja em vinho acre, colocou-a numa cana e deu a ele para beber, dizendo: “Deixem-no! Vamos ver se Elias vem tirá-lo dali.”
+
+[[v41-15-37]]
+
+^<<v41-15-37,37>>^ Mas Jesus deu um alto grito e morreu.^&#42;1^
+
+[NOTE]
+====
+. Ou: “e expirou; e deu seu último suspiro”.
+====
+
+[[v41-15-38]]
+
+^<<v41-15-38,38>>^ E a cortina do santuário se rasgou em duas, de alto a baixo.
+
+[[v41-15-39]]
+
+^<<v41-15-39,39>>^ Então, quando o oficial do exército que estava ali diante dele viu que ele tinha morrido nessas circunstâncias, disse: “Certamente este homem era o Filho de Deus.”
+
+[[v41-15-40]]
+
+^<<v41-15-40,40>>^ Havia também mulheres observando de certa distância; entre elas estavam Maria Madalena, Maria, mãe de Tiago, o Menor, e de Josés, e Salomé.
+
+[[v41-15-41]]
+
+^<<v41-15-41,41>>^ Essas mulheres o acompanhavam e serviam quando ele estava na Galileia. Também estavam ali muitas outras mulheres que tinham ido com ele a Jerusalém.
+
+[[v41-15-42]]
+
+^<<v41-15-42,42>>^ Então, visto que a tarde já estava avançada e era o dia da Preparação, isto é, o dia antes do sábado,
+
+[[v41-15-43]]
+
+^<<v41-15-43,43>>^ chegou José de Arimateia, membro bem-conceituado do Conselho, que também aguardava o Reino de Deus. Ele tomou coragem, compareceu perante Pilatos e pediu o corpo de Jesus.
+
+[[v41-15-44]]
+
+^<<v41-15-44,44>>^ Mas Pilatos quis saber se ele já estava morto e, convocando o oficial do exército, lhe perguntou se Jesus já tinha morrido.
+
+[[v41-15-45]]
+
+^<<v41-15-45,45>>^ Assim, depois de se certificar por meio do oficial do exército, concedeu o corpo a José.
+
+[[v41-15-46]]
+
+^<<v41-15-46,46>>^ José comprou linho fino e tirou o corpo da estaca; depois o enrolou no linho fino e o colocou num túmulo^&#42;1^ que tinha sido aberto na rocha. Então rolou uma pedra até a entrada do túmulo.
+
+[NOTE]
+====
+. Ou: “túmulo memorial”.
+====
+
+[[v41-15-47]]
+
+^<<v41-15-47,47>>^ Mas Maria Madalena e Maria, a mãe de Josés, ficaram olhando para onde ele tinha sido colocado.
+
+'''
+
+xref:041-marcos/041-marcos-014.adoc#v41-14-0[&#60; Capítulo Anterior] | <<v41-15-0,Topo>> | xref:041-marcos/041-marcos-016.adoc#v41-16-0[Próximo Capítulo &#62;]

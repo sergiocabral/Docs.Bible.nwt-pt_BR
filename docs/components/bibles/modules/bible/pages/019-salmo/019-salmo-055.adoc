@@ -1,0 +1,179 @@
+include::./index.adoc[]
+
+[[v19-55-0]]
+=== Salmos, 55
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Ao regente; para ser acompanhado com instrumentos de cordas. Masquil.^&#42;1^ De Davi._
+
+[[v19-55-1]]
+
+^<<v19-55-1,1>>^ Ouve a minha oração, ó Deus,
+E não ignores o meu pedido de misericórdia.^&#42;1^
+
+[NOTE]
+====
+. Ou: “E não te escondas quando oro por ajuda”.
+====
+
+[[v19-55-2]]
+
+^<<v19-55-2,2>>^ Presta atenção em mim e responde-me.
+Minha preocupação me deixa inquieto,
+E estou desnorteado
+
+[[v19-55-3]]
+
+^<<v19-55-3,3>>^ Por causa do que o inimigo está dizendo
+E da pressão dos maus.
+Pois amontoam desgraças sobre mim,
+E, irados, eles guardam rancor de mim.
+
+[[v19-55-4]]
+
+^<<v19-55-4,4>>^ Meu coração está angustiado dentro de mim,
+E os horrores da morte me dominam.
+
+[[v19-55-5]]
+
+^<<v19-55-5,5>>^ O medo e o tremor me sobrevêm,
+E um calafrio se apodera de mim.
+
+[[v19-55-6]]
+
+^<<v19-55-6,6>>^ Eu digo: “Quem me dera ter asas como a pomba!
+Eu sairia voando e moraria num lugar seguro.
+
+[[v19-55-7]]
+
+^<<v19-55-7,7>>^ Fugiria para bem longe,
+Pousaria no deserto. (Selá)
+
+[[v19-55-8]]
+
+^<<v19-55-8,8>>^ Iria depressa para um abrigo,
+Longe da fúria do vento, longe da tempestade.”
+
+[[v19-55-9]]
+
+^<<v19-55-9,9>>^ Confunde-os, ó Jeová, e frustra os planos deles,^&#42;1^
+Pois vi violência e conflito na cidade.
+
+[NOTE]
+====
+. Lit.: “divide a língua deles”.
+====
+
+[[v19-55-10]]
+
+^<<v19-55-10,10>>^ Dia e noite eles rondam por cima das suas muralhas;
+Dentro dela há maldade e desgraça.
+
+[[v19-55-11]]
+
+^<<v19-55-11,11>>^ No meio dela há ruína;
+A opressão e a mentira nunca se afastam da sua praça.
+
+[[v19-55-12]]
+
+^<<v19-55-12,12>>^ Quem me insulta não é um inimigo;
+Se fosse, eu poderia suportar.
+Quem se levanta contra mim não é um adversário;
+Se fosse, eu poderia me esconder dele.
+
+[[v19-55-13]]
+
+^<<v19-55-13,13>>^ Mas é você, um homem como eu,^&#42;1^
+Meu companheiro, que eu conheço bem.
+
+[NOTE]
+====
+. Ou: “um homem, meu igual”.
+====
+
+[[v19-55-14]]
+
+^<<v19-55-14,14>>^ Uma calorosa amizade nos unia,
+Andávamos junto com a multidão até a casa de Deus.
+
+[[v19-55-15]]
+
+^<<v19-55-15,15>>^ Que a destruição os alcance!
+Que desçam vivos à Sepultura,^&#42;1^
+Pois o mal reside entre eles e dentro deles.
+
+[NOTE]
+====
+. Ou: “ao Seol”, isto é, a sepultura comum da humanidade. Veja o Glossário.
+====
+
+[[v19-55-16]]
+
+^<<v19-55-16,16>>^ Quanto a mim, clamarei a Deus;
+E Jeová me salvará.
+
+[[v19-55-17]]
+
+^<<v19-55-17,17>>^ Ao anoitecer e ao amanhecer, bem como ao meio-dia, estou perturbado e suspiro,^&#42;1^
+E ele ouve a minha voz.
+
+[NOTE]
+====
+. Ou: “e estou turbulento”.
+====
+
+[[v19-55-18]]
+
+^<<v19-55-18,18>>^ Ele me dará^&#42;1^ paz, livrando-me^&#42;2^ dos que lutam contra mim,
+Pois multidões vêm contra mim.
+
+[NOTE]
+====
+. Ou: “dará à minha alma”.
+. Ou: “resgatando-me”.
+====
+
+[[v19-55-19]]
+
+^<<v19-55-19,19>>^ Deus ouvirá e agirá contra eles,
+Aquele que está sentado no seu trono desde a antiguidade. (Selá)
+Eles se recusarão a mudar,
+Aqueles que não temem a Deus.
+
+[[v19-55-20]]
+
+^<<v19-55-20,20>>^ Ele^&#42;1^ atacou os que estavam em paz com ele,
+Violou o pacto que havia feito.
+
+[NOTE]
+====
+. Isto é, o antigo amigo, mencionado nos vv. 13 e 14.
+====
+
+[[v19-55-21]]
+
+^<<v19-55-21,21>>^ As palavras dele são mais macias do que a manteiga,
+Mas no seu coração há hostilidade.
+As palavras dele são mais suaves do que o azeite,
+Mas são espadas desembainhadas.
+
+[[v19-55-22]]
+
+^<<v19-55-22,22>>^ Lance seu fardo sobre Jeová,
+E ele amparará você.
+Nunca permitirá que o justo venha a cair.^&#42;1^
+
+[NOTE]
+====
+. Ou: “cambaleie”.
+====
+
+[[v19-55-23]]
+
+^<<v19-55-23,23>>^ Mas tu, ó Deus, farás que eles desçam à cova mais profunda;
+Esses homens culpados de sangue e falsos não viverão metade dos seus dias.
+Eu, porém, confiarei em ti.
+
+'''
+
+xref:019-salmo/019-salmo-054.adoc#v19-54-0[&#60; Capítulo Anterior] | <<v19-55-0,Topo>> | xref:019-salmo/019-salmo-056.adoc#v19-56-0[Próximo Capítulo &#62;]

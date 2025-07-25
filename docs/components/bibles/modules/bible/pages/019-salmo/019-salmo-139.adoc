@@ -1,0 +1,181 @@
+include::./index.adoc[]
+
+[[v19-139-0]]
+=== Salmos, 139
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Para o regente. De Davi. Salmo._
+
+[[v19-139-1]]
+
+^<<v19-139-1,1>>^ Ó Jeová, tu me examinas e me conheces.
+
+[[v19-139-2]]
+
+^<<v19-139-2,2>>^ Tu sabes quando me sento e quando me levanto.
+De longe discernes os meus pensamentos.
+
+[[v19-139-3]]
+
+^<<v19-139-3,3>>^ Tu me observas^&#42;1^ quando eu ando e quando me deito;
+Conheces bem todos os meus caminhos.
+
+[NOTE]
+====
+. Lit.: “medes”.
+====
+
+[[v19-139-4]]
+
+^<<v19-139-4,4>>^ Antes mesmo de haver uma palavra na minha língua,
+Tu, ó Jeová, já a conheces bem.
+
+[[v19-139-5]]
+
+^<<v19-139-5,5>>^ Tu estás em volta de mim, atrás e à frente;
+E pões a tua mão sobre mim.
+
+[[v19-139-6]]
+
+^<<v19-139-6,6>>^ Tal conhecimento está além da minha compreensão.^&#42;1^
+É tão elevado que não posso alcançá-lo.^&#42;2^
+
+[NOTE]
+====
+. Ou: “é maravilhoso demais para mim”.
+. Ou: “É insondável para mim”.
+====
+
+[[v19-139-7]]
+
+^<<v19-139-7,7>>^ Para onde eu iria, para escapar do teu espírito,
+E para onde eu fugiria da tua face?
+
+[[v19-139-8]]
+
+^<<v19-139-8,8>>^ Se eu subisse ao céu, lá estarias tu;
+E, se eu me deitasse na Sepultura,^&#42;1^ até mesmo lá estarias tu!
+
+[NOTE]
+====
+. Ou: “no Seol”, isto é, a sepultura comum da humanidade. Veja o Glossário.
+====
+
+[[v19-139-9]]
+
+^<<v19-139-9,9>>^ Se eu voasse nas asas da aurora
+Para residir junto ao mar mais distante,
+
+[[v19-139-10]]
+
+^<<v19-139-10,10>>^ Até mesmo ali a tua mão me guiaria,
+E a tua mão direita me seguraria.
+
+[[v19-139-11]]
+
+^<<v19-139-11,11>>^ Se eu dissesse: “Certamente a escuridão me esconderá!”
+Então a noite ao meu redor se tornaria luz.
+
+[[v19-139-12]]
+
+^<<v19-139-12,12>>^ Nem a escuridão seria escura demais para ti,
+E a noite seria tão clara como o dia.
+Para ti, escuridão é o mesmo que luz.
+
+[[v19-139-13]]
+
+^<<v19-139-13,13>>^ Pois tu produziste os meus rins;
+Mantiveste-me abrigado^&#42;1^ no ventre da minha mãe.
+
+[NOTE]
+====
+. Ou, possivelmente: “Teceste-me”.
+====
+
+[[v19-139-14]]
+
+^<<v19-139-14,14>>^ Eu te louvo porque fui feito maravilhosamente, de um modo espantoso.
+Tuas obras são maravilhosas,
+Eu sei^&#42;1^ disso muito bem.
+
+[NOTE]
+====
+. Ou: “Minha alma sabe”.
+====
+
+[[v19-139-15]]
+
+^<<v19-139-15,15>>^ Meus ossos não estavam escondidos de ti
+Quando fui formado em secreto,
+Quando fui tecido nas profundezas da terra.
+
+[[v19-139-16]]
+
+^<<v19-139-16,16>>^ Teus olhos até mesmo me viram quando eu era um embrião;
+Todas as partes dele estavam escritas no teu livro
+Com respeito aos dias em que foram formadas,
+Antes de existir qualquer uma delas.
+
+[[v19-139-17]]
+
+^<<v19-139-17,17>>^ Por isso, como os teus pensamentos são preciosos para mim!
+Ó Deus, como é grande a soma deles!
+
+[[v19-139-18]]
+
+^<<v19-139-18,18>>^ Se eu tentasse contá-los, seriam mais numerosos do que os grãos de areia.
+Quando acordo, ainda estou contigo.^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “ainda os estaria contando”.
+====
+
+[[v19-139-19]]
+
+^<<v19-139-19,19>>^ Ó Deus, se apenas matasses os maus!
+Então se afastariam de mim os homens violentos,^&#42;1^
+
+[NOTE]
+====
+. Ou: “culpados de sangue”.
+====
+
+[[v19-139-20]]
+
+^<<v19-139-20,20>>^ Aqueles que, com más intenções,^&#42;1^ dizem coisas contra ti;
+São teus adversários, que usam teu nome em vão.
+
+[NOTE]
+====
+. Ou: “de acordo com as suas próprias ideias”.
+====
+
+[[v19-139-21]]
+
+^<<v19-139-21,21>>^ Por acaso não odeio os que te odeiam, ó Jeová,
+E não tenho repugnância dos que se revoltam contra ti?
+
+[[v19-139-22]]
+
+^<<v19-139-22,22>>^ Tudo que sinto por eles é ódio;
+Tornaram-se para mim verdadeiros inimigos.
+
+[[v19-139-23]]
+
+^<<v19-139-23,23>>^ Examina-me, ó Deus, e conhece o meu coração.
+Sonda-me e conhece as minhas ansiedades.^&#42;1^
+
+[NOTE]
+====
+. Ou: “os meus pensamentos inquietantes”.
+====
+
+[[v19-139-24]]
+
+^<<v19-139-24,24>>^ Vê se há em mim alguma tendência prejudicial,
+E guia-me no caminho da eternidade.
+
+'''
+
+xref:019-salmo/019-salmo-138.adoc#v19-138-0[&#60; Capítulo Anterior] | <<v19-139-0,Topo>> | xref:019-salmo/019-salmo-140.adoc#v19-140-0[Próximo Capítulo &#62;]

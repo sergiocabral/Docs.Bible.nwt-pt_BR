@@ -1,0 +1,41 @@
+include::./index.adoc[]
+
+[[v19-127-0]]
+=== Salmos, 127
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Cântico das Subidas. De Salomão._
+
+[[v19-127-1]]
+
+^<<v19-127-1,1>>^ A menos que Jeová construa a casa,
+É em vão que os construtores trabalhem arduamente nela.
+A menos que Jeová guarde a cidade,
+É em vão que o guarda se mantenha alerta.
+
+[[v19-127-2]]
+
+^<<v19-127-2,2>>^ É em vão que vocês se levantem cedo,
+Que se deitem tarde,
+Que trabalhem duro para conseguir alimento,
+Pois Ele faz provisões para os seus amados e também lhes dá repouso.
+
+[[v19-127-3]]
+
+^<<v19-127-3,3>>^ Vejam! Os filhos são uma herança de Jeová;
+O fruto do ventre é uma recompensa.
+
+[[v19-127-4]]
+
+^<<v19-127-4,4>>^ Como flechas na mão de um guerreiro,
+Assim são os filhos de um homem jovem.
+
+[[v19-127-5]]
+
+^<<v19-127-5,5>>^ Feliz o homem que enche deles a sua aljava.
+Não serão envergonhados,
+Pois eles falarão com os inimigos no portão da cidade.
+
+'''
+
+xref:019-salmo/019-salmo-126.adoc#v19-126-0[&#60; Capítulo Anterior] | <<v19-127-0,Topo>> | xref:019-salmo/019-salmo-128.adoc#v19-128-0[Próximo Capítulo &#62;]

@@ -1,0 +1,126 @@
+include::./index.adoc[]
+
+[[v21-3-0]]
+=== Eclesiastes, 3
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v21-3-1]]
+
+^<<v21-3-1,1>>^ Para tudo há um tempo determinado;
+Há um tempo para toda atividade debaixo dos céus:
+
+[[v21-3-2]]
+
+^<<v21-3-2,2>>^ Tempo para nascer e tempo para morrer;
+Tempo para plantar e tempo para arrancar o que se plantou;
+
+[[v21-3-3]]
+
+^<<v21-3-3,3>>^ Tempo para matar e tempo para curar;
+Tempo para derrubar e tempo para construir;
+
+[[v21-3-4]]
+
+^<<v21-3-4,4>>^ Tempo para chorar e tempo para rir;
+Tempo para lamentar e tempo para dançar;^&#42;1^
+
+[NOTE]
+====
+. Lit.: “pular; saltitar”.
+====
+
+[[v21-3-5]]
+
+^<<v21-3-5,5>>^ Tempo para jogar fora pedras e tempo para ajuntar pedras;
+Tempo para abraçar e tempo para evitar os abraços;
+
+[[v21-3-6]]
+
+^<<v21-3-6,6>>^ Tempo para procurar e tempo para dar por perdido;
+Tempo para guardar e tempo para jogar fora;
+
+[[v21-3-7]]
+
+^<<v21-3-7,7>>^ Tempo para rasgar e tempo para costurar;
+Tempo para ficar calado e tempo para falar;
+
+[[v21-3-8]]
+
+^<<v21-3-8,8>>^ Tempo para amar e tempo para odiar;
+Tempo para guerra e tempo para paz.
+
+[[v21-3-9]]
+
+^<<v21-3-9,9>>^ O que é que um trabalhador ganha com todo o seu esforço?
+
+[[v21-3-10]]
+
+^<<v21-3-10,10>>^ Vi a ocupação que Deus deu aos filhos dos homens para mantê-los ocupados.
+
+[[v21-3-11]]
+
+^<<v21-3-11,11>>^ Ele fez tudo belo^&#42;1^ a seu tempo. Pôs até mesmo eternidade no coração deles; no entanto, a humanidade nunca compreenderá plenamente^&#42;2^ o trabalho do verdadeiro Deus.
+
+[NOTE]
+====
+. Ou: “bem-ordenado; próprio; apropriado”.
+. Lit.: “do começo ao fim”.
+====
+
+[[v21-3-12]]
+
+^<<v21-3-12,12>>^ Concluí que, para eles, não há nada melhor do que se alegrar e fazer o bem durante a sua vida,
+
+[[v21-3-13]]
+
+^<<v21-3-13,13>>^ e também que todos comam e bebam, e desfrutem dos resultados de todo o seu trabalho árduo. É a dádiva de Deus.
+
+[[v21-3-14]]
+
+^<<v21-3-14,14>>^ Entendi que tudo o que o verdadeiro Deus faz durará para sempre. Não há nada que possa ser acrescentado e não há nada que possa ser tirado. O verdadeiro Deus fez as coisas desse modo, para que as pessoas o temessem.
+
+[[v21-3-15]]
+
+^<<v21-3-15,15>>^ O que acontece, já aconteceu; e o que existirá, já existiu. Mas o verdadeiro Deus procura aquilo que se busca.^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “aquilo que desapareceu”.
+====
+
+[[v21-3-16]]
+
+^<<v21-3-16,16>>^ Também vi o seguinte debaixo do sol: no lugar da justiça havia maldade, e no lugar da retidão havia maldade.
+
+[[v21-3-17]]
+
+^<<v21-3-17,17>>^ Então eu disse no meu coração: “O verdadeiro Deus julgará tanto o justo como o mau, pois há um tempo para toda atividade e para toda ação.”
+
+[[v21-3-18]]
+
+^<<v21-3-18,18>>^ Eu também disse no meu coração que o verdadeiro Deus porá à prova os filhos dos homens e lhes mostrará que são como os animais,
+
+[[v21-3-19]]
+
+^<<v21-3-19,19>>^ pois o que acontece com os humanos também acontece com os animais: todos têm o mesmo fim. Como morre um, assim morre o outro; e todos eles têm o mesmo espírito. De modo que o homem não tem nenhuma superioridade sobre os animais; tudo é vão.
+
+[[v21-3-20]]
+
+^<<v21-3-20,20>>^ Todos irão para o mesmo lugar. Todos eles vieram do pó e todos eles retornam ao pó.
+
+[[v21-3-21]]
+
+^<<v21-3-21,21>>^ Quem é que realmente sabe se o espírito dos humanos vai para cima ou se o espírito do animal desce para a terra?
+
+[[v21-3-22]]
+
+^<<v21-3-22,22>>^ E eu vi que não há nada melhor para o homem do que desfrutar do seu trabalho, porque essa é a sua recompensa;^&#42;1^ pois quem pode fazê-lo ver o que acontecerá depois que ele se for?
+
+[NOTE]
+====
+. Ou: “porção”.
+====
+
+'''
+
+xref:021-eclesiastes/021-eclesiastes-002.adoc#v21-2-0[&#60; Capítulo Anterior] | <<v21-3-0,Topo>> | xref:021-eclesiastes/021-eclesiastes-004.adoc#v21-4-0[Próximo Capítulo &#62;]

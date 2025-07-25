@@ -1,0 +1,120 @@
+include::./index.adoc[]
+
+[[v30-1-0]]
+=== Amós, 1
+// nwt 2015, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v30-1-1]]
+
+^<<v30-1-1,1>>^ Palavras a respeito de Israel que Amós,^&#42;1^ que era um dos criadores de ovelhas de Tecoa, recebeu em visão nos dias de Uzias, rei de Judá, e nos dias de Jeroboão, filho de Joás e rei de Israel, dois anos antes do terremoto.
+
+[NOTE]
+====
+. Que significa “ser uma carga” ou “levar uma carga”.
+====
+
+[[v30-1-2]]
+
+^<<v30-1-2,2>>^ Ele disse:
+“Jeová rugirá de Sião,
+E de Jerusalém levantará a sua voz.
+Os campos dos pastores ficarão de luto,
+E o cume do Carmelo secará.”
+
+[[v30-1-3]]
+
+^<<v30-1-3,3>>^ “Assim diz Jeová:
+‘“Por causa de três atos rebeldes^&#42;1^ de Damasco, e por causa de quatro, não voltarei atrás,
+Porque esmagaram Gileade com trenós de ferro usados para debulha.
+
+[NOTE]
+====
+. Ou: “crimes”.
+====
+
+[[v30-1-4]]
+
+^<<v30-1-4,4>>^ Portanto, enviarei fogo sobre a casa de Hazael,
+E o fogo consumirá as torres fortificadas de Ben-Hadade.
+
+[[v30-1-5]]
+
+^<<v30-1-5,5>>^ Quebrarei as trancas dos portões de Damasco;
+Destruirei os habitantes de Bicate-Áven
+E aquele que governa^&#42;1^ em Bete-Éden;
+E o povo da Síria irá exilado para Quir”, diz Jeová.’
+
+[NOTE]
+====
+. Lit.: “que segura o cetro”.
+====
+
+[[v30-1-6]]
+
+^<<v30-1-6,6>>^ Assim diz Jeová:
+‘“Por causa de três atos rebeldes de Gaza, e por causa de quatro, não voltarei atrás,
+Porque levaram um grupo inteiro de exilados para entregá-los a Edom.
+
+[[v30-1-7]]
+
+^<<v30-1-7,7>>^ Portanto, enviarei fogo sobre a muralha de Gaza,
+E o fogo consumirá as suas torres fortificadas.
+
+[[v30-1-8]]
+
+^<<v30-1-8,8>>^ Destruirei os habitantes de Asdode
+E aquele que governa^&#42;1^ em Ascalom;
+Voltarei a minha mão contra Ecrom,
+E os filisteus que restarem morrerão”, diz o Soberano Senhor Jeová.’
+
+[NOTE]
+====
+. Lit.: “que segura o cetro”.
+====
+
+[[v30-1-9]]
+
+^<<v30-1-9,9>>^ Assim diz Jeová:
+‘Por causa de três atos rebeldes de Tiro, e por causa de quatro, não voltarei atrás,
+Porque entregaram a Edom um grupo inteiro de exilados
+E porque não se lembraram do pacto de irmãos.
+
+[[v30-1-10]]
+
+^<<v30-1-10,10>>^ Portanto, enviarei fogo sobre a muralha de Tiro,
+E o fogo consumirá as suas torres fortificadas.’
+
+[[v30-1-11]]
+
+^<<v30-1-11,11>>^ Assim diz Jeová:
+‘Por causa de três atos rebeldes de Edom, e por causa de quatro, não voltarei atrás,
+Porque ele perseguiu seu próprio irmão com a espada
+E se recusou a mostrar misericórdia;
+Na sua ira, continua a dilacerá-los de modo implacável,
+E permanece furioso com eles, para sempre.
+
+[[v30-1-12]]
+
+^<<v30-1-12,12>>^ Portanto, enviarei fogo sobre Temã,
+E o fogo consumirá as torres fortificadas de Bozra.’
+
+[[v30-1-13]]
+
+^<<v30-1-13,13>>^ Assim diz Jeová:
+‘“Por causa de três atos rebeldes dos amonitas, e por causa de quatro, não voltarei atrás,
+Porque rasgaram o ventre das mulheres grávidas de Gileade para ampliar seu próprio território.
+
+[[v30-1-14]]
+
+^<<v30-1-14,14>>^ Portanto, porei fogo na muralha de Rabá,
+E o fogo consumirá as suas torres fortificadas,
+Com um grito de guerra no dia da batalha,
+Com uma tempestade no dia do vendaval.
+
+[[v30-1-15]]
+
+^<<v30-1-15,15>>^ E seu rei será exilado, junto com seus príncipes”, diz Jeová.’
+
+'''
+
+xref:029-joel/029-joel-003.adoc#v29-3-0[&#60; Capítulo Anterior] | <<v30-1-0,Topo>> | xref:030-amos/030-amos-002.adoc#v30-2-0[Próximo Capítulo &#62;]
