@@ -1,6 +1,6 @@
-# 📖 Traduções da Bíblia
+# 📖 Tradução da Bíblia: Tradução do Novo Mundo da Bíblia Sagrada (nwt, pt_BR, 2015)
 
-Este repositório pode ser acessado online no endereço: https://www.raciocinios.com.br/
+Este repositório pode ser acessado online no endereço: https://nwt-pt-br.bible.raciocinios.com.br/
 
 ---
 
