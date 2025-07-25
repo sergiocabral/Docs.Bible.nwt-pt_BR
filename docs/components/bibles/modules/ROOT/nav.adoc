@@ -1,1 +1,2 @@
 * xref:bible:001-genesis/001-genesis-001.adoc[]
+xinclude::https://bible.raciocinios.com.br/nav-bible.adoc[]
